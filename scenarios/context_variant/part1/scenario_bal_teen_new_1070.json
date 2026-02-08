@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1070",
+  "variant_type": "balance_teen_filtered",
+  "title": "K-12 AI Literacy Instructional Design Expert Training Program for Elementary Education",
+  "context": {
+    "prior_knowledge": "Foundational educational theory, understanding of constructivist approaches, and elementary education environment experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Strengthening competency in designing AI literacy education linked to mathematics curriculum, implementing collaborative learning in BYOD environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "They can design an AI literacy education framework suitable for the elementary education level (conceptual understanding, ethical problem-solving, data analysis).",
+    "Learners can design three AI education scenarios (e.g., chatbot development, image classification model design, recommendation system implementation) using constructivist and project-based learning strategies, achieving a total suitability score of over 80% through peer evaluation (approval by at least two out of three peers) and expert review (4+ on a 5-point scale).",
+    "Learners can generate formative assessment questions with over 80% accuracy using AI tools (intelligent agents) in mathematical problem-solving processes and establish a system to provide feedback to at least three peer learners within four months."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Tools (Miro, Padlet)",
+      "AI Education Platform (e.g., Machine Learning for Kids)",
+      "Open-Source Educational Resource Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1393",
+  "variant_type": "idld_aligned",
+  "title": "Climate Change Education Design Through Understanding Climate Systems",
+  "context": {
+    "prior_knowledge": "Basic science and mathematics concepts (graph interpretation, data analysis, elementary environmental knowledge)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Emphasis on analyzing climate systems through mathematical modeling with data visualization tools accessible via personal devices",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can graphically explain interactions between components of the climate system (atmosphere, ocean, biosphere, etc.).",
+    "Learners can interpret climate change data using mathematical tools (regression analysis, trend lines).",
+    "Learners can simulate the impact of human activities on the climate system using feedback loop models."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Climate dataset",
+      "Data Visualization Software",
+      "Climate system interaction infographic"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

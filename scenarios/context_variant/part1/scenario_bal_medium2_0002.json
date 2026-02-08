@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM2-0002",
+  "variant_type": "balance_medium_final",
+  "title": "Immersive Virtual Reality Science Inquiry Education Design",
+  "context": {
+    "prior_knowledge": "Elementary science concept comprehension and basic digital device operation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "VR-based science experiment simulations and project execution using personal devices.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will be able to explain the scientific properties of substances by manipulating molecular structures and simulating chemical reactions in a VR environment.",
+    "Learners will be able to structure scientific reasoning processes into three or more stages by analyzing virtual experiment data.",
+    "Learners will be able to complete a complex science problem-solving project by dividing roles with peers in a collaborative VR platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset Rental System",
+      "Interactive Science Simulation Software",
+      "Biometric Response Measurement Sensor Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-1032",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Cognitive Load Management in Remote Language Learning Environments: Application of the ADIDAS Model",
+  "context": {
+    "prior_knowledge": "Basic language learning experience (word/sentence level)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Need for personalized learning pace adjustment in a non-real-time LMS environment. Compatibility with diverse devices in a BYOD (Bring Your Own Device) setting must be considered.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply three cognitive load management strategies in asynchronous remote learning after four weeks.",
+    "Learners can design a language learning module following the six-stage process of the ADIDAS model.",
+    "Learners can reduce unnecessary cognitive load by at least 30% during LMS-based learning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "ADIDAS Model Guide (PDF)",
+      "Cognitive Load Measurement Checklist",
+      "Mobile-Optimized Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

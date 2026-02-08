@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1023",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Self-Regulated Learning (SRL) Development for Adult Learners: Short-Intensive Online Course Based on Peer Feedback",
+  "context": {
+    "prior_knowledge": "Basic Digital Device Literacy (Smartphone Utilization)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Course combining VR simulations and mobile-based feedback tools to strengthen self-regulated learning. Designed for learners to develop metacognition and evaluation skills via peer assessment in community problem-solving scenarios.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Within one week, learners can apply self-regulated learning strategies (goal setting, monitoring, self-adjustment) in a VR simulation environment to complete community problem-solving tasks at an 80% or higher rate",
+    "Learners can generate and receive qualitative feedback three or more times according to peer feedback guidelines",
+    "Learners can self-assess weekly learning progress three or more times via a mobile platform and establish improvement plans"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Mobile-Optimized LMS Platform",
+      "Peer feedback template",
+      "Step-by-Step VR Scenario Videos"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

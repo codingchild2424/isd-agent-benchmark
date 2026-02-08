@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5084-V",
+  "variant_type": "context_variant",
+  "title": "Seminar Design for Improving Language Expression and Reading Comprehension Skills Using Online Knowledge Communities (OKC)",
+  "context": {
+    "prior_knowledge": "Foundational grammar/vocabulary comprehension and intermediate-level reading/writing application skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A language education seminar in smartphone-centric limited-technology environments, applying blended learning (formal seminars: grammar/writing lectures / informal OKCs: discussions/feedback) and Social Learning Analytics (SLA). Focuses on improving learners’ expressive and reading comprehension skills.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners effectively search for and utilize language learning materials (texts, vocabulary, grammar examples) in an online knowledge community (OKC).",
+    "Learners analyze interaction patterns (reading/writing feedback, expression methods) within an OKC using social learning analytics (SLA) tools and develop personalized learning strategies.",
+    "Learners comprehensively enhance language proficiency (expression and reading comprehension) by linking formal seminars (grammar/writing lectures) with informal OKC activities (discussions/feedback) in blended learning environments."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible OKC Platform (Naver Cafe, Discord, etc.)",
+      "SLA-Based Interaction Analysis Dashboard",
+      "VR Simulation Content (Language Use Scenarios)",
+      "Offline Seminar Space and Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

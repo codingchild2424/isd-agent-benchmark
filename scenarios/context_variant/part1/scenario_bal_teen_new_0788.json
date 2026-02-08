@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0788",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Online Certification-integrated Instructional Design for Engineering Education",
+  "context": {
+    "prior_knowledge": "Engineering foundational knowledge and basic programming competencies",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Implementation of Project-Based Assessment Using Online Certification Courses in a Smartphone-Centric Limited Technology Environment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners demonstrate technical practical competencies by completing at least one MOOC certification course in cloud computing, blockchain, or data analytics",
+    "Submit a project deliverable solving 1 real-world engineering problem at the elementary/middle school level (e.g., bridge structure design, simple machine fabrication) by applying scientific knowledge (e.g., physics laws, experimental design) acquired from an online certification course, and achieve \"excellent\" ratings in ≥3 out of 5 evaluation rubric items (creativity, scientific accuracy, practicality, completeness, collaboration).",
+    "Learners can analyze learning effectiveness of online certification courses through peer assessment and self-reflection"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone and Mobile Internet Access",
+      "MOOC Platform Free/Low-Cost Certification Courses",
+      "Campus Learning Management System (LMS) Basic Features",
+      "Offline Collaboration Tools (Flipchart, Whiteboard)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5446-V",
+  "variant_type": "context_variant",
+  "title": "Chemistry Laboratory Education Methods and Tools: Mobile-Based Hybrid E-Learning Courses",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Blended education program for current chemical industry professionals, conducted in a smartphone-centric environment. Designed with Computer-Assisted Training (CAT) materials combined with synchronous/asynchronous interactions",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners acquire theoretical knowledge of chemical experiment design and safety protocols in mobile environments with over 90% mastery.",
+    "Learners perform three or more virtual experiment scenarios using CAT-based simulation tools.",
+    "It improves experimental report writing skills by 80% through an asynchronous feedback system.",
+    "Learners lead discussions on chemical experiment pedagogy at least twice via real-time online collaboration."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible CAT (Computer-Assisted Translation) Content",
+      "Experimental Video Materials",
+      "Microlearning Modules",
+      "Online Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

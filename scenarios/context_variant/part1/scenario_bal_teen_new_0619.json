@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0619",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Immersive Technology Strategies for Higher Education Language Learning",
+  "context": {
+    "prior_knowledge": "Elementary language comprehension and experience with digital device usage",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Implementation of AR/VR-Based Language Context Simulations in Smartphone-Centric Limited-Technology Environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can recreate and communicate real-life language scenarios with over 80% accuracy using AR/VR tools.",
+    "Learners can complete problem-solving tasks in the target language with over 70% proficiency in immersive learning environments.",
+    "Learners can produce three or more immersive task deliverables with peer learners using digital collaboration tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible AR App (Google Poly, ARKit)",
+      "Zoom Screen Sharing Feature",
+      "Simplified VR Headset (Google Cardboard-Compatible)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

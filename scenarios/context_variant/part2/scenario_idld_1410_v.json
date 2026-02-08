@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1410-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Artificial Intelligence Practical Competencies: Integrated AI and Computational Thinking Capability Development Training Program",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can design data-driven decision-making processes using AI tools in real-world business scenarios.",
+    "Learners can apply core computational thinking concepts (decomposition, pattern recognition, abstraction, algorithms) to solve workplace problems.",
+    "Learners can develop practical solutions that integrate AI models and CT processes through team-based projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1115",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] U-Learning-Based Mobile Microlearning Course for Enhancing Fitness English Reading Competency",
+  "context": {
+    "prior_knowledge": "Basic English reading comprehension and understanding of fitness terminology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Context-based learning environment utilizing QR code scanning linked to actual gym equipment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can comprehend fitness-related English texts (e.g., exercise equipment manuals, program guides) with 90% accuracy.",
+    "Learners can utilize real-time fitness English content, delivered via mobile devices and QR code recognition, with over 80% proficiency.",
+    "Learners can independently create English reading materials tailored to real-world exercise scenarios at least once through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "QR code generation/recognition software for smartphones",
+      "Fitness English reading digital content (equipment guides, workout routines, etc.)",
+      "LMS (Learning Management System) integrated platforms"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

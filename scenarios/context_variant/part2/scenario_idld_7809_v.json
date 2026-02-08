@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7809-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Web-Based Collaborative Learning for Enhancing Motivation in Mathematics Problem-Solving",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and ability to solve simple equations",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students participate in web-based projects with 80% or higher engagement through collaborative learning activities.",
+    "Learners creatively solve three or more real-world math problems using motivational strategies from the ARCS model.",
+    "Learner teams record an average satisfaction rating of 4.0/5.0 or higher in post-PBL task surveys."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

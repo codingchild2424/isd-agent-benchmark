@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0029",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Online Learning Environment Management and Relationship-Building Strategies",
+  "context": {
+    "prior_knowledge": "Basic online learning experience and smartphone utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Utilizing smartphones as the primary learning tool, measuring learning outcomes through project-based assessment.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "They can establish strategies to optimize the learning environment by collecting participants’ prior experiences, expectations, and demographic information.",
+    "They can apply teaching methods that strengthen social presence by building trust relationships with learners using online survey tools.",
+    "They can derive learner-tailored feedback and course improvement plans by analyzing collected survey data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Online Survey Tool",
+      "Learner’s Smartphone Guide Document"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

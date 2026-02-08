@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1034",
+  "variant_type": "idld_aligned",
+  "title": "Understanding Reinforcement Learning Frameworks for Patient-Centered Dynamic Treatment Planning: Integrating Medical Ethics and Societal Systems",
+  "context": {
+    "prior_knowledge": "Basic understanding of healthcare systems, data security principles, foundational machine learning (including reinforcement learning), basic knowledge of medical ethics and patient rights, and introductory awareness of social systems (health insurance, public health infrastructure)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Explore reinforcement learning applications considering medical data security in smartphone-based accessible environments. Particularly consider improving healthcare access for low-income/vulnerable populations, strengthening community health equity, and linking to social systems (public healthcare policies, insurance systems) related to medical resource distribution. Include institutional mechanisms for building collaborative relationships among patients, medical staff, and communities.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the principles of a reinforcement learning framework that maintains patient privacy and medical ethics while establishing dynamic treatment plans considering social relationships and institutional contexts.",
+    "Analyze security requirements for medical decision models using encrypted health data and patient rights protection measures, and propose strategies to enhance health equity and healthcare accessibility.",
+    "Within one week, learners can design a prototype of a patient-centered treatment plan simulation tool using limited technological resources (e.g., smartphones, basic tablets) set in a public healthcare environment. The prototype must reflect healthcare accessibility, health equity, social relationships (family/community support systems), and practical solutions considering institutional limits of medical resource distribution, achieving over 70% completeness based on peer and instructor evaluation criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Module",
+      "Encrypted Data Processing Simulation Tool",
+      "Reinforcement Learning Visualization Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

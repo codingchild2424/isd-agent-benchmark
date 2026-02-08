@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3219-V",
+  "variant_type": "context_variant",
+  "title": "Science Competency Assessment and Pedagogical Improvement Through Maker-Based Project Learning",
+  "context": {
+    "prior_knowledge": "Basic scientific theories and experimental design methodologies",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducting science projects to solve real-life problems through team-based maker activities in a limited technological environment (smartphone-centric)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can systematically design and execute scientific problem-solving processes through maker activities.",
+    "Students can derive improvements for the maker project process through peer and self-assessment.",
+    "Students can create creative outputs applying scientific principles using smartphones and everyday materials in limited technological environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Low-Cost Materials (Paper, Tape, etc.)",
+      "Online Collaboration Tools",
+      "Science Principles Explanation Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

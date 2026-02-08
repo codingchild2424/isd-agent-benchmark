@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0793",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Constructivist-Based E-Learning Interaction Design: Language Learning Simulation",
+  "context": {
+    "prior_knowledge": "Basic language learning experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhanced language interaction learning in limited-technology environments using smartphones",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform language interactions reflecting cultural contexts with over 80% accuracy in VR simulation environments",
+    "Through problem-solving activities based on constructivist principles (e.g., role-play, scenario analysis), learners can construct context-specific meanings of ten or more linguistic expressions and achieve 80%+ appropriateness in peer evaluations and instructor feedback",
+    "Learners share language usage contexts three or more times and provide feedback through mobile platform-based collaborative activities with peer learners"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible VR Simulation Platform",
+      "Language Interaction Analysis Tool",
+      "Online Collaborative Bulletin Board",
+      "Smartphone-optimized LMS system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

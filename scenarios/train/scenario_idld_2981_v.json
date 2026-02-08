@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2981-V",
+  "variant_type": "context_variant",
+  "title": "Personalized Mathematics Learning Support Strategies Using AI Chatbots",
+  "context": {
+    "prior_knowledge": "Understanding of college-level foundational mathematics concepts (functions, calculus, statistics, etc.)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners interact with an AI chatbot via an online platform to self-directively improve problem-solving skills. The chatbot provides real-time feedback and recommends personalized content based on individual learning pattern analysis",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain 80% or more of their weekly math problem-solving processes through interaction with an AI chatbot.",
+    "Learners identify and create improvement plans for at least three personal weak areas using customized practice problems recommended by a chatbot.",
+    "Learners achieve an average performance improvement of 20% or more by incorporating chatbot feedback in formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "AI Chatbot API",
+      "Mathematics Problem Database",
+      "Learning Analytics Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

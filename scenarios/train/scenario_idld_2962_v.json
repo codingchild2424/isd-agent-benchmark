@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2962-V",
+  "variant_type": "context_variant",
+  "title": "Sustainable Architecture and Computation-Integrated Smart Learning Course",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Accessibility-focused smartphone-based design enabling core concept learning without complex software",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Students can explain the three core principles of sustainable architecture: energy efficiency, resource conservation, and user-centered design.",
+    "Students can perform basic architectural modeling using parametric design tools via mobile apps.",
+    "Students can analyze BIM (Building Information Modeling)-based energy simulation results and propose design improvements."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile Learning App",
+      "Simplified Parametric Tool Demo",
+      "BIM Simulation Visualization Materials",
+      "Offline Activity Handbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

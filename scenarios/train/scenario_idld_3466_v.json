@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3466-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Project-Based Learning for Software Design Capability Enhancement",
+  "context": {
+    "prior_knowledge": "Fundamentals of software engineering and programming experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically plan software design projects using a 4-stage PBL (Problem-Based Learning) framework: problem definition, design, implementation, and reflection.",
+    "Learners can derive solutions to practical problems arising in PBL scenarios by linking them to domain knowledge (science).",
+    "Learners can meet formative assessment criteria by 80% or more through iterative project improvement processes incorporating peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

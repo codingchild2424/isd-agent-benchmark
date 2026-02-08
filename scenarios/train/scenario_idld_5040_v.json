@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5040-V",
+  "variant_type": "context_variant",
+  "title": "Reinforcement Learning-Based Design of Type 1 Diabetes Blood Glucose Management System",
+  "context": {
+    "prior_knowledge": "Diabetes physiology, insulin therapy principles, basic machine learning, and reinforcement learning concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A practice-oriented training program for medical technology professionals, utilizing FDA-approved simulators and BYOD (personal devices) for practical settings",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Acquiring the ability to design reward functions for blood glucose control systems using reinforcement learning algorithms",
+    "Mastering performance evaluation methods for artificial pancreas systems using the UVA/Padova simulator",
+    "Cultivating the ability to apply discount factor optimization techniques for personalized insulin sensitivity"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "UVA/Padova Virtual Patient Simulator",
+      "Reinforcement Learning Implementation Tools (e.g., OpenAI Gym)",
+      "Cloud-Based Computing Resources",
+      "Medical Data Visualization Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

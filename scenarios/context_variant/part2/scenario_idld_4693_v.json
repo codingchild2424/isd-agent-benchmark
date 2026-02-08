@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4693-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening HR Management Practical Competencies: Measuring and Analyzing Attitudes Toward Data Science Education",
+  "context": {
+    "prior_knowledge": "Understanding of basic statistical concepts and general interest in data science",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical competency enhancement program for corporate management/HR/administrative staff",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners evaluate cognitive (knowledge understanding), affective (interest), and behavioral (participation) attitudes (5 items each, total 15) using the DSEAS (Data Science Education Attitude Scale) on a 5-point Likert scale, deriving quantitative results with an average ≥3.5 points.",
+    "Learners identify ≥3 strengths/weaknesses from survey data, analyze it using SPSS/R/Python, and write personalized feedback reports (1 page) for each learner.",
+    "Learners conduct pre- and post-surveys (5-point Likert scale, 10 items) to analyze attitude changes (e.g., ≥0.5-point increase) across educational methods (A/B/C) via t-tests or ANOVA, verifying statistical significance at p < 0.05."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Business Simulation Tool",
+      "HR Management System",
+      "Business Analytics Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Business/HR/Admin Support"
+}

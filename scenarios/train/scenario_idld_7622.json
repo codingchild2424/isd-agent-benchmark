@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7622",
+  "variant_type": "idld_aligned",
+  "title": "Introduction to Cybersecurity Intrusion Detection Systems: Case Analysis of GeoGuard",
+  "context": {
+    "prior_knowledge": "Fundamental knowledge of network concepts and foundational understanding of machine learning",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Optimized content delivery for smartphone-based learning environments, conducted through real-time Q&A and screen-sharing",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles of 1D CNN, BiLSTM, and MHA techniques for network traffic analysis",
+    "Learners can systematically construct the three-stage processing workflow (identification-classification-response) of a location-based intrusion detection system (GeoGuard)",
+    "Learners can simulate methods for handling imbalanced datasets using Focal Loss and weighted class training techniques"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible PPT",
+      "Zoom Screen Sharing Materials",
+      "Simplified Dataset Sample",
+      "Real-Time Quiz Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

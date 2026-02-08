@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-4896-V",
+  "variant_type": "context_variant",
+  "title": "AI-Based Repetitive Learning Program for Advanced Mandarin Pronunciation Improvement",
+  "context": {
+    "prior_knowledge": "Knowledge of basic Chinese grammar and vocabulary at HSK Level 5 or higher",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students primarily learn via smartphones, requiring pronunciation assessment and enhancement of self-directed learning competencies",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Enhance the accuracy of the four tones to over 90% using an AI pronunciation evaluation system",
+    "Improve the naturalness of intonation and rhythm through repeated pronunciation practice (3 times weekly, 20+ minutes per session)",
+    "Learners analyze pronunciation error patterns of ten or more individuals using AI-based speech analysis tools (e.g., Praat, SpeechRater), and based on frequency/severity evaluations by error type, establish personalized re-practice plans (including at least three strategies).",
+    "Learners achieve ≥85% pronunciation accuracy in AI speech synthesis systems during monthly formal presentations (5-minute presentations) and daily conversation scenarios (10-minute dialogues) over six months, and earn an \"excellent\" grade in two out of three rubric criteria (pronunciation clarity, intonation naturalness, appropriate speed)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "AI Speech Recognition Engine",
+      "Pronunciation Assessment Database",
+      "Smartphone Voice Recording Functionality"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

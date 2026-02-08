@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE3-0231",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Analysis of Preservice Teachers' Perceived Usefulness of E-Learning and Strategies to Enhance Language Education Effectiveness",
+  "context": {
+    "prior_knowledge": "Basic e-learning platform usage experience, understanding of secondary education curricula, familiarity with core language education theories (grammar, vocabulary, pronunciation, communication strategies), foundational grasp of basic statistical analysis (SEM) concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical course for current secondary teachers to explore the utility of e-learning tools in language education. Includes case studies on digital tools for improving reading comprehension, expressive skills, and communication. Analyzes applications of cutting-edge technologies: VR simulations, AI pronunciation assessment, interactive grammar platforms.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Using survey tools, identify three or more factors of perceived usefulness in e-learning (accessibility, interactivity, personalized feedback) and analyze their association with language learning effectiveness (grammar accuracy, vocabulary expansion, communicative fluency)",
+    "Learners interpret SEM analysis results (path coefficients, R² values, p-values, etc.) to identify three factors with statistically significant (p < .05) impacts on language learning outcomes (reading comprehension, expression, pronunciation accuracy) among learning environments, lecture delivery methods, tutor characteristics, and support conditions. They then prepare a 10-minute oral presentation comparing the effect sizes (path coefficients) of each factor and achieve 4+ points in four out of five peer evaluation rubric items (content accuracy, analytical depth, clarity of expression, visual effectiveness, time management)",
+    "Propose five or more criteria for evaluating the practical value of e-learning tools in simulation/VR-based educational environments (e.g., grammar practice efficiency, vocabulary acquisition support, pronunciation correction accuracy, cultural context provision, learner engagement) and explain their impact on language proficiency (reading, writing, listening, speaking, cultural understanding)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Survey Questionnaire Template",
+      "Statistical analysis software (AMOS/R)",
+      "VR Simulation Equipment",
+      "Interactive Whiteboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

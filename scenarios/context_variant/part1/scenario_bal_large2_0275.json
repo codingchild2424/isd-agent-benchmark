@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0275",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Large-Scale Intensive Short-Term Course on Identifying Scientific Trend Relationships Using Visual Imagery",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts (sets, relations) and matrices/graphs, along with foundational proficiency in scientific inquiry methods (hypothesis formulation-experimentation-analysis)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "For general citizens with advanced domain expertise in science (e.g., ecology, physics, chemistry), conducted in a BYOD environment, focusing on experimental data analysis and evidence-based conclusion drawing.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can visualize scientific data as graphs and identify trend relationships (e.g., causal, correlational) with ≥85% accuracy.",
+    "Learners can explain the mutual conversion process between matrix and graph representations without errors using scientific experimental data (e.g., temperature-pressure measurements).",
+    "Learners achieve ≥80% problem-solving rates by applying trend relationships to real-life scientific problems (e.g., ecological food chains, chemical reaction pathways)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital whiteboard software",
+      "Online Collaboration Tools (e.g., Padlet)",
+      "Graph visualization tool (e.g., Gephi)",
+      "Pre-built scientific case datasets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5698-V",
+  "variant_type": "context_variant",
+  "title": "Multimodal Instructional Design for Arabic Language Learning: Integrated Image-Audio Strategy",
+  "context": {
+    "prior_knowledge": "Basic Arabic Grammar and Understanding of Everyday Conversations",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based Arabic vocational training in a smartphone-centric limited-technology environment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can achieve over 80% accuracy in listening comprehension of Arabic vocabulary and basic sentences through image-audio integrated learning",
+    "Learners can produce PBL artifacts covering module-specific themes (e.g., business negotiation, cultural introduction) in Arabic with over 70% completion quality",
+    "Learners can improve Arabic pronunciation and listening skills by over 25% compared to baseline assessments using multimedia learning software"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Learning App",
+      "Arabic image-audio database",
+      "Offline-compatible PBL template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Business/HR/Admin Support"
+}

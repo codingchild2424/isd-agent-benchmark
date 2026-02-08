@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-1011",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Expert Course on Surfboard Design and Production for Technology Education",
+  "context": {
+    "prior_knowledge": "Basic mechanical engineering knowledge, understanding of materials science, and foundational CAD (Computer-Aided Design) software proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Mobile device-centric learning environments emphasizing acquisition of practical, field-applicable skills",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply engineering principles required for surfboard design to create personalized design blueprints.",
+    "Learners can simulate the entire surfboard manufacturing process—from material selection to production—under supervisor guidance.",
+    "Learners can achieve over 85% accuracy in technical problem-solving processes using video-based learning content."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible CAD Application",
+      "3D Modeling Video Tutorial",
+      "Real-time video conferencing systems",
+      "Surfboard Manufacturing Process VR Simulation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

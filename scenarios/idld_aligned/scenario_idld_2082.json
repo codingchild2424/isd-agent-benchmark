@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2082",
+  "variant_type": "idld_aligned",
+  "title": "Digital-Based Flexible Nursing Practice Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Proficiency in Basic Nursing Skills and Clinical Practice Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practice-oriented education for in-service nurses, emphasizing personal device utilization and real-time interaction.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply patient safety management protocols with over 90% accuracy using digital platforms",
+    "Learners can execute emergency response procedures in simulation-based scenarios by categorizing them into three or more phases in flexible learning environments",
+    "Learners can conduct peer assessment and feedback using online collaboration tools and develop team-based nursing care plans."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Video conferencing system",
+      "Digital simulation tool",
+      "Online Learning Management System (LMS)",
+      "Mobile learning materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

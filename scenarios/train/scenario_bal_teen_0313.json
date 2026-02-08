@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0313",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Gradual Guidance Reduction Instructional Design for Open-Ended Chemistry Experiments",
+  "context": {
+    "prior_knowledge": "Basic chemistry lab skills and understanding of chemical reaction principles",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducts chemistry experiments in VR simulation environments, cultivating problem-solving skills by virtually replicating real lab equipment malfunctions.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can propose solutions through scientific reasoning when unexpected experimental results occur",
+    "Learners can autonomously develop experimental plans according to a gradual guidance reduction strategy in VR-based laboratory environments",
+    "Learners can lead collaborative problem-solving processes based on responsibility allocation within experimental groups"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Laboratory Equipment",
+      "Chemical Experiment Simulation Software",
+      "Individual Tablet PCs",
+      "Experimental Error Scenario Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

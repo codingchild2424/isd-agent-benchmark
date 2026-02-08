@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-4165-V",
+  "variant_type": "context_variant",
+  "title": "Facial Anatomy and Cosmetic Procedure Skills Education Based on the ADDAPT Model",
+  "context": {
+    "prior_knowledge": "Basic Biology and General Understanding of Human Anatomy",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Corporate training for beauty treatment professionals, featuring hands-on learning environments utilizing digital devices (tablets, 3D anatomical simulation software)",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Using the 6-stage ADDAPT model (Assess/Recognize, Demonstrate, Interpret, Execute/Achieve, Perform, Teach/Verify), learners can explain more than 15 facial muscle structures and functions.",
+    "Applying contextual learning strategies, learners can apply anatomical knowledge and safety protocols required for actual aesthetic treatment scenarios (fillers, Botox) with 90% accuracy.",
+    "Through team-based practical assessments, learners can demonstrate facial symmetry analysis and treatment planning skills with peer evaluation scores of over 85%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Facial Anatomy Model",
+      "AR-Based Procedure Simulation App",
+      "Real-World Procedure Toolkit (Cosmetic Use)",
+      "Participant Task Manual (PDF)",
+      "Stepwise Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

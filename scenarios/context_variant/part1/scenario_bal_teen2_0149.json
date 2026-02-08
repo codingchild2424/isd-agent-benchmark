@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN2-0149",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Teacher Learning Design Competency Strengthening Program Based on Digital Innovation and Neuroscience",
+  "context": {
+    "prior_knowledge": "Foundational instructional design theories and digital tool utilization experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mathematics-focused collaborative learning environment, featuring fully digital-equipped classrooms and online learning platform support.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Teachers design a 1-period middle school math lesson (equations, functions) using AI tools (ChatGPT, GeoGebra) and interactive content (Quizlet, Desmos), then demonstrate a lesson meeting ≥4 of 5 peer-review rubric criteria.",
+    "Develop at least three mathematics teaching strategies applying neuroscience-based learning principles (attention, working memory, executive function, emotional regulation)",
+    "Co-create at least two curriculum improvement proposals through collaborative design processes in professional learning communities (PLCs)",
+    "Learners analyze six months of formative data (quizzes, assignments) to identify ≥3 learner types (visual, auditory, etc.) and implement a simple AI system in Python/Scratch generating customized feedback messages."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital education platform account",
+      "Neuroscience-based instructional guidebook",
+      "Collaborative learning worksheet template",
+      "AI Analysis Tool Sample Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

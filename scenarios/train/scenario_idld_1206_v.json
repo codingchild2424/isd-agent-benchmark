@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1206-V",
+  "variant_type": "context_variant",
+  "title": "STEM Education Promotion Process Using Online Learning Communities",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Goal: Enhancing STEM education effectiveness through collaborative learning environments based on CSCL and PLC. Conducting blended classes integrating asynchronous discussions, real-time collaboration tools, and expert feedback",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform collaborative STEM problem-solving using CSCL strategies on online platforms",
+    "Learners can establish a peer feedback and knowledge-sharing system by applying the Professional Learning Community (PLC) model",
+    "Learners can plan, execute, and present STEM project designs using digital tools (forums, wikis, video conferencing)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS (Learning Management System)",
+      "Video Conferencing Tool",
+      "Collaborative Document Editor",
+      "STEM Simulation Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

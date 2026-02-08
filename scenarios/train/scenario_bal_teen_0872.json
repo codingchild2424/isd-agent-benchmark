@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0872",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Simulation-Based Education for Predictive Modeling of Cardiac Diseases",
+  "context": {
+    "prior_knowledge": "Foundational machine learning concepts and experience in medical data analysis",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-oriented education to enhance competencies in developing predictive models based on medical data.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply preprocessing and feature engineering techniques to cardiac disease datasets.",
+    "Learners can implement and compare prediction performance across four classification models: KNN, SVM, ANN, and CNN.",
+    "Learners can evaluate model performance using precision, recall, and classification accuracy (CA) metrics."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "UCI Cleveland Heart Disease Dataset",
+      "Python-Based Machine Learning Library",
+      "VR Simulation Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

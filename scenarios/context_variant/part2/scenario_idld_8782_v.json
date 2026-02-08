@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8782-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Simulation/VR-Based Mathematics Educational Video Design Process",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and ability to use digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can utilize core principles (e.g., review quizzes, real-life case applications) to enhance engagement in instructional video design at over 80% proficiency",
+    "Learners can design video content reflecting the preferences of target groups (40s managers) through survey-based analysis",
+    "Learners can develop video scenarios that effectively convey mathematical concepts in simulation/VR environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

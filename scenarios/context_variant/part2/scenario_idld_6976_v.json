@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6976-V",
+  "variant_type": "context_variant",
+  "title": "Chemical Engineering Operator XR Experiential Learning: Mobile Microlearning",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A faculty development program for pre-service or in-service teachers, targeting learners with limited chemical process field experience, enabling safe acquisition of core operational skills (reaction rates, separation processes) via XR simulations mirroring real work environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Perform basic operation procedures of chemical process equipment with 90% accuracy via XR-based mobile simulation.",
+    "Successfully apply response protocols for abnormal situations (e.g., leaks, overheating) in virtual reality environments at least three times.",
+    "Through team-based project evaluation, produce a chemical process operation standard manual with 80% completeness."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible XR app",
+      "360-degree virtual process video library",
+      "Offline-accessible microlearning content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

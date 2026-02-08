@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5486",
+  "variant_type": "idld_aligned",
+  "title": "Dick and Carey Model-Based Instructional Design for Science Laboratory Class Planning",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific experimental procedures and mathematical measurement methods",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Students use individual experimental tools and interpret results through mathematical analysis. Digital data recording and sharing are possible in BYOD environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can systematically design science laboratory lessons by applying the nine stages of the Dick and Carey model.",
+    "When designing laboratory lessons, learners can distinguish and execute phases such as learner analysis, goal setting, assessment tool development, and instructional strategy formulation.",
+    "Learners can analyze experimental results and write reports using mathematical measurement and graph interpretation skills."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Experiment Kit",
+      "Digital Measurement Tools",
+      "Experimental data recording sheet",
+      "Learning Management System (LMS) access account"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

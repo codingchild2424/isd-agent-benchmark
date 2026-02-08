@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5871",
+  "variant_type": "idld_aligned",
+  "title": "Physics-Based Decision-Making Competency Microlearning",
+  "context": {
+    "prior_knowledge": "High school-level foundational knowledge in physics",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Course for corporate learners with intermediate expertise in managerial/leadership roles. Learning design optimized for mobile environments using digital devices",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply decision-making processes with over 80% accuracy in physics problem situations.",
+    "Learners can analyze electromagnetism-related data and select three or more decision-making strategies appropriately for given contexts.",
+    "Through formative assessments, learners can identify individual decision-making error patterns and develop improvement plans within two weeks."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Rasch analysis-based assessment items",
+      "Electrodynamics simulation tool",
+      "Data-driven feedback report template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

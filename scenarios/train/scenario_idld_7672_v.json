@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7672-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Enhancing Teacher Education Design Capabilities Using Digital Learning Platforms",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can create lesson design documents applying three or more instructional design models (e.g., ADDIE, SAM) using digital platforms (Google Classroom, etc.)",
+    "Learners can perform peer evaluation and feedback using digital collaboration tools and improve instructional design competencies by at least 20%",
+    "Learners achieve cognitive (discussion participation), behavioral (task submission), and social (feedback sharing) learning engagement metrics at 80% or higher in online environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

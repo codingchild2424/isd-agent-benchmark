@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2410-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Programming Practical Competencies: Through Production System Simulation and Problem-Solving-Based Learning",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can mathematically model and simulate the sequence of operations in a production system.",
+    "Learners enhance data analysis skills by solving real-world production problems using Problem-Based Learning (PBL).",
+    "Learners can mathematically derive optimal production plans based on simulation results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

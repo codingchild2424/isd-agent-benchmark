@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1104-V",
+  "variant_type": "context_variant",
+  "title": "Machine Learning-Based Education on High-Strength High-Toughness Aluminum Alloy Design",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Education enabling pre-service teachers to understand material design processes through industrial application cases and acquire skills in utilizing machine learning tools",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain core principles of high-strength high-toughness aluminum alloy design (strength-toughness trade-off, role of alloying elements)",
+    "Predict virtual alloy compositions using machine learning-based design systems and compare them with experimental data",
+    "Propose optimal alloy combinations based on performance metrics provided in reference cases (UTS 700–750 MPa, δ 8–10%, K<inf>IC</inf> 33–35 MPa·m1/2)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online machine learning design tool",
+      "Aluminum Alloy Database",
+      "Simulation Software",
+      "Interactive Learning Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

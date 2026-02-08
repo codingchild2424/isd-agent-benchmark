@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5495",
+  "variant_type": "idld_aligned",
+  "title": "Practical Optimization of Mg-Li Alloys for Lightweight Material Design",
+  "context": {
+    "prior_knowledge": "Foundational materials science, basic mechanical engineering principles, and understanding of statistical analysis",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced training course for working professionals focusing on acquiring practical material design methodology",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can quantitatively analyze the impact of alloy design factors (KAFs) on UTS, EL, and CR in Mg-Li alloys.",
+    "Learners can optimize alloy composition and process conditions using machine learning models (GBR).",
+    "Learners can select suitable elements (Al, Si, Ca, Zn, etc.) for alloy design by interpreting SHAP analysis results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Machine Learning Tool (Scikit-learn, SHAP)",
+      "Mg-Li Alloy Property Database",
+      "Experimental Results Visualization Software",
+      "Project Report Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

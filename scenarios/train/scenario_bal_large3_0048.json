@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE3-0048",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Mobile-Based COVID-19 Vaccine Efficacy Analysis Modeling and Language Expression Workshop",
+  "context": {
+    "prior_knowledge": "Basic statistics and understanding of infectious disease transmission models (SIR), foundational Python programming, and basic writing skills for data analysis reports along with academic vocabulary proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "This module focuses on analyzing the epidemiological impact of vaccines through data-driven modeling practice in a smartphone-based microlearning environment and expressing the findings in structured academic language (text/visualization). Special emphasis is placed on academic expression clarity, logical organization, and proper use of technical terminology to convey scientific analysis results.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "The impact of vaccination rates on infection curves can be simulated using a modified SIR model and explained through a linguistic framework that compares and contrasts analytical results",
+    "Learners will build a vaccine efficacy prediction framework using country-specific vaccination data (minimum 3 countries) and a machine learning model (Random Forest or XGBoost) within one week, achieve over 75% accuracy or F1-score on test datasets, and present findings through structured academic reports and visualizations (using Matplotlib or Seaborn)",
+    "Learners will interpret vaccine impact analysis results using Python-based data visualization tools (e.g., Plotly) in mobile environments and enhance linguistic proficiency to articulate findings with logical coherence and precise vocabulary in both academic and practical contexts"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile app compatible with Google Colab",
+      "COVID-19 vaccine dataset (open data)",
+      "Simplified SIR model template code"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

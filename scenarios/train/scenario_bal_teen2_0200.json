@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN2-0200",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Short-Intensive Course for Online Mathematics Instructional Material Development and Teacher Capacity Building: Focus on Calculation, Formulas, Graph Utilization, and Evidence-Based Reasoning",
+  "context": {
+    "prior_knowledge": "Basic mathematics pedagogy (problem-solving strategies, conceptual explanation techniques) and experience with digital tools (quiz makers, LMS), foundational statistics (variable analysis, probability calculations), algebraic expressions (equations, functions), and graph interpretation skills (basic graph types and data representation)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended learning environment emphasizing the integration of OER and VLE tools for elementary mathematics curricula (fraction operations, geometric measurement, data analysis). It highlights mathematical modeling for real-life problem-solving (e.g., budgeting, spatial design) and evidence-based reasoning (data analysis, hypothesis verification). Activities are designed to improve graph interpretation skills and calculation accuracy.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participating teachers can produce and utilize at least three types of OER for mathematics education (e.g., geometric modeling, algebraic problem-solving, statistical graph interpretation materials) within one week, particularly strengthening graph construction skills for variable analysis and visualization of functional relationships.",
+    "Applying a feedback-driven evaluation system, peer review progress with fellow teachers can be achieved at over 85%, with evaluation criteria established for accuracy in mathematical expressions and graph interpretation (axis labels, data distribution, trendline analysis).",
+    "Learners can design one visualization material for solving linear equations and one probability simulation material using VLE tools (quiz makers, LMS) and external OER. They must meet at least four of five rubric criteria (creativity, functionality, accuracy, accessibility, interactivity), emphasizing logical proof of computational processes and clarity in graph interpretation.",
+    "Learners can acquire methods to visually represent learning achievements using a digital badge system, displaying mastery of individual mathematics concepts (e.g., polynomial calculations, function graphing, probability distribution analysis) as badges. The ability to present evidence of problem-solving processes is evaluated as a condition for earning badges."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS account",
+      "OER Authoring Tools (Canva, H5P, etc.)",
+      "Rubric Template",
+      "Digital Badge Issuance System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

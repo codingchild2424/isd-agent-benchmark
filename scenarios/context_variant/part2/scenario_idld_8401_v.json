@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8401-V",
+  "variant_type": "context_variant",
+  "title": "Learning Analytics-Based Personalized e-Learning Design: Simulation/VR-Enhanced Social Education Curriculum",
+  "context": {
+    "prior_knowledge": "Core social science theories and practical field experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized educational courses combining VR simulations and e-learning content in smartphone-centric limited technological environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners achieve an 85%+ success rate in social problem-solving simulations within 4 weeks",
+    "Learners select content tailored to individual learning paces based on K-Means clustering analysis results",
+    "Learners demonstrate the ability to effectively diagnose real-world social field problems ≥3 times through VR-based activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible VR Simulation Tool",
+      "LMS-Integrated Learning Analytics System",
+      "Smartphone-Compatible VR Device Rental Package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

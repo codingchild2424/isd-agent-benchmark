@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7986",
+  "variant_type": "idld_aligned",
+  "title": "Graphon-Integrated Implicit Learning Project",
+  "context": {
+    "prior_knowledge": "Recognition of basic mathematical symbols and basic smartphone operation skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Enhancing advanced mathematical concept acquisition through audio-visual-motor integration of mathematical symbols.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify the correspondence between mathematical symbols and phonetic representations with 85% accuracy.",
+    "Formation of long-term memory for graph-sound correspondence within 12 weeks through multisensory integration activities (touch, auditory, visual).",
+    "Learners can reduce errors in the use of mathematical symbols by 50% when performing individual PBL (Project-Based Learning) tasks."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based Learning Application",
+      "Touch-sensitive mathematical symbol cards",
+      "Voice recording kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

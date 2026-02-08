@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7379-V",
+  "variant_type": "context_variant",
+  "title": "AI-Based Misconception Detection Instructional Design for Greenhouse Effect Concept Understanding",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course optimized for smartphone-based microlearning environments for working adult learners, incorporating an NLP- and machine learning-powered misconception diagnosis system.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain five core concepts related to the greenhouse effect with 90% accuracy.",
+    "Learners can diagnose and correct their own conceptual misunderstandings at least three times using AI-based analytical tools.",
+    "Learners can improve their conceptual understanding by 20% through peer feedback processes in team-based projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Microlearning Platform",
+      "NLP-Driven Concept Analysis Tool",
+      "Peer Assessment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

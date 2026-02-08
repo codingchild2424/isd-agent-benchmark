@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4783-V",
+  "variant_type": "context_variant",
+  "title": "Echocardiography Patient Education: Smartphone Video-Based Learning Program",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners are graduate students with intermediate-level science knowledge, combining simulation/VR-based practical training with video learning. During the program, they systematically learn echocardiogram procedures using smartphone-based video content and VR simulations",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately explain the purpose, procedures, and precautions of echocardiogram examinations",
+    "Learners can perform pre-, during-, and post-examination patient preparation tasks with ≥80% accuracy",
+    "Learners can achieve an average score of ≥4.5/5 on satisfaction surveys after video-based education"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Video Production Equipment",
+      "VR Simulation Software",
+      "Pre- and Post-Assessment Questionnaires"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2243",
+  "variant_type": "idld_aligned",
+  "title": "Microlearning Design and Operational Strategies for Strengthening Mobile-Based Self-Regulated Learning Competencies",
+  "context": {
+    "prior_knowledge": "Basic language learning experience required",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Beginner-level language learning course for professionals (medical, legal, technical) conducted in a BYOD environment.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can execute self-monitoring techniques to track and evaluate self-regulated learning processes with ≥80% accuracy",
+    "Learners can adhere to weekly learning plans at ≥90% compliance using mobile feedback tools (quizzes, progress bars, etc.)",
+    "Learners can perform one or more metacognitive reflections and revise learning strategies through asynchronous/synchronous interactions with peers and instructors"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Interactive tools (real-time chat/Q&A functionality)",
+      "Diagnostic quiz template",
+      "Progress visualization dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

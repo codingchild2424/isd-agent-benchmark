@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7270-V",
+  "variant_type": "context_variant",
+  "title": "Machine Learning Practical Competency Strengthening: Wireless Network Optimization: GNN-Based Simulation Practice",
+  "context": {
+    "prior_knowledge": "Elementary wireless network concepts and understanding of machine learning",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain how beamforming vectors and user allocation decisions impact network performance in wireless environments.",
+    "Learners can simulate the implementation of solving integer-constrained user assignment problems using GNN-based models.",
+    "Learners can quantitatively analyze the improvement effects on transmission speed (sum-rate) through optimized network configurations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

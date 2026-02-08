@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7875",
+  "variant_type": "idld_aligned",
+  "title": "Methodology for Analyzing Cognitive Load and Emotional Changes in Multimedia Learning Material Design",
+  "context": {
+    "prior_knowledge": "Introductory multimedia learning experience and foundational knowledge in social sciences",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners analyze text-image hybrid materials in a self-paced viewing environment using digital devices and conduct learning effectiveness evaluations based on EEG and eye-tracking data.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Can explain alpha-frequency band power analysis methods as EEG biomarkers for measuring cognitive load and emotional changes in multimedia learning materials.",
+    "Can evaluate the design effectiveness of learning materials by applying Fixation-Related Brain Potential (FRBP) methodology for EEG data analysis based on fixation events.",
+    "Can execute procedures to quantitatively analyze the correlation between visual element arrangement and cognitive processing in learning materials."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Eye-Tracking Equipment",
+      "EEG (Electroencephalography) Measurement System",
+      "Multimedia Learning Resource Samples",
+      "Data Analysis Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

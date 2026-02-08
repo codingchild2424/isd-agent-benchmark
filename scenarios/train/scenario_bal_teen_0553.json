@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-0553",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Program Learning-Based Curriculum for Design Thinking Concept Acquisition",
+  "context": {
+    "prior_knowledge": "Fundamental problem-solving skills and elementary understanding of design processes",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Parallel implementation of step-by-step digital program learning materials using personal devices (BYOD) and real-world problem-solving projects",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain the five stages of design thinking (empathize, define, ideate, prototype, test).",
+    "Learners can propose structured solutions to given real-life problems following the design thinking process.",
+    "Learners autonomously acquire design thinking concepts through digital program learning materials and are evaluated on their application skills.",
+    "Learners will form 4-person teams to select one real-world math problem (e.g., spatial utilization, resource distribution) identified in schools or communities, apply the 5-stage design thinking process (empathize-define-ideate-prototype-test), and produce a project report achieving \"excellent\" ratings in two or more of three rubric criteria (problem definition clarity, creativity, feasibility)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Program Learning Platform (Interactive Module)",
+      "Real-Life Problem Scenario Database",
+      "Design Thinking Workbook",
+      "Prototyping Kit (Low-Cost Materials)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

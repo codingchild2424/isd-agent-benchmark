@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1536",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] UDL/UDI-Integrated Instructional Design for Academic Library Tutorial Redesign",
+  "context": {
+    "prior_knowledge": "Basic library usage experience and elementary proficiency in digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical training program for elementary school teachers to enhance their academic resource utilization skills",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can navigate the main functions of an academic library system with 90% accuracy in a VR simulation environment",
+    "Learners can produce tutorial content applying three or more accessibility strategies (e.g., text-to-speech, alternative text) according to UDL principles",
+    "Learners can complete a five-step process from library resource search to citation generation with 80% accuracy through team-based activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR headset",
+      "Responsive Web Authoring Tool",
+      "Collaborative Whiteboard App",
+      "Accessibility Validation Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE3-0111",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Simulation/VR-Based Foundational Legal Education Curriculum",
+  "context": {
+    "prior_knowledge": "Understanding of basic legal terminology and fundamental concepts of contract law",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Law education course based on lecture capture in VR simulations using personal devices. Continuously monitors learning effectiveness through formative assessments, focusing on improving practical skills via legal case analysis",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can analyze case-by-case scenarios of contract law’s core principles (obligation, performance, breach) in a VR simulation environment.",
+    "Learners can accurately define and apply over 90% of legal terminology using recorded lecture materials.",
+    "Participants accurately judge ≥4 of five key decision points in three VR-based mock contract scenarios, producing reports that meet ≥3 of five rubric items reflecting real-world contracts (supply, collaboration, NDA)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset Rental System",
+      "Cloud-Based Lecture Recording Repository",
+      "Interactive Legal Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

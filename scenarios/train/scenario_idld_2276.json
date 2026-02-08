@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2276",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Clinical Mathematics Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic Medical Terminology and Understanding of Statistical Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A post-COVID-19 course to strengthen clinical data analysis and medication calculation skills under limited face-to-face education, ensuring smartphone-centered accessibility.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners solve clinical scenario-based medication dosage calculation problems with 90% accuracy.",
+    "Learners interpret medical statistical data to extract means, standard deviations, and confidence intervals.",
+    "Learners complete self-directed learning modules for at least 150 minutes per week in a mobile environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Healthcare simulation dataset",
+      "Mobile-Compatible Quiz Platform",
+      "Clinical calculation formula handbook (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

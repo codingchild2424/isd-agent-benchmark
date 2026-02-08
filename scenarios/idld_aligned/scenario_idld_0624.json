@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0624",
+  "variant_type": "idld_aligned",
+  "title": "Analysis of the Impact of Wikipedia Utilization on Graduate-Level Science Learning",
+  "context": {
+    "prior_knowledge": "Foundational research methodologies and basic scientific knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Students conduct research design and data analysis in a non-real-time LMS environment using digital devices, with project-based assessments measuring learning outcomes.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design a systematic survey analyzing Wikipedia usage patterns.",
+    "Learners can quantitatively evaluate the impact of Wikipedia utilization on learning efficiency in science disciplines.",
+    "Learners can propose Wikipedia utilization strategies in academic writing based on research findings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Survey Tools (Google Forms, etc.)",
+      "Data analysis software (SPSS/R)",
+      "Wikipedia API access permission"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

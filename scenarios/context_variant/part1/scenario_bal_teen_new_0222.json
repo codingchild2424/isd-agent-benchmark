@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0222",
+  "variant_type": "balance_teen_filtered",
+  "title": "Simulation-Based Collaborative Competency Assessment and Enhancement Program for K-12",
+  "context": {
+    "prior_knowledge": "Experience with basic simulation tools and foundational understanding of social issues",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Completed setup of a real-time location tracking and behavior analysis data collection environment using digital devices.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can accurately evaluate team collaboration efficiency by analyzing spatial movement patterns in a simulation environment with over 80% accuracy.",
+    "Learners can propose three or more strategies to improve their work processes based on location data analysis results.",
+    "Participants can write reports explaining the correlation between spatial behavioral characteristics and team performance during simulation tasks."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Indoor Position Tracking System",
+      "Simulation-Based Learning Platform",
+      "Learning Analytics Tools",
+      "Team Activity Log Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

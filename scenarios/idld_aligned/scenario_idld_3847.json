@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3847",
+  "variant_type": "idld_aligned",
+  "title": "Data-Driven Interactive E-Book Learning Design Process",
+  "context": {
+    "prior_knowledge": "Basic proficiency in digital learning tools and fundamental knowledge of language learning",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Language learning programs for professionals in healthcare/legal/technical fields. Conducted in smartphone-based limited-technology environments. Enhanced data-driven design through learning analytics dashboards and interactive e-books.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can interpret user behavior patterns with 80% accuracy using data analysis tools in interactive e-books",
+    "Learners can submit design proposals to optimize e-book content structures at least three times based on analysis results",
+    "Learners can identify two or more high-impact interaction elements for language learning effectiveness by comparing A/B test results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible e-book platform",
+      "Learning analytics dashboard prototype",
+      "Interactive template set for language learning"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

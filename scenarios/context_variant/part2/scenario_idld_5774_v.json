@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5774-V",
+  "variant_type": "context_variant",
+  "title": "Blended Practice-Based Physiology Concept Application Project for Transfer Learning",
+  "context": {
+    "prior_knowledge": "Basic Physiology and Medical Terminology Comprehension, Project-Based Learning Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners must analyze real clinical cases and apply integrated physiological concepts across multiple organ systems. Collaboration and resource sharing are facilitated using personal devices (BYOD)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain three advanced physiological concepts by applying them to two or more clinical case studies",
+    "Learners can transfer learned concepts to new organ system clinical cases with over 75% accuracy",
+    "Learners can integrate associations between acquired concepts into three or more real-world project scenarios through mixed practice modes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Case Database",
+      "Physiological Concept Simulation Tool",
+      "Collaborative Platform Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

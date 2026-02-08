@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2119-V",
+  "variant_type": "context_variant",
+  "title": "AI Mentoring-Accompanied First Steps in Programming: Self-Regulated Learning-Based Intensive Short-Term Program",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Providing easy smartphone-based accessibility in PC-unavailable environments. Integrated science-programming education for solving real-life problems.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can implement foundational programming logic (conditional statements, loops) with over 80% accuracy using AI real-time feedback",
+    "Learners apply self-regulated learning strategies to develop personalized weekly study plans and adjust them at least three times",
+    "Learners complete programming projects that solve scientific problems (e.g., simple environmental data visualization) through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible AI mentoring app",
+      "Mobile-optimized programming tool",
+      "Offline backup materials (PDF/images)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

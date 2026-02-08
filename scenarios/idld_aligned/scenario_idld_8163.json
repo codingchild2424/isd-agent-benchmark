@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8163",
+  "variant_type": "idld_aligned",
+  "title": "Mixed Learning (VRL+HOL)-Based Scientific Inquiry Education for Anomaly Data Analysis",
+  "context": {
+    "prior_knowledge": "Basic statistical concepts, data visualization methods, and laboratory safety protocols",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended learning environment combining smartphone-based virtual labs (VRL) and hands-on experiments (HOL). Comprehensive verification of anomalous data interpretation skills through project-based assessments",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Compare structured data generated in virtual experiments (VRL) with anomalous data collected in actual experiments (HOL) to explain variability.",
+    "Identify five or more types of anomalous data (e.g., outliers, measurement errors) and scientifically infer their causes.",
+    "Through team-based projects, visualize anomalous data analysis results and propose improvements to experimental design."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR/AR App",
+      "Basic Laboratory Equipment (Thermometer, Scale, etc.)",
+      "Anomaly Data Sample Dataset",
+      "Collaborative Learning Worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

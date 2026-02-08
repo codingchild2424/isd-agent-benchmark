@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0080",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Spline Adaptive Filtering and Robust Learning Techniques for Nonlinear System Identification",
+  "context": {
+    "prior_knowledge": "Linear systems theory, basic statistics, and programming experience with MATLAB/Python",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners explore modeling techniques for solving nonlinear system problems in real industrial settings through project-based learning, developing data processing and algorithm implementation skills in BYOD environments",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain mathematical modeling of nonlinear systems and adaptive filtering techniques based on splines.",
+    "Learners can implement algorithms applying the robust LHC cost function and MNAG learning method in impulsive noise environments.",
+    "Learners can perform performance evaluations of the SAF-LHC-MNAG algorithm using real-world nonlinear hysteresis system data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/MATLAB License",
+      "Nonlinear System Dataset",
+      "Jupyter Notebook/Simulink Environment",
+      "Collaboration Tools (Slack, GitHub)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7056",
+  "variant_type": "idld_aligned",
+  "title": "Gamification-Based Mathematics Problem-Solving Competency Development Program",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Mathematical Concepts (Integers, Fractions, Geometry, etc.)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Gamification strategy design competency development for graduate students, applicable to elementary mathematics education settings.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Development of the ability to design math activities using the five core elements of gamification (points, levels, badges, leaderboards, storytelling).",
+    "Development of at least two game mechanisms (competitive and collaborative) to motivate learners.",
+    "Implementation of an immediate feedback system using smartphone-based tools (quiz apps, real-time polling, etc.)."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Zoom Account",
+      "Mobile Gamification Tools (e.g., Kahoot!)",
+      "Core LMS features"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

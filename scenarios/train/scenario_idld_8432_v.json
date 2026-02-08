@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8432-V",
+  "variant_type": "context_variant",
+  "title": "Scenario-Based Microlearning for Leukocyte Structure and Function in Clinical Hematology",
+  "context": {
+    "prior_knowledge": "Understanding of basic biology and medical terminology, familiarity with fundamental concepts of cytology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A supplementary learning program for graduate students receiving theory-centered education without practical experience. Designed for smartphone-based learning in limited-technology environments",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can distinguish and explain the structure and function of the five major white blood cell types (neutrophils, eosinophils, basophils, monocytes, lymphocytes).",
+    "Learners can analyze the clinical significance of differential WBC count results.",
+    "Learners can apply appropriate diagnostic reasoning to patient cases suspected of white blood cell abnormalities through scenario-based problem-solving."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible e-learning platform",
+      "3D white blood cell model visuals",
+      "Clinical Case Database",
+      "Automated Scoring Assessment System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

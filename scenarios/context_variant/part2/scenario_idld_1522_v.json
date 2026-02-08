@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1522-V",
+  "variant_type": "context_variant",
+  "title": "Embodied Learning Program for Computational Thinking and Mathematical Understanding",
+  "context": {
+    "prior_knowledge": "Elementary mathematical computation skills and understanding of simple programming concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based course solving real-life math problems by integrating embodied activities (e.g., physical movements, manipulatives) with computational thinking (e.g., algorithm design, pattern analysis)",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve problems with over 80% accuracy by applying computational perspectives (pattern recognition, abstraction, algorithm design) during mathematical problem-solving",
+    "Learners can represent mathematical concepts (e.g., functions, geometry) in three or more ways through embodied activities (e.g., physical movement, physical modeling)",
+    "Learners can produce integrated outcomes connecting mathematical problems with programming concepts through project-based assessments and incorporate peer feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PC",
+      "Sensor devices (e.g., motion trackers)",
+      "Block-based programming tools (e.g., ScratchMaths)",
+      "Integrated math-programming worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

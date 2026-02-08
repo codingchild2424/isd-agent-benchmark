@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0303",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Emergency Airway Management Simulation-Based Microlearning",
+  "context": {
+    "prior_knowledge": "Basic Medical Terminology and Fundamental CPR (Cardiopulmonary Resuscitation) Knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening integrated emergency situation awareness-execution capabilities through 4C/ID model-based simulation training",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Perform emergency airway management procedures (airway assessment → oxygen administration → endotracheal intubation) in a simulation environment with 80% accuracy within 10 minutes",
+    "In time-pressured situations, recognize changes in patient condition and apply appropriate clinical judgments (e.g., timing of medication administration) three or more times",
+    "Execute role distribution and communication protocols in team-based emergency scenarios with 90% compliance"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Airway Management Simulator",
+      "Mobile Learning App",
+      "Emergency Airway Management Checklist Template",
+      "3D Airway Anatomy Animation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

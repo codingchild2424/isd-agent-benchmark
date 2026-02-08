@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2939",
+  "variant_type": "idld_aligned",
+  "title": "Language Simulation Learning Design Utilizing Nonlinear Pedagogy",
+  "context": {
+    "prior_knowledge": "Basic Digital Device Operation Skills and Elementary-Level Language Comprehension",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners simulate office/administrative roles in a VR environment, applying nonlinear instructional methods during language task resolution. Personal device (BYOD)-enabled customized learning environments are implemented.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners solve nonlinear tasks (e.g., situational language selection) presented in simulation environments with ≥80% accuracy",
+    "Through collaboration in VR role-playing, learners achieve ≥3.5 on a 4-point Likert scale for autonomy and competency during problem-solving processes",
+    "Formative assessments (weekly quizzes/feedback) advance learners’ language application skills by ≥2 stages in a 3-level growth model (basic → applied → creative utilization)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "BYOD-Compatible Language Learning App",
+      "Nonlinear Task Design Template",
+      "Real-Time Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

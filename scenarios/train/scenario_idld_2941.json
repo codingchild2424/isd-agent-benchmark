@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2941",
+  "variant_type": "idld_aligned",
+  "title": "Constructivist-Based Mobile Microlearning Program for Mathematical Operations",
+  "context": {
+    "prior_knowledge": "Basic arithmetic operations (addition, subtraction, multiplication, division) and understanding of integers",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A personalized learning environment using individual devices, providing customized computational problem generation and real-time feedback",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve complex operation (mixed computation) problems with 80% accuracy within 4 weeks",
+    "Learners can analyze and correct error patterns during the problem-solving process",
+    "Learners participate in discussion activities comparing various computational strategies through collaboration with peers"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App",
+      "Online Practice Question Database",
+      "Personalized Learning Report System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

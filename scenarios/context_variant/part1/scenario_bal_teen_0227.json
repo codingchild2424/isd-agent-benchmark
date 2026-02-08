@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0227",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Quantum Computing Leadership Intensive Course: Simulation-based Practical Skill Development",
+  "context": {
+    "prior_knowledge": "Foundational knowledge in computer engineering/physics and basic linear algebra concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Mobile-optimized VR simulation tools, structured around real-world case studies.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain core quantum computing concepts (qubits, superposition, entanglement) by connecting them to practical case studies.",
+    "Learners can implement basic computational processes by performing quantum circuit simulations in a mobile VR environment.",
+    "A framework can be applied to evaluate the feasibility of adopting quantum computing technology when establishing corporate strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR learning platform",
+      "Quantum computing simulation app",
+      "Case Study Resource Compilation",
+      "Formative assessment checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

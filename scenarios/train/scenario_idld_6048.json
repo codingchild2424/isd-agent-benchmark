@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6048",
+  "variant_type": "idld_aligned",
+  "title": "Formative Assessment-Driven Design for Deepening Mathematical Concept Learning",
+  "context": {
+    "prior_knowledge": "Understanding of high school-level basic mathematical concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Applying mathematical concepts in real-life problem-solving scenarios through VR simulations",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve math problems presented in a VR simulation environment with over 85% accuracy.",
+    "Learners achieve over 90% improvement rates when revising answers using three-step explanatory feedback for formative quiz errors.",
+    "Learners reduce error rates for the same concept by over 50% in two consecutive formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "Interactive Quiz Platform",
+      "3D Mathematical Modeling Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

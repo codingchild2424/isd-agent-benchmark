@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5316-V",
+  "variant_type": "context_variant",
+  "title": "Learner-Centered Science E-Learning System Design Process",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learner-Tailored E-Learning System Design and Practical Application for Enhancing Work-Integrated Scientific Competencies of Office/Administrative Professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Can explain the e-learning system design process, divided into three or more stages, reflecting learner requirements",
+    "Can directly design interactive learning modules for project-based learning (PBL) in the science domain",
+    "Can propose three or more improvement plans for e-learning systems based on learner experience (UX) evaluations",
+    "Can establish strategies for utilizing collaborative tools operable in a BYOD (Bring Your Own Device) environment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Learning Authoring Tool",
+      "Open-source science content",
+      "Collaboration platform license"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

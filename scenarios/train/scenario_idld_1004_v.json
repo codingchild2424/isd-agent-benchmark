@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1004-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Mathematics Education Design for Low-Income High School Teachers in Nepal",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Strengthening digital content creation and internet utilization skills in smartphone-only environments, with a formative assessment-centered iterative feedback structure and practical approaches considering Nepal's local educational context",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Create at least three types of math concept visualization content (graphs, geometric figures, etc.) using mobile devices",
+    "Develop at least five context-specific math problems using free online resources (GeoGebra, YouTube educational channels, etc.)",
+    "Design and operate formative assessment items (10+ questions) using smartphone-based quiz apps (e.g., Kahoot!)"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "LMS account",
+      "Free educational app",
+      "Offline mathematics textbook (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

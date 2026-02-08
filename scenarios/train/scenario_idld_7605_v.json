@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7605-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design Scenarios for Learning Transitive Reasoning and Inverse Concepts",
+  "context": {
+    "prior_knowledge": "Basic Algebra (Groups, Binary Operations, Identity Element Concepts) and Logical Reasoning Skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners engage in self-directed learning using personal devices in an online asynchronous environment, deepening conceptual understanding through peer collaborative activities",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the concept of inverses in various mathematical structures (groups, rings, fields) through transitive reasoning",
+    "Learners can apply three reasoning methods—\"operation cancellation via inverses,\" \"inverses as manipulated elements,\" and \"understanding inverses through binary operations·identity elements·set interactions\"—to practical problems",
+    "Learners can demonstrate integrated understanding of inverse concepts through peer evaluation and feedback processes using LMS-based collaboration tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Abstract Algebra Simulation Tool",
+      "Online Collaboration Platform (Google Jamboard, Padlet)",
+      "LMS (Learning Management System) Discussion Board & Assignment Submission Feature",
+      "Digital Worksheet for Concept Validation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

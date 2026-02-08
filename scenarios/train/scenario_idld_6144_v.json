@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6144-V",
+  "variant_type": "context_variant",
+  "title": "AI-Based Maker Project Learning: Development of an AI Recycling Classifier",
+  "context": {
+    "prior_knowledge": "Understanding basic physics/programming concepts and fundamental AI terminology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Digital device (tablet/smartphone) utilization and team-based project space configuration",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners create a recycling classifier by integrating Arduino with an AI model.",
+    "Learners design AI solutions for real-world environmental problem-solving through team collaboration.",
+    "Learners evaluate the ethical impacts of AI systems by applying higher-order thinking skills (analysis/evaluation/creation)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Arduino Kit",
+      "AI Classification Model Template",
+      "Recycled Dataset",
+      "Collaboration Tools (Slack/Note Apps)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

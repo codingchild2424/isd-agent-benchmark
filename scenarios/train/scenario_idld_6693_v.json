@@ -1,0 +1,41 @@
+{
+  "scenario_id": "IDLD-6693-V",
+  "variant_type": "context_variant",
+  "title": "Design and Utilization of Adaptive Educational Hypermedia Systems Based on Learning Styles",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Strengthening pre- and in-service teachers' capacity to design and operate adaptive learning systems accessible via smartphones.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can classify learner characteristics with 80% accuracy using a learning style diagnostic tool.",
+    "Learners can explain and apply five or more principles of adaptive hypermedia system design.",
+    "Learners can propose three or more content structure designs applying microlearning (5-minute units) and gamification elements to improve science learning outcomes in mobile environments (smartphones/tablets) and achieve an 80% or higher suitability score through peer and instructor feedback.",
+    "Learners can design a protocol to improve the accuracy of a system personalization algorithm by 15% by analyzing formative assessment data (minimum 500 cases) within six months and submit a report demonstrating over 80% achievement in three key metrics (accuracy, processing speed, user satisfaction) via peer review and experimental validation.",
+    "Learners can validate the educational effectiveness of a learning style-based Adaptive Educational Hypermedia System (AEHS) using pre-post comparative research methods."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform (mobile-compatible)",
+      "Learning Style Diagnostic Survey Tool",
+      "Adaptive Content Template Library",
+      "Mobile Learning Analytics Tool",
+      "Formative assessment item bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4915-V",
+  "variant_type": "context_variant",
+  "title": "Translation Education Intensive Course Utilizing Environment-Based Design",
+  "context": {
+    "prior_knowledge": "Mastery of Basic Translation Theory and Advanced Language Proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires mobile-optimized instructional design considering limited technological environments (no PC access, smartphone-centric).",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners explain translation strategy design processes by applying Evidence-Based Design (EBD) methodology",
+    "Learners apply at least three professional translation techniques (e.g., cultural context reflection, terminology standardization) to practical cases",
+    "Learners produce outcomes meeting 80%+ of translation quality evaluation criteria based on peer feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Platform",
+      "Mobile-Compatible Learning Management System (LMS)",
+      "Translation Memo App",
+      "Access to Public Translation Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

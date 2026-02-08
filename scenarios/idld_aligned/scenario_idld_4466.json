@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4466",
+  "variant_type": "idld_aligned",
+  "title": "Multimedia-Based Social Vocabulary CAPs (Content-Action-Product) Education Program",
+  "context": {
+    "prior_knowledge": "High school-level foundational social science knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "UDL-based design considering diverse learning styles, optimized content production for BYOD environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can define and explain over 80% of the 120 core social vocabulary terms learned through CAPs within 8 weeks.",
+    "Learners achieve over 90% accuracy in weekly vocabulary assessments after listening to CAPs content.",
+    "Learners can apply learned vocabulary in real workplace scenarios (e.g., report writing, presentations)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Podcast production equipment for social science fields",
+      "Interactive Quiz Platform",
+      "LMS-integratable multimedia player",
+      "Expert consulting for accessibility review"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

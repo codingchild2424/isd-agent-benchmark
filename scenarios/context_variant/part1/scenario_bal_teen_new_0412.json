@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0412",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Language Competency (Reading, Writing, Expression, Grammar) Enhancement Course Using MOOC-Based Self-Regulated Learning and Social Mirroring",
+  "context": {
+    "prior_knowledge": "Basic language proficiency (reading, writing, speaking) and experience with digital devices, understanding of fundamental grammatical structures (parts of speech, tenses, sentence structure), and ability to perform simple text analysis",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "VR environment configuration to promote social interaction among learners and visualization tools for individual learning progress. Focuses on text-based collaborative activities (joint writing/feedback exchange) and expressive skills enhancement (pronunciation, intonation, fluency) through voice feedback. Provides exemplary case videos and peer assessment rubrics for social mirroring.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners monitor peer language task progress (text analysis·vocabulary frequency) in VR simulation environments, apply self-regulated learning strategies (time management·goal setting) ≥1 time/week, and establish vocabulary expansion plans (≥20 domain-specific terms) based on feedback.",
+    "Using social mirroring scaffolding (role model observation·imitation, peer feedback sharing), learners perform weekly language tasks (text structure analysis·writing·presentations) over 8 weeks, revise strategies reflecting ≥3 peer feedback points (clarity of expression·grammatical accuracy·logical flow), and reduce grammatical errors by ≥30% compared to pre-assessments.",
+    "By the end of the 6-month course, learners demonstrate social awareness (active listening·empathic responses·role division) at ≥3 on a 4-point rubric scale during collaboration in ≥3 project-based assessments (team language presentations·role-plays·joint reports), while maintaining logical coherence (topic consistency·evidence provision·clarity of conclusions) in presentation content."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "Learning Progress Dashboard",
+      "Peer Feedback System",
+      "Language Simulation Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

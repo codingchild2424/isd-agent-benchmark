@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4638-V",
+  "variant_type": "context_variant",
+  "title": "Simulation-Based Expert Course for Computer-Supported Collaborative Learning Design",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A long-term educational program for advanced learners comprising professionals in healthcare, legal, and technical fields. Focuses on strengthening collaborative learning design competencies in a VR simulation environment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply a collaborative learning design framework considering tasks, team formation, time management, and technology integration within a CSCL (Computer-Supported Collaborative Learning) context.",
+    "Learners can design activities to solve real-world job problems using collaborative learning flow patterns (CLFP) and scripts in simulation/VR environments.",
+    "Learners can continuously improve the efficiency of collaborative learning design through formative assessments and operate feedback systems utilizing technological tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Equipment",
+      "LMS platform",
+      "Collaborative Learning Design Templates",
+      "Real-Time Collaboration Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5338-V",
+  "variant_type": "context_variant",
+  "title": "Workshop on Utilizing Generative AI in Post-Digital Architectural Education",
+  "context": {
+    "prior_knowledge": "Understanding of basic architectural concepts and foundational digital tool proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Implementing a collaborative creative learning environment combining generative AI and analog methods for current architectural practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can describe a generative AI-based architectural design prototyping process with over 80% accuracy.",
+    "Learners can propose three or more innovative architectural solutions through creative collaboration between generative AI and humans.",
+    "Learners can draft AI utilization guidelines reflecting ethical issues in the post-digital era."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Generative AI Tool Subscription License (Stable Diffusion, MidJourney, etc.)",
+      "3D Modeling Software (Blender, etc.)",
+      "Digital-to-Analog Conversion Kits (3D Printers, Laser Cutters, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

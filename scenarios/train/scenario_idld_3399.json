@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3399",
+  "variant_type": "idld_aligned",
+  "title": "Science Education Design Utilizing MOOC-based Flipped Learning",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and experimental methods",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Active learning and flipped learning-based science education curriculum conducted in a smartphone-centric, limited technological environment. Pre-learning using MOOC content is followed by real-time/asynchronous discussions and application activities.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can watch science concept videos provided on MOOC platforms and summarize/explain key content.",
+    "Learners can apply scientific theories to real-world cases through online discussions with peers in a flipped learning environment.",
+    "Learners can achieve over 80% accuracy in quizzes and formative assessments based on MOOC content using mobile devices."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MOOC platform (EdX/Coursera-style)",
+      "LMS System",
+      "Mobile-Optimized Content",
+      "Active learning activity guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

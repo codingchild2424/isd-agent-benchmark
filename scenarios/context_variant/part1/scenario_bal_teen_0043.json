@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-0043",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Design and Analysis of Learner Interactions Based on LMS: Application to Mobile Microlearning",
+  "context": {
+    "prior_knowledge": "Basic digital competencies and foundational knowledge in elementary education",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhancing Learning Design Capabilities Using LMS for Corporate Elementary Education Coordinators",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze interaction patterns using learning analytics data in a Learning Management System (LMS)",
+    "Learners can design learning modules by applying the Coordination and Comparison principles of the LAI framework",
+    "Learners can predict learning outcomes based on engagement metrics (page views, discussion post length, etc.) in mobile environments",
+    "Learners can implement LMS learning designs tailored to real-world corporate training scenarios through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS System",
+      "Mobile Learning App",
+      "Learning Analytics Dashboard",
+      "Discussion Board Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

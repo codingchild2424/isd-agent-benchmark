@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7428",
+  "variant_type": "idld_aligned",
+  "title": "Human-Autonomy Team Interaction and Failure Response Simulation Training",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Team Dynamics and Technical Systems, with Secondary Education Experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-centered training for pre-service/in-service teachers to enhance Human-Autonomy Teaming (HAT) interaction and crisis response competencies",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "They can analyze communication patterns and coordination mechanisms of 3-member teams in simulation environments to explain the evolution of HAT (Human-Autonomy Teaming)",
+    "They can design and execute team adaptation strategies for three failure scenarios: automation failure, autonomy errors, and cyberattacks",
+    "They can evaluate team communication flow using cross-recurrence quantification analysis (JRQA) and propose performance improvement measures"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "RPAS Simulation Software",
+      "Team Interaction Analysis Tool",
+      "Failure Scenario Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

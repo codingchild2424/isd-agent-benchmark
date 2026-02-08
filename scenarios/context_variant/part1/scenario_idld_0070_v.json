@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0070-V",
+  "variant_type": "context_variant",
+  "title": "UDL-Based Customized Online Learning Design for Nursing Education",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires applying UDL (Universal Design for Learning) with considerations for accessibility and flexibility in smartphone-centric learning environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Development of at least three nursing scenario-based learning materials aligned with UDL principles, considering diverse learning styles.",
+    "Achievement of over 80% proficiency in utilizing multimedia (text, audio, video) within an LMS.",
+    "Improvement of individual learning outcomes by over 20% through the design of a learner-customized feedback system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Multimedia Production Tool",
+      "UDL Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0912",
+  "variant_type": "idld_aligned",
+  "title": "Cognitive Load Theory-Based Comparative Instructional Design for Music Reading Learning Interfaces",
+  "context": {
+    "prior_knowledge": "Basic music theory and instrumental performance experience (optional)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Music literacy training for mathematics majors to improve abstract pattern recognition through interdisciplinary learning",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain differences in cognitive load across difficulty levels between two types of music-reading interfaces (instrument/software).",
+    "Learners can select the optimal interface based on their prior music knowledge level.",
+    "Learners can analyze cognitive load occurring during music notation interpretation across three dimensions (intrinsic/extraneous/germane)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Sheet music database",
+      "Virtual instrument simulation software",
+      "Cognitive load measurement questionnaire (NASA-TLX)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

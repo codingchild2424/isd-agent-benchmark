@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8510-V",
+  "variant_type": "context_variant",
+  "title": "VR-Based Chemistry Lab Education: Mobile Microlearning Course",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Application of VR simulations in environments with restricted access to experimental equipment.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can perform basic chemistry experiments (mixing, measuring, observing) in a VR environment with 80% accuracy while adhering to safety protocols.",
+    "Learners can analyze virtual experimental data and write a report explaining chemical reaction mechanisms.",
+    "Learners can identify at least three errors in the VR experiment process and propose improvement strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "360-Degree VR Chemistry Lab Content",
+      "Mobile-Compatible VR Device",
+      "Interactive Lab Manual PDF",
+      "Real-time feedback platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

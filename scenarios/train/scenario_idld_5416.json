@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5416",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Intelligent Information Retrieval Learning Design",
+  "context": {
+    "prior_knowledge": "Basic smartphone operation skills and foundational social studies knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Most learners operate in PC-unavailable environments with smartphone-only access, aiming to enhance social problem-solving skills necessary for managerial/leadership roles.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can search for social domain-specific information with 80% accuracy using the HIM-IR methodology in a mobile environment",
+    "Learners can propose three practical strategies for solving organizational management problems by analyzing information collected via mobile devices",
+    "Learners can complete at least one knowledge-sharing project by collaborating with peer leaders on a mobile learning platform"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Mobile Learning Application",
+      "Offline workbooks",
+      "Wi-Fi-Enabled Classroom Environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

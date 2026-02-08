@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0266",
+  "variant_type": "balance_medium_scale",
+  "title": "Utilizing Web-Based Decision Support Systems for Selecting Educational Multimedia",
+  "context": {
+    "prior_knowledge": "Fundamental digital device usage skills and foundational language learning knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course strengthening learners' capacity to select educational multimedia for language learning in smartphone-centric, limited-technology environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners identify at least three multimedia elements suitable for language learning using a web-based decision-making system.",
+    "Learners select optimal learning materials by applying multimedia evaluation criteria (accessibility, effectiveness, cost-efficiency, etc.).",
+    "Learners judge the applicability of VR-based language learning tools in simulation environments with over 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Web-Based GDSS Platform",
+      "VR Experience Kit (Rental Type)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

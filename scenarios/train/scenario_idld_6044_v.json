@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6044-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Indigenous Community-Based Design Education Program",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can collaboratively develop at least three design solutions connected to local culture.",
+    "Learners can visualize Indigenous design knowledge (storytelling, natural material use, etc.) by combining it with modern tools.",
+    "Learners can create and present design prototypes for solving local issues using smartphone tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

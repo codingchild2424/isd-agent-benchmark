@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-1362",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Foundations of Active Self-Reward System Control Using Model-Free Reinforcement Learning (Mathematical Optimization and Matrix-Based Approaches)",
+  "context": {
+    "prior_knowledge": "Understanding of basic control theory and linear algebra (matrix operations, eigenvalue decomposition, vector space comprehension), foundational optimization theory (gradient descent, convex optimization), basic programming proficiency (Python recommended), and introductory numerical analysis (matrix decomposition, approximation methods)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Modular smartphone-based learning content with weekly lab tasks. Emphasizes computational experiments for mathematical model validation and algorithm performance evaluation. Cultivates multidimensional data interpretation via matrix condition number analysis, convergence proofs, and experimental result visualization",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will explain the mathematical principles of reinforcement learning-based LQR (Linear Quadratic Regulator) controllers, simulate parameter optimization using matrix calculations and optimization formulas, and apply solutions to the Riccati equation and quadratic form minimization techniques.",
+    "Learners will model multi-axis system dynamic coupling phenomena using differential equations and matrix transformations, apply eigenvalue analysis for designing interaction matrices, and verify system stability through state-space representation and controllability/observability analysis.",
+    "Learners will quantitatively evaluate performance improvements in a 3-axis control system using a decoupling policy optimization algorithm with stochastic gradient descent, measuring metrics (error reduction rate, convergence speed, condition number improvement) and analyzing optimization stability via learning rate scheduling and regularization."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Control System Simulator",
+      "Python-Based Reinforcement Learning Library",
+      "Weekly Experiment Kit (with Virtual Environment)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

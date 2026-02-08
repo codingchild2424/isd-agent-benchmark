@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0562",
+  "variant_type": "idld_aligned",
+  "title": "Patient-Engaged Nursing Communication Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic Nursing Skills and Patient Care Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended course for practicing nurses, learning through VR simulations and real-case sharing of patients' subjective experiences.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can demonstrate the application of at least three empathetic communication skills through interactions with service users role-playing as patients in VR simulations.",
+    "Learners can analyze real-life experience cases provided by service users to develop two patient-centered nursing care plans.",
+    "Through reflective journaling, learners can describe in three or more items how patient engagement learning has impacted their nursing practice."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Equipment",
+      "Patient Coach Pool",
+      "Tablet for Interaction Recording",
+      "Reflective journal template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

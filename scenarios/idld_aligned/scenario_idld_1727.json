@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1727",
+  "variant_type": "idld_aligned",
+  "title": "Android Game-Based Local History Learning Design: Exploring the Freshwater Spring Relic Site",
+  "context": {
+    "prior_knowledge": "Elementary historical knowledge and basic smartphone usage skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Mobile-centric learning via smartphones in PC-unavailable environments. Combining field surveys with game-based simulations",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the sociocultural values and historical significance of freshwater springs through Android-based game learning",
+    "Learners can develop mobile learning modules by applying the digital content design process for local historical sites",
+    "Learners can analyze the pedagogical effectiveness of local history learning game prototypes through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Dampul Spring Site Resources (360° VR Images, Oral Histories)",
+      "Android Development Tools (Unity/Unreal Engine)",
+      "Historical Content Expert Consultation Hours (4 Hours/Month)",
+      "Basic Survey Questionnaire Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

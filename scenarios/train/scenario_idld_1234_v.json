@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1234-V",
+  "variant_type": "context_variant",
+  "title": "Gamification Strategies to Improve Engagement in Engineering Online Learning",
+  "context": {
+    "prior_knowledge": "Fundamental Engineering Knowledge and Experience with Online Learning Platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Formative assessment-centered operation utilizing leaderboard-based gamification.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners perform learning activities by accessing the LMS at least five times per week through a leaderboard system",
+    "Learners achieve learning progress rates of at least 70% compared to peers using gamification elements",
+    "Learners demonstrate conceptual understanding by scoring an average of 80+ points on weekly formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Leaderboard Module",
+      "Automated grading system",
+      "Online Quiz Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8710",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Course for Strengthening Science Information Integration Competencies",
+  "context": {
+    "prior_knowledge": "Foundational science theories and ability to interpret digital content",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Formative assessment-centered program to enhance text-image integration skills in smartphone-based learning environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can integrate scientific texts and visual materials with over 80% accuracy to explain core concepts",
+    "Learners apply text-image integration strategies with over 90% engagement during multimedia learning, reducing problem-solving time by 20%",
+    "Through formative assessments, learners can self-diagnose over 75% of their information integration errors"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Interactive Learning Module",
+      "Automated Visual Feedback System",
+      "Science Domain Text-Image Integration Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

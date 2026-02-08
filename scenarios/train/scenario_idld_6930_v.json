@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6930-V",
+  "variant_type": "context_variant",
+  "title": "Machine Learning Applications for Predicting Chemical Sensor Performance",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A training course combining immediately applicable chemical sensor analysis techniques with machine learning algorithms. Enhances field adaptability through predictive model training using real experimental data",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can quantify the correlation between physical properties of chemical sensors (porosity, electrochemical characteristics) and performance metrics (sensitivity, detection limit).",
+    "Learners can analyze chemical sensor data using linear regression models and achieve prediction accuracy of over 85%.",
+    "Learners can apply machine learning models to real industrial samples (food, beverages, etc.) to estimate analyte concentrations with an error rate within 10%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Machine Learning Library (Scikit-learn)",
+      "Virtual Experiment Dataset",
+      "Video Conferencing System within LMS",
+      "Cloud-Based Computational Resources"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

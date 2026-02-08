@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7043-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Language Technology Integration Design Based on TPACK and 21CLD Frameworks",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and experience with digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can effectively utilize digital tools (games, software) for language learning activities",
+    "Learners understand the TPACK framework and can apply integrated strategies of technology-content-pedagogy",
+    "Learners can incorporate 21CLD competencies (collaboration, creativity, digital literacy) into language learning processes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

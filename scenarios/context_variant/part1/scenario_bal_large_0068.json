@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0068",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Problem-Based Mathematics Project to Strengthen Scientific Literacy",
+  "context": {
+    "prior_knowledge": "Fundamental mathematics (calculus, statistics) and scientific reasoning foundations",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended environment combining online collaboration using smartphones and weekly offline workshops. Learners participate in simulation activities that solve real-world social problems through mathematical approaches.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design a process for solving real-world social issues (e.g., energy efficiency analysis, infectious disease spread modeling) through mathematical modeling.",
+    "Write evidence-based argumentative essays grounded in data analysis results.",
+    "Collaboratively derive optimal mathematical solutions considering diverse stakeholder perspectives."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Open-source statistical tool (mobile version)",
+      "Social issue scenario compendium",
+      "Weekly offline workshop space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7814",
+  "variant_type": "idld_aligned",
+  "title": "Flexible Language Learning Design Through Collaborative Learning Tool Orchestration",
+  "context": {
+    "prior_knowledge": "Experience using basic digital learning tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Working professionals experience flexible learning design using collaborative learning tools and mobile environments to improve language proficiency.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can efficiently manage team projects by linking data across collaborative learning tools.",
+    "Learners can construct context-specific personalized learning paths using IMS-LD-based instructional design.",
+    "Learners can incorporate real-time feedback by utilizing the mediation features of collaborative learning tools in mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "BYOD (Bring Your Own Device) Device",
+      "Collaborative learning toolkit",
+      "IMS-LD template",
+      "Data integration platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

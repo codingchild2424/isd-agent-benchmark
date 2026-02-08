@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-1820-V",
+  "variant_type": "context_variant",
+  "title": "Bridge Computer-Aided Design Education Utilizing Flipped Learning and Collaborative Problem-Based Learning",
+  "context": {
+    "prior_knowledge": "Understanding of basic engineering concepts and computer software usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in smartphone-centric limited-technology environments, requiring instructional design that considers pre-service/in-service teachers' intermediate domain expertise.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain and apply fundamental bridge design principles (structural mechanics, material properties, etc.)",
+    "Learners can generate simple bridge models using computer-aided design (CAD) software",
+    "Learners can effectively communicate with peers and solve design problems in a collaborative problem-based learning (CPBL) environment",
+    "Learners can achieve learning objectives independently using pre-learning materials provided through flipped learning methods",
+    "Learners can analyze problems arising in bridge design projects and propose creative solutions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-Friendly CAD Tool",
+      "Online Discussion Space for Collaborative Learning",
+      "Bridge Design Simulation Materials",
+      "Flipped Learning Video Lectures"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

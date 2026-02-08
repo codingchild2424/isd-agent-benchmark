@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6219",
+  "variant_type": "idld_aligned",
+  "title": "Analysis of Factors Influencing Learning Outcomes in Remote Education",
+  "context": {
+    "prior_knowledge": "Basic experience using online learning platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized design for digital device-enabled environments, language curriculum domains, and working professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will explain key factors (age, learning strategies, lecture responsiveness, etc.) influencing learning outcomes in remote education.",
+    "Learners will build a predictive model for learning outcomes by analyzing survey data.",
+    "Learners will develop an action plan to improve their learning strategies based on analytical results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Survey Tool",
+      "Basic Statistical Analysis Software",
+      "Lecture Recording Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

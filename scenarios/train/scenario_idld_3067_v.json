@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3067-V",
+  "variant_type": "context_variant",
+  "title": "UDL-Based Science Education Design for Hearing-Impaired Learners",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and proficiency in fundamental digital device usage",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Classroom environment design addressing diverse learning needs of hearing-impaired students, incorporating visual aids and tactile learning tools",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Deaf or hard-of-hearing learners can record experimental results with over 80% accuracy by utilizing visual and tactile materials during the scientific inquiry process.",
+    "Learners can explain core science concepts with over 75% accuracy through multiple means of representation designed according to UDL principles.",
+    "Learners can perform peer assessments and implement self-regulated learning strategies with over 80% participation through collaborative learning activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Visual support software (e.g., caption generation tool)",
+      "Haptic feedback device",
+      "3D-printed science models",
+      "Interactive Whiteboard System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

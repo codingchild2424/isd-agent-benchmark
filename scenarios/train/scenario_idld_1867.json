@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1867",
+  "variant_type": "idld_aligned",
+  "title": "Performance-Confidence Analysis Microlearning for Physics Mechanics Misconception Detection",
+  "context": {
+    "prior_knowledge": "Understanding of foundational physics concepts (force, motion, energy) at an advanced level",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A process of simultaneously diagnosing epidemiological problem-solving skills and conceptual understanding in a smartphone-based learning environment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Acquiring the ability to use a self-assessment confidence scoring system after solving mechanics problems",
+    "Developing techniques to identify misconceptions by analyzing discrepancy patterns between performance (accuracy) and confidence (self-assessment)",
+    "Achieving over 80% accuracy in diagnosing conceptual errors through Rasch model-based transformed score interpretation"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Compatible Testing Platform",
+      "Reliability Assessment Questionnaire Template",
+      "Conceptual Error Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

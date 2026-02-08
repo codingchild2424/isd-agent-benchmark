@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5007-V",
+  "variant_type": "context_variant",
+  "title": "Self-Directed Learning Design Using Nursing Podcasts",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "In online learning environments with digital devices, multimodal delivery methods are required to accommodate diverse learning styles.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain nursing core concepts with over 85% comprehension by combining podcast listening with text-based materials.",
+    "Learners can propose three or more strategies for effectively utilizing podcast content in a multitasking environment",
+    "Learners can analyze and document two or more advantages of voice-based learning tools for enhancing human connection in virtual lectures"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Audio Recording Equipment",
+      "Editing Software",
+      "Mobile-Responsive Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

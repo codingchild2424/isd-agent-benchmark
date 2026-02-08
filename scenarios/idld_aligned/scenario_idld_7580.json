@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7580",
+  "variant_type": "idld_aligned",
+  "title": "Gamification-Based Mobile Course for Enhancing Mathematical Competencies: Leaderboard Strategy",
+  "context": {
+    "prior_knowledge": "Basic arithmetic operations and problem-solving skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Smartphone-based learning environment, modular learning in 15-minute daily units, comprising a total of 60 modules.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve over 85% weekly accuracy in solving math problems using a top-tier leaderboard strategy.",
+    "Learners improve self-efficacy by 30% through a bottom-tier leaderboard experience.",
+    "Learners score 4.0/5.0 or higher on engagement surveys when gamification elements are applied."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Mobile LMS",
+      "Gamification Templates",
+      "Automated grading system",
+      "Weekly leaderboard visualization tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

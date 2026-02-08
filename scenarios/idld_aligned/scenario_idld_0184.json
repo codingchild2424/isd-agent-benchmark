@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0184",
+  "variant_type": "idld_aligned",
+  "title": "Professional Development-Oriented Engineering Education Improvement Program",
+  "context": {
+    "prior_knowledge": "Knowledge of engineering fundamentals and practical work experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducted in offline classrooms for practicing professionals, emphasizing activities implementable in smartphone-based limited-technology environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain at least three professional development strategies for solving real-world engineering problems.",
+    "Learners perform complex engineering design tasks with at least 80% completeness through collaborative problem-solving activities.",
+    "Learners regularly diagnose their professional development level and establish improvement plans through reflective practice."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Low-Cost Engineering Kit for Practical Training",
+      "Printed learning materials",
+      "Smartphone-Compatible Diagnostic App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

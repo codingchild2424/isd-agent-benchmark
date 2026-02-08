@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0130",
+  "variant_type": "balance_self_filtered",
+  "title": "Self-Directed VR-Based Customized Advanced Science Learning Program",
+  "context": {
+    "prior_knowledge": "Basic science theories and experimental design experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Providing Simulation Environments to Strengthen In-Service Professionals’ Work Application Skills",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply science theories tailored to individual cognitive structures with over 85% accuracy through VR simulations",
+    "Based on personal learning profile analysis, learners can design three customized experiment scenarios and develop implementation plans",
+    "Using learner data collected in simulation environments, learners can identify at least two knowledge gap areas and propose compensatory strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Experiment VR Content Library",
+      "Learner Profiling Algorithm",
+      "Real-Time Data Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

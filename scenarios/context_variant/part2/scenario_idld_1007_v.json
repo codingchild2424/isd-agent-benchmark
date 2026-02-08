@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1007-V",
+  "variant_type": "context_variant",
+  "title": "TVET Project Design and Simulation Development Applying Scientific Inquiry Methods Based on Education 4.0",
+  "context": {
+    "prior_knowledge": "Basic engineering skills, industrial field experience, and foundational scientific experimental design (systematic observation, hypothesis formulation, control of independent/dependent variables)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Building practical environments using digital tools (IoT sensors, AI analysis tools) and conducting industry-linked projects. Focuses on technical problem-solving through scientific methodologies like IoT sensor data measurement and AI model analysis, emphasizing quantitative analysis of experimental results and evidence-based conclusions",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can create TVET project proposals by applying Fourth Industrial Revolution core technologies (AI, IoT, etc.) and scientific inquiry methods (hypothesis formulation–experimentation–analysis–conclusion)",
+    "Using simulation tools reflecting industry requirements, learners can solve technical problems following a scientific inquiry process (hypothesis formulation → variable control → data measurement → analysis → evidence-based conclusion derivation)",
+    "Learners select three or more practice-centered projects completed during a 1–6 month long-term course, systematically organize them according to a portfolio template (cover page, project overview, process/results visualization, self-assessment), and receive feedback through peer evaluation (3 reviewers) and instructor evaluation (4/5 rubric points or higher). Particularly, variable control capabilities and evidence-based conclusion derivation skills based on experimental data are assessed in each project"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Industry-Connected Project Library",
+      "Simulation Software License",
+      "Digital Fabrication Equipment (e.g., 3D Printers)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

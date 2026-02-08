@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0587",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Competency-Based Onboarding Program for Clinical Research Professionals",
+  "context": {
+    "prior_knowledge": "Basic terminology in clinical research and foundational mathematics at the university level",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A medium-scale educational course combining competency-based learning and self-directed learning in limited technological environments (no PCs, smartphone-centric)",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply at least three mathematical modeling techniques when designing clinical research protocols",
+    "Learners can generate two types of reports (basic/advanced) using statistical tools (smartphone app-based) during research data analysis",
+    "Learners can develop self-directed learning plans evaluating role-specific clinical research competencies by reflecting mentor-manager feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Competency-Based Activity Packets (Print Materials)",
+      "Smartphone-compatible statistics app",
+      "Clinical Research Case Workbook",
+      "Mentor-Manager Guide (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

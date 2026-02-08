@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0882-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Practical AI Competencies: Multimedia-Based Computer Graphics Practical Skills Enhancement Program",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners develop the ability to create photorealistic objects using 3D modeling tools.",
+    "Learners apply a spatial-awareness-based graphic design process in VR environments.",
+    "Learners analyze and resolve technical constraints encountered when producing mobile-optimized graphics."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

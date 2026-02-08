@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1105",
+  "variant_type": "idld_aligned",
+  "title": "Mastery Course on Critical Utilization of Online Library Information",
+  "context": {
+    "prior_knowledge": "Basic information retrieval skills and fundamental smartphone operation proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Targeting corporate employees requiring enhanced competencies in scientific research material search and evaluation",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can evaluate credible scientific information sources in online library systems based on at least three criteria",
+    "Learners can select materials aligned with research objectives with over 80% accuracy by comparatively analyzing information search results",
+    "Learners can write reports critically analyzing bias and reliability of academic resources"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible learning management system (LMS)",
+      "Online library demo account",
+      "Science subject sample dataset from information sources",
+      "Mobile-friendly assessment templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0603",
+  "variant_type": "balance_self_directed",
+  "title": "Reinforcement Learning-Based Urban Vehicle Positioning Control Design for [Self-Directed] Learning",
+  "context": {
+    "prior_knowledge": "Foundational knowledge of control systems, programming (e.g., Python), linear algebra, and basic concepts of probability theory",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Utilization of practical model simulations in smartphone-centric environments, analyzing learning cases to resolve GPS signal interference issues in real urban settings.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design a vehicle positioning control system in urban environments using reinforcement learning-based control algorithms",
+    "Analyze positioning errors caused by multipath effects and incorporate them into control systems",
+    "Evaluate control performance using smartphone-based simulation tools in limited technical environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Reinforcement Learning Framework (e.g., OpenAI Gym)",
+      "Mobile-Compatible Simulator",
+      "BeiDou Signal Data Sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

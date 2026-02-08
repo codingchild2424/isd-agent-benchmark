@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0868",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Science Learning Design: Learner-Centered Approach",
+  "context": {
+    "prior_knowledge": "Comprehension of fundamental scientific theories and experimental methods",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Personalized science education using VR simulations accessible via smartphones, with continuous feedback through formative assessments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the science experiment design and analysis process with 80% accuracy through VR simulation",
+    "Learners can improve their experimental design at least twice based on peer feedback and formative assessment",
+    "Learners can develop at least three strategies using simulation tools for scientific problem-solving"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Application",
+      "Cloud-Based Simulation Platform",
+      "Digital Feedback Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

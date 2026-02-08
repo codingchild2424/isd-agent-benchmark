@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4718-V",
+  "variant_type": "context_variant",
+  "title": "Modular Neural Network Design Course for Aircraft Trajectory Prediction",
+  "context": {
+    "prior_knowledge": "Basic understanding of artificial intelligence/neural networks and Python programming experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-oriented education utilizing real-time collaboration tools (Google Colab, GitHub)",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "A design framework for decomposing aircraft trajectory prediction problems into modular units can be explained.",
+    "Three or more neural network modules can be implemented using a divide-and-conquer approach.",
+    "The process of optimizing the predictive performance of modular networks by applying genetic algorithms can be demonstrated"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook Template",
+      "Aircraft Trajectory Dataset Sample",
+      "Modular Network Visualization Resources"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

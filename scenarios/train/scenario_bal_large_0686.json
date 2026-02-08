@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0686",
+  "variant_type": "balance_large_scale",
+  "title": "Machine Learning Model Design from a Socio-Technical Systems Perspective in Large-Scale Education",
+  "context": {
+    "prior_knowledge": "Basic machine learning and statistical knowledge, along with programming experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students Design Machine Learning Models to Solve Real-World Social Problems, Developing Integrated Analysis Skills for Techno-Social Interactions. Team Projects Use Collaboration Tools (Zoom, Miro, GitHub) in a BYOD Environment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Within one week, learners can analyze the impact of data scientists' subjectivity on AI model design through three case studies (e.g., data selection bias, feature engineering decisions, evaluation metric setting) and document their findings in a 5-page APA-formatted report (excluding references).",
+    "Identify at least three social factors to consider when designing a machine learning system tailored to a specific sociocultural context (language processing).",
+    "Within a one-week intensive course, learners can visualize model explainability (using LIME or SHAP) for a given project dataset, propose at least three bias detection and mitigation strategies, and achieve over 80% satisfaction in peer reviews and instructor feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based machine learning library (TensorFlow/PyTorch)",
+      "Jupyter Notebook Environment",
+      "Sociotechnical Systems Analysis Framework Template",
+      "Authentic Language Dataset (e.g., Text Data Related to Social Phenomena)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

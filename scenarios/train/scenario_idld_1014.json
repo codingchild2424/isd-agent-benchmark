@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1014",
+  "variant_type": "idld_aligned",
+  "title": "Digital Literacy-Based Learning Autonomy Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic ICT (Information and Communication Technology) proficiency and language learning experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "General public learners aim for self-directed language learning using digital tools. Applying real-life problem-solving scenarios in a simulation environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can negotiate and utilize digital tools and language learning strategies in a VR simulation environment",
+    "Learners can autonomously collect, process language learning materials, and establish learning plans using ICT tools",
+    "Learners can apply digital literacy competencies to improve language proficiency and self-assess their learning process"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Platform",
+      "Digital Literacy Assessment Tool",
+      "Collaborative Learning Management System (LMS)",
+      "Customizable Language Learning Content Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

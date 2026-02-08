@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2237-V",
+  "variant_type": "context_variant",
+  "title": "Impact of the Learning Styles Myth on Education and Alternative Strategies",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and foundational understanding of diverse learning methodologies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Reflecting the characteristics of science-gifted students considering professional careers (medical/legal/technical), enabling collaboration and research activities via smartphone-centric approaches in limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can critically assess the scientific basis of learning style theories and explain their limitations.",
+    "Learners can design and implement project-based science lessons that integrate diverse teaching methodologies.",
+    "Learners can propose practical educational strategies considering student motivation and learning effectiveness."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Experiment Toolkit",
+      "Printed learning materials",
+      "Low-spec educational app",
+      "Offline Collaboration Board"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

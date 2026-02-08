@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8582-V",
+  "variant_type": "context_variant",
+  "title": "Fundamentals of Earth Observation Data Analysis Using Literate Programming",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Configuring a Jupyter Notebook-based practical learning environment using personal devices (BYOD)",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can design a text/code-integrated document structure (literate programming) in a Jupyter Notebook environment to explain Earth observation data analysis processes.",
+    "Learners can modularize Python functions for visualizing atmospheric composition data and performing statistical analysis to create reusable code.",
+    "Learners can document and share analysis processes using Jupyter ecosystem tools (GitHub, Binder, etc.)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook Template",
+      "Atmospheric Composition Sample Dataset",
+      "LTPy Style Guide",
+      "Analysis Product Portfolio Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2417",
+  "variant_type": "idld_aligned",
+  "title": "Short-Intensive sMOOC Course for Personalized Mathematics Learning",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts (middle school level)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Providing personalized math learning experiences via smartphones for professionals in medical/legal/technical fields. Emphasizing real-world application competencies through real-time interaction and project-based assessments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can utilize basic statistical analysis techniques to solve work-related mathematical problems.",
+    "Learners design personalized learning pathways to achieve an 80%+ target completion rate within one week.",
+    "Learners collaborate with peers to produce a single video (under 3 minutes) explaining complex mathematical concepts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible Zoom account",
+      "Mobile-Optimized LMS",
+      "PDF Learning Materials",
+      "Google Forms Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2680",
+  "variant_type": "idld_aligned",
+  "title": "Online Science Education Communication Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Experience with foundational online learning platforms (LMS), secondary-level science knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Program for professionals in medical/legal/technical fields to acquire effective online communication strategies in elementary science education settings",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can structure scientific arguments using three methods in asynchronous discussion boards and compose discussion posts.",
+    "Learners can collect peer feedback via weekly real-time video conferences and implement a process to incorporate it into instructional design.",
+    "Learners can produce a 5-minute multimedia content piece explaining scientific concepts using LMS tools (voice recording, screencasting)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform with Zoom integration",
+      "Science education case video library",
+      "Online Discussion Management Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

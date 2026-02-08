@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0586-V",
+  "variant_type": "context_variant",
+  "title": "Competency-Based Science Learning Experience Analysis and Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and basic proficiency in mobile device usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Activity-based learning combined with reflective practice in limited technological environments (primarily smartphones) for science-related job competency enhancement",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will analyze knowledge-skills-attitudes (KSA) components constituting core competencies in science experiment design with ≥80% accuracy within six months.",
+    "Learners will record and self-assess ≥3 scientific problem-solving experiences in contexts resembling real-world job scenarios via weekly activity-based learning modules.",
+    "Learners will reflect ≥90% of competency development insights gained from self-confrontation interviews into project-based assessments to finalize deliverables."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible authoring tool",
+      "Science Experiment Simulation App",
+      "Competency Development Checklist Template",
+      "Audio-Based Self-Reflection Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

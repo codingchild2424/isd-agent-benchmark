@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6979",
+  "variant_type": "idld_aligned",
+  "title": "Gradual Instructional Design for Understanding Venous Return Principles",
+  "context": {
+    "prior_knowledge": "Understanding of basic blood circulation structure and pressure concepts, general knowledge of biomechanics",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Emphasizing the cultivation of pre-service teachers' ability to apply physiological principles using mathematical modeling",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain at least three factors determining mean circulatory filling pressure (MCFP) in the vascular system.",
+    "Learners can graphically represent the effects of cardiac output and vascular resistance changes on central venous pressure (CVP).",
+    "The impact of oncotic pressure and vascular elasticity on venous return can be simulated using a mathematical model."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Interactive Simulation App",
+      "Step-by-Step Concept Summary PDF Worksheet",
+      "Low-Spec PC Blood Pressure Calculation Spreadsheet Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

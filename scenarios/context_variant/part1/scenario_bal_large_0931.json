@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0931",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Strategies to Improve Learning Outcomes in Science Programs Through Explicit Response-Demand Learning",
+  "context": {
+    "prior_knowledge": "Comprehension of fundamental scientific theories and experimental methods",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners possess intermediate expertise in science, operating in environments enabling collaborative learning with personal devices and immediate feedback",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve over 80% accuracy in conceptual understanding of science programs by applying explicit response demand learning strategies.",
+    "Learners enhance error analysis skills during the explicit response process for multiple-choice questions.",
+    "After a 1-week intensive short-term course, learners can propose solutions applying learned concepts to three new scientific problem scenarios and demonstrate conceptual transfer by achieving an \"excellent\" rating in at least two out of three formative assessment rubric criteria: clarity, creativity, and scientific validity."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Program Learning Materials",
+      "Digital Quiz Platform",
+      "Formative Assessment Item Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM2-0031",
+  "variant_type": "balance_medium_final",
+  "title": "Data-Driven Technology-Integrated Mathematics Learning Design",
+  "context": {
+    "prior_knowledge": "Understanding Basic Mathematical Concepts and Basic Smartphone Usage Skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Focuses on developing mathematical problem-solving skills using mobile devices in restricted technological environments. Requires tailored design considering learners' digital self-efficacy and engagement differences.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design math problem-solving strategies with 80% accuracy using data mining-based analysis",
+    "Learners can improve their digital technology efficacy in mobile environments by over 30% and effectively apply it to math learning",
+    "Learners can identify at least three patterns of their engagement in technology-integrated learning processes through project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Data Analysis Simulation Tool",
+      "Digital Technology Self-Efficacy Measurement Survey"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

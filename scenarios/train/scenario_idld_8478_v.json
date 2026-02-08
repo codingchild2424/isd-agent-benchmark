@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8478-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Software Development Practical Competencies: Blended Teaching Strategy Development for Remote Learning Design",
+  "context": {
+    "prior_knowledge": "Basic experience with online learning platforms and social studies knowledge at or above secondary education level",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can implement remote lesson designs combining asynchronous/synchronous strategies with over 80% accuracy.",
+    "Learners can critically evaluate hybrid instructional materials applying the ANEKA concept (diverse learning activity approaches) at least three times.",
+    "Learners can revise and improve learning designs twice or more based on formative assessment results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

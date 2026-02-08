@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0875-V",
+  "variant_type": "context_variant",
+  "title": "Short-Intensive Workshop on Scientific Translation Techniques: Enhancing Life Science Text Translation Skills (Focusing on Experimental Procedures, Hypothesis Verification, and Data Analysis Translation)",
+  "context": {
+    "prior_knowledge": "Basic translation theory and scientific field-specific terminology (life science laboratory terms: microscopy, cell culture, PCR analysis; research methodologies: control group design, random sampling; data analysis expressions: standard deviation, significance level (p-value))",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in smartphone-based learning environments, emphasizing applicability to the work of current science translators. Focuses on translating core elements of scientific texts: experimental procedures (variable control, measurement methods), data analysis (statistical processing, graph interpretation), and hypothesis verification (evidence collection, conclusion drawing). Includes mobile CAT tools and real-time collaboration scenarios.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Utilize basic functions of CAT tools (Trados, MemoQ) with over 80% accuracy for scientific text translation, and accurately translate experimental procedures (variable control, measurement methods) and hypothesis verification (evidence collection, conclusion derivation) content in life sciences papers.",
+    "Perform translation collaboration processes (shared documents, real-time feedback) in mobile environments at least three times and evaluate scientific accuracy and consistency of evidence-based expressions (data visualization, analysis results) through peer review.",
+    "Learners translate three life sciences papers within a week, maintain consistency for over 20 key terms (experimental tools, analysis techniques) using a glossary, and submit translations meeting at least four of five quality-checklist items (terminology accuracy, sentence structure, data representation, hypothesis description, conclusion consistency) via peer review.",
+    "Learners establish and execute a self-directed learning plan in a blended learning environment, utilizing online lectures (3 sessions/week, 60 minutes/session) and offline workshops (2 sessions/week, 90 minutes/session) for translation skill development within a week. The plan specifies time allocation (60% online: 180 minutes, 40% offline: 180 minutes) and weekly goals (85% translation accuracy). Additionally, they submit a weekly learning journal (2,000 characters) and two translation assignments (1 experimental report: 500 words, 1 research abstract: 300 words), with accuracy measured by certified tools (e.g., BLEU Score), emphasizing experimental observations, graph interpretation, and research conclusion summaries."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Translation Memory Database Template",
+      "Mobile-Optimized Translation Tool Guide",
+      "Glossary of Scientific Terminology"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

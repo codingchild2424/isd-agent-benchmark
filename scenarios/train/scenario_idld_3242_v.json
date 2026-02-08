@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3242-V",
+  "variant_type": "context_variant",
+  "title": "Data Science Practical Competency Enhancement: Online Cross-Cultural Field Learning: Action Research-Based Elementary",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify and explain at least three intercultural communication strategies in online environments.",
+    "Learners can plan and implement online field research using action research methodologies.",
+    "Learners can analyze data collected through virtual field visits and develop one intercultural education scenario."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

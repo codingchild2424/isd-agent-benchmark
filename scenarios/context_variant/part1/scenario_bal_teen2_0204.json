@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0204",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Mobile Device-Enabled Science Education Curriculum for Low-Income High Schools in Nepal",
+  "context": {
+    "prior_knowledge": "Comprehension of basic science concepts and ability to operate simple mobile devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Mobile-Device-Dependent Environment Without Desktop/Notebook Computers, Considering Potential Instability in Internet Access",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can explore science-related digital content (videos, simulations) using mobile devices and explain key concepts",
+    "Learners can systematically document experimental observations using internet-based science resources (dictionaries, learning apps)",
+    "By the end of instruction, students can present science portfolios (photos, videos, reports) created with mobile tools according to evaluation criteria"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone/Tablet",
+      "Offline science content package",
+      "Basic internet connectivity environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

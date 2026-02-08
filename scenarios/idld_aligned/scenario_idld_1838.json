@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1838",
+  "variant_type": "idld_aligned",
+  "title": "Strengthening Mathematical Learning Competencies Using Personalized Music Education Recommendation Algorithms",
+  "context": {
+    "prior_knowledge": "Comprehension of fundamental mathematical concepts and general interest in musical elements",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based learning focusing on the integration of music data and mathematical modeling in smartphone-based learning environments",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply matrix decomposition and latent factor modeling techniques for pattern analysis of music data",
+    "Learners can understand the structure of DBN-DNN models and explain parameter optimization processes required for music recommendation systems",
+    "Learners can collect and analyze music preference data in smartphone environments to generate personalized learning recommendation lists",
+    "Learners can calculate accuracy-recall metrics and interpret results for performance evaluation of music recommendation algorithms"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Web-Based Recommendation System Simulation Tool",
+      "Open-Source Music Dataset (MP3 Samples + Metadata)",
+      "Matrix Operations Visualization App",
+      "Weekly learning checklist template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

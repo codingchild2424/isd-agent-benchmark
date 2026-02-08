@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1453",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] VR-Based Fire Preparedness Simulation Game Project: Contextual Language Expression and Communication Training (Imperative Sentences, Warning Messages, Technical Terminology Application)",
+  "context": {
+    "prior_knowledge": "Basic fire safety knowledge and first-aid awareness, comprehension of situational language expressions (imperatives, warnings, explanations, instructions, reports, etc.), and recognition of vocabulary and grammatical structures required in emergencies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A VR simulation-based fire response training project in smartphone-limited environments, focusing on simultaneously enhancing situational awareness and language skills (reading, writing, listening, expression). Stresses effective communication training in emergencies, requiring command/warning texts and specialized terminology.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Perform core procedures (‘reporting request’, ‘evacuation guidance’, ‘fire extinguisher use’) in a VR fire scenario with 80% accuracy, and appropriately use command, warning, and explanatory expressions.",
+    "Identify hazard zones and plan evacuation routes based on fire spread pattern analysis, improving team communication skills (instructions, reports, confirmations).",
+    "Apply role division and collaboration strategies in team-based simulations to real situations, developing communication skills using fire safety terminology (fire class, evacuation signal, emergency procedures, etc.)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR Device (Cardboard/Low-End HMD)",
+      "Fire Simulation Software License",
+      "Fire Safety Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

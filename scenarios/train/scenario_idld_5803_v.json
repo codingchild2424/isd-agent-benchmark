@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5803-V",
+  "variant_type": "context_variant",
+  "title": "Contextual Information Utilization Sports Practice Design Strategy",
+  "context": {
+    "prior_knowledge": "Understanding fundamental principles of sports training and possessing intermediate-level exercise techniques",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires content design optimized for smartphone-based learning environments, emphasizing learning tasks that simulate real sports competition scenarios.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design practice tasks incorporating situational information (scores, time, etc.)",
+    "Learners can construct training environments that elicit athletes' cognitive-emotional responses to improve performance",
+    "Learners can analyze athletes' distance adjustment and skill selection patterns under conditions simulating actual competitions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Sports Training Video Materials",
+      "Mobile-friendly Simulation Tools",
+      "Interactive Learning Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0524-V",
+  "variant_type": "context_variant",
+  "title": "POCUS (Point-of-Care Ultrasound) Practical Training Program for Low-Income Settings",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "POCUS training utilizing smartphone-based VR simulations and offline practical materials",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the basic imaging acquisition procedures for abdominal/chest/obstetrics and gynecology domains using POCUS equipment.",
+    "In resource-limited settings, learners can perform emergency patient assessment protocols using POCUS with 80% accuracy.",
+    "Using smartphone-based VR simulations, learners can reduce POCUS imaging interpretation errors by 50%."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible VR Headset",
+      "POCUS (Point-of-Care Ultrasound) virtual simulation software",
+      "Offline educational image dataset",
+      "Portable ultrasound probe kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

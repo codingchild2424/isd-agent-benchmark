@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6433",
+  "variant_type": "idld_aligned",
+  "title": "Flipped Learning-Based Nursing Skill Performance Improvement Program",
+  "context": {
+    "prior_knowledge": "Basic knowledge of medical terminology and patient care procedures",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Small classroom environments where pre-learning materials are accessible via smartphones but PC environments are unavailable. Conducting practical exercises using real nursing simulation equipment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform basic nursing skills (blood pressure measurement, injection administration, etc.) with over 85% accuracy based on OSCE evaluation criteria four weeks later.",
+    "Learners can establish and execute weekly learning plans with over 90% implementation rate using self-regulated learning strategies.",
+    "Learners can correct practical errors with 100% peer feedback incorporation through flipped learning activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Nursing Simulation Kit",
+      "Video Production Equipment",
+      "Performance Tracking Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

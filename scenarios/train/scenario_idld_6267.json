@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6267",
+  "variant_type": "idld_aligned",
+  "title": "Foreign Language (Chinese) Learning Design Using LLM-Based Gamified Simulations",
+  "context": {
+    "prior_knowledge": "Basic Chinese Vocabulary and Grammar Knowledge at HSK Level 3",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "VR simulation environment focusing on acquiring practical Chinese expressions for workplace scenarios, aligned with science-related job functions",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners improve accuracy in using basic science vocabulary (e.g., lab tools, units) by over 30% after 10+ interactions with an LLM tutor in VR environments.",
+    "Learners apply work-related expressions (e.g., safety protocols, data reporting) with over 80% accuracy using context-specific feedback from an LLM tutor during simulation tasks.",
+    "Learners independently attempt problem-solving strategies five or more times when non-content interactions (e.g., technical support requests) occur in-game."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headsets (10 units)",
+      "Educational Game Platform License",
+      "LLM-Based Tutoring System",
+      "Science Domain Contextual Chinese Content Package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,80 @@
+{
+  "context.duration": {
+    "단기 집중 과정(1주 내)": "Short-term intensive (within 1 week)",
+    "중기 과정(2–4주)": "Mid-term course (2-4 weeks)",
+    "장기 과정(1~6개월)": "Long-term course (1-6 months)"
+  },
+  "context.learning_environment": {
+    "오프라인(교실 수업)": "Offline (classroom)",
+    "온라인 실시간(Zoom 등)": "Online synchronous (Zoom, etc.)",
+    "온라인 비실시간(LMS)": "Online asynchronous (LMS)",
+    "블렌디드(혼합형)": "Blended learning",
+    "모바일 마이크로러닝": "Mobile microlearning",
+    "시뮬레이션/VR 기반": "Simulation/VR-based",
+    "프로젝트 기반(PBL)": "Project-based learning (PBL)"
+  },
+  "context.class_size": {
+    "소규모(1–10명)": "Small (1-10 learners)",
+    "중규모(10–30명)": "Medium (10-30 learners)",
+    "대규모(30명 이상)": "Large (30+ learners)"
+  },
+  "context.institution_type": {
+    "초·중등학교": "K-12 school",
+    "대학교(학부)": "University (undergraduate)",
+    "대학원": "Graduate school",
+    "기업": "Corporate/Enterprise",
+    "직업훈련기관": "Vocational training institution",
+    "공공/비영리 교육기관": "Public/Non-profit educational institution"
+  },
+  "context.learner_age": {
+    "10대": "Teens (13-19)",
+    "20대": "In their 20s",
+    "30대": "In their 30s",
+    "40대 이상": "40s and above"
+  },
+  "context.learner_education": {
+    "초등": "Elementary",
+    "중등": "Middle school",
+    "고등": "High school",
+    "대학": "University",
+    "성인 학습자(비학위)": "Adult learner (non-degree)"
+  },
+  "context.learner_role": {
+    "학생": "Student",
+    "직장인(사무/관리)": "Office worker (administrative/management)",
+    "전문직(의료/법률/기술)": "Professional (medical/legal/technical)",
+    "예비 교사/교사": "Pre-service/In-service teacher"
+  },
+  "context.domain_expertise": {
+    "초급": "Beginner",
+    "중급": "Intermediate",
+    "고급": "Advanced"
+  },
+  "constraints.tech_requirements": {
+    "개인 기기 지참(BYOD)": "Bring Your Own Device (BYOD)",
+    "디지털 기기 제공": "Digital devices provided",
+    "제한적 기술 환경(PC 미보유, 스마트폰 위주)": "Limited tech environment (no PC, smartphone only)"
+  },
+  "constraints.assessment_type": {
+    "형성평가 중심": "Formative assessment-focused",
+    "총괄평가 중심": "Summative assessment-focused",
+    "프로젝트 기반 평가": "Project-based assessment"
+  },
+  "difficulty": {
+    "쉬움 - 단순한 구조, 제약조건 최소": "Easy - Simple structure with minimal constraints",
+    "보통 - 일반적인 복잡도, 몇 가지 제약조건": "Moderate - Standard complexity with some constraints",
+    "어려움 - 복잡한 요구사항, 다수의 제약조건": "Hard - Complex requirements with multiple constraints"
+  },
+  "domain": {
+    "과학": "Science",
+    "수학": "Mathematics",
+    "언어": "Language",
+    "사회": "Social Studies",
+    "교육(교수·학습)": "Education (Teaching & Learning)",
+    "AI": "AI",
+    "개발(Software/IT)": "Software Development/IT",
+    "경영/HR/경영지원": "Business/HR/Admin Support",
+    "서비스/고객응대": "Service/Customer Support",
+    "의료/간호": "Medical/Nursing"
+  }
+}

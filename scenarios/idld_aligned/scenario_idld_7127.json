@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7127",
+  "variant_type": "idld_aligned",
+  "title": "Pharmacy Practice Education: Intensive Short-Term Course Using Computer-Based Simulation",
+  "context": {
+    "prior_knowledge": "Basic pharmaceutical theory knowledge and foundational patient counseling skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Flexible scheduling for working professionals and mobile-environment optimization",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will enhance their ability to evaluate drug interactions and side effects through simulation-based patient counseling.",
+    "Learners will execute prescription review and dispensing processes with 80% accuracy in a virtual pharmacy environment.",
+    "Learners will create patient education materials using digital platforms and apply them to role-playing scenarios at least three times."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Web-Based Simulation Platform",
+      "Mobile-Compatible Learning Materials",
+      "Zoom Account",
+      "Basic Digital Assessment Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

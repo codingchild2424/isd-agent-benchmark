@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5598",
+  "variant_type": "idld_aligned",
+  "title": "Collaborative Grammar Learning Course Based on the ARCS Model",
+  "context": {
+    "prior_knowledge": "Understanding of basic grammatical structures and experience with digital learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Establishing collaborative learning environments through personal device utilization, project-based assessment systems, and cyber interactions",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply grammar concepts with over 85% accuracy through learning activities utilizing the four ARCS model elements (Attention, Relevance, Confidence, Satisfaction).",
+    "Learners can reduce grammar errors by over 50% through peer assessment and feedback on an online collaborative learning platform.",
+    "Learners can accurately analyze complex grammatical structures by context through more than three project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ARCS-Based Interactive Content in LMS",
+      "Real-Time Collaboration Tools (Google Docs, Padlet, etc.)",
+      "Grammar Error Analysis AI Feedback System",
+      "Digital Grammar Workbook Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

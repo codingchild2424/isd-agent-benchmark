@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7760-V",
+  "variant_type": "context_variant",
+  "title": "Adaptive Instructional Design Course Based on Learning Management Systems (LMS)",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course for learner-customized educational design in a smartphone-centric, limited-technology environment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can propose personalized learning path designs by analyzing activity evaluation data for each learner",
+    "Learners can apply methods to set activity access restrictions based on proficiency levels in the Moodle platform",
+    "Learners can validate educational effectiveness through an iterative design process based on Design-Based Research (DBR) methodology"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Learning Analytics Tools",
+      "Offline Workshop Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

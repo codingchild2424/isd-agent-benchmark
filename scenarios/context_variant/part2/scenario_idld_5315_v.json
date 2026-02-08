@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5315-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Civic Education Character Development Program",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and general comprehension of citizenship education",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Operating microlearning modules for developing five core citizenship values (kindness/honesty/hygiene/religious values/artistic sensibility) in mobile environments for in-service professionals",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately perform situation-based conversation simulations applying the 5S principles (smile/greeting/etiquette) via mobile platforms with over 80% accuracy.",
+    "Learners can improve their honest decision-making skills by over 75% through an integrity assessment game (virtual cafeteria management) in digital environments.",
+    "Learners can design environments meeting at least 3 out of 4 cleanliness evaluation criteria in a hygiene management VR module."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "VR Sanitation Management Simulator",
+      "Conversational AI Chatbot",
+      "Digital Badging System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

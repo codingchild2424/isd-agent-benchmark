@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1151-V",
+  "variant_type": "context_variant",
+  "title": "Learning Analytics-Based Language Education Design Strategies",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-synchronous learning in a smartphone-based LMS environment, studying learning analytics theories and application cases for language job skill enhancement",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Can explain the historical developmental stages of learning analytics divided into four eras",
+    "Can comparatively evaluate the differences between learning analytics and educational data mining from a theoretical perspective",
+    "Can critically analyze cases applying learning analytics theories to language learning design",
+    "Can identify at least three ethical issues that may arise when utilizing learning analytics and propose mitigation strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-Optimized Learning Materials",
+      "Learning analytics case database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4941",
+  "variant_type": "idld_aligned",
+  "title": "Utilizing Multi-Relational Graph Neural Networks for Knowledge Graph Completion",
+  "context": {
+    "prior_knowledge": "Basic Graph Theory and Machine Learning Concepts, Programming Experience (Python Recommended)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for professionals in medical, legal, and technical fields to learn knowledge graph completion techniques for systematizing work-related knowledge.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will be able to explain the basic structure of knowledge graphs and the necessity of Knowledge Graph Completion (KGC).",
+    "Learners will be able to analyze the limitations of GCN-based models and understand the operational principles of multi-relational graph neural networks (CorIn).",
+    "Learners will be able to implement knowledge graph completion models applicable to real-world domains (medical/legal/technical).",
+    "Learners will be able to visualize and evaluate knowledge graph completion results in project form."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python Development Environment",
+      "GPU Accelerator Support",
+      "PyTorch/Deep Graph Library (DGL)",
+      "Open Knowledge Graph Dataset (Freebase/Wikidata)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

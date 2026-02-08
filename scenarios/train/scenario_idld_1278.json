@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1278",
+  "variant_type": "idld_aligned",
+  "title": "Cognitive Theory-Driven Multimedia Mathematics Learning Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts (fractions, geometry, measurement)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended learning environment combining digital devices with traditional classroom activities, applying mathematical concepts to understand scientific systems.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain geometric transformation principles (rotation, symmetry) with 80% accuracy through animations and voiceover explanations",
+    "Learners can mathematically model real-world problems (e.g., bicycle tire pressure calculations) using multiple representations (graphs + text)",
+    "Learners can demonstrate data interpretation processes step-by-step based on visual materials created with digital tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PC",
+      "Interactive Whiteboard",
+      "Mathematical simulation software",
+      "Offline workbooks"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0334",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Mastering Droplet Microfluidics Design Using Reinforcement Learning",
+  "context": {
+    "prior_knowledge": "Elementary Fluid Mechanics and Programming Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhancing competency in integrated microfluidic device design for practical application",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can propose microfluidic network designs meeting specified functional requirements using reinforcement learning algorithms",
+    "Learners can simulate the implementation of an integrated chip design for complex tasks such as droplet alignment/sorting",
+    "Learners can derive optimized network structures compared to traditional genetic algorithms (GA) by applying RL-based decision-making processes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Microfluidics Simulation Software License",
+      "Python-Based Reinforcement Learning Framework",
+      "Droplet Behavior Visualization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

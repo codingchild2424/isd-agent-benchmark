@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6145-V",
+  "variant_type": "context_variant",
+  "title": "Deep Learning Practical Competency Enhancement: Scientific Thinking Improvement Course Using Concept Mapping Strategies",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design and implement concept mapping strategies that provide customized scaffolding for students with varying levels of prior knowledge",
+    "Learners can independently create concept maps that visually represent hierarchical relationships of scientific concepts",
+    "Learners can submit project outcomes analyzing the educational effectiveness of concept maps through peer assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

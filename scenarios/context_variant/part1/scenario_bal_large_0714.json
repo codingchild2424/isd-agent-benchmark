@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0714",
+  "variant_type": "balance_large_scale",
+  "title": "Large-Scale Hypermedia-Based Self-Regulated Learning Competency Enhancement Course",
+  "context": {
+    "prior_knowledge": "Advanced expertise in the field of science",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A short-term course for current science practitioners to acquire self-regulated learning strategies in a mobile environment using personal devices (BYOD), with metacognitive support via a multi-agent tutoring system.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can execute at least three self-regulated learning strategies in hypermedia environments using a multi-agent tutoring system",
+    "Learners can reconstruct core concepts based on domain knowledge and apply them to project outputs with over 80% accuracy",
+    "Learners can diagnose their learning patterns and establish improvement plans by analyzing system log data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Meta-Tutor System Accessibility",
+      "Mobile Learning Platform",
+      "Science Domain Content Library",
+      "Learning Analytics Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

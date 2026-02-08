@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8523-V",
+  "variant_type": "context_variant",
+  "title": "Inquiry-Based Modeling Tasks for Reimagining Decision Diagrams",
+  "context": {
+    "prior_knowledge": "Understanding of basic algebra and function concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Providing mobile-optimized content to enhance mathematical modeling competencies for professionals in healthcare, legal, and technical fields.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can translate real-world phenomena into mathematical equations and explain system dynamics based on parameter changes.",
+    "Through inquiry-based task performance, students can discover and reconstruct key features of bifurcation diagrams.",
+    "Students can simulate nonlinear system modeling processes and interpret results using smartphone-based interactive tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized web-based simulation tool",
+      "Step-by-step learning guide in PDF format",
+      "Video lecture clips (5-minute segments)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

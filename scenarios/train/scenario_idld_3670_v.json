@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-3670-V",
+  "variant_type": "context_variant",
+  "title": "Simulation-Based Medical Education Design: Iterative Alpha/Beta Testing Process",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Teaching competency enhancement program for pre-service or in-service teachers; simulation-based medical scenario design education conducted in smartphone-centric limited-technology environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Learners apply three criteria to evaluate the realism (Reality) of simulation scenario designs.",
+    "Learners can identify and improve five key issues that may arise during the simulation protocol modification process.",
+    "Learners can implement three strategies for effective communication during the role allocation and introduction phase.",
+    "Learners can analyze alpha/beta test results to derive core improvement areas in scenario design."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Simulation Authoring Tool",
+      "Zoom Real-Time Session Recording Feature",
+      "Scenario Templates and Checklists",
+      "Real-Time Collaborative Whiteboard Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

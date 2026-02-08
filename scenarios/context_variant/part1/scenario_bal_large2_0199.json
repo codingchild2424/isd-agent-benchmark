@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0199",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Science Teacher Competency Enhancement Workshop for Problem-Based Learning",
+  "context": {
+    "prior_knowledge": "Understanding Secondary Science Curriculum Content and Basic PBL (Project-Based Learning) Design Experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasis on smartphone-based learning support tools and offline group collaboration activities.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participants can evaluate learners' interaction patterns by utilizing AI analysis tools when designing PBL lessons.",
+    "Participants can compare AI-generated videos (with/without previews) to explain criteria for selecting efficient teaching methods.",
+    "Within two weeks, participants will create design plans converting three complex scientific concepts (e.g., quantum superposition, gene expression) from physics/biology into PBL scenarios and achieve an average score of ≥4 on a 5-point peer evaluation rubric."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3 Portable Projectors Connectable to Smartphones",
+      "5 Types of PBL Template Worksheets",
+      "AI Analysis Sample Data Package",
+      "10 Sets of Offline Collaboration Boards"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

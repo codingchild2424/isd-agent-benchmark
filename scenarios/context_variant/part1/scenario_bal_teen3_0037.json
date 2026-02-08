@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN3-0037",
+  "variant_type": "balance_teen_v3",
+  "title": "E-Learning System Development and Management: Project-Based Learning",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and foundational science knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners utilize smartphones as primary learning tools and experience collaboration and content management via LMS",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the core components and development processes of e-learning systems.",
+    "Learners can plan, produce, and distribute educational content using a Learning Management System (LMS).",
+    "Learners can design and implement science education projects optimized for mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Open-source e-learning tools",
+      "Science education content templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

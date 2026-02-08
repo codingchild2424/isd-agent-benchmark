@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4850-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Mobile Microlearning with Evidence-Based E-Learning Principles",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and work-related communication experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately utilize 20 intermediate-level language expressions required in workplace situations.",
+    "Through 5-minute modular content, learners can apply language learning strategies with 80% or higher accuracy.",
+    "Learners can complete language tasks reflecting real workplace scenarios through collaborative projects with peers."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

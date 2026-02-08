@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4668",
+  "variant_type": "idld_aligned",
+  "title": "Virtual Environment-Based Patient Education Program Design for Radiation Therapy",
+  "context": {
+    "prior_knowledge": "Understanding Basic Medical Terminology and Fundamental Concepts in Radiation Therapy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A program focused on enhancing radiation therapy patient education competencies for novice healthcare professionals, utilizing experiential content developed and applied through virtual learning tools similar to the VERT/PEARL system.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Through virtual environment simulations, learners can explain radiation therapy procedures and equipment usage with 90% accuracy.",
+    "Via role-play-based PBL activities, learners can identify at least three real-world issues in patient education and propose response strategies.",
+    "Learners can present improvement plans that enhance the effectiveness of patient education materials related to radiation therapy by over 80% through formative assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VERT/PEARL-Like Virtual Training Platform",
+      "3D Modeling Software",
+      "Medical Simulation Equipment",
+      "Radiation Therapy Patient Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6280",
+  "variant_type": "idld_aligned",
+  "title": "Mathematical Content Transformation Design for Large-Scale Virtual Classroom Learning",
+  "context": {
+    "prior_knowledge": "Basic mathematical knowledge and professional work experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Designed for professionals in medical, legal, and technical fields to learn math content in virtual classrooms using smartphones. Applied a systematic learning design framework using the Fuzzy Delphi technique.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can complete PBL projects in a virtual classroom environment with over 80% completion to solve mathematics problems linked to professional tasks.",
+    "Learners can convert existing content into educational materials for virtual classrooms by applying a fuzzy Delphi-based learning design framework.",
+    "Learners can use collaborative tools and digital resources for mathematics learning in smartphone-based constrained technical environments with 90% utilization efficiency."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Learning Management System (LMS)",
+      "PBL (Project-Based Learning) template",
+      "Mathematical simulation tool",
+      "Fuzzy Delphi evaluation checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

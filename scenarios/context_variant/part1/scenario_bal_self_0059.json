@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-0059",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-directed] Cognitive Load Reduction-Based PBL Design for Orthopedic Physical Therapy Skills Training",
+  "context": {
+    "prior_knowledge": "Basic physiology and exercise biomechanics knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Utilization of smartphone-based learning materials, team-based clinical case analysis, and practical project implementation",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain complex orthopedic treatment techniques with ≥80% precision using cognitive load-minimized materials",
+    "Learners achieve ≥90% task completion rates through teamwork-based PBL assignments",
+    "Learners demonstrate ≥85% mastery of motor function recovery techniques on standardized assessment tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible learning modules",
+      "3D animation resources",
+      "Step-by-step checklist",
+      "Team-based case workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

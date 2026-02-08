@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0238",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Alcohol Reaction Master: Card Game-based Learning Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic organic chemistry concepts (structural formulas, functional groups, reaction types)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students progress while reviewing responsive mechanism supplementary materials on personal devices (tablets/smartphones).",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain alcohol substitution and elimination reaction mechanisms with 80% accuracy",
+    "Reaction pathways based on conditions (temperature, solvent, substrate structure) can be predicted with over 70% accuracy",
+    "Learners can analyze and explain factors influencing competitive reaction (SN1/SN2/E1/E2) selectivity through card game simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Alcohol Reaction Card Set",
+      "Reaction Mechanism Poster",
+      "Quiz Assessment Rubric",
+      "Supplemental Digital Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

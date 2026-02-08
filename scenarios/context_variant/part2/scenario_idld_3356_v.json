@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3356-V",
+  "variant_type": "context_variant",
+  "title": "Distributed Deep Learning Simulation Education Based on 6G Networks",
+  "context": {
+    "prior_knowledge": "Elementary mathematics (algebra/geometry), network concepts, and beginner-level machine learning knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Technology convergence education for office/administrative professionals conducted outside of work hours",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "One can explain the impact of 6G network's uRLLC (ultra-reliable low-latency communication) characteristics on distributed deep learning.",
+    "One can design a CNN model training process in a 6G environment using simulation tools.",
+    "One can complete a project verifying the reliability of distributed learning models by applying blockchain-based consensus algorithms."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software",
+      "Distributed Computing Platform License",
+      "6G Network Emulator",
+      "Blockchain Learning Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

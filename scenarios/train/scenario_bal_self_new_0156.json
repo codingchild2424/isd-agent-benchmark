@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0156",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Workshop on Utilizing Virtual Reality-Based Science Education Tools",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and experience in science education",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Structured around real-life application cases reflecting adult learners' experiences.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can simulate science concepts in a three-dimensional environment using virtual reality tools.",
+    "Learners can propose three or more curriculum integration strategies for VR-based educational tools.",
+    "Learners can design activity plans to enhance students' executive functions (attention, decision-making) in virtual reality environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Pil Books VR Solution",
+      "Science Education Standards Framework",
+      "Formative assessment rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

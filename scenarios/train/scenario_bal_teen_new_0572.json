@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0572",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Teacher Learning Design Competency Strengthening Program Based on Digital Innovation and Neuroscience",
+  "context": {
+    "prior_knowledge": "Foundational instructional design theories and digital tool utilization experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mathematics-focused collaborative learning environment, featuring fully digital-equipped classrooms and online learning platform support.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Teachers design 3-class sessions for middle school Grade 1 math units (equations, functions) using AI-based analysis tools (e.g., ChatGPT, GeoGebra) and interactive content (e.g., Kahoot!, Desmos) in a blended learning environment. They achieve an \"Excellent\" rating in ≥ 4 of 5 peer evaluation rubric items.",
+    "Develop at least three mathematics teaching strategies applying neuroscience-based learning principles (attention, working memory, executive function, emotional regulation)",
+    "Co-create at least two curriculum improvement proposals through collaborative design processes in professional learning communities (PLCs)",
+    "Learners analyze formative assessment data (3+ subjects) from elementary/middle schools, design a learner-customized feedback system with ≥ 80% accuracy using Python-based recommendation algorithms, and implement a prototype within 6 months."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital education platform account",
+      "Neuroscience-based instructional guidebook",
+      "Collaborative learning worksheet template",
+      "AI Analysis Tool Sample Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

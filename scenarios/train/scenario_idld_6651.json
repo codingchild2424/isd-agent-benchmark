@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6651",
+  "variant_type": "idld_aligned",
+  "title": "Efficient Medical Procedure Learning Design in Operating Room Environments",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and operating room procedures",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Microlearning design reflecting the impact of physical layout in operating room learning environments on educational effectiveness for practicing professionals.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain three or more differences in learning effectiveness based on operating room spatial arrangements (visibility, positioning).",
+    "Learners can accurately reproduce over 80% of key steps through a surgical procedure simulation module provided in a mobile environment.",
+    "Learners can propose team-based improvement plans for operating room learning environments and demonstrate their feasibility via project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Operating Room Modeling Tool",
+      "AR Procedural Simulation App",
+      "Mobile-Compatible Assessment Rubric",
+      "Collaborative learning platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

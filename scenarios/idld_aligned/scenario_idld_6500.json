@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6500",
+  "variant_type": "idld_aligned",
+  "title": "Multimedia mobile learning for elementary biology concept comprehension",
+  "context": {
+    "prior_knowledge": "Knowledge of basic biological terminology and elementary-level science concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-based learning requiring module design that prioritizes audio explanations and visual materials over text",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Accurately explain ≥85% of core elementary biology concepts (plant structures, animal classification, ecosystems, etc.)",
+    "Enhance cognitive integration of biological phenomena through visual-auditory processing using multimedia resources",
+    "Effectively utilize ≥90% of learning modules combining voice descriptions (text alternatives) with images/videos in mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Biology Animation/Infographic with Audio Narration",
+      "Interactive Quiz Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

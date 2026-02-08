@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-1422",
+  "variant_type": "balance_large_scale",
+  "title": "Large-Scale Understanding of Transfer Learning-Based Indoor Positioning Systems: Language Data Processing and Spatial Representation Optimization",
+  "context": {
+    "prior_knowledge": "Basic machine learning concepts, general understanding of indoor positioning systems, foundational knowledge of text preprocessing and embedding techniques, basic NLP (grammar, vocabulary, text analysis), and introductory spatial representation modeling",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A process exploring AI technology applications for real-life problem-solving. Focuses on the operational principles of fingerprint-based location recognition systems and transfer learning techniques, particularly emphasizing spatial representation optimization and domain-specific language pattern analysis (specialized vocabulary and contextual structures in medical/legal/financial fields). Learners comprehensively develop text-based spatial context understanding and domain adaptation skills.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles of transfer learning and its application to indoor positioning systems from a language data processing perspective, and propose text-based spatial representation optimization strategies.",
+    "Learners can verbally/verbally explain 3 core principles of metric learning (embedding space design, similarity function optimization, loss function selection) in fingerprint data-based indoor positioning systems within 5 minutes, implement a model achieving ≥85% similarity prediction accuracy using text representation optimization techniques (e.g., TF-IDF, Word2Vec) within a week, and enhance spatial contextual understanding through domain-specific vocabulary analysis.",
+    "Learners can apply metric transfer techniques using source domain (daily conversation) knowledge to 3 target domain datasets (medical/legal/financial) at the end of a 1-week course, and submit an experimental report demonstrating ≥15% improvement in transfer accuracy via domain-specific vocabulary analysis and contextual expression optimization."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Tools (Miro, Jamboard)",
+      "Simulation Dataset Samples",
+      "Open-Source TL Framework Trial Version"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

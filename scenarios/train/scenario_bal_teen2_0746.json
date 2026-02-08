@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0746",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Cultural Foundations of Lesson Study and Its Application in Science Education",
+  "context": {
+    "prior_knowledge": "Understanding basic concepts of science education experiences and instructional design",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Experiences the lesson research process through VR simulations, utilizing smartphone-based collaborative tools",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners analyze the cultural foundations of Lesson Study and propose strategies applicable to science education.",
+    "Learners derive improvements for lesson design through collaborative reflection with peer instructors in a simulation environment.",
+    "Learners can complete a lesson study process (topic selection → data collection → scenario design → simulation execution) reflecting cultural characteristics of three or more countries (e.g., South Korea, Japan, USA) in a VR-based virtual classroom within four weeks and validate results through peer evaluation and a checklist (meeting at least four of five criteria)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Learning Content",
+      "Mobile-Compatible Collaboration Platform",
+      "Science education case database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

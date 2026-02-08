@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-5090-V",
+  "variant_type": "context_variant",
+  "title": "Language Competency Enhancement Program Based on Digital Learning Ecosystems",
+  "context": {
+    "prior_knowledge": "Foundational language proficiency in specialized fields and experience using digital tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Workplace-oriented language learning environment for medical/legal/technical professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners establish and execute self-directed learning plans with over 80% adherence within a digital learning ecosystem.",
+    "Learners complete at least three domain-specific language projects using collaboration tools, thereby constructing knowledge.",
+    "Learners advance their language proficiency (speaking/writing) by at least one level through a competency-based assessment system.",
+    "Learners can design a Python-based language solution for a public service scenario (e.g., electronic document processing system) applying task-centered design principles and develop a prototype rated 4 or higher (5-point scale) in \"functional completeness\" and \"usability\" by at least two out of three peer evaluators."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Dippler Platform-Based Learning Management System",
+      "Digital Collaboration Tools (Jitsi Meet, Notion, etc.)",
+      "Discipline-Specific Terminology Database",
+      "Real-time feedback system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

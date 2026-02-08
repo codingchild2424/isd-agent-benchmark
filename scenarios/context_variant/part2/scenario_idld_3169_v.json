@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3169-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Competency: Generative AI and Cognitive Presence Enhancement via Six Thinking Hats",
+  "context": {
+    "prior_knowledge": "Understanding of basic AI concepts and foundational knowledge in instructional design",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "They can explain three or more core functions of generative AI and its educational applications.",
+    "They can analyze complex social issues through structured discussions by applying the Six Thinking Hats technique.",
+    "They can apply cognitive presence enhancement strategies to project outcomes by combining GenAI tools with Six Thinking Hats discussions.",
+    "They can recognize differences in GenAI effectiveness based on creativity levels and establish personalized learning strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

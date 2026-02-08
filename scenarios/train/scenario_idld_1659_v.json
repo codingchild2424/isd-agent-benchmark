@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1659-V",
+  "variant_type": "context_variant",
+  "title": "Video-Based Language Learning Simulation Design",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Simulation environment for vocational institutions’ language curriculum. Features real-time interaction via VR devices and learning material management through LMS",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately explain over 80% of language grammatical structures using video-based learning materials",
+    "Learners can recall over 90% of key information from graph-text hybrid video content after three exposures",
+    "Learners can complete language use simulations reflecting video learning experiences within 72 hours through project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "LMS System",
+      "Smart Devices",
+      "Video Production Software",
+      "Graphic/Text Slide Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

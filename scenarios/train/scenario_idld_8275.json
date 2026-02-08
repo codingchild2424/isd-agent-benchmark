@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8275",
+  "variant_type": "idld_aligned",
+  "title": "Self-Efficacy Instrument Design for Computer Science Teacher Competency Assessment",
+  "context": {
+    "prior_knowledge": "Foundational knowledge of educational assessment and general awareness of trends in computer science education",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Application of an instructional design framework referencing actual Thai research cases",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the four domains (CK, ID, CM, PD) of the self-efficacy instrument for assessing computer science teacher competencies.",
+    "Learners can systematically design validation procedures for assessment tools using structural equation modeling (SEM).",
+    "Learners can propose comparative evaluation methods to analyze differences in self-efficacy based on teacher career stages/school scales."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Thailand CS Teacher Competency Assessment Case Study Report",
+      "SEM Analysis Software (LISREL/AMOS)",
+      "Online Survey Tool (Google Forms/SurveyMonkey)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

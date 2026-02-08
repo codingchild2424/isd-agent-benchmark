@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7090",
+  "variant_type": "idld_aligned",
+  "title": "LMS-Based Mobile Microlearning Design and Implementation for Mechanical Engineering Microteaching",
+  "context": {
+    "prior_knowledge": "Foundational Mechanical Engineering Theory and Basic Experimental Methods",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners are adult university students familiar with digital environments, requiring flexible learning utilizing mobile devices in BYOD environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Step-by-step explanations of mechanical engineering laboratory procedures can be provided using LMS-based microteaching modules",
+    "Core concepts can be summarized and delivered within five minutes through mobile microlearning content",
+    "Microteaching techniques can be continuously improved based on formative assessment feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform license",
+      "3D animation creation tool",
+      "Mechanical engineering lab equipment image database",
+      "Mobile-compatible authoring tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

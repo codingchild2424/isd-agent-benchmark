@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0580",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Development of an IMS LD-based Language Learning Design Engine: Integrated Simulation and Assessment Feedback System for Grammar, Vocabulary, Listening, and Speaking",
+  "context": {
+    "prior_knowledge": "Basic language learning experience (reading, writing, listening, speaking), digital device proficiency, and understanding of fundamental grammatical terms (parts of speech, sentence components)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A process focusing on implementing learning flows using IMS LD standards in smartphone-centric, limited technological environments. Emphasizes modular design for vocabulary expansion and grammatical structure comprehension. Particularly integrates language functions (comprehension, expression) across text types (expository, argumentative, narrative) and establishes customized feedback systems based on formative assessment results.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically explain the fundamental principles of IMS LD-based learning design and core components of language learning (grammar, vocabulary, listening, speaking, reading comprehension, and writing).",
+    "Learners can simulate language learning flows (integrating reading-writing-expression) using Petri net models and design learning pathways according to text types (expository, argumentative, narrative).",
+    "Learners can flexibly modify an open-architecture learning design engine to address diverse text types (academic, practical, literary) and language functions (expression, comprehension).",
+    "Learners can analyze formative assessment results provided every four weeks, identify two language areas (grammar, vocabulary, listening, etc.) with error rates above 30%, and establish and execute at least two customized learning plans (solving 10 additional practice problems, studying ≥3 supplementary materials, performing ≥3 expression training sessions) within four weeks. Teachers verify execution results via a checklist (plan establishment, ≥80% completion rate), with feedback focusing on vocabulary accuracy and grammatical structure comprehension."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "IMS LD Editor Toolkit",
+      "Open-Source Petri Net Simulator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

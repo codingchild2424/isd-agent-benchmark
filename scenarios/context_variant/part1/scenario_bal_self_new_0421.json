@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0421",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] User-Centered Strategies for Web-Based Science Learning Design",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and experience with digital device usage",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Applying web-based instructional design principles in a smartphone-centric limited-technology environment. Learning effectiveness is measured through project-based assessments.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze mobile-friendly web-based learning content",
+    "Learners can design knowledge object structures for science education according to user-centered design principles",
+    "Learners can develop assessment tools considering accessibility and reusability within limited technological environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile Devices",
+      "Open-source assessment tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

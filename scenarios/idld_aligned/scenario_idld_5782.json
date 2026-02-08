@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5782",
+  "variant_type": "idld_aligned",
+  "title": "Medical Student Learning Assessment Design Based on Structured Clinical Practice",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge and foundational clinical practice skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended learning environment integrating severe patient management simulations and Objective Structured Clinical Examination (OSCE) evaluation systems",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can comprehensively analyze patient conditions according to ICU scenarios and perform appropriate interventions with over 80% accuracy.",
+    "Students achieve at least three out of five stages in the collaboration and data request process with nurses during OSCE stations.",
+    "Students achieve at least 3 out of 4 points on response quality (communication, clinical judgment, technical performance) based on a rubric when using simulation equipment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Computer-based patient simulator equipment",
+      "OSCE (Objective Structured Clinical Examination) stations (5)",
+      "Recording equipment and video analysis software for assessment",
+      "Standardized patient role-training materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

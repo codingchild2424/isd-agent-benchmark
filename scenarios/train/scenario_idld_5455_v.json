@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5455-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening App Development Practical Competencies: Computer Science and Human-Computer Interaction for Adult Learners",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners design three or more blended learning modules (theory+practice) by linking an LMS (corporate internal system) with MOOC platforms (edX, Coursera, etc.), implement them for 10 learners over 40 years old over two months, and achieve over 80% learning satisfaction and 70% completion rate",
+    "Apply intermediate concepts in computer science and human-computer interaction (HCI) (e.g., user experience design, interface principles) through real-world case analysis.",
+    "Learners form teams of three peer learners using collaboration tools (GitHub, Slack) on a MOOC platform, solve five real-world problems (e.g., code refactoring, system design) through feedback exchanges twice weekly over six months, and submit a final report meeting three or more of four problem-solving process stages (problem definition, solution derivation, implementation, verification) in evaluations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

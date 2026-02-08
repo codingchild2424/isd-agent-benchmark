@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0665",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Machine learning-based recruitment quality assessment simulation course",
+  "context": {
+    "prior_knowledge": "Fundamental statistical analysis skills and understanding of HR processes",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Decision-making training and experiential learning through VR simulations of real-world recruitment data analysis environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will be able to explain three recruitment quality evaluation metrics based on P-E Fit Theory.",
+    "Participants will be able to perform candidate clustering simulations using the PAM clustering algorithm.",
+    "Learners will be able to design a candidate selection process with four or more stages based on analytical results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "HR Data Sample Set",
+      "Python-Based ML Analysis Tool",
+      "VR Simulation Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

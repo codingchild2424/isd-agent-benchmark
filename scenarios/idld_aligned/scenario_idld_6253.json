@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6253",
+  "variant_type": "idld_aligned",
+  "title": "Science Education Design Based on Video Conferencing: Long-Term Course for Integrating Expert Experience",
+  "context": {
+    "prior_knowledge": "Basic Science Knowledge and Digital Device Proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners participate in video conferences via personal mobile devices, with an emphasis on real-life applications of scientific topics.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can produce 5-minute microlearning content explaining scientific concepts using video conferencing tools.",
+    "Learners can perform peer idea-sharing activities at least three times using real-time collaboration tools during video conferences.",
+    "Learners can analyze science case studies provided in virtual environments and present real-life application strategies with over 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Video Conferencing Platform (Zoom/Teams)",
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Science Case Study Database",
+      "Real-Time Collaboration Tools (Miro/Google Jamboard)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4799",
+  "variant_type": "idld_aligned",
+  "title": "Orientation Program for Online Learning Success",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and smartphone utilization skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Environment where learners require flexible schedules while balancing work; smartphone-centric LMS access and project-based assessments are needed to sustain engagement.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can independently manage course materials and assignments by utilizing basic LMS functionalities.",
+    "Learners can practice self-directed time management by creating and executing weekly study plans.",
+    "Learners can build a collaborative network with peer learners using online discussion boards and communication tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS System",
+      "Video Lecture (Approx. 5 Minutes)",
+      "Mobile-Friendly PDF Materials",
+      "Automated Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

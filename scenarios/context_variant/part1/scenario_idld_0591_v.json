@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0591-V",
+  "variant_type": "context_variant",
+  "title": "Design Strategies for Reusable Learning Objects (RLOs) in Blended Engineering Mathematics Learning",
+  "context": {
+    "prior_knowledge": "Completion of college-level foundational engineering mathematics (calculus, linear algebra)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A corporate re-education program structured around a practice-oriented learning environment centered on solving on-site problems.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve over 80% of engineering mathematics problems (partial differential equations, matrix operations) via simulation using RLOs.",
+    "Perform 3D spatial coordinate system transformation problems in a VR environment with a 90%+ success rate for three consecutive attempts.",
+    "In a blended learning environment, revise and apply learning strategies at least twice based on peer feedback and formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR simulation license",
+      "RLO authoring tool",
+      "3D Modeling Software",
+      "Cloud-based learning management system (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

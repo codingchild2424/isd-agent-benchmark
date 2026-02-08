@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0894",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Massive] Online Smoking Cessation Treatment Education: Mobile-Based Intensive Short-Term Course",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and patient counseling experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Education design accessible via smartphones for professionals in medical/legal/technical fields",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain evidence-based smoking cessation treatment approaches.",
+    "In mobile environments, learners can complete patient consultation scenarios with over 80% accuracy.",
+    "Learners will be able to propose three intervention techniques applicable to real-world tasks within 72 hours of completing the educational program."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Interactive Video",
+      "PDF Summary Materials",
+      "Simple Quiz Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

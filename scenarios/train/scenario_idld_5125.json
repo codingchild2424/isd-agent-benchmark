@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5125",
+  "variant_type": "idld_aligned",
+  "title": "Technology-Enhanced Learning Design Course for Scientific Inquiry",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and possession of fundamental digital literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Self-directed science inquiry learning utilizing diverse digital tools in BYOD environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can structure and solve scientific questions using technological tools",
+    "Learners can refine inquiries by incorporating peer feedback through online collaboration platforms",
+    "Self-directed learning plans can be developed through personalized learning data analysis"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS System",
+      "Digital Textbooks",
+      "Data Analysis Tools",
+      "Virtual Laboratory Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

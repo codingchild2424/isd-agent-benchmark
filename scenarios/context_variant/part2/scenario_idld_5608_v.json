@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5608-V",
+  "variant_type": "context_variant",
+  "title": "VR-Based Advanced Nursing Simulation Training Program",
+  "context": {
+    "prior_knowledge": "Mastery of basic nursing skills and patient assessment knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Experiential learning utilizing VR simulations that mimic real clinical environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners accurately analyze severe patients' biometric signals in a VR environment and perform nursing interventions with over 80% accuracy.",
+    "Learners fully comply with infection control protocols during three consecutive practice sessions while interacting with virtual patients.",
+    "Learners can specifically suggest three or more team collaboration improvements during debriefing after VR simulation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Immersion VR Headsets (20 Sets)",
+      "Nursing simulation software license",
+      "Technical Support Personnel (1 Person)",
+      "Patient scenario database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

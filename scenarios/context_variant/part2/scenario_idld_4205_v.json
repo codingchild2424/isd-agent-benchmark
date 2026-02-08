@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-4205-V",
+  "variant_type": "context_variant",
+  "title": "Self-Directed MOOC Design for Strengthening Elementary Mathematics Job Competencies Based on VR",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Mathematical Concepts and Elementary Education Field Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Mobile-optimized VR simulation environment provided in a math instruction competency enhancement program for elementary school teachers",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply five or more elementary math concepts (e.g., fractions, geometric spatial sense) to real classroom scenarios via VR simulations.",
+    "Learners independently establish weekly learning plans and achieve an 80%+ assignment submission rate.",
+    "Learners engage in peer feedback systems to perform at least three peer-evaluation activities.",
+    "Learners demonstrate conceptual application skills by scoring 85+ on formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible VR Content",
+      "Weekly learning checklist template",
+      "AI-Based Feedback System",
+      "Peer Assessment Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4794",
+  "variant_type": "idld_aligned",
+  "title": "Earthquake Early Warning System Prediction Model Design and Application",
+  "context": {
+    "prior_knowledge": "Elementary machine learning concepts and foundational seismology knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "An educational program aimed at enhancing administrators' disaster response system optimization and decision-making capabilities. Requires content optimized for mobile environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "A neural network-based model can predict the risk of earthquake-prone areas with over 80% accuracy.",
+    "Historical earthquake data can be preprocessed and visualized to express spatial analysis results in map form.",
+    "A disaster response planning process can be designed based on predictive model results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Friendly LMS Platform",
+      "Open-Source Data Visualization Tool",
+      "Simplified Neural Network Modeling Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

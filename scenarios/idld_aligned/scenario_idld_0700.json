@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0700",
+  "variant_type": "idld_aligned",
+  "title": "Designing AIED Application Strategies for Higher Education Language Domains",
+  "context": {
+    "prior_knowledge": "Teaching experience in secondary education settings and basic digital literacy",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-based learning environments requiring strengthened competency in utilizing AI tools for language education.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participants draft a language education design framework in three phases (needs analysis-design-evaluation) based on AIED ethical principles (fairness, transparency, accountability, etc., five core elements) and receive a feasibility evaluation of 4+ points (5-point scale) from peer reviews.",
+    "Participants establish strategies for integrating AI tools specialized in language learning (e.g., automated writing evaluation systems) into instructional design",
+    "Participants propose three institutional support plans (select from mentoring programs, online learning platform construction, expert workshops) for AIED professional development. Each proposal must include evidence meeting two or more evaluation criteria (feasibility, budget efficiency, expected impact). The proposal must be submitted within a week and pass peer evaluation (checklist-based)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile Compatibility Testing Tool",
+      "Open-Source AIED Tool Demo Version",
+      "Ethics guideline templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4709-V",
+  "variant_type": "context_variant",
+  "title": "Augmented Reality Game-Based Sustainability Education Design",
+  "context": {
+    "prior_knowledge": "Understanding of foundational environmental science and Sustainable Development Goals (SDGs), with ability to use mobile devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Blended learning environment premised on digital device provision, with access to university laboratory/practical facilities",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze sustainable urban design processes through AR-based simulations",
+    "Learners can generate three or more carbon neutrality scenarios using data provided in games",
+    "Learners can implement and evaluate sustainability solutions developed by teams using the PBL (Project-Based Learning) approach"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Unity3D or Similar AR Development Platform License",
+      "Environmental datasets",
+      "Project Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

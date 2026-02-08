@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6586-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Problem-Based Learning (PBL) for ESG and Sustainable Development",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Ability to explain the three core elements of ESG (Environment, Social, Governance) with 80% or higher accuracy.",
+    "Ability to perform projects analyzing real-world cases to estimate carbon emissions and propose reduction strategies.",
+    "Through team-based collaboration (4-person groups), learners derive three solutions to ESG-related problems and write a 10-page report (introduction–methodology–results–conclusion structure) applicable to language domains (chatbot dialogue design, AI translation quality assessment, etc.). The report must achieve 4/5 points or higher in at least three of the four rubric criteria (clarity, feasibility, innovativeness, applicability)",
+    "Ability to improve innovation and communication competencies by 20% or more compared to pre-assessment through PBL activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

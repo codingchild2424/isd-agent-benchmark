@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4476-V",
+  "variant_type": "context_variant",
+  "title": "Educational Course on Formal Definitions of Extremes and Cognitive Load Assessment",
+  "context": {
+    "prior_knowledge": "Foundational knowledge of calculus and experience in constructing logical proofs",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Cognitive load analysis through smartphone-based surveys and project execution",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners understand the formal definition of limits and can explain logical proof processes",
+    "Learners can quantitatively assess their learning difficulty level using a cognitive load measurement survey tool",
+    "Learners can establish personalized learning strategies (time management, concept chunking, etc.) based on analysis results"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Google Form Survey Link",
+      "PDF Learning Materials",
+      "Offline Calculation Practice Sheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

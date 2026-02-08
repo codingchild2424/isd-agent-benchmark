@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0422",
+  "variant_type": "idld_aligned",
+  "title": "Self-Regulated Learning-Based Online Teaching Methods for Secondary Statistics and Data Science",
+  "context": {
+    "prior_knowledge": "Understanding of basic statistical concepts and general pedagogical principles",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended learning environment exploring secondary statistics and data science pedagogy based on self-regulated learning in online asynchronous platforms, supplemented by practical sessions and feedback through face-to-face meetings",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners understand statistics and data science pedagogy at the secondary education level and can effectively achieve learning objectives on online platforms using self-regulated learning strategies.",
+    "Within four weeks, learners design one statistics education material (PDF or PPT, 10+ pages), implement two visualization tools (heatmap, scatter plot, etc.) using Python’s Matplotlib/Seaborn, and develop a data science activity module applying at least one data analysis framework (Pandas or TensorFlow) with real datasets (e.g., Kaggle open data). The module must score 70+ points on an instructor rubric (40% design completeness, 30% technical applicability, 30% analytical effectiveness).",
+    "Learners analyze their own learning experiences using personalization tools (progress tracking, customized recommendations) on online platforms, derive three or more optimization strategies, and write a 5-page report including concrete implementation plans (e.g., weekly learning templates, feedback system design) applicable to secondary classroom settings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Platform (e.g., LMS or Custom Tool)",
+      "Statistics and Data Science Educational Materials (Case Studies, Multimedia Content)",
+      "Classroom and Technical Equipment for In-Person Workshops"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

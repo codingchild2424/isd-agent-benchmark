@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8006-V",
+  "variant_type": "context_variant",
+  "title": "Cognitive-Based English Vocabulary Learning Program in Scientific Contexts",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific terminology and intermediate English reading proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A smartphone-based VR simulation program focusing on learning practical English vocabulary in science fields.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Can infer meanings of 500 core science vocabulary terms with over 80% accuracy in context-specific simulations",
+    "Can achieve 70% long-term vocabulary retention within three months using cognitive strategies (focused attention, prediction, modeling, automation)",
+    "Learners apply over 20 science-specific vocabulary terms acquired through VR-based project tasks with 80%+ accuracy in at least three simulated science communication scenarios (e.g., research presentations, peer review meetings)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Science Domain Vocabulary Database",
+      "Interactive Simulation Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2260",
+  "variant_type": "idld_aligned",
+  "title": "Conceptual Metaphor-Based Mathematics MOOC Design and Learning Support Strategies",
+  "context": {
+    "prior_knowledge": "Fundamental mathematical concepts and problem-solving skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-based learning environment for acquiring advanced mathematical concepts for non-degree purposes",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can visually represent the structural relationships of mathematical concepts using the \"subway map\" metaphor.",
+    "Learners can explain mathematical problem-solving steps by linking them to spatial memory systems using the Loci Method.",
+    "Learners can autonomously design and modify learning pathways through the MOOC navigation system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Visual Metaphor Tool Template",
+      "Spatial Learning Support Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6745",
+  "variant_type": "idld_aligned",
+  "title": "Context-Based English Writing Education for Prospective Science Teachers",
+  "context": {
+    "prior_knowledge": "Foundational English Grammar and Basic Science Curriculum Concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A practice-oriented program enabling pre-service teachers to cultivate skills in writing English abstracts and reports reflecting real-world scientific contexts",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can write a structured 500-word English draft by analyzing real-world cases in four science fields (physics, chemistry, life sciences, earth sciences).",
+    "Learners can apply logical flow and critical thinking techniques required for academic writing using the CCBL (Context-Based Case Learning) approach.",
+    "Learners can revise and finalize English writing drafts in science fields at least twice based on peer evaluation and instructor feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Domain English Case Database",
+      "Mobile-Compatible Interactive Textbook",
+      "Automated Grammar-Checking Plugin",
+      "Peer Assessment Collaboration System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

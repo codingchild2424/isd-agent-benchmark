@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0397",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Portable Network-Based Computer Security Practical Training",
+  "context": {
+    "prior_knowledge": "Basic understanding of computer system operations and network concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized Corporate Training for Employees, Emphasizing Security Practical Exercises Applicable to Real Work Environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Acquiring competency in network scanning and vulnerability analysis in portable educational network environments",
+    "Cultivating practical skills in firewall configuration and intrusion detection based on real attack scenarios",
+    "Within one week, learners configure an encrypted communication environment (e.g., TLS 1.3) and implement IPSec or OpenVPN security protocols to propose three security measures for a given scenario (e.g., internal document transfer)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Portable Virtualization Network Device",
+      "Security Training Software License",
+      "Lab Guide Documentation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

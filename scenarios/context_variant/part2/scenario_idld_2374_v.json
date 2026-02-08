@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2374-V",
+  "variant_type": "context_variant",
+  "title": "5G-Advanced Beam Prediction: Spatial Domain Optimization Using Machine Learning",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-centered education using smartphone apps, linked to local community wireless infrastructure improvement projects.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles of mmWave beamforming and spatial correlation analysis methods",
+    "Learners can predict beam quality with over 90% accuracy from real measurement data using machine learning models",
+    "Learners can design and validate solutions to reduce signal overhead by 50% in constrained computing environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based Measurement Kit",
+      "Open-Source ML Framework (Mobile-Supported)",
+      "Public 5G Channel Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1093",
+  "variant_type": "idld_aligned",
+  "title": "Biology Education Curriculum Utilizing Collaborative Concept Mapping-Based Digital Games",
+  "context": {
+    "prior_knowledge": "High school-level basic biology knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Project-based assessment process conducted in smartphone-centric limited-technology environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can systematically explain core biology concepts (cell structure, photosynthesis, gene expression, etc.) through collaborative concept-mapping digital games",
+    "Learners can construct complex biology concepts into visual concept maps through peer collaboration and generate shared documents",
+    "Learners can solve biology concept application problems with over 80% accuracy after game-based learning activities"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-compatible Digital Game Platform",
+      "Zoom Account",
+      "Google Docs Collaboration Tool",
+      "Concept Map Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

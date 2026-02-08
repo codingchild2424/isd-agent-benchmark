@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6339-V",
+  "variant_type": "context_variant",
+  "title": "Control Parameter Design Based on Quantum Simulation and Machine Learning",
+  "context": {
+    "prior_knowledge": "Basic Quantum Physics Concepts and High School-Level Mathematics (Linear Algebra, Calculus) Proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Optimized smartphone-based learning environment with minimal real-time interaction design",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "The mathematical relationship between laser control parameters and interaction graphs in quantum spin model simulations can be explained.",
+    "A process can be implemented to calculate optimal laser parameters for given spin configurations using machine learning models.",
+    "Simulation results from small-scale ion trap systems (5–10 ions) can be analyzed and their physical implications interpreted."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Open-source machine learning library",
+      "Quantum Simulation Visualization Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

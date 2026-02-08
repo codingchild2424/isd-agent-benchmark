@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3542-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design Process for Improving Satisfaction in Online and Hybrid Mathematics Education",
+  "context": {
+    "prior_knowledge": "Foundational high school-level mathematical knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aims to effectively design online and hybrid mathematics education in simulation/VR environments, with an emphasis on activity design to enhance peer interaction",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can complete math problem-solving simulations in online/VR environments with over 80% accuracy.",
+    "Learners achieve a score of 3 or higher on a rubric by explaining math concepts through collaborative activities with peers in a hybrid class model.",
+    "Learners rate at least 4 out of 5 items (convenience, interaction, lecture quality, etc.) with a score of 4 or higher (on a 5-point scale) in an online education satisfaction survey."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "Online Learning Management System (LMS)",
+      "Mathematical simulation software",
+      "Real-time video conferencing tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

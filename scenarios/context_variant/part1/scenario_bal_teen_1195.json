@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-1195",
+  "variant_type": "balance_teen_k12",
+  "title": "Engagement Prediction and Enhancement Strategies for Gifted Learners via Arduino-Based Projects (K-12)",
+  "context": {
+    "prior_knowledge": "Basic programming and digital tool utilization skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Arduino-based language learning projects analyzing learners' emotional/social traits and learning patterns in limited real-time interaction environments, aiming to establish data-driven personalized strategies",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve over 80% task completion rates while practicing language learning content through Arduino projects",
+    "Learners establish self-directed learning strategies using emotion-tracking tools and record over 75% improvement in engagement rates",
+    "Learners can create personalized learning plans based on machine learning-based analytical reports"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Arduino Kit",
+      "Emotion Analysis Survey Template",
+      "LMS-Integrated Machine Learning Analytics Module",
+      "Learning behavior log collection system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

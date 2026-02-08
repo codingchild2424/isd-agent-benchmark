@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5931-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Skills: Designing Science Classes Using Hybrid Educational Escape Games",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply three or more scientific principles (e.g., chemical reaction rates, physics laws) to escape room puzzles.",
+    "Learners can propose integration strategies for digital/analog elements when designing hybrid (online+offline) missions.",
+    "Learners can complete a science-based escape game scenario within 1 hour through 2-person team activities."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8247",
+  "variant_type": "idld_aligned",
+  "title": "Blended Learning Design for University Chemistry Education: Customized Approaches for Professional Learners",
+  "context": {
+    "prior_knowledge": "High school-level foundational chemistry knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Professional group in medical/legal/technical fields lacking foundational chemistry knowledge but requiring practical application; possesses digital device proficiency but chemistry domain expertise at beginner level",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain chemical phenomena encountered in daily tasks through chemical equations and molecular structure interpretation.",
+    "Learners can analyze complex chemical concepts with over 80% accuracy using video materials and simulation tools within an LMS.",
+    "Learners can write reports applying chemical principles to real-world cases through online discussions and collaborative projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Chemistry expert-produced instructional videos",
+      "3D molecular modeling software",
+      "LMS (Learning Management System)-based quiz system",
+      "Real-time video conferencing tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

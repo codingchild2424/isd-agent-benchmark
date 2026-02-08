@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3794-V",
+  "variant_type": "context_variant",
+  "title": "Simulation-Based Power System Experimental Education: Advanced Design Utilizing Remote Laboratories",
+  "context": {
+    "prior_knowledge": "Understanding of basic electrical engineering and power system theory",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Simulation-based remote lab education to address post-COVID-19 non-face-to-face experimental learning needs, applying low-cost solutions in university campus equipment-limited contexts. Designed with hands-on practice using PowerWorld Simulator and textbook case studies.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Short-circuit current analysis and power flow calculations can be performed using power system simulation tools.",
+    "Simulation results can be verified and interpreted by comparing them with textbook theories and actual experimental data.",
+    "Design ability and experimental analysis competencies can be demonstrated through project deliverables, meeting ABET learning outcome criteria."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "PowerWorld Simulator License",
+      "Textbook Case Dataset",
+      "Digital Practical Environment Setup Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

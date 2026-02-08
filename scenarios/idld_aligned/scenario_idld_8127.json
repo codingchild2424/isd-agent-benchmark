@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8127",
+  "variant_type": "idld_aligned",
+  "title": "Online Interactive Wound Assessment and Management Clinical Pathway Education",
+  "context": {
+    "prior_knowledge": "Basic wound care theory and clinical practice experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A competency-enhancement program for nurses and clinical experts affiliated with medical device/pharmaceutical companies.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Achieve ≥85% accuracy in applying wound-type-specific (burns, diabetic ulcers, etc.) assessment algorithms",
+    "Reduce the error rate in dressing selection based on wound environment (moist/dry) to 15% or below",
+    "Evaluate the ability to develop comprehensive treatment plans in clinical case-based simulations",
+    "Achieve a satisfaction score of 4.0 or above (on a 5-point scale) in surveys on usability and field applicability of the online education platform"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Online Clinical Pathway Simulation Platform",
+      "Real Clinical Image Database",
+      "Wound Assessment Checklist Template",
+      "Dressing Product Catalog"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

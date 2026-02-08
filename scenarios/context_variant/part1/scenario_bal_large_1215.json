@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-1215",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Understanding Reinforcement Learning Frameworks for Patient-Centered Dynamic Treatment Planning Design: Considering Social Equity for Medical Ethics and Citizens' Health Rights",
+  "context": {
+    "prior_knowledge": "Basic healthcare system comprehension, data security concepts, foundational machine learning (including reinforcement learning), core principles of medical ethics and patient rights, introductory understanding of social equity and public policy",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Exploring the application of reinforcement learning in smartphone-based accessible environments with consideration for medical data security. The study focuses on creating social value by improving healthcare service accessibility for vulnerable populations and ensuring the right to health. It seeks sustainable solutions through community engagement, public-private partnerships, and institutional improvements that reflect cultural sensitivity and social relationships.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the principles of a reinforcement learning framework that maintains patient privacy and medical ethics while establishing dynamic treatment plans considering social equity.",
+    "Analyze the security requirements for medical decision-making models utilizing encrypted health data and propose measures to ensure citizens' right to health, while suggesting institutional improvements to address disparities in healthcare accessibility",
+    "Within one week, learners must design a prototype of a patient-centered treatment plan simulation tool using basic smartphone apps (Notes, Calendar) and offline tools (paper, pen), and submit a result that meets at least 3 points per criterion (total ≥9/15) across three evaluation standards: user convenience, treatment plan reflection, and technical feasibility. The prototype design process must explicitly include at least two social equity measures to address healthcare accessibility gaps (e.g., low-cost alternative tools, non-literate-friendly interfaces, community-based support systems)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Module",
+      "Encrypted Data Processing Simulation Tool",
+      "Reinforcement Learning Visualization Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

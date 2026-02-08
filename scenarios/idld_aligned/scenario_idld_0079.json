@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0079",
+  "variant_type": "idld_aligned",
+  "title": "Virtual Learning Object Design for Nursing History Education",
+  "context": {
+    "prior_knowledge": "Basic understanding of nursing and online learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Blended learning (10 live sessions + 9 asynchronous activities) conducted in smartphone-centric limited-technology environments.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain the influence of major events and figures in nursing history using ADDIE model-based virtual learning objects.",
+    "Produce project outcomes related to nursing history using online collaboration tools.",
+    "Enhance the ability to analyze the social context of nursing development through asynchronous learning activities."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "MOODLE Platform",
+      "Zoom",
+      "Smartphone-compatible content",
+      "Simplified Learning Management System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-0299",
+  "variant_type": "balance_large_scale",
+  "title": "Strategies for Managing Teacher Orchestration Load in [Large-Scale] CSCL Environments",
+  "context": {
+    "prior_knowledge": "Foundational mathematical knowledge and digital device utilization skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A classroom environment where professionals participate as learners, and collaborative learning using digital devices takes place",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain core components of teacher orchestration in CSCL environments (planning-execution-monitoring-adjustment)",
+    "Learners can compare structured (PyramidApp) and flexible (EthicApp) tools and suggest context-appropriate tool selection strategies",
+    "Learners can apply orchestration load analysis methods using multimodal data (observation records, physiological indicators, self-reports)",
+    "Learners can identify cognitive/physical load factors during collaborative learning and design mitigation strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive digital whiteboard",
+      "Biometric sensors (e.g., heart rate monitors)",
+      "Collaborative learning management platform",
+      "Teacher orchestration guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

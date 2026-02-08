@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1157",
+  "variant_type": "idld_aligned",
+  "title": "Digital Health Literacy Competency Enhancement Course for Online Health Information",
+  "context": {
+    "prior_knowledge": "Basic internet search skills and experience using digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Targeting learners in managerial/leadership roles, the goal is to enhance health information evaluation and application skills in workplace settings. Conducted in a BYOD environment with project-based assessments to measure learning outcomes.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can classify online health information with over 80% accuracy by applying five core criteria for evaluating credibility: source, evidence, recency, objectivity, and expert verification.",
+    "Learners revise their health information analysis reports three or more times based on peer feedback in a digital literacy discussion forum and include an implementation plan upon submitting the final project.",
+    "Learners must submit and meet evaluation criteria for two health information-based decision-making case studies in a real work environment within four weeks after completing the training."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access to reliable health information database",
+      "Digital literacy assessment checklist template",
+      "API for MOOC platform integration"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

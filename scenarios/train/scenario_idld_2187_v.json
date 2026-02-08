@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2187-V",
+  "variant_type": "context_variant",
+  "title": "Asynchronous Online Arabic Foundation Course Design for Saudi Elementary Learners",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "An elementary learner-targeted course in a Saudi culture-reflected language learning environment, utilizing smartphone-based VR simulations. Focuses on assessing practical language skills through project-based evaluations.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners communicate using over 50 basic Arabic vocabulary words in a VR environment based on Saudi daily life scenarios.",
+    "Learners collaboratively complete one language project reflecting cultural contexts with peer learners on an asynchronous discussion platform.",
+    "Learners accurately pronounce and use 20 daily expressions contextually using a smartphone-based AR app."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Cultural Content Library (Images/Audio)",
+      "Smartphone-Compatible VR Application",
+      "Asynchronous Discussion Forum Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

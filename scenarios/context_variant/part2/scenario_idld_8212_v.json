@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8212-V",
+  "variant_type": "context_variant",
+  "title": "Web Development Practical Competency Strengthening: Just-in-Time Learning Program Using Mobile QR Codes for Nurses",
+  "context": {
+    "prior_knowledge": "Basic nursing knowledge and fundamental smartphone operation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "By scanning QR codes, learners can accurately (90%) access timely learning materials for nursing tasks (e.g., patient records, medical information retrieval).",
+    "Using QR code-based mobile tools, learners successfully perform real-time communication protocols with peers/doctors at least three times.",
+    "Based on structured information from QR codes, learners complete nursing judgment simulations with ≥80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

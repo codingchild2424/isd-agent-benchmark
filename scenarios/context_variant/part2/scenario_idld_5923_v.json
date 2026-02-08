@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5923-V",
+  "variant_type": "context_variant",
+  "title": "Short-Intensive Course in Social Studies Utilizing Adaptive Learning Platforms",
+  "context": {
+    "prior_knowledge": "Grasp of fundamental social science principles",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning course in smartphone-centric limited-technology environments to strengthen social studies job competencies",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can explain core concepts in social studies with over 90% accuracy using ALP",
+    "Students can achieve a 15% or greater improvement in assessment scores by utilizing ALP in blended learning environments",
+    "Using the ALP (Active Learning Plan) tool, learners analyze formative assessment results (twice weekly) over one week to identify learning gaps, establish a self-directed learning plan (time allocation, goal setting, resource utilization), and achieve over 80% target completion in summative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "ALP platform access permissions",
+      "Digital Social Studies Textbook",
+      "Smartphone-Compatible Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

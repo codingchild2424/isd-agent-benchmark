@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0454",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Crisis Response Science Education: Competency Strengthening Through a Three-Stage Instructional Method",
+  "context": {
+    "prior_knowledge": "Foundational scientific literacy and general understanding of societal issues",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "General education course in social studies aiming to cultivate citizens with crisis response capabilities",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze and explain the scientific and social characteristics of at least three types of crisis situations.",
+    "Learners can present predictive outcomes using a data-driven crisis impact assessment model.",
+    "Learners can develop two crisis management strategies and establish execution plans based on actual case studies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Crisis Case Database",
+      "Interactive Simulation Tool",
+      "Collaborative Document Editor"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

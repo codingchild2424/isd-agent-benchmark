@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0056",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Advanced Science Instructional Design Course Based on Learning Analytics",
+  "context": {
+    "prior_knowledge": "Foundational science knowledge and teaching experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Need to strengthen data-driven instructional design competencies using digital devices",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain at least three science instruction design frameworks based on learning theories (constructivism, behaviorism, etc.)",
+    "Collect and analyze class activity data using learning analytics tools to propose teaching improvement strategies",
+    "Establish personalized feedback strategies reflecting formative assessment results in large lecture settings"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Analytics Software",
+      "Digital assessment platform",
+      "Science laboratory equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

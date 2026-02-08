@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0881",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Workshop on Designing Adaptive Online Strategies for Language Learning",
+  "context": {
+    "prior_knowledge": "Basic Language Learning Theories and Experience with Online Educational Tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Exploration of personalized learning design methods feasible in smartphone-based low-tech environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design three or more language education scenarios by applying adaptive learning principles.",
+    "Learners can accurately propose personalized content pathways with over 80% accuracy through learner profile analysis.",
+    "Learners can create an assessment rubric composed solely of smartphone-based tools with 90% completeness."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Language Learning Sample Data",
+      "Smartphone-compatible quiz platform",
+      "Offline collaborative worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

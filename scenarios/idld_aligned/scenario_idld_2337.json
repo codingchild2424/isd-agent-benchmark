@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2337",
+  "variant_type": "idld_aligned",
+  "title": "Microlearning-Based Short-Intensive Courses for Online Teacher Development",
+  "context": {
+    "prior_knowledge": "Basic digital device operation skills and general understanding of educational activities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Mid-scale adult learner course conducting non-real-time online learning in smartphone-centric, limited-technology environments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply fundamental instructional design principles within one week using microlearning content",
+    "Learners can understand the Just-In-Time learning model and create immediately actionable educational materials in real-world settings",
+    "Learners can design formative assessment tools accessible in mobile environments to measure learning effectiveness"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-Optimized Content Authoring Tool",
+      "Simple Digital Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

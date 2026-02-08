@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4493",
+  "variant_type": "idld_aligned",
+  "title": "Integrated Writing Education Curriculum for Strengthening Data Science Competencies",
+  "context": {
+    "prior_knowledge": "Basic statistical analysis, experience with programming languages (Python/R), foundational knowledge of social science research methodologies",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A VR environment replicating real-world social science research scenarios, enabling real-time collaboration using digital devices (tablets/laptops).",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Write a structured report (1,000 words) contextualizing data analysis results within social science frameworks.",
+    "Interpret data visualization results and apply them to policy proposal-style writing (500 words).",
+    "Revise and improve writing outputs at least twice based on peer feedback.",
+    "Write an argumentative essay (300 words) explaining social phenomena discovered during the analysis process."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software",
+      "Data Analysis Tools (Jupyter Notebook, etc.)",
+      "Academic Writing Guidelines Template",
+      "Peer Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

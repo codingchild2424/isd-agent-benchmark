@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1219",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Bridge Computer-Aided Design Education Utilizing Flipped Learning and Collaborative Problem-Based Learning",
+  "context": {
+    "prior_knowledge": "Basic engineering mathematics and CAD software experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Curriculum integrating flipped learning with collaborative problem-based learning (CPBL) for bridge design projects in a digital device-enabled environment",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can mathematically model fundamental bridge design principles and implement them using CAD tools.",
+    "Learners can analyze three real-world engineering problems (e.g., bridge design, fluid dynamics simulation, structural vibration analysis) through six months of collaborative problem-based learning (CPBL), apply a five-stage design process (problem definition → idea generation → prototyping → testing → improvement) per team, write a final report, and pass the presentation evaluation by scoring over 80 points based on the rubric (problem-solving completeness 30%, creativity 20%, team collaboration 20%, report clarity 15%, presentation delivery 15%).",
+    "Learners can set self-directed learning plans at least twice weekly over four weeks in a flipped learning environment using provided video lectures (8) and materials, achieve over 80% accuracy on weekly quizzes (5 questions), and submit a final project report for performance evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CAD Software License",
+      "Bridge Design-Related Video Lecture Materials",
+      "Collaborative Learning Space",
+      "Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

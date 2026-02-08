@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4573-V",
+  "variant_type": "context_variant",
+  "title": "Data Science Practical Competency Enhancement: Purpose- and Process-Centered Instructional Design Strategy Workshop",
+  "context": {
+    "prior_knowledge": "Fundamental instructional design concepts and job-related foundational knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Can compare DBL and JBL approaches and select design strategies aligned with educational objectives",
+    "Can propose a process for designing real job problems (e.g., patient counseling scenarios, technical troubleshooting) using JBL methods",
+    "Develops a blended instructional design that integrates learners’ goal achievement (DBL) and process experiences (JBL)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

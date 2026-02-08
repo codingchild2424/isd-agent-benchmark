@@ -1,0 +1,39 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0870",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Implicit Bias Awareness and Management Strategies for Healthcare Professionals",
+  "context": {
+    "prior_knowledge": "Basic understanding of medicine and healthcare systems, with teaching experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requirement for content optimized for smartphone-based learning environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Identify and explain at least five implicit bias scenarios that may occur in medical settings",
+    "Apply three practical strategies to manage the impact of bias in clinical situations",
+    "Execute at least two reflective practice techniques to improve patient-physician relationships",
+    "Utilize a communication framework that facilitates bias discussions within medical teams"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Context-specific simulation case materials",
+      "Self-assessment checklist template",
+      "Peer feedback guidelines",
+      "Weekly learning module (text + video)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

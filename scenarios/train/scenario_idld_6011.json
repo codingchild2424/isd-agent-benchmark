@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6011",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning-Based Short-Term Course on Weld Pool State Recognition Technology",
+  "context": {
+    "prior_knowledge": "Basic comprehension of welding processes and mobile device utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A domain-specific language education program conducted in a smartphone-based limited-technology environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify key features of weld pool microimages with 90% accuracy.",
+    "Learners can classify weld pool states with 95% confidence using a model incorporating transfer learning techniques.",
+    "Learners can interpret weld quality information with 85% accuracy through feature map analysis of CNN-based models."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible image dataset",
+      "Lightweight deep learning model visualization tool",
+      "Simplified ROI (Region of Interest) extraction interface"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

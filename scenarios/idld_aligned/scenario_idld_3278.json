@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3278",
+  "variant_type": "idld_aligned",
+  "title": "Self-Directed Learning Strategy Design Using Large Language Model-Based Chatbots",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and prior language-learning experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Non-degree language education program for working professionals. Self-directed learning participation in digitally supported environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can improve task performance efficiency by over 30% when utilizing LLM chatbots.",
+    "Learners can maintain knowledge transfer capabilities above 80% after using chatbot tools.",
+    "Learners can develop and apply at least three prompt-scaffolding strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LLM-Based Chatbot Account",
+      "Learning Management System (LMS)",
+      "Digital content authoring tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

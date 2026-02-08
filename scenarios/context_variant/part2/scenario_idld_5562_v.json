@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5562-V",
+  "variant_type": "context_variant",
+  "title": "Reinforcement Learning-Based Control Algorithm Design and Simulation Workshop",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-oriented design for real-world application, conducted in a BYOD (Bring Your Own Device) environment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Describes the control algorithm design process combining Q-learning and ART-based adaptive resonance methods",
+    "Implements a reinforcement learning model for solving inverted pendulum control problems using simulation tools",
+    "Learners measure inference speed, memory usage, and power consumption of a given neural network model (e.g., ResNet-50), propose at least three optimization methods (e.g., quantization, pruning, parallel computation) using profiling tools (e.g., TensorBoard, PyTorch Profiler), and demonstrate performance improvements (20% faster inference or 15% reduced memory usage)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Simulation Toolkit",
+      "Reinforcement Learning Library (TensorFlow/PyTorch)",
+      "Practical Dataset for Hands-On Practice",
+      "Collaborative learning platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

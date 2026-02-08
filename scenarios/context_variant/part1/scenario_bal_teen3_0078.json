@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN3-0078",
+  "variant_type": "balance_teen_v3",
+  "title": "Validation Process for Online Learning Module Motivation Measurement Tools",
+  "context": {
+    "prior_knowledge": "Basic online learning experience and foundational knowledge in science",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners complete science-related microlearning modules using mobile devices in daily life and participate in activities to validate the reliability of motivation measurement tools.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the components and application methods of the Motivated Strategies for Learning Questionnaire (MSLQ) and the Instructional Materials Motivation Survey (IMMS).",
+    "Learners can statistically analyze motivation levels toward online learning modules.",
+    "Learners can propose improvement plans based on survey tool validation results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online survey platform",
+      "Statistical Analysis Software",
+      "Mobile-Compatible Learning Module",
+      "Validated Survey Instruments (MSLQ, IMMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

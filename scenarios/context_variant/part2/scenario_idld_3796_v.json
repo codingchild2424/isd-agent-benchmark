@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3796-V",
+  "variant_type": "context_variant",
+  "title": "Self-Assessment Simulation Education to Improve HBOC Risk Awareness",
+  "context": {
+    "prior_knowledge": "Elementary genetics concepts and basic understanding of cancer development mechanisms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Implementation of a simulation environment to enhance risk awareness competencies for Hereditary Breast and Ovarian Cancer Syndrome (HBOC) among professionals in medical/legal/technical fields, utilizing VR-based virtual patient consultation scenarios and self-assessment tools",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify and document HBOC risk factors (personal/family history) with over 90% accuracy.",
+    "Learners can perform self-assessments using risk evaluation tools in VR simulations with a consecutive success rate of 80% or higher over three attempts.",
+    "Learners can recommend appropriate genetic testing/counseling services with 100% accuracy after interpreting risk level results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR devices and simulation software",
+      "LMS-Integrated Self-Assessment Platform",
+      "HBOC Risk Assessment Algorithm Database",
+      "Virtual Patient Scenario Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-1180",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Science Education Design Considering Cognitive Differences: Customized Learning Strategies Based on Working Memory",
+  "context": {
+    "prior_knowledge": "Understanding basic scientific concepts and familiarity with research methodologies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Requires flexible lesson design considering differences in learners' working memory capacity. Strengthens experimental data analysis and collaborative learning using personal BYOD devices",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can select science problem-solving strategies suited to their working memory capacity and complete experimental design tasks with over 80% accuracy.",
+    "Learners can analyze differences in cognitive strategies through peer assessment and develop personalized learning plans at least three times.",
+    "Learners can visualize complex scientific data using digital tools (BYOD) and present the interpretation process with over 70% clarity."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Experiment Kit",
+      "Digital Data Analysis Software License",
+      "Cognitive Ability Assessment Tool",
+      "Customized Learning Guide Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

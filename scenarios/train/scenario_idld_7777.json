@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7777",
+  "variant_type": "idld_aligned",
+  "title": "Practical Implementation of Transfer Learning and Data Augmentation for Medical Image Classification",
+  "context": {
+    "prior_knowledge": "Basic Python programming and foundational deep learning concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-centered training to develop competencies in image processing techniques and classification model design reflecting medical data characteristics",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Implementation of a transfer-learning-based medical image classification model using ResNet50 and VGG-16 models.",
+    "Performance enhancement of small-scale datasets through data augmentation techniques and preprocessing (noise removal, contrast enhancement, edge detection).",
+    "Accuracy optimization via integration of SVM classifiers and deep learning models, along with k-fold cross-validation.",
+    "Analysis and interpretation of performance metrics (accuracy, sensitivity, AUC, etc.) for medical image classification models."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based deep learning framework (TensorFlow/Keras)",
+      "Medical imaging dataset (ISIC 2017, etc.)",
+      "Jupyter Notebook Environment",
+      "GPU-accelerated hardware"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

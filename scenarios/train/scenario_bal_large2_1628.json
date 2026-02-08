@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1628",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Expert Course on Designing MOOC Platforms Using Ontology-Based Automated Assessment",
+  "context": {
+    "prior_knowledge": "Foundational ICT utilization skills and comprehension of basic educational platform concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Science Sector Manager/Leader Training in BYOD Environments, with Formative Assessment-Centered Learning Outcome Monitoring",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can implement semantic connections between learning contents by designing ontology modeling structures for MOOC platforms",
+    "Learners can analyze and provide feedback on learner activity data by applying an automated assessment system based on ODALA principles",
+    "Learners can improve MOOC learning efficiency by over 20% by constructing a domain ontology based on a science-specific metamodel"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Management System (LMS) Infrastructure",
+      "Ontology Editing Tool",
+      "Science Education Content Database",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

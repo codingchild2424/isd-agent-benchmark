@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8563-V",
+  "variant_type": "context_variant",
+  "title": "ICT Utilization in Science Lectures: Blended Learning-Based Short-Intensive Course",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course designed to enhance practical competencies in science for current professionals, conducted in a BYOD (Bring Your Own Device) environment, with learning outcomes measured through project-based assessments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Two or more collaborative activities among learners can be designed and executed using ICT tools in a science lecture environment.",
+    "Develop a blended learning scenario combining online and offline activities by applying the TEDDIE learning model",
+    "Improve understanding of scientific concepts to over 80% using mobile microlearning content",
+    "Learners complete a project addressing a given scientific problem (e.g., environmental data analysis) within three days using ICT tools (Python, data visualization tools, etc.) and achieve over 80% fulfillment in at least four of five rubric items (problem definition, data utilization, technical implementation, result interpretation, creativity)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Learning Management System)",
+      "Mobile Learning App",
+      "Collaboration Tools (Padlet/Google Workspace)",
+      "Scientific Simulation Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1590",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Capacity Building for Technical and Vocational Education and Training (TVET) Based on Education 4.0",
+  "context": {
+    "prior_knowledge": "Fundamental mechanical/electrical engineering knowledge and fieldwork experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aims to bridge the digital skills gap among in-service professionals, focusing on solving real industrial problems in simulation environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze work processes applying Industry 4.0 core technologies (digital twin, IoT) in VR simulation environments",
+    "Learners can design collaborative solutions addressing real-world industrial problems through project-based learning",
+    "Learners can demonstrate digital tool proficiency and problem-solving competencies with over 80% success rates in simulation-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment",
+      "Industrial simulation software",
+      "Digital collaboration tools",
+      "IoT kit for hands-on practice"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0308",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Simulation-Based Training Course for Practical GIS Application",
+  "context": {
+    "prior_knowledge": "Basic geographical concepts and computer operation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Modular design for enhancing GIS problem-solving skills with a focus on practical application",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve real-world work environment problems using GIS-based spatial analysis tools with 80% accuracy.",
+    "Learners can execute complex GIS tasks in three or fewer steps using a step-by-step simulation interface.",
+    "Learners can upload and share GIS project outputs on a collaborative platform in mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Simulation Toolkit",
+      "Cloud-Based Geographic Information System (GIS) Platform",
+      "Step-by-Step Learning Guide PDF"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2461-V",
+  "variant_type": "context_variant",
+  "title": "AI Practical Competency Enhancement: Digital Education Design for Circular Economy and Sustainability",
+  "context": {
+    "prior_knowledge": "Fundamental concepts of environmental sustainability and proficiency in using online learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain three or more specific strategies for applying circular economy models to language domains (e.g., environmental policy report writing).",
+    "Learners conduct analyses connecting circular economy cases with sustainability outcomes in LMS-based asynchronous discussions.",
+    "Learners create a corporate-level circular economy implementation plan using digital resources accessible in a smartphone environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

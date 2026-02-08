@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1018-V",
+  "variant_type": "context_variant",
+  "title": "Strategies for Utilizing Online Assessment Tools in Blended Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic Online Learning Platform (e.g., Moodle) Experience and Foundational Language Learning Knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended learning model combining simulation/VR with online assessment tools in a BYOD (Bring Your Own Device) environment.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can assess language communication skills in simulation/VR environments and incorporate feedback",
+    "Learners can self-diagnose weekly learning outcomes using Moodle-based online quizzes",
+    "Learners can adjust learning strategies by analyzing online assessment data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Moodle Platform",
+      "VR Simulation Equipment",
+      "BYOD-compatible assessment tool",
+      "Learning analytics report template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

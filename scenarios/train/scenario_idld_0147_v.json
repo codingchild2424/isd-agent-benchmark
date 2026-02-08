@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0147-V",
+  "variant_type": "context_variant",
+  "title": "Blended Learning-Based Pre-Service Teacher Competency Development Course",
+  "context": {
+    "prior_knowledge": "Understanding of science curriculum content and basic teaching methodologies",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course where working professionals with job experience enhance classroom application abilities through blended learning design. Practice-oriented operation utilizing simulation/VR tools in BYOD environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can develop science curriculum lesson plans by applying blended learning design principles",
+    "After 2 weeks of VR simulation training, learners assume the role of a teacher in three science experiment scenarios (chemical reactions, ecosystem observation, physics law application) and demonstrate instructional competency by achieving 4+ points (out of 5) in four of five peer evaluation rubric items (clarity of explanation, interaction, error correction).",
+    "Learners create student engagement-focused lesson materials using ICT tools and analyze their effectiveness"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Curriculum VR Content",
+      "Learning Management System (LMS)",
+      "Collaborative Tools (e.g., Padlet)",
+      "Assessment Rubric Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

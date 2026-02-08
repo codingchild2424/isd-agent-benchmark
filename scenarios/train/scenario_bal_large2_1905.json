@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1905",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Continuous Medical Education Design to Address Gaps in Depression Treatment",
+  "context": {
+    "prior_knowledge": "Understanding of basic depression diagnosis and treatment protocols, experience with chronic disease management models",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A digital-based education program for medical professionals, with practice-centered design considering applicability in actual clinical settings",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can use a tool analyzing depression treatment gaps to propose three or more customized intervention strategies reflecting the target group's specificities (ethnicity/race, etc.).",
+    "Learners successfully complete simulations applying the six core elements of the chronic disease management model (self-management support, clinical information systems, etc.) to depression treatment two or more times.",
+    "Learners analyze two real depression case studies within 3 months, draft treatment improvement plans per a project-based assessment rubric (4 criteria: goal-setting, intervention strategies, implementation plans, evaluation methods), and share them on digital platforms (Notion/Google Docs) to receive ≥3 feedbacks from peers/experts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Depression Treatment Gap Case Database",
+      "Chronic Disease Management Model Toolkit",
+      "Interactive Simulation Software",
+      "Digital Collaboration Platform Access"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1126",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Strategies for Using Graphic Organizers in Medical Education: Learning-by-Doing vs. Learning-by-Watching Comparison",
+  "context": {
+    "prior_knowledge": "Understanding of foundational medical terminology and human body systems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in smartphone-based limited-technology environments, aiming to enhance knowledge structuring abilities of prospective medical professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can visualize medical concepts using graphic organizers and explain them with over 80% accuracy.",
+    "Learners can compare the advantages and disadvantages of learning-by-doing and learning-by-watching strategies and select appropriate approaches based on learning objectives.",
+    "Learners achieve a correct answer rate of 75% or higher in knowledge retention assessments conducted one month later."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible graphic organizer templates",
+      "Medical concept dictionary",
+      "Mobile version of Bit Pathways-like learning platform",
+      "Formative assessment quiz kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

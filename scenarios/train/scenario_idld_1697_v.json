@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1697-V",
+  "variant_type": "context_variant",
+  "title": "Personalized Language Learning Projects: Smartphone-Based E-Learning Design",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Teaching competency enhancement program for pre-/in-service teachers. Conducts language projects using learner-customized content and mobile-friendly tools in limited technological environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced",
+    "learner_education": "University"
+  },
+  "learning_goals": [
+    "Learners can select personalized language content with over 80% suitability based on their individual learning style analysis.",
+    "Learners can complete group-based language projects (e.g., digital storytelling) using smartphone-based collaboration tools.",
+    "Learners can present improvements in individual language skills (speaking/writing) as artifacts (portfolios) through a feedback system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Open-source ontology classification tool",
+      "Learning Style Assessment Questionnaire",
+      "Cloud-based collaborative document tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4765",
+  "variant_type": "idld_aligned",
+  "title": "Personalized Science Learning Strategies Through Learner Engagement Profiling",
+  "context": {
+    "prior_knowledge": "Elementary science core concepts and job-related scientific knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "As working learners face challenges securing study time during work hours, the design must optimize smartphone-based learning activities.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can develop personalized learning plans based on individual participation profiles generated through LMS data analysis",
+    "Learners can achieve over 80% target participation rate by engaging in non-real-time learning activities (video viewing/quiz participation/discussion board posts) at least three times weekly",
+    "Learners can lead scientific problem-solving activities at least five times within a learning community and earn peer evaluation scores of 4 points or higher (out of 5)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Science Experiment Simulation App",
+      "Learning Analytics Dashboard",
+      "Weekly learning report template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

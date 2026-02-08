@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0057",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-directed] Mobile Microlearning Design System Based on Scientific Theory",
+  "context": {
+    "prior_knowledge": "Understanding of basic science concepts and mobile device usage experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A microlearning course systematically applying various scientific theories using an ontology-engineering-based learning design system",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners must be able to apply basic science theories (e.g., physics laws, chemical reactions) with over 80% accuracy in a mobile environment",
+    "Learners must be able to explain associations between at least three science theories using ontology-based design tools",
+    "Learners achieve 70 points or higher (out of 100) on a summative assessment after weekly intensive learning"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "SMARTIES-like authoring tool",
+      "Science Theory Ontology Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

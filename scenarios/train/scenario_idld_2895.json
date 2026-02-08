@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2895",
+  "variant_type": "idld_aligned",
+  "title": "Personalized Learning Strategy Design Based on Educational Feedback Network Analysis",
+  "context": {
+    "prior_knowledge": "Basic Learning Analytics and Understanding of Graph Theory",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course to strengthen language learning and educational feedback analysis capabilities.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners visualize learning interaction data as graph network models to analyze feedback flow.",
+    "Learners predict personalized feedback patterns using LSTM-based time-series analysis.",
+    "Core learning nodes (influencers) can be identified by applying network centrality metrics (degree, betweenness centrality)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Network Analysis Tool (NetworkX)",
+      "Jupyter Notebook",
+      "Learning Interaction Dataset",
+      "LSTM Model Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

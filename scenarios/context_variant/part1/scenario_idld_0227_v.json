@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0227-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Data Science Practical Competencies: Quest-Based Scientific Workforce Development Program",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can creatively solve science problems presented in 80% or more of the quests",
+    "Through peer evaluation and feedback, learners design three or more self-directed learning tasks",
+    "By the end of the course, learners voluntarily complete and present results for five or more customized challenge tasks"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

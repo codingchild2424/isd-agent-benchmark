@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1060",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Mobile-Based Problem-Centered Heart Failure Health Education Design Project",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and elementary education methodologies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project where pre-service teachers design and evaluate heart failure patient education materials using mobile apps",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Achieve the ability to convert core concepts of heart failure management into mobile problem scenarios",
+    "Learners design three types of mathematics education content (videos, interactive activities, etc.) applying Mayer’s multimedia learning theory and cognitive load theory, and submit deliverables meeting at least four of five evaluation criteria (e.g., visual clarity, cognitive load management, learning effectiveness) from peer review and expert feedback.",
+    "Learners collect feedback three or more times from peers and teachers on a math learning app prototype, and submit a revised version reflecting at least two UI/UX improvements within two weeks."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile app prototyping tool",
+      "Heart failure clinical guide PDF",
+      "Educational question bank database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

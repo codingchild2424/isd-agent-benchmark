@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6942",
+  "variant_type": "idld_aligned",
+  "title": "Human-Mobility Interaction Graph Learning Design for Smart Mobility Systems",
+  "context": {
+    "prior_knowledge": "Elementary statistics, linear algebra, programming (Python), and fundamental machine learning concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Graduate-level applied mathematics education course for learners in specialized technical fields. Composed of asynchronous learning using personal devices (BYOD), with project-based assessments evaluating real-life problem-solving abilities",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Participants can explain methodologies for representing multimodal data (text, video, sensor data) as graph structures.",
+    "Participants can extract core concepts of human-mobility interaction (HMI) by utilizing cross-modality graph fusion techniques.",
+    "Participants can apply HMI graph learning models to real-world smart mobility scenarios (e.g., intersection navigation, pedestrian interaction)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based machine learning library (TensorFlow/PyTorch)",
+      "Simulated Smart Mobility Dataset",
+      "Graph Neural Network (GNN) Visualization Tool",
+      "LMS Collaborative Space (Forum/Workspace)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0702-V",
+  "variant_type": "context_variant",
+  "title": "Technology-Enhanced Outdoor Mathematics Exploration: Learning Design in Local Environments",
+  "context": {
+    "prior_knowledge": "Basic mathematical concepts (algebra, geometry, statistics) and fundamental smartphone proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Field research and data analysis-centered learning using smartphone apps in limited-technology environments.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can convert data collected from local natural environments into mathematical models",
+    "Learners can perform real-time calculations and visualization processes in field settings using mobile apps",
+    "Learners can document and present mathematical problem-solving processes through project-based collaboration"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Data Collection App (AR Measurement Tool, GPS Coordinate Tracker)",
+      "Low-Spec Cloud Storage (Google Drive/Dropbox)",
+      "Portable Measurement Equipment (Tape Measure, Protractor)",
+      "Simple Statistical Analysis Web Interface"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

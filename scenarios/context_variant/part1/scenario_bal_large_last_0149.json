@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0149",
+  "variant_type": "balance_large_last",
+  "title": "Empathetic Listening Simulation Training for Postpartum Nursing Care",
+  "context": {
+    "prior_knowledge": "Basic postpartum nursing knowledge and clinical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Hands-on VR simulation-based education in BYOD (Bring Your Own Device) environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Apply empathetic listening techniques to identify the emotional needs of postpartum women with 80% accuracy.",
+    "Practice communication strategies for postpartum depression patients in a VR simulation at least three times.",
+    "Explain the patient assessment procedure using the Edinburgh Postnatal Depression Scale (EPDS)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Equipment",
+      "EPDS Assessment Tool Manual",
+      "Empathetic Communication Scenario Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

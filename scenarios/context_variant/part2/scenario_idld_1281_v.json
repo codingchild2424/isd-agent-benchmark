@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1281-V",
+  "variant_type": "context_variant",
+  "title": "E-Learning Competency Enhancement: Spline Adaptive Filtering Techniques for Nonlinear System Identification",
+  "context": {
+    "prior_knowledge": "Linear systems theory, basic signal processing knowledge, and numerical analysis experience using MATLAB/Python",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Competency enhancement program for professionals in education/teaching/learning fields",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "The principles of spline-based filtering algorithms for solving nonlinear system identification problems can be explained",
+    "Learners design an algorithm combining LHC (Lossless Hashing Cost) cost function and MNAG (Multi-Noise Adaptive Gradient) learning method in impulsive noise environments, achieving over 90% noise removal accuracy through 10+ repeated simulations in MATLAB/Python environments",
+    "Learners apply three or more algorithms (neural networks, support vector machines, Gaussian processes) to real nonlinear hysteresis systems (e.g., piezoelectric actuators) in MATLAB/Simulink environments, producing quantitative evaluation results with cross-validated RMSE ≤0.15 and R² ≥0.95"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Authoring Tool",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

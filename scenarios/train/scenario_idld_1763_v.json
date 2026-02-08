@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1763-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design Based on an Educational Reconstruction Model for Understanding Solid-State Chemistry Concepts",
+  "context": {
+    "prior_knowledge": "Understanding of core chemistry concepts (atomic structure, types of bonding, crystal structures, etc.)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Focuses on strengthening conceptual understanding to help pre-service teachers effectively convey solid-state chemistry concepts to elementary students. Supplementary materials via smartphones are permissible",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain core solid-state chemistry concepts (crystal structures, bonding types, property relationships) with over 85% accuracy.",
+    "Learners can design instructional materials that reinterpret abstract concepts at an elementary level using the Educational Reconstruction Model (MER).",
+    "Learners can assess conceptual application skills and provide feedback through solid-state chemistry-related experiments/visualization activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Solid-State Chemistry Model Kit",
+      "Smartphone-Compatible AR Application",
+      "Concept Structuring Worksheets",
+      "Case Study Resource Compilation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

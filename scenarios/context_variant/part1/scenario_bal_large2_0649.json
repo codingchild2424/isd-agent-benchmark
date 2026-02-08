@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0649",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Predictive Analytics-Based Science Learning Design and Evaluation Optimization",
+  "context": {
+    "prior_knowledge": "Foundational science theories and experience with online learning platforms",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Targets intermediate science learners with asynchronous LMS-based instruction. Comprehensive understanding is assessed through project-based evaluations",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze science learning activity data using predictive analytics tools and apply insights to improve instructional design",
+    "Learners can understand and apply an integrated process of LD (Learning Design) and LA (Learning Analytics) to real-world projects",
+    "Learners can diagnose issues in instructional design by comparing learning activity data with predictive model results and propose improvement strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS (Learning Management System)",
+      "Predictive Analytics Software",
+      "Science Experiment Simulation Tool",
+      "Learning Activity Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

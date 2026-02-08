@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1656",
+  "variant_type": "idld_aligned",
+  "title": "Activity-Based Welding Trainer Instructional Design Scenario",
+  "context": {
+    "prior_knowledge": "Basic welding techniques and understanding of production processes",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Activity-based training program integrating welding theory and practice for pre-service/in-service teachers. Extended blended learning combining smartphone-centric microlearning and field practice in constrained technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze real-world task packages from industrial settings to explain step-by-step requirements of welding processes",
+    "Learners can apply welding theories (e.g., material properties, safety regulations) with over 80% accuracy using mobile microlearning modules",
+    "Learners can document and present results of welding task simulations (video streaming) and field practice through project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible e-learning platform",
+      "Welding Process Video Library",
+      "Simplified Task Package Template",
+      "Mobile Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

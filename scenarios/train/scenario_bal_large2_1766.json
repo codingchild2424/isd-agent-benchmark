@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1766",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Large-Scale Instructional Design Strategies to Improve Learner Satisfaction in Blended and Online Learning",
+  "context": {
+    "prior_knowledge": "Foundational science education and experience with digital learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Capacity-building program for pre-service teachers in developing and operating science curriculum-integrated microlearning modules",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain at least three factors influencing satisfaction in blended/online environments: instructional material quality, assessment strategies, and workload management.",
+    "Learners can propose content organization plans linked to long-term learner goals (certification acquisition, professional development) when designing modules.",
+    "Learners can design and apply at least two interaction strategies optimized for mobile-based microlearning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile Learning Authoring Tool",
+      "Learning analytics report template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-1159",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Advanced Secondary Mathematics Curriculum Based on Flipped Learning",
+  "context": {
+    "prior_knowledge": "Understanding of secondary-level mathematical fundamentals (equations, functions, geometry, statistics)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasizing practical competencies through project-based assessment for learners adapted to non-face-to-face environments post-COVID",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Using flipped learning content (videos/interactive quizzes), over 80% of learners achieve weekly pre-learning objectives.",
+    "Through problem-solving activities based on experiential learning theory, learners independently solve over 70% of complex mathematical problems (function optimization, statistical inference).",
+    "Learners can design a math modeling project reflecting real-world job scenarios (e.g., construction site budgeting, manufacturing process optimization) in four-person teams, finalize reports incorporating peer collaborative learning (weekly peer reviews) and instructor feedback (three times at two-week intervals), and receive a score of 3.5 or higher on a 5-point scale for applicability from a field expert evaluation panel."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Dynamic Courseware",
+      "Interactive Quiz Platform",
+      "Teacher Guidelines",
+      "Advanced Question Bank",
+      "LMS Integration System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

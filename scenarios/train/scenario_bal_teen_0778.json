@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0778",
+  "variant_type": "balance_teen_k12",
+  "title": "Scenario-Based White Blood Cell Structure and Function e-Learning Course for K-12",
+  "context": {
+    "prior_knowledge": "Understanding of basic cell biology and immunology concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course enhancing clinical application skills through scenario-based learning in a smartphone-centric limited-technology environment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately identify and explain the structural characteristics of five major types of white blood cells.",
+    "Learners can analyze the clinical functions of leukocytes (e.g., infection response, immune regulation) based on real-world cases.",
+    "Learners achieve at least 80% proficiency in interpreting leukocyte counts through scenario-based formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible e-learning content",
+      "White blood cell model kits",
+      "Clinical case scenario workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

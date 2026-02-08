@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6905",
+  "variant_type": "idld_aligned",
+  "title": "Task-Centered Instructional Design for Formal Operations Application Skill Development",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and equation-solving skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An educational environment emphasizing improvement of practical problem-solving skills for learners primarily preparing for employment. Utilizes digital resource supplements via personal devices (BYOD)",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify and apply appropriate mathematical formulas with 90% accuracy to solve real-life problems",
+    "Learners can create process maps with three or more logical stages explaining formula application",
+    "Learners can diagnose and correct over 80% of errors in formula application through peer/self-assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Whiteboard",
+      "LMS System",
+      "Mathematical formula flashcard set",
+      "Case-based workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

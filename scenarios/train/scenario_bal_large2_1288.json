@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-1288",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Practical Training on VR-Based Visual Function Training System Utilization",
+  "context": {
+    "prior_knowledge": "Basic understanding of visual systems and experience with digital devices",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhancing operational and analytical capabilities of visual training systems using VR devices in smartphone-centric limited-technology environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Perform visual function assessments using AI-based iris and pupil tracking technology in a VR environment.",
+    "Learners diagnose visual impairment types (e.g., hemianopia, visual field loss) in stroke patients within 3 weeks. They design one personalized visual training program including 3 core elements (goal setting, training methods, evaluation metrics) and analyze treatment efficacy by applying a visual tracking accuracy measurement process to 5 virtual patient datasets, demonstrating ≥15% average improvement.",
+    "Learners analyze visual impairment diagnostic data (visual acuity, intraocular pressure, retinal images) to establish ≥3 prevention/treatment plans (medication, laser therapy, rehabilitation training) and create patient-specific management checklists within 2 weeks."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset (Ages 10–30)",
+      "Mobile-Integrated VR Software",
+      "Visual Training Content Library",
+      "AI Analysis Module",
+      "Auxiliary Smartphone Device (Ages 10–30)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

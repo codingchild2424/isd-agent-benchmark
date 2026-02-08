@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7191-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Language Microlearning Course: Integrating Remote Education and Community Learning",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aimed at improving language skills for adapting to multicultural work environments, where learners have significant time constraints, higher smartphone accessibility than PC, and require motivation through community-based collaboration",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can complete 10-minute language learning content five times per week using mobile apps",
+    "Learners engage in at least three language practice conversations with peer learners using real-time voice messaging functions",
+    "Learners accurately comprehend 80% or more of the 5 core vocabulary items and expressions per week through formative quizzes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Speech Recognition-Based Language Learning App",
+      "Weekly Learning Progress Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

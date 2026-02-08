@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5186-V",
+  "variant_type": "context_variant",
+  "title": "Synchronous Virtual Classroom-Based Experiential Mathematics Learning Course",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A process to enhance mathematical thinking through experiential learning activities requiring real-time collaboration in smartphone-based constrained technological environments, with a focus on cultivating essential data analysis and decision-making skills for professionals in medical, legal, and technical fields.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "In synchronous virtual classrooms, learners can apply mathematical problem-solving strategies with over 80% accuracy through competition-collaboration simulations",
+    "In real-time group discussions, learners can analyze and explain three or more real workplace scenarios using mathematical concepts",
+    "Learners can perform statistical inference based on data collected via mobile devices and share visual graph representations with peers"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Real-Time Video Conferencing Tool",
+      "Simple Data Visualization Application",
+      "Collaborative Digital Whiteboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Business/HR/Admin Support"
+}

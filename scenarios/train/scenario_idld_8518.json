@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8518",
+  "variant_type": "idld_aligned",
+  "title": "Deep Learning-Based Approach for Software Design Pattern Detection",
+  "context": {
+    "prior_knowledge": "Foundational object-oriented programming, basic software engineering concepts, and introductory machine learning knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended learning model conducted in digitally supported environments, combining theoretical learning with practical code analysis projects.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can describe the main types of software design patterns and their application cases.",
+    "Learners can implement methods to identify design patterns using deep learning-based automatic feature extraction technology.",
+    "Learners can construct graph representation models from source code or system design documents and evaluate pattern detection accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python Programming Environment",
+      "TensorFlow/Keras Library",
+      "UML design tools",
+      "Real-world software project datasets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

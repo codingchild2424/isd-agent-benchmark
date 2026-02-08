@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3490-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Deep Learning Competency: Improving Nursing Students’ Decision-Making Skills in Clinical Practice Settings",
+  "context": {
+    "prior_knowledge": "Basic nursing theory and clinical practice experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can improve decision-making efficiency by 20% by analyzing cognitive load factors in clinical scenarios",
+    "Learners can perform clinical decision-making with 80% or higher accuracy in project evaluations based on real patient cases",
+    "Learners can design educational materials by applying the three elements of Cognitive Load Theory (intrinsic/extraneous/germane load)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

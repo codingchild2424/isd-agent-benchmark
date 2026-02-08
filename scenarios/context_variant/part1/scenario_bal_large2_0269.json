@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0269",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Digital Game-Based History Education Design: Mobile Microlearning Course",
+  "context": {
+    "prior_knowledge": "Experience in elementary history education and basic proficiency in digital device usage",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course where in-service elementary teachers participate as practical developers of corporate history education content, operating in a smartphone-centric limited technology environment with project-based assessments to measure learning outcomes.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design historical education game scenarios by applying the 5-stage DGBL-ID model (Analysis-Design-Development-Quality Assurance-Implementation/Evaluation)",
+    "Learners can plan history concept delivery methods utilizing mobile-optimized quiz/simulation game mechanics",
+    "Learners can establish assessment systems measuring creative problem-solving abilities by developing game-based evaluation tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Game Authoring Tool",
+      "History Education Standard Content Library",
+      "Collaborative Platform Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

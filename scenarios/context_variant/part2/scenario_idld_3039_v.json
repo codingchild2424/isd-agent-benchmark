@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3039-V",
+  "variant_type": "context_variant",
+  "title": "Case Analysis-Based Education for Learning About Hospital Adverse Events",
+  "context": {
+    "prior_knowledge": "Fundamental understanding of healthcare systems and hospital operations",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening medical case analysis capabilities through the application of mathematical thinking",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply qualitative research methods to systematically analyze root causes of adverse events.",
+    "Learners can design strategies for utilizing a case database to propose a cross-hospital learning-sharing system.",
+    "Learners can optimize case analysis processes for quality improvement even under time constraints and work pressure."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual Hospital Adverse Event Case Database",
+      "Qualitative Analysis Guidelines",
+      "Collaboration Tool Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

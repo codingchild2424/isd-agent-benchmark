@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0205",
+  "variant_type": "idld_aligned",
+  "title": "Adaptive Mobile Learning for Mastery of Coordinate Concepts",
+  "context": {
+    "prior_knowledge": "Basic geometry concepts and graph interpretation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Targeting professionals in medical, legal, and technical fields, aiming to enhance scientific data visualization capabilities",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately identify and explain the position of a point in a three-dimensional coordinate system.",
+    "Learners can solve spatial reasoning problems involving integrated coordinate concepts presented simultaneously with over 80% accuracy.",
+    "Learners can improve their conceptual understanding by 30% within one week based on feedback provided in an adaptive system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Interactive Content",
+      "Real-Time Adaptive Algorithms",
+      "Digital Learning Analytics Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

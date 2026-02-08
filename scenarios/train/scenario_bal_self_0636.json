@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0636",
+  "variant_type": "balance_self_directed",
+  "title": "Online Education Based on Data Ethics Modules (Self-Directed)",
+  "context": {
+    "prior_knowledge": "Foundational data analysis, understanding of research methodologies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Content structured for smartphone-based learning environments, with modular design accommodating learners from diverse academic backgrounds",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify and explain at least three ethical issues that may arise during the research data processing process",
+    "Learners can analyze the co-production structure of research data by applying the concept of data ecology",
+    "Learners can propose solutions applying data ethics principles (transparency, accountability, fairness) based on real-world cases"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Text-Based Learning Materials",
+      "Mobile-Optimized Video Content",
+      "LMS-Integrated Quiz System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

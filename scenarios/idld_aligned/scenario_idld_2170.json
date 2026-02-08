@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2170",
+  "variant_type": "idld_aligned",
+  "title": "Reinforcement Learning-Based Curriculum Design for Multi-Agent Resource Collection",
+  "context": {
+    "prior_knowledge": "Basic programming knowledge and comprehension of simple reinforcement learning concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners Access Non-Real-Time LMS in Smartphone-Based Environments and Study Multi-Agent Collaboration Concepts for Language Domain Application",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain resource collection strategies utilizing environmental signals (stigmergy) in multi-agent systems.",
+    "Learners can implement step-by-step agent collaboration policies by applying reinforcement learning-based curriculum design.",
+    "Learners can simulate and optimize implicit communication mechanisms between agents under limited environmental conditions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Text-based simulation tools",
+      "Online Programming Environment (e.g., Colab)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3262-V",
+  "variant_type": "context_variant",
+  "title": "First-Language Enhancement Program for Special Education Learners in Virtual Environments",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Program addressing language development delays in learners with mild developmental disabilities (intellectual disabilities, ADHD). Supports immersive learning through virtual world simulations rather than physical classroom applications.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can construct basic sentence structures with over 80% accuracy using daily conversation scenarios presented in virtual learning environments.",
+    "Learners can correctly use over 10 key vocabulary words contextually in mobile-based 3D virtual spaces.",
+    "Through weekly microlearning assignments, learners can communicate using expressions practiced at least three times with parents at home."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Web-Based Virtual Learning Platform",
+      "Mobile-optimized 3D content",
+      "Voice recognition-based interactive module",
+      "Learning progress tracking dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

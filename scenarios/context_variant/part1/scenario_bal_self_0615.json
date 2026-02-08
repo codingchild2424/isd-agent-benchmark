@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0615",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Virtual Reality-Based Integrated Safety Technology and Mathematics Learning Design: Supporting Children with Autism Spectrum and Fetal Alcohol Spectrum Disorders",
+  "context": {
+    "prior_knowledge": "Foundations of Educational Studies, Overview of Special Education, basic concepts of 2D/3D geometry, and understanding of coordinate systems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening competencies in designing and evaluating VR educational tools applicable to real classroom environments. Particularly focuses on developing interactive simulations to enhance spatial reasoning abilities of children with mathematics learning disabilities.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners design at least three VR safety scenarios tailored to the cognitive characteristics of children with Autism Spectrum and Fetal Alcohol Spectrum Disorders, integrating math problems (e.g., 3D shape analysis) that enhance spatial perception and geometric reasoning.",
+    "Learners design VR-based math learning scenarios (e.g., 3D geometry problem-solving, coordinate system transformations, volume calculations) in Unity3D or Unreal Engine, implement at least three animated character interaction algorithms responsive to user actions (e.g., object rotation, scaling, symmetry transformations), and develop a prototype achieving over 80% satisfaction in user testing (5+ participants).",
+    "Learners establish a virtual-to-real-world behavior transfer assessment system for measuring educational effectiveness, incorporating quantitative metrics such as math concept application accuracy (e.g., angle measurement, area calculation)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Development Kit",
+      "Child Behavior Observation Record Sheet",
+      "3D Modeling Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

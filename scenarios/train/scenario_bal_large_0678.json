@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0678",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Development and Application of an Online Self-Regulated Learning Assessment Tool: Validating Cultural and Institutional Feasibility in Social Learning Contexts",
+  "context": {
+    "prior_knowledge": "Basic understanding of online learning environments and self-regulated learning, along with foundational knowledge of social learning theory (social interaction, peer learning, cultural/institutional influences)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Development and validation of survey-based assessment tools tailored for professional groups (medical/legal/technical). Designed considering social contexts (citizenship, rights, institutions) such as workplace learning culture, peer knowledge sharing, and organizational learning support systems.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Development of a valid online self-regulated learning measurement survey tool and validation of its applicability in social learning contexts (social interaction, peer learning)",
+    "Analysis of social variables’ (culture, institutions, relationships) influence through measurement equivalence verification across groups (gender, network environment, occupational background)",
+    "Learners use the MSLQ-based self-regulated learning questionnaire to analyze their learning characteristics (motivation, cognition, behavior domains), establish ≥3 personalized learning strategies (e.g., time management, goal-setting, feedback utilization) based on results, and create an 8-week implementation plan. They may include collaborative strategies (knowledge sharing, role division, peer assessment) with fellow learners"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Statistical Analysis Software (AMOS, R)",
+      "LMS platform",
+      "Survey Distribution System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1103",
+  "variant_type": "idld_aligned",
+  "title": "Expert Course on Educational System Design Using UML Stereotypes",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and managerial work experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended learning environment combining a smartphone-based learning platform with monthly offline workshops, focusing on strengthening corporate scientific education system design capabilities",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can visualize teaching-learning mechanisms of educational systems using UML stereotypes.",
+    "Learners can design learning model creation/monitoring/re-adaptation processes as UML diagrams.",
+    "Learners can design a science education system document suitable for corporate environments through team-based projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "UML Diagram Authoring Tool App",
+      "Offline Workshop Space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

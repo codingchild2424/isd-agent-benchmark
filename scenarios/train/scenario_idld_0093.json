@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0093",
+  "variant_type": "idld_aligned",
+  "title": "Practice-Based Education Program in Health Systems Science",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and public health concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-centered education modeled after a patient linkage program developed during the COVID-19 pandemic, enhancing problem-solving experiences in healthcare systems through learner-instructor collaboration",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the linkage mechanism between medical and social issues through actual patient case analysis",
+    "Analyze patient data using an Electronic Medical Record (EMR) system and perform the process of connecting healthcare resources",
+    "Propose three or more practical suggestions for improving the healthcare system"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual patient simulation software",
+      "Regional healthcare institution network",
+      "Social service agency contact database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

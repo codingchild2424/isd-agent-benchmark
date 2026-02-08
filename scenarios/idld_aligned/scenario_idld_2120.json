@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2120",
+  "variant_type": "idld_aligned",
+  "title": "Patient Safety-Centered Progressive Assertiveness Training Program for Nursing Students",
+  "context": {
+    "prior_knowledge": "Fundamental nursing skills and understanding of medical team collaboration",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "High-risk scenario-based training reflecting real clinical environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can appropriately respond to patient safety-threatening situations by applying 3-level (assertiveness levels 1–3) communication strategies.",
+    "In a simulation environment, learners solve problems by utilizing stepwise assertiveness techniques during conflict situations with over 80% accuracy.",
+    "After VR-based training, learners receive feedback from peer evaluations proving effective communication skills at least four times."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Medical simulation VR software",
+      "Patient safety scenario database",
+      "Role-play medical equipment kits",
+      "BYOD-supported apps (recording/filming functionality)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

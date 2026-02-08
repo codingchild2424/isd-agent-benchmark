@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8790",
+  "variant_type": "idld_aligned",
+  "title": "Standards-Based Adaptive Science Learning Course Design",
+  "context": {
+    "prior_knowledge": "High school-level foundational science knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Personalized Support Through Digital Device Utilization and Learning Analytics",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply science concepts with over 80% accuracy in an adaptive learning environment based on IMS Learning Design standards.",
+    "Learners can generate personalized recommended learning paths in three or more stages through learning data analysis.",
+    "Learners demonstrate foundational scientific problem-solving skills by achieving 75 points or higher in summative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Experiment Kit",
+      "LMS platform",
+      "Learning Analytics Tools",
+      "Interactive learning content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

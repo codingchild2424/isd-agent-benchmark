@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3181-V",
+  "variant_type": "context_variant",
+  "title": "Language Project Learning Design Based on Immersive Environments",
+  "context": {
+    "prior_knowledge": "Basic digital tool proficiency and elementary language instruction experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Process for current elementary school teachers to design and implement language education projects using augmented reality (AR) and 3D virtual worlds (3DVW).",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design three or more context-specific language learning scenarios in a classroom environment using augmented reality (AR) tools.",
+    "Learners can develop and implement two culture-based language projects using a 3D virtual world (3DVW) platform.",
+    "Learners can facilitate collaborative language learning activities in large-class settings by integrating digital tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet Device Set",
+      "AR authoring tool licenses",
+      "3D Virtual World Platform Access Permissions",
+      "Educational Content Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

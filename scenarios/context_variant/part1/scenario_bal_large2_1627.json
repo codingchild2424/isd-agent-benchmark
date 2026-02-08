@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1627",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Comparison of DNA Extraction Teaching Methods: Video Game-Based Learning vs. Traditional Laboratory Learning",
+  "context": {
+    "prior_knowledge": "Foundational Knowledge in Life Sciences and Understanding of DNA Structure",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Comparative analysis of game-based learning and laboratory simulations using mobile devices in a BYOD environment.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the core principles of DNA extraction processes and compare conceptual differences between two educational methods",
+    "Learners can complete DNA extraction simulations in a video game-based learning environment with over 80% accuracy",
+    "Learners can write reports analyzing the strengths and weaknesses of two educational methods through project-based learning"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "DNA extraction video game application",
+      "Laboratory protocol video resources",
+      "Mobile Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

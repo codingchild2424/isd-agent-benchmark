@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8332",
+  "variant_type": "idld_aligned",
+  "title": "Authoring Tool-Based Learning Course for Intelligent Tutoring System Design",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and proficiency in digital tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course for current practitioners to enhance their ability to design intelligent tutoring systems in science. Focuses on designing and evaluating learning environments using authoring tools without requiring programming knowledge.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design a simple intelligent tutoring system in the science domain using authoring tools.",
+    "Learners can implement a learner-adaptive feedback system through project-based activities.",
+    "Learners can analyze the educational effectiveness of designed systems via formative assessment and derive improvement strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Authoring tool software license",
+      "Science subject learning content template",
+      "Digital Assessment Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

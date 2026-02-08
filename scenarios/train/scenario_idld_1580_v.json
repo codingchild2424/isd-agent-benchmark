@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1580-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Microlearning-Based Math Job Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic mathematics and job-related mathematical knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course targeting financial organization clerical workers to improve math problem-solving skills and develop work-applicable competencies in a mobile environment. Conducted in a BYOD setting.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Solve on-the-job mathematical problems with over 80% accuracy using mobile learning modules",
+    "Apply three or more mathematical approaches contextually through microlearning content",
+    "Apply training content to actual work tasks at least twice within 72 hours of mobile learning"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Interactive Quiz Template",
+      "Workplace case-based mathematics problem bank",
+      "Real-time feedback system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

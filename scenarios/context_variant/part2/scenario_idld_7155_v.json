@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7155-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Data Science Practical Skills: Racial Equity-Embedded Online Mathematics Instructional Design",
+  "context": {
+    "prior_knowledge": "Fundamental mathematics knowledge and basic understanding of the teacher's role",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design and apply mathematics educational materials reflecting diverse cultural backgrounds.",
+    "Learners can present at least three online interaction strategies to strengthen cognitive and social presence.",
+    "Learners can design mathematics lessons that respect individual learners' experiences and cultural capital."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

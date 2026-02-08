@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1046-V",
+  "variant_type": "context_variant",
+  "title": "Multimodal Learning Design for Contour Map Interpretation",
+  "context": {
+    "prior_knowledge": "Proficiency in basic geography concepts and mathematical graph interpretation",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Structuring asynchronous learning environments to minimize spatiotemporal constraints, strengthening practical application skills through project-based assessments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain topographical features (elevation, slope, etc.) based on visual elements of contour maps with over 85% accuracy",
+    "Learners can solve contour interval-distance-to-elevation ratio calculation problems using audio/text multimodal materials with 90% accuracy",
+    "Learners can replicate contour patterns in complex terrains using 3D modeling tools (digital mapping software) with 80% accuracy"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Contour Line Simulation Tool",
+      "Step-by-Step Audio Narration Recording Files",
+      "AR-Based Topographic Visualization App",
+      "LMS-Integrated Quiz Bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

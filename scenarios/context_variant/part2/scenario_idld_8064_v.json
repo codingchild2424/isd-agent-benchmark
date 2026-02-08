@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8064-V",
+  "variant_type": "context_variant",
+  "title": "Rule-Based Online Training Program for Enhancing Argumentative Coherence",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Program targeting logical fallacy identification and fair argumentation structure development in science education. Self-directed learning via LMS in BYOD environments",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Six major types of rule violations in scientific argumentation can be identified with 80% accuracy",
+    "At least three appropriate response strategies to unfair argumentation tactics can be presented",
+    "An evaluation report applying argumentative integrity standards to real scientific discussion cases can be written"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Interactive Argumentation Simulation Tool",
+      "Scientific Argumentation Case Database",
+      "Automated Grading and Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1177",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Experimental Design and Machine Learning Modeling for Optimizing Fresh-Cut Leafy Vegetable Sterilization",
+  "context": {
+    "prior_knowledge": "Introductory microbiology and chemistry knowledge, along with foundational data analysis skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students manipulate sterilization condition variables in a virtual lab using digital devices and experience building machine learning models. They learn to apply real experimental data to modeling, enhancing scientific problem-solving skills.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Identify sterilization optimization variables (such as cutting size, agitation speed) by applying Taguchi Design of Experiments (DOE) principles",
+    "Predict sterilization outcomes (microbial concentration, COD) and derive optimal conditions using machine learning models (such as GPR)",
+    "Analyze scientific data to propose solutions for real-world agricultural/food safety issues"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Simulation/VR Equipment",
+      "Experimental Dataset",
+      "Machine Learning Educational Software",
+      "Educational Workbooks"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

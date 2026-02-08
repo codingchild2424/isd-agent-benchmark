@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0410",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Data Mining and Machine Learning for Moral Analysis of Islamic Bank Credit Card Repayment",
+  "context": {
+    "prior_knowledge": "Basic Statistics, Understanding Financial Services, Fundamental Machine Learning Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Analysis of regional moral factors and cultivation of practical application skills, focusing on the case of Islamic banks in Indonesia",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Key moral variables influencing credit card repayment can be identified using data mining techniques (e.g., Boruta, Random Forest).",
+    "Regional repayment behavior patterns can be predicted using machine learning models (Logistic/XGBoost regression) and visualized with analytical tools.",
+    "Customized repayment management strategies for Islamic bank customers can be proposed based on analysis results, categorized by customer type."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/R analysis tools",
+      "Indonesian financial data sample",
+      "Machine learning libraries (Scikit-learn, XGBoost)",
+      "Spatial Clustering Visualization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0401",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Context-Based Ecosystem Project: Mathematical Approaches for Biodiversity and Environmental Problem Solving",
+  "context": {
+    "prior_knowledge": "Basic ecology concepts and high school-level mathematics knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course integrating theory and practice through modeling and simulation activities using real-world environmental data.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can represent and analyze interactions between biological species within ecosystems using mathematical models",
+    "Learners can design and evaluate biodiversity indicators for solving region-specific environmental issues",
+    "Learners can predict ecosystem change trends and propose alternatives using data visualization tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Ecological Data Analysis Software (e.g., R, Python Libraries)",
+      "Regional Biodiversity Status Database",
+      "Environmental Simulation Virtual Lab Platform for Education"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

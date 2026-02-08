@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7487",
+  "variant_type": "idld_aligned",
+  "title": "Cognitive Load Theory-Based Mathematics Learning Optimization Design",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental mathematical concepts and data analysis experience in work environments",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for corporate leaders/managers to enhance math-based decision-making skills, utilizing asynchronous learning environments with digital devices (tablets/laptops)",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can measure their cognitive load with 80% accuracy using the NASA-TLX scale in one-hour mathematics learning content",
+    "Learners identify differences in cognitive load between two learning conditions (text vs. visualization) with over 70% accuracy using the Workload Profile tool",
+    "Learners can self-assess their mental effort levels for each learning session using the 5-point RSME scale at least three times."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Video/Quiz Functionality)",
+      "Self-Assessment Survey (NASA-TLX, WPL, RSME)",
+      "Interactive Mathematics Simulation Module",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

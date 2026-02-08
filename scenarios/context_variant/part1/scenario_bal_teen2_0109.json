@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0109",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Reinforcement Learning-Based Approach for Renewable Energy Building Energy System Control",
+  "context": {
+    "prior_knowledge": "Foundational knowledge of power systems, control theory, basic machine learning concepts, and experience with Python programming",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Case-based learning emphasizing the use of actual Japanese building data, conducted in smartphone-centric limited-technology environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explaining the design process of reinforcement learning control algorithms for off-grid operations in renewable energy-integrated buildings",
+    "Proposing a reward function structure that simultaneously satisfies battery lifespan extension and energy optimization",
+    "Applying Gaussian distribution-based offline reinforcement learning workflows to real-world building data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-source reinforcement learning framework",
+      "Actual building operational data samples",
+      "Mobile-optimized lecture materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

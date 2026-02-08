@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0716-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Teaching Methodology Competency: Reinforcement Learning Policy Iteration: Optimizing Output Feedback Systems",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Competency enhancement program for professionals in education/teaching/learning fields",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can derive optimal control policies for output feedback systems through policy evaluation and improvement stages",
+    "Learners can explain feedback policy transformation processes using off-policy Bellman equations",
+    "The modified policy iteration algorithm can be applied to real-world cases to perform optimality verification procedures"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "LMS platform",
+      "Authoring Tool",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

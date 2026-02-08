@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-0294",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Wireless Network Security Fundamentals: Project-Based Detection and Analysis Through Mathematical Modeling (Large-Scale)",
+  "context": {
+    "prior_knowledge": "Basic understanding of computer and internet usage, and foundational high school-level mathematics knowledge (statistics, probability, equations)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners analyze simple security threat cases in real Wi-Fi environments, exploring mathematical approaches to identify anomalies through numerical characteristics of network packets and graph-based visualization, with a focus on analysis methods utilizing variables such as inter-packet intervals, protocol distribution, and data size.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can classify over 12 common types of attacks that may occur in wireless networks based on mathematical classification criteria.",
+    "Learners can probabilistically identify anomalous patterns in network traffic using frame analysis tools (e.g., Wireshark) and statistical formulas.",
+    "Learners can complete a project to detect malicious traffic by applying mathematical models of k-NN or fuzzy logic classification.",
+    "Learners can classify attack types with over 80% accuracy through hands-on practice with real datasets and evaluate performance via a confusion matrix."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AWID Dataset Sample",
+      "Wireshark/TCPdump Tools",
+      "Python-Based Analytical Environment",
+      "Project Guide Documentation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

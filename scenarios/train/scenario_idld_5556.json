@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5556",
+  "variant_type": "idld_aligned",
+  "title": "LSTM-Based Instructional Design Automation Implementation Workshop",
+  "context": {
+    "prior_knowledge": "Foundational instructional design theories and understanding of machine learning concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Intensive training environment focused on hands-on practice using personal devices.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design a learning outcome prediction model using LSTM neural network architectures.",
+    "Learners can develop an automated instructional design system that reflects educational contexts (time, resources, social environment).",
+    "Learners can propose strategies to optimize learning outcomes based on predefined ontologies and educational models."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python Development Environment",
+      "TensorFlow/Keras Library",
+      "LSTM Sample Dataset",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8150-V",
+  "variant_type": "context_variant",
+  "title": "Hospitality Practical Competency Enhancement: Restaurant Competitiveness Evaluation Through Online Review Text Analysis",
+  "context": {
+    "prior_knowledge": "Basic statistical analysis, text data processing experience, and foundational understanding of machine learning",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customer service competency enhancement program for service/customer-facing role practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "They can identify comparative sentences in online review texts with 85% accuracy.",
+    "They can extract at least three competitive factors of restaurants (menu, service, price, etc.) by applying comparative relationship classification rules.",
+    "They can quantify relative strengths/weaknesses compared to competitors using a sentiment scoring system."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Customer Relationship Management (CRM) System",
+      "Customer Interaction Simulator",
+      "Service Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0488",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Validation of MOOC Web Content Quality Models and Application to Learning Design",
+  "context": {
+    "prior_knowledge": "Learning Design Theories and Foundational Knowledge of MOOC Platforms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A professional development course aimed at building competencies in MOOC content development and quality evaluation for mathematics.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "A MOOC content quality evaluation framework is applied using the 7C model (Communication, Curriculum, Context, Choice, Collaboration, Constructivism, Co-evaluation) and the PDCA cycle based on learning design.",
+    "From the content provider’s perspective, internal quality elements (9 categories, 54 sub-elements) of MOOC web content are analyzed and evaluated according to validity verification procedures.",
+    "Expert surveys are designed using a dichotomous Rasch model-based content validity verification method, and data-driven quality improvement directions are proposed."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MOOC Platform Development Tools (e.g., Moodle, edX)",
+      "Statistical Analysis Software (R or SPSS)",
+      "Learning Design Template (7C Model Guidelines)",
+      "Web Content Quality Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0134-V",
+  "variant_type": "context_variant",
+  "title": "CEFR-Based Formative Assessment Design Program for Elementary English Learners",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An online-offline integrated classroom environment using digital devices (tablets/laptops), operating a platform capable of providing personalized feedback to learners",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can perform CEFR Basic User (A1–A2) level tasks for the four core communication functions (reception, production, interaction, mediation) with over 80% accuracy.",
+    "Learners can write self-reflection reports and create personalized learning plans based on weekly formative assessment results.",
+    "Teachers apply three differentiated instructional strategies based on learner types (low-growth/assimilation-centered/high-growth) using K-means clustering analysis results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CEFR-Based Learner Self-Assessment Tool",
+      "Digital Formative Assessment Platform (LMS Integrated)",
+      "Learner Profiling Analysis Software",
+      "2015 Revised English Curriculum-Aligned Activity Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

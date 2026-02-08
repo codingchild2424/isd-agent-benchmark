@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1942",
+  "variant_type": "idld_aligned",
+  "title": "Goal-Based Instructional Design for Enhancing Veterinary-Based Mathematical Thinking Skills",
+  "context": {
+    "prior_knowledge": "Basic mathematical concepts (fractions, ratios, statistics) and foundational veterinary terminology",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "For veterinary industry professionals, emphasizing mathematical problem-solving skills applicable to actual work tasks",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Ratio and percentage formulas can be accurately applied when calculating animal weight/drug dosage",
+    "Veterinary experimental data can be converted into tables/graphs and statistical trends can be explained",
+    "Optimal layout plans can be proposed through area/volume calculations when designing animal housing spaces"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Veterinary Case Study Compilation (PDF)",
+      "Simplified Calculator Application",
+      "Offline Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

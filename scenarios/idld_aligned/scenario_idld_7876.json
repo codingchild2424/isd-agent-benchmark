@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7876",
+  "variant_type": "idld_aligned",
+  "title": "Mastery Language Learning Model Using E-Learning-Based Control Mechanisms",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and fundamental digital device operation skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A smartphone-centric limited-technology environment requiring personalized learning progress monitoring and tailored feedback.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can achieve language mastery standards (85+ points) with over 90% accuracy",
+    "Learners can address individual learning gaps within 72 hours through weekly diagnostic assessments",
+    "Learners can maintain a 95%+ weekly learning goal achievement rate using digital platforms"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based Learning Management System (LMS)",
+      "Offline learning worksheets",
+      "QR Code Assessment System",
+      "Intelligent Tutoring System (ITS) Integration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

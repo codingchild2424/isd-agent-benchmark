@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5329",
+  "variant_type": "idld_aligned",
+  "title": "User-Centered Virtual Learning Environment Design and Development",
+  "context": {
+    "prior_knowledge": "Basic digital tool utilization skills and language instruction experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized virtual learning environment development and competency-building program for current language practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can understand and apply user-centered design principles in virtual learning environments.",
+    "Learners can plan and prototype a mobile-optimized virtual space for language learning.",
+    "Learners can propose improvements for virtual learning environments based on user feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Friendly Development Tools (Unity 3D WebGL, CoSpaces, etc.)",
+      "Real-Time Collaboration Platform (Figma, etc.)",
+      "Open-Source Virtual Learning Materials for Case Analysis"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

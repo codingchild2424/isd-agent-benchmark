@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1683",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Knowledge Management-Based Integrated Mathematics Learning Object Project",
+  "context": {
+    "prior_knowledge": "Grasp of basic mathematical concepts and experience with digital learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners experience creating, evaluating, and integrating reusable digital learning objects to solve real-world math problems, contributing to an organized knowledge-sharing system through application of knowledge management lifecycle models",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners design and develop three or more reusable learning objects for mathematical problem-solving.",
+    "According to the five stages of the knowledge management lifecycle (creation-evaluation-classification-storage-utilization), learners classify and store ten math learning objects (videos, PDFs, quizzes) meeting over 80% of the evaluation rubric criteria (accuracy, systematicity, applicability), and manage them in a searchable format using a metadata tagging system.",
+    "Collaborating with 2–3 peer learners, learners produce a 10-minute video or presentation material explaining math concepts (e.g., functions, calculus, statistics) and achieve over 4 points (on a 5-point scale) in at least two of three peer evaluation rubric categories (clarity, accuracy, creativity)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Learning Authoring Tool",
+      "Cloud-Based Knowledge Repository",
+      "Math Problem-Solving Template Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

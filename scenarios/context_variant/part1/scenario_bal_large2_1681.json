@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1681",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Support Strategies for Refugee Learners in Online Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and secondary education-level social studies knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Education for refugee support professionals in smartphone-based limited-technology environments, deriving field-applicable learning outcomes through project-based assessments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze at least three barriers to participation for refugee learners in online learning environments and propose solutions.",
+    "Learners can design microlearning content optimized for mobile device usage.",
+    "Through project-based assessment, learners can create and present a support plan for refugee learners."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Offline-Synchronizable Learning Resources",
+      "Low-Bandwidth Video Editing Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

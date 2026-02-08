@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3292",
+  "variant_type": "idld_aligned",
+  "title": "Augmented Reality (AR)-based Manufacturing Training Design: Laser Cutting Machine Operation",
+  "context": {
+    "prior_knowledge": "Understanding of basic manufacturing processes and experience with digital tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-centered training to enhance manufacturing technology education competencies for pre-service and in-service teachers.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform basic laser cutting machine operation procedures with 80% accuracy using AR simulations.",
+    "Learners reduce error rates by 25% compared to traditional training while complying with safety regulations in an AR-supported environment",
+    "Learners can explain how to apply AR solutions to real-world manufacturing scenarios through microlearning modules"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR-compatible mobile device",
+      "Laser cutting machine 3D model",
+      "Interactive instructional content template",
+      "Learning analytics reporting system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

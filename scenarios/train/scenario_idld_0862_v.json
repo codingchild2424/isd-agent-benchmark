@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0862-V",
+  "variant_type": "context_variant",
+  "title": "Simulation-Based Statistical Inference Education for Understanding p-Values",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A teaching competency enhancement program for pre-service or in-service teachers. Focuses on applying statistical concepts to practical language analysis for language education majors",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate",
+    "learner_education": "University"
+  },
+  "learning_goals": [
+    "Students can accurately explain the probabilistic meaning of p-values using simulation tools with over 80% accuracy.",
+    "Students can interpret p-values at a 5% significance level by applying hypothetical probabilistic reasoning in a virtual experimental environment.",
+    "Students can explain the concept of p-values to peers using diverse alternative representations (visual graphs, real-life examples)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Statistical Simulation Software",
+      "VR Learning Module",
+      "Language Data Sample Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

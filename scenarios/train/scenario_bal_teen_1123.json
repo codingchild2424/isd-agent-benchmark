@@ -1,0 +1,40 @@
+{
+  "scenario_id": "BAL-TEEN-1123",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Simulation-Based Optimization Learning for Autonomous Vehicle Platoon Control",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Calculus and Linear Algebra, with Fundamental Vehicle Dynamics Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Targeting office/administrative professionals, the primary goal is improving practical application skills in mathematical modeling and optimization techniques",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "For dynamic modeling of platoon control systems, learners can mathematically represent interaction parameters between vehicles",
+    "Using simulation tools, learners can define and solve platoon control optimization problems under safety constraints",
+    "Through hierarchical optimization algorithm design, learners can explain synchronized convergence characteristics for vehicle entry/exit scenarios",
+    "Applying performance-based control techniques, learners can implement control algorithms ensuring state variables remain within predefined safe domains",
+    "Learners can mathematically model optimization control problems in heterogeneous vehicle environments and validate them through simulation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MATLAB/Simulink license",
+      "LMS platform",
+      "Simulation case dataset",
+      "Vehicle dynamics theory textbook",
+      "Optimization algorithm tutorial"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

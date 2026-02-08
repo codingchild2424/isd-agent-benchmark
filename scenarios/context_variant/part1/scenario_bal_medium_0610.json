@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0610",
+  "variant_type": "balance_medium_scale",
+  "title": "Web-Based Mobile Learning App Prototyping Design",
+  "context": {
+    "prior_knowledge": "Basic smartphone usage skills and intermediate-level understanding of language learning",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course where learners experience mobile learning app design using web-based prototyping tools in a BYOD environment, incorporating continuous feedback through formative assessment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design the basic interface of a mobile language learning app using web-based prototyping tools",
+    "Learners can revise prototypes at least twice based on formative assessment feedback",
+    "Learners can collaborate with peers to implement at least three interactive elements suitable for mobile learning scenarios"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Google Figma or Adobe XD Web Version",
+      "Mobile Device (Learner-Owned)",
+      "Formative assessment rubric",
+      "Language learning content template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

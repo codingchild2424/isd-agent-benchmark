@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3378-V",
+  "variant_type": "context_variant",
+  "title": "Blended Learning Design for Strengthening Life Science Practitioners' Competencies",
+  "context": {
+    "prior_knowledge": "Comprehension of foundational life science theories and laboratory skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A long-term course for current elementary education practitioners to enhance life science practical competencies. Learning outcomes are measured through project-based assessments in a BYOD environment, integrating online and offline activities via a blended learning model.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Perform at least two educational field problem-solving projects utilizing core life science concepts.",
+    "Participate in peer assessment and feedback activities on online learning platforms at a rate of 80% or higher.",
+    "In a blended learning environment (60% online lectures + 40% offline workshops), learners set three monthly learning goals, execute at least 10 hours of self-directed learning per week, and submit weekly learning journals (including goal attainment, time investment, reflections) achieving at least 80% implementation rate"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Life Science Experiment Kits",
+      "LMS (Learning Management System)",
+      "Digital Content Authoring Tools",
+      "Collaborative Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

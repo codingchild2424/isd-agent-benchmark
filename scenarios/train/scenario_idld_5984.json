@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5984",
+  "variant_type": "idld_aligned",
+  "title": "Cognitive Load Management Strategies in Virtual Multimedia Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic digital learning tool proficiency and intermediate-level science domain knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Science education courses for professionals in medical, legal, and technical fields conducted in a smartphone-based limited-technology environment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify attention-distracting factors (e.g., pop-up notifications) in virtual environments and apply management strategies",
+    "Learners can explain design principles (e.g., text/audio integration) for reducing cognitive load when presenting complex multimedia materials",
+    "Learners can interpret attention allocation data and information retention rate analysis results measured in experimental settings"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Zoom Client",
+      "Simplified Educational Digital Content Template",
+      "Distraction Monitoring Tool Prototype"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

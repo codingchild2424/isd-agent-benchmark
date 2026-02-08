@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0752",
+  "variant_type": "balance_teen_filtered",
+  "title": "Least Squares Regression Analysis in Engineering Education Through Hybrid Practicum [K-12]",
+  "context": {
+    "prior_knowledge": "Basic statistics, engineering mathematics knowledge, and fundamental linear algebra concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-based learning environment using virtual IoT weather observation systems. Learners experience hybrid least-squares regression analysis combining simulations and physical elements via personal devices",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can implement and analyze linear, quadratic, and cubic least-squares regression models in a simulated environment.",
+    "Learners can submit project outcomes applying least-squares regression to real-world engineering problems using IoT system data",
+    "Learners can visually understand and explain the principles of error minimization in regression models through VR-based simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MEIoT Weather Observation Simulation Platform",
+      "Node-RED Control Interface",
+      "Python-Based Data Analysis Tool",
+      "VR Educational Content",
+      "Wind Disturbance Profile Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

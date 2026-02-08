@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3190",
+  "variant_type": "idld_aligned",
+  "title": "Network Science-Based Conceptual Change: Approaches to Language Learning",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and experience with digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are general citizens with diverse background knowledge, requiring education focused on systematically connecting and reconstructing language concepts. Conducting activities using real-time interaction and network-based visualization tools in BYOD environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically structure language concepts using network science tools (e.g., concept nodes, connection strength analysis)",
+    "Learners can quantitatively evaluate changes in their knowledge networks by comparing pre-post concept maps",
+    "Learners can propose strategies to strengthen connectivity (centrality, clustering coefficient) of language concepts through peer collaboration"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Concept mapping software",
+      "Real-Time Collaboration Tools (e.g., Miro)",
+      "Pre-post assessment survey"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4300-V",
+  "variant_type": "context_variant",
+  "title": "AI-Based Personalized Learning Design: Intensive Short-Term Course",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized learning environments and AI tool proficiency development for professionals in medical/legal/technical fields to enhance social domain task competencies",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately select over 80% of social sector microlearning content matching their job characteristics using AI recommendation systems",
+    "Learners can interpret AI-generated personalized feedback reports by analyzing individual learning data and establish improvement plans",
+    "Learners can complete 90% of project-based learning tasks using AI-powered interactive tools (chatbots, virtual teaching assistants, etc.) in mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AI-Powered Learning Management System (LMS)",
+      "Mobile-Compatible Content Authoring Tools",
+      "Personalized Learning Data Analysis Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0234",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Strategies for Improving Science Concept Understanding Using Learner-Generated Drawing",
+  "context": {
+    "prior_knowledge": "Understanding of middle school science fundamentals and foundational pedagogical knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Emphasizing personalized learning spaces with digital devices, analysis, and visualization of science curriculum content",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can visually structure relationships between concepts by illustrating scientific text content",
+    "Even in low-prior-knowledge contexts, learners can accurately extract 80% or more of core elements from scientific content using drawing strategies",
+    "When using drawing strategies compared to repeated reading, learners can improve comprehension scores by 15% or more relative to reading time"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Learning Text Materials",
+      "Digital Drawing Tools (Tablet/App)",
+      "Conceptual Understanding Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2642-V",
+  "variant_type": "context_variant",
+  "title": "Social Studies Simulation Development Workshop Using Graphic-Based Learning Design Tools",
+  "context": {
+    "prior_knowledge": "Basic social studies knowledge and experience using digital learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Program to enhance learning design and assessment capabilities using graphic tools in smartphone-centric limited-technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can express the conceptual structure of social studies simulation activities in the form of a concept map using a graphic learning design tool.",
+    "Learners can visually orchestrate the flow of designed learning activities and convert them into sequences implementable in a VR environment.",
+    "Learners can generate summative assessment items by linking learning scenarios created via design tools to a smartphone-based evaluation system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Graphic Design Tool",
+      "VR Simulation Platform",
+      "Open-Source LMS Integration Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

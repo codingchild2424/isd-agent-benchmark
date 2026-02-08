@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7883",
+  "variant_type": "idld_aligned",
+  "title": "Scaffolding-Based Microlearning for Enhancing Engineering Design Competencies",
+  "context": {
+    "prior_knowledge": "Proficiency in basic engineering theories and software tool utilization",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based learning environment utilizing digital devices, with team formation and collaboration tool support",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can complete prototype designs by applying the engineering design process step-by-step",
+    "Learners can collaborate with team members of diverse learning styles to complete projects meeting three or more evaluation criteria",
+    "Learners can independently diagnose and improve over 80% of barriers encountered during design problem-solving using scaffolding materials provided in mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "3D design simulation software",
+      "Team collaboration tools (online whiteboard, chat)",
+      "VARK Learning Style Diagnostic Kit",
+      "Personalized Learning Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

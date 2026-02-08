@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4012-V",
+  "variant_type": "context_variant",
+  "title": "Analyzing the Effectiveness of Science Education Using Mobile Microlearning",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Analyzes the design and effectiveness of microlearning for working professionals to acquire and apply scientific knowledge efficiently in mobile environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain core principles of scientific experiment design with 85% or higher accuracy via microlearning modules.",
+    "Learners successfully complete at least three practical assignments using multimedia materials provided in mobile environments.",
+    "Learners can demonstrate a 20% or higher improvement in knowledge acquisition through pre- and post-microlearning comparative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smart Devices",
+      "LMS platform",
+      "Multimedia Production Tool",
+      "Project template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

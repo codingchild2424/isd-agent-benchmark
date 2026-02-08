@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4990-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Assessment Validity-Based Mathematics Learning Design Improvement Course",
+  "context": {
+    "prior_knowledge": "Foundational knowledge in college-level applied mathematics and practical application experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Achieve over 85% alignment between assessment items and learning outcomes using Learning Analytics (LA) tools",
+    "Acquire the ability to develop personalized learning improvement plans based on formative assessment results",
+    "Strengthen competency in optimizing assessment systems through weighting adjustments of Learning Outcomes (LOs)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6843-V",
+  "variant_type": "context_variant",
+  "title": "Active Learning-Based Curriculum for Integrated STEM Programming Education",
+  "context": {
+    "prior_knowledge": "Basic programming concepts and introductory STEM field understanding",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended environment combining face-to-face workshops and online learning, with practical programming projects using low-code platforms",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design a mobile application prototype that solves real-life problems through STEM (Science, Technology, Engineering, Mathematics) integration.",
+    "Learners can design and implement a simple application (e.g., to-do list manager) incorporating conditional logic (IF-THEN-ELSE), iterative loops (FOR EACH), and event handling (button clicks) using low-code development tools (e.g., Microsoft Power Apps, Appsmith) within 2–4 weeks.",
+    "Learners, in 4-member teams, select one public health topic (e.g., community nutritional imbalance, school meal hygiene management) and develop a digital solution prototype (app/web/infographic) within 3 weeks, achieving a grade of 'B+' or higher in at least four of five evaluation rubric criteria (creativity, feasibility, technical completeness, public health contribution, user-friendliness)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Low-Code Development Platform License",
+      "Mobile Application Template Resources",
+      "Public Health Dataset",
+      "Collaboration Tools (Online Forums, GitHub, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

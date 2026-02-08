@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4034",
+  "variant_type": "idld_aligned",
+  "title": "Learner-Tailored Language Learning Environment Design and Implementation",
+  "context": {
+    "prior_knowledge": "Basic Language Comprehension Skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A learner-driven environment utilizing personal devices (BYOD), aimed at enhancing job-related language proficiency within corporate settings.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can select and configure digital tools (apps/platforms) aligned with their language learning goals.",
+    "Learners perform language activities in self-directed learning environments they have configured with a frequency of over 80%.",
+    "Learners improve communication skills by 30% within four weeks using content (audio/text) produced in a personalized learning environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App",
+      "Cloud-based collaboration tool",
+      "Customized Language Assessment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

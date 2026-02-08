@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6671-V",
+  "variant_type": "context_variant",
+  "title": "Education on Utilizing Cloud-Based Personalized E-Learning Systems",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Short-term program to enhance cloud e-learning system utilization skills in a smartphone-centric limited-technology environment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design personalized learning pathways on cloud-based platforms",
+    "Learners can interactively manipulate learning content using mobile-optimized e-learning tools",
+    "Learners can establish self-directed learning strategies through a feedback system based on their progress and comprehension levels"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Zoom",
+      "Cloud e-learning platform account",
+      "Wi-Fi Environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

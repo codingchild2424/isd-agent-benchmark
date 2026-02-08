@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8709-V",
+  "variant_type": "context_variant",
+  "title": "Computer-Based Teacher Education Program for Integrating PCK with TPACK",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners simultaneously apply PPK (Pedagogical Physics Knowledge) and PCK (Pedagogical Content Knowledge) in an integrated environment using personal devices, with project-based assessments validating practical skills",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can design instructional strategies that effectively integrate multiple representations (text, graphs, charts, etc.) in social studies classes",
+    "Learners can develop lesson designs integrating general pedagogical knowledge (PPK) and pedagogical content knowledge (PCK) with over 80% accuracy.",
+    "Learners can analyze three or more cases of PPK-PCK integration by performing simulation tasks in computer-based learning environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Computer-Based Learning Platform",
+      "Social Studies Multimodal Representation Resource Database",
+      "PCK-PPK Integrated Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

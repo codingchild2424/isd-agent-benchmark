@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0148",
+  "variant_type": "balance_large_last",
+  "title": "Online Mathematics Leveling Program for Engineering Freshmen",
+  "context": {
+    "prior_knowledge": "Basic high school mathematics knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized math leveling program using a smartphone-based online diagnostic platform. Provides personalized learning pathways based on diagnostic test results and measures academic achievement through project-based assessments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Achieve over 90% accuracy in personalized competency diagnostics for essential engineering mathematics (calculus, linear algebra, etc.)",
+    "Maintain weekly learning participation rates above 80% through online platforms",
+    "Within six months, learners use personalized learning gap analysis tools (e.g., learning needs assessment surveys, prior knowledge tests) for three virtual patient cases. They develop customized learning plans achieving an average of ≥4 out of 5 points on an instructor feedback rubric (goal clarity, personalization level, feasibility).",
+    "Improve project-based assessment scores by over 20% reflecting enhanced foundational math competencies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Online Platform",
+      "Diagnostic Test Item Database",
+      "Automated Learning Analytics Tool",
+      "Mobile-Compatible Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

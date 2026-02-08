@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0310",
+  "variant_type": "balance_large_scale",
+  "title": "Survey-Based Instructional Design Course for Pre-Service Teachers to Improve Online Learning Perceptions [Large-Scale]",
+  "context": {
+    "prior_knowledge": "Basic understanding of online learning concepts and teaching experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Analysis of preservice teachers' perceptions of online learning effectiveness considering cultural backgrounds and age, and development of improvement strategies",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the four dimensions (instructor characteristics, social presence, instructional design, trust) that evaluate online learning perceptions.",
+    "Learners can design a survey analyzing differences in online learning perceptions based on target learner characteristics (age/culture).",
+    "Learners can propose at least two mobile microlearning strategies suitable for mathematics curriculum characteristics based on survey results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "POSTOL survey tool template",
+      "Data Visualization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

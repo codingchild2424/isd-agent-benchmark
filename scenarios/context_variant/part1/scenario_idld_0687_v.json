@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0687-V",
+  "variant_type": "context_variant",
+  "title": "Hybrid Language Education Model Design: Systematic Instructional Design Process",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Flexible learning schedules and customized interactions are required for office/administrative professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can establish self-directed language learning plans utilizing an LMS in a hybrid environment",
+    "Learners can perform effective interactions with peers and instructors through online discussions and feedback activities",
+    "Over a 6-month course, learners improve their language proficiency from CEFR A2 to B1 through interaction with digital content (10 videos, 20 quiz items, 5 reading materials). Specific objectives include: 1) engaging with content at least 3 times weekly, 2) achieving CEFR B1 level in an official assessment at course completion, 3) scoring an average of 75% or higher on quizzes, and 4) delivering a 3-minute presentation based on reading materials."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital Language Learning Content",
+      "Mobile-Compatible Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0172",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Cognitive Load Optimization Strategies in Multimedia Science Learning Environments",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental science concepts (basic physics/chemistry)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Short-term training program for elementary science teachers using smartphone-based VR simulations",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze complex scientific phenomena step-by-step using descriptive instructions within simulations",
+    "Learners can reduce cognitive load by 20% or more through multimedia materials presented in VR environments",
+    "Learners demonstrate conceptual understanding by achieving 80% or higher accuracy in simulation assessment tasks"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible VR Simulation Platform",
+      "Offline-Synchronizable Learning Management System",
+      "Low-Spec Mobile Device-Optimized Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4325-V",
+  "variant_type": "context_variant",
+  "title": "E-Learning Practical Competency Enhancement: Mobile Game-Based Mathematics Learning Program",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Competency enhancement program for professionals in education/teaching/learning fields",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "In a mobile game environment, learners will solve basic math problems (fractions, ratios, equations) with 80% accuracy using problem-solving strategies.",
+    "Through the game's feedback system, learners will self-diagnose and address learning gaps.",
+    "Learners will maintain learning continuity by completing all weekly game missions (5 topics) at 100%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Authoring Tool",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Education (Teaching & Learning)"
+}

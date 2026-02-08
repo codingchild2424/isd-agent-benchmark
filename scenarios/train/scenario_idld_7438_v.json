@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7438-V",
+  "variant_type": "context_variant",
+  "title": "Learning Object-Based Mathematics Competency Assessment Design",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-based learning support, blended weekly online-offline classes (30% theory + 70% practice)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply the three-stage (design-implementation-analysis) learning object evaluation framework to measure the effectiveness of mathematics educational materials.",
+    "Learners can assess learning object outcomes using statistical methods, including reliability and validity verification.",
+    "Learners can analyze the impact of learning object characteristics (interactive elements, visual organization) on academic achievement."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Assessment Tool",
+      "Learning Analytics Software Sample License",
+      "Digital content library for math education"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

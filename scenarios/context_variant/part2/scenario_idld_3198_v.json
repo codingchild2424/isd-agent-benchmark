@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3198-V",
+  "variant_type": "context_variant",
+  "title": "Designing Active Learning Strategies for Biology Problem-Centered Learning",
+  "context": {
+    "prior_knowledge": "Basic biological concepts and understanding of applications in social domains",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A non-degree educational program for working professionals, conducted in a limited technological environment based on smartphones",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze real-world social issues and derive solutions by applying biological principles.",
+    "Learners can perform self-directed learning by applying metacognitive strategies during problem-solving processes through web-based modules.",
+    "Learners can collaboratively interpret complex biological concepts and present results through team-based projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Problem-Based Case Database",
+      "Interactive Web Modules (Quizzes/Simulations)",
+      "Collaboration Tools (Online Forums/Chat)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

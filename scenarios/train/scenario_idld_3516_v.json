@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-3516-V",
+  "variant_type": "context_variant",
+  "title": "Deep Learning-Based Soil Sampling Location Selection Project: Sustainable Agricultural Solutions Through Geospatial-Environmental Variable Analysis",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience (basic geographic information systems, introduction to environmental science, understanding of agricultural policies)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A field data collection and analysis-centered education utilizing smartphone apps, emphasizing a citizen science approach to solving local community issues. Learners collaborate with farmers and local government officials to explore sustainable land management strategies.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the principles of optimizing sampling locations using five soil properties (slope, NDVI, soil type, moisture content, organic matter distribution) and geo-environmental variables.",
+    "Learners can apply procedures for processing agricultural field data using deep learning-based image analysis tools while considering the social implications of spatial data interpretation.",
+    "Learners can select one soil pollution case in a local agricultural setting using PBL (Problem-Based Learning), create a GIS-based soil sampling plan, conduct at least three field surveys, and produce an analysis report including five items (soil pH, heavy metal concentration, organic matter content, water retention, microbial diversity).",
+    "Learners can explain the basic concepts of transformer model-based spatial analysis and propose ways to link them to regional development policies.",
+    "Learners can visualize soil data using smartphone apps in limited technological environments and establish communication strategies to share results with local community stakeholders."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone (Including Tablet)",
+      "Agricultural Field Image Dataset",
+      "Open-Source Deep Learning Model",
+      "Simplified Visualization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0031",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Case-Based Instructional Design Development Workshop for Enhancing Computational Thinking",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and introductory digital tool usage experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for professionals to effectively design computational thinking education in elementary school settings",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Computing thinking elements (decomposition, pattern recognition, abstraction, algorithm design) can be identified by analyzing real-world science problem cases",
+    "Learners can design case-based instructional activities (analysis-design-implementation-evaluation) differentiated into at least three levels based on learner proficiency",
+    "Participants can develop two or more computational thinking activities based on smartphones in a constrained technological environment."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Science Case Database",
+      "Mobile-Friendly Authoring Tool Template",
+      "Computational Thinking Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

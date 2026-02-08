@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0053",
+  "variant_type": "balance_medium_last",
+  "title": "Short-Intensive Surgical Education Program Using Problem-Based Learning",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and human anatomy comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A non-real-time online learning environment combining smartphone-based multimedia materials (video/text) with PBL (Problem-Based Learning) problem-solving worksheets.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify key treatment steps in trauma surgery cases with 80% accuracy.",
+    "Using provided multimedia materials, over 70% of learners can explain the surgical technique decision-making process.",
+    "Learners can demonstrate decision-making skills rated at 4 points or higher (out of 5) on the PBL problem-solving rubric."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Surgical Procedure Video (MP4)",
+      "Interactive Text Worksheet (PDF)",
+      "PBL Assessment Rubric",
+      "Smartphone Simulation App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4727",
+  "variant_type": "idld_aligned",
+  "title": "Peer-Supported Intensive Surgical Skills Workshop",
+  "context": {
+    "prior_knowledge": "Fundamental Medical and Anatomy Knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducting practical exercises through collaboration with peer learners using VR equipment and models in a simulation room. Accessing and evaluating learning materials via personal devices (BYOD)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Independently apply the surgical safety checklist (WHO standards) with ≥80% accuracy.",
+    "Pass proficiency assessments after three practice sessions in suturing techniques (continuous/interrupted/vertical mattress).",
+    "Achieve ≥4.0/5.0 in simulation evaluations of pre-surgical preparation (scrubbing, gown/glove donning).",
+    "Achieve ≥90% accuracy in local anesthesia technique VR simulations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Surgical Simulation Equipment",
+      "Surgical Model Kit",
+      "BYOD-Based Learning Application",
+      "Peer Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

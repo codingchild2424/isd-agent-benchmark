@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0510",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] OEP-Based Microlearning Course for High School Open Learning Design",
+  "context": {
+    "prior_knowledge": "Basic digital device proficiency and foundational social studies knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Open Educational Practices (OEP) in smartphone-limited tech environments, offering flexible learner pathways through integration of formal/informal learning to design learner-driven social studies experiences",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can complete at least two microlearning projects that solve real-life social studies problems using open platforms.",
+    "Learners can co-design learning pathways with peers and external experts and incorporate iterative feedback at each stage.",
+    "Learners will create a learning portfolio connecting formal and informal learning activities (e.g., online lectures, field training) linked to vocational training by utilizing three or more mobile-based open educational resources (OERs) and submit outcomes meeting four or more of the five institutional evaluation checklist criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible microlearning platform",
+      "Access to OER (Open Educational Resources) databases",
+      "Online Collaboration Tools",
+      "Learning Analytics Report Generator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

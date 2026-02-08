@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-SELF-0011",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Clinical Integrated Education Based on Virus Infection Diagnosis Simulation",
+  "context": {
+    "prior_knowledge": "Foundational medical and microbiology knowledge, with comprehension of basic clinical diagnostic procedures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Enhancing integrated clinical skills through standardized patient (SP) simulations for current practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify patient medical history-taking and physical examination items for 8 viral infection cases with 90% accuracy",
+    "Learners can generate a list of the top 3 differential diagnoses for each case with 80% accuracy",
+    "Learners can establish appropriate testing plans (blood tests, imaging tests, etc.) for diagnosed cases with 75% accuracy"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Standardized Patients (8)",
+      "Clinical Scenario Sheets",
+      "Diagnostic Tool Checklist",
+      "Feedback Evaluation Form",
+      "Personal Tablet or Laptop"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0348-V",
+  "variant_type": "context_variant",
+  "title": "Software Development Practical Competency Enhancement: Blended Learning Simulation for Evidence-Based Medical Education",
+  "context": {
+    "prior_knowledge": "Basic Medical Terminology and Research Methodology Knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform the 5 stages of Evidence-Based Medicine (EBM) (formulating questions, literature search, critical appraisal, application, evaluation) with 80% accuracy based on clinical scenarios",
+    "Learners can establish treatment plans applying EBM principles through patient diagnosis simulations in a mobile VR environment",
+    "Learners strengthen critical thinking by improving EBM cases over 3+ iterations based on peer review feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

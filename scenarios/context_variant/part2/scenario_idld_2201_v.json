@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2201-V",
+  "variant_type": "context_variant",
+  "title": "Personalized Mathematics Education Design Utilizing Learning Analytics",
+  "context": {
+    "prior_knowledge": "Basic arithmetic operations and data interpretation competencies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Environment enabling real-time interaction and learning data collection via digital devices, focusing on strengthening workplace-applicable math skills",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learning analytics tools identify individual learning patterns (e.g., progress rates, problem-solving time) with 80% accuracy.",
+    "A personalized feedback system based on learning data is designed to improve learner satisfaction by over 75% at the course’s conclusion.",
+    "The process of analyzing formative assessment results and incorporating them into instructional design is improved at least three times.",
+    "A performance prediction model is developed by combining individual (note-taking volume) and social (discussion participation) learning data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Management System (LMS)",
+      "Real-Time Collaboration Tools (e.g., Miro)",
+      "Data Visualization Tools (Tableau, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

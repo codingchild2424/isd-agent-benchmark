@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1779",
+  "variant_type": "idld_aligned",
+  "title": "Hypothesis Testing Education Design in Statistics Using Gamification",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Mathematical and Statistical Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Aims to acquire statistical concepts and develop problem-solving skills in a gamification environment using personal devices. Students progressively learn hypothesis testing procedures through game elements and receive comprehensive evaluations of learning outcomes via project deliverables",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can perform the five-step hypothesis testing process (problem definition, hypothesis formulation, significance level determination, test statistic calculation, conclusion) with 80% or higher accuracy through game-based tasks",
+    "Learners can correct errors within three attempts using gamification feedback (e.g., scores, progress bars) and improve statistical thinking",
+    "Teams present and evaluate results of applying hypothesis testing to real-world social issues (e.g., health data analysis) through project-based activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Statistical Learning Management System (LMS)",
+      "Gamification Plugin",
+      "Social Issues Dataset",
+      "Automated Feedback Generation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

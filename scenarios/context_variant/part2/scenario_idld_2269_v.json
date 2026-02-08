@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2269-V",
+  "variant_type": "context_variant",
+  "title": "University English Oral Training Interaction Design: Mobile Microlearning Based on an Integrated Task Model",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A short, intensive course focused on enhancing pre-service and in-service elementary teachers' oral English communication skills within a mathematics curriculum context, implementable in a smartphone-based, limited-technology environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can improve oral presentation skills explaining math-related topics (e.g., fraction calculations, geometry concepts) in English",
+    "Learners can perform integrated reading-listening-speaking tasks with 80% accuracy through mobile-based voice feedback with peer teachers",
+    "Learners achieve a 20% improvement in oral communication scores in formative assessments based on the Communicative Language Assessment (CLA) model"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Compatible Voice Recording App",
+      "PDF-Based Math Topic Reading Materials",
+      "Weekly 3×15-Minute Microlearning Sessions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

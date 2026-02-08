@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-1050",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Reinforcement Learning-Based Diabetes Treatment Recommendation System Development",
+  "context": {
+    "prior_knowledge": "Introductory statistics and programming concepts understanding",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Content design focusing on reinforcement learning implementation considering medical data characteristics, supporting smartphone-based learning environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "One can explain the fundamental principles of reinforcement learning (MDP, agent, reward function) and analyze their applicability to medical data.",
+    "Learners preprocess and normalize diabetes patient data (≥10 variables: blood glucose, insulin levels, weight) and implement a reinforcement learning pipeline in Python, formatting state-action-reward structures with ≥80% data transformation accuracy.",
+    "A simple treatment recommendation model reflecting medical constraints is implemented, and performance evaluation methods are applied."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Public healthcare data samples",
+      "Python-based open-source library",
+      "Mobile-optimized e-learning content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

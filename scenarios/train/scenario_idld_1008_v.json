@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1008-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing e-Learning Practical Competencies: Machine Learning Framework for Alloy Design in Additive Manufacturing",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Metallurgy and Manufacturing Processes, Along with Fundamental Computer Skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Instructional design competency enhancement program for professionals in education/teaching/learning fields",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can predict key properties of alloys for additive manufacturing (solidification range, hot cracking susceptibility, etc.) using a machine learning-based design framework",
+    "Learners can perform simulations in a virtual environment to design alloy compositions optimized for AM processes through multi-objective optimization",
+    "Learners can analyze and evaluate the predicted microstructure and mechanical properties of designed alloys using VR-based simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Authoring Tool",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

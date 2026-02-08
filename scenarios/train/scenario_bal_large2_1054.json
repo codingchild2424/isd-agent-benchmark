@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-1054",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Large-Scale Fundamentals of FPGA High-Level Synthesis Optimization Techniques",
+  "context": {
+    "prior_knowledge": "Basic knowledge of electronics and programming",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Structured to enable in-service professionals to apply FPGA design optimization methodologies to practical tasks",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the operational principles of HLS tools and FPGA optimization processes",
+    "Derive Pareto-optimal design solutions considering data reliability differences across various design stages",
+    "Nonlinear Gaussian Process (GP) modeling techniques can be utilized to analyze correlations between FPGA design parameters",
+    "A project can be completed to perform HLS directive optimization based on real-world case studies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "FPGA Development Board (Vivado HLS, etc.)",
+      "Python-Based Optimization Library",
+      "HLS Benchmark Dataset",
+      "Online Collaboration Platform (e.g., Google Colab)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8491-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Strategies for Enhancing a Sense of Belonging in Advanced Online Language Learning Environments",
+  "context": {
+    "prior_knowledge": "Graduate-level language learning fundamentals and online learning experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners build a network with peer learners through meaningful interactions at least three times per week in online discussion forums",
+    "Instructors maintain response rates of over 85% to learner-specific content via asynchronous feedback systems",
+    "Learners measure and report changes in a sense of belonging in online environments using a three-level scale (self-assessment) through weekly reflective journals"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

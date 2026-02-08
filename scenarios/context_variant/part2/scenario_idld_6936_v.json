@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6936-V",
+  "variant_type": "context_variant",
+  "title": "Real-World Context-Based Intensive Algebra Course for Practical Problem Solving",
+  "context": {
+    "prior_knowledge": "Basic equation manipulation, graph interpretation, and understanding of function concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Collaborative learning environment using digital devices (tablets/laptops), applying algebraic problem-solving scenarios from real workplace contexts",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "One can establish optimal resource allocation plans within a given budget using linear programming models",
+    "Real-life problems (e.g., investment portfolio construction, logistics route optimization) can be converted into algebraic equations and solved",
+    "One can simulate the process of optimizing objective functions under constraints by applying graph theory"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Algebra Tools (Desmos, GeoGebra)",
+      "Case-Based Worksheet Set",
+      "Virtual Simulation Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

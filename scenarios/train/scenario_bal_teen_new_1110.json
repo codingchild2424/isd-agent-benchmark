@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1110",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Analysis and Application of the Effectiveness of ICT-Utilized Science Education",
+  "context": {
+    "prior_knowledge": "Basic experience in using digital tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for pre-service teachers to develop competencies in effectively utilizing ICT tools in science instruction",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can classify at least three types and functions of ICT tools applicable in science classes.",
+    "Learners can analyze the impact of ICT tools on science learning outcomes using empirical data.",
+    "Learners can develop ICT-integrated lesson design plans based on survey results.",
+    "Learners can propose at least five guidelines for using ICT tools in science classes within a BYOD (Bring Your Own Device) environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online survey platform",
+      "LMS System",
+      "ICT Educational Tool Demo Version",
+      "Data Analysis Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5468-V",
+  "variant_type": "context_variant",
+  "title": "Customized Educational Design Strategies through MOOC Learner Behavior Analysis",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based learning environment using digital devices, requiring consideration of diverse learner characteristics (gender, age, educational level)",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain types of data collected on MOOC platforms and analytical methods",
+    "Learners can design personalized learning pathways based on learner behavior data",
+    "Through project-based assessments, learners can propose practical MOOC learning environment improvement plans"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MOOC Platform Sample Data",
+      "Data Visualization Tool",
+      "LMS System Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

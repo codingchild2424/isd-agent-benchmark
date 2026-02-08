@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6413-V",
+  "variant_type": "context_variant",
+  "title": "Language Project Learning Activity Design Based on FoLA2",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners undertake a medical terminology translation project, with activity design and assessment conducted using learning analytics tools in a BYOD (Bring Your Own Device) environment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can effectively integrate learning analytics data when designing language projects using the FoLA² methodology",
+    "Learners can apply collaborative skills in translation projects targeting specialized terminology in the medical-legal field.",
+    "Learners can propose project improvement plans with over 80% accuracy based on learning analytics results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Analytics Dashboard",
+      "Medical-Legal Terminology Database",
+      "Collaborative Platform Account"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

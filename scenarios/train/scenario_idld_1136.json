@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1136",
+  "variant_type": "idld_aligned",
+  "title": "Online Collaborative Project-Based Social Problem-Solving Workshop",
+  "context": {
+    "prior_knowledge": "Basic digital tool proficiency and collaborative project experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "An intensive short-term program for undergraduate students in medical, legal, and technical professions, conducting practice-oriented projects linked to social issues through online collaboration",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can establish team project plans in groups of four using online collaboration tools",
+    "Learners can derive solutions to social issues by applying a role division system (planner, developer, tester, presenter).",
+    "Learners can document their problem-solving experiences during real-time collaboration in a reflective journal and incorporate feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account",
+      "Jira/Notion Collaboration Tools",
+      "Google Workspace",
+      "Reflective journal template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

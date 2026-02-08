@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5297-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Skills: Standard Assessment of Learning Design and Customized Instructional Method Application Course",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and foundational understanding of social studies concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can evaluate and analyze various instructional methods using the IMS Learning Design standard.",
+    "Learners can automatically/manually form groups and assign roles for collaborative activities in an LMS environment.",
+    "Learners can establish personalized learning plans using prior knowledge diagnostic tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

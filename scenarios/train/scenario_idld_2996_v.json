@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2996-V",
+  "variant_type": "context_variant",
+  "title": "Adaptive Microlearning Course for the C Programming Language",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Short-term intensive training program for corporate managers/leaders conducted in smartphone-based resource-constrained technical environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can utilize core C language syntax (memory management, pointers, structures) with practical examples at 80% accuracy according to adaptive instructional methods.",
+    "Learners reduce cognitive load and automate the algorithm design process through dual-mode task examples, achieving 90% performance proficiency.",
+    "Learners complete 15-minute microlearning modules in a mobile environment and improve problem-solving skills by 70%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Responsive Web-Based Microlearning Content",
+      "Automated Adaptive Assessment System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

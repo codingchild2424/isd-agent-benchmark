@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3609-V",
+  "variant_type": "context_variant",
+  "title": "Development and Utilization of Open-Source Mathematics Educational Resources",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Focused on developing and sharing open-source math education resources optimized for smartphone-based mobile environments for learners over 40, requiring learning design considerations for limited-technology settings (no PC access)",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can produce visualization materials for basic math concepts using open-source educational resource development tools (e.g., GeoGebra, Moodle).",
+    "Learners can collaboratively develop open-source educational content suitable for mobile environments and share it on platforms such as GitHub.",
+    "Through project-based assessment, learners can apply collaboratively developed math educational resources to real-world teaching scenarios."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Internet Connectivity",
+      "Open-source educational tools (GeoGebra, Moodle, etc.)",
+      "GitHub account"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

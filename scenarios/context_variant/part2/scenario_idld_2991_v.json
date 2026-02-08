@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2991-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Activity-Based Learning for Forensic Science and Toxicology Practical Skills",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and foundational understanding of life sciences",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain forensic evidence collection procedures with 80% accuracy by analyzing real-world cases",
+    "Learners can correctly select three or more toxicological testing methods through addiction case simulations",
+    "Learners can draft forensic reports based on peer evaluation and feedback in online discussion forums"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

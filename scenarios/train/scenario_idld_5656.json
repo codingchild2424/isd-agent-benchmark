@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5656",
+  "variant_type": "idld_aligned",
+  "title": "Practitioner-Tailored Mathematics Lecture Redesign: Application Based on the DIME Model",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and recognition of the need for workplace application",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Need for customized curricula to strengthen job relevance for in-service professionals. Workplace competency development through BYOD device utilization and project-based assessments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can systematically solve workplace mathematical problems following the DIME model’s four stages: Design-Interaction-Media-Evaluation.",
+    "Through peer feedback and iterative design, learners can propose at least three practical applications of mathematical models in real-life contexts.",
+    "Learners can complete a data analysis project using digital tools (graphing calculators, simulation software, etc.) via BYOD devices and submit it according to evaluation criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Practice-Oriented Math Software License",
+      "Workplace Case Database",
+      "DIME Model Worksheet Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

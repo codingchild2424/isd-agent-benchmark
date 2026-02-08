@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3901",
+  "variant_type": "idld_aligned",
+  "title": "Development of a Metadata Model-Based Science Learning Design Tool",
+  "context": {
+    "prior_knowledge": "Comprehension of fundamental scientific concepts and experience with digital learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Graduate-level course on developing learning design tools in science, operated in a mobile-based microlearning environment. Learners experience selecting appropriate methods, tools, activities, and assessment elements based on learning objectives.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically design science-based learning activities using a metadata model.",
+    "Learners can generate executable learning design documents based on the IMS-LD standard.",
+    "Learners can develop assessment strategies optimized for mobile microlearning environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science domain learning content",
+      "Mobile Learning Management System (LMS)",
+      "IMS-LD conversion tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

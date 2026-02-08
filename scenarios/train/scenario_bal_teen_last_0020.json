@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-LAST-0020",
+  "variant_type": "balance_teen_last",
+  "title": "AI Integration in Nursing Education: Citizen-Centric Understanding-Based Training",
+  "context": {
+    "prior_knowledge": "Basic understanding of science and nursing concepts, and basic smartphone usage skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners have limited experience with AI technology and engage in learning within a smartphone-centric, technology-constrained environment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain at least three basic applications of AI in nursing (e.g., diagnostic support, patient monitoring).",
+    "Learners can comparatively analyze the positive impacts (e.g., improved efficiency) and limitations (e.g., lack of human care) of AI technology on nursing practice.",
+    "Learners can experience the operation of AI nursing tools through smartphone-based simulations and propose utilization scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AI Nursing Case Video Materials",
+      "Smartphone-compatible simulation app",
+      "Printed Learning Worksheets",
+      "Group Activity Poster Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

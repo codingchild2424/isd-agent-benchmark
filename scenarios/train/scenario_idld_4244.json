@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4244",
+  "variant_type": "idld_aligned",
+  "title": "Advanced Electrical Engineering Course Based on Remote Laboratory",
+  "context": {
+    "prior_knowledge": "Foundational electrical engineering theory and circuit analysis experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course designed for professionals in medical, legal, and technical fields to apply electrical engineering theories to practice, offering an asynchronous learning environment via digital devices.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Simulate actual circuit design and experimentation processes using a remote laboratory (RL)",
+    "Demonstrate practical problem-solving skills by completing project-based tasks based on electrical engineering theory",
+    "Participate in experimental data analysis and result interpretation with peer learners via collaboration tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Remote Laboratory Software License",
+      "LMS platform",
+      "Digital Measurement Tool Simulation Package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

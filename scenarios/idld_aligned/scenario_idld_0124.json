@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0124",
+  "variant_type": "idld_aligned",
+  "title": "Strategies for Leveraging Social Cue Effects in Computer-Based Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic educational theory and experience with digital learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course exploring effective instructional design methods for pre-service teachers in a limited technological environment (smartphone-centric)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the impact of social cues (pedagogical agents and conversational styles) on cognitive load and learning outcomes",
+    "Learners can design educational content using conversational styles in constrained technological environments (smartphone-centric)",
+    "Learners can compare the effects of various social cue combinations (agent presence × conversational/formal styles) on learning motivation and retention rates"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Conversational/Formal Style Sample Texts",
+      "Pedagogical Agent Simulation App",
+      "Mobile-Based Quiz Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

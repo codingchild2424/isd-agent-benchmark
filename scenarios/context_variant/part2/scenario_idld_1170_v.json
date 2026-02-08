@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1170-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Spatial Navigation Skill Acquisition Education",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-optimized corporate education. Conducted exclusively via smartphones in PC-unavailable environments. Emphasizes practical skills applicable to real workplace navigation",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can navigate the shortest path to a target location in a 3D virtual space map with over 80% accuracy",
+    "Learners can analyze new spatial environments within 10 minutes using dynamic visual materials",
+    "Learners can successfully establish project-specific spatial utilization plans in real office environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Mobile Learning Platform",
+      "AR-based Spatial Simulation App",
+      "3D spatial modeling template",
+      "Virtual Maze Navigation Task Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

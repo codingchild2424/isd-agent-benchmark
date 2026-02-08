@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1905-V",
+  "variant_type": "context_variant",
+  "title": "Social Learning Strategies to Improve Learning Outcomes in Entrepreneurship Training Programs",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course exploring social learning strategies to maximize the effectiveness of entrepreneurship training programs for pre-service and in-service teachers. Focuses on building confidence through peer collaboration and support, and developing applicable real-world educational cases.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the importance of peer support and social learning in an entrepreneurship training program.",
+    "Learners can analyze social risks that may arise during the entrepreneurship process and develop response strategies.",
+    "Learners can design one entrepreneurship education module through project-based assessment in a mobile microlearning environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Online collaboration tools (Slack, Discord, etc.)",
+      "Case Study Materials",
+      "Entrepreneurship self-assessment questionnaire"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

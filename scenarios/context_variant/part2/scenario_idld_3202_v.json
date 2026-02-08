@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3202-V",
+  "variant_type": "context_variant",
+  "title": "Smart App-Based Medication Dose Calculation Competency Enhancement Program for Nursing Students",
+  "context": {
+    "prior_knowledge": "Theoretical knowledge of basic medication dosage calculations and mathematical fundamentals (fractions, ratios, unit conversions)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Providing personalized feedback based on learner proficiency levels and applying additional support strategies when prior knowledge gaps exist",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately calculate precise medication dosages (e.g., IV drip rates, weight-based doses) in various clinical scenarios with over 90% accuracy.",
+    "Learners can apply metacognitive strategies to diagnose and correct errors during calculation processes at least 80% of the time.",
+    "Learners can improve their flow (learning immersion) scores by at least 20% compared to pre-assessment after app-based training."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based Medication Calculation App",
+      "LMS-Integrated Quiz System",
+      "Step-by-Step Simulation Problem Sets",
+      "Metacognitive Reflection Journal Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2255-V",
+  "variant_type": "context_variant",
+  "title": "Mathematics Project-Based Learning Design to Improve MOOC Instructional Design Quality",
+  "context": {
+    "prior_knowledge": "Basic mathematical concepts and online learning experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Work-linked project implementation for working professionals, operated with a focus on personal device usage and formative assessment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify five quality evaluation criteria for MOOC instructional design.",
+    "Learners can analyze the content organization and delivery system of a mathematics MOOC using lecture survey tools.",
+    "Learners can propose three or more instructional design strategies to enhance learner engagement in project-based learning environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Lecture Survey Tool Templates",
+      "MOOC Content Sample",
+      "Project Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

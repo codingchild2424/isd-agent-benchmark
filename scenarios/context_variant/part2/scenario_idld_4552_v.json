@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4552-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Flipped Learning-Based Neuroscience Module for Elementary Teachers",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain core neuroscience concepts (synapses, neurotransmitters, brain structures) and apply them to elementary education contexts.",
+    "Learners can establish self-directed learning plans through flipped learning and complete over 80% of pre-class materials.",
+    "Learners can design and implement neuroscience-related educational projects (e.g., brain health campaigns) via PBL activities and receive peer evaluations."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

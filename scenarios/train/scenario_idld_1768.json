@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1768",
+  "variant_type": "idld_aligned",
+  "title": "Statistical Literacy Microlearning for Social Workers: Motivation Design Based on the ARCS Model",
+  "context": {
+    "prior_knowledge": "Social Welfare Practice Experience and Understanding of Basic Statistical Concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Mobile environment utilizing digital devices, requiring case-based education immediately applicable in social welfare settings.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain statistical concepts based on the ARCS model with over 80% accuracy.",
+    "Learners conduct hypothesis testing using real-world data from social welfare settings at least three times.",
+    "Learners achieve 90% proficiency in applying statistical terminology through interactive quizzes provided in a mobile environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Social Welfare Statistics Case Database",
+      "ARCS Model Template",
+      "Interactive Quiz Creation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0743",
+  "variant_type": "idld_aligned",
+  "title": "Online Discussion-Based Mathematical Problem-Solving Course Utilizing Gamification",
+  "context": {
+    "prior_knowledge": "College-level foundational mathematics knowledge (functions, calculus, statistics, etc.) and experience using online discussion platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended classes integrating gamification platforms and Zoom in BYOD environments. Discussion topics focus on real-life application problems.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners improve real-world application of mathematical concepts by over 80% through discussion-based problem-solving processes in a gamification environment",
+    "Learners increase discussion participation rates by over 50% utilizing competitive elements and leaderboard systems",
+    "Learners can select three mathematical modeling ideas derived from group discussions in a 4-person team, apply demographic or environmental measurement data, and write a 10–15-page collaborative problem-solving report within five days. The report must achieve an average score of 4 or higher in peer evaluation (5-point scale per team member) and over 80 points in instructor evaluation (20% model appropriateness, 30% data accuracy, 25% report completeness, 25% collaboration contribution)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Gamification Discussion Platform",
+      "Real-Time Video Conferencing Tool",
+      "Digital Leaderboard System",
+      "Mathematics Case Problem Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

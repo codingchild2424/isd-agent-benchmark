@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0332",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Mobile-Based Gamified Learning Course for Mathematical Terminology",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and proficiency in everyday language use at a native level",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course designed for immigrant practitioners to acquire workplace mathematics terminology, offering a blended learning environment combining mobile apps and offline practice.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can translate 100 essential math terms with 80%+ accuracy using a gamified MALL app",
+    "Learners successfully resolve workplace math problem scenarios three or more times through in-app simulation tasks",
+    "Learners collaborate with three peers in three weekly recap sessions to complete two concept maps on given math topics (e.g., calculus, statistics) within a week and submit a report meeting ≥2 of three predefined criteria (clarity, connectivity, visual effectiveness)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Customized MALL (Mobile-Assisted Language Learning) App",
+      "Offline activity worksheets",
+      "Gamification Badge System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

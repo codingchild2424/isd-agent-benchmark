@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-0515",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Micro-Instructional Design for Remote Education: Utilizing the TAPPA Process",
+  "context": {
+    "prior_knowledge": "Experience with foundational online learning tools and general understanding of digital environments",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Course focused on developing language learning modules and webinars in smartphone-centric limited-technology environments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can independently develop three or more micro-instructional design scenarios using the five stages of the TAPPA process (Target, Accomplishment, Past, Prototype, Artifact).",
+    "Learners can produce at least two language learning modules applicable in Web 2.0/3.0 environments through project-based assessment.",
+    "Learners can identify and apply five or more micro-instructional strategies to enhance learner engagement in smartphone-based limited-technology environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Friendly Authoring Tool",
+      "Open-Source Collaboration Platform",
+      "TAPPA process template",
+      "Language learning content sample library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

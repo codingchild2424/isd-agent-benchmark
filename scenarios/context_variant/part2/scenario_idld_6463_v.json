@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6463-V",
+  "variant_type": "context_variant",
+  "title": "Web-Based Prototyping Design for Mobile Science Learning",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and fundamental smartphone usage skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening the competency to design web-based learning tools accessible via smartphones in environments without PC ownership",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Can design mobile science learning app interface drafts using web-based prototyping tools (Figma/Adobe XD)",
+    "Can develop responsive learning content prototypes following smartphone optimization principles",
+    "Can improve prototype functionality based on peer feedback and analyze usability test results"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Free web prototyping tool account",
+      "LMS-integrated sample template",
+      "Mobile learning scenario casebook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

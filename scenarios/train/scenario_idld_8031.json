@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8031",
+  "variant_type": "idld_aligned",
+  "title": "English Listening Proficiency Diagnosis and Learning Support Using Computer-Based Dynamic Assessment",
+  "context": {
+    "prior_knowledge": "Basic English communication skills and foundational educational theory as a teacher",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Focuses on cultivating preservice/in-service teachers' ability to diagnose students' learning needs in English listening assessments and design personalized support strategies. Provides efficient learning experiences in mobile environments using personal devices (BYOD).",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Utilize C-DA (Computer-Based Dynamic Assessment) tools to accurately diagnose learners' English listening weaknesses across three categories: global comprehension, detail comprehension, and inferential comprehension",
+    "Interpret automatically generated assessment results (including learning potential scores) to design personalized feedback strategies for individual learners",
+    "Operate a C-DA system in mobile environments to develop instructional design approaches for improving large-scale learners' listening proficiency"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "iSpring Quiz Maker or Similar C-DA Platform",
+      "Mobile Device-Compatible LMS",
+      "English Listening Assessment Item Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

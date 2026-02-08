@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0224",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Mathematics Internet Application Education Using Smartphones",
+  "context": {
+    "prior_knowledge": "Basic smartphone usage skills and understanding of middle school mathematics concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-oriented education utilizing smartphones as the primary tool in PC-unavailable settings.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Can independently utilize three or more smartphone-based mathematics applications",
+    "Can design mathematics teaching-learning plans integrated with internet resources",
+    "Can analyze science/mathematics data accessible in mobile environments and convert them into instructional materials"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Free Math App Compatible with Android/iOS",
+      "Mobile-Optimized Web-Based Learning Platform",
+      "Offline-Ready Data Package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

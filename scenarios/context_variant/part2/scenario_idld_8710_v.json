@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8710-V",
+  "variant_type": "context_variant",
+  "title": "Multimedia Learning Design to Improve Text-Image Integration Skills",
+  "context": {
+    "prior_knowledge": "Basic reading comprehension and ability to interpret visual materials",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners perform text-image integration tasks using personal devices, with project-based assessments measuring learning outcomes. Design considerations include characteristics of non-academic learners (e.g., reduced concentration).",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can construct concept maps by connecting text and images from multimedia materials with 80% accuracy.",
+    "Learners can apply a strategic gaze—alternating between text and images—at a frequency of 70% or higher during task performance.",
+    "During complex problem-solving processes, learners can continuously explore materials for 15+ minutes, reducing dropout rates to 20% or lower."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Text-to-Image Integrated LMS Module",
+      "Automated Eye-Tracking Feedback System",
+      "Adaptive Multimedia Content Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

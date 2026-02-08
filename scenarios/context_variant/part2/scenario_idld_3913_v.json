@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3913-V",
+  "variant_type": "context_variant",
+  "title": "QR Code-Based Collaborative Learning Sports Skill Education Program",
+  "context": {
+    "prior_knowledge": "Foundational Theories of Sports Science and Basic Experimental Methods",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A technical training course for current practitioners, conducted in an offline classroom setting utilizing digital devices (tablets/smartphones)",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately navigate and utilize multimedia resources (videos/3D models) related to sports techniques with over 90% accuracy using QR codes",
+    "By applying collaborative learning strategies (Think-Pair-Share, Jigsaw, etc.), learners can solve sports technique problems with over 85% participation rate alongside peer practitioners",
+    "Learners achieve a knowledge retention rate of at least 25% higher in post-assessments conducted one month after course completion compared to pre-assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "QR-coded Learning Module Kit",
+      "Sports Skill Experimentation Equipment",
+      "Digital Device Rental for Tablets/Smartphones",
+      "Team-Based Workbooks for Collaborative Learning"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

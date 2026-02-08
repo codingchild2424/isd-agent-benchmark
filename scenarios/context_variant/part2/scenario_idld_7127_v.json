@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7127-V",
+  "variant_type": "context_variant",
+  "title": "Computer-Based Simulation Utilized Pharmacy Practical Training Course",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-real-time online course combining computer simulations and LMS for practical pharmacy training for general citizens",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately explain medication administration methods and precautions through patient counseling scenarios in a simulation environment.",
+    "Learners can identify drug interactions and potential side effects with over 80% accuracy through prescription review simulations.",
+    "Learners can perform medication dispensing and patient education processes with over 90% accuracy in a virtual pharmacy environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Pharmacy Simulation Software License",
+      "LMS platform",
+      "Standardized Patient Scenario Database",
+      "Mobile-Compatible Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

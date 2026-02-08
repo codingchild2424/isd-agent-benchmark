@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6939-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Mobile-Supported Self-Regulated Flipped English Learning Short-Intensive Course",
+  "context": {
+    "prior_knowledge": "Advanced-level English grammar and vocabulary proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can self-direct English learning activities over five times weekly using mobile platforms.",
+    "Learners can demonstrate over 80% participation in real-time classes and contribute to academic English discussions based on flipped learning materials.",
+    "Learners can apply self-regulated learning strategies to develop personalized weekly study plans and achieve over 90% implementation rates."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

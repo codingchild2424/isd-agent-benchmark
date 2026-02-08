@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0858-V",
+  "variant_type": "context_variant",
+  "title": "Simulation-based XR Solution Development Project",
+  "context": {
+    "prior_knowledge": "Basic digital tool proficiency and language education experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Flexible scheduling for workplace learning integrated with XR production practice in BYOD environments for working professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can write a planning document for XR content for language learning simulations",
+    "Learners can develop a basic language education simulation prototype using low-cost XR tools (e.g., Unity 3D, WebXR)",
+    "Learners can propose at least three evaluation rubrics for XR solutions tailored to actual corporate training scenarios"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "XR Development Toolkit (Blender, Unity Base License)",
+      "Cloud-Based Collaboration Platform (Figma, GitHub)",
+      "Language Learning Scenario Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

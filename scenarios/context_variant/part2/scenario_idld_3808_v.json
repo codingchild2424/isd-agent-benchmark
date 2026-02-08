@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3808-V",
+  "variant_type": "context_variant",
+  "title": "AI Practical Competency Enhancement: Metadata-Based Instructional Design for Digital Learning Object Extraction",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can identify at least three digital learning objects by math concept from HTML documents and Word files",
+    "Learners can apply instructional design characteristic-based tags to extracted learning objects according to metadata standards (IMS, LOM)",
+    "Learners can produce one digital learning package for secondary-level math education through PBL team activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1064",
+  "variant_type": "balance_large_scale",
+  "title": "Social 360VR-Based Problem-Solving Learning for Knee Examination in [Large-Scale] Settings",
+  "context": {
+    "prior_knowledge": "Basic anatomy and understanding of clinical testing protocols",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Collaborative Learning in Smartphone-Based VR Environments, Including Virtual Simulation Training Before Physical Practice",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can reproduce knee ligament examination procedures in a social 360VR environment with over 90% accuracy",
+    "Learners apply problem-solving strategies similar to real clinical situations at least three times through virtual case analysis",
+    "Identify and propose solutions for at least two test error elements through collaboration with peer learners"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "360VR content platform",
+      "Mobile VR headset",
+      "3D knee anatomy model",
+      "Clinical Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

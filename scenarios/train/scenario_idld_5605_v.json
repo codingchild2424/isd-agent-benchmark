@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5605-V",
+  "variant_type": "context_variant",
+  "title": "Experimental Hybrid Model for Digital Game-Based Competitive Learning Design",
+  "context": {
+    "prior_knowledge": "Core gamification-based learning principles and understanding of competitive learning mechanisms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Explores methods for pre-service teachers to design and evaluate digital game-based competitive learning models in mathematics education. Analyzes the effectiveness of social competition and self-competition mechanisms based on learners' ability levels.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design digital game-based learning environments incorporating social and self-competition mechanisms for diverse proficiency levels.",
+    "Learners can evaluate the impact of competition mechanism selection on learning outcomes and anxiety levels by analyzing learner data.",
+    "Learners can propose an optimized competition-based learning framework for different proficiency levels through project deliverables."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Game Development Platform",
+      "LMS System",
+      "Learner Analytics Toolkit",
+      "Game-based learning case database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

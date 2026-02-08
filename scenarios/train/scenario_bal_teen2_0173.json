@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN2-0173",
+  "variant_type": "balance_teen_v2",
+  "title": "Online Design of Science Experiential Learning for [K-12] Special Education",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and general understanding of special education",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Students engage in web-based experiential learning using individual devices, while in-person sessions focus on project feedback and collaborative learning. They explore online content design methods reflecting the needs of special education students with diverse cognitive styles",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design web-based experiential learning modules that consider the cognitive styles of students with special educational needs",
+    "Diagnose learners' comprehension levels using data analysis techniques and provide personalized feedback",
+    "Apply accessibility enhancement strategies (e.g., visual/hearing support) to science-integrated experiential activities",
+    "Over three weeks, learners submit a prototype or 10-page report (reflecting ≥5 peer/instructor feedbacks) through project-based assessment (3 design-verify-improve cycles) and propose three specific improvement strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web-Based Experiential Learning Platform",
+      "Multimedia Production Tool",
+      "Learning Analytics Software",
+      "Science Experiment Simulator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

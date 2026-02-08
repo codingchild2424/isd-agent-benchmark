@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1315-V",
+  "variant_type": "context_variant",
+  "title": "System Design Practical Skills Enhancement: Learning Analytics-Based Personalized Mathematics Learning Intervention Strategies",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learning analytics tools can be utilized to collect and interpret progress and comprehension data for individual learners",
+    "Based on analysis results, personalized learning intervention strategies (such as providing additional materials, adjusting difficulty levels) can be designed",
+    "A model predicting learning outcomes can be applied based on data collected in mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0396",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Online Science Education Course Development Utilizing Design Thinking",
+  "context": {
+    "prior_knowledge": "Basic understanding of scientific fields and experience in using online learning tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A science education program for working professionals, conducted in a BYOD (Bring Your Own Device) environment and operated with a focus on summative assessments. Suitable for institutional settings with experience collaborating with OPM (Online Program Management) providers.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design science education content by applying the five stages of design thinking (Empathize, Define, Ideate, Prototype, Test)",
+    "Learners can explain methods for analyzing and incorporating stakeholder requirements in online education development processes",
+    "Learners can design and implement assessment tools suitable for blended learning environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Management System (LMS)",
+      "Digital Educational Resources for Science Subjects",
+      "Design Thinking Workshop Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

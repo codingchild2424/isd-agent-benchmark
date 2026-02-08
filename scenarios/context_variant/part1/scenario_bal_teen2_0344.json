@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0344",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Advanced Simulation Training for Central Venous Catheter Insertion",
+  "context": {
+    "prior_knowledge": "Basic Anatomy and Clinical Skills Theory",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Implementing mobile-based blended learning in a constrained technology environment. Simulation practices are structured as monthly face-to-face sessions.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "After mobile module learning, over 90% of learners can explain the theoretical steps of central venous catheter insertion (anatomical identification, aseptic technique, complication management).",
+    "After simulation training, over 85% of learners achieve 80+ points on skill performance based on standardized checklist criteria.",
+    "At the end of training, over 80% of learners record 4+ points (on a 5-point scale) on self-efficacy surveys."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Low-specification video content",
+      "Monthly in-person simulation kit for practical training",
+      "Non-medical skilled facilitator (NPCF) pool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

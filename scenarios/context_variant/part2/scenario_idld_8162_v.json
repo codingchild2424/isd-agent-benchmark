@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8162-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based e-Portfolio and Social Network-Enhanced Science Learning Program",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and fundamental smartphone usage skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Self-directed science learning program in smartphone-centric limited-technology environments. Targets job seekers and adult learners, providing mobile-optimized materials and activities",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can build and manage e-portfolios in mobile environments",
+    "In university social network platforms (e.g., LMS discussion boards, Padlet), learners can exchange peer feedback ≥twice during three science inquiry projects, document feedback implementation in one improvement report, and submit it.",
+    "Over an 18-week learning process, learners can record weekly scientific problem-solving steps (problem definition, hypothesis, experiment design, analysis, conclusion) in an e-portfolio, incorporate ≥three peer feedback iterations, and finalize the portfolio.",
+    "Learners show a 20% or greater improvement in academic achievement and learning engagement through e-portfolio-based learning activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible E-Portfolio Platform",
+      "Science Inquiry Mobile Application",
+      "Social Network-Based Learning Community",
+      "Smart Device Compatibility Verification Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

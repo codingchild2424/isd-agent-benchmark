@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0215",
+  "variant_type": "balance_large_last",
+  "title": "Mobile-Based Self-Regulated Second Language Acquisition Intensive Short-Term Program",
+  "context": {
+    "prior_knowledge": "Basic second-language vocabulary and understanding of grammatical structures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Creating self-directed learning environments enabled by learning analytics in smartphone-centric limited technology settings",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners perform self-directed target language listening training in 20-minute sessions at least five times per week via a mobile app.",
+    "Learners establish and implement individualized vocabulary learning plans based on learning analytics reports with over 80% adherence.",
+    "Learners can perform basic communication (greetings, questions, explanations) in the target language through context-specific conversation simulations in mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App",
+      "Learning Analytics Dashboard",
+      "Speech Recognition-Based Real-Time Feedback System",
+      "Daily Learning Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

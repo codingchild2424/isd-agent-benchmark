@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0179",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Augmented Reality-Based Science Learning Media Design Workshop",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and experience with digital media applications",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Program for pre-service teachers to master science learning content creation using augmented reality (AR) technology. Conducted via mobile device-based microlearning in BYOD environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "AR-based learning media can be designed following the five phases of the ADDIE model (Analysis-Design-Development-Implementation-Evaluation)",
+    "AR interactive content themed on historical scientific and cultural heritage can be produced",
+    "The practicality of AR learning media can be verified by applying user experience (UX) evaluation criteria"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Development Tool (Unity/Unreal Engine Educational License)",
+      "3D Scanning Equipment",
+      "Access to Digital Archive of Scientific Cultural Heritage",
+      "Mobile Device Compatibility Testing Server"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

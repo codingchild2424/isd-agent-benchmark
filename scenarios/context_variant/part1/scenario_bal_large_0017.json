@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0017",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] VR-Based Sepsis Management Simulation Training Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and patient care procedures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Education for corporate health managers or learners in leadership roles, enhancing sepsis patient management competencies in VR simulations replicating real hospital environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify initial sepsis symptoms (fever, tachycardia, dyspnea, etc.) with 90% accuracy via VR simulation.",
+    "Learners achieve over 80% performance accuracy by applying sepsis protocols (blood culture, antibiotic administration, fluid therapy, etc.) step-by-step in a virtual environment.",
+    "After simulation, learners can self-diagnose two or more decision-making errors in sepsis management and propose improvement strategies through debriefing."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headsets (10 units)",
+      "Sepsis Simulation Software License",
+      "Medical scenario database",
+      "10 Learner Tablets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

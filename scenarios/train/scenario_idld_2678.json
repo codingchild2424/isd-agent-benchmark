@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2678",
+  "variant_type": "idld_aligned",
+  "title": "Practical Course on Utilizing Computer-Based Science Education Tools",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and experience with online learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Course for science education field practitioners conducted in a smartphone-centric limited-technology environment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can produce science education content optimized for mobile environments using open-source tools.",
+    "Students can design educational materials compatible with other platforms by applying XML-based standard formats.",
+    "Students can operate educational sessions in real-time online environments, considering cross-platform compatibility."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Open-Source Educational Software",
+      "Online Collaboration Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

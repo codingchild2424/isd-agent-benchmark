@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6090-V",
+  "variant_type": "context_variant",
+  "title": "Flipped Learning-Based Project Education for Cardiac Assessment Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning environment utilizing digital devices and online platforms, operating personalized feedback systems for individual learners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Over 90% of learners can systematically apply the 6-step cardiac assessment process.",
+    "In problem-based scenarios, learners predict potential cardiac issues with 85% accuracy through patient history analysis.",
+    "In PBL team projects, learners achieve 3.5 or higher on a 4-level evaluation scale for creating and presenting diagnosis reports based on real cases.",
+    "Using digital simulation tools, learners improve the accuracy of heart sound auscultation and venous pressure assessment by over 70%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Heart Sound Database",
+      "Virtual patient simulation software",
+      "3D Heart Anatomy Model",
+      "Collaborative Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

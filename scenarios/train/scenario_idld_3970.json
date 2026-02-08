@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3970",
+  "variant_type": "idld_aligned",
+  "title": "Augmented Reality-Based Science Learning Design: Applying Mobile Microlearning",
+  "context": {
+    "prior_knowledge": "Understanding of basic science concepts and fundamental smartphone operation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A 30-something professional responsible for elementary science education in a non-PC environment, requiring the development and application of AR learning content via smartphone apps.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can spatially represent scientific concepts using AR (Augmented Reality) technology",
+    "Learners can effectively integrate multimedia elements (text, images, sound) in augmented reality environments to explain learning content",
+    "Learners can simulate scientific experiment processes and improve result prediction accuracy by over 70% through AR-based microlearning modules"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Content Creation Tool (e.g., Unity + Vuforia)",
+      "Smartphone-Compatible AR Application",
+      "Science Experiment Kit Image Library",
+      "Quiz Platform for Measuring Learning Effectiveness"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

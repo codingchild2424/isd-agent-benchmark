@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0663",
+  "variant_type": "balance_teen_v2",
+  "title": "H5P Interactive Book Utilization Strategies for Nursing Simulation Learning in K-12 Education",
+  "context": {
+    "prior_knowledge": "Understanding of basic nursing theory and clinical practice procedures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners progress through simulation-based learning in an asynchronous environment using personal devices, periodically monitoring learning outcomes through formative assessment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Can select appropriate nursing interventions in patient simulation scenarios using H5P interactive books with over 80% accuracy.",
+    "Can correct clinical judgment errors within three attempts via feedback systems in interactive content.",
+    "Can achieve over 75% collaboration efficiency when performing team-based nursing procedures in digital simulation environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "H5P Authoring Tool License",
+      "Standardized Nursing Simulation Scenario Template",
+      "LMS Integration Plugin"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

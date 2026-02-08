@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8665-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Microlearning Design for Informal Online Learning",
+  "context": {
+    "prior_knowledge": "Basic digital device usage skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A beginner-level language course optimized for smartphone-based learning environments, supporting self-directed learning during short breaks in office work",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can understand and utilize over 10 beginner-level job-related language expressions through interaction-based activities in mobile environments",
+    "Learners can select materials matching personal learning goals with over 80% accuracy using a learning content search system utilizing tags and titles",
+    "Learners can revise learning strategies based on formative assessment feedback to achieve over 20% improvement in target language skills (listening/speaking) within one week"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Interactive Microcontent Template",
+      "Automated Scoring Formative Assessment Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1023",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Training for Transitioning Academic Mathematical Knowledge to Workplace Practice",
+  "context": {
+    "prior_knowledge": "Mathematics subject-matter expertise (secondary level or higher) and at least three years of current professional experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A training program for current practitioners to enhance mathematical expertise, replicating real job scenarios via simulation/VR environments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Participants can apply mathematical problem-solving strategies learned in simulation environments to actual tasks with over 80% accuracy.",
+    "Learners can identify and explain three or more connections between academic mathematical concepts and workplace practices.",
+    "Learners can write a self-reflection report analyzing barriers to learning transfer based on peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Equipment",
+      "Job-Situation-Specific Mathematics Problem Database",
+      "Online Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

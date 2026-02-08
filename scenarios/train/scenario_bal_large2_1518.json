@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1518",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Generative AI Collaborative Creative Learning Curriculum for Postdigital Architectural Education",
+  "context": {
+    "prior_knowledge": "Fundamental architectural concepts, experience with digital tools, and elementary understanding of scientific principles",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Science-integrated architectural education conducted as part of corporate technical training programs. Collaborative learning environments utilizing generative AI in BYOD settings",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can decompose and explain post-digital architectural design processes into three or more stages using generative AI",
+    "Learners can collaborate with AI to create one or more architectural prototypes and implement designs integrating physical/digital elements",
+    "Learners can identify and discuss three or more ethical issues (e.g., copyright, infringement of creativity) that may arise when using generative AI"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Generative AI Platform Access Permissions",
+      "3D Modeling Software",
+      "Physical Model Fabrication Tools",
+      "Architectural Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

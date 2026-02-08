@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8418-V",
+  "variant_type": "context_variant",
+  "title": "Deep Learning Practical Skills Enhancement: TPACK Competencies for Pre-Service Mathematics Teachers in Multidisciplinary Technology Integration",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can design a 3-phase lesson plan (introduction-development-conclusion) reflecting all TPACK components (PK: mathematical concept explanation, TK: graphing tool utilization, CK: curriculum standards) within a week, based on an actual math class scenario (e.g., function graph analysis), and submit a lesson plan meeting 4 or more (80%+) of the 5 peer evaluation rubric criteria",
+    "Learners improve mathematics teaching methods by utilizing interdisciplinary technology integration strategies in mobile microlearning environments",
+    "Learners analyze the effectiveness of TPACK-based lesson designs through peer assessment and propose improvement strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

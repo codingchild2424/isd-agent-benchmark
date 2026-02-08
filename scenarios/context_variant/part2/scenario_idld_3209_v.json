@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3209-V",
+  "variant_type": "context_variant",
+  "title": "Optimizing Instructional Design Through Integration of the ADDIE Model and Q10 Platform",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and experience with online learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires flexible instructional design strategies enabling self-directed learning in smartphone-centric limited technological environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Utilize the five stages of the ADDIE model (Analysis, Design, Development, Implementation, Evaluation) in conjunction with Q10 platform tools",
+    "Design personalized educational content on the Q10 platform based on learner analysis data",
+    "Develop multimedia materials optimized for smartphone environments and integrate them into an LMS",
+    "Operate a process that provides immediate feedback on the Q10 platform by analyzing formative assessment results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Q10 platform license",
+      "Mobile-Optimized LMS",
+      "Open-source multimedia authoring tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

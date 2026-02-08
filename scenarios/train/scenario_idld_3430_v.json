@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3430-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Practical AI Competencies: Contextual Learning of Design Knowledge: Situational Understanding through Language Domains",
+  "context": {
+    "prior_knowledge": "Foundational design principles and understanding of linguistic structures",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze the interrelationships between design elements and linguistic structures through various visual representations (floor plans, elevations, 3D modeling).",
+    "Learners can explain contextually how design decisions impact linguistic communication based on case studies of real-world architectural projects.",
+    "Learners can reinterpret and resolve problems arising in design contexts through linguistic frameworks via collaborative activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

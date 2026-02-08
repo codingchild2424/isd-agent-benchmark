@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5516-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Web Development Practical Competencies: Learning-Centered Higher Education Design for Highly Skilled Professional Learners",
+  "context": {
+    "prior_knowledge": "Professional field (medical/legal/technical) practical experience and degree attainment",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can identify at least three field requirements when designing industry-linked curricula",
+    "Learners can develop at least one assessment rubric reflecting institutional core competencies",
+    "Learners can construct a three-stage learning activity design model executable in smartphone environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

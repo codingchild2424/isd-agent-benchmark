@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4548-V",
+  "variant_type": "context_variant",
+  "title": "Course on Strengthening Language Analysis Competencies Through Problem-Solving and Mathematical Reasoning",
+  "context": {
+    "prior_knowledge": "Basic language analysis skills and understanding of mathematical concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Training course in a BYOD environment to enhance language data analysis competencies through collaborative problem-solving and mathematical reasoning.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply at least three mathematical approaches to solve complex language data problems.",
+    "In collaborative learning, learners propose diverse solutions and derive optimal strategies through peer feedback.",
+    "Learners quantitatively evaluate results by utilizing hypothesis-testing tools (e.g., statistical software) required for language pattern analysis."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Platform",
+      "Data Analysis Tools (Google Sheets, Python Libraries)",
+      "Language Dataset Sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

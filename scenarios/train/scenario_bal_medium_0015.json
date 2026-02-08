@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0015",
+  "variant_type": "balance_medium_scale",
+  "title": "Virtual Reality-Based Safety Technology Education Design: Applying Mathematical Modeling and Probabilistic Analysis for Children with Autism Spectrum and Fetal Alcohol Spectrum Disorders",
+  "context": {
+    "prior_knowledge": "Understanding of Introduction to Basic Education, Overview of Special Education, Basic Statistics (Descriptive Statistics, Inferential Statistics), and Probability Theory (Conditional Probability, Bayes' Theorem)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Enhancing VR educational tool design and evaluation capabilities applicable to real classroom settings: Utilizes regression analysis (linear/logistic regression) for behavioral data analysis and machine learning-based predictive models (Random Forest, SVM).",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Designing three or more VR safety scenarios tailored to the cognitive characteristics of children with Autism Spectrum and Fetal Alcohol Spectrum Disorders, applying probability distributions (normal, Poisson) and statistical hypothesis testing models for behavioral pattern analysis",
+    "Developing an algorithm to implement animated character interactions that guide learner behavior in virtual reality environments, utilizing decision trees (CART algorithm) and linear/nonlinear optimization techniques (gradient descent)",
+    "Learners design an evaluation system to measure educational transfer effects by comparing virtual environment simulation and real-world behavioral observation data within six months, using standard deviation, confidence intervals (95% CI), and p-value analysis for three or more metrics (e.g., behavioral consistency, problem-solving efficiency, application accuracy) to produce a report meeting ≥80% reliability criteria"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Development Kit",
+      "Child Behavior Observation Record Sheet",
+      "3D Modeling Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

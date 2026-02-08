@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4102-V",
+  "variant_type": "context_variant",
+  "title": "XR-Based Immersive Mathematics Practice: Enhancing Problem-Solving Skills Through Microlearning",
+  "context": {
+    "prior_knowledge": "Middle School-Level Mathematics Fundamentals (Equations, Geometry, Functions)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Building accessibility-focused XR learning environments using smartphones, with emphasis on work-integrated math practice.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve 3D spatial geometry problems in XR environments with ≥85% accuracy",
+    "Mobile-based microlearning modules: 15-minute sessions, 5 times weekly",
+    "Within one week, learners will select two real-world business scenarios (budget calculation, data visualization) and submit results with 90% accuracy in budget calculations and the use of at least three chart types in data visualization, following a given project template.",
+    "Share problem-solving processes and provide feedback using collaborative XR tools with peers"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible XR app (WebXR-based)",
+      "Low-spec 3D modeling tool",
+      "Work-integrated mathematics worksheet"
+    ],
+    "accessibility": "화면 확대/음성 안내 기능 지원",
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3692",
+  "variant_type": "idld_aligned",
+  "title": "Image and Voice Optimization Strategies for Online Mathematics Instructors",
+  "context": {
+    "prior_knowledge": "Elementary mathematical knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners access the LMS via personal devices (BYOD) and demonstrate learning outcomes through project-based assessments. As a beginner-level math curriculum, it experimentally verifies the impact of instructors' visual/audio delivery methods on learning effectiveness",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Quantitative analysis of changes in learning achievement based on instructors' image types (original/embellished/virtual/none)",
+    "Comparative analysis of differences in learning satisfaction based on instructors' voice types (original/altered/synthetic) to derive optimal voice expression strategies",
+    "Measurement of learners' perceived social presence and academic emotions (e.g., boredom) to identify the influence of image/voice types"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online lecture production equipment (camera, microphone)",
+      "LMS System",
+      "Video editing software",
+      "Learning Outcomes Measurement Questionnaire"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

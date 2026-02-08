@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8351",
+  "variant_type": "idld_aligned",
+  "title": "Science Competency Enhancement Course Using an AI-Integrated Adaptive Collaborative E-Learning System",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and experience in utilizing digital learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners interact flexibly with content via mobile devices and receive personalized learning experiences through real-time collaboration with peers and AI-based feedback.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can select and apply personalized science content with over 90% accuracy using an AI-based adaptive learning system",
+    "Learners can complete science problem-solving projects with over 80% participation rates through digital collaboration tools with peers",
+    "Learners can submit project deliverables applying science concepts with over 75% completion rates by reflecting on system-provided feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "AI-based adaptive learning engine",
+      "Real-Time Collaboration Tool",
+      "Science microlearning content library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

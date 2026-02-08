@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0673",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Advanced 2D Coordinate System Education Program Based on MEIoT (Micro-Electromechanical Internet of Things)",
+  "context": {
+    "prior_knowledge": "Elementary mathematical concepts, IoT fundamentals, and mechatronics basics",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A remote collaborative learning environment utilizing IoT and mechatronics in a smartphone-centric limited-technology setting",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the concepts of axes, quadrants, and coordinate points in a 2D coordinate system within a virtual-physical environment by integrating IoT sensors",
+    "Complete over 80% of coordinate system-based spatial problem-solving projects using MEIoT tools",
+    "Successfully apply coordinate transformation algorithms at least three times while controlling mechatronics devices in a remote collaboration environment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible MEIoT Kit",
+      "Open-Source IoT Platform",
+      "Virtual Simulation Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

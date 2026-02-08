@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-1094",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Designing Learning Engagement and Co-Creation of Value in Online Science Education",
+  "context": {
+    "prior_knowledge": "Foundational science education theory and experience in operating online learning platforms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Pre-service teachers conducting projects to design online learning environments in the field of science.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Cultivation of data collection and analysis skills using a four-dimensional (behavioral, cognitive, emotional, social) online learning engagement measurement tool.",
+    "Development of competency in analyzing causal relationships between learning engagement factors and motivation using structural equation modeling (SEM).",
+    "Learners can analyze learner characteristics (age, learning style, technology accessibility, etc.) when designing online science projects, propose three or more value co-creation strategies (e.g., collaborative platform utilization, personalized feedback systems, gamification application), and develop a project design plan achieving over 80% suitability through peer evaluation and instructor verification.",
+    "Learners can analyze formative assessment data (quiz accuracy rates below 85%, discussion participation in the bottom 20%) from online learning platforms over six months, propose three or more specific measures (e.g., content restructuring such as video segmentation and supplementary materials, interaction improvements like real-time feedback systems and discussion board redesigns), and achieve target satisfaction levels in peer evaluations (4+ on a 5-point scale) and instructor feedback (80%+ on rubric assessments)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "SEM Analysis Software (AMOS/R)",
+      "Online Learning Platforms (Google Classroom/Moodle)",
+      "BYOD-Supported Wi-Fi Infrastructure",
+      "Science Experiment Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

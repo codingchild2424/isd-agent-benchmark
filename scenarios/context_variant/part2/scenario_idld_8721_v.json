@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-8721-V",
+  "variant_type": "context_variant",
+  "title": "Pre-Service Teacher Education Course Design Incorporating Generative AI",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Current practitioner with entry-level expertise in social studies and access to digitally supported environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Capable of applying three or more generative AI-based instructional design frameworks",
+    "Learners develop three types of creative instructional materials for vocational training institutions using AI tools (e.g., Canva, ChatGPT) and write reports meeting critical evaluation criteria (average ≥4/5 scale) in peer reviews and expert assessments.",
+    "Design and implementation of AI-assisted problem-solving projects integrated with metacognitive strategies",
+    "Learners design three or more engagement strategies (e.g., quizzes, gamification, personalized feedback) using AI-driven personalized recommendation systems (e.g., ChatGPT, learning analytics tools) on a microlearning platform and create a four-week execution plan to improve learner engagement (login frequency, content completion rates) by over 20%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Generative AI Platform Accounts (ChatGPT, Gemini, etc.)",
+      "Mobile Learning Management System (LMS)",
+      "AI Instructional Design Template Library",
+      "Collaboration Tools (Google Workspace/Notion)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

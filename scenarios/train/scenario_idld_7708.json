@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7708",
+  "variant_type": "idld_aligned",
+  "title": "Flipped Learning-Based Chinese Language Pre-Service Teacher Competency Development Course",
+  "context": {
+    "prior_knowledge": "Basic Chinese character recognition, no foreign language learning experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "An environment where in-service teachers can demonstrate lessons directly to learners and provide feedback.",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can use 100 basic Chinese characters (HSK Level 1) to construct daily conversational scenarios (15 situations)",
+    "Learners can participate in class discussions after completing at least 80% of the video lectures (including subtitles).",
+    "Learners can perform actual classroom scenarios at least three times through role-playing with peer teachers."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Digital Textbook (Interactive PDF)",
+      "Video Conferencing Tools (Zoom, etc.)",
+      "Chinese Character Handwriting App (Xiănzì)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

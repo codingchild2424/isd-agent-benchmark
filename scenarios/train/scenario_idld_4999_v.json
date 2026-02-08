@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4999-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Machine Learning Competencies: Maker Education Design with Generative AI – Preparing Prospective Teachers",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Pre-service teachers can develop three or more creative language learning scenarios when designing maker projects using generative AI",
+    "Learners can analyze the impact of integrating maker education and generative AI on language education across four dimensions (motivation, efficiency, innovativeness, practicality)",
+    "Participants can design one language learning kit combining AI-generated content with physical fabrication elements and simulate it in VR environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

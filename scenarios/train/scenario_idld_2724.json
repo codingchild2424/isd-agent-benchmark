@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2724",
+  "variant_type": "idld_aligned",
+  "title": "Exploring Matrix Solutions and Solution Set Types in Linear Algebra",
+  "context": {
+    "prior_knowledge": "Basic matrix operations and understanding of linear systems of equations",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learning support in limited-technology environments through smartphone-based supplementary materials",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Connect the range of coefficient and augmented matrices to solution set types (unique solution, infinite solutions, no solution).",
+    "Determine the existence and uniqueness of solutions by comparing determinants, ranks, and augmented matrices.",
+    "Model linear systems applied to real-world engineering problems using matrix solutions and analyze solution sets."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Whiteboard/Blackboard",
+      "Printed Learning Activity Sheets",
+      "QR Code-Linked Supplementary Materials",
+      "Basic calculator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

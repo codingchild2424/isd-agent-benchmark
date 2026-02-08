@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0271",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Simulation-Based Social Learning Program for Concept Acquisition",
+  "context": {
+    "prior_knowledge": "Basic social concepts comprehension and digital device usage experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "VR content-centered education using smartphones, applying task-based learning to strengthen conceptual analysis and cognitive processes.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze structural characteristics of social concepts with 85% accuracy within one week.",
+    "Learners can explain causal relationships of social phenomena in three or more stages within simulation environments.",
+    "Learners can complete portfolios applying acquired concepts to real-world case studies through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Equipment",
+      "Offline Worksheet",
+      "Low-Bandwidth VR Learning Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0907",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Web-Based Computer-Assisted English Instructional Design for Middle School",
+  "context": {
+    "prior_knowledge": "Basic English vocabulary and grammar comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Web-based learning system operating in smartphone-centric limited-technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can acquire and utilize 500 intermediate-level English vocabulary items within six months through a web-based system",
+    "Learners can self-correct over 80% of grammatical errors using real-time feedback functionality",
+    "Students apply English reading and writing skills to real-world scenarios through project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Web-Based Learning Platform",
+      "Online Assessment Tool",
+      "Digital Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

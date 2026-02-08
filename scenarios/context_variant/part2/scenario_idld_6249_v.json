@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6249-V",
+  "variant_type": "context_variant",
+  "title": "Optimizing Mathematical Data Analysis Using Voice Enhancement Technology",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Pre-service teachers learning practical approaches to apply voice signal processing technology linked to mathematical modeling in educational settings",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can mathematically explain the speech signal transformation process based on Short-Time Fourier Transform (STFT).",
+    "Learners can mathematically analyze the principle of multi-scale information extraction in the hierarchical residual U-Net++ architecture.",
+    "Learners can propose optimization strategies for computational efficiency by leveraging the mathematical properties of Atrous Convolution."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible STFT simulator",
+      "Speech signal dataset sample",
+      "Hyperparameter optimization visualization tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

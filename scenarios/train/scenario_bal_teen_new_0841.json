@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0841",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Problem-Based Collaborative Learning for Developing Scientific Literacy and Language Reasoning Skills: Text and Speech Data Analysis and Investigative Writing",
+  "context": {
+    "prior_knowledge": "Basic science concepts (variable control, hypothesis formulation) and college-level language proficiency (grammar/vocabulary analysis, text interpretation, discourse structure understanding)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A graduate-level language course conducting project-based assessments in smartphone-centric, resource-limited environments. Learners analyze language data collected via mobile devices (conversation recordings, SNS texts) with a focus on activities combining scientific inquiry methods (observation-measurement-conclusion) and linguistic analysis (text structure-pragmatic context).",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners analyze complex linguistic data (text/audio) to generate scientific hypotheses and systematically present linguistic evidence (grammar/lexical patterns).",
+    "Through collaborative problem-solving with peers, learners strengthen critical reading skills and argumentation structures by collecting and evaluating evidence from linguistic materials.",
+    "After observing three real-language phenomena (conversations/texts), learners define two problems and generate one inquiry question per case, then write a 500-character exploratory draft integrating expressive and analytical skills."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone app-based collaboration tools",
+      "Simplified experiment kit",
+      "Online Discussion Forum"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

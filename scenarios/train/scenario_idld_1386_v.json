@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1386-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Competencies in Practice: First-Person Perspective Video for Enhancing Basic Competencies of Emergency Medical Technicians",
+  "context": {
+    "prior_knowledge": "Basic first aid knowledge (CPR, hemorrhage control, etc.)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately describe standard treatment procedures for five core emergency scenarios (cardiac arrest, respiratory distress, severe bleeding, fractures, decreased consciousness) from a first-person perspective.",
+    "Learners can search for emergency skill videos using smartphones and QR codes and repeat learning them at least three times.",
+    "Learners can achieve over 85% accuracy in using emergency equipment (e.g., automated external defibrillators, airway maintenance devices) in summative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1612-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Programming Practical Competencies: Science Competency Development via Mobile Context-Based Practical Learning",
+  "context": {
+    "prior_knowledge": "Basic Science Knowledge and Digital Device Proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can complete context-based practical tasks delivered in mobile environments with ≥80% accuracy.",
+    "Learners can propose ≥3 problem-solving strategies for real-world work environments using feedback from avatar hosts.",
+    "Learners can demonstrate ≥70% proficiency in scientific practical skills acquired through mobile learning activities during project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

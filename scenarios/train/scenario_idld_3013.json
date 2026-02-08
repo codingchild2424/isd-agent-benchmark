@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3013",
+  "variant_type": "idld_aligned",
+  "title": "Software Design Pattern Teaching Method Design Using Intelligent Tutoring Systems",
+  "context": {
+    "prior_knowledge": "Fundamental Programming Knowledge and Understanding of Object-Oriented Programming (OOP) Concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical teaching methodology training program for pre-service/in-service teachers. Offline collaborative learning environment setup using digital devices (tablets/laptops)",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze application scenarios of 10 core design patterns with 80% accuracy",
+    "Learners can identify and correct at least three of their own error patterns based on system feedback",
+    "Learners can present and improve design pattern application cases at least twice through peer evaluation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Intelligent tutoring system software",
+      "Design pattern case database",
+      "Digital Whiteboard for Collaborative Learning",
+      "Practical programming environment (including UML tools)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

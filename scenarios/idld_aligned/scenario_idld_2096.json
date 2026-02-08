@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2096",
+  "variant_type": "idld_aligned",
+  "title": "Concept Map-Based Instructional Design for IVR-Enhanced Science Learning",
+  "context": {
+    "prior_knowledge": "Elementary botany knowledge and VR device operation experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A short-term intensive program for vocational training institutions to strengthen scientific job competencies, using a mobile-based IVR learning environment to enhance understanding of scientific content through concept maps.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately explain botanical structures using concept maps in an IVR environment at a rate of 85% or higher.",
+    "After IVR-based microlearning activities, learners achieve scores that are 20% or higher improved in science concept tests.",
+    "Learners actively participate at a rate of 90% or higher in IVR learning activities that include curiosity-inducing elements."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IVR Device",
+      "3D Modeling Content Related to Scientific Concepts",
+      "Concept Map Template",
+      "Mobile Learning Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

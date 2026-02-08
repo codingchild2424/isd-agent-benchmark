@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0057",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Traffic Accident Severity Prediction Modeling Project",
+  "context": {
+    "prior_knowledge": "Basic statistics, linear algebra, and fundamental machine learning concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Multi-task deep learning model development utilizing real traffic accident data and interpretability analysis",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design a system classifying traffic accident severity (casualty/property damage) into three levels using a multi-task deep learning model",
+    "Visualize and interpret model predictions by applying Layer-wise Relevance Propagation (LRP) techniques",
+    "Learners can complete two or more projects applying at least three data preprocessing techniques (missing value handling, normalization, categorical encoding) using Python, building linear regression and classification models with Scikit-learn, and evaluating performance using accuracy/precision/recall metrics."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python Development Environment",
+      "Jupyter Notebook",
+      "TensorFlow/Keras Library",
+      "Traffic Accident Dataset",
+      "PBL Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0787",
+  "variant_type": "balance_teen_k12",
+  "title": "Program for Overcoming Collaborative Learning Assessment Barriers and Strengthening Problem-Solving Competencies for K-12",
+  "context": {
+    "prior_knowledge": "Fundamental Mathematics Knowledge and Digital Device Usage Proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Focuses on analyzing and resolving collaborative learning barriers through real-life problem-solving activities in smartphone-based microlearning environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify and explain three major barriers that occur during collaborative learning processes.",
+    "Using a PBL (problem-based learning) approach, learners can solve two real-world math problems (e.g., school lunch budget allocation, classroom space design) by clearly assigning roles among 3–4 team members and submitting a collaborative report meeting four or more of five role-distribution checklist items.",
+    "Learners will collaborate in groups of three using smartphone-based collaborative tools (e.g., Google Jamboard, Padlet) to create and share one visual representation of the mathematics problem-solving process, achieve an \"Excellent\" rating in at least two of the three rubric criteria (Creativity, Accuracy, Collaboration), and receive \"Active Participation\" feedback from at least two out of three peers during peer evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible troubleshooting template",
+      "Collaborative digital whiteboard app",
+      "Formative assessment rubric sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4694",
+  "variant_type": "idld_aligned",
+  "title": "Competency-Based Learning Content Design and Application Workshop",
+  "context": {
+    "prior_knowledge": "Basic experience with foundational e-learning tools, intermediate professional expertise in job-related social fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical training premised on the integration of existing LMS (e.g., Moodle) and legacy systems.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can decompose the competency framework for social sector job roles into three hierarchical levels according to CBL (Competency-Based Learning) principles.",
+    "Learners design two or more blended learning scenarios for achieving competencies using an LD (Learning Design) template.",
+    "Learners implement methods to integrate existing digital tools with Moodle by applying the LTI (Learning Tools Interoperability) standard."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Moodle LMS Access Permissions",
+      "LTI-Enabled Legacy Tool Inventory",
+      "Competency Mapping Guidelines Template",
+      "Sample Learning Design (LD) Package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

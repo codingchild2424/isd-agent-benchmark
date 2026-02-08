@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1575-V",
+  "variant_type": "context_variant",
+  "title": "Learner-Centered Workshop for Strengthening Core Competencies in Digital Systems",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A short-term course focused on intensively developing digital system operation and management competencies for learners in administrative/leadership roles. Requires case-based education applicable to real-life scenarios.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles and components of digital systems with over 80% accuracy.",
+    "Learners can solve digital circuit design problems in puzzle-based quizzes with over 70% accuracy while enhancing collaborative learning skills.",
+    "Learners can create visual materials of digital system simulation results using a graphic tablet."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Learning Kit (Arduino-Based Lab Equipment)",
+      "10 Graphic Tablets",
+      "Quiz Platform Account (Supports Class-Scale Simultaneous Access)",
+      "Real-Time Feedback System (Tablet-Connected)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0884",
+  "variant_type": "idld_aligned",
+  "title": "IT-Integrated Blended Education Course for Strengthening Basic Mathematical Job Competencies",
+  "context": {
+    "prior_knowledge": "Understanding of Elementary-Level Basic Mathematical Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "An IT-integrated education course for corporate learners aged 40+ in managerial/leadership roles, aiming to strengthen mathematical job competencies in smartphone-based technological environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply mathematical problem-solving strategies with over 80% accuracy using a mobile platform.",
+    "Learners can provide peer feedback on mathematical learning with 100% participation using digital collaboration tools.",
+    "Learners can regularly measure their mathematical job competencies and achieve over 70% proficiency through an IT-based assessment system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App",
+      "Basic Calculator Application",
+      "Cloud-Based Document Collaboration Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

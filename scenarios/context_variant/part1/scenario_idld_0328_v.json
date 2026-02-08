@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0328-V",
+  "variant_type": "context_variant",
+  "title": "Online Synchronous Microlearning for Collaborative Problem-Solving (CPS) Pattern Analysis",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Professionals in medical/legal/technical fields learning in smartphone-based limited-technology environments with intermediate expertise in mathematics",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze the spatiotemporal characteristics of CPS processes using online synchronous chat tools",
+    "Learners can classify CPS patterns into two types by applying a clustering method based on Dynamic Time Warping (DTW).",
+    "Learners can evaluate collaborative problem-solving strategies from an integrated perspective of metacognitive, cognitive, and social communication dimensions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible chat tool",
+      "DTW analysis sample dataset",
+      "CPS pattern coding guidelines",
+      "Mobile-Friendly LMS"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

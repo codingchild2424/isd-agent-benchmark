@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-3720-V",
+  "variant_type": "context_variant",
+  "title": "Science Education Design Based on Bloom’s Cognitive Taxonomy: Case Studies and Qualitative Analysis",
+  "context": {
+    "prior_knowledge": "Advanced specialized knowledge in scientific fields and basic grasp of Bloom’s cognitive taxonomy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Office/administrative professionals learn to systematically design science curricula according to Bloom’s cognitive levels. Utilizes asynchronous learning environments with personal devices.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply Bloom’s six cognitive taxonomy levels (remembering, understanding, applying, analyzing, evaluating, creating) to science education design",
+    "Through case studies, learners can explain how to assess cognitive level balance when designing instruction using AI tools (e.g., ChatGPT)",
+    "Learners can evaluate the distribution of cognitive levels in peers' instructional design artifacts using qualitative analysis techniques."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "ChatGPT Access Permissions",
+      "Palestinian 10th-Grade Physics Curriculum Sample",
+      "Case Study Template",
+      "Bloom’s Taxonomy Mapping Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

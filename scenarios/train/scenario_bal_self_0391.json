@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0391",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Learning Analytics Strategies to Enhance MOOC Learning Experiences",
+  "context": {
+    "prior_knowledge": "Basic MOOC platform usage, online learning experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Utilizing smartphone-based learning analytics tools, emphasizing small-group activities and individualized feedback.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can interpret learning analytics data to propose directions for improving MOOC design.",
+    "Learners can design personalized learning strategies based on learner types (systematic sequential/interactive exploratory).",
+    "Learners can utilize a simple analytical tool to track participation in mobile learning environments."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Basic Statistical Analysis Worksheet",
+      "Case Study Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

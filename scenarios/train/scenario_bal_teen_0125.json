@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0125",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] STEM Problem-Solving Project Utilizing Citizen Science Data",
+  "context": {
+    "prior_knowledge": "Basic mathematical and statistical knowledge, data interpretation experience, and fundamental understanding of SDGs (Sustainable Development Goals)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A process applying citizen science project data for real-world problem-solving to mathematical modeling.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Processing data collected from citizen science projects using mathematical analysis tools to perform meaningful statistical inference.",
+    "Defining real-world problems linked to one or more SDGs and proposing solutions through mathematical modeling.",
+    "In groups of three, learners visualize scientific data (e.g., regional temperature distribution) using digital tools (Google Sheets, GeoGebra) and their filter/graph/map functions. They identify three key patterns (e.g., seasonal changes, regional differences) and interpret them in an oral presentation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Citizen Science Project Database Access Permissions",
+      "SDGs-Aligned Educational Resource Package",
+      "Digital Analytics Tool (Graph/Map Generation Software)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

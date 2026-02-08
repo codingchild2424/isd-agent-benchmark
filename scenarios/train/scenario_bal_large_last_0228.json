@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0228",
+  "variant_type": "balance_large_last",
+  "title": "Mobile App-Based Education for Queer History Learning with Sentiment Analysis",
+  "context": {
+    "prior_knowledge": "Basic Understanding of History Education and Digital Literacy",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning utilizing multimedia content in smartphone-centric limited-technology environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can recognize and analyze emotional changes while exploring queer history-related content.",
+    "Learners can accurately explain major historical events and concepts with over 80% accuracy via mobile app-based formative assessments (quizzes).",
+    "Learners can recognize negative emotions (anger, anxiety, etc.) arising during learning and apply strategies to convert them into motivational drivers."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "FaceReader 7 (Facial Expression Analysis Software)",
+      "EyeLink 1000 (Eye Tracker)",
+      "Multimedia Mobile Application",
+      "Digital Content on Queer History",
+      "Partially Balanced Multiple-Choice Quiz"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

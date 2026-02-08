@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2554",
+  "variant_type": "idld_aligned",
+  "title": "Blended Instructional Design Course for Acquiring Ophthalmic Surgical Techniques",
+  "context": {
+    "prior_knowledge": "Basic anatomy, surgical suturing techniques, and foundational knowledge of common ophthalmic conditions",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Hybrid structure combining smartphone-based theoretical learning with monthly in-person practicums in environments with limited lab access. Emphasizes a step-by-step skill acquisition system applying Gagné’s Nine Events of Instruction",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Perform four core ophthalmic surgical skills (corneal suturing, corneal adhesion, intravitreal injection, eyelid suturing) with 90% accuracy",
+    "Reduce surgical step errors by 70% according to Gagné’s nine-stage learning model",
+    "Achieve over 85 points (out of 100) in understanding surgical principles through smartphone-based theoretical learning materials"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible e-learning platform",
+      "Monthly laboratory access privileges",
+      "Low-cost surgical model kit",
+      "Mobile equipment for video recording"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

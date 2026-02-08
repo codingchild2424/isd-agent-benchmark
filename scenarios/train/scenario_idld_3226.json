@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3226",
+  "variant_type": "idld_aligned",
+  "title": "Intensive Short-Term Course on Mobile-Based Educational Website Development",
+  "context": {
+    "prior_knowledge": "Basic web usage skills and foundational knowledge of HTML/CSS",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course to develop web development skills for language learning websites in smartphone-centric limited-technology environments. Evaluates practical skills through project-based assessments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "They can analyze mobile-optimized educational website requirements by applying software engineering methodologies.",
+    "Responsive design principles can be applied to structure effective language learning content in smartphone environments",
+    "Collaborative tools can be utilized to develop an educational website prototype in teams of three and submit project deliverables"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Online Collaboration Tools",
+      "Simple Web Development Tool (e.g., Thimble)",
+      "Open-Source Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4850",
+  "variant_type": "idld_aligned",
+  "title": "Large-Scale Science MOOC Design Applying Evidence-Based E-Learning Principles",
+  "context": {
+    "prior_knowledge": "High School-Level Foundational Science Knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An asynchronous learning environment promoting learner autonomy and interaction, requiring structured design emphasizing content organization and delivery methods",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve an 80% or higher participation rate in MOOCs designed based on e-learning principles",
+    "Learners master key science concepts at 75% or higher proficiency through formative assessments (quizzes, assignments)",
+    "Learners engage in peer interactions at least twice weekly through peer review and discussion forums"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Multimedia content creation tools",
+      "Automated Formative Assessment System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

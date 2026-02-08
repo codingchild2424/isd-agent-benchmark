@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0006",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-directed] Mastering Cryptocurrency Sentiment Analysis: Machine Learning-based Practical Workshop",
+  "context": {
+    "prior_knowledge": "Foundational Programming Understanding (Python/R), Basic Concepts of Statistical Analysis, Fundamental Principles of Cryptocurrency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-oriented course conducted in a smartphone-based mobile learning environment, including a sentiment analysis project utilizing real Twitter data",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners build a machine learning preprocessing pipeline within five steps, collecting over 1,000 tweets via Twitter API, and performing text cleaning (stopword removal, normalization, tokenization) and vectorization (CountVectorizer/TF-IDF) using Python (Pandas, NLTK, etc.).",
+    "Implementing a sentiment analysis model using a predefined sentiment lexicon (8 categories: anger, joy, trust, etc.)",
+    "Visualizing analysis results to create a public sentiment trend report on cryptocurrencies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible RStudio/RShiny Environment",
+      "Emotional Vocabulary Lexicon Dataset",
+      "Twitter API Sample Data Package",
+      "Mobile-Optimized Jupyter Notebooks"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

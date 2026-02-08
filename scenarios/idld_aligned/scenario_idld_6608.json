@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6608",
+  "variant_type": "idld_aligned",
+  "title": "Problem-Based Simulation Education for Enhancing DfAM (Design for Additive Manufacturing) Design Competencies",
+  "context": {
+    "prior_knowledge": "Fundamentals of 3D modeling, engineering design principles, and basic understanding of manufacturing processes",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Current practitioners conducting projects to solve additive manufacturing design optimization problems through simulations in a BYOD environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply DfAM (Design for Additive Manufacturing) principles (subtractive/additive approaches) to simulation tools with over 80% accuracy.",
+    "Learners can derive at least three creative design solutions that reflect manufacturing constraints (minimizing support structures, material efficiency, etc.).",
+    "Learners can improve their DfAM (Design for Additive Manufacturing) self-efficacy by at least 30% through formative assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "DfAM (Design for Additive Manufacturing) Virtual Lab License",
+      "3D Scanning Plugin",
+      "Industrial Design Template Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

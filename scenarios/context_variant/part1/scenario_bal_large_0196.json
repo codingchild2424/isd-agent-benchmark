@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0196",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Fundamentals of Mathematical Modeling for Predicting Molecular Subtypes of Bladder Cancer",
+  "context": {
+    "prior_knowledge": "Basic statistics, matrix operations, and machine learning concepts understanding",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "For job seekers interested in medical data analysis, learning to solve biological classification problems through mathematical approaches.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain mathematical methods for extracting features from medical image data.",
+    "Learners can calculate metrics (accuracy, AUC, etc.) for evaluating classification model performance.",
+    "Learners can design simplified deep learning model architectures executable in resource-constrained computing environments."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible MOOC platform",
+      "Offline workbooks",
+      "Public medical dataset sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

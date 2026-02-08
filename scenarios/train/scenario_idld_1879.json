@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1879",
+  "variant_type": "idld_aligned",
+  "title": "Practical Management of Digital Learning Content and Instructional Design Processes",
+  "context": {
+    "prior_knowledge": "Proficiency in basic digital learning tools and understanding of foundational instructional design theories",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Support for real-time collaborative learning environments using personal devices (BYOD) for corporate language education managers or content developers.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "The digital content design process based on learning scenarios can be explained by dividing it into three or more stages.",
+    "Documentation of personalized learning path designs reflecting learner profiling.",
+    "Implementation of content packaging utilizing metadata based on IEEE/ADL standards.",
+    "Analysis of case studies applying Didactic Structure in the design of web-based interactive activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "SCORM-compliant authoring tool",
+      "Learning Management System (LMS)",
+      "Collaborative whiteboard software",
+      "Digital Content Sample Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

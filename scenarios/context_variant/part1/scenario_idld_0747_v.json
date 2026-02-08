@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0747-V",
+  "variant_type": "context_variant",
+  "title": "Gamification-Based Engineering Education Learning Engagement Sustainability Strategy: Social Motivation and Civic Collaboration System Design",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience, basic understanding of social learning environment design, foundational knowledge of civic engagement and collaborative culture development",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "In smartphone-centric, technology-constrained environments, this course motivates learning through gamification elements. Learners assume roles as administrators/leaders, possessing advanced domain expertise and social relationship management skills. The goal is to foster citizen participation and a collaborative culture within educational institutions, particularly recommending project-based learning (PBL) linked to solving local community issues.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design gamification elements (experience points, badges, leaderboards, etc.) to propose a social motivation strategy maintaining learner engagement over 20% for a 14-week course, including institutional mechanisms for respecting rights and building collaborative relationships among learners.",
+    "Learners can identify the timing of gamification effectiveness decline by analyzing weekly behavioral engagement data and propose three or more social relationship enhancement techniques (collaborative learning, role division, reward sharing), including mandatory community consciousness plans for civic development.",
+    "Learners can write an engineering education prototype design document using mobile game design techniques (quest systems, dynamic rewards, etc.), incorporating three or more interaction mechanisms (e.g., peer assessment, group missions) and two or more community-building strategies (e.g., virtual discussion forums, shared journals). The design passes if it meets four or more of five corporate evaluation rubric items (functionality, creativity, feasibility), with mandatory inclusion of a social responsibility criterion."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Virtual Learning Environment (VLE)",
+      "Weekly Engagement Analysis Template",
+      "Gamification Design Tool (e.g., Gamification Co-Design Canvas)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

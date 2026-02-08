@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-MEDIUM-0391",
+  "variant_type": "balance_medium_scale",
+  "title": "Short-Term Course for Online Mathematics Educational Material Development and Teacher Capacity Building: Integrated Design of Calculations, Formulas, and Graphs",
+  "context": {
+    "prior_knowledge": "Experience with basic mathematics pedagogy and digital tools, understanding of elementary mathematics curriculum (formulas, geometry, measurement, probability, statistics, etc.)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended learning environment emphasizing the use of OER (Open Educational Resources) and integration of VLE (Virtual Learning Environment) tools for elementary mathematics curriculum alignment. It focuses on developing digital materials for core math areas (calculation problems, geometric figures, data analysis) and visualizing proof and problem-solving processes.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participating teachers can produce and utilize 3+ OERs for math education (equation solving, graph analysis, statistical data) within a week.",
+    "Applying a feedback-based assessment system, teachers will achieve an 85%+ peer review completion rate with colleagues and be evaluated on their ability to provide specific feedback on problem-solving processes.",
+    "Learners can design three or more mathematics educational materials using VLE tools (QuizMaker, LMS) and external OER, with each material including at least two mathematical expressions (e.g., LaTeX) and one graph generation feature (e.g., GeoGebra), and submit outcomes meeting at least four of the five evaluation rubric criteria.",
+    "Learners acquire the ability to visually represent learning achievements using a digital badge system and design competency badges for specific mathematical concepts (e.g., equations, probability, statistics)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS account",
+      "OER Authoring Tools (Canva, H5P, etc.)",
+      "Rubric Template",
+      "Digital Badge Issuance System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

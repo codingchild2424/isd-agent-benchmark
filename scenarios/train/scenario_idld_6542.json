@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6542",
+  "variant_type": "idld_aligned",
+  "title": "Distance Class Design and Effectiveness Analysis for Nursing Education",
+  "context": {
+    "prior_knowledge": "Basic nursing theory and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended learning environment combining in-person and remote instruction. Requires real-time lecture participation and project execution via personal devices.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners propose strategies for effectively acquiring nursing theory and practical skills in remote education environments.",
+    "Learners design methods to compensate for the limitations of remote education using nursing practice simulation tools.",
+    "Learners analyze survey data to evaluate readiness for and effectiveness of remote education and write a report."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom or Similar Platforms",
+      "Online Learning Management System (LMS)",
+      "Nursing Practice Simulation Software",
+      "Survey Tool (e.g., Google Forms)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

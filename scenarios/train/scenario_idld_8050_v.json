@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8050-V",
+  "variant_type": "context_variant",
+  "title": "AI Practical Competency Enhancement: Peer Learning and Project-Based Computer Graphics Workshop",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can improve the completeness of computer graphics projects by at least 80% through peer feedback",
+    "Learners complete small-scale team projects within a week, present outcomes, and conduct peer evaluations based on a rubric",
+    "Learners proactively engage in technical problem-solving communication with peers at least three times using smartphone apps"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

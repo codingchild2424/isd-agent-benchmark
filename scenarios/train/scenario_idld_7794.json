@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7794",
+  "variant_type": "idld_aligned",
+  "title": "Analysis of Gamification's Impact on Sustained MOOCs Usage and Learning Outcomes",
+  "context": {
+    "prior_knowledge": "Basic MOOCs usage and foundational mathematical problem-solving skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A project-based course analyzing learner engagement and sustained usage intentions through a gamified math MOOC platform.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze the impact of gamification elements on MOOCs user experience through structural modeling",
+    "The impact of interface design aesthetics on learning immersion (flow experience) can be evaluated.",
+    "Learner behavior data based on the Expectation-Confirmation Model (ECM) can be collected and applied to PBL activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Gamification platform license",
+      "Learning Analytics Tools (Google Analytics, LMS Data)",
+      "Survey Template",
+      "Digital Whiteboard and Collaboration Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

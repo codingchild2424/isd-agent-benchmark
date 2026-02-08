@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6171-V",
+  "variant_type": "context_variant",
+  "title": "Interaction-Based Learning Design in Online Educational Environments",
+  "context": {
+    "prior_knowledge": "Basic knowledge of online learning platform usage and digital literacy",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners engage in weekly face-to-face classes combined with online activities, with discussion boards and video content as primary learning resources. Interactions among instructors, learners, and peers are emphasized as core elements of learning outcomes",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can distinguish and explain the three dimensions of the Community of Inquiry (CoI) framework: teaching, cognitive, and social presence.",
+    "Learners can participate in and perform collaborative problem-solving activities with peers via online discussion boards at over 80% engagement.",
+    "Learners can predict learning outcomes by analyzing the correlation between video content viewership and discussion participation rates."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS (Learning Management System)",
+      "Video Production Tools",
+      "Real-Time Video Conferencing System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

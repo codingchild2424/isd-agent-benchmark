@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4743-V",
+  "variant_type": "context_variant",
+  "title": "Practical Application of Internet-Based Programs for Science Education",
+  "context": {
+    "prior_knowledge": "Elementary internet utilization skills and knowledge of science curriculum content",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A practice-oriented graduate course for advanced science professionals, delivered asynchronously via LMS. Learners receive digital devices to focus on utilizing internet-based science education materials and instructional design.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can search educational resources using scientific databases such as CIESIN.",
+    "Learners can complete the science curriculum design process by integrating internet-based tools.",
+    "Learners can evaluate educational suitability by applying digital resource assessment criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CIESIN Database Access Permissions",
+      "Internet-Based Toolkit for Science Education",
+      "LMS platform",
+      "Digital Training Devices"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2183-V",
+  "variant_type": "context_variant",
+  "title": "Advanced Microeconomics Foundations Course Based on Partial Flipped Learning",
+  "context": {
+    "prior_knowledge": "High school-level economics fundamentals and mathematics basics (function and graph interpretation skills)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A competency-enhancement course for pre-service or in-service teachers. Project-based assessment process operating in smartphone-centric limited technological environments. Learners are experienced working adults and advanced learners interested in solving real-life economic problems",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Learners can analyze regional agricultural market price fluctuation scenarios using supply-demand models",
+    "Learners can write reports explaining personal consumption choice cases by applying marginal utility theory",
+    "Learners can design and execute negotiation simulation projects utilizing game theory concepts"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "PDF-Based Lecture Materials",
+      "Simple Economic Simulation Mobile App",
+      "Offline workbooks"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

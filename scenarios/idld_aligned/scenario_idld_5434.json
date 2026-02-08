@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5434",
+  "variant_type": "idld_aligned",
+  "title": "CoI-Based Collaborative Learning Design for Online Language Acquisition",
+  "context": {
+    "prior_knowledge": "Basic Language Proficiency and Experience with Online Learning Tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended course promoting collaborative learning in smartphone-based limited-technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners write three or more questions/feedback expressing social presence using an online discussion platform.",
+    "Learners generate two or more argumentative responses demonstrating cognitive presence while collaborating with peers to solve language tasks.",
+    "Learners develop at least one collaborative learning strategy to overcome technical constraints with instructor guidance."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Synchronous/Asynchronous Communication Tools",
+      "Open-Source Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

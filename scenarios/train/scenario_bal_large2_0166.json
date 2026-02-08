@@ -1,0 +1,40 @@
+{
+  "scenario_id": "BAL-LARGE2-0166",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Large-Scale Adult English Learning Motivation and Achievement Enhancement Program Using AI Hybrid Instructional Methods",
+  "context": {
+    "prior_knowledge": "Basic English vocabulary and grammar comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "AI tool-integrated lessons using digital devices, with learning outcomes measured through project-based assessments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can set weekly goals and establish study plans using AI tools.",
+    "Learners incorporate writing feedback from an automated essay evaluation system at a rate of over 80%.",
+    "Learners can improve pronunciation accuracy by 30% using AI speech recognition tools.",
+    "Over six months, learners demonstrate B1-level (CEFR) communication skills (pronunciation, grammar, fluency) in one workplace English presentation and two community English interviews (total three instances). They submit a project report achieving \"satisfactory\" or higher in four of five rubric items (pronunciation, grammar, fluency, vocabulary diversity, cultural appropriateness).",
+    "Learners can increase their learning motivation index by over 25% through self-efficacy surveys."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PC or Laptop (1:1 Device)",
+      "Automated Writing Evaluation Software",
+      "AI Speech Recognition Platform",
+      "Chatbot-Assisted Learning System",
+      "Offline Instructional Materials (Workbook)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

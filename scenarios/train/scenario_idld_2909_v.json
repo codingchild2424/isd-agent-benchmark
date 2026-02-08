@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2909-V",
+  "variant_type": "context_variant",
+  "title": "Competency-Based Congenital Cardiology Practitioner Training Program",
+  "context": {
+    "prior_knowledge": "Basic cardiology knowledge and clinical practice experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-time interactive learning in digital device-provided environments, with project-based assessments to strengthen practical skills",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze congenital heart disease diagnostic protocols and design patient-specific application strategies",
+    "Learners can enhance clinical decision-making skills through EPAs (Entrustable Professional Activities)-based scenarios",
+    "Learners can apply critical thinking to complex cardiology problems using self-directed learning strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D heart modeling software",
+      "Real-Time Video Conferencing Tool",
+      "Electronic medical record simulation system",
+      "Collaborative Learning Management Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

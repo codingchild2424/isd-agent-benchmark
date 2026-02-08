@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5694-V",
+  "variant_type": "context_variant",
+  "title": "Programming Practical Competency Enhancement: Technology Integration Competency Development Program for Prospective Mathematics Teachers",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Preservice teachers can explain how to use three or more digital tools (apps, web tools, etc.) suitable for math lesson design.",
+    "Learners can create a technology-integrated lesson plan implementable in a mobile environment and incorporate peer feedback.",
+    "Trainees can design project-based assessment models utilizing technology-based math assessment tools (quiz apps, collaboration platforms, etc.)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

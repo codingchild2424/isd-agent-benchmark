@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2465",
+  "variant_type": "idld_aligned",
+  "title": "Gamification-Based Military Trauma Management Simulation Training",
+  "context": {
+    "prior_knowledge": "Basic military medical knowledge and trauma assessment experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Aimed at enhancing decision-making skills in resource-limited environments, with an emphasis on team-based collaboration simulations. Learners train under pressure similar to real-world scenarios using VR and interactive scenario tools.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Perform three-tier triage with 90% accuracy in resource-constrained settings.",
+    "Collaborate with team members to apply major trauma treatment protocols within 15 minutes via a gamification simulation.",
+    "Develop a strategy to improve virtual patient survival rates by 20% based on simulation results and submit it as a portfolio."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Platform",
+      "Interactive Digital Scenarios",
+      "LMS-Integrated Game Reporting System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

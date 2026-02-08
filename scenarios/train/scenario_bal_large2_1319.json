@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-1319",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Practical Applications of Transfer Learning and Data Augmentation for Medical Image Classification",
+  "context": {
+    "prior_knowledge": "Basic Python programming and foundational deep learning concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-centered training to develop competencies in image processing techniques and classification model design reflecting medical data characteristics",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can implement a transfer learning-based medical image classification model using ResNet50 and VGG-16 within 6 months, achieve ≥85% Top-1 accuracy on public medical image datasets (e.g., CheXpert, MIMIC-CXR), and submit a performance comparison analysis report.",
+    "Learners can apply data augmentation techniques (rotation, resizing, brightness adjustment) and preprocessing (noise removal, contrast enhancement, Canny edge detection) to small image datasets (<1,000 images) within 6 months, improve model accuracy by ≥15%, and submit experimental results as a report.",
+    "Learners can implement a hybrid model combining SVM classifiers with LSTM/Transformer-based deep learning models on 5 public datasets, achieve ≥85% average accuracy via 5-fold cross-validation, and demonstrate ≥5% performance improvement over single models through hyperparameter tuning.",
+    "Learners can calculate performance metrics (accuracy, sensitivity, AUC) for a medical image classification model (based on lung cancer CT image datasets), explain ≥3 clinical implications of each metric, and propose 2 model improvement strategies based on analysis."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based deep learning framework (TensorFlow/Keras)",
+      "Medical imaging dataset (ISIC 2017, etc.)",
+      "Jupyter Notebook Environment",
+      "GPU-accelerated hardware"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

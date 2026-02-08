@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0252",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Analysis of Trends in Large-Scale Distance Education and Application of Text Mining Techniques",
+  "context": {
+    "prior_knowledge": "Basic statistical knowledge and general understanding of educational technology trends",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for professionals analyzing trends in distance education research through text mining. Includes practical sessions using digital devices (laptops/tablets).",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the chronological evolution (7 stages) of major themes in distance education research from 1980–2014.",
+    "Learners can extract keyword patterns from academic paper abstracts using text mining tools (e.g., Leximancer).",
+    "Learners can propose three practical strategies applicable to real-world instructional design based on trends in distance education research."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Distance Education Journal Article Dataset (1980–2014)",
+      "Leximancer License",
+      "Text Mining Tutorial Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

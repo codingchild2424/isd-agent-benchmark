@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1967-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Competencies: Language Proficiency Enhancement Program in an Ecological Network Learning Environment",
+  "context": {
+    "prior_knowledge": "Basic digital device proficiency and elementary-level language comprehension skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners expand their basic vocabulary by 30% or more through collaborative language activities in an ecological network environment.",
+    "Learners achieve 80% or more of weekly learning goals using digital platforms and face-to-face sessions.",
+    "Learners will complete a 6-month conversational AI chatbot design project addressing public-sector real-world problems (e.g., civil complaint automation, community information systems). They will achieve an \"excellent\" rating in ≥4 of 5 evaluation categories: problem definition clarity, technical implementation completeness, user convenience, social impact, and sustainability."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

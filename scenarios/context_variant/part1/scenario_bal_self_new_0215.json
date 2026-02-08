@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0215",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Intensive Short-Term Multimedia Programming Course Using VoiceBot",
+  "context": {
+    "prior_knowledge": "Elementary programming comprehension and media content production experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Work-applicable, practice-focused training for current professionals utilizing personal devices in BYOD environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately explain multimedia programming problem-solving procedures using VoiceBot with over 80% accuracy.",
+    "Learners can complete HTML5/CSS3-based interactive media projects while receiving real-time feedback through a voice interface.",
+    "Learners can propose designs for conversational learning tools applicable to educational settings based on their interactive experiences with VoiceBot."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VoiceBot Platform License",
+      "Multimedia Development Tools (Adobe Animate, etc.)",
+      "Practice Sample Dataset",
+      "Offline Collaboration Board"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

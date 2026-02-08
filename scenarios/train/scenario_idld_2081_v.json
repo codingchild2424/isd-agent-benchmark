@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2081-V",
+  "variant_type": "context_variant",
+  "title": "Short-Intensive Instructional Design Course Utilizing AI-Based Learning Analytics",
+  "context": {
+    "prior_knowledge": "Basic instructional design theory (ADDIE model) and foundational data analysis skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short-term program for professionals in medical/legal/technical sectors to integrate AI-driven learning analytics into instructional design via mobile devices",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply AI-based learning analytics to each phase of the ADDIE model (Analysis, Design, Development, Implementation, Evaluation).",
+    "Learners can design personalized microlearning content by collecting and analyzing learning data.",
+    "Learners can establish formative assessment-centered instructional design strategies in mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS (Learning Management System)",
+      "Mobile Learning App",
+      "Learning Analytics Tool API"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

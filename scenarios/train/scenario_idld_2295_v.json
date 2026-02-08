@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2295-V",
+  "variant_type": "context_variant",
+  "title": "Nutritional Research Data Analysis Protocol Design and Implementation",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended learning environment using digital devices and LMS. Students learn via pre-recorded video lectures and practical modules online, followed by weekly offline sessions for case analysis and feedback.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can select appropriate data analysis methodologies and design protocols for nutrition experiments/observational studies",
+    "Students can perform exploratory data analysis (EDA) and statistical analysis on real-world nutrition datasets",
+    "Students can apply appropriate analytical techniques (e.g., regression analysis/clustering analysis) based on research questions and interpret results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook-based practice environment",
+      "Virtual Dataset Package (for Nutrition Experiments/Observational Studies)",
+      "Interactive Learning Module (Including Quizzes, Simulations)",
+      "LMS (Learning Progress Tracking System)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

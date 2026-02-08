@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-0351",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Project Designing a Mathematics-based Problem-Solving Program for Stroke Patient and Family Care Education",
+  "context": {
+    "prior_knowledge": "General knowledge of basic medical concepts and instructional design, middle school-level math proficiency (algebra, geometry, basic statistics), experience in graph interpretation and application of simple equations",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Math-based medical education design project using collaborative inquiry (CI) and the ADDIE model in smartphone-limited environments. Focuses on real-life problem-solving: graph interpretation for patient rehabilitation data, medication timing calculations, probability-based rehabilitation success rate predictions. Learners develop integrated medical-mathematical problem-solving skills and create educational materials applicable to real patient care scenarios.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design and implement a learner-level diagnostic tool for analyzing stroke patient rehabilitation data, assessing basic arithmetic skills and foundational statistical concepts.",
+    "In 3-member teams, learners use Collaborative Inquiry (CI) methodologies (brainstorming, role division, feedback loops) to derive requirements for 5+ math-based problem-solving educational programs (probability calculations, statistical analysis, graph interpretation, equation applications, etc.) and produce a 1–2-page report within a week that meets at least two of three checklist criteria (clarity, feasibility, pedagogical value).",
+    "Develop 4 sessions of math-based rehabilitation education content (e.g., patient status tracking graphs, medication timing calculation tables, probability-based rehabilitation success rate prediction models) following the Analysis-Design-Development stages of the ADDIE model.",
+    "Learners create two smartphone-compatible PDFs (rehabilitation log template, calculation practice worksheet) and one video (statistical graph interpretation methods and equation application examples), meeting file size (PDF ≤ 10MB, video ≤ 50MB) and resolution (video ≥ 720p) standards, and complete math education materials that satisfy at least four of five peer evaluation checklist items (accuracy, creativity, practicality, data interpretation skills, appropriate formula application).",
+    "During a week-long project-based assessment, learners provide peers with ≥3 specific feedbacks (e.g., suggestions for correcting mathematical errors, improving graph interpretation) and write a daily self-reflection journal recording ≥2 areas for improvement (formula application errors, data interpretation errors, graph analysis errors) in the mathematical problem-solving process."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Zoom Account",
+      "Smartphone-compatible Educational Authoring Tools (Canva, CapCut)",
+      "Online Collaboration Tools (Google Docs, Padlet)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

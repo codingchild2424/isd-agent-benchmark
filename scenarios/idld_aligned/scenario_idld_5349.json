@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5349",
+  "variant_type": "idld_aligned",
+  "title": "Flexible Blended Learning-Based Program for Enhancing Workplace Mathematics Competencies",
+  "context": {
+    "prior_knowledge": "High school-level mathematics fundamentals and basic job-related calculation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized design reflecting working learners' schedules and learning needs. Provision of a practical problem-solving environment through VR simulation",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze real-world work scenarios in a VR environment and apply mathematical modeling techniques.",
+    "Learners can autonomously combine online content (60%) and face-to-face workshops (40%) to develop a blended learning plan.",
+    "Through team-based project assessments, learners can solve data analysis problems encountered in work settings using mathematical methods and write reports."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "LMS (Learning Management System)",
+      "Simulation Software License",
+      "Online Lecture Production Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0450",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Simulation-Based Educational Program for Nursing Care Tracking in Peripheral Artery Disease Patients",
+  "context": {
+    "prior_knowledge": "Understanding of basic nursing principles and foundational concepts of chronic disease management",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Patient care scenario learning in a VR environment replicating actual clinical situations",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Identify pathological symptoms and risk factors of peripheral artery disease with ≥80% accuracy.",
+    "Develop and implement patient-specific follow-up care plans (medication management, wound observation) in VR simulation environments.",
+    "Use digital platforms (e.g., Padlet, Google Classroom) to design a patient-family-nurse role-assignment simulation project and submit a team project report meeting ≥4 of 5 collaboration checklist criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment",
+      "Mobile Application Prototype",
+      "Patient case database",
+      "Collaborative learning platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

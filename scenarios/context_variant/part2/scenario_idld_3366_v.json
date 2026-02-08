@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3366-V",
+  "variant_type": "context_variant",
+  "title": "Secondary Mathematics and Language Integrated Education Design Project Utilizing AR Technology",
+  "context": {
+    "prior_knowledge": "Intermediate-level specialized knowledge and problem-solving skills, proficiency in basic mathematical terminology and graph interpretation, and ability to comprehend fundamental technical texts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners assume expert roles (technical fields) and use AR creation tools to design and evaluate math problem-solving scenarios. Digital devices (tablets/smartphones) and AR platforms (HP Reveal/Blippar) are provided, requiring clear linguistic expression (formulas, graph descriptions, report writing) in mathematical modeling. Evaluation considers both mathematical accuracy and linguistic clarity.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Enhancing spatial perception and problem-solving skills using mathematical representations (graphs, equations) by creating and manipulating 3D geometric models with AR technology.",
+    "Through PBL team collaboration (3–4 members), learners select one real-world problem (building design or data visualization), develop a mathematical model with over 80% completeness following a given framework (problem definition → variable extraction → formulation → validation), and achieve at least 3 points (out of 4) on peer/teacher evaluation checklists (clarity, logic, applicability). Additionally, they must use precise mathematical terminology and logical expressions during model development.",
+    "After conducting formative assessments (quizzes, observation checklists) on three AR contents, learners write an educational effectiveness analysis report achieving at least 4 points (5-point scale) in interactivity and intuitiveness. The report must include mathematical analysis results and clear linguistic expression (vocabulary, grammar, logical flow)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet device",
+      "AR Creation Software (HP Reveal/Blippar)",
+      "3D Modeling Templates",
+      "Mathematics Problem Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

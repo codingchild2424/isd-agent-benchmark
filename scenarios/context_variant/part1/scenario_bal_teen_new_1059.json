@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1059",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Science Education Module Design Using Integrated Content Modeling",
+  "context": {
+    "prior_knowledge": "Intermediate-Level Scientific Theories and Basic Experimental Techniques",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Design and implementation of science education modules using VR simulations in smartphone-based limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design the structure (concepts, activities, assessments) of science education modules by applying integrated content modeling techniques.",
+    "Learners can develop science content that integrates theory and practice in VR simulation environments and apply it to real-world problem-solving.",
+    "Learners can validate the effectiveness and reusability of developed educational modules through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Open-Source Content Authoring Tool",
+      "Cloud-based Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

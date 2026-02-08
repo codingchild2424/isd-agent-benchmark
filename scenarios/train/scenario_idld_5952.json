@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5952",
+  "variant_type": "idld_aligned",
+  "title": "SPAT-Based Mobile Social Learning Content Design",
+  "context": {
+    "prior_knowledge": "Basic Social Studies Learning Experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Mobile device-based microlearning of social studies content in BYOD environments, utilizing SPAT-formatted content (integrating static images, audio, and text).",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately explain core concepts of social studies (democracy, human rights, cultural diversity, etc.) with over 80% accuracy through SPAT-formatted mobile content",
+    "Learners can analyze the causes and effects of historical events in a three-stage structure using 5-minute SPAT content in a microlearning environment",
+    "Learners can write a 200-character comparative analysis of social phenomena based on SPAT materials provided on mobile devices"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible SPAT Creation Tool",
+      "Copyright-Cleared Image/Audio Resources",
+      "Learning Management System (LMS) integration"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

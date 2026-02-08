@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6258-V",
+  "variant_type": "context_variant",
+  "title": "Model-Based Learning Design Development Process",
+  "context": {
+    "prior_knowledge": "Understanding of basic learning design concepts and proficiency in using digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A systematic course for managers/leaders aged 40+ to master model-based approaches for designing social-context learning processes. Conducted through blended sessions (50% online, 50% offline).",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Can analyze and apply the core elements of a learning design model (learner activities, resources, interactions).",
+    "A learning design model utilizing Domain-Specific Language (DSL) can be created and converted into a common learning environment format.",
+    "The effectiveness of model-based learning design can be continuously improved by utilizing formative assessment tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Design Template",
+      "DSL-based authoring tool",
+      "LMS integration module",
+      "Formative assessment checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

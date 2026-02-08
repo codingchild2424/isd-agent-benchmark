@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6728",
+  "variant_type": "idld_aligned",
+  "title": "Individualized Instructional Design for Improving English Proficiency and Mathematical Problem-Solving Abilities",
+  "context": {
+    "prior_knowledge": "Basic English Reading Comprehension and Arithmetic Skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course focused on improving practical problem-solving skills required in social domains for learners who are current practitioners. It provides individualized feedback in digital device-based online learning environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners accurately interpret English-presented math problems related to social issues and achieve an 80%+ accuracy rate",
+    "Learners apply math problem-solving strategies through personalized learning paths tailored to their English proficiency levels",
+    "Learners analyze formative assessment results to identify at least two areas of weakness and establish improvement plans"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "English proficiency-level-based math problem dataset",
+      "Automated Formative Assessment System",
+      "Individual learning dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0419",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Discovery learning-based digital literacy e-learning program for strengthening scientific inquiry skills",
+  "context": {
+    "prior_knowledge": "Basic digital device usage skills, foundational secondary science curriculum knowledge (experimental design, observation, measurement, data analysis), and understanding of the scientific inquiry process",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended e-learning environment for digital literacy education integrated with science curricula. Learners engage in project-based learning by combining scientific inquiry methods (observation, hypothesis formation, experimental design) with digital tools. Digital devices are institutionally provided, with emphasis on scientific analysis and evidence collection during the learning process.",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can critically evaluate science-related online information sources, select experimental data and evidence-based materials, and apply them to digital content creation",
+    "Learners can design interactive science education games using web-based tools and implement game mechanics reflecting variable control and hypothesis verification",
+    "Learners can operate peer feedback systems using digital collaboration tools (e.g., Google Workspace) during project execution and share scientific analysis results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account",
+      "Google Workspace for Education License",
+      "Web Game Development Platform (Scratch/Construct) Access Permissions",
+      "Science Education Resource Database (e.g., DBpia/KISS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

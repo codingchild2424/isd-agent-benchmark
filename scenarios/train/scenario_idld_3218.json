@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3218",
+  "variant_type": "idld_aligned",
+  "title": "STEM-Based 2D Shape Design Simulation: Parachute Optimization Project",
+  "context": {
+    "prior_knowledge": "Basic geometry (area, symmetry, ratio calculations) and understanding of physical forces",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners utilize BYOD tablets/laptops and perform real-time fall simulations via VR headsets, with an emphasis on team-based problem-solving activities",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can quantitatively analyze the effects of area and suspension line length on falling speed through experiments with various square parachute designs.",
+    "Learners can explain geometric transformations of 2D shapes by implementing rectangles (including rectangles, rhombuses, etc.) of the same area in a VR environment.",
+    "Learners can derive optimal parachute designs based on simulation data and write reports connecting them to scientific principles."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software License",
+      "3D-Printed Parachute Model Kit",
+      "Parachute Dynamics Data Analysis Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

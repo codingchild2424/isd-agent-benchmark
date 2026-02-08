@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7704-V",
+  "variant_type": "context_variant",
+  "title": "Intensive Short-Term Flipped Learning Course for Strengthening Mathematical Competencies",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended environment combining smartphone-based pre-learning materials with offline problem-solving sessions, emphasizing practical mathematical applications for job seekers.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply mathematical concepts (partial differentiation, matrix operations) to real-world problems with over 85% accuracy.",
+    "Learners can successfully present complex mathematical problem-solving strategies three or more times through peer feedback and instructor coaching.",
+    "Learners complete over 90% of pre-learning video content and achieve over 70 points on online quizzes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "3-Minute Summary Video Production Kit",
+      "Worksheets for Offline Group Activities"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

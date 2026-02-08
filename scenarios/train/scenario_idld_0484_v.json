@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0484-V",
+  "variant_type": "context_variant",
+  "title": "Data-Driven Programming e-Learning: Predictive Modeling of Learner Engagement",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized programming education program conducted in smartphone-based limited-technology environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze the correlation between behavioral data collected from e-learning platforms and self-reported engagement data",
+    "Learners can develop a predictive model using artificial neural networks to classify learner engagement levels into three tiers (low/medium/high)",
+    "Learners can apply engagement prediction results to PBL projects for personalized learning design"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Programming E-Learning Platform",
+      "Mobile Data Collection Tool",
+      "Python-Based Machine Learning Library",
+      "Learning Engagement Survey Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

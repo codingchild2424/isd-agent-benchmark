@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5117",
+  "variant_type": "idld_aligned",
+  "title": "Software-Utilized Education for Scientific Problem Solving",
+  "context": {
+    "prior_knowledge": "Basic computer and smartphone usage skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Intensive learning of contextually appropriate software tool utilization for solving science-related practical tasks",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Ability to design data analysis processes using spreadsheet tools for solving real-world scientific problems",
+    "Simulation software can be used to visually represent and interpret complex scientific phenomena",
+    "Collaborative tools enable sharing project outcomes with peer learners and incorporating feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Data Sample Set",
+      "Open-source Simulation Software",
+      "Collaborative Platform Account"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

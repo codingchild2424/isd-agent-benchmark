@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3727",
+  "variant_type": "idld_aligned",
+  "title": "Blended Training Program Based on the DECODE Model for STEM Teachers' Professional Development",
+  "context": {
+    "prior_knowledge": "Basic STEM Education Theory and Subject Matter Knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A program for pre-service/in-service teachers to develop integrated competencies in technology, subject matter, and pedagogical methods within a virtual reality environment. Includes provision of digital devices and application of project-based assessment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "By utilizing the three stages of the DECODE model (demonstration → collaborative design/instruction → reflection), learners can design VR-based STEM lessons with over 80% accuracy.",
+    "Learners can develop instructional materials integrating Technological Pedagogical Content Knowledge (TPACK) using simulation tools and revise them at least twice based on peer feedback.",
+    "Learners can design and apply at least three types of interactive activities to enhance engagement in VR environments to actual lessons."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software",
+      "Digital Devices (Tablet/Laptop)",
+      "Teacher's Manual Hardcopy",
+      "Online Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

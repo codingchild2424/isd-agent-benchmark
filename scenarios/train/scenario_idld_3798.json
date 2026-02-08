@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3798",
+  "variant_type": "idld_aligned",
+  "title": "Cognitive Load Monitoring-Based Effective Video Learning Design",
+  "context": {
+    "prior_knowledge": "Fundamental cognitive load theory and video-based learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Exploration of instructional design methods to enhance learning efficiency in offline environments using smartphones and simple eye-tracking tools.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify optimal learning segments by monitoring cognitive load levels in real-time for specific sections of video lectures",
+    "Learners can classify at least three cognitive load patterns based on learners' prior knowledge and task complexity",
+    "Learners can propose task difficulty adjustment strategies by applying cognitive load theory when designing video lectures"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Lecture Video Sample",
+      "Eye-Tracking Device (Smartphone-Compatible)",
+      "Learning Activity Worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

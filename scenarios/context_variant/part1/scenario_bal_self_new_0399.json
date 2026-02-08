@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0399",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-directed] Universal Design for Inclusive Mathematics Education",
+  "context": {
+    "prior_knowledge": "Understanding Basic Mathematical Concepts and Experience with Digital Learning Tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A mathematics application development course for aspiring professionals in medical/legal/technical fields, with inclusive environment design as a core requirement to accommodate learners with diverse social identities.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design mathematics education modules that consider diverse social backgrounds—such as gender identity and sexual orientation—by applying UID principles.",
+    "Learners can create microlearning content that minimizes accessibility barriers in mobile environments.",
+    "Learners can understand the concept of intersectionality and apply it to interdisciplinary mathematics problems."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Responsive Web Design Tool",
+      "Accessibility Validation Software",
+      "Social Diversity Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

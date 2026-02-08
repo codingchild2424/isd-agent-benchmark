@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2881-V",
+  "variant_type": "context_variant",
+  "title": "Design and Evaluation of an E-Learning Module on Medical Research Methodology",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge and understanding of research methodologies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "eLearning module operation competency enhancement program for healthcare institution administrators/leaders. Self-directed learning via simulation and VR in digital device-provided environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners acquire the competency to design medical research methodology education content using e-learning modules.",
+    "Applying interactive content development skills (3D modeling, user interaction design) in simulation/VR environments (e.g., Unity, Unreal Engine), learners create two or more educational modules achieving over 80% learner engagement (based on surveys) within six months",
+    "Learners develop three types of measurement tools (pre/post-tests, practical evaluations, project reviews) to assess science-related job competencies (experimental design, data analysis, report writing) according to corporate comprehensive evaluation systems within six months, and execute processes achieving over 80% evaluator agreement",
+    "Learners acquire methods to analyze the effectiveness of e-learning modules through learner perception surveys."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Articulate Studio Software",
+      "Digital devices",
+      "Online survey platform",
+      "VR Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

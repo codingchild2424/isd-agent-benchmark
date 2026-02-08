@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7377",
+  "variant_type": "idld_aligned",
+  "title": "Science Professional Competency Enhancement Program Utilizing Degree Apprenticeship",
+  "context": {
+    "prior_knowledge": "Possession of foundational scientific theory and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Provides integrated academic-vocational education for learners aiming to enter medical, legal, and technical professions. Operates on a flexible schedule in self-directed learning environments using digital devices. Learning outcomes are continuously monitored through formative assessments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners integrate scientific theory and practical skills via an apprenticeship model to resolve professional workplace scenarios.",
+    "Learners can independently analyze science-related professional problems and propose feasible solutions using digital tools.",
+    "Learners improve collaboration and decision-making skills in science-related professional fields by incorporating feedback through formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science laboratory equipment",
+      "Workplace-integrated case study database",
+      "Digital Learning Platform Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

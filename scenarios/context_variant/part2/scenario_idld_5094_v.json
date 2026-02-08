@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5094-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Virtual Collaborative Learning Design for Online Science Education",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners design collaborative tasks based on science education scenarios using narrative inquiry methods.",
+    "Learners implement virtual collaborative learning environments based on situated learning theory using LMS-based tools.",
+    "Learners upload mobile-accessible project deliverables (app prototype/demo video) to GitHub or Figma, collect ≥5 specific feedback items from ≥3 peers, and document ≥2 iterative improvements based on feedback"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

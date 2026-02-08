@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0017",
+  "variant_type": "balance_self_filtered",
+  "title": "Extended TAM-Based Educational Design to Enhance E-Learning Acceptance and Satisfaction During the Pandemic [Self-Directed]",
+  "context": {
+    "prior_knowledge": "Experience with foundational online learning tools (e.g., Zoom) and secondary-level science subject knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "E-learning adaptability enhancement program for pre-service/in-service teachers in a smartphone-centric limited-technology environment",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain e-learning acceptance factors by analyzing core elements of the extended TAM model (technology efficacy, work-life quality, etc.)",
+    "Learners design three e-learning activities executable on low-spec smartphones (Android 8+, 2GB+ RAM) and offline environments within a one-week intensive course. They achieve an average of 4+ points (out of 5) on a peer evaluation rubric (content suitability, technical accessibility, educational effectiveness).",
+    "Learners can develop and submit as a project outcome an e-learning satisfaction measurement tool reflecting extended TAM factors"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible Zoom account",
+      "Online survey tools (Google Forms, etc.)",
+      "PLS-SEM analysis sample data",
+      "Low-bandwidth e-learning content template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

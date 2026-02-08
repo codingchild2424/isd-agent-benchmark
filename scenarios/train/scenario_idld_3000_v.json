@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3000-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Software Development Practical Competencies: Z-Generation Nurse-Tailored Simulation/VR Nursing Education Course",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can handle complex patient scenarios in a VR simulation environment with over 80% accuracy.",
+    "Learners can improve individual nursing skill deficiencies within three attempts using a personalized feedback system.",
+    "Learners achieve over 90% efficiency in real-time problem-solving with peer learners using digital collaboration tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

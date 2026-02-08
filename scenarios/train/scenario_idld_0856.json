@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0856",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Collaborative Competency Assessment and Improvement Program",
+  "context": {
+    "prior_knowledge": "Experience with basic simulation tools and foundational understanding of social issues",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Completed setup of a real-time location tracking and behavior analysis data collection environment using digital devices.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can accurately evaluate team collaboration efficiency by analyzing spatial movement patterns in a simulation environment with over 80% accuracy.",
+    "Learners can propose three or more strategies to improve their work processes based on location data analysis results.",
+    "Participants can write reports explaining the correlation between spatial behavioral characteristics and team performance during simulation tasks."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Indoor Position Tracking System",
+      "Simulation-Based Learning Platform",
+      "Learning Analytics Tools",
+      "Team Activity Log Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

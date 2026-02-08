@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3956-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening deep learning practical competencies: Culture-based geometric learning design: Invention-type ethnomathematics with GeoGebra",
+  "context": {
+    "prior_knowledge": "Basic geometric concepts understanding and fundamental smartphone operation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze geometric principles found in traditional cultural heritage (e.g., hanok, traditional patterns) with 85% accuracy",
+    "Learners can reconstruct and transform geometric shapes in 3D using Geogebra tools in VR-based simulation environments",
+    "Learners can complete geometry problem-solving projects reflecting cultural contexts with 90% completion through collaborative learning"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

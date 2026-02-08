@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2399-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design Based on Teaching Presence for Forming Online Mathematics Learning Communities",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Provision of digital devices (tablets/laptops), enhanced math problem-solving and discussion-based activities, with synchronous/asynchronous interaction",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners perform collaborative problem-solving with peers at least three times per week on online discussion platforms",
+    "Learners achieve an 80%+ feedback incorporation rate from instructors through formative assessments",
+    "Learners achieve a 4.0/5.0+ satisfaction score in the online learning community survey at semester’s end"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS (Learning Management System)",
+      "Real-Time Video Conferencing Tool",
+      "Collaborative whiteboard software",
+      "Digital Assignment Submission System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

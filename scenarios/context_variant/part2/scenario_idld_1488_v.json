@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1488-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Digital-Based Physical Therapy Practical Skills Development Program",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply physical therapy practical skills with 80% or higher proficiency in blended learning environments.",
+    "Learners can self-directly complete two or more digital learning modules (videos/quizzes) per week via a flipped learning model.",
+    "Learners can achieve 90% proficiency in writing physical therapy data analysis reports through project-based assessments.",
+    "Learners can acquire three or more patient evaluation protocols using smartphone app-based simulation tools.",
+    "Learners can conduct five or more physical therapy case studies with peer learners via remote collaboration platforms."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

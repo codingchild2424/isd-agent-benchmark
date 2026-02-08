@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-5401-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Microlearning Language Course Based on Integrated Instructional Design: Application of Direct Instruction and Constructivism",
+  "context": {
+    "prior_knowledge": "Basic language proficiency (grammar, vocabulary, reading comprehension) and specialized professional experience in the field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short-term language courses for professionals in medical, legal, and technical fields conducted in BYOD environments. The curriculum focuses on acquiring domain-specific terminology and improving practical document-writing skills aligned with learners' professional contexts.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can distinguish between four learning types (receptive, immersive, constructive, integrative) and apply them appropriately to language learning contexts",
+    "Learners complete microlearning modules combining direct instruction and constructivist approaches at over 85% completion, systematically acquiring vocabulary and grammatical structures",
+    "Learners can design domain-specific language utilization strategies (medical/legal/technical) according to the four knowledge domains of the Cynefin Framework (Simple/Known, Chaotic, Complex, Complicated)",
+    "Learners submit integrated language performance (speaking, writing, listening) based on corporate project scenarios (e.g., global negotiation, report writing) within one week, achieving at least 4 points per criterion (total 16/20) on the evaluation rubric (communication clarity, task appropriateness, linguistic accuracy, text structuring ability) to demonstrate integrated language proficiency in real-world work contexts",
+    "Learners can analyze their personal learning curves to develop self-directed language learning plans"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Interactive Content Templates",
+      "Real-Time Collaboration Tool",
+      "Automated Grading Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

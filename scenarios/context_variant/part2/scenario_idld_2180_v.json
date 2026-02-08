@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2180-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Machine Learning Practical Competencies: Companion Animal Comparative Consultation Education: From Basics to Practice",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Learners can explain symptoms and treatments of major pet diseases (diabetes, arthritis, etc.) with 90% accuracy",
+    "Learners can deliver medication instructions to pet owners with an 85% or higher success rate in case-based simulations",
+    "Learners can complete a Comparative Disease Consultation Sheet (CIS) for companion animals through group activities and receive peer evaluations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

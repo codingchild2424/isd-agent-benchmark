@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0739",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Technology-enhanced Learning System Engineering Design Using Open Educational Scenarios",
+  "context": {
+    "prior_knowledge": "Fundamental engineering principles, understanding of social systems, and LMS proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Education for optimizing social systems by combining open-ended scenario design with model-based engineering approaches in smartphone-based learning environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze an open-ended educational scenario (OPS) model based on QOC methodology and apply it to technology-enhanced learning systems.",
+    "Learners can design open-ended learning sessions for real-world cases in the social domain using domain-specific modeling tools.",
+    "Learners can iteratively improve educational scenarios by applying an incremental/iterative engineering process."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-friendly LMS platform",
+      "EMF/GMF-based graphic editor",
+      "Hop3x Domain Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

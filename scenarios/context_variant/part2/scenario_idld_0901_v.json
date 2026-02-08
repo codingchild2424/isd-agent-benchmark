@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0901-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Patient Care Practical Competencies: Constructivist Science Inquiry Program Based on Educational Robotics",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners are evaluated on algorithm design capabilities for problem-solving in robot programming (achieving over 80% performance)",
+    "Learners will connect three everyday problems in healthcare/nursing (e.g., patient mobility assistance, reducing medication distribution errors) with robotics principles (sensor utilization, automation processes) and create a portfolio according to a constructivist learning model (problem-solving projects, reflective journaling). The portfolio must meet at least four of the five evaluation rubric items.",
+    "Over a 6-month course, learners will perform computational thinking-based projects (e.g., autonomous robot design) and submit team-based results applying at least three interdisciplinary problem-solving strategies (e.g., medical data analysis, robot control algorithm design, ethical considerations integration). They must achieve over 80% scores in at least three of the four institutional rubric items (problem definition clarity, technical implementation completeness, creativity, team collaboration) to pass."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

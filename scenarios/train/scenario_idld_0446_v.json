@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0446-V",
+  "variant_type": "context_variant",
+  "title": "Computer science fundamentals and algorithmic linguistic expression education using activity-based game engines",
+  "context": {
+    "prior_knowledge": "Basic programming concepts (variables, conditionals, loops) and understanding of simple object-oriented programming (OOP), experience in basic technical writing and code documentation, ability to write technical reports and express pseudocode",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Explores computer science concepts through game engine scripting practice in BYOD environments. Conducts feedback and formative assessments using online collaboration tools. Parallel linguistic expression activities include code commenting, algorithm flowchart explanations, and peer assessment report writing. Comprehensive evaluation of text-based technical documentation and visual expression (flowcharts) skills.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can implement an intelligent agent simulation in Unity (C# scripting) applying three core OOP concepts, submit deliverables meeting at least six of eight peer-reviewed and instructor-verified checklist items, and enhance logical expression and technical writing skills through code comments and documentation.",
+    "Developing the ability to convert procedural problem-solving processes into verbal and visual representations (flowcharts, pseudocode, technical reports) while improving algorithm design and debugging skills in activity-based learning environments.",
+    "Cultivating problem-solving skills through code reviews and peer evaluations using collaboration tools, while strengthening technical communication abilities (technical writing, code documentation, evaluation reporting)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Unity/Unreal Engine individual license",
+      "GitHub Classroom",
+      "Miro board",
+      "Zoom Recording Feature"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

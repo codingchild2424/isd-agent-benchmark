@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1438",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Scientific Inquiry Program Design Course",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and foundational knowledge of experimental procedures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "For in-service elementary school teachers, focusing on enhancing scientific inquiry skills using smartphone-based simulation/VR learning environments in limited technological settings.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Accurately explain over 80% of science concepts through explicit response construction in simulation environments",
+    "Correctly formulate hypotheses and predict experimental outcomes at least twice out of three VR-based inquiry activities",
+    "Correctly reproduce over 90% of stages in the scientific inquiry process during post-program formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Low-bandwidth Simulation Software",
+      "Wireless Internet Access Environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

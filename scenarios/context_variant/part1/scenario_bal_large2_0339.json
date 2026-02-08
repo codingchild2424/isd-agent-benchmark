@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0339",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Project-Based Mathematics Education for Machine Learning-Driven TADF Molecule Development",
+  "context": {
+    "prior_knowledge": "Elementary statistics, matrix operations, and comprehension of basic chemistry concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Pre-service teachers conduct a project combining mathematical modeling and experimental data analysis to understand the OLED material development process.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Cultivating data analysis skills using mathematical models (matrices, probability) required for TADF molecular design.",
+    "Verifying the correlation between machine learning predictions and experimental data (e.g., PL spectroscopy) through mathematical methods.",
+    "Developing the ability to solve molecular property optimization problems via numerical modeling through small-group collaboration."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible Web-Based Calculation Tools",
+      "TADF (Thermally Activated Delayed Fluorescence) Molecule Database (Text Summary)",
+      "Basic Spectroscopy Simulation App",
+      "Quantum Chemistry Computation Visualization Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

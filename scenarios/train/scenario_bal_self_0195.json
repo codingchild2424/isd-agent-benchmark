@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-0195",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Virtual Reality (VR)-Integrated Instructional Design for Medical Education Innovation: Enhancing Social Interaction and Patient-Centered Competencies",
+  "context": {
+    "prior_knowledge": "Basic understanding of medical procedures, experience with digital devices, and familiarity with fundamental concepts of patient rights and medical ethics.",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A practice-oriented educational environment using smartphone-based VR solutions, with scenario designs reflecting medical social contexts (doctor-patient relationships, interdisciplinary team collaboration, cultural sensitivity).",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners enhance cognitive problem-solving and social relationship management within medical teams by performing ≥3 complex medical simulations (e.g., ER scenarios, post-operative recovery management, interdisciplinary care collaboration) using VR technology",
+    "Learners complete three immersive VR patient interaction scenarios (e.g., pain-complaining patients, dementia patients, pediatric patients) by Week 4 of a 6-month course, achieving ≥4.0 average on 4 emotional empathy scale items (empathic response, emotional understanding, nonverbal response, situational coping) using a 5-point Likert scale to evaluate patient-caregiver relationship-building skills",
+    "Learners achieve ≥80% proficiency in two medical skills (e.g., injection administration, wound care) using smartphone-based VR tools, demonstrating ≥90% compliance with medical protocols and patient safety management standards"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Headset",
+      "Web-Based VR Content Platform",
+      "Zoom Video Conferencing System",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

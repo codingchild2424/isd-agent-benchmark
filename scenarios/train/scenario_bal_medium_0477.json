@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0477",
+  "variant_type": "balance_medium_scale",
+  "title": "Machine Learning Model Design from a Sociotechnical Systems Perspective",
+  "context": {
+    "prior_knowledge": "Basic machine learning and statistical knowledge, along with programming experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Students Design Machine Learning Models to Solve Real-World Social Problems, Developing Integrated Analysis Skills for Techno-Social Interactions. Team Projects Use Collaboration Tools (Zoom, Miro, GitHub) in a BYOD Environment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners analyze at least three real-world data science cases (e.g., medical diagnostic models, financial risk assessment models) and document in a 5-page report how a data scientist’s subjectivity influences model design (feature selection, evaluation metrics, hyperparameters). They achieve an \"Excellent\" grade in at least two of the three peer evaluation rubric items: clarity, analytical depth, and practicality.",
+    "Identify at least three social factors to consider when designing a machine learning system tailored to a specific sociocultural context (language processing).",
+    "Learners analyze given AI project outputs (model predictions, data distributions) to visualize model explainability using at least two techniques (e.g., SHAP/LIME), propose at least three bias management strategies at the data preprocessing/model design stages, and compile findings into a report within 10 pages."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based machine learning library (TensorFlow/PyTorch)",
+      "Jupyter Notebook Environment",
+      "Sociotechnical Systems Analysis Framework Template",
+      "Authentic Language Dataset (e.g., Text Data Related to Social Phenomena)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

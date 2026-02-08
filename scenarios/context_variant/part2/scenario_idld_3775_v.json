@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3775-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Competencies: Optimizing Human-Machine Interaction Using Cognitive Load Monitoring",
+  "context": {
+    "prior_knowledge": "Basic machine learning concepts and comprehension of physiological signals (e.g., EEG)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the basic principles of cognitive workload monitoring (CWM) and its applications in human-machine interaction",
+    "Learners can design EEG signal processing and machine learning model optimization strategies in resource-constrained environments",
+    "Learners can interpret performance metrics (accuracy, sensitivity, specificity) of wearable device-based cognitive workload classification systems"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

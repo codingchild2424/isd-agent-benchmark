@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8659-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Strategy Design for Classical Chinese Poetry Education for International Chinese Learners",
+  "context": {
+    "prior_knowledge": "Basic Chinese Character Literacy and Elementary Chinese Conversational Skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Workplace-external education program for adult science professionals. Combines collaboration and self-directed learning in BYOD (Bring Your Own Device) settings",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can classify 54 classical Chinese poems by genre/theme and analyze their statistical distribution.",
+    "Learners can visualize lexical and grammatical patterns applied in classical Chinese poetry texts through data visualization.",
+    "Learners can produce project outcomes by connecting cultural contexts reflected in classical poetry to case studies in scientific fields."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Chinese-Korean Parallel Text Database",
+      "Text Analysis Tools (e.g., Voyant Tools)",
+      "Online Collaboration Platforms (e.g., Notion, Google Workspace)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1491-V",
+  "variant_type": "context_variant",
+  "title": "Data Science Practical Competencies Enhancement: Blended Science Class Design Utilizing Multimedia",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can appropriately integrate various multimedia elements into science lessons based on cognitive load theory",
+    "Learners can effectively arrange visual/auditory elements when designing blended lessons in project-based learning (PBL) environments",
+    "Learners can continuously improve the effectiveness of multimedia learning materials using formative assessment tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

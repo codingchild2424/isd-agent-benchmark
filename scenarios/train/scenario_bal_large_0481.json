@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0481",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Customized AI English Learning: Mobile Microlearning for Science Practitioners",
+  "context": {
+    "prior_knowledge": "Basic English Communication Skills (Varied by Participant)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course where science professionals learn situational English expressions required in their work environments. It applies an AI-based learning system optimized for smartphone-only access.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can use 500 core English expressions required for science-related work situations with 80% accuracy.",
+    "Learners enhance individual learning efficiency by 30% through personalized learning path recommendations by a deep learning-based system.",
+    "Learners will complete a portfolio of 5+ English communication outputs (emails, reports, presentations) applicable to real work environments through AI project-based assessments (3+ scenarios: data analysis, model development), meeting at least 3 out of 4 institutional rubric criteria (clarity, professionalism, practicality, collaboration)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Mobile Apps",
+      "Voice Recognition Features",
+      "Offline Learning Modules",
+      "TF-IDF-based content recommendation engine"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6148",
+  "variant_type": "idld_aligned",
+  "title": "Lossy Compression Coding and Reinforcement Learning-Based Optimization Design",
+  "context": {
+    "prior_knowledge": "Basic understanding of computer architecture and data representation concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Educational program to enhance language data compression technology competencies for professionals in medical/legal/technical fields. Designed around real-time processing application cases",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles of zero-latency compression coding in Markov source models.",
+    "Learners can implement compression policies using reinforcement learning-based Q-learning algorithms.",
+    "Learners can design and evaluate near-optimal compression strategies on real-world language data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Learning Pad",
+      "Python-based RL Development Environment",
+      "Linguistic Corpus Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

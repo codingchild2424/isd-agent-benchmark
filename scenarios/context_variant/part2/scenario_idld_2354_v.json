@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-2354-V",
+  "variant_type": "context_variant",
+  "title": "Integrating Generative AI with Science Education: Project-Based Learning with Action Research and AI-ICE Framework",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Design and implementation of science education scenarios utilizing generative AI tools in a BYOD (Bring Your Own Device) environment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can creatively design three or more types of science education content using generative AI tools",
+    "Learners can develop at least two AI solutions for science education problems by applying the AI-ICE framework (Ideas, Connections, Extensions)",
+    "Learners can identify five or more ethical considerations when using generative AI and create science education guidelines reflecting these",
+    "Learners can qualitatively and quantitatively evaluate the effectiveness of AI-integrated science education projects using action research methodology"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access to generative AI platforms (e.g., ChatGPT, Gemini)",
+      "Science education templates and assessment rubrics",
+      "AI ethics guideline documentation",
+      "PBL project management tools (e.g., Notion, Trello)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

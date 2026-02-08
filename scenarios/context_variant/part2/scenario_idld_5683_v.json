@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5683-V",
+  "variant_type": "context_variant",
+  "title": "Podcast-Based Education for Customized Practical Mathematics Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical math problem-solving training using VR simulations in smartphone-centric, limited-technology environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can solve mathematical problems encountered in the workplace by listening to podcasts and applying a three-step process: problem identification, strategy development, and execution.",
+    "Learners can apply podcast content in a VR simulation environment to replicate real-world job scenarios with 80% or higher accuracy.",
+    "Learners can collaborate with peers to produce four or more practical application reports based on weekly podcast learning content."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "VR Headset (Shared Use)",
+      "Podcast Production Kit (Including Recording Microphone)",
+      "Offline Activity Workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

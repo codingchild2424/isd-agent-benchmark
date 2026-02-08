@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0430",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Machining Mechanics Modeling: Data-Driven Discovery and Application of Physical Laws",
+  "context": {
+    "prior_knowledge": "Understanding of Differential Equations, Basic Mechanical Engineering, and Machine Learning Algorithms",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners engage in real-time lectures and online discussions in BYOD environments, measuring learning outcomes through project-based assessment. Targets general citizens with advanced domain expertise",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain how to interpret the physical laws of machining mechanics using data-driven machine learning models",
+    "Learners can build machining mechanics simulation models using differential algebraic equations",
+    "Learners can analyze nonlinear characteristics such as process damping and edge forces in noisy experimental data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Machine Learning Library",
+      "Process Mechanics Simulation Dataset",
+      "Real-time video conferencing platforms"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0868",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] SDT-Based Intelligent Mathematics Learning Program for Student-Athletes",
+  "context": {
+    "prior_knowledge": "Basic mathematical computation skills and mobile device usage experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Program targeting adult learners balancing academics and athletics, addressing time limitations and motivation sustainability through individualized learning pathways",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners engage in self-directed learning activities at least three times weekly through SDT-based ITS",
+    "Learners demonstrate a 20% or greater improvement in math problem-solving ability assessments by program completion",
+    "Learners show a 15% or greater improvement in autonomy, competence, and relatedness subscales on learning motivation scales"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Intelligent Tutoring System (ITS) Platform",
+      "Customizable math problem database",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

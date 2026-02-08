@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6461",
+  "variant_type": "idld_aligned",
+  "title": "Sequential Programming Competency Development Course for Elementary Practitioners",
+  "context": {
+    "prior_knowledge": "Comprehension of introductory computing concepts and educational field experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course for in-service elementary school teachers to acquire foundational programming competencies to strengthen science education. Combines theoretical learning with hands-on practice using digital devices (tablets/laptops).",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can write simple scientific experiment simulation code using block-based programming tools with over 80% accuracy.",
+    "Learners improve their ability to correct programming syntax errors by 30% after four or more iterative evaluations.",
+    "Learners can explain logical problem-solving procedures by subdividing them into three stages: analysis, design, and implementation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet for programming education",
+      "Block-based coding platform license",
+      "Science Experiment Kit",
+      "Offline worksheet package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

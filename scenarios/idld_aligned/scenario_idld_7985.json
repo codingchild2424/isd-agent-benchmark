@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7985",
+  "variant_type": "idld_aligned",
+  "title": "Medical Education MOOC for COVID-19 Response: Short-Intensive Course",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and public health concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Emphasis on COVID-19 clinical response competencies considering medical environments in low- and middle-income countries, with offline discussion-based case analysis after completing online modules",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain COVID-19 virus characteristics, transmission routes, and preventive measures with over 90% accuracy",
+    "Clinical scenarios can be divided into three or more stages, from screening suspected infection cases to isolation protocols, and applied accordingly.",
+    "Based on WHO/local health authority guidelines, learners can list four or more procedures for using personal protective equipment (PPE) and infection control principles."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MOOC Platform (Utilizing Existing Moodle)",
+      "3D Virtual Clinical Simulation Tool",
+      "COVID-19 Latest Statistics Dashboard API",
+      "Offline Discussion Casebook PDF"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

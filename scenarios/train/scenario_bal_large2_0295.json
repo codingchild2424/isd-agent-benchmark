@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0295",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Problem-Based Learning (PBL) Workshop on Radiation Therapy Physics",
+  "context": {
+    "prior_knowledge": "Foundational Radiation Physics Theory and Understanding of Medical Linear Accelerator Structures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "For pre-service/in-service teachers, intermediate professional level, in digital device-provided environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain methods for applying Monte-Carlo modeling in radiation therapy planning using PBL approaches",
+    "Learners can analyze principles of dose distribution optimization through inverse treatment planning simulations",
+    "Learners can participate in collaborative problem-solving processes with peers at over 80% engagement using real-time collaboration tools (ZOOM Breakout Rooms)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Monte-Carlo simulation software license",
+      "Treatment Planning System (TPS) demo version",
+      "Real-time video conferencing tool (ZOOM)",
+      "Digital workbook (PDF/shared Google document)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2922",
+  "variant_type": "idld_aligned",
+  "title": "Intelligent Web-Based Personalized Science Learning Path Design Process",
+  "context": {
+    "prior_knowledge": "Understanding of Elementary School Science Core Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Science Instruction Competency Enhancement Program for In-Service Elementary Teachers and Educational Practitioners. Implemented in Real-Time Online Environments with Digital Devices, Offering Personalized Learning Experiences Tailored to Individual Capabilities and Preferences",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design personalized learning pathways matching their science knowledge level using an intelligent web platform.",
+    "Learners can understand interconnections between science concepts and establish utilization strategies via an ontology-based knowledge management system.",
+    "Learners can select optimal instructional approaches (visual/auditory/experimental, etc.) using the Learner Intelligent Advisor (LIA) module."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Intelligent Learning Platform (IWT) License",
+      "Digital Content Library for Science Education",
+      "Online Real-Time Collaboration Tools (e.g., Zoom)",
+      "Learner Diagnostic Assessment System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

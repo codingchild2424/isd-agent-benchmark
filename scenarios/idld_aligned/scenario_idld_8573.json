@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8573",
+  "variant_type": "idld_aligned",
+  "title": "CPR Training and Implementation: Advanced Practical Course for Corporate Settings",
+  "context": {
+    "prior_knowledge": "Fundamental first-aid knowledge or basic medical education experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasis on workplace emergency preparedness, considering integration with job responsibilities.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately describe cardiopulmonary resuscitation (CPR) procedures according to the 2025 ILCOR guidelines.",
+    "Learners perform CPR techniques with 90% accuracy based on compression location, depth, and rate through online simulations.",
+    "Learners can delegate team roles and apply the 5-step AED protocol during workplace emergencies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D CPR Simulation Software",
+      "Video-Based Practical Module",
+      "Automated Feedback Evaluation System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

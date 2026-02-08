@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-5766-V",
+  "variant_type": "context_variant",
+  "title": "ADDIE-Based Online Education for Enhancing Newborn Care Competencies",
+  "context": {
+    "prior_knowledge": "Fundamental knowledge of pregnancy and childbirth, general understanding of parenting",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Asynchronous education conducted in a smartphone-based limited technology environment. Provides flexible learning schedules considering working parents.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform essential newborn care skills (bathing, feeding, safety management, etc.) with 80% or higher accuracy.",
+    "Learners can identify neonatal danger signs (respiratory distress, jaundice, etc.) with 90% accuracy and explain response procedures.",
+    "Learners can propose three or more solutions to common breastfeeding challenges (breast pain, insufficient milk supply, etc.)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Video Lecture Materials",
+      "Mobile-Optimized PDF Guide",
+      "Online Discussion Forum",
+      "Case Study Simulation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

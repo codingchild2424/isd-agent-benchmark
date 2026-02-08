@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0630",
+  "variant_type": "idld_aligned",
+  "title": "VR-Based Short-Term Intensive Course for Customized Science Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Possession of basic science theories and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Adjustable individual learning progress and difficulty levels to enhance job relevance for current practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can independently design personalized learning pathways in VR simulation environments with over 90% autonomy.",
+    "Learners can generate at least three practical solutions applicable to real-world tasks using customized resources when solving science domain problems.",
+    "Learners can reduce individual learning gaps by over 50% through formative assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment",
+      "Simulation Software",
+      "Personal Device-Compatible Learning Platform",
+      "Scientific Domain Ontology Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

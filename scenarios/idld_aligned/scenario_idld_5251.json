@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5251",
+  "variant_type": "idld_aligned",
+  "title": "Remote Practical Competency Enhancement Program for Embedded Systems",
+  "context": {
+    "prior_knowledge": "Basic programming knowledge (C/Python) and understanding of digital logic circuits",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A low-cost remote education environment presupposing smartphone-based LMS use, requiring hardware kits and mobile-compatible development tools.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners independently execute the embedded system development cycle: requirements analysis → hardware configuration → software implementation → testing.",
+    "Learners write and debug embedded C code tailored to specified hardware specifications.",
+    "Learners design and implement embedded applications that process real sensor data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Arduino/Raspberry Pi-based hardware kit",
+      "Mobile-Compatible IDE (Integrated Development Environment)",
+      "LMS (Moodle) Access Environment",
+      "YouTube Video Resource"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

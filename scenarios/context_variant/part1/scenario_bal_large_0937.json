@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0937",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Visualization-Based Language Learning Performance Enhancement Strategy",
+  "context": {
+    "prior_knowledge": "Basic Language Learning Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students primarily acquire language structures through visual learning materials and validate learning outcomes via project-based assessments. Asynchronous learning using digital devices is the primary mode",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze language structures (character composition, sequence, direction) with over 80% accuracy using various visualization formats (dynamic/static-sequential/static).",
+    "Learners can explain the impact of visualization format consistency (study-test congruence) between learning and assessment phases on learning outcomes.",
+    "Learners can design language learning strategies using visual materials in project-based assessments and refine them through peer evaluation and instructor feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Diverse visualization tools (Canva, PPT, etc.)",
+      "LMS platforms (video/image upload functionality)",
+      "Digital learning materials storage server"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

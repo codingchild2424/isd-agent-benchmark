@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2601",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Vehicle Control System Design and Operation",
+  "context": {
+    "prior_knowledge": "Basic control theory, linear system modeling, introductory programming (Python/C++), and understanding of communication protocols",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Cultivating problem-solving skills in system control within wireless communication environments using smartphone-based simulation tools",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design state estimators for unmanned surface vehicles (USVs) in DoS attack scenarios to model unmeasured variables",
+    "Learners can implement control algorithms that generate speed reference values for helicopters by applying virtual vehicle concepts",
+    "Learners can apply backward control strategies using barrier Lyapunov functions in constrained input environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Simulation Software",
+      "Vehicle Dynamics Dataset",
+      "Wireless Communication Modeling Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

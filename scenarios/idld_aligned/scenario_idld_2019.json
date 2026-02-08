@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2019",
+  "variant_type": "idld_aligned",
+  "title": "Venous Ulcer and Compression Therapy: Constructivist-Based Online Education Course for Nurses",
+  "context": {
+    "prior_knowledge": "Basic nursing knowledge and chronic wound management concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A practice-oriented module integrated into graduate language education programs, emphasizing compression therapy techniques applicable to diverse clinical scenarios",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can select appropriate compression therapy techniques based on the clinical assessment of patients with venous ulcers",
+    "Learners can explain the theoretical rationale and evidence-based practice guidelines for compression therapy with over 80% accuracy",
+    "Learners can successfully perform the compression bandaging procedure three consecutive times in a virtual simulation environment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Moodle Learning Management System (LMS)",
+      "Interactive multimedia resources",
+      "3D wound simulation tool",
+      "Latest clinical guidelines (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

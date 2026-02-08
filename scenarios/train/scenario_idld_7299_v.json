@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7299-V",
+  "variant_type": "context_variant",
+  "title": "Productive Failure Learning Through Electronic Textile Design Projects",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Electronic textile design tasks in a smartphone-based simulation environment, strengthening problem-solving skills through failure case analysis and debugging processes",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can identify and classify three or more types of physical/software defects occurring in e-textile design processes.",
+    "They can diagnose causes of errors with over 80% accuracy by analyzing error messages in simulation tools.",
+    "Through peer feedback and debriefing sessions, learners derive at least two improvement strategies from their failure cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR simulation app",
+      "E-textile design template library",
+      "Digital collaborative whiteboard tool",
+      "Error Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

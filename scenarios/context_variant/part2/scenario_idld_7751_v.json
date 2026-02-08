@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7751-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design Utilizing SNT to Enhance Participation in Learning Communities",
+  "context": {
+    "prior_knowledge": "Basic knowledge in science fields and experience using online learning platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "An intensive short-term science course emphasizing collaborative interaction among learners. Iterative design is applied to continuously improve SNT (Social Network Text) by incorporating learner feedback.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners achieve ≥85% cognitive understanding of environmental psychology concepts through photo-sharing activities using SNT",
+    "Enhance emotional engagement within the learning community by ≥20% through SNT-based discussion participation ≥3 times weekly",
+    "Generate ≥5 actionable improvement proposals for SNT functionality by analyzing feedback survey and interview data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web-Based Photo Sharing SNT Platform",
+      "3-Week Cycle Survey Template",
+      "Real-time feedback tool",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3513-V",
+  "variant_type": "context_variant",
+  "title": "Geriatric Psychiatry Education Design: Case-Based Participatory Learner-Centered Course",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge (physiology, pathology) and introductory psychiatry concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Large-scale undergraduate psychiatric gerontology education conducted in smartphone-centric limited technological environments. Measuring learning effectiveness through project-based assessments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Identify and explain at least three major neuropsychiatric symptoms commonly seen in elderly patients, such as depression and dementia.",
+    "Analyze real clinical cases to specify multidisciplinary approaches to addressing mental health issues in elderly patients.",
+    "Collaboratively complete and submit case analysis projects with peer learners using an LMS platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ILIAS Platform",
+      "Mobile-Optimized Learning Materials",
+      "Case-Based Discussion Guidelines",
+      "Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

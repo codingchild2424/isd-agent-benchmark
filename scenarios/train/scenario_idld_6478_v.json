@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6478-V",
+  "variant_type": "context_variant",
+  "title": "Integrated Learning Design for Remote and Virtual Laboratories in Online Engineering Experiments",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducting Experiments in Smartphone-Based Limited-Tech Environments with IoT and Edge-Cloud Computing-Enabled Virtual Lab Platforms",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can independently design engineering experiment procedures based on mathematical modeling using remote laboratory tools.",
+    "Learners can quantitatively evaluate experimental results by collecting and analyzing IoT data in a virtual laboratory environment.",
+    "Learners can periodically diagnose their experimental processes and outcomes through learning analytics tools."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized Virtual Lab Platform",
+      "Open-Source IoT Simulation Tool",
+      "Cloud-Based Data Visualization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

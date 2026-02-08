@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0291",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Programming Thinking Enhancement through Simulation-Based Debugging Learning",
+  "context": {
+    "prior_knowledge": "Comprehension of basic programming concepts (variables, conditionals, loops, etc.)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Mobile-optimized VR simulation utilization for PC-free environments, integrated with project-based learning in social studies curriculum",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can debug sample code containing logical errors with over 80% accuracy",
+    "Learners can propose complex coding problem-solving strategies three or more times through collaborative discussions",
+    "Learners can explain three or more of their own learning patterns based on biometric data (eye-tracking, facial expression analysis) collected in VR environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Open-Source Debugging Simulator",
+      "Learning Analytics Dashboard Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

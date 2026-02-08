@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-4060-V",
+  "variant_type": "context_variant",
+  "title": "Course on Enhancing Power System Resilience Using Neural Network-Based Distributed Learning",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Enhancing the competency of power company practitioners to design optimal load shedding (OLS) solutions based on distributed learning applicable to real-world tasks",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can establish a real-time optimal load-shedding (OLS) strategy within 15 minutes during a power system crisis.",
+    "Learners can design a distributed OLS solution using only local measurement data via a neural network model.",
+    "Learners can verify the efficiency of the proposed method with over 90% accuracy in an IEEE 118-bus system simulation environment.",
+    "Learners can propose a distributed learning design plan that reduces communication load by over 70% in large-scale power grids."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based machine learning tools",
+      "Power System Simulation Software",
+      "LMS platform",
+      "Case Study Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

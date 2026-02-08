@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0265-V",
+  "variant_type": "context_variant",
+  "title": "Autonomy-enhancing program for online task-based mathematics learning",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Utilization of smartphone-based Web 2.0 tools, combining real-time interaction and asynchronous task completion.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can complete subject-specific math assignments with over 80% self-directed learning using Web 2.0 tools (Padlet, Google Forms, etc.)",
+    "Learners can explain mathematical concepts through social interaction (chat/voice) via structured assignments (3 times) and open-ended assignments (2 times)",
+    "Learners can improve their ability to revise learning plans and write reflective journals by 70% based on teacher scaffolding (modeling and feedback)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Web 2.0 Collaboration Tools (Padlet, Google Drive)",
+      "Zoom Account",
+      "PDF Learner Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

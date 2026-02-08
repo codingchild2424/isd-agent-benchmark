@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1987-V",
+  "variant_type": "context_variant",
+  "title": "Critical Instructional Design and Creative Learning Environment Development",
+  "context": {
+    "prior_knowledge": "Foundational educational theories and experience with online learning platforms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "For pre-professionals in medical/legal/technical fields, emphasizing collaborative learning and project-based assessments using personal devices.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze and critique the historical development of instructional design theories.",
+    "Learners can design science-subject customized learning modules using participatory and collaborative approaches.",
+    "Through project-based assessments, learners can apply their instructional designs to real learning contexts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital Collaboration Tools",
+      "Open-Source Educational Materials",
+      "Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

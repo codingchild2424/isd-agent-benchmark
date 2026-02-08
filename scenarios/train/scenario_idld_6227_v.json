@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6227-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Programming Practical Competencies: SDT-Based Intelligent Tutoring Systems for Student-Athletes",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can autonomously plan and execute weekly learning plans at least three times per week through an SDT-based ITS (Intelligent Tutoring System).",
+    "Learners achieve over a 20% improvement in language learning achievement within three months by utilizing the ITS's personalized feedback system.",
+    "Learners maintain over 80% of academic engagement with peer learners through online discussions and collaborative activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

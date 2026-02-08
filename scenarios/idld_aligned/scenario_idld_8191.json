@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8191",
+  "variant_type": "idld_aligned",
+  "title": "Introduction to Imagined Speech Decoding Using Transfer Learning",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Brain-Computer Interface (BCI) Concepts and Foundational Knowledge of Deep Learning",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Small-scale customized education conducted in smartphone-based limited technological environments",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can understand the concept of transfer learning and apply it to simulated voice decoding problems.",
+    "Learners can explain how to design a transfer learning model in a limited EEG dataset environment",
+    "Learners can simulate the knowledge transfer process between the FEIS/KaraOne datasets based on the proposed DL framework"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-Source EEG Dataset (FEIS, KaraOne Samples)",
+      "Mobile-Compatible Visualization Tool",
+      "Simplified Deep Learning Framework Demo"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

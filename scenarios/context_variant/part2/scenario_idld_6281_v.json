@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6281-V",
+  "variant_type": "context_variant",
+  "title": "VR-Based Social Problem-Solving Simulation Design and Operation",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based learning in VR environments to experience real-world social issues and derive solutions",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze social issues presented in a VR environment and explain three or more core causes.",
+    "Learners can design solutions to social problems using VR simulation tools and complete team-based prototype implementations.",
+    "Learners can measure the effectiveness of designed solutions through a VR-based assessment system using quantitative data (engagement rate over 80%, goal achievement rate over 70%)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "30 sets of VR headsets",
+      "VR-PEAS Scenario Authoring Tool",
+      "Social Issues Simulation Content",
+      "Collaboration Platform Server"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0226",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Adaptive Management System Design for Personalized Science Learning",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and proficiency in fundamental digital device usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners engage in digital activities during offline classes using personal devices (BYOD), targeting intermediate expertise in science. Customized instructional design reflecting diverse learning paces and styles is required",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify individual learning patterns with ≥80% accuracy by analyzing scientific experiment data",
+    "Teachers can set ≥3-tier activity restrictions based on learner performance ranges (60-100 points) using Moodle plugins",
+    "The system analyzes weekly achievement results (quiz accuracy ≥80% or practical task completion ≥level 3) of learners aged 40+ and automatically generates ≥3 personalized learning modules (20-minute video, 10-question quiz, 1 practical task) every two weeks to address individual weaknesses."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Moodle Learning Management System (LMS)",
+      "BYOD (Bring Your Own Device) Device",
+      "Science Experiment Kit",
+      "Grade Analysis Plugin"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

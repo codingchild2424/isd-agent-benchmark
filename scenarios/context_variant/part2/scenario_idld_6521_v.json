@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6521-V",
+  "variant_type": "context_variant",
+  "title": "Web-Based Self-Directed Mathematics Learning Simulation Program",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "VR-based simulation learning in a smartphone-centric, technology-constrained environment, with a formative assessment-focused course emphasizing professional practitioners' work application skills.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can complete mathematical problem-solving simulations with over 90% accuracy on a web-based platform",
+    "Learners can apply at least three mathematical concepts to present solutions for real-world work scenarios presented in VR environments",
+    "Learners can establish self-directed study plans and achieve over 80% formative assessment submission rates"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "VR Educational Content",
+      "Cloud-Based Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

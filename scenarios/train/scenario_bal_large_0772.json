@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0772",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Strategic Shifts in Emergency Remote Education Design Using Online LMS",
+  "context": {
+    "prior_knowledge": "Basic digital device usage proficiency (smartphone utilization)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Analyzing changes in learning design based on experiences transitioning from offline-centered education to LMS-based emergency remote learning. Requires design considerations for learners' limited technological access and socio-curricular characteristics.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can complete 80% or more of a lesson design utilizing LMS basic functions (assignments, discussion boards, content uploads).",
+    "Learners create a design plan converting three face-to-face learning activities (e.g., discussion, presentation, group projects) into LMS digital activities (quizzes, surveys, video lectures). They achieve an average of 4+ points on peer evaluation and instructor feedback rubrics (5-point scale).",
+    "Propose three or more LMS utilization strategies that enhance accessibility considering learners' technological environments."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Simple Video Creation Tool (Mobile App)",
+      "LMS Utilization Guide PDF (Korean Version)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0287",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Online Science Education Design Utilizing Collaborative Instructional Strategies",
+  "context": {
+    "prior_knowledge": "Foundational science concepts and online learning platform experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Applying a \"one-teach-one-tech\" model in a BYOD environment to divide technical and educational roles, implementing collaborative inquiry-based science lessons",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students must be able to accurately explain science experiment procedures with over 80% accuracy through the One Teach-One Tech model",
+    "Learners must be able to demonstrate the process of solving science problems using digital tools (virtual lab kits, collaborative boards, etc.) in a collaborative classroom environment",
+    "Perform peer evaluations according to team-designed assessment rubrics and provide at least three specific feedback points"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Virtual lab kit",
+      "Collaboration tools (Miro/Google Jamboard)",
+      "Digital Evaluation Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

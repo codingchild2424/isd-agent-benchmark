@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM2-0019",
+  "variant_type": "balance_medium_final",
+  "title": "Quality Analysis Project for Educational Video Repository",
+  "context": {
+    "prior_knowledge": "Basic Digital Literacy and Statistical Analysis Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners analyze educational video repository data using personal devices and conduct projects to derive video quality metrics in language learning",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain content growth patterns by analyzing the structural characteristics of an educational video repository.",
+    "Quantitatively evaluate quality metrics based on video length, reuse frequency, and user interaction data.",
+    "Design a model to predict educational effectiveness through quality analysis of language-learning videos."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Khan Academy API Access Permissions",
+      "Web Scraping Tool",
+      "Data Analysis Software",
+      "Video Repository Sample Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

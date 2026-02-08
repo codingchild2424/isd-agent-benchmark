@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5425",
+  "variant_type": "idld_aligned",
+  "title": "Science Program Learning Effectiveness Improvement Strategy Through Explicit Response-Demand Learning",
+  "context": {
+    "prior_knowledge": "Comprehension of fundamental scientific theories and experimental methods",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners possess intermediate expertise in science, operating in environments enabling collaborative learning with personal devices and immediate feedback",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve over 80% accuracy in conceptual understanding of science programs by applying explicit response demand learning strategies.",
+    "Learners enhance error analysis skills during the explicit response process for multiple-choice questions.",
+    "Learners demonstrate conceptual transfer ability through formative assessments after program learning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Program Learning Materials",
+      "Digital Quiz Platform",
+      "Formative Assessment Item Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

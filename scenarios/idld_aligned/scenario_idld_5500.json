@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5500",
+  "variant_type": "idld_aligned",
+  "title": "Data-Driven Instructional Design Workshop for Online English Education",
+  "context": {
+    "prior_knowledge": "Basic Statistical Analysis Skills and Experience with Online Learning Tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening competency in designing smartphone-based online education in limited-technology environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can interpret descriptive statistics (mean, standard deviation) derived from survey data analysis.",
+    "Learners can design a process for applying inferential statistics (one-sample t-test) to evaluate the effectiveness of English language instruction.",
+    "Learners can propose a blended (synchronous/asynchronous) online education model tailored to learner needs using a PBL (Project-Based Learning) approach."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Compatible Survey Tool",
+      "Simplified statistical analysis app",
+      "English language teaching content template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

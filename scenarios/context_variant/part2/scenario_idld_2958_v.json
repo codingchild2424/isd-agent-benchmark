@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2958-V",
+  "variant_type": "context_variant",
+  "title": "Immersive Virtual Reality (IVR)-Based Plant Learning Curriculum",
+  "context": {
+    "prior_knowledge": "Basic Understanding of Plant Structures and Growth Processes",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Pedagogical competency enhancement program for pre-service or in-service teachers. Learning plant structure observation and growth process simulation via Immersive VR (IVR) technology",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner",
+    "learner_education": "Middle school"
+  },
+  "learning_goals": [
+    "Learners can accurately identify and describe the 3D structures of roots, stems, and leaves in an immersive virtual reality (IVR) environment.",
+    "Learners can simulate plant physiological processes such as photosynthesis and transpiration through virtual experiments and record results.",
+    "Learners can analyze growth-stage-specific characteristics of a particular plant and submit findings as a digital portfolio through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Modeled Plant Database",
+      "IVR Device (Mobile VR Headset)",
+      "Interactive Learning Scenario Script"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

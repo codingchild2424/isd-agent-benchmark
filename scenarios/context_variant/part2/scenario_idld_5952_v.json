@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5952-V",
+  "variant_type": "context_variant",
+  "title": "SPAT-based Mobile Microlearning Content Design",
+  "context": {
+    "prior_knowledge": "Foundational language learning experience and mobile device utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Need to provide mobile-based language learning content accessible across diverse contexts.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply 20 intermediate-level language expressions contextually using mobile content in SPAT format (Still Pictures, Audio, Text).",
+    "Learners can decode integrated image-audio-text content provided in mobile environments with over 80% comprehension.",
+    "Learners can complete and incorporate feedback into at least three real-world language usage scenarios using interactive elements within the content."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "SPAT Production Tool",
+      "Mobile Learning Management System (LMS)",
+      "Language Expert Pool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

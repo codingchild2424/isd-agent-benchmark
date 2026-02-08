@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8014",
+  "variant_type": "idld_aligned",
+  "title": "VR-Based Multilingual Modular Mathematics Concept Learning Program",
+  "context": {
+    "prior_knowledge": "Basic mathematical terminology and comprehension of work-related mathematical concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Multilingual math concept learning and enhancement of job-applicable skills in a smartphone-based VR environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will be able to contextualize and explain mathematical concepts presented in three languages (Korean/English/second language) within an immersive VR environment.",
+    "Learners will accurately perform mathematical problem-solving procedures applicable to real-world tasks in interactive VR simulations with over 80% accuracy.",
+    "Learners will be able to establish strategies for multilingual mathematical terminology conversion and application based on metalinguistic awareness developed during the learning process."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Headset",
+      "Mobile-Optimized 3D Virtual Learning Module",
+      "Multilingual Voice Recognition System",
+      "Low-Bandwidth VR Content Server"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

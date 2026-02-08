@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1975-V",
+  "variant_type": "context_variant",
+  "title": "Introduction to Machine Learning-Based TRIP/TWIP Titanium Alloy Design",
+  "context": {
+    "prior_knowledge": "Basic materials engineering and machine learning concepts comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Requires interaction design optimized for smartphone-based real-time video lecture environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners must explain step-by-step the process of predicting three mechanical properties of titanium alloys—yield strength, tensile strength, and elongation—with over 80% accuracy using the XGBoost model, and derive prediction results for five or more alloy samples using Python code.",
+    "Learners should explain the operational principles of the TPE (Tree-structured Parzen Estimator) algorithm, propose three hyperparameter optimization scenarios applicable to materials design problems, and describe the expected effects of each scenario with quantitative metrics (e.g., 20% improvement in computational efficiency).",
+    "Analyze the effects of alloy composition/heat treatment conditions on TRIP/TWIP mechanisms and tensile properties"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Lecture Platform",
+      "Mobile-Optimized Learning Materials",
+      "Python-based Open-source Tools (e.g., Google Colab)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

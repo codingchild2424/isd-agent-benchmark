@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6525",
+  "variant_type": "idld_aligned",
+  "title": "Automated Formative Assessment Design for Evaluating Non-Declarative Knowledge",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and digital literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners are assessed on non-declarative knowledge (experimental skills, problem-solving abilities, etc.) in mobile-based microlearning environments and receive comparative peer group data through automated feedback systems",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can quantitatively analyze their experimental skills and problem-solving processes through automated formative assessments.",
+    "Learners can diagnose and improve their tacit knowledge levels based on comparative data with peer groups.",
+    "Learners can adjust their learning strategies in real-time using a feedback system provided in mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Data Analysis Tools",
+      "Non-Declarative Knowledge Assessment Item Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

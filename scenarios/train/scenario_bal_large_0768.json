@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0768",
+  "variant_type": "balance_large_scale",
+  "title": "Small-Group Education Based on Essential Neonatal Nursing Simulation (Large-Scale)",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge and understanding of neonatal physiology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhancing practical skills for medical professionals through simulation-based training.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform WHO-recommended essential neonatal nursing procedures with 90% accuracy.",
+    "Learners can apply neonatal emergency care protocols in simulation scenarios.",
+    "Learners achieve a score of 4 or higher on the high-risk delivery simulation evaluation rubric through team-based collaboration."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual Simulation Software License",
+      "Newborn Manikin Kit",
+      "Digital Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

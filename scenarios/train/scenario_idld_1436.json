@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1436",
+  "variant_type": "idld_aligned",
+  "title": "Virtual Reality Simulation-Based Foundational Nursing Education Course",
+  "context": {
+    "prior_knowledge": "Basic nursing concepts and medical terminology comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Utilizing VR simulation tools in a smartphone-centric limited technological environment for nursing skills education applicable to real-life scenarios for general citizens",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform basic patient assessments and emergency response procedures with 80% accuracy via VR simulation.",
+    "Learners can revise nursing intervention plans at least twice by incorporating peer feedback in simulation-based debriefings.",
+    "Learners can apply three or more infection control protocols appropriately in smartphone-based VR environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible VR Simulation Platform",
+      "Zoom-Based Video Conferencing System",
+      "Simplified Nursing Scenario Templates",
+      "Mobile-Optimized Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

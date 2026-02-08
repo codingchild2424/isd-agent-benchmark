@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0320",
+  "variant_type": "idld_aligned",
+  "title": "VR-Based English Vocabulary Acquisition Program Combining Reading and Listening",
+  "context": {
+    "prior_knowledge": "Basic English vocabulary (2,000-word level) and experience using digital devices",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Job-linked English vocabulary enhancement program for working professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "After 12 weeks of reading and simultaneous listening activities in a VR environment, learners can recognize pronunciations (sound recognition) of 200 target vocabulary words with 80% accuracy",
+    "Through 10 weeks of combined reading-listening learning, learners can select the meanings (meaning recognition) of target vocabulary with over 75% accuracy in formative assessments",
+    "By practicing situational dialogues in VR simulations, learners can generate sentences (meaning recall) utilizing target vocabulary meanings with over 70% accuracy"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "Interactive Digital Textbook",
+      "Speech recognition software",
+      "Vocabulary Assessment Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

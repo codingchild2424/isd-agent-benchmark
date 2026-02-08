@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0082",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Reinforcement Learning-Based Autonomous Vehicle Network Optimization Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematics (calculus, probability), programming fundamentals, and foundational machine learning theory",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Students lack prior knowledge of mmWave communication and autonomous driving systems but are interested in solving real-life problems through mathematical modeling. Project-based collaborative learning environment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can design a model that dynamically optimizes communication parameters (frame/symbol count) for autonomous vehicles using reinforcement learning algorithms.",
+    "Students can apply metrics to evaluate system performance by analyzing queue state information (QSI) and channel state information (CSI) in mmWave communication environments.",
+    "Students can analyze the trade-off between communication stability and detection accuracy (velocity resolution) in autonomous vehicle networks using simulation tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based simulation tools",
+      "mmWave communication simulation software",
+      "Reinforcement learning libraries (TensorFlow/RLlib)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

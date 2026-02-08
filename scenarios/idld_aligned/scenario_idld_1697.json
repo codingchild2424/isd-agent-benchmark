@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1697",
+  "variant_type": "idld_aligned",
+  "title": "Customized Mathematics Simulation: Learner-Centered VR E-Learning Design",
+  "context": {
+    "prior_knowledge": "Foundational mathematics knowledge aligned with secondary education curricula and practical application experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Personalized learning environment for real-life and job-integrated mathematics problem-solving",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners apply math problem-solving strategies tailored to their cognitive styles and preferences with 85% accuracy in a VR simulation environment.",
+    "Learners achieve a 70% or higher self-directed learning completion rate in personalized learning paths generated based on diagnostic data analyzed per learner.",
+    "Learners demonstrate real-world math application skills through project outcomes that incorporate peer evaluation and expert feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Ontology-Based Learner Profiling System",
+      "Adaptive Content Management Platform",
+      "VR Mathematics Simulation Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

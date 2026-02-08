@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8155-V",
+  "variant_type": "context_variant",
+  "title": "Collaborative Language Learning Scenario Design Using Educational Modeling Language",
+  "context": {
+    "prior_knowledge": "Basic language learning experience (grammar, vocabulary, reading comprehension), digital tool proficiency, and collaborative communication skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Utilizes collaborative learning tools in smartphone-centric limited-technology environments, focusing on enhancing learners' linguistic expression diversity and contextual comprehension skills",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners use IMS LD-based visual editing tools to design text structures and vocabulary elements for language-learning scenarios.",
+    "Learners exchange real-time scenario design feedback with teammates via collaboration tools to improve expressive and reading comprehension skills.",
+    "Learners can systematically organize context-specific language learning activities (listening, speaking, reading, writing) by applying a learning pattern library"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LPCEL Editor mobile-optimized version",
+      "IMS LD learning design templates",
+      "Cloud collaboration platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

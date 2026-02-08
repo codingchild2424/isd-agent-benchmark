@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5693",
+  "variant_type": "idld_aligned",
+  "title": "Animation-Based Breastfeeding Physiology Education Program",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and general comprehension of human physiology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Animation content optimized for mobile environments, requiring integration with learner-paced progress management systems",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain hormonal mechanisms (prolactin, oxytocin, etc.) that promote the milk secretion process.",
+    "Learners can visually analyze physiological changes in breast tissue (alveolar expansion, duct dilation, etc.) during lactation.",
+    "Learners can use animated content to explain the principles of breast pressure generation and milk flow pathways in three distinct stages."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Animation Module",
+      "Interactive Quiz Template",
+      "PDF Summary Materials (Smartphone-Optimized)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

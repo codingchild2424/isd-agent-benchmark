@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0399-V",
+  "variant_type": "context_variant",
+  "title": "Technology-Enhanced Learning Design for IoT-Based Scientific Inquiry",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Museum-linked experiential learning simulations utilizing IoT sensors in BYOD environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can formulate and validate scientific hypotheses using IoT sensor data",
+    "Learners design learning scenarios connecting virtual/physical environments using model-based development tools",
+    "Learners can record and reflect on collaborative problem-solving processes according to the activity theory framework"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Devices",
+      "IoT Sensor Kit",
+      "Model-Based Development Platform",
+      "Tin-Can API-Compliant LMS"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8166",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Course on Cellular Concepts for Students with Visual Impairments",
+  "context": {
+    "prior_knowledge": "Basic biological terminology and science learning experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Personalized learning environment configuration using individual devices, with a focus on tactile and auditory materials.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can explain the basic structures of a cell (cell membrane, cytoplasm, nucleus) with 80% accuracy using 3D-printed cell models.",
+    "Students can present three or more comparisons between animal and plant cells by referencing voice explanations from a mobile app.",
+    "Students will achieve at least 70% understanding of concepts related to cellular functions through 6 weeks of formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Printing Learning Materials",
+      "Mobile App with Embedded Voice Explanations",
+      "Braille Worksheet",
+      "Augmented Reality (AR) Tactile Feedback Device"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

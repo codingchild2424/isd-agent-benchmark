@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5445-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Mathematics Microlearning Design for Adult Professionals",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and ability to interpret basic work-related data",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Need for modular content design enabling self-directed learning in smartphone-based constrained technological environments, emphasizing applicability to tasks in medical, legal, and technical professions",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can improve work-related mathematical problem-solving skills by 30% using CBI in mobile environments.",
+    "Learners are motivated to voluntarily complete microlearning modules at least twice weekly.",
+    "Personalized learning paths are adjusted by 80% or more based on formative assessment results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Mobile Learning Platform",
+      "Offline Cache-Supported Content",
+      "Peer Learning Support Community Features"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

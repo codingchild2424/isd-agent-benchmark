@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0102-V",
+  "variant_type": "context_variant",
+  "title": "Customized Mobile Mathematics Learning System: Context-Based Adaptive Microlearning",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Work-applicable practical math-focused course for professionals, with content optimized for smartphone-based learning environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can mathematically model and solve real-world problems (e.g., budget estimation, data analysis) occurring in work environments.",
+    "Follow context-aware system-provided situational learning paths (learning flows) with over 90% adherence to perform self-directed learning.",
+    "Solve adaptive problems (formative assessments) presented in mobile environments with an average accuracy of 80% or higher"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Offline Synchronization Feature",
+      "Context-Aware Data Collection Module (Location/Time/Learning Patterns)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

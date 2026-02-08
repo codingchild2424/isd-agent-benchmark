@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4035",
+  "variant_type": "idld_aligned",
+  "title": "Emergency Remote Science Education: Effective Learning Experience Design through Task-Oriented Learning",
+  "context": {
+    "prior_knowledge": "Basic Science Knowledge and Digital Device Proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in a BYOD (Bring Your Own Device) setting, requiring clear task design and feedback systems for learners with diverse digital competencies.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain fundamental concepts in science with 80% or higher accuracy through task-oriented learning.",
+    "Learners complete the process of solving presented scientific problems using digital tools at least three times.",
+    "Learners revise and resubmit assignments at least twice based on feedback received from peers and instructors."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science-Related Digital Textbooks",
+      "Assignment submission platforms",
+      "Real-time video conferencing tools",
+      "Digital Literacy Support Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

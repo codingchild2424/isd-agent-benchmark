@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5822-V",
+  "variant_type": "context_variant",
+  "title": "Course for Strengthening Problem-Solving Competencies Based on Cognitive Load Classification and Brain Activity Analysis",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners are office/administrative workers requiring advanced learning on cognitive load management and scientific analysis methods in complex work environments. Practical components are structured in smartphone-centered limited-technology settings",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Through problem-solving tasks, learners can classify high/medium/low cognitive load states with over 80% accuracy.",
+    "Learners can explain the correlation between cognitive load and neural responses using fNIRS-based brain activity data.",
+    "Learners understand the fundamental principles of the LSTM-BAM hybrid model and can explain how to apply it to time-series data analysis.",
+    "Learners can design cognitive load measurement experiments using smartphone-based tools in limited technological environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible fNIRS Simulation Tool",
+      "Cognitive load measurement worksheet",
+      "Open-Source Data Analysis Platform (Colab, etc.)",
+      "Problem-Solving Task Scenario Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

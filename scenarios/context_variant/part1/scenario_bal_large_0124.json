@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0124",
+  "variant_type": "balance_large_scale",
+  "title": "Course on Applying Universal Instructional Design (UID) to Improve Accessibility in Distance Education [Large-Scale]",
+  "context": {
+    "prior_knowledge": "Basic mathematical concepts and experience with online learning platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Applying UID (Universal Instructional Design) principles to improve accessibility in math education for working professionals, utilizing Moodle™ LMS in a BYOD environment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can improve the accessibility of online mathematics resources in at least three ways by applying UID principles",
+    "Learners can maintain at least 80% participation rates for hearing-impaired learners using real-time caption/interpreting tools during Zoom sessions",
+    "Learners can submit project deliverables addressing visual and cognitive accessibility issues using Moodle™ plugin modules (e.g., ATBar, MathJax)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Moodle™ LMS Account",
+      "Zoom Real-Time Captioning Tool",
+      "MathJax Official Documentation",
+      "WCAG 2.1 Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

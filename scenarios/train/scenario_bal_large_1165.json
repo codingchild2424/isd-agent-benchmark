@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-1165",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Personalized Language Learning Design Through MOOC Learner Behavior Analysis",
+  "context": {
+    "prior_knowledge": "Basic Digital Literacy and Online Learning Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Behavior Analytics-Based Customized Educational Design for Language Learning Targeting Professionals (Medical/Legal/Technical)",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify individual learning patterns by analyzing behavioral data collected from MOOC platforms",
+    "Learners can design weekly learning plans and content recommendation systems based on analysis results",
+    "Learners can develop personalized feedback mechanisms (quizzes, assignments, discussions) to enhance language learning outcomes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Learning Analytics Tool",
+      "Learner Behavior Dataset Sample",
+      "Customizable Learning Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

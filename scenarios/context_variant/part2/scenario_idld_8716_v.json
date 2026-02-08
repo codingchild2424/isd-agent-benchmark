@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8716-V",
+  "variant_type": "context_variant",
+  "title": "Chemistry MOOC Digital Content Modules: Mobile Microlearning Based on Collaborative Learning and Connectivism",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and basic smartphone utilization skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Teaching Competency Enhancement Program for Pre-Service or In-Service Teachers. Provides a Collaborative Learning Environment for Systematic Acquisition of Basic Chemistry Concepts in Smartphone-Centric Limited-Technology Settings",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Learners can explain core chemistry concepts (atomic structure, chemical bonding, etc.) with 80% or higher accuracy.",
+    "Learners enhance their ability to solve chemistry problems through discussion and collaboration with peers on mobile platforms.",
+    "Learners can analyze and interpret chemical reaction simulation results through interactive activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Interactive simulation tool",
+      "Collaborative Learning Forum",
+      "PDF/Video Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0739",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Accessibility Strategies for Designing Inclusive Online Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic Experience Using Digital Devices and Ability to Access Online Learning Platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners are general citizens with diverse physical and cognitive conditions, operating in mobile environments where consumption of fragmented learning content is feasible",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can independently navigate content using accessibility tools (text enlargement, voice conversion, etc.) in mobile environments",
+    "Learners can evaluate microlearning content that applies inclusive design principles (alt-text provision, colorblind-friendly design)",
+    "Learners can design online activities (providing text/audio/video options) that reflect diverse learner needs"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Accessibility inspection tool",
+      "Multilingual support templates",
+      "Case-based activity materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

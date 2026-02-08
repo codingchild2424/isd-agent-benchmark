@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1193",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Integrated Instructional Design for Online Certification in [Large-Scale] Engineering Education",
+  "context": {
+    "prior_knowledge": "Engineering foundational knowledge and basic programming competencies",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Implementation of Project-Based Assessment Using Online Certification Courses in a Smartphone-Centric Limited Technology Environment",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners demonstrate technical practical competencies by completing at least one MOOC certification course in cloud computing, blockchain, or data analytics",
+    "Applying engineering knowledge (e.g., thermodynamics, fluid dynamics) acquired during an online certification process, learners select one real-world industrial problem (e.g., heat exchanger design, fluid flow optimization), submit a 5-page project report with simulation/experimental data within four weeks, and score at least 12 out of 15 points on an evaluation rubric assessing problem definition clarity, solution appropriateness, and depth of analysis.",
+    "Learners can analyze learning effectiveness of online certification courses through peer assessment and self-reflection"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone and Mobile Internet Access",
+      "MOOC Platform Free/Low-Cost Certification Courses",
+      "Campus Learning Management System (LMS) Basic Features",
+      "Offline Collaboration Tools (Flipchart, Whiteboard)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7267",
+  "variant_type": "idld_aligned",
+  "title": "Wikipedia-Based Automated Learning Path Design Course",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Scientific Concepts and Digital Device Utilization Skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "In-depth science concept learning program for professionals in healthcare, legal, and technical fields.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can map relationships between thematic concepts with 80% accuracy using Wikipedia’s knowledge structure",
+    "Learners can generate personalized learning paths three or more times using automation tools",
+    "Learners can establish and implement a two-week self-directed learning plan based on generated learning paths"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PC",
+      "Projector",
+      "Learning Path Design Software",
+      "Wikipedia Offline Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

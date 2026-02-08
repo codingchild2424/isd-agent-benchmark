@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8487-V",
+  "variant_type": "context_variant",
+  "title": "MOOC Learning Experience Design Using Wearable Technology: Strengthening Social Studies Instructional Competency",
+  "context": {
+    "prior_knowledge": "Fundamental usage of online learning platforms and core social studies concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for pre-service/in-service teachers integrating wearable technology (smartwatches, fitness trackers, etc.) into social studies MOOCs to enhance learning immersion and technological competency",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners improve learning focus in social studies MOOCs by 20% or more using real-time biometric data collected from wearable devices.",
+    "Learners achieve at least 90% completion of social phenomenon analysis tasks by integrating mobile apps with wearable device technology.",
+    "Learners design at least one social studies MOOC lecture module applying wearable technology-based learning experience principles."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Wearable Device Integration Prototype",
+      "Learning Analytics Tools",
+      "Social Studies MOOC Content Sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

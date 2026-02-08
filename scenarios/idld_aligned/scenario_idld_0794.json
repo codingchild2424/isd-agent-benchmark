@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0794",
+  "variant_type": "idld_aligned",
+  "title": "Short-Term Course for Strengthening Elementary Mathematics Teacher Competencies Using Mobile Learning",
+  "context": {
+    "prior_knowledge": "Basic mathematics education theories and fundamental smartphone utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course focused on developing mobile-based mathematics pedagogies applicable in real classrooms. Content creation and collaboration must be achievable via smartphones in PC-unavailable environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design personalized math problem sets using mobile applications.",
+    "Within 1 week, learners will develop one mobile-based math lesson scenario reflecting an actual classroom environment (e.g., 3rd-grade fraction unit) and submit a result meeting ≥4 of 5 evaluation criteria (goal clarity, interaction design, technology utilization, etc.) based on peer assessment and instructor feedback.",
+    "Learners can share mobile lesson materials with peer teachers and provide feedback via a collaborative platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Free/Low-Cost Educational Apps",
+      "QR Code Generator",
+      "Cloud Storage Space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

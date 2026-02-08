@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8789-V",
+  "variant_type": "context_variant",
+  "title": "Workshop on Information Technology-Based Teaching-Learning Style Analysis Methods",
+  "context": {
+    "prior_knowledge": "Fundamental teaching-learning theories and experience with information technology applications",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A hands-on course applying three-dimensional analysis (network utilization, collaborative methodologies, independence levels) to help pre-service teachers effectively integrate IT into elementary science instruction",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Information technology-integrated teaching-learning styles can be diagnosed using a three-dimensional analysis framework (network/collaboration/independence)",
+    "Digital teaching-learning scenarios suitable for elementary science classes can be designed using mobile devices",
+    "Learners analyze provided K-12 classroom data (3-class samples) to propose at least one tailored instructional strategy per VARK learning style (visual, auditory, reading/writing, kinesthetic). They achieve a rating of \"average\" or higher in at least four of five peer evaluation rubric items."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet device",
+      "LMS platform",
+      "Teaching-Learning Analysis Worksheet",
+      "Science Education Apps (e.g., PhET)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

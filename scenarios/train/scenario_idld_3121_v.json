@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3121-V",
+  "variant_type": "context_variant",
+  "title": "Designing Online Mathematics Learning Spaces and Project-Based Curriculum",
+  "context": {
+    "prior_knowledge": "Basic Mathematical Knowledge and Experience with Online Learning Tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners participate in online collaboration and project execution using personal devices, while instructors design interaction-facilitating environments based on modern learning theories; learners evaluate achievements through collaborative application of math problems to real-life projects",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners successfully complete 80% or more of collaborative math projects using online tools.",
+    "Learners improve their ability to give and receive peer feedback by over 70% in project-based learning settings.",
+    "Over 1–6 months, learners will systematically record mathematical problem-solving processes (problem definition, solution steps, error analysis) in a digital portfolio (Google Sites or Notion) at least twice weekly. They will share feedback with three peer learners and meet at least four of the five final portfolio evaluation criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Platforms (Google Workspace, Notion, etc.)",
+      "Digital Portfolio Tools (Miro, Padlet, etc.)",
+      "Mathematics Simulation Software (Geogebra, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

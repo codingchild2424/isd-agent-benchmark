@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0067",
+  "variant_type": "idld_aligned",
+  "title": "Collaborative Authoring and Sharing Workshop for Problem-Based Learning Design",
+  "context": {
+    "prior_knowledge": "Foundational instructional design knowledge and understanding of PBL (Project-Based Learning) concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners, as working professionals, have limited experience in developing and sharing educational materials and require collaboration tools in BYOD environments; the goal is to strengthen PBL design competencies in language education",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can utilize at least three PBL-based language education design templates",
+    "Learners can collaboratively create learning design documents with at least two peer teachers using collaboration tools",
+    "Learners can upload designed PBL scenarios to online platforms and share them with differentiated access permissions (read/edit)",
+    "Learners can revise their designs at least twice incorporating peer feedback when sharing designs"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LdShake collaboration platform",
+      "PBL Template Library",
+      "Digital Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

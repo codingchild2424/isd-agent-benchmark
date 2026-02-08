@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4723-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Competencies: Foundations of E-Learning System Development Applying Deductive Instructional Methods",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and online learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the process of designing e-learning system architectures using UML (Unified Modeling Language).",
+    "Learners can establish prototype implementation plans by applying a modular content development process based on deductive instructional methods.",
+    "Learners can propose three or more evaluation criteria for e-learning systems operable in limited technological environments (smartphones)."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

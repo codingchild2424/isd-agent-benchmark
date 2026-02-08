@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7499",
+  "variant_type": "idld_aligned",
+  "title": "Syntactic Complexity Instructional Design Workshop for Second Language Writing Development",
+  "context": {
+    "prior_knowledge": "Basic second-language proficiency at CEFR A1 level or higher, understanding fundamental grammar concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening second language writing instruction competencies within math subject contexts for prospective and practicing teachers",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the impact of three or more task types (explanation, argumentation, description) on syntactic complexity",
+    "Learners can analyze CEFR-level syntactic complexity indicators (mean clause length, conjunction frequency, etc.) and apply them to instructional design",
+    "Learners can design two or more syntactic complexity training activities implementable in smartphone environments"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "EFCAMDAT sample dataset",
+      "Simple NLP Analysis Tool (Online Version)",
+      "CEFR-Based Syntactic Complexity Checklist",
+      "Task Type Classification Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

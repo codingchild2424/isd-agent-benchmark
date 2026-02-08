@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1216-V",
+  "variant_type": "context_variant",
+  "title": "Deep Learning Practical Skill Enhancement: Online Self-Regulated Learning Assessment Tool Development and Application Project",
+  "context": {
+    "prior_knowledge": "Secondary Mathematics Pedagogy and Basic Understanding of Self-Regulated Learning Theory",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners design a 2-factor survey instrument (5 motivational items: goal-setting, interest maintenance; 5 strategic items: time management, resource utilization) to measure self-regulated learning in online environments. They conduct expert validity evaluation (CVI ≥0.8) and internal consistency verification (Cronbach's α ≥0.7)",
+    "Learners perform CFA on survey data (≥10 items) using AMOS or R (lavaan), producing reports with construct validity results meeting GFI >0.9 and CFI >0.9, metric invariance confirmed via multi-group analysis, and reliability analysis results with Cronbach's α >0.7",
+    "At the six-month course conclusion, learners design fairness evaluation metrics considering ≥3 demographic variables (gender, age group, network access: 5G/Wi-Fi/4G). They propose methods to reduce model performance deviations within 10% using fairness verification tools (e.g., Fairlearn)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

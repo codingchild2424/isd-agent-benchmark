@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2454",
+  "variant_type": "idld_aligned",
+  "title": "Mathematics Instructional Practice Competency Enhancement Program for Rural School Teachers",
+  "context": {
+    "prior_knowledge": "Knowledge of basic mathematics pedagogy and understanding of rural educational environments",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Simulation environment reflecting real classroom situations of rural school teachers, incorporating smartphone-based VR content.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design math lessons suitable for rural environments by applying four or more improvisational teaching methods.",
+    "Learners develop practical skills to adjust instructional strategies within 24 hours by analyzing formative assessment data.",
+    "Learners can create personalized math instruction plans reflecting individual learning characteristics with over 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Headset",
+      "Offline-enabled assessment tool template",
+      "Rural Education Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

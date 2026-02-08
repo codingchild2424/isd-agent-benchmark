@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5787",
+  "variant_type": "idld_aligned",
+  "title": "Intensive Short-Term CSCL Design Course Based on Hierarchical Task Networks",
+  "context": {
+    "prior_knowledge": "Basic computer application skills and understanding of fundamental science curriculum concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Education on automated CSCL scenario design using HTN planning systems",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain a Unit of Learning (UoL) design framework reflecting student roles, learning styles, and domain knowledge in a Computer-Supported Collaborative Learning (CSCL) environment.",
+    "Learners can construct a collaborative task network aligned with learning objectives using Hierarchical Task Network (HTN) planning techniques with over 80% accuracy.",
+    "Learners can prototype CSCL scenarios for small groups using digital tools and conduct peer evaluations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "HTN Planning Domain Definition Template",
+      "CSCL Scenario Sample Database",
+      "Online Collaboration Tools (MIRO, Google Workspace, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

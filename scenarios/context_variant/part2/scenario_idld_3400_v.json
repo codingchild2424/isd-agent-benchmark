@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3400-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Microlearning-Based Human Anatomy Education Improvement Program",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A short-term course for in-service practitioners emphasizing interactive content via mobile devices and peer collaborative learning environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Over 90% of learners can accurately describe structural features of major body systems using 3D virtual anatomy models.",
+    "Learners perform real-time discussions with peers at least three times weekly via a mobile platform and submit learning reports reflecting feedback.",
+    "Learners can analyze anatomical applications linked to clinical environments with 80% accuracy through AR-based practical exercises."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Virtual Anatomy Software",
+      "AR Content Creation Kit",
+      "Mobile Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0209",
+  "variant_type": "balance_large_last",
+  "title": "Machine Learning-Based Instructional Design Workshop for High-Strength, High-Toughness Aluminum Alloy Design",
+  "context": {
+    "prior_knowledge": "Foundational materials science theories, basic machine learning concepts, and data analysis experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Instructional design exploration for pre-service/in-service teachers, focusing on lecture design and science education innovation methodologies",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the operating principles of machine learning-based design systems (MLDS) and apply them to material property prediction",
+    "Learners can understand the strength-ductility trade-off and propose optimization strategies in aluminum alloy design",
+    "Learners will analyze three virtual experimental results using MLDS (Machine Learning for Digital Science) tools and submit within a week an instructional design plan (including learning objectives, assessment methods, activity design) applicable to ≥2 of 5 material development stages."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based machine learning tools",
+      "Aluminum alloy dataset sample",
+      "Google Colab/Jupyter Notebook environment",
+      "Zoom Screen Sharing Feature"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3273-V",
+  "variant_type": "context_variant",
+  "title": "Data Science Practical Competency Enhancement: Self-Management and Non-Prescription Drug Education: Expert-Designed Student-Created Content",
+  "context": {
+    "prior_knowledge": "Basic Understanding of Drug Mechanisms and Self-Management Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain non-prescription medication guidelines for 14 self-management topics",
+    "Learners enhance their ability to communicate complex pharmaceutical information in a public-friendly manner using video production skills",
+    "Learners can improve educational content by incorporating feedback from peers and experts"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

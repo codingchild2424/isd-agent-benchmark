@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0289",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Language-Technical Integrated Communication Course for Improving Hazard Awareness in Construction Material Handling",
+  "context": {
+    "prior_knowledge": "Understanding of basic construction site workflows, familiarity with safety-related technical terminology, basic smartphone functionality, experience with simple data visualization tools, and foundational technical report writing/reading skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Hands-on training using smartphone sensors, emphasizing enhanced safety management capabilities in non-face-to-face environments and fostering clear communication (expression/reading comprehension) skills among workers. It includes language-based communication scenarios such as technical report writing, on-site instruction interpretation, and safety meeting presentations. Learners are evaluated on their oral/written communication skills using professional terminology, with validation of applicability in real work environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify four major risk factors (chemical exposure, equipment collisions, falling objects, electric shocks) in construction material handling tasks with 80% accuracy and clearly describe them in safety reports using technical vocabulary. Specifically, risk factors must be systematically documented using professional terms such as \"risk identification,\" \"risk assessment,\" and \"risk mitigation.\"",
+    "Learners can preprocess smartphone accelerometer/gyroscope sensor data (3-axis acceleration, angular velocity) to implement a machine learning model (Random Forest or SVM) that classifies at least three risk scenarios (falls, collisions, slips), measure the model’s accuracy (≥85%), precision (≥80%), and recall (≥75%), and explain results orally/written using technical terms (feature extraction, cross-validation, F1-score). Additionally, model interpretations must be translated into linguistic expressions aligned with safety protocols.",
+    "Learners can execute risk prevention measures in real work environments through a three-stage process (awareness-analysis-response), effectively communicating each stage orally/written using professional terms based on safety protocols (e.g., \"risk identification,\" \"risk assessment,\" \"risk mitigation\"). Technical vocabulary and clear expressions must be utilized during on-site instruction interpretation and safety meeting presentations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone (Built-in Sensors)",
+      "LMS platform",
+      "Hazard Simulation Video",
+      "Machine Learning Classification Model Demo"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

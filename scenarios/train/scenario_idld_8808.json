@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8808",
+  "variant_type": "idld_aligned",
+  "title": "Gamified Laboratory Safety Education Using AI Educational Robots",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific experimental procedures and safety regulations",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Laboratory safety education course for pre-service/in-service teachers utilizing AI robots and gamification, with learning outcomes measured through project-based assessment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain laboratory safety regulations with over 90% accuracy via gamified AI robot content based on the GAFCC model.",
+    "Learners can perform risk situation response procedures with over 80% accuracy in an AI robot simulation environment.",
+    "Learners can complete and submit a laboratory safety education scenario design project through collaborative assignments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AI Educational Robot",
+      "Gamification Software",
+      "Laboratory Safety Simulation Module",
+      "Digital Tablet/Laptop"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

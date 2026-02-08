@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6510",
+  "variant_type": "idld_aligned",
+  "title": "E-Assessment Design Competency Enhancement Program Using Blended Teaching Methods",
+  "context": {
+    "prior_knowledge": "Basic Online Learning Platform Usage Experience and Understanding of Language Education Assessment Tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-based learning with synchronous video conferencing and asynchronous assignment submissions",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Principles of e-assessment design combining Competency-Based Approach (CBA) and Objective-Based Approach (OBA)",
+    "Development of three smartphone-compatible e-assessment activities aligned with given language learning objectives",
+    "Establishment of learner-customized feedback strategies by analyzing formative assessment data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Friendly Assessment Authoring Tool",
+      "Zoom Platform",
+      "Core LMS features",
+      "Smartphone-Compatible Quiz Generator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

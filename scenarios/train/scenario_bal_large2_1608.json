@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1608",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Independent Curriculum Physics E-Module Development Project",
+  "context": {
+    "prior_knowledge": "Middle school-level foundational physics concepts (force, motion, energy, etc.)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students self-direct learning on an LMS platform via personal devices, participate in weekly asynchronous discussion sessions, and complete project-based assignments applying physics concepts to real-life problem-solving.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can explain core physics concepts (Newtonian mechanics, waves, electromagnetism) with over 80% accuracy using self-directed learning strategies.",
+    "Learners can analyze physics phenomenon simulations using interactive content within e-modules and connect them to three or more real-world applications.",
+    "Students can share weekly learning reviews with peer learners via the LMS discussion board and provide at least five instances of constructive feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Google Classroom/Moodle)",
+      "Physics Simulation Tools (PhET, GeoGebra)",
+      "Multimedia Production Software (Camtasia, Canva)",
+      "Automated Grading System for Formative Assessments"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

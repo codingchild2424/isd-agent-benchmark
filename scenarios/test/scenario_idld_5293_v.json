@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5293-V",
+  "variant_type": "context_variant",
+  "title": "Web Development Practical Competency Strengthening: Simulation-Based Medical Communication Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and patient counseling experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify core communication skills by analyzing three or more patient interaction scenarios via web-based observational practice.",
+    "Through collaborative learning activities, learners can develop strategies for responding to complex medical situations by exchanging feedback with peers at least 80% of the time.",
+    "After one week of preparatory learning, learners can improve time efficiency (TTC) by 20% in simulation assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

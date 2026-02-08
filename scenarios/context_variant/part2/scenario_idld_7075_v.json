@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-7075-V",
+  "variant_type": "context_variant",
+  "title": "TPACK-Based Music Education Technology Integration and Affective Domain Enhancement Program",
+  "context": {
+    "prior_knowledge": "Elementary music theory, instrument performance experience, and digital device proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Music education program linked to social studies for working professionals, emphasizing creative music activities and technology integration to alleviate work-related stress.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can create three or more emotion-expression works using music composition tools in a VR environment.",
+    "Learners can write and present music listening analysis reports using a Digital Audio Workstation (DAW).",
+    "Based on the TPACK framework, learners can establish and execute self-directed learning plans in technology-integrated activities.",
+    "Learners can document and reflect on emotional responses experienced during music activities in a portfolio."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headsets (10 Sets)",
+      "Tablet PCs (30 units)",
+      "Cloud-Based DAW Software",
+      "Customizable LMS modules",
+      "Emotion Analysis AI Plugin"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

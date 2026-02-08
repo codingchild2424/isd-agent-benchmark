@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1006",
+  "variant_type": "idld_aligned",
+  "title": "Counterfactual Narrative-Based Safety Education for Accident Prevention in the Construction Industry",
+  "context": {
+    "prior_knowledge": "Basic Understanding of Construction Site Safety Regulations and Hazard Identification",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Provides educational scenarios based on real accident cases using Computation-Based Semi-Fictional Narrative Generation (CNSG) technology, enabling safe experiential learning of actual incidents",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify and explain three or more potential risk situations at construction sites",
+    "Learners can propose two or more accident prevention strategies through semi-fictional narrative-based scenarios",
+    "Learners can analyze generated narrative cases and design safety protocols applicable in real-world settings in three or more steps."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CNSG-based narrative generation system",
+      "Construction safety incident database",
+      "Interactive online learning module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

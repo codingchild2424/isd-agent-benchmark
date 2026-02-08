@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0019",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Behavioral Engagement Enhancement Program for Online Science Inquiry Learning",
+  "context": {
+    "prior_knowledge": "Foundational science concepts and basic smartphone operation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Program for learners over 40 requiring asynchronous self-directed learning in smartphone-centric limited-technology environments, with continuous feedback via formative assessments",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform the scientific inquiry process (problem definition-hypothesis formulation-experiment design-result analysis) with 80% accuracy using VR simulations within three weeks",
+    "Learners voluntarily access online learning platforms at least three times per week for four weeks and write inquiry activity reports (minimum 500 characters)",
+    "Learners demonstrate the ability to apply self-directed learning strategies by achieving 75+ points (out of 100) on mid-formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized VR content",
+      "Text-based simulation tools",
+      "Weekly learning guide videos (5-minute duration)",
+      "Automated Scoring Formative Assessment System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

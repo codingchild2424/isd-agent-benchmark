@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4674-V",
+  "variant_type": "context_variant",
+  "title": "Evidence-Based Practice Competency Enhancement Program Based on Nursing Simulation",
+  "context": {
+    "prior_knowledge": "Fundamental nursing skills and basic pathology knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Supplemental learning materials available via smartphones, with simulation laboratory facilities.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners assess patient conditions and develop intervention plans with over 80% accuracy in simulation environments reflecting real clinical cases.",
+    "Autonomously design and execute three or more team-based simulation projects following the CDIO model phases",
+    "Apply the Evidence-Based Practice (EBP) process to ensure over 90% of learners integrate the latest research findings in clinical decision-making",
+    "Through reflective journaling, learners self-assess and develop improvement plans at least four times independently"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Standardized patient simulator (SP)",
+      "Clinical Scenario Database",
+      "Flipcharts and markers for team activities",
+      "Smartphone-Compatible Quiz App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

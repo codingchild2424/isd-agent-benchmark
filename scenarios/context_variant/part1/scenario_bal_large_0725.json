@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0725",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Optimizing Science Education Through Computer-Managed Learning Systems",
+  "context": {
+    "prior_knowledge": "Elementary computer literacy and secondary-level science knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners access modular content (15-20 minutes daily) via mobile devices and use a platform with peer feedback systems",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design individualized learning pathways through a computer-managed system with 90% accuracy",
+    "Learners can interact at least three times per week using a peer feedback system and apply learning content at over 80% proficiency",
+    "Learners can improve their understanding of scientific concepts from 75% to 90% proficiency through formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Automated Personalization Algorithm",
+      "Peer Feedback Module",
+      "Daily Microlearning Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7684-V",
+  "variant_type": "context_variant",
+  "title": "Congenital Hypothyroidism Management System Design and Development",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Simulating the design process of a web-based patient management system based on the ADDIE model in a hands-on environment, including user experience evaluation and database structure design",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design a basic architecture for a congenital hypothyroidism management system following the five phases of the ADDIE model (Analysis, Design, Development, Implementation, Evaluation).",
+    "Learners can configure patient information tables (10) and role-based access permissions using a relational database (based on MS SQL Server).",
+    "Learners can develop a protocol to analyze system usability by applying user experience (UX) evaluation metrics."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software License",
+      "Database Design Template",
+      "UX Evaluation Questionnaire Sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3161-V",
+  "variant_type": "context_variant",
+  "title": "Gamified Mathematics Education Course for Adult Learners",
+  "context": {
+    "prior_knowledge": "Foundational mathematical knowledge at the college level",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Improvement of practical mathematics problem-solving skills through project-based assessments in a BYOD (Bring Your Own Device) environment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain systematic strategies for solving complex math problems using gamification elements",
+    "Achieve ≥80% math problem-solving accuracy through game mechanics like digital badges and level-up systems",
+    "Complete ≥3 peer feedback-based collaborative projects through quest-style group activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Web-Based LMS (Learning Management System)",
+      "Gamification Template Tool",
+      "Mobile-Compatible Mathematics Problem Bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Business/HR/Admin Support"
+}

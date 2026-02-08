@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1295",
+  "variant_type": "balance_large_scale",
+  "title": "Understanding Airport Runway Foreign Object Debris Detection Systems [Large-Scale]",
+  "context": {
+    "prior_knowledge": "Basic Understanding of Computer Vision and Deep Learning Concepts, General Knowledge of Airport Operations Processes",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Modular 15-minute learning units based on mobile devices, including real-time quizzes and simulation activities",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can describe three or more types and risks of foreign object debris (FOD) occurring on airport runways",
+    "Learners can explain the principles of applying deep learning-based image recognition systems to foreign object detection and tracking",
+    "Learners can perform foreign object detection processes with 80% accuracy using simulation tools that replicate real airport environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Airport Runway FOD (Foreign Object Debris) Dataset Sample",
+      "Mobile-Compatible Simulation App",
+      "Deep Learning Model Visualization Tool",
+      "Interactive Learning Module (PPT/Video)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

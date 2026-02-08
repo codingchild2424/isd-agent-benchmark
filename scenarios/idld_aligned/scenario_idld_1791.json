@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1791",
+  "variant_type": "idld_aligned",
+  "title": "Course on Strengthening Mathematical Problem-Solving Competencies in CMS-Based Blended Learning Environments",
+  "context": {
+    "prior_knowledge": "Understanding of elementary mathematical concepts and job-related mathematical problem-solving experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended learning environment where medical, legal, and technical professionals solve job-related math problems using CMS tools and real-time workshops.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze and propose solutions for job-specific mathematical problems at least three times using collaboration tools within the CMS",
+    "Learners can perform data-driven decision-making at least five times using analytical tools (e.g., graph generators, calculators) within the CMS in mobile environments",
+    "Learners can diagnose their tool utilization patterns and develop improvement plans based on CMS learning logs"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CMS Platform (Mobile-Compatible)",
+      "Job-Specific Mathematical Problem Scenario Database",
+      "Real-Time Video Conferencing Tool",
+      "Mobile-Compatible Mathematical Analysis Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

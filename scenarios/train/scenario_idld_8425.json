@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8425",
+  "variant_type": "idld_aligned",
+  "title": "Practical Text Analysis and Data Modeling for Financial Fraud Prediction",
+  "context": {
+    "prior_knowledge": "Foundational Knowledge of Financial Accounting and Introductory Data Analysis",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Course where practitioners learn to analyze financial fraud patterns using corporate annual report text data. Operates in small groups (<10), with digital device-supported practical exercises.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "They can extract meaningful thematic elements from annual reports using LDA (Latent Dirichlet Allocation) and STM (Structural Topic Modeling)",
+    "They can build predictive models by combining corporate financial data (size, leverage, fixed-asset ratio) with text analysis results",
+    "They can calculate and interpret model performance metrics for identifying companies with high fraud risk"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/R Programming Environment",
+      "Financial Statement Sample Dataset",
+      "STM Analysis Tool",
+      "Jupyter Notebook Installation Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

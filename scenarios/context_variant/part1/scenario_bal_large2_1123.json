@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1123",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Blended Learning Course on Cardiovascular Pharmacotherapy",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and introductory cardiovascular diseases",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasizing work relevance for office/administrative professionals, with mandatory use of digital devices",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain three or more drug action mechanisms according to the pathophysiology of cardiovascular diseases.",
+    "In a blended learning environment, learners can complete online modules 100% and apply knowledge by asking two or more questions during real-time discussions.",
+    "Through a two-week project-based assessment, learners analyze three real patient cases (one internal medicine, one surgery, one emergency) and submit treatment plans including diagnosis (with ICD-10 codes), three or more treatment goals, a five-step intervention plan, and two measurable evaluation criteria following institutional standard templates. Submitted plans must achieve an \"Excellent\" grade (90+ points) in at least four of the five institutional rubric items (accuracy, completeness, clinical relevance, evidence-based approach, practicality)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive online module",
+      "Real-time video conferencing tools",
+      "Digital Textbook",
+      "Case-Based Assessment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

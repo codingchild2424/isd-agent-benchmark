@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0217",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Online Computer Programming Bridge Course for Pre-Service Teachers’ Competency Development",
+  "context": {
+    "prior_knowledge": "Fundamental computer literacy and logical reasoning skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A Course Focused on Preservice Teachers Acquiring Foundational Programming Skills Immediately Applicable in Elementary Computing Education Settings and Cultivating Problem-Solving Abilities",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can implement simple educational programs using basic Python syntax in simulation/VR environments",
+    "Learners can solve elementary-level puzzle problems by applying algorithm design principles",
+    "Learners can develop peer feedback writing and revision skills through a peer assessment system"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software License",
+      "Customized Learning Management System (LMS)",
+      "Online Collaboration Tools (Zoom, Slack, etc.)",
+      "Virtual Development Environment for Programming Practice"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

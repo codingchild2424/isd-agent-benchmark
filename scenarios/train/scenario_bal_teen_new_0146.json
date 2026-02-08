@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0146",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Methodology Development for Designing and Operating Large-Scale Online Language Learning (MOOC): Focused on Text, Expression, and Reading Comprehension Competencies",
+  "context": {
+    "prior_knowledge": "Foundational digital literacy, basic language learning principles (four domains: reading, writing, listening, speaking), understanding of fundamental grammatical structures, experience with text analysis tools, and basic operational skills for online learning platforms (e.g., Moodle)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Developing a language MOOC design process using mixed research methodologies (quantitative/qualitative analysis) and exploring its application to technological platforms like Moodle. The focus is on collecting learner feedback and analyzing vocabulary usage patterns via text analysis tools. By systematically analyzing language learning data (e.g., writing samples, discussion logs), strategies are established to improve learners’ expressive and reading comprehension abilities.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain at least five core elements in each stage of MOOC design (goal setting, language content development, formative assessment design): Clarifying learning objectives, establishing vocabulary/grammar systems, designing text-based activities, developing interaction strategies, and creating assessment tools.",
+    "Learners can analyze the needs of top 10 language learners within a company and verify educational effectiveness using mixed research methods (quantitative/qualitative). Specifically, they conduct surveys with over 20 participants, hold at least two focus group interviews, and analyze three months of learning data logs to report educational effectiveness with over 80% confidence.",
+    "Design and apply at least three LMS-based language interaction strategies: Real-time chat discussions (speaking), peer feedback boards (writing), and multimedia content utilization (listening/reading).",
+    "Learners can design a system to measure individual language performance changes with over 80% confidence using at least three formative assessment tools (e.g., vocabulary quizzes, writing checklists, pronunciation observation rubrics) in corporate language courses (e.g., business English) and achieve an average peer evaluation score of 3/4 or higher."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Moodle Platform",
+      "Survey/interview tools",
+      "Learning Analytics Software",
+      "Multimedia Production Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

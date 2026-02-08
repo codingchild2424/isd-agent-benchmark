@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4929-V",
+  "variant_type": "context_variant",
+  "title": "Blended Collaborative Instructional Design for Strengthening Foundational Mathematics Competencies in Business Administration",
+  "context": {
+    "prior_knowledge": "Understanding basic arithmetic operations and simple statistical concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasis on smartphone-based learning activities, including peer assessment and group task completion among learners.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve at least 80% proficiency in calculating basic statistics (mean, variance, standard deviation) to solve real-life business problems",
+    "Learners complete at least three data visualization projects using digital tools in a blended learning environment",
+    "Learners successfully perform complex budget allocation simulation tasks with over 90% accuracy through collaborative learning group activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Offline workbooks",
+      "Low-Specification Tablet Rental Service",
+      "Whiteboard Kit for Group Activities"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

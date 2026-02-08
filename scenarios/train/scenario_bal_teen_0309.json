@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0309",
+  "variant_type": "balance_teen_k12",
+  "title": "Efficient Data Utilization Strategies Based on Financial Modeling and Semi-Supervised Learning for [K-12]",
+  "context": {
+    "prior_knowledge": "Understanding of basic statistics and financial risk management, with data analysis experience using Python/R",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Theory-practice parallel education using mobile devices in limited-technology environments, focusing on solving field problems in finance with scarce labeled data but abundant unlabeled data",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will improve the predictive accuracy of financial models by at least 15% in environments with limited labeled data using semi-supervised learning principles.",
+    "Learners will demonstrate improved results in at least three evaluation metrics (accuracy, precision, recall) compared to the standard MRE when implementing a debt default prediction model using the extended Minimum Relative Entropy (MRE) method.",
+    "Learners will write a comparative analysis report on model performance after applying semi-supervised learning techniques to real financial datasets."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible Jupyter Notebook environment",
+      "Open-source financial dataset",
+      "Simplified MRE algorithm simulation tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

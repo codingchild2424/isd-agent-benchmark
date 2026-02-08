@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0354",
+  "variant_type": "idld_aligned",
+  "title": "Art Design Education Utilizing VR-Based Serious Games for Exploring Rococo Style",
+  "context": {
+    "prior_knowledge": "Elementary art theory and experience with digital tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based learning applying Rococo art styles and design principles through VR-based serious games in smartphone-centric constrained environments.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify visual elements of the Rococo art style (curves, ornamentation, color) in a VR environment with 80% accuracy.",
+    "Learners can apply design principles of the Rococo style to create three or more creative digital works through interactive tasks in a serious game.",
+    "Learners can write a case analysis report on the application of the Rococo style to modern design through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR Headsets (Low-Cost Equipment, e.g., Cardboard)",
+      "Rococo-style 3D Asset Package",
+      "WebGL Build Files Based on Game Engines (Unity/Unreal Engine)",
+      "Simple UI Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

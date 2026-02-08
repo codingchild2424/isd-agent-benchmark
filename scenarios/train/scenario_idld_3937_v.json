@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3937-V",
+  "variant_type": "context_variant",
+  "title": "Simulation-Based Medical Communication Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Patient-doctor communication simulation training for current practitioners, focusing on medical scenario recreation for patients with language disorders",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can execute effective communication strategies with language-disordered patients with over 90% accuracy.",
+    "Demonstrate adherence to patient safety protocols and handle emergency situations with a score of 85 or above (out of 100) in simulation-based assessments",
+    "Analyze communication errors through reflective practice at level 4 or higher in team-based simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Medical scenario database",
+      "Patient Role-Play Actor Personnel",
+      "VR-Based Simulation Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

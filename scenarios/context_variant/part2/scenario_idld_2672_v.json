@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2672-V",
+  "variant_type": "context_variant",
+  "title": "Database Modeling Education Utilizing Visual Abstraction Hierarchy Transition",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners experience database modeling processes step-by-step through real project cases and learn transitions between visual abstraction layers using digital tools",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design database schemas by applying the 4-level TSSL model (task-meaning-syntax-lexicon levels).",
+    "Learners can reduce errors by over 30% when converting from ER diagrams to relational schemas.",
+    "Learners can explain the gradual transition process between abstraction layers using visual tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Database Modeling Tool (e.g., Lucidchart)",
+      "Relational Database Sample Dataset",
+      "TSSL Model Guidelines",
+      "Error analysis worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

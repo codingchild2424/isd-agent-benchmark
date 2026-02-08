@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6257",
+  "variant_type": "idld_aligned",
+  "title": "Online Mathematics Project-Based Learning Design Using AI Chatbots",
+  "context": {
+    "prior_knowledge": "Basic mathematical concepts and experience with online learning platforms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-centric limited technological environment, enhanced formative assessment, real-time interaction support via AI chatbots.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Perform real-time question-and-answer interactions with AI chatbots at a frequency of at least 80%",
+    "Revise problem-solving strategies at least three times using AI chatbot feedback during project execution",
+    "Maintain collaboration frequency with peer learners (at least twice weekly) in AI chatbot-supported environments, achieving at least 50% higher engagement than in face-to-face classes",
+    "Achieve an average score of at least 85 points in monthly formative assessments for project completion and concept application"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible AI chatbot platform",
+      "Mobile-Optimized LMS",
+      "Chatbot conversation design guidelines",
+      "Mathematics question bank dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4554-V",
+  "variant_type": "context_variant",
+  "title": "AR-Enhanced Academic Library Navigation and Information Literacy Competency Development Course",
+  "context": {
+    "prior_knowledge": "Basic smartphone usage skills and foundational understanding of library services",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Participants are primarily job seekers or self-directed learners, utilizing non-real-time educational environments with augmented reality content accessible via smartphones",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explore key spaces and resources in the academic library in 360 degrees using an augmented reality app.",
+    "Learners can perform core information literacy procedures—such as literature search, borrowing, and citation—through AR-based simulations.",
+    "Learners can submit project outcomes based on real-world library usage scenarios to their digital portfolios."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible AR Platform (Metaverse-Based Free Tool)",
+      "Royalty-Free 3D Library Modeling Source",
+      "AR Content Embedding Functionality in LMS"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7218-V",
+  "variant_type": "context_variant",
+  "title": "Language Learning Project Design Utilizing Real-Time Learner Analytics Tools",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Real-time learner monitoring using interface-adaptive visualization tools in a smartphone-centric, limited-technology environment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can establish self-directed learning strategies using real-time analytics tools in language learning projects.",
+    "Learners can interpret peer learners' engagement levels with over 80% accuracy through interface variation visualizations (e.g., icon color/size changes).",
+    "Learners can improve learning objects (e.g., vocabulary quizzes, pronunciation assessments) at least twice based on feedback from analytical tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Interface Variation Visualization Prototype",
+      "Language Learning Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

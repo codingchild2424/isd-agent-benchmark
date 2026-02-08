@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3771-V",
+  "variant_type": "context_variant",
+  "title": "Development of an OER-Based Mobile Microlearning Course for Science Subjects",
+  "context": {
+    "prior_knowledge": "Understanding of foundational scientific concepts and basic proficiency in using digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Science literacy enhancement program for working professionals, linking OER (Open Educational Resources) and library resources to provide cost-free learning environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can independently explore and utilize core science resources on OER platforms.",
+    "Learners can complete OER-based learning modules through collaborative problem-solving in mobile environments.",
+    "Learners achieve over 80% proficiency in applying science concepts using OER-integrated assessment tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access to OER (Open Educational Resources) databases",
+      "OER Curation Tool for Science Disciplines",
+      "Mobile Learning Management System (LMS)",
+      "Digital Resource Integration System for Libraries"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

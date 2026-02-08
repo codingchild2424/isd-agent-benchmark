@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6565",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Self-Directed Science Learning Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic science concepts and fundamental smartphone usage skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Weekend/evening sessions for working learners, providing mobile-optimized content",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can collaborate with team members to design simulation scenarios for scientific problem-solving.",
+    "Learners can analyze and discuss experimental results using smartphone-based simulation tools.",
+    "Learners can present learning outcomes based on scientific evidence and incorporate feedback during debriefing sessions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Simulation App",
+      "Small-Scale Science Experiment Kit",
+      "Discussion Guide Document"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

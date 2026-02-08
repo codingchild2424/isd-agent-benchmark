@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3400",
+  "variant_type": "idld_aligned",
+  "title": "Technology-Integrated Instructional Design for Enhancing Human Anatomy Education",
+  "context": {
+    "prior_knowledge": "Basic Life Science Knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "High repetition rates in anatomy courses lead to overcrowded classes. The situation requires technology integration and enhanced interactivity",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can accurately identify and explain major human body system organs using a 3D anatomy application.",
+    "Students can reconstruct anatomical concepts through peer assessment and feedback using online collaboration tools",
+    "Students can understand and apply core anatomical terminology with an accuracy rate of over 80% on a smartphone-based quiz platform"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible 3D Anatomy Application",
+      "Online Collaborative Whiteboard Tools",
+      "Mobile Quiz Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

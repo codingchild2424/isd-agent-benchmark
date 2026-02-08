@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-0590",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Cognitive Load Measurement and Optimization in VR Simulation Training",
+  "context": {
+    "prior_knowledge": "Basic proficiency in VR device operation and foundational health-related knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners participate in VR simulations via personal mobile devices; cognitive load is analyzed through real-time eye-tracking technology. The training gradually increases task difficulty in health management scenarios.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can measure cognitive load changes based on task difficulty in VR simulation environments using TEPRs (pupillary light reflex-corrected values).",
+    "Learners must compare cognitive load data (e.g., NASA-TLX scores) and self-assessment results (5-point scale) collected during training, write an analysis report, and improve the training plan in ≥2 ways based on findings.",
+    "Learners must analyze the correlation between performance metrics (task completion time, error rate) and cognitive load indicators (heart rate variability, survey scores) in VR-based simulations, propose ≥3 training strategy adjustments, and apply them to actual training scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Device and Eye-Tracking System",
+      "Optical Sensor Device",
+      "Mobile Learning Platform",
+      "Cognitive Load Survey Instrument"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

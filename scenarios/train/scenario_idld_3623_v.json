@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3623-V",
+  "variant_type": "context_variant",
+  "title": "Microlearning Program for Enhancing Self-Directed Science Learning Competencies",
+  "context": {
+    "prior_knowledge": "Intermediate-level understanding of basic concepts in science",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A short-term intensive program conducted in smartphone-centric limited-technology environments. Designed for learners to iteratively experience the task-performance-evaluation-selection cycle",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply cognitive load management strategies with over 80% accuracy during step-by-step scientific problem-solving",
+    "Learners can diagnose learning outcomes and self-select improvement tasks through self-assessments conducted at least three times weekly",
+    "Learners can structure and reconstruct complex scientific concepts using five or more self-explanation techniques"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Learning App",
+      "PDF-Based Learning Module",
+      "Offline assessment checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

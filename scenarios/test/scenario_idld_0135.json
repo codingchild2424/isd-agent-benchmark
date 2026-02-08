@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0135",
+  "variant_type": "idld_aligned",
+  "title": "Expert Course on Neonatal and Pediatric Medication Dosage Calculation",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and ability to perform simple mathematical calculations",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "As managers, need to standardize medication administration procedures and enhance safety within teams",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "They can calculate neonatal/pediatric medication dosages based on weight and age with 95% accuracy.",
+    "They can resolve complex medication administration scenarios within three minutes using the mobile app Matymar V 1.0.",
+    "They can apply a five-step verification protocol in practice to prevent medication calculation errors."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Matymar V 1.0 Mobile Application",
+      "Online Computational Worksheet",
+      "Case-Based Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

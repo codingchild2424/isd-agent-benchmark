@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3700-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Organizational Development Practical Competencies: Improving Traffic Sign Recognition Technology in Foggy Environments",
+  "context": {
+    "prior_knowledge": "Foundational theory in machine vision, basic concepts of image processing, and understanding of deep learning models",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for Corporate Management/HR Professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Improvement of traffic sign recognition rates by over 20% in foggy environments.",
+    "Learners implement models that restore over 10 low-resolution images with over 90% PSNR (Peak Signal-to-Noise Ratio) using multi-scale feature fusion techniques and write performance reports meeting at least four of five corporate evaluation checklist criteria",
+    "Learners evaluate the work performance of three team members using VI (Visibility Index) and RI (Realness Index) metrics, submitting evaluation reports within one week that specify whether each metric meets or exceeds 3 points on a 5-point scale"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Business Simulation Tool",
+      "HR Management System",
+      "Business Analytics Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Business/HR/Admin Support"
+}

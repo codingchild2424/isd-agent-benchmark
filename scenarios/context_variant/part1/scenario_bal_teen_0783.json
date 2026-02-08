@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0783",
+  "variant_type": "balance_teen_k12",
+  "title": "Cotton Pest Classification and Management Strategies for K-12 Education",
+  "context": {
+    "prior_knowledge": "Fundamental knowledge of agricultural ecology and image analysis basics",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Utilizing smartphone-based image analysis tools, with a focus on field-applicable pest management strategies.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can classify the ten major cotton pests in the field with 95% accuracy",
+    "Learners can explain the operating principles of a deep learning-based pest classification system using RGB images",
+    "Learners can develop economically and environmentally friendly pest management strategies based on classification results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone Camera",
+      "Offline Image Dataset",
+      "Simplified CNN Model Simulator",
+      "Pest Management Casebook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0380",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Language Instructional Design Competency Enhancement Program for Vocational Training Institutions: ISD Model-Based Language Learning Design",
+  "context": {
+    "prior_knowledge": "Basic language education experience (grammar/reading/writing) and practical knowledge in professional fields, proficiency in basic smartphone usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "While the environment supports smartphone-based learning, PC usage is limited. Operating a flexible assessment system centered on formative evaluations. Focuses on enhancing learners' job-related language expression skills and strengthening practical document-writing abilities.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply the five phases of the ISD model to create a language curriculum design plan and establish text analysis and vocabulary utilization strategies reflecting professional workplace contexts.",
+    "Learners can systematically analyze language learning problems (reading, writing, expression) reflecting professional practice contexts and develop situational communication strategies.",
+    "Learners can develop at least three types of formative assessment tools (quizzes, recordings, feedback) executable in smartphone environments and measure learners' mastery of grammar and vocabulary."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "ISD Template Document",
+      "Language Domain Casebook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7182",
+  "variant_type": "idld_aligned",
+  "title": "Authenticity-Based E-Learning Professional Development Program for Higher Education Instructors",
+  "context": {
+    "prior_knowledge": "Basic experience with online learning platforms and college-level course facilitation",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A program for university-affiliated corporate educators teaching mathematics, focusing on strengthening actual lecture design and implementation competencies",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can develop mathematics curriculum modules by applying authentic e-learning design principles.",
+    "Learners can execute at least three interaction strategies to enhance student engagement in online learning environments.",
+    "Learners can improve educational effectiveness by over 20% by applying an iterative lecture improvement process based on feedback loops."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Video, Quiz, Discussion Board Features)",
+      "Digital Content Creation Tools (Screen Casting, PPT Converter)",
+      "Real-Time Collaboration Tools (Google Workspace, Miro)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

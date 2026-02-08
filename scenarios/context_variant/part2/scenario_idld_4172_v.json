@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4172-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Working Memory-Sensitive Mathematical Intervention for Adult Learners with Learning Disabilities",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Adult learners with learning disabilities improve accuracy in two-step math problem-solving by 40% or more using strategies that minimize working memory load.",
+    "Weekly formative assessments improve learners’ mathematical reasoning skills by 25% within three months.",
+    "Reduced instructional methods tailored to individual cognitive levels sustain math concept application skills for six months or longer."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0184",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] IoT-Based Competency Enhancement Program for Adult Educators",
+  "context": {
+    "prior_knowledge": "Basic digital literacy (smartphone proficiency) and secondary education experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aims to strengthen mathematics education competencies for corporate educators (leaders/managers) using IoT technology. Implements MOOC-based blended learning in a smartphone-centric, limited-technology environment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "They can explain the fundamental principles of IoT technology and its educational applications.",
+    "They can design IoT-based math projects utilizing OER materials provided by MOOC platforms.",
+    "They can develop real-life problem-solving math education content by analyzing IoT sensor data in smartphone environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MOODLE-Based Mobile-Optimized Platform",
+      "Open-Source IoT Simulation Tool",
+      "Digital Literacy Diagnostic Test"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

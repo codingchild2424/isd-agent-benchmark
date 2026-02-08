@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0690",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Language Learning Project Design Utilizing Gamification for Large-Scale Implementation",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and fundamental digital tool competency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Designing a process where learners integrate learning objectives with game mechanics while conducting team-based game development projects in a smartphone-centric, limited technological environment.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design digital game scenarios aligned with language curriculum objectives.",
+    "Learners can develop language learning content by incorporating gamification elements (challenges, rewards, storytelling).",
+    "Learners can improve the educational effectiveness of game-based learning tools through peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Game Development Tool",
+      "Offline collaborative worksheets",
+      "Language education standard curriculum resources"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

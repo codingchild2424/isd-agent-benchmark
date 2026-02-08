@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5212-V",
+  "variant_type": "context_variant",
+  "title": "Online Programming Fundamentals Course for Non-Major Working Professionals",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-computer major professionals (e.g., architecture) acquiring foundational programming skills required in the field.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Cultivation of basic algorithm design skills using Python syntax through 4C-ID model-based online learning",
+    "Mastery of programming problem-solving procedures (analysis-design-implementation-testing) through 10 real-case projects",
+    "Achieve over 80% proficiency in diagnosing and correcting coding practice errors via formative assessments in learning management systems (LMS)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Platform",
+      "Jupyter Notebook Environment",
+      "4C-ID Model Template",
+      "Coding Problem Bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

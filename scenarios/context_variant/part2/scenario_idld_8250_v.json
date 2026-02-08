@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8250-V",
+  "variant_type": "context_variant",
+  "title": "Web-Based Self-Directed Collaborative Learning Program for Applying Occupational Therapy Activity Analysis",
+  "context": {
+    "prior_knowledge": "Understanding of basic occupational therapy concepts and experience in human activity observation",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Establishing real-time interaction and feedback systems using mobile devices, organizing small-group collaborative learning environments with peer learners.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze three real-world cases by applying a task activity analysis framework",
+    "Learners can revise over 80% of items in activity analysis reports through peer collaborative feedback",
+    "Learners can improve self-assessment capabilities by 50% by comparing with standard answers provided in web-based systems"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Web Tutorial Platform",
+      "Mobile Learning Management System (LMS)",
+      "Standardized Activity Analysis Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

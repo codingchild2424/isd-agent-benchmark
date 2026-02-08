@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7183-V",
+  "variant_type": "context_variant",
+  "title": "VR-Based Short-Intensive Basic Life Support (BLS) Training",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Utilization of VR simulations to compensate for constraints in face-to-face education during COVID-19.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can achieve no-flow times within 10% during BLS performance through VR simulation",
+    "Learners can score over 80 points (out of 100) on BLS performance quality in structured clinical evaluations",
+    "Learners can report confidence in BLS skill acquisition at level 4 or higher on a 5-level self-assessment survey"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "BLS Simulation Software",
+      "LMS platform",
+      "Practical Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

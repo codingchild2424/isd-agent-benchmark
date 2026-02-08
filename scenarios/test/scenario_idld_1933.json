@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1933",
+  "variant_type": "idld_aligned",
+  "title": "Reinforcement Learning-Based Nonlinear MIMO System Control Design",
+  "context": {
+    "prior_knowledge": "Foundations of Control Theory, Understanding of Linear Systems, Python/PyTorch-Based Programming Experience, and Basic Neural Network Structures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Designed as an evening course for working professionals, emphasizing practical application case studies.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "The mathematical modeling process of nonlinear MIMO systems can be explained in three or more stages",
+    "Control signal generation processes can be simulated by implementing an Actor-Critic reinforcement learning algorithm in Python",
+    "A report analyzing system error convergence using Lyapunov stability theory can be written",
+    "Coordinated control strategies for two or more subsystems in a MIMO system environment can be designed",
+    "Projects to improve online adaptive control algorithms using real industrial data can be conducted"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook-based practice environment",
+      "MATLAB/Simulink simulation tool",
+      "Discussion board within LMS platform",
+      "Open control systems dataset library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

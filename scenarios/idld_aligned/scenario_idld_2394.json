@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2394",
+  "variant_type": "idld_aligned",
+  "title": "Self-Efficacy-Based Project Learning for Medical Procedure Skill Training",
+  "context": {
+    "prior_knowledge": "Basic medical procedures and anatomical knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A practice-oriented environment using medical simulation equipment, with access to learning materials and formative assessments via personal BYOD devices",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform core steps of complex medical procedures (e.g., endoscopy) with 90% accuracy within six months",
+    "Learners' self-confidence scores, measured via a self-efficacy survey, improve to 7 points or higher (out of 10)",
+    "Learners can complete target procedures (e.g., reaching the appendix) within an average of 5 minutes in a simulation environment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Medium-Fidelity Simulation Equipment",
+      "Digital Assessment Tools",
+      "Self-Efficacy Survey Template",
+      "Video Analysis Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3220-V",
+  "variant_type": "context_variant",
+  "title": "MOOC Learning Engagement and Design Analysis: Intensive Workshop Based on Educational Process Mining",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A customized course for professionals in medical, legal, and technical fields to enhance their competency in analyzing MOOC learning data.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners visualize three or more learning engagement patterns (e.g., login frequency, content completion rates) using educational process mining tools (Celonis, Disco) and propose two or more improvement strategies based on derived insights.",
+    "In vocational training, learners analyze key activity paths (login frequency, content usage patterns) for three or more groups (new hires, experienced workers, current employees) and propose two or more customized learning design strategies (e.g., recommended content, study schedules) for each group.",
+    "Develop a participation persistence prediction model based on MOOC learning activity sequence data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account",
+      "Educational Process Mining Software",
+      "Raw Learner Activity Data Sample",
+      "Online Collaboration Tool (e.g., Miro)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

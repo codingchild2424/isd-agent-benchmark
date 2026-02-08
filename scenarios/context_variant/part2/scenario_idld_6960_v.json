@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6960-V",
+  "variant_type": "context_variant",
+  "title": "Competency-Based Mathematical Problem Solving: Mobile Microlearning Focused on Authentic Learning",
+  "context": {
+    "prior_knowledge": "Foundational high school-level mathematical knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A professional development program for pre-service or in-service teachers focusing on enhancing teaching competencies in a BYOD environment, with an emphasis on developing problem-solving skills in mathematics linked to real-world professional contexts.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner",
+    "learner_education": "Middle school"
+  },
+  "learning_goals": [
+    "Learners can solve real-world workplace mathematical problems with over 80% accuracy.",
+    "Learners can conduct real-case analyses at least three times using collaborative tools with peers.",
+    "Learners can self-evaluate and improve their problem-solving processes in three stages through formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Workplace scenario database",
+      "Mobile Collaboration Tool",
+      "Automated grading system",
+      "Interactive simulation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

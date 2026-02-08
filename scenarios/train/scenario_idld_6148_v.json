@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6148-V",
+  "variant_type": "context_variant",
+  "title": "Foundations of Lossless Compression Coding Through Reinforcement Learning",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Environment enabling real-time interaction via digital devices. Strengthens motivation through gamified learning elements",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can understand the basic concepts of Markov sources and explain three or more examples.",
+    "Learners can design simple lossless compression coding policies using Q-learning algorithms in reinforcement learning.",
+    "Learners can analyze and explain trade-offs (e.g., accuracy vs. speed) that occur in latency-free coding systems.",
+    "Simulation tools can evaluate the performance of coding policies with over 80% accuracy"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Coding Simulator",
+      "Reinforcement Learning Visualization Tool",
+      "Step-by-Step Learning Guideline PDF"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

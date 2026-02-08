@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3263-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Supported Vocational English Learning Project",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized MALL environment for working professionals, designed to systematically acquire workplace-ready English skills through self-directed learning and collaborative projects using personal mobile devices",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Achieve intermediate-level English communication skills in job-related contexts (meetings, email writing, report analysis, etc.)",
+    "Develop self-directed learning habits using mobile learning platforms and secure ≥10 hours/week of voluntary study time",
+    "Demonstrate practical English presentation and collaborative document writing skills through PBL-based team projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MALL platform license",
+      "Job-specific English situational scenario database",
+      "Speech recognition practice tool",
+      "Automated Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

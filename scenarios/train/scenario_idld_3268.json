@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3268",
+  "variant_type": "idld_aligned",
+  "title": "Online Social Studies Vocabulary Education Program Based on Computer-Assisted Vocabulary Acquisition (CAVA)",
+  "context": {
+    "prior_knowledge": "Basic digital device usage skills and foundational knowledge in elementary education",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Digital tool training for in-service elementary teachers to efficiently teach social studies vocabulary",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can acquire 500 core vocabulary items for social studies with 80% or higher accuracy using CAVA software",
+    "Learners can explain the application process of the ADDIE model in designing vocabulary learning activities in digital environments",
+    "Learners can submit a vocabulary instruction lesson design plan utilizing the CAVA tool through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CAVA Software License",
+      "Zoom Account",
+      "Digital Learning Resource Templates",
+      "Vocabulary Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

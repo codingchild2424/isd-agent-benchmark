@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1471",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Analysis of Student Engagement Changes and Improvement Strategies Based on Flipped Learning in Hybrid Learning Environments at Scale",
+  "context": {
+    "prior_knowledge": "Elementary mathematics knowledge and experience with digital learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based mathematics education for current practitioners, incorporating a hybrid learning environment using personal devices",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Student engagement patterns can be quantified using Learning Management System (LMS) data.",
+    "Learning path changes can be detected and interpreted by applying process mining techniques.",
+    "Personalized learning intervention strategies can be designed based on analytical results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Process mining tools",
+      "Learning Activity Log Dataset",
+      "Hands-on Project Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

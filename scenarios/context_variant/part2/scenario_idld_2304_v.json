@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2304-V",
+  "variant_type": "context_variant",
+  "title": "System Design Practical Skill Enhancement: Learning Analytics-Based Differentiation for Optimizing Online Learning Environments",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Perform learner profiling using learning analytics data and design personalized learning pathways",
+    "Establish data collection and analysis processes that comply with ethical guidelines",
+    "Learners can design a language education content recommendation system using Python and TensorFlow, which takes at least five learner characteristics (age, learning level, interests, etc.) as inputs, applies a collaborative filtering-based recommendation algorithm, and implements a prototype achieving over 80% recommendation accuracy.",
+    "Learners can design one project-based assessment tool in an online learning environment (LMS, GitHub Classroom, etc.), apply it to an actual software development project (e.g., a 3-person team collaboration project), and submit an evaluation report (including tool effectiveness, learner satisfaction, and areas for improvement)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

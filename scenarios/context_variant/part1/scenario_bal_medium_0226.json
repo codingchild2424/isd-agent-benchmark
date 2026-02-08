@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0226",
+  "variant_type": "balance_medium_scale",
+  "title": "Mathematical Spatial Exploration and Optimization Skills Acquisition Course Using Dynamic Visualization",
+  "context": {
+    "prior_knowledge": "Basic spatial perception skills, VR device usage experience, understanding of 3D coordinate systems and fundamental geometric concepts (points, lines, planes), and foundational matrix operations",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A workplace-oriented spatial cognition training course for professionals, applying mathematical spatial concepts (vector operations, matrix transformations, coordinate system conversions) to improve operational efficiency in logistics optimization and robot path design. Focuses on modeling real spatial problems as linear algebra equations.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will design shortest-path routes to destinations in 3D virtual spaces with 90% accuracy, utilizing vector operations (Euclidean distance, dot product) and 3D distance formulas",
+    "Learners will convert spatial structures into 3D orthogonal coordinate systems using dynamic visualization tools and apply matrix transformations to demonstrate geometric modeling proficiency",
+    "Learners will identify visual cues in complex maze environments with over 80% accuracy and make decisions applying graph theory (adjacency matrix, weighted graphs) and Dijkstra’s algorithm"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "Spatial navigation simulation software",
+      "Personal mobile device",
+      "3D spatial modeling template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

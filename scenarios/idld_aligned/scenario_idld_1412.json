@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1412",
+  "variant_type": "idld_aligned",
+  "title": "Integrated Mathematics Learning Design Through Smartphone-Based Science Application Development",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and programming",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners, as professionals in technical fields, strengthen meta-representational skills by applying mathematical modeling to the development of smart device applications",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design science applications by applying smartphone sensor data to mathematical models.",
+    "Learners can propose problem-solving solutions based on meta-representational skills that translate expressions across different academic disciplines.",
+    "Learners can build programming procedures to solve real-world problems by applying computational thinking (CT)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone Development Kit",
+      "MIT App Inventor Platform License",
+      "Integrated Mathematics-Science Learning Module",
+      "LMS (Learning Management System) Construction and Operation System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

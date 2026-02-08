@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3565-V",
+  "variant_type": "context_variant",
+  "title": "Education to Strengthen Nurses' Competencies in Responding to Psychological Violence Against Women",
+  "context": {
+    "prior_knowledge": "Basic psychology and nursing understanding, foundational knowledge in women’s health",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Education conducted in a VR simulation environment based on real clinical cases.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain at least three concepts, causes, symptoms, and legal procedures related to psychological violence",
+    "Learners can apply effective communication techniques with victims of violence with 80% accuracy through VR simulation",
+    "Learners can select and implement appropriate reporting procedures and support resources after case analysis"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment",
+      "Case Database",
+      "Mobile App Prototype",
+      "Mentoring Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

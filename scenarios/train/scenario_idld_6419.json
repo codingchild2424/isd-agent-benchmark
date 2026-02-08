@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6419",
+  "variant_type": "idld_aligned",
+  "title": "Deep Learning-Based Visual Data Analysis for Predicting Glaucoma Progression",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Statistics and Machine Learning Theory, Foundational Knowledge of Calculus and Linear Algebra",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Educational program focused on mathematical modeling and deep learning techniques using medical imaging data, including case studies on glaucoma diagnosis and prediction with real-world datasets.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain and analyze mathematical characteristics of retinal OCT image data",
+    "Implement a glaucoma progression prediction system by applying self-supervised learning principles of the Vision Transformer (ViT) model",
+    "Quantitatively evaluate model performance using ROC curves and AUC metrics"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Public OCT Dataset Sample",
+      "Cloud-Based GPU Learning Environment",
+      "Mobile-Compatible Jupyter Notebook Interface",
+      "Visualization Tool Library (Plotly, Matplotlib)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

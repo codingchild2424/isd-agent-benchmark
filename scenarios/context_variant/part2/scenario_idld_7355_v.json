@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7355-V",
+  "variant_type": "context_variant",
+  "title": "App Development Practical Competency Enhancement: Collaborative Online Science Learning Design Course",
+  "context": {
+    "prior_knowledge": "Core Knowledge of Secondary Science Curriculum and Online Learning Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners develop one or more online learning modules in science through collaborative design and integration of learning technologies.",
+    "Learners design and implement at least three formative assessments using digital tools.",
+    "Learners improve online learning materials at least twice through an iterative design process based on peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

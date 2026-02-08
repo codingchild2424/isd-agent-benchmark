@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0955",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Short-Term Intensive Course on Web-Based Language Teaching Material Design and Development",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and foundational language education concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Systematic acquisition of web-based instructional material design processes in smartphone-centered limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Independently design language teaching materials by applying the four stages of the systematic instructional design process: analysis, design, development, and implementation.",
+    "Implement three or more language teaching strategies that enhance learner engagement using web-based tools.",
+    "Ensure coherence and systematicity in teaching materials using only a smartphone, even in limited technological environments."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Web browser",
+      "Basic document editing tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3591",
+  "variant_type": "idld_aligned",
+  "title": "Agile-Based Educational Resource Adoption and Institutionalization Design",
+  "context": {
+    "prior_knowledge": "Foundational mathematical knowledge and instructional operations experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Enhancing educational resource management competencies using VR simulations and agile methodologies within smartphone-centric limited-technology environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can agilely select and apply personalized mathematics educational resources",
+    "Learners can design distributed resource management strategies through practical problems in VR simulation environments",
+    "The educational resource improvement process utilizing sprint cycles can be iteratively executed at least three times"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR Devices (10 Units)",
+      "Low-Spec VR Mathematics Education Content Package",
+      "Collaboration Tools (Slack/Notion Mobile Versions)",
+      "Agile Planning Template (Google Sheets-Based)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0305",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Technology-centered Assessment and Pedagogical Improvement Course for Strengthening Computing Education Competencies",
+  "context": {
+    "prior_knowledge": "Comprehension of foundational programming and computing concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learner cohort comprising professionals in medical, legal, and technical fields. Practical environment utilizing personal devices (BYOD), with a focus on applying computing technologies to solve societal issues",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply core computational problem-solving skills (algorithm design, data analysis, system integration) with over 80% accuracy",
+    "Learners can analyze their technical performance abilities and develop improvement plans based on formative assessment feedback",
+    "Learners can design and implement computing solutions for real-world societal problems through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Programming Practice Environment (IDE, Cloud Platform)",
+      "Domain-Specific Social Issue Case Materials",
+      "Online Collaborative Learning Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

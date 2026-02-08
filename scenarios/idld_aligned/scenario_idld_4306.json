@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4306",
+  "variant_type": "idld_aligned",
+  "title": "Science Concept Education Program for Visually Impaired Adult Learners",
+  "context": {
+    "prior_knowledge": "Comprehension of basic scientific terminology and acquired daily living skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Need to establish tactile/auditory-centered science learning environments for visually impaired learners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Visually impaired learners can explain 10 core science concepts related to daily life",
+    "Explore 5 scientific principles using experimental tools (tactile models, sound-generating devices, etc.)",
+    "Apply the scientific problem-solving process with over 80% accuracy through case analysis activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tactile graphic materials",
+      "3D-printed science models",
+      "Voice Narration Recording Equipment",
+      "Low-vision magnification tools",
+      "Science concept casebook (Braille/audio versions)"
+    ],
+    "accessibility": "시각 장애 학습자 접근성 보장을 위한 다중 감각 자료 필수",
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

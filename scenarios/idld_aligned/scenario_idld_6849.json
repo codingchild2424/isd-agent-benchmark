@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6849",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Mathematics Microlearning Intensive Short-Term Course",
+  "context": {
+    "prior_knowledge": "Mastery of High School Mathematics Core Concepts (Intermediate Level)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learning activities and formative assessment-centered operation utilizing mobile devices (smartphones/tablets) in a BYOD environment",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Solve polynomial operation problems with ≥80% accuracy using 15-minute daily math microlearning content over five days",
+    "Learners can achieve an average score of 70% or higher in formative assessments provided three times daily through mobile quizzes.",
+    "Learners can submit three or more case studies of real-life problem-solving by applying mathematical concepts acquired through microlearning activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Interactive math question bank",
+      "Progress tracking dashboard",
+      "GIF/infographic-based learning materials",
+      "AI-powered personalized feedback system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

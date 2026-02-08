@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4292",
+  "variant_type": "idld_aligned",
+  "title": "Learner-Centered Feedback Design: VR-Based Language Proficiency Enhancement Strategies",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and fundamental digital device operation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Utilizing VR simulation tools in smartphone-centric constrained technology environments, operating with a formative assessment focus to strengthen language job competencies",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can use real-time feedback in a VR simulation environment to produce context-appropriate language expressions with 80% accuracy.",
+    "Learners can analyze six dimensions of feedback (timing, frequency, source, etc.) and apply them to their learning strategies.",
+    "Learners can manage self-directed language practice records at least three times per week using smartphone-based feedback tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible VR Simulation Platform",
+      "Cloud-Based Feedback Management System",
+      "Contextual Language Proficiency Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

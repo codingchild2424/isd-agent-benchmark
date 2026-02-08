@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1084",
+  "variant_type": "idld_aligned",
+  "title": "Language Learning Design Through Card Games: Applying Observational Learning and Distributed Cognition",
+  "context": {
+    "prior_knowledge": "Basic vocabulary and sentence-structuring skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Small-group collaborative learning environment using digital devices. Students recognize language rules through visual arrangements in card games and receive learning motivation through peer observers",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze the visual arrangement of card games to explain language rules (synonyms, antonyms, sentence structures) with 80% accuracy",
+    "Learners can reconstruct learning content by observing peers' problem-solving processes and perform at least three rounds of questioning/feedback",
+    "Learners can improve language fluency scores by 15% by participating in game-based activities at least three times weekly via a mobile app"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Card Game Application",
+      "Mobile devices (tablet/smartphone)",
+      "Collaborative Learning Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

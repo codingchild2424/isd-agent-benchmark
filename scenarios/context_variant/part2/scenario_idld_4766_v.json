@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4766-V",
+  "variant_type": "context_variant",
+  "title": "Analysis of Educational Effectiveness and Design Strategies for Computer-Based Learning Modules",
+  "context": {
+    "prior_knowledge": "Experience utilizing computer-based learning tools and practical experience in social sciences",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Smartphone-based learning module operation in limited-technology environments, flexible learning progression considering practitioners' work schedules, and verification of educational effectiveness through project-based assessments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain three design principles of computer-based learning modules and apply them to practical cases",
+    "Learners can propose five strategies for designing effective microlearning content in mobile environments.",
+    "Learners can suggest three operational approaches to enhance learner engagement in limited technological environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Microlearning Authoring Tool",
+      "Project Assessment Rubric",
+      "Engagement Monitoring System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

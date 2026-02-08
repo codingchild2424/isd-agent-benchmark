@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1812-V",
+  "variant_type": "context_variant",
+  "title": "Short-Term Course for Developing Information Literacy Skills for Science Learners",
+  "context": {
+    "prior_knowledge": "Fundamental information literacy skills and basic science domain concept understanding",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A program intensively developing scientific information literacy in a smartphone-based LMS environment, conducted with a focus on formative assessment and applying technology-integrated instructional design based on the TPACK model.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can assess credible scientific information sources using at least three evaluation criteria",
+    "Learners can systematically search for scientific information in academic databases and public open repositories",
+    "Learners can evaluate scientific information credibility with over 80% accuracy by applying an evidence-based analysis framework"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Open-access Scientific Database",
+      "Information Evaluation Checklist Template",
+      "Interactive quiz tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

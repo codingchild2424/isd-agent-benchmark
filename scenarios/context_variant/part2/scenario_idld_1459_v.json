@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1459-V",
+  "variant_type": "context_variant",
+  "title": "Bayesian Learning-Based OFDM CFO Estimation and Channel Estimation",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Digital Communication Concepts and Fundamental Mathematics (Linear Algebra, Probability Theory) Knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Need to provide content optimized for smartphone-based learning environments, emphasizing conceptual understanding and practical application examples over complex mathematical expressions.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles of Bayesian learning-based CFO estimation algorithms.",
+    "Learners can quantitatively analyze the impact of CFO errors on performance in OFDM systems.",
+    "Learners can simulate channel estimation procedures using EM-based Bayesian estimation techniques.",
+    "Learners can explain methods to achieve optimal estimation performance within the CFO estimation range (±0.5)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Interactive Simulation Tool",
+      "PDF Lecture Materials",
+      "Short Video Lectures (5–10 Minutes)",
+      "Quiz/Assignment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

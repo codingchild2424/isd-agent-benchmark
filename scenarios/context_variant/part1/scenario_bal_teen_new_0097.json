@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0097",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Instructional Design for Computing Pedagogy Using Structural Equation Modeling",
+  "context": {
+    "prior_knowledge": "Basic computing concepts and educational experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Program to strengthen K-12 computing education design competencies for pre-service teachers, providing learning experiences simulating real classrooms through VR simulations",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze the impact of self-efficacy, interest, and prior experience in computing education using structural equation modeling",
+    "Learners can develop instructional strategies reflecting learner characteristics (self-efficacy, interest, prior experience) in computing education design",
+    "Learners can design computing education activities in VR-based simulations and conduct formative assessments based on learner responses"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Structural Equation Modeling Simulation Tool",
+      "Computing Education Content Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

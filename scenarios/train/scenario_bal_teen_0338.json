@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0338",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Generative AI-Enhanced Advanced Mathematics Learning Strategy Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and basic proficiency in digital device usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course focused on solving math problems and understanding concepts using generative AI in smartphone-centric, limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze and explain step-by-step problem-solving processes for mathematical problems using generative AI tools",
+    "Learners can critically evaluate AI-generated results and present at least three criteria for verifying mathematical validity",
+    "Learners can create mathematics concept summary portfolios combining peer feedback and AI-supported learning through a relational approach"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible generative AI tools (e.g., ChatGPT)",
+      "Online whiteboard collaboration tool",
+      "OER (Open Educational Resources)-based math problem bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0164",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-directed] Mobile Microlearning Course Design Integrating Instructional Design Models",
+  "context": {
+    "prior_knowledge": "Elementary digital literacy and foundational understanding of social science concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A social sector job competency enhancement course for current practitioners, enabling flexible learning through personal devices.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design microlearning content independently by utilizing an ADDIE model-based instructional design process",
+    "Learners can achieve over 80% consistency between learning objectives, assessments, and activities using integrated instructional design tools within an LMS",
+    "Learners complete over 90% of 15-minute microlearning modules in mobile environments and develop self-directed learning habits"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Scalable open-source LMS platform",
+      "Instructional Design Template Library",
+      "Mobile-Optimized Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

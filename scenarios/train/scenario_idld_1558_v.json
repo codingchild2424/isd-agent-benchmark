@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1558-V",
+  "variant_type": "context_variant",
+  "title": "Object-Oriented Collaborative Learning for Practical Mathematics Competency Development",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Collaborative learning environment where practicing professionals utilize knowledge objects for mathematical problem-solving",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can solve complex practical problems through collaborative activities using shared knowledge objects (e.g., mathematical models, datasets).",
+    "Learners can explain the evolutionary characteristics of knowledge objects and describe the process of improving them through peer interaction.",
+    "Learners will co-edit math problem-solving processes at least twice weekly using online collaboration tools (Google Docs, Notion, etc.), generating, revising, and sharing over ten knowledge objects (problem-solving methods, concept explanations, etc.) during a six-month course, achieving over 80% peer satisfaction."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital Collaboration Tools",
+      "Mathematics Problem-Solving Case Database",
+      "Knowledge Object Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1293-V",
+  "variant_type": "context_variant",
+  "title": "System Design Practical Competency Enhancement: Virtual Team Collaboration Learning—Experiential Project-Based Workshop",
+  "context": {
+    "prior_knowledge": "Basic digital tool proficiency and intermediate-level comprehension of social issues",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can communicate effectively with team members using virtual collaboration tools (e.g., Google Workspace)",
+    "In a 4-week experiential project, learners take one role (developer, tester, planner) in a virtual team (4–6 members). They collaborate to document three key decisions (tech stack selection, schedule adjustments, issue resolution) in meeting minutes/shared documents and submit a 5-page team report on time. The report must meet: 1) clarity of decision rationale, 2) explicit role contributions, 3) progress analysis vs. project schedule.",
+    "Analyzing formative assessment feedback (code reviews, team meeting records) over two weeks, learners establish three action plans (e.g., issue tracking tool adoption, daily stand-up meeting improvements, role clarification) to enhance collaboration processes and reach consensus with teammates."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

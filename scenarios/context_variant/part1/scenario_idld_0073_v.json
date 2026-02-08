@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0073-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Competencies: Instructional Design for Technical University Language Curriculum Development and Improvement",
+  "context": {
+    "prior_knowledge": "Foundational language education theory and experience using online learning platforms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply 11 design considerations when designing language curricula tailored to technical colleges",
+    "Learners can collaboratively derive curriculum improvement plans through collective meaning-making activities",
+    "Learners can analyze the interconnectedness of curriculum elements using the Specialization dimension of Legitimation Code Theory",
+    "Learners can perform iterative design prototyping three or more times in an online real-time environment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0517",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Participatory Design Project for Formative Assessment of Computational Thinking Skills",
+  "context": {
+    "prior_knowledge": "Understanding of foundational computing concepts and basic science curriculum knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A project-based learning environment for developing computational thinking tools applicable in elementary science education. Through participatory design, educators and learners collaboratively contribute to assessment tool development, with activities conducted using personal devices in a BYOD setting.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain computational thinking processes by combining three or more stages to solve scientific problems.",
+    "Learners can improve computational modeling skills by 20% or more through peer feedback and self-reflection.",
+    "Learners directly develop and validate three assessment rubric criteria via participatory design workshops."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Project Management Platforms (Notion/Google Workspace)",
+      "Computational Thinking Activity Kit (Block Coding Tools, Data Visualization Templates)",
+      "Formative Assessment Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0941",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Image and Voice Optimization Strategies for Online Math Instructors: Statistical Analysis and Mathematical Modeling-Based Approaches",
+  "context": {
+    "prior_knowledge": "Basic mathematics knowledge (statistics, probability, graph interpretation, regression analysis) and experimental design methodology. Requires understanding of descriptive statistics (mean, standard deviation, variance), inferential statistics (t-tests, ANOVA, correlation/regression analysis), and mathematical modeling",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners access the LMS via personal devices (BYOD), with project-based assessments measuring learning outcomes. Designed as a beginner-level mathematics curriculum, it experimentally verifies the impact of instructors' visual and auditory presentation styles on learning effectiveness. The course emphasizes evidence-based education, with all results interpreted through mathematical rigor (hypothesis testing, effect size calculation, model fit evaluation) and educational practicality (strategy prioritization). Statistical processing using SPSS or R/Python is required for data analysis.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will collect training data from ≥10 participants per image type (original/idealized/virtual/none) to analyze changes in learning achievement, perform t-tests or ANOVA, and visualize significant differences (p-value < 0.05) using quantitative graphs (bar/box plots). They will also evaluate the validity of the experimental design while controlling mathematical variables (sample size, variance, etc.).",
+    "Learners will perform descriptive statistics (mean, SD, variance) and correlation analysis on 3 voice types (original/altered/synthetic), derive ≥2 significant correlations (p-value < 0.05) between voice quality (clarity, speed) and learning satisfaction, and propose a 5-level priority for voice expression strategies. Correlation coefficients must meet Pearson’s r ≥ 0.3 or Spearman’s ρ ≥ 0.3.",
+    "Learners will measure perceived social presence and academic emotions (boredom, immersion) by image/voice type, model data via multiple regression analysis (e.g., Y = β0 + β1X1 + β2X2 + ε), derive an educational effectiveness formula (e.g., Learning Achievement = 0.45*Image Score + 0.32*Voice Score + 1.2), and report the model’s explanatory power (R² ≥ 0.2)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online lecture production equipment (camera, microphone)",
+      "LMS System",
+      "Video editing software",
+      "Learning Outcomes Measurement Questionnaire"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

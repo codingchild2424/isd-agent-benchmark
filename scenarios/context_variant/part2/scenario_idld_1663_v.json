@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1663-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Patient Care Competencies: Online Instructional Design for Understanding BPPV",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the etiology and diagnostic criteria of BPPV with 80% or higher accuracy.",
+    "Learners can accurately reproduce at least four steps of the Dix-Hallpike test.",
+    "Learners can list at least three key safety protocols when applying the Epley maneuver."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

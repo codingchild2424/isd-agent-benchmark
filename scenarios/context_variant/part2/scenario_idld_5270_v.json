@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5270-V",
+  "variant_type": "context_variant",
+  "title": "VR-Based Real-World Learning: Mobile Microlearning for Social Worker Education",
+  "context": {
+    "prior_knowledge": "Basic social welfare theories and fundamental understanding of educational methodologies",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Focuses on implementing real-world learning using VR and low-cost virtual materials in smartphone-based limited-technology environments for pre-service and in-service teachers",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners analyze real-world cases encountered in social welfare settings via VR simulations and propose at least three intervention strategies",
+    "Learners design educational scenarios using low-cost virtual materials (360-degree videos, 3D modeling, etc.) and achieve over 80% suitability through peer evaluation",
+    "Learners apply the SATNAV framework in mobile environments to establish innovative, sustainable educational strategies and implement them in actual classes"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible VR Headset",
+      "Open-Source VR Platform (e.g., Unity 3D)",
+      "Public Institution Free 360-Degree Video Resources",
+      "Social Work Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

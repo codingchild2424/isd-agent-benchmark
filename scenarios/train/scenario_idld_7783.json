@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7783",
+  "variant_type": "idld_aligned",
+  "title": "Knowledge Systems Design Expert Training Program",
+  "context": {
+    "prior_knowledge": "Basic data analysis skills and specialized knowledge in scientific fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Education design optimized for smartphone-based mobile learning environments. Strengthens capabilities in building practice-oriented knowledge delivery systems",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Students can apply a three-stage design framework for domain-specific knowledge system modeling",
+    "Students can design formative assessments using smartphone-based evaluation tools in constrained technological environments",
+    "Students can develop customized knowledge delivery systems for professionals using problem-based learning (PBL) approaches"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible authoring tool",
+      "Offline collaboration kit",
+      "Science Domain Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

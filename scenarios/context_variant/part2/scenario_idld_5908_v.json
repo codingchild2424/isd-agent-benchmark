@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5908-V",
+  "variant_type": "context_variant",
+  "title": "Elementary Science Inquiry Projects Utilizing Augmented Reality (AR)",
+  "context": {
+    "prior_knowledge": "Understanding of basic science concepts and fundamental smartphone operation skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Environment enabling smartphone-based AR content utilization, with emphasis on collaborative learning for project completion",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "AR tools can be used to visualize the plant growth process in 3D and explain key stages",
+    "Learners can develop the technical ability to add AR layers (measurements/annotations) to field observation data captured via smartphones",
+    "Science inquiry results can be compiled into an AR portfolio and incorporate peer evaluation feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Authoring Tools (e.g., CoSpaces)",
+      "Smartphone-Compatible Science Observation Kit",
+      "Access to AR Content Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

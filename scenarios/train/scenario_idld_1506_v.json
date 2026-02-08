@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1506-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Strategies for Utilizing Practice-Centered Instructional Design Tools",
+  "context": {
+    "prior_knowledge": "Understanding Fundamental Educational Design Concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain a framework for analyzing rational criteria (tool suitability) and situational factors (individual preferences) when selecting instructional design tools",
+    "Learners can establish digital/analog tool combination strategies for science education design and apply them to microlearning environments",
+    "Learners can evaluate their tool selection methods based on peer feedback and propose improvement plans"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

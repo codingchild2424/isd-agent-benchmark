@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0413-V",
+  "variant_type": "context_variant",
+  "title": "Mobile App-Based Patient Education Program for Coronary Artery Disease",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Self-directed learning to enhance coronary artery disease management competencies in smartphone-centric limited-technology environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners will explain the causes, symptoms, and risk factors of coronary artery disease (CAD) with over 80% accuracy",
+    "Learners will apply CAD management strategies (e.g., medication adherence, dietary adjustments, exercise plans) to real-world cases and propose at least three actionable solutions",
+    "Learners will accurately determine emergency response methods for CAD-related scenarios in at least 3 out of 4 attempts using the mobile app's quiz feature"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone app 'Strong Heart' account",
+      "LMS Integration System",
+      "CAD patient case database",
+      "Interactive Quiz Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0667",
+  "variant_type": "balance_teen_k12",
+  "title": "Higher Education Self-Regulated Learning Chatbot Design: Action Research-Based Collaborative Development (K-12)",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and experience with digital device usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students perform VR-based science experiments via BYOD, with chatbots supporting self-regulated learning; summative assessment-centered progression",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners demonstrate an 80% or higher goal achievement rate in science experiment tasks by utilizing self-regulated learning strategies.",
+    "Learners can propose five or more functional requirements for a chatbot through a collaborative design workshop.",
+    "Learners can improve their learning process three or more times by applying the action research cycle (plan-act-observe-reflect)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software",
+      "Chatbot Prototyping Tool",
+      "LMS Learning Management System",
+      "Survey/Workshop Facilitation Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2877-V",
+  "variant_type": "context_variant",
+  "title": "RFID and Mixed Reality-Based Technical Education Curriculum: Enhancing Practical Application Competencies",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical, work-centered training for professionals, offering experiential learning environments using RFID systems and mixed reality technology. Conducts scenario-based education reflecting real-world industrial cases.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the components and operating principles of RFID systems and mathematically model the data processing workflow.",
+    "Learners can simulate real-world applications of RFID technology in mixed reality environments and perform problem-solving procedures.",
+    "Learners achieve at least 80% proficiency in designing RFID-based logistics management systems through formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "RFID Reader/Tag Kit",
+      "HoloLens 2 Mixed Reality Device",
+      "RFID Simulation Software",
+      "3D Spatial Mapping Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

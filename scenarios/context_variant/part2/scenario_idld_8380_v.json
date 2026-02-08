@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8380-V",
+  "variant_type": "context_variant",
+  "title": "Educational Video Design for Mobile-Based Language Learning",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners require intermediate language proficiency for daily life and work, preferring self-directed learning in mobile environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain language grammatical structures using segmented video content with over 80% accuracy.",
+    "Learners can reconstruct educational video content with three examples by applying self-explanation strategies.",
+    "Learners can create summary notes within 10 minutes of video learning using a three-step process (segmentation-explanation-application)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Video Production Tool",
+      "Interactive Learning Management System (LMS)",
+      "Offline Learning Material Package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

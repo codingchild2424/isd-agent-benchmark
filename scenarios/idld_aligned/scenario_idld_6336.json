@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6336",
+  "variant_type": "idld_aligned",
+  "title": "Data-Driven Collaborative Programming Modeling Education",
+  "context": {
+    "prior_knowledge": "Understanding basic programming syntax and experience in designing simple algorithms",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Utilizing smartphone-based VR simulation tools with emphasis on collaborative projects among peer learners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design programming models using real scientific data.",
+    "Learners can explain the process of solving modeling problems through collaboration with peers.",
+    "Learners can evaluate stages from data collection to interpretation and propose effective solutions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Simulation Tool",
+      "Offline collaborative worksheets",
+      "Open Science Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

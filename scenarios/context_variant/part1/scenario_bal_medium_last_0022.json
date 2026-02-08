@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0022",
+  "variant_type": "balance_medium_last",
+  "title": "Blended Teaching Method-Based Education Program for Enhancing Cybersecurity Awareness",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and comprehension of network concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Utilizing blended instructional methods applying UDL, dual coding, continuity principles, and multiple intelligence theory in a smartphone-centric limited-technology environment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the principles of major cybersecurity threats (phishing, ransomware, etc.) and vulnerabilities.",
+    "Learners can design secure communication methods by analyzing cryptography fundamentals and security protocol application cases.",
+    "Learners can establish personal and organizational security measures using risk management frameworks (e.g., ISO 27001)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Interactive Content",
+      "Offline Worksheet",
+      "Visual Information Graphic Materials",
+      "Role-play Scenario Cards"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

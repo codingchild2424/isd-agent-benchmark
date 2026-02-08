@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5507",
+  "variant_type": "idld_aligned",
+  "title": "Online Collaborative Learning Design for Mathematical Problem-Solving Projects",
+  "context": {
+    "prior_knowledge": "Basic mathematical operations and problem-solving skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Cultivating collaborative learning design and implementation skills for mathematics problem-solving among professionals. Focuses on real-time collaboration tools and feedback exchange using personal devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can collaboratively derive math problem-solving strategies in randomly assigned groups of four",
+    "Learners can visualize and share problem-solving processes using online collaboration tools (e.g., digital whiteboards)",
+    "Learners can analyze the logical validity of solutions and propose improvements through peer assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet/Laptop",
+      "Real-Time Collaboration Software (Miro/Jamboard)",
+      "LMS platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0405",
+  "variant_type": "idld_aligned",
+  "title": "Network-Based Collaborative Mathematics Problem-Solving Project",
+  "context": {
+    "prior_knowledge": "High School-Level Mathematics Foundation and Applied Mathematical Experience in Workplace Contexts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhancing practical mathematical problem-solving skills through online collaborative learning in a smartphone-centric limited-technology environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners collaboratively derive solutions to mathematics problems based on real-world work scenarios at least three times",
+    "Learners demonstrate mathematical communication skills through network-based discussions in mobile environments with over 80% participation",
+    "At the end of a 6-month long-term course, learners will present a math model (regression analysis, probability modeling) applied to a corporate problem (inventory optimization, budget analysis) via a 10-page report and 15-minute presentation, achieving ≥3 points in each of 4 rubric items (problem definition, model suitability, result interpretation, practical utility; total ≥9/12 points) to demonstrate real-world application of math concepts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Collaborative Tools (Slack/Discord Alternatives)",
+      "Mobile-Friendly Mathematical Problem-Solving Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

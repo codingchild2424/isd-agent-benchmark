@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0270",
+  "variant_type": "balance_medium_scale",
+  "title": "Multi-CORE Semantic-Based Discovery Learning for Improving Second Language Collocational Knowledge",
+  "context": {
+    "prior_knowledge": "Basic grammar and vocabulary knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducted in a digital classroom environment, with formative assessments to continuously monitor learning effectiveness",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will accurately reproduce 10+ high-frequency verb-noun collocation patterns",
+    "Learners will achieve ≥80% accuracy in collocation error identification assessments",
+    "Learners will generate appropriate collocations by applying multiple CORE meanings in novel contexts"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Corpus-Based Collocation Database",
+      "Interactive Whiteboard",
+      "Tablet PC",
+      "Collocation Learning Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2788",
+  "variant_type": "idld_aligned",
+  "title": "Peer Feedback Competency Enhancement Program Using Educational Chatbots",
+  "context": {
+    "prior_knowledge": "Basic writing skills and understanding of peer assessment concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducted in a smartphone-based limited-technology environment, targeting novice learners in social studies",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can interact with an educational chatbot to identify key elements of peer feedback (clarity, evidence-based reasoning, constructiveness)",
+    "Learners can generate three or more specific and actionable feedback items on peers' writing drafts by utilizing the chatbot's guided questioning methods",
+    "Learners can recognize their feedback writing patterns through interaction log analysis with the chatbot and establish at least one improvement plan"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone (Chatbot App Installable)",
+      "Feedback Worksheet",
+      "Exemplary Feedback Case Card",
+      "Interactive Log Analysis Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7483-V",
+  "variant_type": "context_variant",
+  "title": "Fault-Tolerant Control Design for Markov Jump PWA Systems",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasizes acquiring fault-tolerant control design methods applicable to real-world professional settings",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "The principles of fault-tolerant control design using adaptive iterative learning can be explained",
+    "Actuator efficiency degradation fault scenarios can be mathematically modeled and stability conditions derived",
+    "A step-by-step implementation procedure for closed-loop system design guaranteeing H∞ performance can be demonstrated"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MATLAB/Simulink simulation tool",
+      "Control Systems Theory Textbook",
+      "PWA System Case Study Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

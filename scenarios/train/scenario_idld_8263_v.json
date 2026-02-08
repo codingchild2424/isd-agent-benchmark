@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8263-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Practical Machine Learning Competencies: Adaptive E-Learning for Strengthening Workplace Mathematics Skills",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply basic statistical concepts (mean, standard deviation, regression analysis) with 85% accuracy for business data analysis.",
+    "Learners can build optimization models using foundational linear algebra (matrix operations, vector concepts) to solve workplace problems.",
+    "Learners can diagnose individual weak areas via an automated assessment system in e-learning modules and complete personalized learning paths with over 90% completion rates."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

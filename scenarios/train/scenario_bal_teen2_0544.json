@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0544",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Blended Learning Environment Mathematics Learning Attitude and Performance Improvement Program",
+  "context": {
+    "prior_knowledge": "Elementary Mathematical Concepts and Fundamental Knowledge of Engineering Mathematics",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Hybrid learning combining VR simulations with Learning Management Systems (LMS) in smartphone-centric restricted technology environments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners complete at least 80% of VR simulation activities weekly in a blended learning environment, improving situational interest by at least 20%.",
+    "Learners demonstrate sustained learning engagement by maintaining interaction frequency (at least three times weekly) on the LMS platform through self-regulated learning.",
+    "Learners achieve academic performance improvement of at least 15% compared to the previous semester in summative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Smartphone Adapter Rental System for VR Simulation",
+      "Blended (Offline/Online) Assessment Materials",
+      "Learning Analytics Tool Integration Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

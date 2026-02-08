@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0577",
+  "variant_type": "idld_aligned",
+  "title": "IoT-Based Adult Educator Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic digital literacy (smartphone proficiency) and secondary education experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aims to strengthen mathematics education competencies for corporate educators (leaders/managers) using IoT technology. Implements MOOC-based blended learning in a smartphone-centric, limited-technology environment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "They can explain the fundamental principles of IoT technology and its educational applications.",
+    "They can design IoT-based math projects utilizing OER materials provided by MOOC platforms.",
+    "They can develop real-life problem-solving math education content by analyzing IoT sensor data in smartphone environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MOODLE-Based Mobile-Optimized Platform",
+      "Open-Source IoT Simulation Tool",
+      "Digital Literacy Diagnostic Test"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

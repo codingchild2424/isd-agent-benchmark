@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0571-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Competencies: ESP (English for Specific Purposes) for Engineering Leadership Development",
+  "context": {
+    "prior_knowledge": "Intermediate-level engineering background and basic English communication skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Improvement of English presentation skills in engineering (evaluation criteria: content structure, technical terminology accuracy, delivery effectiveness).",
+    "Learners analyze three AI technical documents (papers, white papers, etc.), derive two critical insights (technical limitations, ethical issues, etc.) per document, present opinions once in a discussion session, and incorporate ≥2 peer feedbacks.",
+    "Strengthening English communication competencies in international collaboration scenarios (evaluated by role-play performance)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

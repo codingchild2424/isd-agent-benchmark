@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8676",
+  "variant_type": "idld_aligned",
+  "title": "Statistical Feature Extraction and Dimensionality Reduction Techniques for MRI Brain Tumor Classification",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical statistics, machine learning concepts, and Python programming experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening preservice teachers' foundational competency to understand medical imaging analysis technology through mathematical approaches and apply it in educational settings",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain methods for extracting statistical features (texture, intensity distribution, etc.) from MRI brain images.",
+    "Learners can practice feature dimension reduction using Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA).",
+    "Learners can implement a brain tumor classification model applying Bayes classifiers and kNN algorithms and evaluate its accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MRI brain imaging dataset",
+      "Jupyter Notebook Environment",
+      "Pandas/Scikit-learn libraries",
+      "Zoom video conferencing system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

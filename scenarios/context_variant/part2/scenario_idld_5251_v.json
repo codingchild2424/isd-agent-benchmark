@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-5251-V",
+  "variant_type": "context_variant",
+  "title": "Activity-Based Embedded Systems Remote Education Design",
+  "context": {
+    "prior_knowledge": "Foundational electronics engineering and programming experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Real-time online collaborative environment utilizing hands-on practice kits",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can independently configure an embedded system development toolchain",
+    "Learners can design debugging procedures for resolving hardware-software integration issues",
+    "Learners can write C-based firmware required for real-time embedded system operations",
+    "Learners design an embedded algorithm executable on an ARM Cortex-M4 microcontroller (128KB RAM, 80MHz) within one week, implement it in C code meeting memory usage ≤80KB and real-time processing latency ≤100ms, and submit performance test results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Embedded Development Board Kit",
+      "Cloud-Based Integrated Development Environment (IDE)",
+      "Moodle-Based LMS",
+      "YouTube Tutorial Resources",
+      "Digital Oscilloscope Simulator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

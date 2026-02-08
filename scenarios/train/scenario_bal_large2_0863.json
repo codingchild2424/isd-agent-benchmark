@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0863",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Project to Produce Laboratory Education Videos for Elementary School Students (Large-Scale)",
+  "context": {
+    "prior_knowledge": "Proficiency in basic scientific laboratory equipment and foundational safety protocol knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students perform VR lab simulations using personal devices (BYOD) and learn experimental procedures through peer-created educational videos",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can produce an educational video lasting 3–5 minutes that clearly explains key steps in experimental procedures.",
+    "Learners can achieve over 90% accuracy in laboratory simulations using video materials created by peer learners.",
+    "Learners can identify at least three potential hazards in experimental processes and incorporate safety protocols into video content."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Laboratory Simulation Software",
+      "Smart Device Recording Equipment",
+      "Simplified Editing Tools (e.g., CapCut)",
+      "Laboratory Safety Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

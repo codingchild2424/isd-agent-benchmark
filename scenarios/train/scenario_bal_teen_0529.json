@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-0529",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Educational Computational Chemistry (ECC) Teacher Training: Technology Integration Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Basic chemistry theory and teaching experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Industry-linked teacher training program conducted in a smartphone-centric limited-technology environment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform molecular structure analysis projects using computational chemistry simulation tools with 80% accuracy.",
+    "Learners can develop three or more digital activities linked to chemistry curricula based on the TPASK framework for instructional design.",
+    "Learners can create two chemistry concept explanation materials using mobile-friendly interactive content authoring tools.",
+    "Learners improve collaborative problem-solving skills by providing five or more project feedbacks through a peer assessment system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Mobile-Optimized Chemistry Simulation App",
+      "AI-based automated grading system",
+      "Offline alternative learning kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7967-V",
+  "variant_type": "context_variant",
+  "title": "Level-Tailored Scaffolding Design for Instructor Support in Collaborative Knowledge Building",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Collaboration scenario-based training in VR environments, emphasizing practical language application skills.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can perform problem-solving collaboration in simulation environments using instructor scaffolding support (high/medium/low levels)",
+    "Learners can systematically experience perspective-sharing, question-processing, and perspective-deepening stages in VR-based group discussions",
+    "Learners can conduct self and peer assessments based on data collected during collaborative processes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Equipment",
+      "Learning Analytics Dashboard",
+      "Collaborative activity worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

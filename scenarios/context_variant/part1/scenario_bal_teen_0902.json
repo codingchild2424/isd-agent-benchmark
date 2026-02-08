@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0902",
+  "variant_type": "balance_teen_k12",
+  "title": "Project-Based Systems Analysis and Design: Integrated Development of Chatbots and Dashboards for K-12",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and database concept comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners consist of general citizens with intermediate domain expertise in science; aims to cultivate practical system design skills via project-based learning in a digital-device-provided environment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can independently perform system analysis and design processes by applying Merrill's Pebble-in-the-Pond model.",
+    "Learners can develop applications reflecting multi-user requirements by integrating chatbots and dashboard components based on a common database.",
+    "Learners can present an integrated perspective in analytics and artificial intelligence through project deliverables."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Development Environment Setup Guide",
+      "Predefined Case Study Materials",
+      "External Stakeholder Engagement Manual",
+      "Collaboration Tools (LMS, Git, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

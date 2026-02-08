@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2356-V",
+  "variant_type": "context_variant",
+  "title": "AI-Driven OER Sustainability Design: Social Sector-Tailored Education",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and understanding of Open Educational Resources (OER) concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Designed for smartphone-centric accessibility and low-cost AI tools, incorporating gamification elements to promote learner engagement.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply the five sustainability dimensions of OER (social, economic, environmental, pedagogical, and technological) to practical cases.",
+    "Learners can produce multilingual OER content over 50% faster using AI-based translation tools.",
+    "Learners can create and distribute mobile-optimized OER materials in an LMS environment while complying with accessibility standards by over 80%."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Free AI-Generated Tools (Translation/Content Creation)",
+      "Open-Source OER Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

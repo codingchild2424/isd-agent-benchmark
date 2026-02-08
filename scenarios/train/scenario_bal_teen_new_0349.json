@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0349",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Problem-Based Computing Project Design for Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and mathematical competency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A practice-oriented course for pre-service teachers emphasizing the ability to use computing tools integrated with mathematics curriculum",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Developing Python-based algorithm design skills for solving real-life problems",
+    "Enhancing collaborative code analysis and feedback provision capabilities",
+    "Learners develop one mathematics education computing project (e.g., a graph calculator using Python) within a week and apply an evaluation system achieving over 70 points (out of 100) on a teacher-provided rubric (functionality 30%, educational effectiveness 40%, creativity 30%)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook",
+      "Online Collaboration Tools (Slack/Miro)",
+      "Educational Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

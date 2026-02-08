@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4174",
+  "variant_type": "idld_aligned",
+  "title": "Constructivist and Reversibility-Based Foundational Programming Education Course",
+  "context": {
+    "prior_knowledge": "Basic Computer Literacy and Experience in Logical Thinking",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Offline programming fundamentals competency-building course for working professionals to enhance workplace efficiency; learning progresses via individual mobile devices",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can implement and debug simple algorithms using basic programming syntax (variables, conditionals, loops)",
+    "Learners can conceptually analyze and explain code execution processes using visual programming tools (MTL PV technique)",
+    "Learners can collaboratively resolve coding errors by applying reversibility principles (backward tracing) with peer learners"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile App-Based Learning Platform",
+      "Programming Visualization Tool",
+      "Online Coding Editor",
+      "Peer Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

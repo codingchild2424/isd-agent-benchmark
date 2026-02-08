@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8571",
+  "variant_type": "idld_aligned",
+  "title": "Language Teaching Competency Enhancement Program Utilizing Learning Analytics",
+  "context": {
+    "prior_knowledge": "Elementary language instruction techniques and digital tool utilization experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Professional development for elementary language teachers using mobile devices (BYOD) to implement learning analytics tools and improve pedagogical methods",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Diagnose learners' language acquisition patterns with ≥80% accuracy using learning analytics data.",
+    "Design ≥3 personalized instructional strategies based on data collected from a mobile microlearning environment.",
+    "Identify at-risk learners and implement intervention strategies within 48 hours based on learning analytics.",
+    "Propose pedagogical improvement plans by integrating qualitative/quantitative data collected during the learning process."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Analytics Dashboard Tool",
+      "Mobile Learning Management System (LMS)",
+      "Language Acquisition Assessment Template",
+      "Data Visualization Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

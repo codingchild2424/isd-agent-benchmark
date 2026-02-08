@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6296",
+  "variant_type": "idld_aligned",
+  "title": "Augmented Reality and Sensor-Based Expert Training Program",
+  "context": {
+    "prior_knowledge": "Three or more years of practical experience in the relevant field (aviation maintenance, medical imaging, astronaut training) and basic digital technology proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Implementing a training environment similar to real-world scenarios by accessing augmented reality content and sensor data via personal devices",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can reproduce specialized work procedures with over 85% accuracy using augmented reality interfaces.",
+    "Learners can compare their performance results with expert standards via sensor data analysis and establish improvement plans at least three times.",
+    "Learners can identify 90% of errors occurring during training through reflective practice and develop response strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Development Kit",
+      "Motion Capture Sensor",
+      "3D Modeling Software",
+      "LMS Integration System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

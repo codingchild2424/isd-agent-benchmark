@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1442",
+  "variant_type": "idld_aligned",
+  "title": "System Dynamics-Based Simulation Learning Design",
+  "context": {
+    "prior_knowledge": "Understanding of Elementary Mathematical Concepts and PC/Mobile Device Usage Skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Simulation modeling competency enhancement for working professionals to apply to job-related problem-solving. Utilizes online collaboration tools in BYOD environments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the basic structure (Stock-Flow) of system dynamics models",
+    "Learners can build simple business simulation models using tools like Vensim/PowerSim",
+    "Learners can derive actionable insights applicable to real workplaces by analyzing simulation results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "System Dynamics Authoring Tool License",
+      "Online collaborative whiteboard (Miro, etc.)",
+      "Real-Time Simulation Execution Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

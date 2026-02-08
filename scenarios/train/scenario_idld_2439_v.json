@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2439-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Learning for Educational Software Development",
+  "context": {
+    "prior_knowledge": "Basic programming concepts and foundational understanding of pedagogy",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Team Project-Centered Learning Environment Combining Instructional Design and Software Development Principles. Integrates Online (Lectures, Resource Sharing) and Offline (Workshops, Team Collaboration) Activities",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can integrate instructional design principles (e.g., ADDIE model) with agile development methodologies to design and develop educational software processes",
+    "In 4-person teams, learners conduct needs analysis for 10 learners using educational needs assessment tools (surveys, interviews), develop an educational prototype (syllabus or activity design) based on the results, and complete testing via peer evaluation and expert review (meeting at least 3 of 5 checklist items).",
+    "Learners can implement and present educational software considering accessibility, usability, and evaluation systems."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cloud-Based Development Environment (Google Colab, GitHub)",
+      "Educational Software Case Analysis Materials",
+      "Instructional Design and Software Engineering Textbook (Online Open Source)",
+      "Team-Based Project Space (Offline)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

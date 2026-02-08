@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6812-V",
+  "variant_type": "context_variant",
+  "title": "Structuring Collaborative Learning Activities for Scientific Problem-Solving",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental science theories and research methodologies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Environment supporting smartphone-based collaborative tools, with emphasis on project outcome-based evaluation",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately design science problem-solving steps at least 80% of the time using Collaborative Learning Flow Patterns (CLFP).",
+    "Learners can structure scientific discussion processes according to time/rule constraints by applying the Process-Driven Collaborative Editing Pattern (PDCEP).",
+    "Learners can finalize project deliverables through peer evaluation and feedback using smartphone-based collaborative tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Collaboration Platform",
+      "Science Experiment Simulation App",
+      "Digital Discussion Guide Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

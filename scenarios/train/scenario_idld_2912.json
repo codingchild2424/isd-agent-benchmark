@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2912",
+  "variant_type": "idld_aligned",
+  "title": "Microlearning Course for Diagnosing and Enhancing Competencies in Virtual Educational Material Development",
+  "context": {
+    "prior_knowledge": "Basic ability to utilize digital tools and experience in developing educational materials",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course diagnosing competency in developing virtual educational materials in smartphone-centric limited-technology environments and acquiring ICT integration strategies and learner-customized design methods.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can establish content structures reflecting learner characteristic analysis when designing virtual educational materials.",
+    "Learners can produce prototypes by applying mobile-optimized microlearning material development procedures.",
+    "Learners can verify the feasibility of ICT-integrated educational strategies through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible authoring tool",
+      "Access Permissions for LMS (Learning Management System) Platforms",
+      "Open-source microlearning template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

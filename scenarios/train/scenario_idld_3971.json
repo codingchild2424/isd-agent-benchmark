@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3971",
+  "variant_type": "idld_aligned",
+  "title": "Gamification-Based Mobile Cybersecurity Education Program",
+  "context": {
+    "prior_knowledge": "Basic information security concepts and foundational mathematical statistics",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-Centered Education for Pre-Service Teachers, Utilizing Gamification Elements (Badges, Leaderboards, Quests) Based on Mobile Apps in BYOD Environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can classify five types of cybersecurity threats and explain them using mathematical principles.",
+    "Learners can present three or more application cases of encryption algorithms through gamification task resolution.",
+    "Learners can complete team-based security scenario projects using mobile collaboration tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Gamification Content Template",
+      "Security Simulation Tool",
+      "Project Evaluation Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

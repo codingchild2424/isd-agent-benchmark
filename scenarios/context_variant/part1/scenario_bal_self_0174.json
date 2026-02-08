@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0174",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Pediatric Asthma Self-Management Education: Therapeutic Education (TE)-Based Instructional Design",
+  "context": {
+    "prior_knowledge": "No prior experience with basic medical knowledge or educational tool utilization",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A program to enhance pediatric asthma patient education competencies for graduate students in language fields. Requires designing activities implementable in a limited technological environment centered on smartphones",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain core concepts of pediatric asthma self-management: symptom recognition, medication administration, and avoidance of triggers.",
+    "Learners can design a 10-minute pediatric education scenario using instructional materials based on the ADDIE model.",
+    "Learners can produce educational videos or infographics compatible with smartphones through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone Filming Equipment",
+      "Simplified Design Tool (Canva, etc.)",
+      "Asthma Management Guidebook (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

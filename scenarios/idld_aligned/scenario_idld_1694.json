@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1694",
+  "variant_type": "idld_aligned",
+  "title": "Designing an Interdisciplinary Approach to Elementary Programming Education Environments",
+  "context": {
+    "prior_knowledge": "Elementary programming concepts and understanding of math education theories",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "15-minute modular learning via mobile devices, developing computational thinking through integration with mathematics curricula.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can classify and explain at least three technical and pedagogical characteristics of elementary-level programming environments",
+    "Learners can suggest at least two interdisciplinary approaches when designing programming activities linked to mathematics curriculum content",
+    "Learners can develop and evaluate mobile microlearning instructional design models suitable for large learner groups"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Scratch Jr",
+      "Blockly",
+      "Mobile LMS Platform",
+      "Programming Learning Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

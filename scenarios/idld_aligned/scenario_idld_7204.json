@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7204",
+  "variant_type": "idld_aligned",
+  "title": "Development of a Customized Online Instructional Design Model to Strengthen Foundational Physical Chemistry Competencies",
+  "context": {
+    "prior_knowledge": "Basic chemistry theory and mathematical problem-solving skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Requires optimization for smartphone-based learning environments and support for interpreting specialized chemistry terminology",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain over 80% of core physical chemistry concepts (thermodynamics, quantum chemistry, etc.) through context-specific case applications",
+    "Learners can mathematically model chemical reaction processes and improve prediction accuracy by over 70%",
+    "Learners can collaboratively solve complex chemistry problems with peer learners using online collaboration tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "3D Chemistry Simulation App",
+      "Video Conferencing System (e.g., Zoom)",
+      "Responsive Digital Textbook (PDF/EPUB)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

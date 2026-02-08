@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6693",
+  "variant_type": "idld_aligned",
+  "title": "Adaptive Mobile Language Learning Course Based on Learning Styles",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and understanding of fundamental professional terminology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-based learning environment providing customized content to enhance professional workers' practical language proficiency",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can access language learning content in a way optimized for their learning style (visual/auditory/kinesthetic).",
+    "Learners acquire five core language skills per week through 10-minute microlearning modules in a mobile environment.",
+    "Learners achieve a 20% improvement in language proficiency scores in post-assessments compared to pre-assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Mobile LMS",
+      "Learning style diagnostic tool",
+      "Contextual Language Scenario Database (DB)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

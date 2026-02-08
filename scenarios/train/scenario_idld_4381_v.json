@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4381-V",
+  "variant_type": "context_variant",
+  "title": "Virtual Reality-Based Collaborative Language Learning Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific terminology and proficiency in using digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course involving collaborative activities in a virtual reality environment to improve English communication skills for science-related job roles",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can communicate with peers using science-specific terminology in a virtual reality environment with at least 80% accuracy.",
+    "Students can apply at least three situational language use strategies by solving collaborative tasks in a 3D virtual space.",
+    "Students can produce and submit an English-language video explaining a science experiment using virtual reality in a project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open Wonderland Platform",
+      "Mobile VR Device Support",
+      "Science Discipline Virtual Scenario Templates",
+      "Automated Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0473",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Large-Scale Science Teacher Moral-Flexible Competency Development Course Using Cultural Philosophy and Adaptive Technology",
+  "context": {
+    "prior_knowledge": "Core scientific subject knowledge and experience in utilizing digital learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are pre-service or in-service teachers who require case-based learning experiences utilizing Chengyu (four-character idioms) to enhance moral judgment and flexible instructional design skills in science education settings",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply moral principles extracted from Chengyu (four-character idioms) to science lesson design",
+    "Learners can develop learner-tailored science education scenarios using AI-based LMS systems",
+    "Learners can create science education modules reflecting cultural philosophy through project-based assessments and analyze implementation results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "THUOCL-chengyu.txt Corpus Data",
+      "LMS-Integrated Chengyu Learning Tool",
+      "Science education case database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

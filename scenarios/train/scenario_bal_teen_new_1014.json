@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1014",
+  "variant_type": "balance_teen_filtered",
+  "title": "Social Studies Learning Design Utilizing Intelligent Tutoring Systems",
+  "context": {
+    "prior_knowledge": "Comprehension of basic social studies concepts and experience using digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Implementation of adaptive learning utilizing domain model reuse in intelligent tutoring systems within smartphone-based constrained environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "One can explain strategies for reconstructing social studies learning content by analyzing the domain model of an intelligent tutoring system.",
+    "One can design at least two customized learning scenarios tailored to social studies topics by reusing existing domain models.",
+    "Formative assessments can measure the learning effectiveness of an intelligent tutoring system with over 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Social studies standard domain model template",
+      "Simple diagram creation tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

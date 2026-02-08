@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2619-V",
+  "variant_type": "context_variant",
+  "title": "Formative Assessment Design Workshop for Technology-Enhanced Learning Platforms",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A short intensive program supporting pre-service teachers in effectively designing and utilizing technology-based formative assessment tools in mathematics education",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design formative assessment tools that evaluate active information retrieval and spaced repetition learning strategies using learning analytics data.",
+    "Learners can interpret learner behavior by analyzing five key variables (e.g., response time, number of attempts, review patterns) extracted from online quiz log data.",
+    "Based on learning analytics collected from technology-enhanced platforms, learners can apply methods to provide personalized feedback to individual learners."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Canvas LMS or Similar Technology-Enhanced Learning Platform",
+      "Learning Analytics Visualization Tool (e.g., Google Data Studio)",
+      "Formative Assessment Template for Mathematics Instruction"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

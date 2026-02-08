@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0470",
+  "variant_type": "balance_teen_filtered",
+  "title": "Deep Reinforcement Learning-Based Millimeter-Wave Beam Training Design for [K-12] Education",
+  "context": {
+    "prior_knowledge": "Basic principles of wireless communication, foundational machine learning, and programming experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced communication technology training program for pre-service teachers",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain core technical elements of millimeter-wave communication and the beam training process.",
+    "Learners can analyze and simulate the principles of applying deep reinforcement learning (DRL) to wireless communication environments.",
+    "Learners can propose improvement strategies for real-time beam training algorithms using interactive learning design (ILDP)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based DRL (Deep Reinforcement Learning) library",
+      "Wireless communication simulation tool",
+      "Beamforming Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

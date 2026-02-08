@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1135",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Managing Cognitive Overload in Digital Learning Environments: Interactive Mathematics Learning Design",
+  "context": {
+    "prior_knowledge": "Grasp of basic mathematical concepts and experience with digital devices",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "In a blended environment utilizing personal devices (BYOD), learners study methods to recognize and manage confusion during mathematical problem-solving processes. Project-based assessments measure learning outcomes.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify and explain three or more types of confusion signals that occur in digital environments.",
+    "Learners can apply two or more self-directed learning strategies in confusing situations using interactive tools.",
+    "Learners can complete a collaborative project that analyzes confusion factors through peer feedback and proposes improvement plans."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Digital Platforms (GeoGebra, Desmos, etc.)",
+      "Confusion Metric Analysis Template",
+      "Feedback Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

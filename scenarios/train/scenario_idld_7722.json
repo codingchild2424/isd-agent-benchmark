@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7722",
+  "variant_type": "idld_aligned",
+  "title": "Advanced Networking Instructional Design Based on Packet Tracer",
+  "context": {
+    "prior_knowledge": "Understanding TCP/IP protocols, basic network topology design, and packet analysis concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Methodology Training for Pre-Service Teachers on Teaching Advanced Networking Concepts Using Simulation Tools",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design complex network topologies with three or more layers using Packet Tracer",
+    "Learners can visually analyze and explain the operational principles of routing protocols (OSPF, EIGRP) in simulated environments",
+    "Based on simulation results, it is possible to propose network failure diagnosis and optimization strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Packet Tracer Lite Version",
+      "Offline Practical Training Manual (PDF)",
+      "Low-Bandwidth Simulation Template File"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

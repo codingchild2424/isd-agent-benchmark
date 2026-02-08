@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0151-V",
+  "variant_type": "context_variant",
+  "title": "Collaborative Learning Design for Non-IT Subjects in IT Students: Application to Language Domains",
+  "context": {
+    "prior_knowledge": "Basic IT literacy and field experience in educational settings",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "The goal is for pre-service teachers to acquire methodologies for effectively teaching non-IT subjects (e.g., language) in IT environments. Practical insights are strengthened through ELIS system utilization and collaborative learning in smartphone-centric, resource-limited settings.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can use the ELIS system to plan and execute self-directed learning strategies for non-IT language subjects.",
+    "Learners can derive practical insights into real-world language education scenarios through online collaborative learning.",
+    "Learners can demonstrate the ability to integrate IT tools with non-IT content via project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ELIS System Access Permissions",
+      "Mobile-Optimized LMS",
+      "Collaborative learning templates",
+      "Language Education Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

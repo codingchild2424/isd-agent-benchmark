@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1575",
+  "variant_type": "idld_aligned",
+  "title": "Learner-Centered Blended Education Course for Strengthening Digital System Practical Competencies",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Electronics and Digital Logic Circuits",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Designed for learners in managerial/leadership roles to improve digital system design and problem-solving skills in workplaces. Implemented in limited tech environments using smartphones and simple graphic tablets",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners solve work-related problems by applying design principles of digital logic gates and combinational circuits",
+    "Learners write digital systems project reports based on peer feedback in a flipped learning environment",
+    "Learners achieve an 80%+ accuracy rate in logic circuit analysis problems using a smartphone-based quiz system",
+    "Learners present digital systems design simulation results in project-based assessments conducted in 4-week cycles"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Basic Graphic Tablet (Shared Equipment)",
+      "Digital Circuit Simulation Mobile App",
+      "Online Peer Assessment Templates",
+      "QR Code-Based Offline Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

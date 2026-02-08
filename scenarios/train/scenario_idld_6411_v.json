@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6411-V",
+  "variant_type": "context_variant",
+  "title": "Online Microlearning for Improving Metadata Quality",
+  "context": {
+    "prior_knowledge": "Foundational Knowledge of Information Management and Basic Understanding of Library Science",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Mobile-friendly short-term training for working professionals, emphasizing connections to mathematical data structures",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will be able to identify 5 core metadata elements (topic, relationship, format, etc.) with 90% accuracy.",
+    "Learners will be able to achieve at least 80% metadata consistency by applying controlled vocabulary standards.",
+    "Learners will be able to self-assess metadata completeness (accuracy/completeness) through a 3-step verification process."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Web-Based Lecture Platform",
+      "Mobile-Optimized Comparative Analysis Worksheet",
+      "Dublin Core Sample Dataset",
+      "Simplified Grading Quiz Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

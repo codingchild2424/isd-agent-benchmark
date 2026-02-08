@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4855",
+  "variant_type": "idld_aligned",
+  "title": "Workshop on Digital Game-Based Language Learning Environment Design",
+  "context": {
+    "prior_knowledge": "Proficiency in basic digital tools and experience in language education",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A short-term intensive program implementing a game-based learning environment through participatory design in a smartphone-centric, limited technological environment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design three or more language learning scenarios incorporating digital game elements.",
+    "Learners can complete game prototypes incorporating peer feedback using collaboration tools.",
+    "Learners can explain two or more microlearning game mechanisms applicable in mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Game Development Template",
+      "Collaborative Whiteboard App",
+      "Language Learning Content Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

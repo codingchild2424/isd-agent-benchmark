@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6024",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Elementary Language Intensive Short-Term Program: Iterative Execution and Instance Design",
+  "context": {
+    "prior_knowledge": "No foundational language comprehension ability",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Repetitive learning environment using only smartphones with a flexible learner-instructor matching system",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve over 80% word recognition accuracy in mobile environments within one week.",
+    "Learners achieve over 70% of daily learning objectives through real-time formative assessments (quizzes).",
+    "Learners complete personalized content three or more times via individualized learning paths (instances) during iterative execution."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Mobile-optimized content templates",
+      "Automated Formative Assessment System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1319-V",
+  "variant_type": "context_variant",
+  "title": "Social 360VR-Based Knee Examination Practical Training Program",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Implementation of field-intensive learning using 360VR in a smartphone-based limited-technology environment.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can step-by-step reproduce knee collateral/ACL examination procedures in 360VR environments",
+    "Learners can identify at least three potential clinical issues during examinations by analyzing virtual patient cases",
+    "Learners improve inspection skill performance errors by over 20% through collaborative problem-solving with peers"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "360VR Content Production Kit",
+      "Mobile-Compatible VR Viewer App",
+      "Knee Examination Practice Checklist (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

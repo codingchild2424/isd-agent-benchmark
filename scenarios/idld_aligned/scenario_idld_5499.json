@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5499",
+  "variant_type": "idld_aligned",
+  "title": "Foundations of Dynamic Dual-Learning Networks for Image Denoising",
+  "context": {
+    "prior_knowledge": "Understanding of basic image processing concepts and foundational machine learning knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Basic technical skills acquisition course for corporate managers to improve work efficiency through digital image quality enhancement",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the fundamental principles of image denoising and the differences between residual and non-residual learning approaches",
+    "Understand and apply single-network design strategies for handling multiple noise levels",
+    "Analyze the role of dynamic compositional attention mechanisms and explain the process of computing result fusion weights"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook Installation Package",
+      "Image Dataset Sample",
+      "Pre-trained DualBDNet Model"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

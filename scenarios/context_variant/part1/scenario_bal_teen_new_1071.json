@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1071",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Short-Term Course for Enhancing Elementary Mathematics Teachers' Competencies Using Mobile Learning",
+  "context": {
+    "prior_knowledge": "Basic mathematics education theories and fundamental smartphone utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course focused on developing mobile-based mathematics pedagogies applicable in real classrooms. Content creation and collaboration must be achievable via smartphones in PC-unavailable environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design personalized math problem sets using mobile applications.",
+    "Learners will develop three or more 10-minute math lesson scenarios reflecting real classroom environments (e.g., split classes, group activities) using mobile devices (tablets/smartphones) within one week and achieve at least 3 points out of 5 on a peer evaluation rubric (content relevance, technology utilization, creativity).",
+    "Learners can share mobile lesson materials with peer teachers and provide feedback via a collaborative platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Free/Low-Cost Educational Apps",
+      "QR Code Generator",
+      "Cloud Storage Space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

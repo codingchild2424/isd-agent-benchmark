@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-7477-V",
+  "variant_type": "context_variant",
+  "title": "Basic Education Course on Intermittent Medication Therapy",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Online course based on Gagné’s Nine Events of Instruction, applying systematic design aligned with learners’ cognitive processes",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Explain the principles of pharmacological treatment for liver disease patients with 80% or greater accuracy",
+    "Students can apply medication dosage adjustment criteria for impaired liver function to real-world cases.",
+    "Students can identify five major symptoms of hepatotoxic drugs and propose response strategies.",
+    "Students can retain over 70% of learning content for up to seven days using digital learning materials."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Liver Disease Treatment Guidelines (PDF)",
+      "Interactive Drug Interaction Simulation",
+      "Case-Based Learning Materials (SBL)",
+      "Automated Grading Quiz System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

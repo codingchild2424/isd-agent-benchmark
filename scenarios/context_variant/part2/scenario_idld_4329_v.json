@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4329-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Web Development Practical Competencies: Workshop on Designing an Instructor-Centered Curriculum Support System",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can derive three major educational challenges faced by instructors (e.g., time constraints, resource shortages) through needs analysis.",
+    "Learners can comparatively analyze at least three exemplary support service cases from other institutions based on benchmarking results.",
+    "Learners can propose at least one team-based instructional support system design strategy considering educational environmental constraints."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

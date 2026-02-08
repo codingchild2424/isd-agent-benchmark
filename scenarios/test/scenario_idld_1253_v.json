@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1253-V",
+  "variant_type": "context_variant",
+  "title": "Simulation Learning Based on Refutation Texts to Improve Box Plot Interpretation Errors",
+  "context": {
+    "prior_knowledge": "Understanding basic statistical concepts and fundamental principles of data visualization",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Providing interactive box plot simulations in VR environments. Operating periodic error diagnosis and feedback sessions throughout the training period",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can reduce the \"area misinterpretation\" error in box plots by over 80% after countertext-based learning.",
+    "Accurately explain the scientific meaning of box plot components (box, whiskers, median) in a simulation environment.",
+    "Complete a box plot interpretation project in VR simulation without errors using real-world datasets."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "Interactive simulation software",
+      "Digital Learning Management System",
+      "Box plot dataset package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

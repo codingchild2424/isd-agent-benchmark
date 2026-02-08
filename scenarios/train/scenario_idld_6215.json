@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6215",
+  "variant_type": "idld_aligned",
+  "title": "e-Learning-Based Science Competency Performance Assessment Design: Applying the 4C/ID Model",
+  "context": {
+    "prior_knowledge": "Basic science theories and experience with e-learning platforms",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Aims to strengthen the ability to solve realistic scientific tasks in a limited technological environment centered on smartphones",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners demonstrate competence in designing and analyzing scientific experiments through realistic tasks based on the 4C/ID model.",
+    "Learners improve performance outcomes by utilizing a formative feedback system, including peer assessment, on e-learning platforms.",
+    "Learners systematically document scientific problem-solving processes using assessment tools optimized for mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Science Experiment Simulation App",
+      "Peer Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

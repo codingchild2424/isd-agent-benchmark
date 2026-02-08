@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0724",
+  "variant_type": "idld_aligned",
+  "title": "Pediatric Emergency Response Training Using Technology-Enhanced Simulation",
+  "context": {
+    "prior_knowledge": "Possession of Foundational Medical Knowledge and Pediatric Patient Care Experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-optimized instructional design for working learners, providing smartphone-based simulation content for non-PC environments",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "In a simulation environment, learners can accurately identify severe pediatric emergencies (e.g., respiratory distress, shock) within 5 minutes and perform initial response procedures",
+    "Using Technology-Enhanced Simulation (TES) modules, learners can evaluate core symptoms in pediatric patient diagnosis with over 90% accuracy",
+    "After simulation learning, over 85% of learners demonstrate improved time management skills in actual clinical settings"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Simulation Application",
+      "Pediatric Emergency Scenario Database",
+      "Mobile Quiz Platform",
+      "Voice Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

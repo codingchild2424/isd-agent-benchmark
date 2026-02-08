@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0522-V",
+  "variant_type": "context_variant",
+  "title": "Neonatal Resuscitation Simulation Training Program",
+  "context": {
+    "prior_knowledge": "Basic Medical Knowledge and Understanding of Neonatal Physiological Structures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Hybrid training environment combining real-time video conferencing tools with virtual simulation platforms",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform the five standard protocol steps (assessment, respiratory support, circulatory support, medication administration, post-management) in neonatal resuscitation simulation with 80% accuracy",
+    "Learners can complete initial response actions within 90 seconds through effective communication with team members during crisis situations in simulation training",
+    "Learners can write at least three analyses in their self-evaluation reports after training regarding their individual responsibility execution abilities and psychological traits (e.g., locus of control, emotional regulation)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual Simulation Software",
+      "Neonatal Manikin (Virtual Environment)",
+      "Psychological Assessment Questionnaire",
+      "NLS Checklist Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

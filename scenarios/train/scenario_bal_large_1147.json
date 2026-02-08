@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1147",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Development and Implementation of a Digital Education Design Model for Medical Graduate Schools",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge and experience using digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Digital medical education curriculum operating in a smartphone-centric, constrained technological environment",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain and apply the nine-stage process of a digital instructional design model.",
+    "Learners can apply evidence-based instructional design principles to Postgraduate Medical Digital Education (PGMDE).",
+    "Learners can develop effective digital educational materials in resource-constrained technological environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Cloud-Based Learning Management System (LMS)",
+      "Open-Source Educational Tools",
+      "Medical simulation app"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

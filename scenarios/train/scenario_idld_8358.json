@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8358",
+  "variant_type": "idld_aligned",
+  "title": "Artistic Style Generation and Interactive Design in Virtual Reality (VR) Environments",
+  "context": {
+    "prior_knowledge": "Understanding of basic geometric concepts and experience with VR device usage",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners use personal VR devices via BYOD (Bring Your Own Device) to create virtual environments applying mathematical principles, experiencing artistic style implementation. Learning outcomes are measured through project-based assessments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Perform object selection/manipulation tasks with 80% accuracy using a graphics-based interaction paradigm in a VR environment",
+    "Implement three or more artistic styles (e.g., watercolor, sketch, ukiyo-e) in virtual spaces by applying non-photorealistic rendering (NPR) techniques",
+    "Compare and evaluate interaction methods across six dimensions: learnability, accuracy, and user convenience based on experimental data analysis"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR development kit (Unity/Unreal Engine plugin)",
+      "NPR rendering sample dataset",
+      "Interactive experiment evaluation form"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

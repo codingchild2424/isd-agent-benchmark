@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3033-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Nonlinear Self-Regulation and Competition Preparation for Athletes",
+  "context": {
+    "prior_knowledge": "Foundations of sports psychology, understanding of self-regulation theory, and basic awareness of competition preparation processes",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify and apply three or more self-regulation strategies for different competition environments through VR simulations.",
+    "Learners can describe the process of designing individualized training periodization using a constraint-led approach with 80% accuracy.",
+    "Through team-based projects, learners develop real-game preparation scenarios and achieve feasibility scores of 4 or above on a 5-point scale via peer evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

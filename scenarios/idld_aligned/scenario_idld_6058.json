@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6058",
+  "variant_type": "idld_aligned",
+  "title": "Flipped Learning-Based Applied Engineering Mathematics Education",
+  "context": {
+    "prior_knowledge": "Understanding of college-level foundational mathematics (calculus, linear algebra)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course for a learner group composed of current professionals to systematically acquire mathematical approaches for engineering problem-solving. Customized training for corporate R&D departments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners accurately apply core calculus and linear algebra concepts for engineering problem-solving at 85% proficiency or higher",
+    "In flipped learning environments, learners engage in peer feedback-based problem-solving activities at least twice weekly",
+    "Learners connect 70% or more of learned mathematical theories to real-world work applications (structural analysis, signal processing, etc.)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom-Authenticated Real-Time Video Conferencing System",
+      "LMS-Based Pre-Learning Content",
+      "MATLAB/Octave Software",
+      "Engineering Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

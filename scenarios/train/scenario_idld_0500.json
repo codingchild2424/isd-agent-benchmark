@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0500",
+  "variant_type": "idld_aligned",
+  "title": "Cognitive Load Assessment of Anatomy E-Learning Tools: Application of the Dual-Task Paradigm",
+  "context": {
+    "prior_knowledge": "Basic Anatomy Concepts and Experience with E-Learning Tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Experimental design and execution to evaluate cognitive load of anatomy e-learning tools in smartphone-centric limited-technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will be able to quantitatively measure cognitive load in anatomy e-learning tools using a dual-task paradigm.",
+    "Learners will be able to overcome the limitations of the traditional dual-task paradigm by designing auxiliary tasks based on a modified Stroop test.",
+    "Learners can analyze the impact of e-learning tool interface design on cognitive load and propose improvement strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Commercial Anatomy E-Learning Tools (2 Types)",
+      "Smartphone-Based VR Simulation Equipment",
+      "Cognitive Load Measurement Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

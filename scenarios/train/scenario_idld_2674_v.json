@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2674-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Skills: Virtual World-Based Language Education Design Workshop",
+  "context": {
+    "prior_knowledge": "Experience with Basic Digital Educational Tools and Understanding of Elementary Language Curriculum",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participants can independently design virtual world-based language lessons by applying the i-MMOLE framework",
+    "Participants can creatively plan three or more types of virtual world activities implementable in smartphone environments",
+    "Participants can revise and improve virtual world lesson designs based on peer feedback and submit final deliverables"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

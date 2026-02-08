@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1760-V",
+  "variant_type": "context_variant",
+  "title": "Short-Term Course on Hypermedia-Based Scientific Inquiry and Incidental Learning",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Program centered on hypermedia content navigation and nonlinear learning experiences via mobile devices. Integrates self-directed discovery learning and incidental learning opportunities in daily contexts",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can derive connections between scientific concepts in a hypermedia environment with 80% accuracy",
+    "Learners perform self-directed scientific inquiry at least five times per week through mobile microlearning modules",
+    "Learners can explain science phenomena observed in daily life using hypermedia tools with over 70% frequency"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Hypermedia Science Content Package",
+      "LMS-Integrated Mobile Learning Management System",
+      "Digital note-taking tools",
+      "Peer feedback platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2005-V",
+  "variant_type": "context_variant",
+  "title": "Development Process of a Mobile-Based Mathematics Vocabulary Learning Assessment Framework",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Program linking repetitive vocabulary training with project-based assessment for learners with only smartphones",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Utilize 200 mathematical terms with ≥80% accuracy",
+    "Conduct self-directed vocabulary learning through assessment frameworks provided in mobile apps",
+    "Apply vocabulary learned through team projects to solve actual mathematical problems"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Mobile vocabulary learning app",
+      "Offline Worksheet",
+      "Teacher monitoring tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

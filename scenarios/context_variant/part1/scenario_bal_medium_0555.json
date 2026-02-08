@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0555",
+  "variant_type": "balance_medium_scale",
+  "title": "Digital Badge Design and Implementation Process for Information Literacy",
+  "context": {
+    "prior_knowledge": "Basic mathematical-statistical processing skills and experience with digital tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Information evaluation/analysis training program to strengthen job competencies in mathematics. Learning motivation and achievement visualization via a digital badge system.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners apply 5 verification criteria (data sources, methodological transparency, reproducibility, bias, peer review) to evaluate the reliability of mathematical information (statistics, algorithm complexity, experimental results) in software development materials (academic papers, technical reports, open-source documents) and identify errors or exaggerations with over 80% accuracy.",
+    "Acquiring the ability to design a system that certifies the information identification-selection-utilization process in stages through digital badges",
+    "Learners select 3 real development problems (1 algorithm optimization, 2 data analyses) during a 6-month course, design decision-making processes based on information literacy (data collection/analysis/visualization), submit project deliverables (reports/code/demo videos), and achieve 80+ points (out of 100) in the evaluation rubric (problem definition clarity: 25 points, data utilization: 35 points, solution effectiveness: 40 points)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Badge Platform",
+      "Mathematics topic dataset",
+      "Assessment Rubric Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

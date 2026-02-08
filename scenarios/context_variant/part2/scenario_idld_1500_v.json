@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1500-V",
+  "variant_type": "context_variant",
+  "title": "Sensitive Situation-Based Learning for Ethical Design Education",
+  "context": {
+    "prior_knowledge": "Design theory and basic software engineering knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners access the LMS via smartphones and study in environments with limited use of complex digital tools. The process emphasizes cultivating reflective thinking skills through case analyses reflecting ethical dilemmas.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze sensitive design cases and apply ethical decision-making frameworks.",
+    "Learners enhance their ability to integrate subjective experiences and objective criteria to solve real-life design problems.",
+    "Learners can identify three or more ethical conflict situations (e.g., privacy protection, treatment priority, family consent procedures) that may arise when designing digital tools for children with cancer treatment and propose two or more solutions (e.g., anonymization techniques, multidisciplinary committee formation) grounded in ethical frameworks (e.g., Declaration of Helsinki) for each situation."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "LMS platform",
+      "Mobile-Optimized Educational Materials",
+      "Text-based discussion board",
+      "Case Analysis Worksheet (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

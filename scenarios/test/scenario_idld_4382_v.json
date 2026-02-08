@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4382-V",
+  "variant_type": "context_variant",
+  "title": "Designing Hypothetical Learning Trajectories for Comparative Problem-Solving in STEM Integration",
+  "context": {
+    "prior_knowledge": "Basic science concepts and mathematical problem-solving skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducting STEM-integrated experiments and digital simulation activities using KoPer media in BYOD environments. Continuously monitoring learning processes through formative assessments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can formulate and validate hypotheses to solve comparative problems in an integrated STEM environment.",
+    "Learners can analyze and interpret experimental data using KoPer media and VR simulations to derive problem-solving strategies.",
+    "Learners can correct conceptual errors in the problem-solving process and propose improvements through at least three formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "KoPer Learning Media",
+      "VR simulation tools",
+      "Personal digital devices",
+      "STEM experiment kits"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

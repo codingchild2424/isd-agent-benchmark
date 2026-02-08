@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7819-V",
+  "variant_type": "context_variant",
+  "title": "Blended Remote Education Quality Management Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic instructional design principles and experience with online education platforms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course focused on developing blended-mode education quality management competencies in science for pre-service/in-service teachers, implementable in smartphone-based constrained technological environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Identify and explain five quality management elements in blended (synchronous/asynchronous) instructional design",
+    "Propose at least three interaction strategies among learners, instructors, and the platform in an LMS-based environment",
+    "Develop a quality checklist for science education content incorporating VR/AR elements through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Open-source VR/AR development tools",
+      "Interaction design guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

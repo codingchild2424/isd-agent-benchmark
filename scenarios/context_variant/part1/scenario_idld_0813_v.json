@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0813-V",
+  "variant_type": "context_variant",
+  "title": "Online Education for Library Information Utilization in Scientific Research",
+  "context": {
+    "prior_knowledge": "Basic experience in academic research and understanding of fundamental information evaluation concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized online learning design for science sector professionals, offering flexible asynchronous learning environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can efficiently search for specialized scientific materials in academic databases using three or more search strategies.",
+    "Students can systematically store reliable research materials in literature management programs using DOIs, reference tools, etc.",
+    "Students can evaluate the credibility of scientific information in the era of information overload based on five criteria: source, author, date, objectivity, and peer review."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Lecture Platform",
+      "Academic Database Access Permissions",
+      "Literature Management Tool Account",
+      "Science Field Sample Research Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

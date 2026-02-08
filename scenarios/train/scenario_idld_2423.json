@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2423",
+  "variant_type": "idld_aligned",
+  "title": "Cognitive Load Measurement and Management Strategies in Simulation-Based Education",
+  "context": {
+    "prior_knowledge": "Experience in simulation-based education and comprehension of basic cognitive load theory",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A language education simulation course for mid-level professionals in healthcare, law, and technology fields. Conducted in real-time online settings using digital devices (laptops, tablets).",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can self-assess by distinguishing intrinsic/extrinsic/germane cognitive load types during simulation activities",
+    "Learners can explain three or more strategies for managing cognitive load by applying segmentation/pause techniques",
+    "Learners can provide peer feedback with 80% accuracy using CLAS-Sim items (4-point scale) during debriefing processes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Pre-Built Language Simulation Scenarios (2 Types: Complex/Simple)",
+      "CLAS-Sim Survey Template",
+      "Real-Time Video Conferencing Tool",
+      "Digital Collaboration Board (e.g., Miro)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

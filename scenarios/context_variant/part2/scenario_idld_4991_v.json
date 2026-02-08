@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4991-V",
+  "variant_type": "context_variant",
+  "title": "Short-Intensive Course for Enhancing English Teaching Competencies Based on xMOOC",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Provision of microlearning content optimized for smartphone-based learning environments, operating a formative assessment-centered feedback system",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze and comparatively explain the organizational characteristics of xMOOCs (pedagogy, content, assessment methods).",
+    "Learners can apply microlearning content design principles suitable for mobile environments to develop three types of learning materials.",
+    "Learners can practice providing learner feedback using automated formative assessment tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Video lecture production tools",
+      "Quiz generator",
+      "Mobile-Friendly Discussion Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

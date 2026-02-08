@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4251-V",
+  "variant_type": "context_variant",
+  "title": "Foundations of Python Programming for Earth Science Data Analysis",
+  "context": {
+    "prior_knowledge": "Advanced expertise in earth science, basic computer application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Graduate-level social studies curriculum for office/administrative professionals. Requires personalized progression based on individual learning pace.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can write climate-related data processing code using basic Python syntax (variables, control statements, functions) required for earth science data analysis.",
+    "Learners can visualize and analyze time-series data using widely used packages in earth science (pandas, numpy, matplotlib).",
+    "Learners can design Python projects aligned with individual research topics based on a constructivist approach and solve problems independently."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cloud-Based Jupyter Notebook Environment",
+      "Video Lecture Materials within LMS",
+      "Earth Science Case-Based Practical Problem Set",
+      "Learner-Adaptive Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

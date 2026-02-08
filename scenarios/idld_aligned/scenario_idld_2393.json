@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2393",
+  "variant_type": "idld_aligned",
+  "title": "Hybrid Encryption-Based e-Learning Security Design Project",
+  "context": {
+    "prior_knowledge": "Understanding basic network security concepts and encryption principles, with foundational programming skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical training on enhancing multimedia content security for language domain applications.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Participants can design an e-learning content protection system using a hybrid encryption system (RSA-AES).",
+    "Participants can implement a process to verify data integrity by combining the BCIE compression algorithm and SCELL encryption technology.",
+    "Participants can develop and evaluate a security-enhanced e-learning platform prototype through project-based team collaboration."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Encryption Software Development Kit (SDK)",
+      "Virtual Learning Environment (VLE) Platform",
+      "Open-Source Security Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

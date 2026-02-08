@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5604",
+  "variant_type": "idld_aligned",
+  "title": "Augmented Reality-Based Social-Emotional Learning Competency Development Program",
+  "context": {
+    "prior_knowledge": "Basic digital device proficiency, fundamental understanding of learning disabilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Program conducted in smartphone-centric limited-technology environments. Targets pre-service teachers in elementary education and job seekers in related fields",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Achieve 80% or higher competency in performing social situation simulations in augmented reality environments.",
+    "Meet 70% or higher of role-play evaluation criteria utilizing emotion recognition and regulation techniques.",
+    "Achieve a 90% or higher completion rate for collaborative projects with peer learners."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR-capable smartphones",
+      "Low-spec AR app licenses",
+      "Emotion card sets",
+      "Social situation simulation scenario templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

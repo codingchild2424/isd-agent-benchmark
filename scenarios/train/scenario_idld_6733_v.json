@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6733-V",
+  "variant_type": "context_variant",
+  "title": "MOOC-Based Collaborative Competency Enhancement Course: Development of Mathematical Problem-Solving Skills",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Non-real-time collaborative learning in a smartphone-centric limited technological environment, emphasizing mathematical problem-solving competencies for professionals in corporate specialized fields (medical/legal/technical)",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the process of collaboratively solving complex mathematical problems with peers at over 80% accuracy.",
+    "Learners can improve mathematical models by incorporating peer feedback at least 3 times using LMS-based collaboration tools.",
+    "Learners can complete group assignments within 48 hours by combining MOOC content with real-time chat."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Collaborative digital whiteboard app",
+      "PDF-Based Mathematics Problem Sets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

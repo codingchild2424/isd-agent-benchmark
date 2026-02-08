@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5533",
+  "variant_type": "idld_aligned",
+  "title": "Flipped Learning-Based Online Knowledge Structure Analysis Competency Development Program",
+  "context": {
+    "prior_knowledge": "Fundamental digital literacy and experience in language education",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "For current elementary school teachers, training in analyzing learner knowledge structures in flipped learning environments. Conducting concept mapping and analysis activities using personal devices in BYOD environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify knowledge structure patterns (hub, small-scale network, large-scale network) with 80% accuracy by analyzing concept map data collected in flipped learning environments",
+    "Learners can classify knowledge structure distributions by learner type into three categories using clustering analysis techniques",
+    "Learners can design at least two customized feedback strategies based on learner type classifications"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Concept Mapping Tool",
+      "Clustering Analysis Software",
+      "Online Learning Platform Data Samples",
+      "Learner Performance Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1362",
+  "variant_type": "idld_aligned",
+  "title": "Language Competency Enhancement Course Using MOOC-Based Self-Regulated Learning and Social Mirroring",
+  "context": {
+    "prior_knowledge": "Fundamental language proficiency and experience with digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Constructing VR environments to promote social interaction among learners and providing visualization tools for individual learning progress",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners monitor peer progress in a VR simulation environment and apply self-regulated learning strategies at least once a week.",
+    "Learners establish a strategy revision plan incorporating peer feedback during language task performance within 8 weeks through social mirroring scaffolding.",
+    "By the end of the course, learners demonstrate social metacognitive skills acquired through collaborative processes with peers via project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "Learning Progress Dashboard",
+      "Peer Feedback System",
+      "Language Simulation Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

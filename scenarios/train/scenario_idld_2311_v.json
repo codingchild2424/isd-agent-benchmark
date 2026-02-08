@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-2311-V",
+  "variant_type": "context_variant",
+  "title": "Short-Intensive Hybrid Agile-Based Information Systems Development Project Course",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Small-group project-based learning environment using real-time online collaboration tools",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can prototype an information system reflecting actual business requirements within 3 days by applying hybrid Agile methodologies",
+    "Learners can establish response strategies and modify systems within 24 hours in response to sudden requirement changes (requirement shocks)",
+    "Learners can design project management processes by combining core techniques from Scrum, Kanban, and XP methodologies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jira/Notion project management tools",
+      "GitHub/GitLab version control systems",
+      "Real-Time Video Conferencing Tool (e.g., Zoom)",
+      "Agile reference guide documentation",
+      "Requirements impact scenario template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

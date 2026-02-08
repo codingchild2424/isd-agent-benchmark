@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3700",
+  "variant_type": "idld_aligned",
+  "title": "Understanding Traffic Sign Recognition Technology in Foggy Environments",
+  "context": {
+    "prior_knowledge": "Understanding basic machine learning and computer vision concepts, foundational programming knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Social sector technology training program for professionals aged 40+, focusing on practical computer vision applications and autonomous vehicle safety systems",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the principles of image quality enhancement technology (multi-scale residual network) in foggy environments.",
+    "Learners can apply performance evaluation metrics (Visibility Index, Realness Index) for traffic sign recognition systems to real-world cases.",
+    "Learners can submit project outcomes utilizing an end-to-end deep learning model for processing real foggy environment images."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python Programming Environment",
+      "GPU-Accelerated Computing Resources",
+      "Real-World Road Environment Image Dataset",
+      "Deep Learning Frameworks (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

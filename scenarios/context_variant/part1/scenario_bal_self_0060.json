@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-0060",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Integration Strategy for Digital Platforms and Traditional Materials in Medical Education",
+  "context": {
+    "prior_knowledge": "Basic Medical Terminology and Understanding of Pharmacological Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requirement for blended learning design combining digital platforms and textbooks in smartphone-centric limited-technology environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can select digital platforms or traditional materials as needed to explain pharmacology concepts with over 80% accuracy.",
+    "Learners can integrate digital resources (images/tables) and textbook content in PBL projects to present clinical application cases three or more times.",
+    "Learners can develop and be evaluated on accessibility strategies for content with over 90% accessibility in smartphone environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized digital learning platform (e.g., AMBOSS)",
+      "Core pharmacology textbook (e.g., Katzung & Trevor's Pharmacology)",
+      "Online collaboration tools (e.g., Padlet)",
+      "Medical terminology glossary (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0834",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Mobile-Based Short-Term Intensive Course for Enhancing Adolescent Financial Management Competencies",
+  "context": {
+    "prior_knowledge": "Understanding of basic financial terminology and budget management concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Financial management habit formation through real-life scenario-based learning in smartphone-centric limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply three or more financial decision-making strategies in everyday life scenarios (e.g., monthly salary management, student loan planning).",
+    "Learners can perform monthly budget allocation simulations using mobile apps and analyze the results.",
+    "Learners can understand financial risk management principles (savings, investments, insurance) and explain priorities based on situational contexts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Scenario-Based Interactive Content",
+      "Financial Calculation Automation Tool",
+      "Real-Time Survey Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

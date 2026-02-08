@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0138",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-directed] Analysis of Factors Influencing Student Engagement in Remote Science Education",
+  "context": {
+    "prior_knowledge": "Experience with basic statistical analysis and online learning platforms",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-time online education in smartphone-centric limited-technology environments, requiring case-based learning reflecting current practitioners' work experiences",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners identify factors influencing remote learning participation by applying survey design and data collection methodologies.",
+    "Learners derive ≥3 statistically significant variables affecting learning engagement using analytical tools (e.g., LASSO regression).",
+    "Learners propose strategies to enhance participation in corporate remote science education programs based on analytical results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Survey Questionnaire Template",
+      "Mobile-compatible statistical tools (Google Forms, Excel Mobile, etc.)",
+      "Zoom Account",
+      "Pre-produced lecture videos"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

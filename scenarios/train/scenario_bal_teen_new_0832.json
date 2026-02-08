@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0832",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Design of Cloud-Based Mathematics Learning Environment: Utilizing IMS Learning Design",
+  "context": {
+    "prior_knowledge": "Basic Mathematical Knowledge and Experience with Online Learning Tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Efficient design and operation of mathematics education using IMS Learning Design in a cloud-based learning environment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Systematically design mathematics learning activities by applying IMS Learning Design in a cloud environment",
+    "Understand and apply principles of learning object reuse and sharing to mathematics educational resources",
+    "Complete cloud-based mathematical problem-solving projects using collaborative tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "IMS Learning Designer Tool",
+      "Mathematics Learning Object Database",
+      "Cloud Storage Service"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

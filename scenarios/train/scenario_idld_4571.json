@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4571",
+  "variant_type": "idld_aligned",
+  "title": "Dynamic Multimedia-Based Project Class for Organic Chemistry Learning",
+  "context": {
+    "prior_knowledge": "Understanding of general chemistry fundamentals and organic compound nomenclature",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Organic chemistry reaction mechanism learning focused on aldol reactions, conducted in smartphone-centric limited-technology environments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain molecular formulas and reaction mechanisms with 80% accuracy after watching a learning video",
+    "Present three or more cases demonstrating the linkage between symbolic and microscopic levels through project deliverables",
+    "Analyze the educational effectiveness of learning videos using a 5-point scale through peer and self-assessment"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible video player",
+      "Organic chemistry 3D modeling app",
+      "Reaction mechanism worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

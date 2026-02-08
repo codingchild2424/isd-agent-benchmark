@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0480",
+  "variant_type": "idld_aligned",
+  "title": "Transfer Learning and Multi-Task Learning-Based Language Instructional Design for Autonomous Optical Network Learning",
+  "context": {
+    "prior_knowledge": "Foundations of neural networks, basic reinforcement learning concepts, understanding of optical network architectures, and experience in technical documentation and analytical report writing",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners participate in practical sessions using personal devices and are evaluated on their ability to apply real network scenarios through project-based assessments. Key evaluation criteria include clear linguistic expression of experimental results, data interpretation skills, and systematic report writing.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners design knowledge transfer models between ≥3 network status datasets (e.g., traffic patterns, latency, packet loss rates) using transfer learning techniques (fine-tuning, feature extraction). They submit technical reports meeting ≥2 of the predefined metrics (accuracy ≥80%, F1-score ≥0.75).",
+    "Develop agents that simultaneously handle routing, modulation, spectrum allocation (RMSA), and anycast service tasks via multi-task learning and linguistically express task-specific performance analysis results.",
+    "Within 4 weeks, learners implement a hierarchical processing structure separating global state and task-specific state data for modular DRL agent design. They apply this to ≥3 task scenarios in OpenAI Gym, achieve ≥80% task success rates, and systematically document experimental results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based DRL (Deep Reinforcement Learning) Framework",
+      "Optical Network Simulation Tool",
+      "Jupyter Notebook Environment",
+      "Case Study Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

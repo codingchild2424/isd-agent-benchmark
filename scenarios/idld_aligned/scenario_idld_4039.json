@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4039",
+  "variant_type": "idld_aligned",
+  "title": "Missile System Aircraft Identification Training: Simulation-Based Intelligent Instruction System",
+  "context": {
+    "prior_knowledge": "Basic mathematical computational skills and foundational understanding of radar/navigation systems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "For pre-service/in-service teachers, a course involving understanding missile system aircraft identification algorithms, training in simulation environments, and conducting project-based assessments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "The operational principle of an aircraft identification algorithm in missile systems can be explained via mathematical modeling.",
+    "Learners can interpret aircraft identification results and apply procedures to diagnose errors in a simulated environment",
+    "Learners can complete a team-based project analyzing real-world scenarios to propose improvements for identification systems"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web-based simulation software",
+      "LMS platform",
+      "Aircraft identification dataset",
+      "Interactive tutorial videos"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

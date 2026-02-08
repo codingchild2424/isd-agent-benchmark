@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0360",
+  "variant_type": "balance_teen_v2",
+  "title": "K-12 Online Mathematics Leadership Development Program for Volunteer Sector Leaders",
+  "context": {
+    "prior_knowledge": "Basic mathematical concepts comprehension and administrative management experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Emphasizing Mathematical Decision-Making Competencies for the Efficient Operation of Volunteer Activities",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Within one week, learners calculate ≥3 basic statistics (mean, standard deviation, trend analysis) using Excel or Google Sheets for volunteer project budget planning and write a 1-page budget allocation recommendation based on analysis results",
+    "Within one week, learners model ≥3 interdepartmental resource allocation scenarios using real-time collaboration tools (Google Sheets, Miro, etc.), write simulation result reports, and demonstrate ≥4/5 average feasibility via peer evaluation on a 5-point scale",
+    "Learners can define three or more key performance indicators (KPIs) for volunteer activities using smartphone-based tools (e.g., Google Forms, SurveyMonkey) and submit a performance measurement framework within one week, specifying measurement methods for each indicator (e.g., service hours, participant satisfaction, community impact)."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Zoom Account",
+      "Open-source spreadsheet tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Business/HR/Admin Support"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0325",
+  "variant_type": "balance_medium_scale",
+  "title": "Design of an Informatics-Based National Security Analysis Program",
+  "context": {
+    "prior_knowledge": "Fundamental computer literacy and understanding of basic social science concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course fostering analytical capabilities for national security issues through informatics research, applying a mixed-methods approach (qualitative/quantitative analysis) in a project-based learning environment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can systematically process security-related text data using information collection/analysis tools (e.g., data mining, NLP).",
+    "Learners can write case study reports on security using mixed research methodologies and derive academic conclusions.",
+    "Learners can visualize information science-based analysis results using tools (e.g., Tableau, Power BI) and apply them to policy proposals."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Data Analysis Software (Free Version)",
+      "Open-Source Information Dataset",
+      "Virtual Laboratory Environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

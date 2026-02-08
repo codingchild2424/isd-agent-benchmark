@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3879",
+  "variant_type": "idld_aligned",
+  "title": "Generative AI-Enhanced Advanced Mathematics Learning Strategy Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and basic proficiency in digital device usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course focused on solving math problems and understanding concepts using generative AI in smartphone-centric, limited-technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze and explain step-by-step problem-solving processes for mathematical problems using generative AI tools",
+    "Learners can critically evaluate AI-generated results and present at least three criteria for verifying mathematical validity",
+    "Learners can create mathematics concept summary portfolios combining peer feedback and AI-supported learning through a relational approach"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible generative AI tools (e.g., ChatGPT)",
+      "Online whiteboard collaboration tool",
+      "OER (Open Educational Resources)-based math problem bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

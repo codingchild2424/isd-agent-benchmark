@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8829",
+  "variant_type": "idld_aligned",
+  "title": "Sonification-Based STEAM Education Design Workshop",
+  "context": {
+    "prior_knowledge": "Foundational science education knowledge, basic understanding of music theory, and awareness of STEAM education concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Experimental Teaching Method Training Program for Pre-service Teachers: Emphasis on designing creative science-music integrated lessons using digital tools",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Production of three or more science concept visualization audio files using sonification techniques.",
+    "Development of lesson plans integrating musical elements into a STEAM education design framework.",
+    "Design of sonification-based group activities to enhance learner collaboration.",
+    "Creative problem-solving through matching scientific data with musical parameters."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Sonification software (e.g., Audacity, Sonic Pi)",
+      "Science data sample sets (climate/astronomy/biology)",
+      "STEAM education casebook",
+      "Music production guideline documents"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

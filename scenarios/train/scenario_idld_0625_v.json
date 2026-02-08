@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0625-V",
+  "variant_type": "context_variant",
+  "title": "Foundations of Data-Driven Modeling for Predicting Bladder Cancer Recurrence",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical skills-focused education for working professionals, with mandatory digital device utilization",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can design survival analysis models by integrating digital pathology and clinical data.",
+    "Learners can explain the fundamental principles of deep learning-based image analysis (segmentation, selection, classification).",
+    "Learners understand methodologies for comparing model performance using the AUC (Area Under the Curve) metric."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Interactive Simulation Tool",
+      "Open-Source Data Samples"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

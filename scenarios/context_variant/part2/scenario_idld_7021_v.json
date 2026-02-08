@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7021-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Deep Learning Practical Competencies: Foundations and Practical Applications in Pharmacogenomics",
+  "context": {
+    "prior_knowledge": "Understanding of basic pharmaceutical and genetic concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "One can explain the principles of utilizing genomic data in determining optimal drug dosages",
+    "One can design a secure storage system for drug-metabolism-related genetic information",
+    "One can create personalized treatment plans using pharmacogenomics analysis software (GeneScription)",
+    "One can identify ethical issues in genomic data utilization and propose solutions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

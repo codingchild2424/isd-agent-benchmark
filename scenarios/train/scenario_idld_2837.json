@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2837",
+  "variant_type": "idld_aligned",
+  "title": "Remote Sensing Image Interpretation: Performance-Based Practical Project",
+  "context": {
+    "prior_knowledge": "Understanding of basic Geographic Information Systems (GIS) and remote sensing concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-based LMS access environment, limited real-time interaction, and asynchronous tools for project collaboration",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze actual satellite imagery to produce a land cover classification report",
+    "Learners can conduct an environmental change detection project utilizing remote sensing data",
+    "Learners can visualize spatial information using tools such as QGIS Mobile on mobile devices"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-compatible LMS content",
+      "Open-source remote sensing software (e.g., ENVI, QGIS)",
+      "Satellite image dataset samples"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

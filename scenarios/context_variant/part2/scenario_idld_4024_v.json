@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-4024-V",
+  "variant_type": "context_variant",
+  "title": "Learning Design and Analysis for Quality Evaluation of Online Distance Education",
+  "context": {
+    "prior_knowledge": "Ability to use basic online learning functions and understanding of foundational math concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Quality assessment and improvement of remote mathematics education in a smartphone-centric limited-technology environment.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can classify types of learning activities (interaction, feedback, others) with 80% accuracy.",
+    "Learners can analyze and evaluate at least three learning design quality indicators using the E-Design Assessment Tool (eDAT).",
+    "Learners can explain at least two correlations between learning analytics data, course retention rates, and achievement outcomes.",
+    "Learners can design at least five interaction and feedback activities suitable for mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Mobile Learning Platform",
+      "eDAT Tool",
+      "Simplified Learning Analytics Report Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

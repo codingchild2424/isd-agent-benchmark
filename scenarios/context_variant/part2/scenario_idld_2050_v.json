@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2050-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Blended Learning Based on Discovery Learning for Enhancing Digital Literacy",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can assess the credibility of online information with 85% accuracy",
+    "Learners can create web content (3-minute video or infographic) on social issues using digital storytelling techniques.",
+    "Learners can complete a digital project proposal within one week in a 4-member team using online collaboration tools.",
+    "Learners can improve their self-efficacy by 20% when searching for online materials before learning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

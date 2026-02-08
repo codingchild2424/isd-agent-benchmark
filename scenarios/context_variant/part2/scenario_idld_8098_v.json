@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8098-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Learning with Microteaching and Peer Assessment to Strengthen Remote Education Teachers’ Competencies",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Program for corporate training managers to develop teacher-role competencies required in remote education. Participants engage in project-based activities via BYOD",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Participants can apply ≥3 technology integration strategies required for remote education design.",
+    "Through microteaching activities, participants enhance their ability to design and deliver lessons aligned with peer evaluation criteria.",
+    "In project-based assessments, participants demonstrate ≥80% proficiency in performing teacher roles (management, interaction, assessment, etc.)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Management System (LMS)",
+      "Video Conferencing Tools",
+      "Microteaching Recording Equipment",
+      "Peer Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

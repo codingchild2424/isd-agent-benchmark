@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4905",
+  "variant_type": "idld_aligned",
+  "title": "Artificial Neural Network-Based Optical Encoder Design and Applications",
+  "context": {
+    "prior_knowledge": "Understanding of foundational machine learning concepts, optical sensor principles, and linear algebra",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A lifelong education program for working professionals, focusing on case-based learning applicable to real-world industrial settings.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the process of converting phase-shift data from optical encoders into input vectors for artificial neural networks.",
+    "Learners can design a multilayer neural network model with backpropagation algorithms and train it to achieve angle measurement errors within 10°.",
+    "Learners can propose a hybrid data preprocessing methodology to maintain measurement accuracy across the full 360° angular range."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Optical Encoder Simulation Software",
+      "TensorFlow/Keras Installation Notebook",
+      "Phase Change Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

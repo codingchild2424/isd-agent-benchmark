@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3305",
+  "variant_type": "idld_aligned",
+  "title": "Understanding Mental Disorders in Primary Care: Mobile Microlearning Course",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and introductory-level understanding of psychology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students learn accessibly via personal mobile devices, emphasizing diagnostic interview skills and patient communication competencies linked to the language domain.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Distinguish key symptoms of the five major mental disorders (depressive disorder, anxiety disorder, schizophrenia, bipolar disorder, PTSD) commonly encountered in primary care settings.",
+    "Utilize basic screening tools (PHQ-9, GAD-7, etc.) to assess risk levels for patients presenting with mental health concerns.",
+    "Interpret mental health education materials considering cultural contexts to construct patient-tailored explanations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mental Health Disorder Case Database",
+      "Interactive Simulation Tool",
+      "Mobile-Compatible Diagnostic Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

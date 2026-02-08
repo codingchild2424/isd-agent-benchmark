@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0980",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Spatial Thinking and GIS-Enhanced Language Learning Simulation",
+  "context": {
+    "prior_knowledge": "Basic digital tool proficiency and foundational understanding of spatial concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners solve language-based problems in virtual spaces via VR devices and experience the process of visualizing GIS data",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can connect geographical information with linguistic expressions using GIS-based simulation tools.",
+    "Learners develop the ability to linguistically analyze spatiotemporal relationships while observing changing data in virtual spaces.",
+    "Through project-based assessment, learners can demonstrate the process of simplifying complex datasets for communication."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cloud-Based GIS Simulation Software",
+      "VR Headset",
+      "Tablet PC",
+      "Spatial Data Visualization Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

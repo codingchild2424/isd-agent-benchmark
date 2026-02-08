@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7611-V",
+  "variant_type": "context_variant",
+  "title": "Understanding Hybrid Deep Learning Models for Early Diagnosis of Alzheimer’s Disease",
+  "context": {
+    "prior_knowledge": "Basic Medical Imaging Analysis Knowledge and Understanding of Machine Learning Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course focusing on understanding operational principles and application cases of AI-based diagnostic models using medical imaging data",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain structural characteristics of a hybrid deep learning model (EfficientNet-B6 + LSTM) classifying Alzheimer’s disease diagnostic stages",
+    "Learners can analyze the impact of medical image preprocessing (normalization, augmentation, etc.) on model performance",
+    "Learners can discuss the clinical significance of spatial/sequential pattern analysis in MRI scans for early diagnosis"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Public MRI Dataset (Alzheimer’s MRI)",
+      "Google Colab/Jupyter Notebook environment",
+      "TensorFlow/Keras Library",
+      "PPT Template (for Model Visualization)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

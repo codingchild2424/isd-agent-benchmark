@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4813",
+  "variant_type": "idld_aligned",
+  "title": "Concrete Compressive Strength Prediction Simulation Using Ensemble Machine Learning",
+  "context": {
+    "prior_knowledge": "Fundamental statistical concepts, basic principles of machine learning, understanding of concrete material properties",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Provision of a simulation environment that allows workers to indirectly experience practical tasks in materials research/construction fields.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the principles of ensemble learning models (RFR/ABR) and perform data preprocessing.",
+    "Learners can build a concrete compressive strength prediction model using a Jupyter Notebook-based simulation tool.",
+    "Based on prediction results, learners can propose optimal concrete mix designs and material ratios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook Environment Setup Server",
+      "Concrete Material Properties Dataset",
+      "VR Simulation Software License",
+      "Practice Experiment Condition Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

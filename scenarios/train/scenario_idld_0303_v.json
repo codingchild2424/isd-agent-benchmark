@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0303-V",
+  "variant_type": "context_variant",
+  "title": "Mastery Learning Course for Ureteropelvic Junction Obstruction Simulation",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and anatomical structure understanding, digital device usage experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A practice-intensive course using VR simulators, featuring project-based learning aligned with real medical scenarios.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Perform ureteroscopy protocols with over 80% accuracy in a simulation environment",
+    "Successfully apply stone removal techniques within a minimum of three attempts in a virtual patient model",
+    "Achieve a score of 4 or higher on the assessment rubric for decision-making abilities at key stages of the examination process in team-based PBL projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "URO Mentor™ VR Simulator",
+      "3D Anatomy Modeling Software",
+      "Inspection Procedure Standard Manual",
+      "Team-Based Project Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

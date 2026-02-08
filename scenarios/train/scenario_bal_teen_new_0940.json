@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0940",
+  "variant_type": "balance_teen_filtered",
+  "title": "Mobile-Based Open Educational Resources (OER) Development and Utilization for [K-12] Education",
+  "context": {
+    "prior_knowledge": "Proficiency in basic digital device usage, learning experience in social studies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Strengthening OER (Open Educational Resources) development capabilities in social sciences within smartphone-centric limited environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners iteratively improve social domain OER prototypes at least three times applying Agile methodologies",
+    "Learners can explain OER reuse and modification design principles in mobile environments with over 80% alignment to application cases",
+    "Learners develop at least two customized OER contents based on target learner analysis"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible authoring tool",
+      "OER Licensing Guidelines",
+      "Learning Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

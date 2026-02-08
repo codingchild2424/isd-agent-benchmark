@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-1298",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Mobile Augmented Reality (mAR)-Enhanced Mathematics Concept Comprehension Program for Adult Learners",
+  "context": {
+    "prior_knowledge": "Understanding basic arithmetic operations and fundamental geometric concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasis on spatial visualization and interactive learning through smartphone-based mAR interfaces, with asynchronous learning activities integrated with LMS.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the structural properties of 3D geometric shapes through an mAR interface with 80% accuracy.",
+    "Learners will select three types of math problems (geometry, algebra, statistics) in an augmented reality environment (e.g., GeoGebra AR, MathCityMap) and create 3–5-minute screencasts of their problem-solving processes, achieving an \"excellent\" rating in at least two of three rubric items (content accuracy, explanation clarity, visual effectiveness).",
+    "Learners can achieve an average score of over 75 points on tasks utilizing mAR simulations in weekly formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible mAR Educational App License",
+      "LMS-Integratable 3D Math Modeling Tool",
+      "Low-Spec Device-Optimized Learning Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

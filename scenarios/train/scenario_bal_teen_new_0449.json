@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0449",
+  "variant_type": "balance_teen_filtered",
+  "title": "Online Intensive Course Based on the Teaching Unit Model (TUM) for Understanding Calculus Concepts in K-12 Education",
+  "context": {
+    "prior_knowledge": "High school-level foundational mathematics knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course where learners, consisting of pre-service and in-service teachers, systematically acquire calculus concepts primarily using smartphones. Conducted via an interactive platform (PIAC) utilizing learning objects (LU) based on the Teaching Unit Model (TUM)",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain basic concepts of differentiation and integration and apply them to real-world problems",
+    "Learners can calculate three types of differentiation (quotient, product, composite functions) and two types of integration (basic/substitution) with 80% accuracy using learning objects (LUs) based on the Teaching Unit Model (TUM)",
+    "Learners can improve conceptual understanding by 20% by conducting peer and self-assessments using interactive tools on the online platform (PIAC)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access to Smartphone-Compatible Interactive Platform (PIAC)",
+      "TUM-Based Learning Object (LU) Set of 15",
+      "Zoom Live Lecture Account",
+      "Real-Time Collaboration Tools (e.g., Google Docs)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

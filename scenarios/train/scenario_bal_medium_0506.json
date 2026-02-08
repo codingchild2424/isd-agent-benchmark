@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0506",
+  "variant_type": "balance_medium_scale",
+  "title": "Self-Regulated English Grammar Education Course Using Digital Gamification",
+  "context": {
+    "prior_knowledge": "Basic English grammar proficiency and mobile device usage capability",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Grammar course for ESP (English for Specific Purposes) education targeting working professionals, conducted in a BYOD (Bring Your Own Device) environment",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply grammar rules with at least 85% accuracy via digital platforms.",
+    "Learners can establish weekly learning plans with 100% completion using gamification elements.",
+    "Learners can execute self-regulated learning strategies with at least 90% engagement in mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone/Tablet-Compatible LMS",
+      "Gamified Digital Learning Content",
+      "Real-Time Feedback Generating AI Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

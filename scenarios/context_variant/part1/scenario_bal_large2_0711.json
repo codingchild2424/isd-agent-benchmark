@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0711",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Impact of Instructor Presence via Avatars on Science Learning: Video Learning Environment Design",
+  "context": {
+    "prior_knowledge": "Foundational science concepts and ability to use digital learning tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Targets working professionals with time constraints, aiming to strengthen science education content creation capabilities",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the impact of avatar-based instructor presence on cognitive load with over 80% accuracy.",
+    "Learners can analyze the influence of nonverbal cues from avatar instructors in VR environments on learning outcomes and document findings in a report.",
+    "Learners can design three or more effective avatar interaction strategies when explaining scientific concepts using simulation tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "Avatar creation software",
+      "Cognitive Load Measurement Tool",
+      "Pre-/post-assessment question sets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

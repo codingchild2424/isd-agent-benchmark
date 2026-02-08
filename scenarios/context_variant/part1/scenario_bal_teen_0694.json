@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0694",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Mobile Experimental Learning Course for Design Thinking Innovation",
+  "context": {
+    "prior_knowledge": "Basic Design Principles and Digital Tool Utilization Skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A program developing design problem-solving competencies through experimental activities in a smartphone-based limited technology environment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will complete five or more experimental projects that solve complex social problems using design thinking methodology.",
+    "Learners will experience the process of creating prototypes using mobile tools and incorporating user feedback at least three times.",
+    "Learners will analyze design innovation cases and derive two or more creative approaches applicable to future work environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone App-Based Design Toolkit",
+      "Digital Collaboration Platforms",
+      "Social Issues Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

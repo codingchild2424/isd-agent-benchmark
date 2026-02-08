@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5518-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Competencies: Web-Based Pharmacy Dispensing Skill Simulation Training",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately interpret prescriptions and perform dispensing procedures in a virtual pharmacy environment.",
+    "Learners can comply with medication interaction and side-effect verification protocols at an 80% or higher rate within simulations.",
+    "Learners can demonstrate the ability to identify and correct errors in the dispensing process through a simulation-based evaluation system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

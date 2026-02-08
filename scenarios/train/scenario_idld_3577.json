@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3577",
+  "variant_type": "idld_aligned",
+  "title": "IVR-Based Constructive-Generative Learning Course for Industrial Systems Mental Model Development",
+  "context": {
+    "prior_knowledge": "Understanding of foundational engineering and industrial systems",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "In environments with limited access to actual industrial facilities, cultivating system comprehension and design capabilities through immersive virtual reality (IVR).",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can manipulate industrial cooling systems in an IVR environment and explain causal relationships between components.",
+    "Learners can design and construct industrial systems using SDVR tools and logically articulate their operational principles.",
+    "Learners can propose solutions for real-world industrial system problems based on virtual reality-based mental models."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IVR Equipment (Headset, Controller)",
+      "Pre-Developed CWVR/SDVR Applications",
+      "Supplementary Learning Materials (System Diagrams, Task Guidelines)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

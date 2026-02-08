@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5538-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Competencies: Soccer Heading and Short-Term Learning Ability – Experimental Research Approach",
+  "context": {
+    "prior_knowledge": "Basic soccer techniques and foundational neuroscience concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze the correlation between soccer heading frequency and short-term memory changes using experimental data.",
+    "Learners can explain gender-based differences in the cognitive impact of heading exposure based on research findings.",
+    "Learners can understand EMA (Ecological Momentary Assessment)-based test designs and provide application examples."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

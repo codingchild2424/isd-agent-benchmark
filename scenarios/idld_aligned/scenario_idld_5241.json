@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5241",
+  "variant_type": "idld_aligned",
+  "title": "Universal Design for Learning (UDL)-Based Surgical Education Design",
+  "context": {
+    "prior_knowledge": "Basic Medical Terminology and Understanding of Surgical Procedures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Post-COVID-19, there is a need for flexible instructional design to adapt to non-face-to-face education environments and meet diverse learning needs.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain basic surgical skills step-by-step using provided video and text materials via smartphones.",
+    "Learners can successfully perform emergency response procedures three or more times through simulation-based quizzes.",
+    "Learners can exchange constructive feedback at least twice with peers on surgical case analyses via online discussion boards."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Video Lecture",
+      "Text-Based Simulation Module",
+      "Online Discussion Platform",
+      "PDF Surgical Procedure Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

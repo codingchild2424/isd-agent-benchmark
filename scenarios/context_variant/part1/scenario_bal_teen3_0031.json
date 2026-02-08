@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN3-0031",
+  "variant_type": "balance_teen_v3",
+  "title": "Advanced Multivariable Calculus Intensive Course Using Blended Learning: Integration of Mathematical Representation and Physical Interpretation",
+  "context": {
+    "prior_knowledge": "Elementary calculus concepts and foundational linear algebra knowledge, basic understanding of mathematical proofs and physical phenomena",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning combining mobile apps and LMS in a BYOD environment. Strengthening real-world problem-solving skills and integrated competencies in mathematical representation and physical interpretation through project-based assessment. Focus on improving learners' logical thinking and systematic expression abilities.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Accurately calculate partial derivatives, multiple integrals, and line integrals of multivariate functions, and express step-by-step problem-solving processes including mathematical proofs and explanations of physical phenomena",
+    "Learners must accurately explain core concepts of vector fields (curl, divergence, gradient) with mathematical definitions and physical meanings, and solve at least four out of five problems in electromagnetism and fluid dynamics by applying Stokes’ Theorem and the Divergence Theorem. Each solution must include a logically structured process with mathematical rigor (proofs/derivations) and physical interpretation (units/phenomena explanations), achieving over 80 points on the evaluation rubric (Accuracy 40%, Logicality 30%, Interpretive Appropriateness 30%)",
+    "Graduate students analyze and summarize key content from at least three weekly learning materials in a blended learning environment, collaborate with three team members for six weeks using digital collaboration tools (Google Workspace, Notion, etc.), and provide clear, systematic feedback meeting at least four out of five peer evaluation rubric criteria for project deliverables"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized LMS (Learning Management System)",
+      "3D Graph Visualization Software",
+      "Online Collaboration Tools (Real-Time Whiteboard, Documentation System)",
+      "AI-based automated grading system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

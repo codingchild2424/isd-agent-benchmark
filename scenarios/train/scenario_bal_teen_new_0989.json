@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0989",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Simulation-Based Visual Display System Design",
+  "context": {
+    "prior_knowledge": "Foundational mathematics (linear algebra, geometry), basic programming concepts, and introduction to computer graphics",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based activity in a digital device-provided environment, involving team-based simulation design and implementation of visual output systems.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners derive simulation requirements by applying a 3-tier visual display classification system reflecting human visual-cognitive characteristics",
+    "Learners can compare specifications of three display components (monitor, graphics card, cables) within a given budget (e.g., $500) and select an optimal combination meeting two or more of the evaluation criteria (resolution, performance-to-price ratio, compatibility).",
+    "Learners can develop a simple simulation prototype (e.g., game, physics phenomenon model) applying real-world mathematical modeling (e.g., linear equations, probability distributions) in Python or Scratch within one week and submit a result meeting three or more of the five teacher-provided evaluation criteria (functionality, creativity, accuracy, completeness, documentation)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Simulation Design Tool",
+      "Visual Display Specification Database",
+      "Digital Whiteboard",
+      "Online Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

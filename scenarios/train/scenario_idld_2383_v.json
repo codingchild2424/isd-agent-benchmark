@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2383-V",
+  "variant_type": "context_variant",
+  "title": "Foundational Programming Course Utilizing 3D Multi-User Simulation Games",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners collaborate in a 3D virtual environment using personal devices to apply programming concepts. Project-based assessments holistically measure problem-solving skills.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can solve puzzle-based tasks with 80% accuracy by utilizing basic programming structures (conditional statements, loops, variables) in a 3D virtual environment.",
+    "Learners collaboratively create in-game interactive artwork with peers and apply collaborative problem-solving strategies at least three times.",
+    "Learners document the process of analyzing and correcting code errors using in-game debugging tools with 100% participation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "OpenSim Standalone Server",
+      "Scratch4OS Integrated Toolkit",
+      "3D Puzzle Game Platform Co.Co.I.A.",
+      "Mobile Device-Compatible Client"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

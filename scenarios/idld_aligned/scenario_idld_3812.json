@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3812",
+  "variant_type": "idld_aligned",
+  "title": "Metacognition-Based Mobile Microlearning for Strengthening Industrial Electronics Practical Competencies",
+  "context": {
+    "prior_knowledge": "Fundamental electrical/electronic theory and experience in constructing simple circuits",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-centered modular learning environment for current professionals to resolve electronic control issues encountered in workplace operations",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles of industrial electronic circuits using metacognitive strategies.",
+    "Learners can apply Ohm’s Law and Kirchhoff’s Laws to complex circuit analysis.",
+    "Learners can analyze and evaluate simulation results of electronic component simulations using digital learning tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Electronic Simulation Tool",
+      "Interactive Worksheet PDF",
+      "Industrial Electronics Case Video Library",
+      "Automated Scoring Formative Assessment System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

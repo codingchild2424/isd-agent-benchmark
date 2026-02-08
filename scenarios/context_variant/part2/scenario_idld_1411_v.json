@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1411-V",
+  "variant_type": "context_variant",
+  "title": "Transfer Learning Competency Enhancement Program Based on Medical Simulation",
+  "context": {
+    "prior_knowledge": "Understanding basic medical knowledge and clinical procedures",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "VR simulation education operating in smartphone-centric limited technological environments, featuring task-centered learning design reflecting actual clinical settings",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply physician-patient communication protocols in complex clinical scenarios with at least 80% accuracy.",
+    "Learners demonstrate a 70% or higher transfer application ability to new clinical situations after practicing full tasks at least three times in a simulation environment.",
+    "Learners reduce error rates by 30% when performing two-step complex medical procedures by utilizing cognitive load management strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible VR Equipment",
+      "Medical Simulation Scenario Database",
+      "Cognitive Load Assessment Tool",
+      "Smartphone-based collaboration platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

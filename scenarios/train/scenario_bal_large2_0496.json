@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0496",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Problem-Based Learning Process for Developing Consciousness Level Assessment Apps",
+  "context": {
+    "prior_knowledge": "Basic Mobile App Usage Experience and Intermediate-Level Mathematical Concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A process for pre-service teachers to develop mathematical problem-solving skills while experiencing an educational app development process applicable to real-world medical education contexts",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design two or more core features of a consciousness-level assessment app by applying problem-based learning (PBL) methodologies.",
+    "Within five days (40 hours), learners can develop a prototype HTML/CSS/JS-based digital assessment system that converts and visualizes (graphs/tables) GCS scores (eye, verbal, motor responses) on 4-6 point scales using linear regression and fuzzy logic techniques, meeting the following criteria: 1) implementation of three-item input functionality, 2) 90%+ conversion accuracy, 3) responsive web design",
+    "In teams of 3-4, learners can analyze two user interface optimization problems from real development projects, design solutions using instructional design approaches (one user test, three WCAG 2.1 accessibility improvements), and submit 10-15 minute presentation materials (PPT/PDF) achieving 'excellent' ratings in at least four of five rubric criteria"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Tools (e.g., Figma, Jamboard)",
+      "Low-Code App Development Platform (e.g., MIT App Inventor)",
+      "Medical Assessment Scale Reference Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

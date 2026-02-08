@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7230-V",
+  "variant_type": "context_variant",
+  "title": "Design and Operation of Situational Judgment Tests for Pre-Service Teachers' Competency Assessment",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Assessment of problem-solving skills based on real educational situations in language subjects",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Teachers can analyze conflicts arising during student-centered lesson design through situational judgment tests and propose solutions.",
+    "Teachers can establish response strategies using emotional intelligence and problem-solving competencies for issues encountered in language arts instruction.",
+    "Teachers can interpret results from NLP-based automated evaluation systems for descriptive situational judgment tests and apply them to self-reflection."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "NLP-based Grading System",
+      "Real-world Educational Case Database",
+      "Constructed-response Situational Judgment Test (SJT) Rubric",
+      "Digital Learning Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

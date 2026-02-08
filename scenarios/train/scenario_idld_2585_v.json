@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2585-V",
+  "variant_type": "context_variant",
+  "title": "Restricted vs. Unrestricted Rotation Training Programs for Improving STEM Spatial Ability",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Targeting learners preparing for STEM fields at vocational training institutions, aims to improve spatial cognition skills through mobile-based microlearning in limited-device environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can predict the rotation direction of 3D shapes with 80% accuracy within 12 weeks.",
+    "Learners achieve an average 20% faster response time in unrestricted tasks after limited rotation training.",
+    "Learners can successfully solve over 75% of real-world job-related problems (e.g., mechanical part assembly simulations) using spatial reasoning skills in project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Shape Manipulation Mobile App",
+      "Mental Rotation Task Dataset",
+      "AR-Based Spatial Problem-Solving Tool",
+      "Learner Progress Tracking Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

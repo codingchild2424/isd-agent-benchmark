@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7492-V",
+  "variant_type": "context_variant",
+  "title": "Science Project Design and Operation Based on Complex Assessment Scenarios",
+  "context": {
+    "prior_knowledge": "Intermediate scientific theory and foundational research methodologies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A project-centered evaluation environment combining theory and practice for professionals, requiring integration with real-world tasks.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Within a six-month course, learners design a hybrid assessment system combining two rubrics, one peer review process, and one self-assessment checklist, apply it to two actual projects, and achieve an inter-rater reliability (Cohen’s Kappa) of 0.6 or higher.",
+    "Develop a project evaluation plan that integrates three or more assessment methods (process-oriented, outcome-oriented, collaborative assessment)",
+    "Learners collect three types of real-time assessment data (survey responses, work outputs, feedback) using survey systems like Google Forms or Typeform and portfolio platforms such as Notion or GitHub Pages. They perform data visualization (bar graphs/pie charts) and basic statistical analysis (mean, standard deviation) using Python Pandas or Excel. Additionally, they write a report proposing at least three improvement plans based on the analysis."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Evaluation Template",
+      "Collaborative Learning Guidelines",
+      "Assessment Rubric Sample Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

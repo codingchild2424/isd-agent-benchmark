@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6055-V",
+  "variant_type": "context_variant",
+  "title": "Intelligent Tutoring Agent-Based Strategy for Optimizing Social and Cognitive Load in Students with Learning Disabilities",
+  "context": {
+    "prior_knowledge": "Basic learning sciences, cognitive load theory, and foundational concepts related to special education (learning disabilities)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Design of personalized online learning environments considering characteristics of learning disabilities (dyscalculia). Enhanced smartphone-based accessibility and real-time interaction supporting social relationship formation. Focus on implementing inclusive learning environments within educational systems.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Identify cognitive load types (intrinsic/extraneous/germane) and social interaction factors in students with learning disabilities with 80% accuracy.",
+    "Analyze the impact of intelligent tutoring agents on learning effectiveness, knowledge retention, and social skill development using quantitative metrics.",
+    "Design at least three strategies to minimize extraneous cognitive load based on learner characteristics (including dyscalculia), considering cultural contexts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Cognitive Load Measurement Questionnaire",
+      "Personalized Learning Path Recommendation Algorithm"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

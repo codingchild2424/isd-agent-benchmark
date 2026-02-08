@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5335-V",
+  "variant_type": "context_variant",
+  "title": "Game-Based Science and Engineering Practice Simulation Education",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific theories and engineering principles, experience with VR device usage",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhancing scientific practical competencies for professionals in medical/legal/technical fields to solve social issues.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can reproduce scientific inquiry procedures with over 80% accuracy through goal-oriented problem-solving in a simulation environment.",
+    "Learners can propose optimal engineering design solutions within limited resources using VR-based game mechanics (energy acquisition/usage systems).",
+    "Learners can perform three or more iterative design improvements based on formative assessment feedback and write failure case analysis reports."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Industrial VR Simulation Equipment",
+      "LMS-integrated game-based learning platform",
+      "Real-time collaboration tools (Miro/Slack)",
+      "Science and engineering lab kits (optional use)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

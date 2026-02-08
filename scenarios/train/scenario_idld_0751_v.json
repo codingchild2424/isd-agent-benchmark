@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0751-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Learning in Nursing Education Utilizing Video Conferencing Technology",
+  "context": {
+    "prior_knowledge": "Basic nursing theory and clinical practice experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Application of multi-point PC-based video conferencing technology in a smartphone-centric limited-technology environment, emphasizing clinical scenario-solving skills through learner collaboration and real-time feedback.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners participate in remote clinical scenario discussions via smartphone-based video conferencing tools with at least 80% engagement.",
+    "Learners complete at least 90% of PBL assignments based on peer assessment and feedback in a video conferencing environment.",
+    "Learners design and present a virtual team project to address community health issues by applying IP-based video conferencing technology."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone (Camera/Microphone Functionality)",
+      "Free Video Conferencing Platform (Zoom/Google Meet, etc.)",
+      "Basic internet connectivity environment",
+      "PBL Activity Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

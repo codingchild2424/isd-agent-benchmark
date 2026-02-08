@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1294",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] MEMS Gyroscope Control System Design and Optimization",
+  "context": {
+    "prior_knowledge": "Foundational control engineering, MATLAB/Python-based simulation experience, and basic MEMS sensor principles",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are engineering/science majors aiming to improve practical application skills for MEMS-based control systems",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Sliding Mode Control (SMC) and neural network (NN)-based control algorithms can be applied to MEMS gyroscope dynamic models.",
+    "System uncertainty compensation techniques can be implemented through composite learning design utilizing a Serial-Parallel Estimation Model (SPEM).",
+    "A precision-improved system within finite time can be designed by combining Non-Terminal Sliding Mode Control (NTSMC) and time-varying Barrier Lyapunov Function (BLF)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MATLAB/Simulink license",
+      "MEMS Gyroscope Simulation Dataset",
+      "Control Theory Textbook (PDF)",
+      "Python Control Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8429-V",
+  "variant_type": "context_variant",
+  "title": "Online Lecture Accessibility Design: Practical Application Based on Universal Design for Learning (UDL)",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A teaching competency enhancement program for pre-service or in-service teachers. Emphasizes accessibility design capabilities applicable to real-world work for current practitioners.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Learners can create an online lecture content accessibility checklist with 80% accuracy using the UDL framework.",
+    "Learners can design three or more real-time video lecture environments compliant with WCAG 2.1 standards.",
+    "Learners can produce two or more customized learning materials (text, audio, visual) based on accessibility barrier analysis for specific target groups."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Screen reader",
+      "Keyboard-only navigation tool",
+      "Color vision deficiency simulation software",
+      "Automated Caption Generation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

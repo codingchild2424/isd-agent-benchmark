@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5919",
+  "variant_type": "idld_aligned",
+  "title": "Federated Edge Learning-Based Data Privacy Protection Technology",
+  "context": {
+    "prior_knowledge": "Basic machine learning concepts and foundational knowledge of communication systems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course focusing on in-service professionals acquiring skills to perform model training on edge devices while ensuring data privacy. Conducted through online asynchronous learning in environments with provided digital devices",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles of the FEEL framework and data privacy protection mechanisms.",
+    "Learners can analyze digital broadband aggregation methods to resolve multi-access channel issues in wireless communication environments.",
+    "Learners can implement the 1-bit quantization and QAM modulation processes of the OBDA technique using simulation tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Simulation Software",
+      "Digital Learning Resource Package",
+      "Interactive Quiz System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

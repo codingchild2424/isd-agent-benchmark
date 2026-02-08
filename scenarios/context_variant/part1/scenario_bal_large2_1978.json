@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1978",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Basic Life Support for Cardiac Arrest: Mobile-based Contextual Learning Program",
+  "context": {
+    "prior_knowledge": "Understanding basic life support (BLS) concepts and experience in administering emergency care in medical settings",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized mobile learning environment for in-service healthcare professionals, enhancing asynchronous self-directed learning via an Android-based application (SBVida)",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can confirm patient responsiveness and perform 119 emergency reporting procedures within 10 seconds of cardiac arrest",
+    "Learners acquire skills to perform high-quality chest compressions within 2 minutes through scenario-based animations",
+    "Learners can explain AED usage with 90% accuracy using simulation modules in mobile applications"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Android-based mobile learning application",
+      "LMS integration guide",
+      "Virtual simulation tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

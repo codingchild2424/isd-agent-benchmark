@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3848",
+  "variant_type": "idld_aligned",
+  "title": "e-Learning Cost Management Strategies for Healthcare Professionals",
+  "context": {
+    "prior_knowledge": "Basic medical field knowledge and fundamental financial management concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires mobile-optimized content for smartphone-based learning, focusing on budget management for medical institutions and cost-efficient education.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can classify medical e-learning development cost components (labor, technical infrastructure, content production costs, etc.) with 80% accuracy",
+    "Learners can analyze e-learning cost-efficiency compared to traditional face-to-face education using three metrics (time savings, workforce minimization, scalability)",
+    "Learners can apply mobile-optimized low-cost e-learning production techniques (template utilization, microlearning design) to real-world cases"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Open-Source Authoring Tools",
+      "Medical Education Standard Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

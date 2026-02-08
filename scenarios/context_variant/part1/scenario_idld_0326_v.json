@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0326-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Integrated Learning Design via WhatsApp for Healthcare Professionals",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge and intermediate-level digital literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Within six months, learners will design and implement a structured knowledge-sharing protocol via WhatsApp in medical education settings meeting the following: 1) include at least three medical terminology definition and sharing guidelines, 2) implement a weekly knowledge-sharing checklist with five or more items, 3) achieve an average of 4 points or higher in participant feedback surveys (5-point Likert scale).",
+    "Learners complete real medical case analysis projects with an 80%+ completion rate through WhatsApp-based asynchronous collaboration",
+    "Learners measure learning effectiveness using self-assessment tools based on Kirkpatrick Model Levels 1–2 (Reaction/Learning)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

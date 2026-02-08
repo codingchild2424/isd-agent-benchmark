@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0895",
+  "variant_type": "idld_aligned",
+  "title": "Design of an Online Community of Inquiry for Simulation/VR-Based Mathematics Learning",
+  "context": {
+    "prior_knowledge": "Basic mathematical operations (fractions, decimals, percentages, etc.)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course where practicing professionals explore practical mathematical concepts in simulation/VR environments relevant to their work settings, enhancing engagement through community activities.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain mathematical modeling processes with ≥80% accuracy to solve task-based problems in VR simulation environments",
+    "Engage in social interactions with peer learners through community discussion platforms ≥3 times weekly to share collaborative problem-solving experiences",
+    "Achieve ≥75% self-regulated learning (SRL) implementation by creating self-directed learning plans and analyzing weekly learning journals"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headsets and Tablet Devices",
+      "Community Discussion Platform (LMS Integrated)",
+      "Real-Time Video Conferencing System",
+      "Simulation-Based Mathematics Problem Module",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0657-V",
+  "variant_type": "context_variant",
+  "title": "Goal-Oriented Science Education Curriculum for Pre-Problem-Solving Learning",
+  "context": {
+    "prior_knowledge": "Core concepts of secondary science curriculum and experimental design experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Utilizing mobile app-based microlearning modules in a BYOD environment, with formative assessments providing real-time feedback.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically activate at least three or more relevant prior knowledge areas when solving complex science problems",
+    "By setting specific learning goals, learners can achieve 80% or higher appropriateness (relevance) in problem-solving attempts",
+    "Through self-directed goal setting, learners can achieve a 20% or higher improvement in conceptual learning achievement"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Learning Management System (LMS)",
+      "Interactive Science Simulation Tool",
+      "Automated Grading System for Formative Assessments"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

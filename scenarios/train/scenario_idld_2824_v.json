@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2824-V",
+  "variant_type": "context_variant",
+  "title": "Development Process of an Educational Software Evaluation Framework",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practice-oriented project execution using simulation/VR tools in a BYOD environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Systematically develop educational software evaluation criteria based on theoretical foundations",
+    "Evaluate the qualitative level of science simulation/VR software through multidimensional criteria (educational value, functionality, usability)",
+    "Based on evaluation results, practitioners can propose software improvement directions from a practical perspective"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Educational Software Samples for Science Subjects",
+      "VR Equipment Rental System",
+      "Assessment Rubric Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

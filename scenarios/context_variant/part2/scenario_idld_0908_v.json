@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0908-V",
+  "variant_type": "context_variant",
+  "title": "Probability Concept and Reasoning Skill Development Course Using PMRI-Based Microlearning",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-optimized content delivery for vocational training linked to social sector jobs, designed for environments without PC access.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately explain basic probability concepts (events, sample space, probability values) based on real-life cases (e.g., culinary tourism) with at least 80% accuracy.",
+    "Through inquiry activities following the PMRI approach, learners can systematically organize logical reasoning processes in three or more stages when solving probability problems.",
+    "Using microlearning comic content, learners can accurately perform probability calculations for compound events (e.g., unions, conditional probability) with at least 75% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "PMRI-Based Worksheet (PDF)",
+      "Interactive Comic Content",
+      "Automated Grading Quiz System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0470",
+  "variant_type": "balance_medium_scale",
+  "title": "Online Education Design for Program Evaluation Using the Cognitive Apprenticeship Model",
+  "context": {
+    "prior_knowledge": "Basic program evaluation concepts and statistical analysis methods",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Simulating real-world program evaluation cases in a virtual environment, collaborating with team members to execute projects.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can write program evaluation plans by applying CAM’s six strategies (modeling, coaching, scaffolding, etc.).",
+    "Learners can design an evaluation system linking program goals-indicators-data collection methods in a VR simulation environment.",
+    "Learners can finalize evaluation reports by utilizing peer feedback in team-based projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software",
+      "Program evaluation case database",
+      "Collaborative Platform Account"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Business/HR/Admin Support"
+}

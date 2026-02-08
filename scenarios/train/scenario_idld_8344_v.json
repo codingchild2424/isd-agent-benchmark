@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8344-V",
+  "variant_type": "context_variant",
+  "title": "UMI Technology-Based Computational Creative Problem-Solving Program",
+  "context": {
+    "prior_knowledge": "Fundamental computer science knowledge and programming basics",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-world problem-solving project utilizing mobile apps and IoT devices in a BYOD (Bring Your Own Device) environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design a computing system utilizing core elements of UMI technology (sensors, networks, data processing)",
+    "Learners work in teams of four to plan one IoT prototype, develop it using specified hardware (Arduino/Raspberry Pi) and at least three types of sensors, and submit a team test result report. The prototype must achieve over 70 points based on predefined evaluation criteria (Functionality 40%, Creativity 30%, Collaboration Efficiency 30%).",
+    "Through two weeks of activity-based learning, learners organize over 10 temperature/humidity data points collected from the school environment in Excel, visualize them with two types of charts (bar graph, line graph), and explain the analysis results in three or more sentences."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "UMI Technology Experience Kit (Sensor Board, Wireless Module)",
+      "Collaboration platform (Slack/Notion)",
+      "Mobile Learning Management System (LMS)",
+      "Open-source UMI Development Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1605-V",
+  "variant_type": "context_variant",
+  "title": "Scientific Problem-Solving Studio and Pair Programming Integrated Education for Computer Science: Experimental Design and Evidence-Based Analysis",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience, with foundational understanding of scientific inquiry methods (observation, hypothesis, experimentation, variable control, data analysis)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Problem-based education emphasizing collaboration and real-time feedback in smartphone-based learning environments. Learners apply the actual scientific inquiry process (problem definition → hypothesis formulation → experiment execution → result analysis) to coding tasks, exchanging evidence-based feedback (execution results, test data, code quality metrics) through peer evaluation.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can solve complex coding tasks by applying three or more scientific problem-solving strategies (hypothesis setting, variable control, experimental design).",
+    "Learners perform driver/navigator roles at least once each in three or more pair programming sessions within a week and submit a code review report meeting four or more of five collaboration checklist items (code readability, comment quality, test coverage, feature completeness, version control) to achieve over 80% evaluation criteria.",
+    "Learners improve debugging and logical error correction skills through five or more formative assessments, collect and analyze measurable evidence data (execution logs, test results, performance metrics), and present improvement outcomes."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Online Collaboration Tools",
+      "Adjustable Difficulty Programming Assignments",
+      "Real-time feedback template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

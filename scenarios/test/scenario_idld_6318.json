@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6318",
+  "variant_type": "idld_aligned",
+  "title": "Mathematics ICT-Integrated Instructional Design Considering Educational Environments in Developing Countries",
+  "context": {
+    "prior_knowledge": "Foundational mathematics knowledge and basic smartphone utilization skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "In PC-unavailable environments, smartphones serve as the primary learning tool, with asynchronous learning conducted via an LMS (Learning Management System).",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain five ICT-integrated instructional design principles suitable for educational environments in developing countries",
+    "Learners can design math problem-solving projects using smartphone-based tools",
+    "Learners can develop ICT-integrated lesson materials applicable in limited-technology environments",
+    "Learners can analyze and improve the outcomes of ICT-integrated lesson implementation through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "LMS platform",
+      "Basic internet connectivity environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

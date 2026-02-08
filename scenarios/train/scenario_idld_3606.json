@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3606",
+  "variant_type": "idld_aligned",
+  "title": "Gamified Mobile Game Design for Mathematics Education",
+  "context": {
+    "prior_knowledge": "Basic arithmetic computational skills and secondary-level mathematics knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "An environment enabling collaboration and competition modes using personal devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners improve arithmetic operation (addition, subtraction, multiplication, division) problem-solving speed by 30%",
+    "Learners demonstrate strategic problem-solving capabilities with peers through collaborative modes in gamified environments",
+    "Learners experience a learning environment that stimulates situational interest and intrinsic motivation through competitive modes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Game Development Platform",
+      "BYOD-Compatible Learning Management System (LMS)",
+      "Game-Based Assessment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

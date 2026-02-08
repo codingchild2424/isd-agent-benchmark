@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2478",
+  "variant_type": "idld_aligned",
+  "title": "Robotic Force Control Algorithms: Reinforcement Learning and RBF Neural Network Approaches",
+  "context": {
+    "prior_knowledge": "Control Theory, Basic Neural Networks, and Foundational Robotics Knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners are professionals in medical/legal/technical fields aiming to develop practical skills for applying robotic force control algorithms in industrial settings. Digital tools (laptops, simulation software, etc.) are provided, with formative assessments continuously monitoring progress.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Optimal parameters for robotic force control can be derived using reinforcement learning algorithms.",
+    "Environmental stiffness can be predicted and integrated into control systems using RBF neural networks.",
+    "Performance improvements of the proposed algorithm compared to PD control and fuzzy control can be analyzed using quantitative metrics.",
+    "A control system achieving a force tracking error within ±0.5N in robot-environment interaction scenarios can be designed."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Robot Simulation Software",
+      "Python-based reinforcement learning framework",
+      "MATLAB/Simulink",
+      "RBF (Radial Basis Function) neural network implementation library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

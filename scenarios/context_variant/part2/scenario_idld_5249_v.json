@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5249-V",
+  "variant_type": "context_variant",
+  "title": "Nurse Clinical Skills Training: Buttonhole Cannulation Simulation-Based E-Learning",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners repeatedly practice buttonhole cannulation techniques in VR simulations resembling actual clinical environments and learn theory/procedures through e-learning. Technical proficiency is measured through project-based assessment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners achieve over 80% accuracy in buttonhole cannulation procedures within a VR simulation environment.",
+    "Based on knowledge acquired through e-learning modules, learners explain five complications related to cannulation and propose prevention strategies.",
+    "In team-based projects, learners design cannulation protocols for patient-specific scenarios and execute them according to evaluation criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Equipment",
+      "Standardized online learning modules",
+      "Virtual Patient Scenario Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

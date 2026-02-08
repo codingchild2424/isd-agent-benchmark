@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0643",
+  "variant_type": "balance_teen_k12",
+  "title": "Online Collaborative Writing-Based Mathematics Research Paper Workshop for [K-12]",
+  "context": {
+    "prior_knowledge": "Foundational academic writing skills, intermediate-level math concept understanding, and basic digital tool proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Course focused on strengthening collaborative writing skills for academic mathematics papers. Simulating team-based research activities through web-based collaboration tools like Google Docs, combining formative assessment by instructors with summative evaluation via final paper submission",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners perform real-time feedback with team members at least three times while drafting a math paper using collaborative web-based tools and develop document version control skills.",
+    "Over six months, learners will maintain a strategic 70:30 usage ratio (70% for text space/content organization, 30% for interface/tool functionality) in online collaborative projects (e.g., Google Docs, Padlet), and design efficient collaboration processes achieving an average score of 4/5 or higher on evaluation rubrics (clarity, engagement, efficiency) across three or more projects.",
+    "Over six months, learners will compile monthly portfolios of asynchronous communication records (chat logs, emails, shared documents) from math research paper writing processes (3+ instances/month) and incorporate two or more communication insights into the introduction-methods-results structure of the final paper."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Google Workspace for Education Account",
+      "Miro Collaborative Board",
+      "LaTeX Template",
+      "Mathematics Thesis Sample Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

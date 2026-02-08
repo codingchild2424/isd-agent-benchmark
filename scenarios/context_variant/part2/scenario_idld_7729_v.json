@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7729-V",
+  "variant_type": "context_variant",
+  "title": "Data-Driven Decision-Making Process for Early Detection of Skin Cancer",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners analyze real skin cancer image data to study early detection methods, with a focus on understanding basic principles of deep learning models and their application in healthcare",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Explain core operational principles of deep learning models (e.g., VGG-16) for early skin cancer detection",
+    "Analyze real skin cancer image datasets to achieve ≥90% accuracy in identifying malignant lesions",
+    "Critically compare advantages and limitations of ensemble models in skin cancer diagnostic systems"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Skin Cancer Image Dataset",
+      "Deep Learning Visualization Tools",
+      "Training Laptops"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

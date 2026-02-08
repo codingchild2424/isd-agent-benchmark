@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-0917",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Technical Communication and Language Expression Course for Strengthening Practical Computer Networking Skills",
+  "context": {
+    "prior_knowledge": "Basic TCP/IP concepts, understanding of the OSI 7-layer model, experience in office network management, technical document comprehension, basic presentation skills, and foundational proficiency in technical terminology",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical-oriented training for workers, focusing on international certification (CCNA) preparation and cultivating practical problem-solving skills. Particularly emphasizes strengthening communication competencies to clearly convey technical content, evaluating language expression skills (grammar, vocabulary, structure) during report writing, presentations, and collaboration. Comprehensively develops learners' verbal and written communication abilities.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners document and clearly explain small-office network topologies using specialized networking terminology and technical vocabulary.",
+    "Learners systematically describe packet tracer analysis results in technical reports and diagnose network latency issues within three steps.",
+    "Learners articulate departmental network segmentation plans (verbally/written) using specialized terms acquired from VLAN setup practice.",
+    "Teams present SDN simulation results with visual aids, reorganizing technical content for non-expert comprehension."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GNS3 simulator license",
+      "Cisco Packet Tracer",
+      "Wi-Fi analyzer rental equipment",
+      "Official CCNA learning resources"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-0312",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Blended Learning Instructional Design for Technical and Vocational Education and Training (TVET): Applying ADDIE and Rapid Prototyping Models",
+  "context": {
+    "prior_knowledge": "Elementary science knowledge and comprehension of Technical and Vocational Education and Training (TVET) systems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Need to strengthen competency in designing blended learning based on smartphones in the expanded non-face-to-face education environment post-COVID-19",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design a blended learning course by applying the five stages of the ADDIE model (analysis, design, development, implementation, evaluation).",
+    "Iteratively improve educational content reflecting learner feedback using the rapid prototyping model.",
+    "Develop an evaluation tool considering learners' technology acceptance (TAM) and academic achievement in a TVET blended learning environment in the science field.",
+    "Implement effective blended learning strategies even in smartphone-based limited-technology environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Real-time video conferencing platforms (e.g., Zoom)",
+      "Mobile-optimized LMS (Learning Management System)",
+      "Digital textbook authoring tools (e.g., Canva)",
+      "Expert panel for content validity verification"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0039",
+  "variant_type": "balance_large_scale",
+  "title": "Language Learning Design Integrating AI and Robotics: A Microlearning-Based Integrated Approach (Large-Scale)",
+  "context": {
+    "prior_knowledge": "Basic language learning experience and fundamental digital device utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasis on personalized language learning experiences using AI chatbots and educational robots in smartphone-based environments, with integrated assessment of physical, socio-emotional, and cognitive learning outcomes",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Self-diagnose grammatical errors with over 80% accuracy using AI-based language analysis tools",
+    "Apply ten situational language expressions to real-world scenarios through robot simulation dialogues",
+    "In a robot programming task organized in teams of three, learners will complete a three-stage development process (planning-implementation-testing) using collaboration tools (Slack, GitHub, etc.), and achieve 4 or higher (on a 5-point scale) in four out of five socioemotional competency items (communication, conflict management, responsibility) through peer evaluation and self-reflection reports."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible AI Language Learning App",
+      "Educational Robot Simulator",
+      "Microlearning Content Creation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

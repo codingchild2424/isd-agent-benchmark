@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1874-V",
+  "variant_type": "context_variant",
+  "title": "Workshop on Analyzing Elementary Preservice Teachers' Difficulties in Solving Proportional Problems",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Parallel implementation of team-based collaborative learning and individual reflective assessments in smartphone-centric limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Prospective teachers can compare/analyze various proportional problem-solving strategies (ratio tables, proportions, cross-multiplication, etc.) and select approaches appropriate to student proficiency levels",
+    "Three or more specific potential difficulties students encounter during problem-solving (context comprehension, mathematical procedure application, etc.) can be identified",
+    "Team-based learning activities enable the creation and implementation of lesson design improvements incorporating peer feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Proportional Reasoning Case Database",
+      "Mobile-Compatible VR Simulation Tool",
+      "Team collaboration worksheet",
+      "Student Role-Play Scenario Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

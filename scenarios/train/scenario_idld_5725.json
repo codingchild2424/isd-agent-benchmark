@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5725",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Course to Strengthen Digital Fluency Competencies",
+  "context": {
+    "prior_knowledge": "Fundamental digital tool proficiency and practical experience in specialized fields (medical/legal/technical)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A non-degree professional-oriented science education program conducted in a smartphone-centered limited technology environment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply five core digital literacy skills—information evaluation, data analysis, digital collaboration, security management, and creative problem-solving—with 80% or higher accuracy.",
+    "Learners can design and establish implementation plans for three or more customized digital tool utilization scenarios by specialty.",
+    "Learners can analyze two ethical dilemma cases and propose alternatives based on critical thinking about digital environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Interactive quiz authoring tool",
+      "Digital Literacy Assessment Rubric",
+      "Smartphone-compatible simulation app"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

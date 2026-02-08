@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2340-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing AI Practical Skills: Culture-Based Learning City Design Workshop: Participatory Mapping and Spatial Design",
+  "context": {
+    "prior_knowledge": "Basic urban planning, cultural heritage preservation concepts, and fundamental digital map utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "At least three symbolic spaces and community narratives in the region can be identified using participatory cultural mapping tools",
+    "At least two learning city design nodes, including cultural heritage, can be proposed by applying spatial analysis techniques",
+    "A design proposal with a learning space suitability score (DSS) of 0.8 or higher can be developed by combining AI-generated design concepts with community feedback"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

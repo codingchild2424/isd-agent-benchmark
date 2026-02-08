@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5562",
+  "variant_type": "idld_aligned",
+  "title": "Exploring Reinforcement Learning-Based Control Algorithms: Learning AI Control Principles Through Simulation",
+  "context": {
+    "prior_knowledge": "Understanding of basic programming concepts, simple mathematical operations skills, and experience operating game interfaces",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Utilizing smartphone/tablet-based simulation tools in a BYOD environment. Intuitively understanding complex AI concepts through gamified learning content linked to daily life",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the basic principles of reinforcement learning (reward-action mechanisms) in a simulation environment",
+    "Learners can perform a virtual pendulum balancing task with over 80% success rate using a Q-learning-based control algorithm",
+    "Learners can visually analyze the integration principles of neural network clustering (ARM) and reinforcement learning through simulation results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Simulation App",
+      "Beginner-Friendly Python-Based Coding Tool",
+      "VR-Compatible Pendulum Modeling Kit (Optional)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

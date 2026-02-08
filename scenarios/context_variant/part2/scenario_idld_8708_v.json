@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8708-V",
+  "variant_type": "context_variant",
+  "title": "Stress Management Microlearning for Pharmaceutical Practitioners",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Delivered in a Smartphone-Based Microlearning Environment for Current Practitioners, Providing Pre-Learning Materials (5-Minute Videos or Infographics) via Flipped Learning and Operating Real-Time Online Discussion Sessions",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can utilize tools to self-diagnose stress levels during crisis situations such as the COVID-19 pandemic.",
+    "Learners can explain the correlation between stress awareness and coping strategies.",
+    "Learners can apply three or more ultra-short stress management techniques, accessible in mobile environments, to practical settings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible 5-minute video",
+      "Stress measurement questionnaire template",
+      "Real-Time Chat Functionality",
+      "PDF Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

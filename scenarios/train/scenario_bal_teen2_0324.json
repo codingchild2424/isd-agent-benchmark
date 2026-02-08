@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0324",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Microlearning Design for Strengthening Business Information Literacy",
+  "context": {
+    "prior_knowledge": "Basic information retrieval skills and major-specific knowledge in business fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Online course for undergraduate science students to improve business information utilization skills, requiring student-centered design considering diverse learning types (commuter/remote/part-time)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can retrieve specialized materials from business databases with over 85% accuracy.",
+    "Learners can evaluate reference materials in complex business reports within 72 hours to determine their reliability.",
+    "Learners can apply information literacy skills in team projects and pass peer evaluations at least twice out of three attempts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Video Production Software",
+      "PDF Editing Tool",
+      "LMS platform",
+      "Business Database Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

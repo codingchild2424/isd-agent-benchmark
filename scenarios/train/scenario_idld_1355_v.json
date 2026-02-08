@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1355-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Web Development Practice Competencies: Collaborative Learning Through Nature of Science (NOS) and Historical Case Studies",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain three core characteristics of the nature of science (NOS)—tentativeness, social context, and creativity—by analyzing historical scientific cases (Archaeopteryx research).",
+    "Learners can enhance their NOS-related argumentation skills based on peer feedback during collaborative learning.",
+    "Learners develop ≥1 mobile application prototype using smartphone-based development tools (Android Studio, Flutter, etc.) and achieve \"excellent\" ratings in ≥4 of 5 evaluation criteria (e.g., UI/UX, functionality, code quality) in weekly formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

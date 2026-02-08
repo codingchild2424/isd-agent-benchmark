@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1436-V",
+  "variant_type": "context_variant",
+  "title": "Virtual Reality Simulation-Based Nursing Education Curriculum Design",
+  "context": {
+    "prior_knowledge": "Fundamental Nursing Principles and Clinical Practice Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Simulation-based training utilizing virtual reality (VR) technology for office/administrative professionals. Project-based learning and assessment implemented using personal devices (BYOD).",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform patient status assessment and nursing intervention procedures with 80% accuracy in VR simulation environments",
+    "Learners can develop and implement nursing team collaboration strategies through scenario-based PBL activities",
+    "Learners can establish self-reflection and improvement plans through debriefing sessions after VR simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headsets (3+ Units)",
+      "Simulation Software License",
+      "Nursing Scenario Template",
+      "Debriefing Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2298",
+  "variant_type": "idld_aligned",
+  "title": "Remote Simulation-Based Educational Design for Biological Molecular Experiments",
+  "context": {
+    "prior_knowledge": "Basic knowledge of general chemistry and fundamental understanding of biological molecules",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Remote chemistry lab education for pre-service/in-service teachers, emphasizing situation-based learning linked to real-world issues like COVID-19.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze the structure-function relationship of biological molecules through VR simulation and quantitatively explain experimental results.",
+    "Learners can identify at least two or more experimental design errors and propose corrections based on real-time feedback from peers in a collaborative learning environment.",
+    "Learners can systematically document the scientific inquiry process for solving social issues through chemistry experiments related to COVID-19."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR laboratory simulation software",
+      "Online collaboration tools (Miro, Google Jamboard, etc.)",
+      "COVID-19-related open dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

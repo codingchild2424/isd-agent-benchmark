@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8452-V",
+  "variant_type": "context_variant",
+  "title": "Context-Based Personalized Mathematical Learning Design: Data Analysis Competency Enhancement for Professionals",
+  "context": {
+    "prior_knowledge": "Elementary arithmetic operations and experience using graphic calculators",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-life scenario-based project progress utilizing working professionals' job experiences",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design and apply three or more mathematical models (statistics, probability, functions) using job-related data.",
+    "Learners perform personalized feedback learning activities at least twice weekly through an intelligent tutoring system based on individual learning patterns.",
+    "Learners produce and present at least two data analysis reports and visualizations for workplace problem-solving as team project deliverables."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "BYOD Device-Supported Software",
+      "Job-Linked Data Sample Set",
+      "Intelligent Tutoring System License"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

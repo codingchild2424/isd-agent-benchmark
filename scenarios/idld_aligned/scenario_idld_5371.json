@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5371",
+  "variant_type": "idld_aligned",
+  "title": "Feedback-Driven Learner-Centered Mathematics Education Design",
+  "context": {
+    "prior_knowledge": "Understanding of elementary mathematical concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended learning environment combining a smartphone-based online platform with bi-monthly in-person classes, operating a summative assessment-centered evaluation system.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners identify three or more error patterns by analyzing feedback received from peers and teachers during mathematical problem-solving processes",
+    "Learners specify two or more feedback request items when submitting weekly online assignments to seek concrete learning support",
+    "Learners provide constructive feedback to at least three peers per session through peer assessment activities during in-person classes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "PDF Workbook",
+      "Offline Calculation Tool",
+      "Weekly Assignment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

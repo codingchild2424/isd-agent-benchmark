@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3127-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Design and Evaluation of Digital Game-Based Science Education",
+  "context": {
+    "prior_knowledge": "Mastery of basic scientific theories and relevant professional work experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain a learning objective-game objective mapping model for educational digital games according to four categories.",
+    "Learners can apply a digital game design framework reflecting science domain expertise to create a prototype planning document.",
+    "Learners can analyze the educational applicability of existing games and propose improvement strategies using a gamification assessment model."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

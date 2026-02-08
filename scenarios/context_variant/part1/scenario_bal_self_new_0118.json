@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0118",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Understanding Redox Reactions Through Mobile Augmented Reality (AR)",
+  "context": {
+    "prior_knowledge": "Basic chemistry concepts (elements, compounds, ions) and ability to express chemical reactions",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Interactive learning environments using digital devices, supporting multisensory learning through AR content",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain electron transfer processes in redox reactions using AR visualization.",
+    "Learners analyze oxidation number change rules with 80% accuracy through AR simulations of real chemistry laboratory scenes.",
+    "Learners accurately write over 10 redox reaction equations using an AR quiz module."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR App Development Tool (Vuforia SDK/Unity3D-based)",
+      "Smart Devices (Tablet/Smartphone)",
+      "Chemical Reaction AR Marker Set",
+      "Electron Transition Simulation 3D Model"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

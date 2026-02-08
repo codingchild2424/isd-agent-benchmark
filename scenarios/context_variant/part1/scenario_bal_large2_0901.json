@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-0901",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Large-Scale Science Job Competency Enhancement Program through Digital Game-Based Learning",
+  "context": {
+    "prior_knowledge": "Possession of basic scientific theories and practical experience in the field of science",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An environment where current practitioners engage in game-based PBL projects using personal devices and receive continuous feedback through formative assessment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify and utilize at least three game elements that induce attention (Attention) in Digital Game-Based Learning (DGBL) environments.",
+    "Learners achieve over 80% task completion rates by linking game-based learning activities to job relevance (Relevance).",
+    "Using in-game performance evaluation (Satisfaction) systems, learners maintain confidence (Confidence) and perform three or more repeated gameplay sessions.",
+    "Learners analyze motivation and performance mechanisms to apply them to solving real-world scientific project problems."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Trade Ruler-Like Online Game Platform",
+      "ARCS-Based Motivation Assessment Tool",
+      "PBL Assignment Template",
+      "BYOD-Compatible Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

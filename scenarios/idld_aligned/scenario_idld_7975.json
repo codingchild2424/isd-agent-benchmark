@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7975",
+  "variant_type": "idld_aligned",
+  "title": "Strategies for Effective Instructor Roles in Online Mathematics Learning",
+  "context": {
+    "prior_knowledge": "Middle school mathematics core concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Re-establishing the instructor's role and developing learner-tailored interaction strategies in asynchronous math education environments utilizing personal devices (BYOD)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can categorize instructor intervention levels into at least three types based on feedback types provided in online assessment systems",
+    "Learners can perform over 80% of weekly learning plan adjustment requests for instructors' flexible learning activity design in asynchronous environments",
+    "Learners can sustain one-on-one Q&A sessions with instructors using technical support tools within the LMS at least twice a week."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (with Quiz/Assignment/Discussion Board Features)",
+      "Real-time Video Conferencing Tool (for Supplemental Explanations)",
+      "Learning Analytics Dashboard",
+      "Mathematical Concept Visualization Tools (e.g., GeoGebra)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

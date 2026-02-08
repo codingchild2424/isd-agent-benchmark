@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1658",
+  "variant_type": "idld_aligned",
+  "title": "VR-Based Multimodal Mathematical Concept Exploration: An Integrated Approach for Multilingual Learners",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and ability to use digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course where multilingual learners investigate mathematical abstract concepts through visual, auditory, and tactile interactions in VR environments. Concept application abilities are assessed through project-based evaluations",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain core calculus concepts (limits, continuity, rates of change) by manipulating 3D graphs in a VR environment.",
+    "Learners can document the math problem-solving process collaboratively with team members using multimodal representations (visual modeling, audio explanations, text annotations).",
+    "Learners can analyze data collected from VR simulations, represent real-world phenomena (e.g., fluid dynamics) as mathematical models, and present their findings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Metaverse platform license",
+      "VR headsets (for shared rental)",
+      "3D mathematical modeling tool",
+      "Multimodal content creation guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

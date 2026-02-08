@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8762",
+  "variant_type": "idld_aligned",
+  "title": "Collaborative Mobile Microlearning Design for Strengthening Mathematical Competencies",
+  "context": {
+    "prior_knowledge": "Understanding of College-Level Basic Mathematical Concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Supporting large-scale learners and operating summative assessment-centric programs in limited-technology environments (no PCs, smartphone-dominant).",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply math problem-solving strategies with over 80% accuracy in mobile environments",
+    "Learners can participate in a self-directed process of improving learning content through peer feedback",
+    "Learners can build collaborative learning environments using at least three digital tools (quiz apps, collaboration platforms, etc.)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Mobile-Friendly Mathematics Content Template",
+      "Simple survey tool",
+      "Collaborative Learning Guidelines PDF"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

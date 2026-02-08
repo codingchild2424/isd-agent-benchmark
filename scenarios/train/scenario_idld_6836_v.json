@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6836-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: The Role of Instructional Designers in Distance Education—Chaos and Complex Systems Theory",
+  "context": {
+    "prior_knowledge": "Elementary online learning experience and foundational language learning concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply core concepts of chaos and complexity theories (e.g., self-organization, nonlinear interactions) to the context of distance education design.",
+    "The learner submits one customized instructional design plan for a small group of 5 learners within a limited technological environment (1 tablet, offline tools) within one week and achieves a suitability score of 80% or higher in peer evaluation and instructor feedback.",
+    "Learners develop at least three formative assessment tools that promote language learning in real-time online environments."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8701",
+  "variant_type": "idld_aligned",
+  "title": "Blended Learning-Based Instructional Design for AIDS Prevention Education Targeting Adolescents",
+  "context": {
+    "prior_knowledge": "No foundational knowledge of AIDS prevention",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in an online LMS environment using digital devices, with project-based assessments measuring learning outcomes. Learners are professionals (medical/legal/technical) but have beginner-level knowledge in AIDS prevention education.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain the transmission routes and prevention methods of AIDS.",
+    "Learners can establish and implement an AIDS prevention action plan through blended learning.",
+    "Learners can creatively develop AIDS prevention educational content through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Multimedia Production Tool",
+      "LMS platform",
+      "AIDS prevention-related statistical data",
+      "Case Study Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

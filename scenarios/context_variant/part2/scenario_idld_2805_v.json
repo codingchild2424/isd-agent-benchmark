@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2805-V",
+  "variant_type": "context_variant",
+  "title": "Visual Learning Modeling for MOOC-Based Blended Learning Design",
+  "context": {
+    "prior_knowledge": "Advanced mathematical theories and practical application experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended learning environment to enhance job relevance for in-service professionals, requiring guaranteed accessibility via smartphone-centric approaches",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze blended learning structures with ≥80% accuracy using a visual design model integrating MOOCs and face-to-face instruction",
+    "Learners can produce ≥3 actionable blended learning scenarios within one month using visual design tools",
+    "Learners demonstrate optimization proficiency by revising learning design elements ≥3 times based on formative assessment feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "VR Simulation Tool",
+      "Visual Design Templates",
+      "MOOC Content Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

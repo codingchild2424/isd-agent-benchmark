@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0425",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Scaffolding-Based Accounting Learning Program for Understanding Double-Entry Bookkeeping",
+  "context": {
+    "prior_knowledge": "Basic Accounting Terminology and General Understanding of Financial Statement Structures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Non-degree program aimed at acquiring practical accounting concepts",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply the debit/credit rules of double-entry bookkeeping to real-world cases with over 80% accuracy",
+    "Learners can explain the process of journal entry creation and linking to financial statements in simplified scenarios",
+    "Learners can solve complex accounting situations using a 3-stage scaffolding approach (simplification of terminology → rule application → practical extension)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Accounting Simulation Tool",
+      "Custom Learning Worksheets",
+      "Case-Based Assessment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

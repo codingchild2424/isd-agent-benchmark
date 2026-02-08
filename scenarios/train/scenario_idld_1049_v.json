@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1049-V",
+  "variant_type": "context_variant",
+  "title": "Data Science Practical Competency Enhancement: Foundational Math Competency Development for Youth with Intellectual and Developmental Disabilities",
+  "context": {
+    "prior_knowledge": "Understanding of Elementary-Level Basic Mathematical Concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners solve basic daily-life mathematical problems (e.g., financial calculations, time management) with 80% accuracy.",
+    "Learners manage their learning progress at least 70% independently using visual/auditory prompts from a smartwatch.",
+    "Learners demonstrate positive learning attitudes (e.g., maintaining focus for 15+ minutes) at least three times through a reward system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

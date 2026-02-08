@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1183-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Medical Practice Competencies: Theory-Based Learning Scenario Design Using Ontology Engineering",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and general computer literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners understand the OMNIBUS ontology structure and can explain relationships between various learning theories.",
+    "Learners can design standards-based science education scenarios using the SMARTIES system.",
+    "Learners apply an integrated approach to bridge the gap between theory and practical educational technology in project deliverables.",
+    "Learners collaboratively develop mobile-optimized PBL-based science education scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

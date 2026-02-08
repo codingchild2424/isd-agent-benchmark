@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1086",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Course on Surface Anatomy of the Brain",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Biology and Medical Terminology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A program for novice professional learners in managerial/leadership roles to acquire brain anatomy knowledge applicable to their work, operated with a summative assessment focus in a BYOD environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify 15 or more major structures of a 3D brain model with 80% accuracy",
+    "Learners can compare and explain functional characteristics by brain lobes",
+    "Learners can reproduce brain structures with 70% accuracy using five key visual angles, even in low spatial cognition scenarios"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive 3D Brain Modeling Software",
+      "Mobile-Compatible Anatomy Image Library",
+      "Automated Scoring Assessment System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

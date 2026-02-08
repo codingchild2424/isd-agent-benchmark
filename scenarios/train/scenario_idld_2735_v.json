@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2735-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Microlearning Design for Language Proficiency Improvement Based on Learning Analytics",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and digital literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Focus on analyzing learners' language usage patterns and providing personalized feedback in a BYOD environment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze their own language usage data collected via mobile platforms to identify three personal weaknesses.",
+    "Learners can establish and execute personalized language practice plans at least twice weekly based on analysis results.",
+    "Learners can demonstrate at least a 20% improvement in language proficiency (pre-post comparison) through project-based assessment at the end of the six-month course."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Learning Analytics Tools",
+      "Language Assessment Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

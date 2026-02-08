@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8401",
+  "variant_type": "idld_aligned",
+  "title": "Application of Learning Analytics-Based Clustering for Customized e-Learning Design",
+  "context": {
+    "prior_knowledge": "Elementary mathematical knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Establishment of a customized learning support environment to enhance job competencies for current practitioners.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learner types can be classified into three categories—slow learners, average learners, and advanced learners—based on learning behavior data.",
+    "The clustering results derived from learning analytics can be applied to the design of personalized learning pathways.",
+    "An assessment strategy based on the revised Bloom's taxonomy can utilize a learner diagnostic and feedback system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS System Log Data",
+      "K-Means Clustering Tool",
+      "Learning Progress and Time Data Collection Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

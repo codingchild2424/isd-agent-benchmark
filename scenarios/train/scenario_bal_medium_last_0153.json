@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0153",
+  "variant_type": "balance_medium_last",
+  "title": "Foundations of Optical Material Design Using Deep Learning",
+  "context": {
+    "prior_knowledge": "Understanding of basic physics and mathematics (functions, graphs), and basic computer literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners access asynchronous learning modules via digital devices and engage in practice-centered education using simulation tools and simple neural network models.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "The light transmission phenomenon occurring in multilayer optical materials can be explained through mathematical modeling.",
+    "A program can be designed to predict the transmittance of optical materials using deep learning-based artificial neural networks (ANN).",
+    "Material combinations to achieve given optical properties (e.g., perfect transmission) can be explored via neural network inverse design methods."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Lecture Video",
+      "Jupyter Notebook Hands-On Environment",
+      "Python-Based Simulation Tool",
+      "LMS platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

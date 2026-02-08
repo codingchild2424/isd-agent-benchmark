@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2759",
+  "variant_type": "idld_aligned",
+  "title": "Project-Based Learning Design Using Blended Delivery in STEM Education",
+  "context": {
+    "prior_knowledge": "Understanding of basic science and engineering concepts, experience using fundamental laboratory tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Applying blended learning methods combining online and face-to-face instruction in environments where digital devices are provided. Supporting learner growth through periodic feedback focused on formative assessments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform online-face-to-face learning activities with over 80% participation rate following an 8-stage instructional design flow in STEM problem-solving processes",
+    "Learners can submit project outcomes analyzing and solving complex engineering problems with scaffolding support at least three times",
+    "Learners can complete self-reflection reports based on peer feedback and instructor evaluation in blended learning environments with over 90% completion rate"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Management System (LMS)",
+      "Virtual Experiment Simulation Tool",
+      "Physical Experiment Kit",
+      "Collaborative Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

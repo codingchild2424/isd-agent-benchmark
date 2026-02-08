@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6957",
+  "variant_type": "idld_aligned",
+  "title": "Computational Modeling Expert Training Course for Photodynamic Cancer Therapy Optimization",
+  "context": {
+    "prior_knowledge": "Foundational chemistry knowledge and life science understanding, with data analysis experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "An offline environment enabling smartphone-based supplementary materials, with an advanced curriculum centered on practical application.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "They explain the fundamental principles of photodynamic therapy and the limitations of conventional treatment methods.",
+    "A PQY prediction methodology utilizing ELM and SVR-PSO models can be applied",
+    "Statistical validation metrics for computational modeling as alternatives to experimental measurements can be interpreted",
+    "Improved QSAR modeling approaches for optimizing photosensitizer structures can be proposed"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Computational Modeling Textbook",
+      "Statistical Analysis Worksheet",
+      "Smartphone-Compatible Simulation Tool",
+      "Photodynamic Therapy Case Collection"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

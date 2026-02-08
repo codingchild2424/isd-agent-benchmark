@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2724-V",
+  "variant_type": "context_variant",
+  "title": "Exploring Linear Algebra Matrix Solutions: Understanding Types of Solution Sets",
+  "context": {
+    "prior_knowledge": "Foundational algebraic operations and equation-solving experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners are interested in applying matrix concepts to social phenomena to solve everyday problems",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Visually represent and explain the relationship between the column spaces of coefficient and augmented matrices",
+    "The consistency/contradiction/infinite number of solutions for a system can be determined by matrix rank.",
+    "Real-world problems (population distribution, budget allocation, etc.) can be transformed into linear system models and solutions derived."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Matrix Calculator",
+      "Visual Modeling Tools (Geogebra, etc.)",
+      "PBL Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

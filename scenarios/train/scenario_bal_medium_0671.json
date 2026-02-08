@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0671",
+  "variant_type": "balance_medium_scale",
+  "title": "Virtual Reality-Based Surgical Simulation Training: Enhancing Expertise Through Repetitive Practice",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and surgical procedures, experience with VR devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners are office/administrative workers, requiring online learning environments outside work hours. Digital devices (tablet/PC) provided and VR headset rental system established",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners sequentially complete three difficulty-level VR simulation trainings (basic-intermediate-advanced) and achieve a performance success rate of over 90%.",
+    "Learners can explain three or more cognitive load management strategies (breath control, procedural segmentation) by analyzing failure cases during repeated practice.",
+    "Learners record at least 13 consecutive successful performances out of 24 variant patient case scenarios in the final assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software License",
+      "30 VR Headsets",
+      "LMS platform",
+      "Reaction time test tool for cognitive load measurement"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

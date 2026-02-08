@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8670",
+  "variant_type": "idld_aligned",
+  "title": "Automated Machine Learning Pipeline Implementation with Domain-Specific Scripting Languages",
+  "context": {
+    "prior_knowledge": "Basic machine learning concepts, experience with Python or similar languages, foundational knowledge of linear algebra/probability theory",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Microlearning content optimized for smartphone-based learning environments, providing hands-on tools executable in mobile settings without complex installations",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Automated machine learning pipelines can be designed using DSL (Domain Specific Language) syntax",
+    "The optimization principles of genetic algorithms (Genetic Programming) can be explained and applied to pipeline design",
+    "Mobile-based pipeline prototypes can be implemented in constrained technical environments, and performance evaluation reports can be generated"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized DSL Interpreter",
+      "Pre-Configured Machine Learning Dataset Samples",
+      "DSL Grammar Guide (PDF)",
+      "Mobile-Compatible Visualization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

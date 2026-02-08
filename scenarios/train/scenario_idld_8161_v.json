@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8161-V",
+  "variant_type": "context_variant",
+  "title": "Patient Observation Task Training: Simulation-Based Deliberate Practice and Communication Skill Enhancement",
+  "context": {
+    "prior_knowledge": "Advanced specialized knowledge and extensive practical experience in the field, basic communication skills (grammar, vocabulary, expression) and understanding of medical terminology required for patient observation",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Simulation-based program using digital devices to experience variables in patient observation tasks (e.g., nonverbal cues, linguistic misunderstandings) and non-repetitive assignments. Trains context-appropriate language expression and communication strategies",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners identify physical and emotional risk factors during patient behavior observation with over 80% accuracy and document them precisely using verbal and non-verbal expressions.",
+    "Learners apply decision-making protocols to maintain patient safety in resource-limited environments and use structured communication techniques (e.g., SBAR) when collaborating with medical staff.",
+    "Learners perform appropriate response procedures in three or more simulations for non-repetitive patient behaviors (e.g., self-harm attempts) and execute situation-specific verbal interventions.",
+    "Learners systematically apply structured communication techniques (e.g., active listening, open-ended questions, empathetic responses) to ensure clear communication during collaboration with medical staff."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual patient simulation software",
+      "Interactive Digital Scenario Module",
+      "Multimedia Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

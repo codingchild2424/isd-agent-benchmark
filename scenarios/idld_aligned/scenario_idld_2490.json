@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2490",
+  "variant_type": "idld_aligned",
+  "title": "Collaborative Learning-Based Process for Predicting and Enhancing Mathematics Achievement",
+  "context": {
+    "prior_knowledge": "Basic Mathematical Knowledge and Experience with Online Learning Tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A formative assessment-centered course conducted in smartphone-centric limited-technology environments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze and apply problem-solving strategies for mathematics in collaborative learning environments.",
+    "Learners can accurately identify individual learning patterns with 80% or higher precision using an LMS-based data tracking system.",
+    "Learners can receive and incorporate peer feedback on weekly learning outcomes at least three times to improve performance."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-Compatible Learning Materials",
+      "Group Collaboration Tool",
+      "Grade prediction algorithm"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

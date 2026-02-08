@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0022-V",
+  "variant_type": "context_variant",
+  "title": "Motivation Model-Based Instructional Design for Advanced Nursing Practice Education",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Small-group real-time online training for working nurse learners in a BYOD environment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can enhance learning motivation by over 20% through instructional design applying the ARCS model.",
+    "Learners analyze complex clinical cases using self-directed learning strategies.",
+    "Applying creative problem-solving techniques (brainstorming, 5Why analysis), learners must develop practical strategies for three nursing scenarios (e.g., patient complaints, resource shortages, communication barriers) within one week, achieve an average ≥3/4 on peer/teacher rubric feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom account and meeting room setup",
+      "Digital Learning Management System (LMS)",
+      "Virtual Simulation Software",
+      "Case-Based Learning Material Package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

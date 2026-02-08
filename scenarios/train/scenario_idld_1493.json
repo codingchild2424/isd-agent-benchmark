@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1493",
+  "variant_type": "idld_aligned",
+  "title": "Integrated Library Service Design for Online Mathematics Learning",
+  "context": {
+    "prior_knowledge": "Foundational mathematical knowledge and experience in utilizing online learning tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Design of a mathematics learning process utilizing VR simulation in a smartphone-based limited technological environment. Integration of library information literacy elements to enhance practical applicability.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Teams design strategies for utilizing library digital resources suitable for online mathematics learning through team-based collaboration.",
+    "Learners complete mathematical problem-solving projects by applying information retrieval and analysis skills in simulation/VR environments.",
+    "Learners develop and apply assessment rubrics linked to library services to measure information literacy skills."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible VR Platform",
+      "Digital Library Content License",
+      "Collaboration Tools (Slack, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

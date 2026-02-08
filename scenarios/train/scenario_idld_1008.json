@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1008",
+  "variant_type": "idld_aligned",
+  "title": "Machine Learning-Based Framework Development for Alloy Design in Additive Manufacturing",
+  "context": {
+    "prior_knowledge": "Foundations in materials science, thermodynamics understanding, programming and data analysis experience, linear algebra and probability theory knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students work in teams to solve alloy design problems using real additive manufacturing process data, employing cloud-based ML tools (Jupyter Notebook, etc.) in BYOD environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "The thermodynamic properties and material limitations of additive manufacturing processes can be explained",
+    "Over three core AM characteristics, such as solidification range/growth restriction coefficient of alloys, can be predicted using machine learning models",
+    "Projects implementing multi-objective optimization problems can be completed using Python-based ML frameworks (TensorFlow/PyTorch)",
+    "Reports comparing predicted microstructural properties of designed alloys with simulation data and experimental results can be written"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python ML Libraries (Scikit-learn, PyTorch)",
+      "Thermodynamics Simulation Software (TC-Python API)",
+      "Cloud Computing Resources (AWS Educate Credits)",
+      "Additive Manufacturing Process Dataset (Based on Public Repository)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

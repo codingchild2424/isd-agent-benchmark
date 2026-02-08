@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0574",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Short-Intensive Simulation-Based Electronics Engineering Lab Education Program (Large-Scale)",
+  "context": {
+    "prior_knowledge": "Basic electronics theory and circuit analysis knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning course conducted in smartphone-centric limited-technology environments, aiming to cultivate practical skills while minimizing physical experiments through virtual lab simulations",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can explain operational principles through electronic circuit design and analysis simulations",
+    "Learners can independently perform at least three electronic experiments (e.g., RC circuits, OP-AMP amplifiers) using mobile-based simulation tools",
+    "Within 1 week, learners can write a physics experiment report (e.g., free-fall motion analysis) following provided guidelines and demonstrate report-writing proficiency equivalent to physical experiments by achieving ≥4 points (on a 5-point scale) in ≥4 of the 5 rubric criteria (clarity of purpose, methodological accuracy, data analysis, conclusion validity, format compliance)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Simulation Software",
+      "Fundamentals of electronics theory textbook",
+      "Experimental kits (optional use)",
+      "Online Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

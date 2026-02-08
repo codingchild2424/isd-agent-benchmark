@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1852",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Self-Directed Elementary Science Learning Design Using Digital Media",
+  "context": {
+    "prior_knowledge": "Understanding of basic science concepts and fundamental smartphone operation skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Digital media-based science education for elementary students conducted by professionals in medical/legal/technical fields, applying the ADDIE model and implemented in a smartphone-centric limited technological environment",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design science experiment processes with at least 80% accuracy using digital media tools",
+    "Learners can explain connections between science concepts with at least 75% accuracy through mobile-based interactive content",
+    "Learners can systematically record and share observation results in digital portfolios and perform peer feedback at least three times"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Digital Learning App",
+      "Offline Activity Kit",
+      "LMS (Learning Management System) Core Features"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

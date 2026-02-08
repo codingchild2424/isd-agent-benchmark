@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-1295",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Instructional Design Based on Psychological Process Evaluation for Web Design e-Learning Courses",
+  "context": {
+    "prior_knowledge": "Understanding of basic web design concepts and HTML/CSS fundamentals",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Web design education course integrating Gagné's theory and HCI elements in smartphone-based constrained environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain web design principles with over 80% accuracy in e-learning content designed according to Gagné’s Nine Events theory",
+    "Learners can improve visual hierarchy design skills by 30% compared to baseline assessments in HCI-based interactive e-learning environments incorporating animation elements",
+    "Learners can self-assess changes in their cognitive processes (attention-comprehension-application stages) through formative assessment surveys"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Zoom Screen Sharing Feature",
+      "Real-Time Survey Tool",
+      "Gagné's Theory Template",
+      "HCI (Human-Computer Interaction) Guidelines Document"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

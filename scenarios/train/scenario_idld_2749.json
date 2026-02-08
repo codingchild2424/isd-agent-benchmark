@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2749",
+  "variant_type": "idld_aligned",
+  "title": "Data-Driven Online Language Learning Course Improvement Design",
+  "context": {
+    "prior_knowledge": "Basic Language Proficiency and Experience with Online Learning Tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Design emphasizing personalized feedback and course improvement through individual learner data analysis",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can diagnose individual learning patterns with 80% accuracy using data-driven analytical tools.",
+    "Learners can autonomously apply at least three microlearning strategies (e.g., 5-minute quizzes, word games, pronunciation feedback) in mobile environments.",
+    "Based on formative assessment results, learners can revise and implement at least two weekly learning objectives."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS-Integrated Analytics Tool",
+      "Mobile Learning App",
+      "Real-Time Data Visualization Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

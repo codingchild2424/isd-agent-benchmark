@@ -1,0 +1,39 @@
+{
+  "scenario_id": "BAL-LARGE-0627",
+  "variant_type": "balance_large_scale",
+  "title": "Large-Scale Virtual Reality Exposure Therapy (VRE) Integrated Language Psychotherapy Training Dissemination Program",
+  "context": {
+    "prior_knowledge": "Foundational psychology, clinical practice experience, therapeutic communication skills, and basic language assessment abilities (grammar analysis, discourse structure comprehension, vocabulary selection strategies)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A program focusing on the diffusion of VR technology-based treatment techniques for practicing professionals. Provides flexible learning environments utilizing personal devices (BYOD). Consists of content specialized in linguistic interaction training (speaking, listening, expression) during treatment processes. Particularly focuses on strengthening core speech therapy competencies such as dialogue analysis, emotional expression, and therapeutic language use.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners explain VRE system operation procedures and technical limitations with ≥90% accuracy and analyze verbal interaction strategies (expression, listening, feedback) in treatment processes",
+    "Learners can design exposure therapy scenarios for panic disorder/PTSD cases in a VR environment and apply therapeutic communication skills between patient and therapist, including empathic responses, open-ended questions, and clarification techniques.",
+    "Learners achieve a simulation success rate of over 80% in therapeutic outcomes within a virtual environment resembling real clinical cases, evaluating verbal expressions (emotional verbalization, explanatory language use) and listening skills (active listening, reflective responding) during the treatment process.",
+    "Learners develop three types of VR-based customized educational materials for speech therapists (dialogue simulations, role-play scenarios, assessment tools), integrating two treatment protocols and three language-based therapy techniques (metaphor utilization, reframing techniques, verbal reinforcement) per material, submitting results meeting over 80% of expert review criteria (content validity, practicality, technical suitability).",
+    "Learners operate an integrated system for client self-learning modules and therapist training programs, establishing a linguistic feedback provision system (verbal feedback, text-based evaluation, nonverbal cue interpretation)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR headset set",
+      "Psychotherapy manual database",
+      "Virtual environment authoring software",
+      "Clinical case video library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

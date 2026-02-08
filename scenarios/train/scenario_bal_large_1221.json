@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1221",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] CSCL Scenario Management Process Using Script-Based Monitoring",
+  "context": {
+    "prior_knowledge": "Experience in PBL-based collaborative learning and practical language education",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Analyzing complex interaction data in BYOD environments to support instructors' real-time decision-making during language projects",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Using monitoring indicators linked to the learning design blueprint, learners can diagnose CSCL (Computer-Supported Collaborative Learning) progress with 80% accuracy.",
+    "Learners can classify learner interaction patterns into three types—active participation, passive participation, and unproductive activity—using script-based analysis tools.",
+    "Based on analytical data, learners can identify timely instructional intervention points and develop effective feedback strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CSCL Monitoring Dashboard Software",
+      "Learner Activity Log Collection System",
+      "Real-time Data Visualization Tool",
+      "PBL Language Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

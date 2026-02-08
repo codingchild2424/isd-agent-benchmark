@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0154",
+  "variant_type": "balance_medium_last",
+  "title": "Cognitive Engineering-Based Simultaneous Interpretation Training Microlearning Course",
+  "context": {
+    "prior_knowledge": "Basic foreign language listening/speaking skills and experience with simple translations",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A short-term intensive language program for teenagers in a BYOD environment, applying a project-based assessment system.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can provide simultaneous interpretation of 3-minute spoken audio materials within 1 minute.",
+    "Learners improve information processing efficiency by 30% by integrating multiple sensory channels (auditory/visual/textual).",
+    "Learners expand working memory capacity by 20% using cognitive load management strategies during interpretation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Multimedia Content Authoring Tool",
+      "Real-Time Speech-to-Text Conversion Software",
+      "Interactive Simulation Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

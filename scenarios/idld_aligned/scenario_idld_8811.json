@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8811",
+  "variant_type": "idld_aligned",
+  "title": "Design and Implementation of Online Collaborative Science Projects",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Science Theories and Experience Using Online Communication Tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Medical/legal/technical experts collaborate on science domain projects in BYOD environments, integrating online collaborative activities using personal devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can create science project proposals using online collaboration tools over four weeks",
+    "Learners can evaluate team members' contributions with over 80% accuracy based on peer assessment rubrics",
+    "Learners can perform asynchronous collaborative activities at least twice a week during the project period and document decision-making records."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Platform (e.g., Miro, Notion)",
+      "Peer Evaluation Template",
+      "Group Agreement Form",
+      "Science Project Guide Document"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

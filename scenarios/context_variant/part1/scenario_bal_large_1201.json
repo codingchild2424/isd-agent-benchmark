@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-1201",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Design of a Visual Hybrid Development Learning System for Math Education in Autistic Children: Visual Manipulation Approach Based on Calculation, Measurement, and Graphing",
+  "context": {
+    "prior_knowledge": "Foundational special education knowledge, understanding of general pedagogy, and basic mathematics instruction experience (elementary calculation skills: arithmetic operations, geometry concepts: plane/3D shapes, and data representation methods: tables-graphs-charts)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "For current or pre-service teachers, this course cultivates competencies to design personalized math education systems for autistic children. Focuses on visual representation of math concepts (equations, graphs, probability) and interactive tool development, emphasizing step-by-step visualization of calculations, dynamic graph manipulation, and interactive probability simulations.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Design at least three prototypes of mathematics education content reflecting the visual learning characteristics of autistic children (e.g., formula visualization, shape manipulation, probability-based games), including specific activities like equation graph transformations, multi-step measurement simulations, and probability distribution bar charts.",
+    "Apply three core principles of multimedia cognitive learning theories (e.g., Paivio’s dual-coding theory) to draft an interactive educational tool prototype plan within two weeks, achieving over 80% suitability in peer reviews and expert evaluations. (Calculations: place value block manipulation, graph interpretation: dynamic data visualization, problem-solving simulation: step-by-step equation solving)",
+    "Write and present a case report on the application of the VHDLS framework through a PBL team project (equation visualization: variable manipulation interface, statistical data representation: interactive histograms, spatial reasoning activities: 3D shape rotation analysis).",
+    "Propose at least five visual element integration strategies to enhance attention span in autistic children (e.g., color-coded graphs with conditional formatting, pattern recognition activities: sequence visualization puzzles, measurement tool simulations: virtual rulers/scales, shape decomposition animations: fraction concepts, probability experiment visualization: virtual coin-toss animations)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PC",
+      "Educational Software Development Kit",
+      "Autistic Child Learning Data Sample",
+      "Multimedia Production Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

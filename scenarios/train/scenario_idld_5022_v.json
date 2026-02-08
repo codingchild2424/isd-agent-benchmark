@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5022-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Web Development Practical Competencies: Generative AI-Enhanced Environmental Science Behavioral Competency Instruction",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design three types of environmental problem analysis scenarios using generative AI and propose mathematically verifiable solutions.",
+    "Learners can develop personalized environmental action plans aligned with the ESA (Environmental Science Agency) competency framework at a level where over 80% implementation is feasible.",
+    "Teams can develop a 5-step verification checklist to assess the credibility of AI-generated content and validate its feasibility through practical application cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

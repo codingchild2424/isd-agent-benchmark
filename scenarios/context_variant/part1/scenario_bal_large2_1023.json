@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1023",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Social Studies Instructional Design Utilizing Learning Object Reuse Strategies",
+  "context": {
+    "prior_knowledge": "Fundamental digital device operation skills and foundational social studies knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A social studies re-education program for adult learners in corporate settings, conducted through activity-based learning in a BYOD environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design a content classification system with three types by analyzing reusable learning object structures (metadata, modularization)",
+    "Learners can implement linear/networked learning object sequencing strategies for social studies topics in two case-specific examples",
+    "Learners can verify reusable learning objects by distinguishing granularity levels (unit-topic-activity) against a five-criterion evaluation framework"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Three Types of Social Studies Standard Learning Object Templates",
+      "BYOD-Compatible Authoring Tool (LMS Plugin)",
+      "Learning Object Taxonomy Guidelines",
+      "Learning Sequence Design Workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

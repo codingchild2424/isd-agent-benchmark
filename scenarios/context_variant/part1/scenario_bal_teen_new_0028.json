@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0028",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Enhancing Mathematical Problem-Solving Skills Through Neurofeedback Training Based on Brain-Computer Interface",
+  "context": {
+    "prior_knowledge": "Basic mathematics knowledge and understanding of BCI/neurofeedback concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Application of a personalized training system that adjusts problem difficulty by analyzing individual learners' cognitive load in real time",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can monitor their cognitive states in real-time based on brain activity data measured via BCI devices",
+    "Learners can select optimal math problem difficulties and develop solution strategies through ZPD (Zone of Proximal Development) analysis",
+    "Learners can achieve over 20% score improvement in standardized math achievement tests after 4 weeks of training"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "BCI headset",
+      "Neurofeedback software",
+      "Customizable math problem database",
+      "LMS platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Business/HR/Admin Support"
+}

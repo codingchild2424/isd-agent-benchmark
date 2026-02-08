@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8086-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Workplace Professionals' Foundational English Skills in Science Through Web-Based English Microlearning",
+  "context": {
+    "prior_knowledge": "Grasp of elementary English syntax at the middle school level and recognition of introductory scientific terminology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course operated in a smartphone-centric limited-technology environment, aiming to improve scientific document interpretation and communication skills.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can appropriately apply 50 core scientific English vocabulary terms in context.",
+    "Learners analyze three web-based science lab reports from a mobile platform (e.g., PhET simulations), summarize each report’s core content in approximately 300 characters, and achieve at least 7 out of 9 points (clarity 3, completeness 3, logicality 3) on the evaluation rubric",
+    "Through weekly formative assessments, learners compose two science-related English emails and incorporate peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Web-based Microlearning Platform",
+      "Science field English content database",
+      "Mobile-friendly Simulation Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

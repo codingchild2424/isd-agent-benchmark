@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7501",
+  "variant_type": "idld_aligned",
+  "title": "Personalized Adaptive Mathematics Instructional Design: Needs-Based Learning Management",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and experience in using online learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized learning sequences for pre-service/in-service teachers to enhance mathematics instructional competencies",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze their instructional context requirements to design personalized learning pathways",
+    "Learners can select mathematics teaching strategies (concept explanation, problem-solving, etc.) using an adaptive learning management system",
+    "Learners can diagnose and improve personalized learning effectiveness through formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IMS LD-Based Learning Design Template",
+      "BPEL-Integrated Learning Management System (LMS)",
+      "CBR Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

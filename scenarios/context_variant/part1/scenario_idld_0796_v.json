@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0796-V",
+  "variant_type": "context_variant",
+  "title": "Gamification-Based Mathematics Competency Enhancement Program: G-Math Leader Course",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and ability to use digital devices",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-degree program for corporate managers/leaders aged 40+ aiming to develop applied mathematical skills through gamification elements",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply mathematical problem-solving strategies in a gamification environment with over 80% accuracy",
+    "Learners can enhance learning motivation by over 30% through game mechanics (points, badges, levels)",
+    "In 3–4 person teams, learners complete two collaborative missions (data analysis/optimization problems) over a three-week intermediate course and achieve a grade of 'B' (80–89 points) or higher in four of five evaluation criteria (problem-solving strategy, team contribution, result accuracy)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS-integrated game engine",
+      "Mobile-supported interactive content",
+      "Automated grading system",
+      "Virtual reward badge template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

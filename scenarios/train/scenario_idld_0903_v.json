@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0903-V",
+  "variant_type": "context_variant",
+  "title": "Information Design-Based Learning Experience Design: Mobile Microlearning for Pre-Service/In-Service Teachers",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Application of information design principles specialized for language education, considering smartphone-centric limited-technology environments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design secondary language learning materials using information structuring techniques (text/image layering, visual hierarchy setting).",
+    "Learners can produce mobile-optimized learning content by applying multimodality principles (text, audio, simple visuals).",
+    "Learners can develop applicable information design learning modules (5-minute microlearning) for real classroom settings through project-based assessment tasks."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible authoring tool",
+      "Open-source image/audio library",
+      "PDF-Based Learning Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4428-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Software Development Practical Competencies: Adaptive Hypermedia-Based Personalized Mathematics Learning Design",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners will be able to solve math problems tailored to their individual levels with 80% accuracy in an adaptive system based on IMS LD standards.",
+    "Learners can identify three or more causes of errors and develop corrective strategies through analysis of system-provided feedback.",
+    "Learners can improve their goal achievement rate by 20% within a week using the learning path adjustment feature."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

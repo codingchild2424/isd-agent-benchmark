@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-5387-V",
+  "variant_type": "context_variant",
+  "title": "Self-Directed Science Competency Enhancement Course Based on Blended Learning",
+  "context": {
+    "prior_knowledge": "Basic science theories and professional field-related practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Development of work-integrated science competencies for professionals in smartphone-centric limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can develop and implement self-directed learning plans based on Heutagogy principles in blended learning environments.",
+    "Learners can understand core concepts in science with an achievement rate of 85% or higher using mobile microlearning content.",
+    "Learners can improve collaborative problem-solving competencies by 70% through peer feedback systems on digital platforms.",
+    "Learners can diagnose individual knowledge gaps and develop compensatory strategies by analyzing learning data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Microlearning Science Videos (Under 5 Minutes)",
+      "Interactive Quiz/Simulation Tools",
+      "Learner Community-Embedded App",
+      "PDF-Based Offline Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

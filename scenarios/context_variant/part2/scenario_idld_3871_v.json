@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3871-V",
+  "variant_type": "context_variant",
+  "title": "Blended Learning-Based Advanced Language Simulation Education Program",
+  "context": {
+    "prior_knowledge": "Basic language learning experience and digital environment proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning environment combining traditional classroom instruction with online VR simulations. Students engage in interactive learning activities by experiencing real-world language use scenarios in virtual reality",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can engage in natural conversations in the target language for over 15 minutes in a VR simulation environment.",
+    "Learners can integrate online and offline materials in a blended learning environment to complete language projects (presentations, reports, etc.).",
+    "Learners can analyze and visualize language learning data using digital tools and improve learning strategies accordingly."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset and Motion Controller Set",
+      "Language learning-specific VR software license",
+      "Online Collaboration Platforms (e.g., Google Workspace)",
+      "Customized language assessment rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

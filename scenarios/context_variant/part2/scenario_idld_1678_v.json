@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1678-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Multimodal Learning Strategies for Integrated Representation: Consistent",
+  "context": {
+    "prior_knowledge": "Foundational social science theories and research methodologies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately interconnect given social phenomenon data with text and visual materials (graphs/charts) at an 80% accuracy rate.",
+    "Learners can identify references between multiple representations with over 70% accuracy using attention-guiding strategies (highlighting/color coding).",
+    "Learners can incorporate consistent interpretations between text and visual materials into integrated worksheets, reflecting peer feedback at least three times."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

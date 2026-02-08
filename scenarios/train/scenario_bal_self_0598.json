@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0598",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Instructional Design Workshop for Building a Pharmacy Education Assessment Culture",
+  "context": {
+    "prior_knowledge": "Basic understanding of pharmaceutical education design and evaluation methods, experience with VR/simulation tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A blended workshop for professional learners, including activities for analyzing actual assessment data and designing simulation-based improvement strategies.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participants can derive at least three actionable strategies for improving pharmacy education by analyzing assessment results",
+    "Participants can apply an instructional design framework to establish an assessment culture in VR-based simulation environments",
+    "Participants can build a real-time feedback system using formative assessment tools in BYOD environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Kit",
+      "Assessment Data Analysis Template",
+      "BYOD-Compatible Assessment Platform License"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

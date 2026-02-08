@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0705-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Designing Instructional Strategies for Transitioning Anatomy Laboratories to Online Platforms",
+  "context": {
+    "prior_knowledge": "Basic anatomy knowledge and experience using online learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Learners can explain four core elements (instructor presence, social interaction, cognitive engagement, technological accessibility) to consider when designing online anatomy practicums using the Delphi technique.",
+    "Learners can design an evaluation plan for the effectiveness of online anatomy practicals by applying mixed research methods.",
+    "Learners can develop three guidelines for creating anatomy practical content optimized for mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

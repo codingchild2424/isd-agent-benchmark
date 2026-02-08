@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6080-V",
+  "variant_type": "context_variant",
+  "title": "Virtual Environment Simulation-Based Nursing Practice Competency Enhancement Course",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Utilizes smartphone-accessible WebGL environment simulations to address lack of in-person practical opportunities and support repetitive learning",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Perform patient status assessment and emergency care procedures with 80% accuracy in a virtual simulation environment.",
+    "Improve critical thinking and decision-making skills by 30% through simulation-based case analysis.",
+    "Achieve over 85% performance in formative assessments (quizzes, scenario tests) provided by the online learning platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS System",
+      "WebGL-Based Virtual Simulation Content",
+      "Interactive 3D Patient Models",
+      "Automated Scoring Formative Assessment Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

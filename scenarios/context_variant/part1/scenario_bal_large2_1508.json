@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1508",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Virtual Reality-Based Elementary Science Laboratory Microlearning Course",
+  "context": {
+    "prior_knowledge": "Elementary science concepts and basic mobile device proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Science experiment education utilizing VR content accessible via smartphones, with mobile-optimized design considering environments without PCs.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can independently perform three or more virtual science experiments in a smartphone-based VR environment",
+    "Learners can document scientific reasoning processes with over 80% accuracy based on observations from VR lab experiments",
+    "Learners can produce a 3-minute video report explaining phenomena discovered in VR experiments through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR viewer",
+      "360-Degree Laboratory Video",
+      "Interactive quiz tool",
+      "Cloud-based Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5907-V",
+  "variant_type": "context_variant",
+  "title": "Artificial Intelligence Practical Competency Enhancement: Responsible AI Integration Strategies in Medical Education",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain three or more key applications and potential risks of AI in medical education.",
+    "Learners can analyze the impact of AI dependency on instructional autonomy and educational ethics from two perspectives.",
+    "Learners can design a three-stage (introduction-evaluation-improvement) sustainable AI integration strategy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

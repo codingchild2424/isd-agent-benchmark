@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4113-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Remote Education Network Analysis: Research Capabilities Utilizing Citation Data",
+  "context": {
+    "prior_knowledge": "Basic social science research methods and digital literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "One can visualize the influence relationships of academic journals in the field of distance education using citation network analysis tools.",
+    "Through project-based team activities, one can identify three or more academic network patterns (e.g., centrality, clusters).",
+    "Based on analysis results, one can write a 5-page report on research trends in the field of distance education."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE3-0083",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Ontology-Based Learning Object Design and Recommendation Strategies",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and understanding of data analysis concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners can collaborate in real-time and access resources via personal devices, with formative assessments provided for in-depth subject-specific learning.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain ontology design principles based on the Learning Object Metadata (LOM) standard",
+    "Learners can generate three or more linkage rules between learning objects using the OWL/SWRL rule language",
+    "Learners can operate a personalized learning object recommendation system by analyzing domain knowledge graphs"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Protégé ontology editor",
+      "OWL/SWRL Language Guide",
+      "Science Domain Learning Object Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

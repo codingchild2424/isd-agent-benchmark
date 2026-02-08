@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0625",
+  "variant_type": "idld_aligned",
+  "title": "Bladder Cancer Recurrence Prediction Modeling Using Digital Pathology and Clinical Data",
+  "context": {
+    "prior_knowledge": "Comprehension of basic medical terminology and familiarity with fundamental concepts of machine learning/deep learning",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Training for corporate practitioners interested in medical AI solution development",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain preprocessing and segmentation techniques for digital pathology slide images",
+    "Perform step-by-step design procedures for deep learning models integrating clinical and image data",
+    "Apply model performance evaluation methods using ROC curves and AUC metrics"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Pathology Slide Sample Dataset",
+      "Jupyter Notebook Environment",
+      "Python-based deep learning library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

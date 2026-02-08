@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1116-V",
+  "variant_type": "context_variant",
+  "title": "Experimental Demonstration and Discussion-Based Learning for Understanding Electric Circuit Concepts",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Collaborative and real-time feedback-enabled environment utilizing learner-owned devices (BYOD)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately identify 80% or more of core electrical circuit phenomena (current, voltage, resistance changes) by observing experimental demonstrations",
+    "Learners can appropriately apply scientific principles (such as Kirchhoff's Laws) to explain complex electrical circuit phenomena in 70% or more of discussion activities",
+    "Learners can logically structure electrical circuit problem-solving strategies based on prior lecture content in 85% or more of individual assignments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Basic Electricity Experiment Kit (Diodes, Resistors, Light Bulbs, Multimeter, etc.)",
+      "Large-Screen Projector and Experimental Demonstration Equipment",
+      "Digital Collaboration Tools (Google Jamboard, Padlet, etc.)",
+      "LMS (Learning Management System) Account"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

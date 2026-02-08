@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4976-V",
+  "variant_type": "context_variant",
+  "title": "Mathematics Learning Material Design Utilizing Embedded Support Tools in Remote Education Environments",
+  "context": {
+    "prior_knowledge": "College-Level Mathematics Foundations and Job-Related Applied Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A non-degree advanced mathematics course for working professionals, with a flexible learning environment using personal devices",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will be able to explain mathematical problem-solving processes with 80% or higher accuracy using digital learning materials embedded with Embedded Support Devices (ESDs).",
+    "Learners successfully analyze case studies presented in ESD-based materials at least three times using prior knowledge (practical calculus, linear algebra).",
+    "Learners reduce individual learning gaps by at least 50% within two weeks through assessment tools embedded with a feedback system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive math simulation software",
+      "Cloud-based Collaboration Platform",
+      "Automated grading system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

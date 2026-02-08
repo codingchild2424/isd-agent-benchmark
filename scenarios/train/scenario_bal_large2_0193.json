@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0193",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Project-Based STEM Education Utilizing Augmented Reality (AR) for Higher Education [Large-Scale]",
+  "context": {
+    "prior_knowledge": "Foundational science theories and experience utilizing digital tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners develop prototypes using AR technology to solve real scientific problems, collaborating and engaging in self-directed learning in a BYOD environment.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Virtual simulation models of physical science laboratory equipment can be designed using AR technology",
+    "AR-based data visualization and interactive systems can be implemented for STEM problem-solving",
+    "Learners can collaborate with team members in PBL environments to develop AR solutions and receive project evaluations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Development Platform (Unity/ARKit/ARCore)",
+      "3D Modeling Tools (Blender/Tinkercad)",
+      "Hybrid Virtual-Physical Science Experiment Kit",
+      "Collaboration Management Tools (Google Workspace)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

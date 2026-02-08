@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1740",
+  "variant_type": "idld_aligned",
+  "title": "Workshop on Hybrid Class Design and Efficiency Improvement Based on Genetic Algorithm Optimization",
+  "context": {
+    "prior_knowledge": "Basic educational technology theories and experience with digital learning platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Graduate students acquire blended instruction design methodologies using the UMU ILP platform and develop algorithm-based optimization strategies",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "When designing blended instruction, derive optimal combinations of educational activities with 85%+ accuracy using genetic algorithms (GA).",
+    "Propose methods to improve learner engagement by 20%+ by designing and applying mobile learning materials on the UMU ILP platform.",
+    "Measure educational efficiency indicators (average fitness ≥0.86) using a GA model integrated with a simulated annealing algorithm."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "UMU ILP Platform License",
+      "GA Simulation Software",
+      "Mobile Learning Content Authoring Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

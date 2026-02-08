@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0756",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Strategies for Enhancing Language Education Outcomes in Blended Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and experience utilizing digital learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Operating role-playing simulations and real-time feedback systems using VR in a BYOD (Bring Your Own Device) environment.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can autonomously complete language practice modules in a blended learning environment with an 80% or higher completion rate.",
+    "Learners can improve their language proficiency (speaking/listening) by 25% compared to baseline assessments through online-offline interactions.",
+    "Learners can compose and incorporate peer feedback at least three times using Learning Management System (LMS) tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR device rental set",
+      "LMS subscription licenses",
+      "Simulation content packages",
+      "Real-time video conferencing systems"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

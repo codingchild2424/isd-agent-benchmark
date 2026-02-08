@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0358-V",
+  "variant_type": "context_variant",
+  "title": "AI chatbot-integrated nursing simulation-based education course",
+  "context": {
+    "prior_knowledge": "Elementary nursing knowledge and mobile device operation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emergency planning simulation training program operating in smartphone-based constrained technological environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "In AI chatbot-assisted nursing simulation scenarios, learners can select at least three appropriate emergency measures based on patient conditions",
+    "Learners can analyze decision-making processes in simulation environments through interactions with AI chatbots according to structured evaluation rubrics",
+    "Learners can submit project deliverables improving simulation prompt design and interaction strategies based on AI chatbot feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible AI chatbot platform",
+      "Mobile-Optimized Simulation Content",
+      "Structured assessment rubric template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

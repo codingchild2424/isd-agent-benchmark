@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6806-V",
+  "variant_type": "context_variant",
+  "title": "Workflow-Based Double-Loop Learning for Professional Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Advanced expertise in the relevant field (medical/legal/technical) and proficiency in basic online learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Professionals in healthcare, law, and technology reconstruct real-world work processes in a virtual enterprise environment, experiencing double-loop learning.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze complex workflows using workflow modeling tools and derive three or more improvement strategies.",
+    "Learners can apply meta-reflective thinking to existing workflows through project-based assessments and perform two or more process revisions.",
+    "Learners can design customized learning pathways applicable to real-world scenarios by combining workflow blocks through collaboration with peers."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Workflow Modeling Software",
+      "Virtual Enterprise Simulation Materials",
+      "Dynamic Atomic Action (Action) Template Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

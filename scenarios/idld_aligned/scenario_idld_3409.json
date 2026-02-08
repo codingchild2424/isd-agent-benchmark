@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3409",
+  "variant_type": "idld_aligned",
+  "title": "Introduction to Machine Learning Modeling for Predicting Colorectal Cancer Metastasis",
+  "context": {
+    "prior_knowledge": "Understanding of basic statistics, programming (Python), and machine learning concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Convergence education program interpreting medical data analysis through linguistic approaches",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the design process of a machine learning prediction model utilizing medical diagnostic codes.",
+    "Implement a machine learning pipeline from data preprocessing to model evaluation",
+    "Derive insights into risk factors for colorectal cancer metastasis through variable importance analysis"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Machine Learning Libraries (Scikit-learn, XGBoost)",
+      "Medical Diagnosis Code Sample Dataset",
+      "Mobile-compatible Jupyter Notebook environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

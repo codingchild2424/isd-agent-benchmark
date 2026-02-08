@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3547-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Game Learning Design: Social Sector Practitioner Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Basic social studies theory and practical work experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "15-20 minute modular learning via mobile devices, integrating game mechanics with social education content",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners design social problem-solving simulation games to achieve 80% or higher learner engagement.",
+    "Learners analyze three or more types of learner performance data using game-based assessment tools.",
+    "Learners develop two or more mobile-optimized game-based learning scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Game Development Tool (Unity/Unreal Engine Educational License)",
+      "LMS Integration API",
+      "Social Field Expert Consultation (4 Hours)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0026",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Culturally Contextualized Computing Education Design",
+  "context": {
+    "prior_knowledge": "Fundamental computer literacy and understanding of social diversity",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A VR simulation environment that integrates computing concepts and social values by reflecting learners' cultural backgrounds.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design problem-solving scenarios integrating cultural elements and computing concepts in a VR environment.",
+    "Learners can explain an algorithm design process reflecting the cultural context of the local community.",
+    "Learners can revise computing activity plans based on formative assessment feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Multicultural Content Library",
+      "Simulation/VR Development Kit",
+      "BYOD-compatible learning management system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

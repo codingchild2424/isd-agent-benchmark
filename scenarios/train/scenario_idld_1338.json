@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1338",
+  "variant_type": "idld_aligned",
+  "title": "Variation Theory-Based Educational Software Design Course",
+  "context": {
+    "prior_knowledge": "Basic understanding of educational technology and experience with software applications",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are office/managerial professionals interested in software design for language education, operating in a digital device-enabled learning environment. Project-based assessments validate practical application skills.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply the four design principles of variation theory (guiding learning, clarifying learning objects, exploring variation, maintaining invariance) to educational software.",
+    "Learners can analyze target language learning elements and concretely plan software interface design accordingly.",
+    "Learners can develop interactive modules in an LMS environment that accommodate large-scale learner groups."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Educational Software Prototype Tool",
+      "Language Learning Content Sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

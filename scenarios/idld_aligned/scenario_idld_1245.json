@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1245",
+  "variant_type": "idld_aligned",
+  "title": "Second Language Vocabulary Learning Program Using Multimodal Tools",
+  "context": {
+    "prior_knowledge": "Basic second-language vocabulary comprehension skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducted through parallel real-time video lectures and mobile applications in smartphone-based limited-technology environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can recognize and utilize 300 beginner-level vocabulary words in the target language (Chinese) with over 80% accuracy after six months.",
+    "Learners can determine the semantic consistency between emojis and text with 90% accuracy.",
+    "Learners can independently apply vocabulary-learning strategies using multimodal tools (emojis + text)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom",
+      "Mobile Vocabulary Learning Application",
+      "Emoji Database",
+      "Weekly Learning Activity Worksheet (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

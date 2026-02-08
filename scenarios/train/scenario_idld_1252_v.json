@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1252-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Medical Practical Competencies: Personalized Science Learning Pathway Design",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners understand and explain job-related scientific concepts with over 80% accuracy",
+    "Learners complete a 4-week personal learning path (3 modules per week, 12 total modules) provided by a corporate-customized LMS system, pass module quizzes (over 80% score) and a final science competency certification exam (over 70% score) to achieve target science competencies",
+    "In project-based assessments, learners apply scientific knowledge to propose solutions for three real-world work scenarios (e.g., patient data analysis, infection control protocol design, medical equipment usage training) and achieve over 4 points (on a 5-point scale) in four of five evaluation rubric items (problem definition accuracy, scientific rationale appropriateness, feasibility, creativity, report completeness)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

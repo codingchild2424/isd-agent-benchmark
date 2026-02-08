@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3748-V",
+  "variant_type": "context_variant",
+  "title": "Software Development Practical Competency Enhancement: Blended Learning Model Design for Online Engineering Education",
+  "context": {
+    "prior_knowledge": "Fundamental engineering theories and practical hands-on experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the design principles of online engineering education utilizing blended learning models.",
+    "Learners can design three or more integrated offline/online educational modules (e.g., GitHub collaboration + in-person workshop) within two weeks and submit development outcomes meeting project evaluation rubrics (goal achievement ≥80%, user feedback incorporation ≥70%).",
+    "Learners construct interactive learning environments using digital devices and establish operational strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2137-V",
+  "variant_type": "context_variant",
+  "title": "Formative Assessment Process Based on Peer Feedback for Scientific Writing",
+  "context": {
+    "prior_knowledge": "Fundamental scientific terminology and understanding of writing structures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile learning in BYOD environments, operating a peer assessment system to enhance scientific writing competencies",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can revise the argumentative structure of scientific writing with 80% accuracy based on peer feedback.",
+    "Learners can supplement the scientific rationale of writing by over 70% according to peer evaluation.",
+    "Learners participate in the process of exchanging feedback at least twice via a mobile platform with over 90% engagement."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Scientific Writing Template",
+      "Assessment Rubric",
+      "Sample Feedback Case Studies"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

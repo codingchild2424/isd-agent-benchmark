@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5227-V",
+  "variant_type": "context_variant",
+  "title": "Science Simulation Instructional Design Based on Cognitive Task Analysis",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Science education environment emphasizing experimental process and problem-solving skills through smartphone-based VR simulations",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Through cognitive task analysis (CTA), learners can identify core cognitive stages of science experiments with 80% accuracy.",
+    "In simulation/VR environments, learners can replicate expert-level thinking processes in science problem-solving with at least 70% accuracy.",
+    "Using CTA-based feedback, learners can reduce experimental design errors by at least 60%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Equipment",
+      "CTA-Based Learning Content Template",
+      "Mobile-Optimized LMS System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

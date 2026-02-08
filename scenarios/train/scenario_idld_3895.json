@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3895",
+  "variant_type": "idld_aligned",
+  "title": "Impact of Online Science Learning Application Design Quality on Secondary Learners’ Performance",
+  "context": {
+    "prior_knowledge": "Basic Understanding of Scientific Concepts and Digital Device Usage Skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Utilizing various online science applications in a BYOD environment, measuring learning effectiveness through project-based assessments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can establish learning tool evaluation criteria by analyzing the four core design elements (information quality, information organization, technology utilization, technology organization) of online science applications",
+    "Learners can diagnose their own enjoyment, motivation, and anxiety levels when using applications and explain correlations with design quality",
+    "Learners can demonstrate the process of selecting and applying optimal design applications through project-based tasks"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Sample of 50 online applications in science fields",
+      "Instructional Design Quality Assessment Checklist",
+      "Learning Psychology Survey Instrument"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

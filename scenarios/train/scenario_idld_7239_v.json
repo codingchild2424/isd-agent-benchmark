@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7239-V",
+  "variant_type": "context_variant",
+  "title": "IVA-Based Customized English Learning Design for Beginner EFL Learners",
+  "context": {
+    "prior_knowledge": "Foundational English vocabulary and grammar knowledge (middle school level)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Course involving interaction with IVA in smartphone-based LMS environments to learn situational job-related English expressions. Strengthens language proficiency applicable to real employment scenarios through project-based assessment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Through daily conversations with an IVA (Intelligent Virtual Agent), learners can achieve beginner-level English speaking fluency (CEFR A1–A2).",
+    "Learners can use essential job-related expressions (e.g., resume writing, interview practice) with 80% accuracy.",
+    "Based on personalized feedback from an IVA, learners can create and implement self-directed learning plans."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "English Learning IVA with Voice Recognition Support",
+      "Job-Situation-Based Interactive Scenario Database",
+      "Mobile Device-Compatible Quiz-Based Assessment System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

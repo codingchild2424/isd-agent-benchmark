@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3147",
+  "variant_type": "idld_aligned",
+  "title": "Project-Based Learning for Diagnosing and Improving Misconceptions in Engineering Metallurgy Concepts",
+  "context": {
+    "prior_knowledge": "Understanding of basic metallurgy terminology and physical properties",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Blended learning program in smartphone-centric limited-technology environments with flexible scheduling for working professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Diagnose and correct three major misconceptions about metal crystalline structures and phase transition processes",
+    "Submit project results identifying peers' misconceptions through concept mapping and diagnostic assessments with 80% accuracy",
+    "Explain causal relationships in metallurgical phenomena in three or more stages through blended learning activities (video lectures, group discussions, assignments)"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Offline Worksheet Templates",
+      "Simple Metal Specimen Kit",
+      "Concept Mapping Tool App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

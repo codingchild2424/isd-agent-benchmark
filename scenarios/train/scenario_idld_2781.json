@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2781",
+  "variant_type": "idld_aligned",
+  "title": "Parachute Jumping Procedure Training: Simulation-Based Educational Program",
+  "context": {
+    "prior_knowledge": "Basic aviation safety knowledge and physical coordination abilities",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended learning program for undergraduate students targeting military/aviation careers, fostering systematic understanding and application of parachute descent procedures through integrated theory and practice",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain safety procedures and equipment usage for parachute jumps with over 80% accuracy.",
+    "Learners will successfully perform appropriate decision-making and response procedures in emergency situations at least three times through simulation training.",
+    "Learners will collaborate with team members to establish and execute role distribution and communication strategies during parachute descent."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Based Simulation App",
+      "Virtual Reality (VR) Experience Equipment (Shared Use)",
+      "Parachute Model Kit",
+      "Safety Manual PDF"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

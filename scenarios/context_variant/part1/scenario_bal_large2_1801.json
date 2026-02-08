@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1801",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Multidisciplinary Engineering Design Project: Strengthening Practical Language and Communication Competencies Through Blended Learning (Integrated Assessment of Technical Reports, Presentations, and Q&A)",
+  "context": {
+    "prior_knowledge": "Foundational engineering theories and discipline-specific expertise (electrical/chemical/mechanical/civil) + basic grammar for technical writing (sentence structure, tense agreement) + understanding of specialized terminology (core vocabulary by engineering field) + logical expression skills for presentations",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning course where engineering learners collaborate on projects in limited-technology environments (smartphone-centric). Evaluates technical report writing (grammar, jargon, structure), presentation skills (logical flow, visual effects), and jargon usage (accuracy, appropriateness). Develops comprehensive communication competencies through peer assessment and feedback integration",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "In multidisciplinary teams (4-5 members), learners develop design solutions reflecting technical, economic, social, and environmental constraints. They achieve ≥ 70/100 points in evaluation criteria (creativity 25%, feasibility 30%, social impact 25%, economic viability 20%) through a 10-minute presentation (structured logic, specialized terminology) and 5-minute Q&A (professional communication strategies).",
+    "Learners apply agile/scrum frameworks in blended learning environments, collaborate with 3-5 teammates, achieve ≥ 80% task completion using Jira or Trello, and submit within deadlines: a 10+ page technical report (specialized terminology, accurate grammar, logical structure) and 15+ slide presentation (visual expression, clear text).",
+    "Learners document decision-making processes in 3 stages (design/implementation/verification) via reflective practice in 1 engineering design project. They produce technical documents and presentation materials meeting ≥ 4 of 5 peer rubric items (grammar accuracy, terminology appropriateness, logical consistency, visual effectiveness, social impact), incorporate ≥ 3 feedback items, and submit a final report."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Cloud-based collaboration tools (e.g., Google Workspace)",
+      "Virtual Design Simulation App",
+      "Case Study Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

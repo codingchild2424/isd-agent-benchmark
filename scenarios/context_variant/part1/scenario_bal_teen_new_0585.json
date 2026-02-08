@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0585",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Microalgae Cultivation and Biogas Digestate Utilization Experimental Design Project",
+  "context": {
+    "prior_knowledge": "Foundational knowledge in biology and chemistry, along with basic data analysis skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners collect and analyze experimental data in BYOD (Bring Your Own Device) environments, improving decision-making tool development through formative assessments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze the impact of microalgae cultivation environmental variables (pH, temperature, electrical conductivity, etc.) on productivity using experimental data.",
+    "The correlation between nitrogen concentration in biogas digestate and microalgal growth can be expressed through a mathematical model.",
+    "A decision support tool (DST) prototype based on real-time measurement data can be designed."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Experimental Kit (10 Sets)",
+      "Portable Water Quality Measurement Device (30 Units)",
+      "DST Development Template",
+      "Experimental Data Analysis Workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

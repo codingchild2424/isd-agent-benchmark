@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2201",
+  "variant_type": "idld_aligned",
+  "title": "Learning Analytics-Based Personalized Mathematics Education Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and experience in using online learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Case-based instructional design to strengthen the connection to current practitioners' work",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will identify individual math learning patterns with over 80% accuracy using learning analytics tools.",
+    "Learners will design and apply personalized feedback systems based on learning data at least three times.",
+    "Learners will execute learning path adjustments with over 90% participation based on formative assessment results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Learning Analytics Dashboard Template",
+      "Zoom Video Conferencing System",
+      "Google Forms-Based Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

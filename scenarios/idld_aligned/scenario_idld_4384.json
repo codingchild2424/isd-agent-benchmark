@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4384",
+  "variant_type": "idld_aligned",
+  "title": "Gamification-Based MOOC Design for Job-Oriented ESP Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Basic English communication skills and understanding of fundamental job-related terminology",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Need to improve job-specific English proficiency, including mathematical concepts, for administrative/managerial professionals.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can utilize 50 job-related mathematical terms with 80% accuracy using gamification elements.",
+    "Learners complete five types of work simulation scenarios through role-play missions (quests) within a digital platform.",
+    "Learners submit job report projects, including mathematical analysis, through collaborative mission performance."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Gamified learning platform license",
+      "Job simulation scenario template",
+      "Automated grading system",
+      "Mobile-Compatible Content Authoring Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

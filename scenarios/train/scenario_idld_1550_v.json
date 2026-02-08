@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1550-V",
+  "variant_type": "context_variant",
+  "title": "Integrated Digital Anatomy Simulation Education Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic human anatomy terminology and structures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A language education course operating in a smartphone-centered, limited-technology environment, measuring learning outcomes through project-based assessments.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the spatial relationships of human organs with 80% accuracy using a 3D anatomy platform.",
+    "Learners can develop a step-by-step protocol to analyze anatomical structures by applying visualization tools within the platform.",
+    "Learners can describe anatomical terminology in the target language (English/Korean) with over 90% accuracy through interaction with digital tools."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Compatible 3D Anatomy Application",
+      "Offline Tutorial Guide",
+      "Collaborative Learning Workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

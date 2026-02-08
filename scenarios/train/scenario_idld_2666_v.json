@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2666-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Web Development Practical Skills: Cultural-Based Indigenous Numeracy System Education",
+  "context": {
+    "prior_knowledge": "Basic grasp of mathematical concepts and foundational awareness of one’s native language",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately represent numbers up to 100 by utilizing the base-20 structure of indigenous numeral systems.",
+    "Learners can complete a project explaining the historical background and cultural significance of their own cultural numeral systems.",
+    "Learners can write an analytical report comparing the differences between indigenous and Western numeral systems."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2351-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Formative Assessment Design for Continuing Medical Education Evaluation",
+  "context": {
+    "prior_knowledge": "Basic knowledge in medical fields and foundational concepts of educational assessment",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in a smartphone-based limited-technology environment, enabling real-time feedback and flexible learning schedules",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can select appropriate assessment types (formative/summative) according to educational activity objectives with 80% or higher accuracy.",
+    "Learners can design five or more assessment questions for each cognitive, psychomotor, and affective domain.",
+    "Learners can establish a data collection system using triangulation techniques (surveys, quizzes, peer evaluations) in mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Assessment Platform",
+      "CME Evaluation Guidelines Document",
+      "Simplified Quiz Creation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

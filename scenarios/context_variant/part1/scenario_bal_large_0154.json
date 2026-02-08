@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0154",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Nursing Practice Education Competency Enhancement Program Utilizing Digital Resources",
+  "context": {
+    "prior_knowledge": "Knowledge of basic nursing theories and practical clinical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Online real-time education for practicing professionals, constructing digital resource-based learning environments using personal devices (BYOD)",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners (nursing educators) can design three or more practical student evaluation processes using digital platforms.",
+    "Learners (nursing educators) can develop two or more communication systems among practical stakeholders (students-institutions-educators) using online collaboration tools.",
+    "Learners (nursing educators) can produce and apply one practical education scenario using digital simulation content."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Simulation Software",
+      "Online Collaboration Platforms (ZOOM/Slack, etc.)",
+      "Practical Assessment Digital Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

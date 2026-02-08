@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0064",
+  "variant_type": "idld_aligned",
+  "title": "Teachware-Based Self-Directed Competency Development Course: Simulation Learning in Science",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and fundamental smartphone usage skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Establishes a self-directed learning environment utilizing VR simulations and teachware in smartphone-centric limited-technology settings",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can independently explore and utilize Teachware content to solve practical problems in science domains.",
+    "Learners can virtually design and execute science experiments via VR simulations and analyze results.",
+    "Learners can compose self-reflection reports and incorporate peer feedback through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible Teachware content",
+      "VR simulation app",
+      "Offline Workshop Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

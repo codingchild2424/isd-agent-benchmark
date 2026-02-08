@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5081",
+  "variant_type": "idld_aligned",
+  "title": "Development Process of Web Course Learning Objects Based on IMS Learning Design",
+  "context": {
+    "prior_knowledge": "Elementary web development and educational technology comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Strengthening practical social studies education content development with learner-customized simulation environments for skill reinforcement",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Cultivating the ability to structure and design learning objects using IMS LD specifications",
+    "Acquiring practical skills to develop web-based learning objects in simulation/VR environments",
+    "Completing project-based assessment tasks through collaboration and measuring learning outcomes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IMS Learning Design (LD) Editor",
+      "VR Development Toolkit",
+      "Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

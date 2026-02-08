@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5233",
+  "variant_type": "idld_aligned",
+  "title": "Fuzzy Logic-Based Language Learning Task Sequencing Design",
+  "context": {
+    "prior_knowledge": "Basic language communication competencies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Need to provide flexible learning pathways for improving workplace language proficiency for employees.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can utilize situation-specific workplace language expressions with at least 80% accuracy.",
+    "Learners design personalized learning pathways through a fuzzy logic-based task sequencing system.",
+    "Learners demonstrate their ability to apply language in real-world work environments through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital Learning Materials",
+      "Online Collaboration Tools",
+      "AI-Based Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

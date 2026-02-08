@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0396",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Project-based Learning Design in Earth Science for Elementary Students",
+  "context": {
+    "prior_knowledge": "Experience observing natural phenomena in daily life and understanding basic scientific terminology (weather, topography, etc.)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Environment enabling field observation and data collection via smartphones, with collaborative spaces configured within classrooms",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can observe and document topographical features and climate conditions of their surroundings using smartphone apps.",
+    "Students can present a simple model explaining the correlation between topography and climate based on collected data.",
+    "Students can present the process of applying Earth science concepts to solve everyday problems through team projects."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphones (10 units)",
+      "Basic Measurement Tools (Thermometer, Hygrometer, etc.)",
+      "Field Observation Worksheet",
+      "Regional Map Printout"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

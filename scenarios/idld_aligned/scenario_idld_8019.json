@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8019",
+  "variant_type": "idld_aligned",
+  "title": "Federated Learning and Wireless Communication Optimization Practical Course",
+  "context": {
+    "prior_knowledge": "Machine learning basics, wireless communication systems understanding, distributed computing concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Acquiring optimization techniques to solve real-time data processing issues in mobile edge network environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can explain communication efficiency improvement strategies for federated learning (FL) tailored to wireless channel characteristics",
+    "Students can design solutions to the straggler problem using Reconfigurable Intelligent Surface (RIS) technology",
+    "Students can apply a federated learning (FL) convergence performance analysis framework that accounts for model aggregation errors to practical scenarios"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile LMS Platform",
+      "Simulation Software (Mobile-Compatible)",
+      "Wireless Communication Optimization Casebook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

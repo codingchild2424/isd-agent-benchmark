@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4277-V",
+  "variant_type": "context_variant",
+  "title": "Feedback-Based Web Education for Enhancing Language Teaching Competencies",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-based learning environment for non-degree-seeking adult learners, featuring an advanced language education specialization course",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can write improvement proposals reflecting feedback with 80% or higher accuracy for language education scenarios provided on web-based platforms.",
+    "Learners achieve a proficiency level of 4 or higher (on a 5-point scale) in peer assessments and automated grading systems after three repeated practice sessions through online exercises.",
+    "Learners demonstrate a navigation efficiency of 90% or higher in nonlinear navigation environments and can selectively utilize required learning materials."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Automated Feedback System",
+      "Peer Assessment Template",
+      "Multimedia Language Resources"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

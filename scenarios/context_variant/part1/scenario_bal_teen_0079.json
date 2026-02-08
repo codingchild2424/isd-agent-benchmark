@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0079",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Mastering Middle School Mathematics Concepts Through Adaptive Scaffolding",
+  "context": {
+    "prior_knowledge": "Basic Arithmetic Operations and Fundamental Algebraic Knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized learning pathways based on conceptual hierarchy and misconception diagnosis, delivered through an LMS optimized for smartphone environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform three-tier scaffolding activities, which dynamically adjust based on conceptual understanding, with over 80% accuracy.",
+    "Over 90% of learners pass concept connection explanation assessments by visualizing relational networks between mathematical concepts.",
+    "Through misconception diagnostic quizzes, learners can improve individual error patterns by over 70%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Concept-Based Digital Learning Module",
+      "Adaptive Item Database",
+      "Smartphone-Compatible LMS",
+      "Automated Scaffolding Algorithm"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

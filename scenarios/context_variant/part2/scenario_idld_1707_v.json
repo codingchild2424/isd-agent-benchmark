@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1707-V",
+  "variant_type": "context_variant",
+  "title": "Advanced Anatomy Learning Course Based on Ultrasound Imaging",
+  "context": {
+    "prior_knowledge": "Foundational anatomy knowledge and experience interpreting medical imaging",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Intensive training program utilizing mobile devices in environments with limited access to practical equipment.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify major anatomical structures of the thorax and abdomen in ultrasound images with 90% accuracy.",
+    "Learners can explain the correlation between anatomical knowledge and ultrasound imaging to apply it to clinical cases.",
+    "Learners can complete self-directed practical content via a mobile learning platform at least three times per week."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Ultrasound Simulator App",
+      "3D Anatomy Model Library",
+      "Weekly Learning Progress Tracking System",
+      "Video Lecture Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

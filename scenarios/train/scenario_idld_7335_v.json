@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7335-V",
+  "variant_type": "context_variant",
+  "title": "Science Job Integrated Learning Design: Activity Theory-Based Simulation Education",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Educational program for current science professionals, simulating real work environments through VR/simulation. Emphasizes collaboration among learners and role-playing with external experts",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply Engeström’s activity system model to design work processes for solving scientific job-related problems.",
+    "Learners can analyze client requirements in a VR simulation environment and propose science-based solutions.",
+    "Learners can perform real scientific research/development scenarios with peers, establishing role distribution and collaboration strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Field VR Simulation Content",
+      "Activity Theory Framework Template",
+      "Client Role-Play Scenario Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3611",
+  "variant_type": "idld_aligned",
+  "title": "Augmented Reality-Based Social Inquiry Game Design Project",
+  "context": {
+    "prior_knowledge": "Basic smartphone operation skills and understanding of fundamental social concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "An augmented reality game development project for working professionals to enhance social domain competencies, designed and implemented as an educational AR game executable in smartphone-based limited-technology environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design narrative-based game scenarios simulating social situations using augmented reality technology",
+    "Learners can develop field-trip-linked educational content by applying location-based AR technology",
+    "Learners can establish educational effectiveness measurement metrics and write outcome reports according to project-based assessment criteria"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR development toolkit (Unity + AR Foundation)",
+      "360-degree camera equipment",
+      "Spatial awareness sensor kit",
+      "Educational 3D Asset Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8276-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Instructional Design for Statistical Epistemological Knowledge Formation",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Emphasizes data collection/analysis activities through bring-your-own-device (BYOD). Facilitates transition from tacit insights to explicit understanding via team-based statistical projects",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply and interpret technical statistical concepts (e.g., mean, variance) through project-based learning using real-life data.",
+    "Learners can justify statistical reasoning processes through peer feedback in collaborative activities based on the TDS-SECI model.",
+    "Learners can structure data analysis results at the extended abstract level of thinking through project presentations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Statistical Tools (Google Sheets, Excel, etc.)",
+      "Data Visualization Templates",
+      "Project Assessment Rubric",
+      "Collaborative learning guide document"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

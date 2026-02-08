@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3235-V",
+  "variant_type": "context_variant",
+  "title": "Training on Utilizing Reading Software Evaluation Frameworks",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Aims to strengthen competencies in developing assessment tools within smartphone-based learning environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the three core elements of a research-based assessment framework (interface, pedagogy, content)",
+    "Learners can utilize reading software evaluation checklists in smartphone environments with 80% or higher accuracy",
+    "Based on assessment results, learners can comparatively analyze three software types tailored to learner characteristics"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Compatible Assessment Guidelines (PDF)",
+      "Open-Source Assessment Template",
+      "Sample Software Inventory"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5233-V",
+  "variant_type": "context_variant",
+  "title": "Science Learning Task Sequencing Design Based on Fuzzy Logic",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized task design for novice professionals in medical, legal, and technical fields.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain and apply principles of fuzzy logic-based instructional strategies",
+    "Learners can analyze scientific learning tasks using a 0-1 scale based on subjective correlations",
+    "Learners can derive all possible combinations of learning task sequences under given constraints"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Fuzzy Logic Calculator Tool",
+      "Science-Topic Learning Material Package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

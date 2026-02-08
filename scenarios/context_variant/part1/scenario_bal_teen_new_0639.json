@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0639",
+  "variant_type": "balance_teen_filtered",
+  "title": "Comparative Instructional Conditions for Improving [K-12] Online Public Speaking Skills",
+  "context": {
+    "prior_knowledge": "Basic presentation skills and public speaking experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Provision of personalized learner feedback and comparative research across six experimental conditions (video lectures, real-time chat, recorded presentations, peer evaluation, AI analysis, blended mode)",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can acquire public speaking skills under six experimental conditions and compare effectiveness across conditions to select optimal methods",
+    "Students can produce and present persuasive speeches three or more times using techniques that implement instructor presence and peer interaction in online environments",
+    "Students can improve speech content through peer feedback and AI analysis tools, achieving over 80% completion ratings in final presentations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Recording presentation tool",
+      "Peer assessment system",
+      "AI voice/video analysis software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

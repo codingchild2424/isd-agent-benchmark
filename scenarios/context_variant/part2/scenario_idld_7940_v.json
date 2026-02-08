@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7940-V",
+  "variant_type": "context_variant",
+  "title": "Statistical Sampling and Evidence-Based Argumentation: Collaborative Learning for Real-World Problem Solving",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Targets learners in economically vulnerable environments, enabling resource collection and collaborative learning via smartphones",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can construct data-driven arguments about social issues by utilizing sampling methods",
+    "Learners can enhance their argumentation skills for solving real-life problems by using survey data rather than personal opinions",
+    "Learners can explain how collected data supports their arguments by applying sampling concepts"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Newspaper Article Materials",
+      "Smartphone-Based Data Collection Tool",
+      "Low-Cost Printed Materials",
+      "Collaborative Learning Activity Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

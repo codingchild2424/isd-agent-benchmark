@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0158",
+  "variant_type": "balance_medium_scale",
+  "title": "Physiology Simulation and PACS Integrated Education Program",
+  "context": {
+    "prior_knowledge": "Fundamental medical/life science knowledge and IT system operation experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Customized training for collaboration between current medical and IT practitioners.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Normal and abnormal responses of human body systems can be accurately analyzed using physiology simulation tools.",
+    "The core functions of PACS systems (image storage/retrieval/sharing) can be independently operated in practical settings.",
+    "Collaborative protocols can be developed to bridge knowledge gaps between medical and IT fields."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Simulation Platform",
+      "Virtual environment for PACS practical training",
+      "Interactive Learning Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

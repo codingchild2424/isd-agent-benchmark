@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0976",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Project for Developing a Self-assessment Tool to Diagnose High School Students' Readiness for Independent Online Learning",
+  "context": {
+    "prior_knowledge": "Basic experience using online learning platforms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A collaborative project for designing and validating an online learning readiness diagnostic tool centered on mathematics subjects",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can develop a 36-item questionnaire defining the five core competencies required for independent online learning (time management, self-regulation, technology utilization, critical thinking, communication)",
+    "Learners can explain the process of validating the validity and reliability of developed tools using PLS path analysis",
+    "Learners can propose personalized learning strategies (three or more types) based on learner type classifications derived from diagnostic results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Survey Platform (e.g., Google Forms)",
+      "Statistical Analysis Tool (SmartPLS)",
+      "High School Curriculum Standard Documentation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

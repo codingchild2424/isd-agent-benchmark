@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3777-V",
+  "variant_type": "context_variant",
+  "title": "Learner-Centered Online Mathematics Instructional Design Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic knowledge of secondary mathematics curriculum and practical work experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Online mathematics instruction design capability development through project-based learning in smartphone-limited settings, applicable to real-world vocational contexts",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can utilize an online mathematics education design framework based on constructivist principles",
+    "Learners develop the ability to design learner-centered project-based assignments executable in smartphone environments",
+    "Learners can identify three practical issues (e.g., low learner engagement, limited content accessibility, inadequate assessment systems) that arise in the ODL (Online and Distance Learning) design process, propose at least two solution strategies for each issue, and demonstrate feasibility with an average score of 4 or higher (on a 5-point scale) through peer evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Open-Source Authoring Tools",
+      "Digital Educational Content Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

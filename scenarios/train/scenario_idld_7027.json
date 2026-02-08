@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7027",
+  "variant_type": "idld_aligned",
+  "title": "Machine Learning-Based Modeling Workshop for Public Debt Prediction",
+  "context": {
+    "prior_knowledge": "Elementary statistical analysis, understanding of economic indicators, and basic programming experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners participate in predictive modeling projects using real economic data to enhance public policy understanding. Hands-on learning with Python and machine learning tools (Random Forest) via digital devices",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the operational principles of the Random Forest algorithm for public debt forecasting.",
+    "Learners can preprocess real economic data and build predictive models referencing Italian case studies.",
+    "Learners can evaluate predictive accuracy through model validation processes and compile results into policy proposals."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Notebook Installation Environment",
+      "Economic Time-Series Dataset",
+      "Machine Learning Libraries (e.g., Scikit-learn)",
+      "Policy Report Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

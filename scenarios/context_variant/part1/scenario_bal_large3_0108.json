@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE3-0108",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Digital Microlearning with Accounting Visualization: Optimized for ESL Learners",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental accounting concepts and basic operation of digital devices",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Beginner accounting training course for current professionals. Designed with a focus on visual materials to minimize cognitive load for non-native English learners.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Accurately identify financial statement components (assets/liabilities/equity) in MDLOs visual materials by over 80%",
+    "Apply information visualization principles (signal-to-noise ratio, split-attention effect) based on CLT theory to actual accounting cases",
+    "Achieve 90% accuracy in calculating cost of goods sold using interactive graphs/animations in mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Customizable MDLOs (Multimedia Digital Learning Objects) library",
+      "Responsive Mobile LMS",
+      "Accounting Simulation Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

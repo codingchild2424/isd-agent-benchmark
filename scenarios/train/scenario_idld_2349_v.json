@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2349-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Instructional Design Competency in Practice: Exploring Mechanical Vibration and Natural Modes through PBL with Kalimba",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Competency enhancement program for professionals in education/teaching/learning fields",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can theoretically calculate the natural frequencies of each kalimba key by applying simple beam theory.",
+    "Learners can perform vibration mode simulations incorporating realistic boundary conditions using finite element analysis (FEA) software.",
+    "Learners can experimentally measure natural frequencies using vibration sensors and MATLAB-based spectrum analyzers and compare results with theoretical/numerical findings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Authoring Tool",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

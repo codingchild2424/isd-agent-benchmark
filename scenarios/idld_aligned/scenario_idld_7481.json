@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7481",
+  "variant_type": "idld_aligned",
+  "title": "Humanized Learning Design Course for University Instructors",
+  "context": {
+    "prior_knowledge": "University-level teaching experience or foundational knowledge of instructional design",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A competency enhancement program for designing language education courses in a smartphone-centric, limited-technology environment for learners composed of working professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can describe a humanized instructional design framework for language education in three stages (planning-execution-reflection) within six months.",
+    "Learners can create a non-real-time LMS activity design document reflecting the five core principles of care pedagogy (empathy, relationship, participation, flexibility, reflection).",
+    "Learners can develop three or more iterative design prototypes based on learner data analysis for continuous improvement.",
+    "Learners can collaboratively develop and present a language education curriculum design aligned with project-based assessment criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Core Features (Assignment Submission/Feedback/Discussion Board)",
+      "Mobile-Optimized Template",
+      "Open-Source Design Tool",
+      "Peer feedback guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7613",
+  "variant_type": "idld_aligned",
+  "title": "Contextualized Instructional Design-Based Project Learning for HPV Vaccine Education",
+  "context": {
+    "prior_knowledge": "Basic Life Science and Public Health Knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "In-service elementary teachers develop and validate HPV vaccine educational materials, producing digital/print resources using personal devices (BYOD)",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the mechanism of the HPV vaccine and the diseases it prevents.",
+    "Learners can develop content and design for HPV vaccine educational materials for elementary students following expert validation procedures.",
+    "Learners can effectively utilize digital and print educational materials in a BYOD (Bring Your Own Device) environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Illustration authoring tool",
+      "Online Collaboration Platform",
+      "Content validation questionnaire",
+      "Educational effectiveness evaluation framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

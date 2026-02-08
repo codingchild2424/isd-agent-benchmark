@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4343",
+  "variant_type": "idld_aligned",
+  "title": "Redesigning Web-Based Patient Assessment Training Programs",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and patient record documentation methods",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Online Learning Environment Using Digital Devices, Emphasizing Collaborative Activities with Peers",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve ≥85% proficiency in patient symptom analysis via web-based self-assessment.",
+    "Learners complete patient assessment reports (SOAP notes) with ≥90% accuracy using peer collaboration worksheets.",
+    "Learners improve patient medication information analysis competency by ≥70% in formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web-based self-assessment platform",
+      "Digital Collaboration Worksheet Tool",
+      "SOAP Note Template",
+      "Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

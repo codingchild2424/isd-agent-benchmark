@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7464-V",
+  "variant_type": "context_variant",
+  "title": "Self-Directed Mathematics Learning Space Design Utilizing Social Media",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners utilize personal devices (BYOD) to engage in online communities and offline workshops simultaneously, performing collaborative problem-solving activities in social media-based learning spaces",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can autonomously organize and operate discussion spaces related to mathematical concepts on social media platforms.",
+    "Learners can analyze the functional affordances of learning niches (spaces) using digital tools and propose improvements.",
+    "Learners can continuously refine self-directed learning strategies through peer feedback and formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Social Media Platform Access Permissions (Naver Band, KakaoTalk Open Chat, etc.)",
+      "Math Concept-Based Question Bank",
+      "Learning Activity Tracking Tool (Google Sheets, etc.)",
+      "Offline workshop space and instructional materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

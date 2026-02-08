@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2979",
+  "variant_type": "idld_aligned",
+  "title": "Short-Term Intensive Course on AI-Based Student Performance Prediction Modeling",
+  "context": {
+    "prior_knowledge": "Basic statistical knowledge, understanding of linear regression models, and programming fundamentals (Python preferred)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Data analysis practice-centered curriculum for aspiring professionals in medical, legal, and technical fields utilizing smartphones",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design and implementation of a student performance prediction system using regression analysis and machine learning models.",
+    "Derivation of key predictive variables through interpretation of ANOVA and SVM regression model results.",
+    "Preparation of a learning performance pattern analysis report using smartphone-based data visualization tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Google Colab (Cloud Development Environment)",
+      "Mobile-Friendly Data Visualization Tool (e.g., Flourish)",
+      "Educational Virtual Dataset (Student Performance Records)",
+      "Kendall Tau Correlation Analysis Calculator Web App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

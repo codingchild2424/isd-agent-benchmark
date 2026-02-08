@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5195-V",
+  "variant_type": "context_variant",
+  "title": "Blended Practical Training Program for Pharmaceutical Competency Development",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasis on practical content applicable to real-world tasks, with consideration for work-learning integration",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can complete practical assignments while maintaining over 85% participation in blended learning environments.",
+    "Learners achieve over 90% accuracy in drug interaction analysis through work-integrated scenario-based assessments",
+    "Learners improve practical problem-solving skills by 70% using real-time feedback systems provided on digital platforms"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual patient simulation software",
+      "Real-time video conferencing tools",
+      "Mobile Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

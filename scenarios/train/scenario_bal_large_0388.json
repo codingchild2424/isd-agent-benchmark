@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0388",
+  "variant_type": "balance_large_scale",
+  "title": "Instructional Design for Concrete Understanding of Vector Addition: Applying the Concreteness Fading Framework (Large-Scale)",
+  "context": {
+    "prior_knowledge": "Understanding of basic algebraic operations and geometric shapes",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended approach combining in-person instruction with online activities, focusing on gradual abstraction of vector concepts through team-based tasks and individual analysis of real-world application cases",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners accurately convert vectors into graphical and algebraic representations in diverse physical contexts (e.g., force, motion).",
+    "Learners can perform vector addition by progressing through the stages of concrete objects (model arrows) → semi-concrete objects (digital vector tools) → abstract symbols (coordinate notation).",
+    "Learners can explain vector operations by connecting their geometric meaning (e.g., parallelogram law) with algebraic representations (component-wise calculations)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Physical Vector Model Kit",
+      "Access to Desmos/GeoGebra Vector Tools",
+      "LMS (Learning Management System)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

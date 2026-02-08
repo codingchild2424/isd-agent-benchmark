@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7207",
+  "variant_type": "idld_aligned",
+  "title": "MOOC Design Process Analysis and Practitioner Competency Enhancement Course",
+  "context": {
+    "prior_knowledge": "Basic proficiency in online learning platform usage and understanding of instructional design concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Work-based learning environment structured around actual MOOC development cases. Practical training conducted in LMS environments similar to edX",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyzing systemic conflict factors for each of the 5 stages of MOOC design (needs analysis, instructional design, production, implementation, evaluation)",
+    "Formulating optimal instructional design strategies under platform technical constraints",
+    "Proposing solutions to organizational structural issues arising during multidisciplinary team collaboration"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access permissions to edX-based LMS system",
+      "MOOC case library across diverse academic disciplines",
+      "Team project space (online/offline)",
+      "MOOC design templates and guideline documents"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

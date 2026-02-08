@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7465-V",
+  "variant_type": "context_variant",
+  "title": "HPC Modular Education: Master’s Course on GPU-Based Parallel Programming and Social Collaboration System Design",
+  "context": {
+    "prior_knowledge": "Mid-level professional knowledge and problem-solving skills, foundational understanding of social infrastructure systems, and data-driven decision-making experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A graduate-level HPC (High-Performance Computing) expert training program offering flexible time management through MOOC-based modular learning. It emphasizes hands-on education using BYOD, project-based assessments for practical skills, and computing solutions for societal issues like climate change and urban planning.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can implement GPU-accelerated code using OpenACC, OpenMP Offloading, and HIP programming models and optimize the performance of collaborative systems in heterogeneous computing environments.",
+    "Learners can understand heterogeneous computing, cultivate the ability to design CPU-GPU collaborative systems, and develop technologies applicable to large-scale social infrastructure projects (e.g., smart cities, energy grids).",
+    "Learners can complete a large-scale data parallel processing project in an HPC environment and develop solutions applicable to real-world industrial fields (e.g., healthcare, transportation, environmental problem-solving)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GPU Cloud Computing Resources",
+      "HPC Development Tools (Visual Profiler, etc.)",
+      "MOOC Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

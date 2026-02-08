@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7230",
+  "variant_type": "idld_aligned",
+  "title": "Teacher Competency Assessment Design Using VR-Based Situational Judgment Tests",
+  "context": {
+    "prior_knowledge": "Basic understanding of mathematics curriculum and educational theories, field experience (practicum or observation)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A formative assessment-centered course simulating real educational scenarios in VR environments to evaluate teacher competencies, incorporating an automated scoring system using NLP technology.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can describe specific solutions for educational dilemma scenarios presented in VR simulations across four competency dimensions: student-centeredness, problem-solving skills, emotional intelligence, and achievement motivation.",
+    "Learners can understand and apply the evaluation criteria of an NLP-based scoring system when writing open-ended SJT (Situational Judgment Test) responses.",
+    "Learners can improve their response content by over 70% based on peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment",
+      "NLP Grading Software",
+      "Pre-Developed Teacher Competency Model",
+      "VR Scenario Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

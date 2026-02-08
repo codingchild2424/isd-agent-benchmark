@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3120-V",
+  "variant_type": "context_variant",
+  "title": "Social Studies Expertise Enhancement Course Through Online Formative Assessment",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized courses for medical/legal/technical professionals to acquire secondary social studies teaching competencies",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain core social studies concepts (democracy, economic systems, etc.) with ≥80% accuracy",
+    "Learners can diagnose comprehension gaps in real-time via formative quizzes delivered in mobile environments",
+    "Learners can achieve ≥15% performance improvement after quiz participation regardless of prior warning"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Interactive Quiz Template",
+      "Course-Specific Learning Analytics Report"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

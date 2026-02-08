@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1816",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Competency-based instructor training program design",
+  "context": {
+    "prior_knowledge": "Foundational educational theory and basic science knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended program for training pre-service science instructors, aiming for a balanced structure of theoretical learning and practical activities",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can develop three or more science lesson plans according to competency-based instructional design principles.",
+    "Learners can apply at least two customized teaching strategies based on diagnostic learner assessments.",
+    "Learners can design and demonstrate at least one interactive class operation scenario using digital tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS System",
+      "Science Experiment Kit",
+      "Video Production Equipment",
+      "Competency Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

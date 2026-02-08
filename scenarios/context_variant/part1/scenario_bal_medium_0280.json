@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-MEDIUM-0280",
+  "variant_type": "balance_medium_scale",
+  "title": "Flipped Learning-Based Educational Course for Understanding ADHD",
+  "context": {
+    "prior_knowledge": "Knowledge of basic psychology and pedagogy",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Theory-practice integrated learning for ADHD in a smartphone-centric limited technological environment, with flipped learning involving pre-learning followed by discussions and projects",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will be able to explain ADHD diagnostic criteria and major symptoms with 90% accuracy.",
+    "Participants will be able to design and present at least three customized educational strategies for students with ADHD.",
+    "Learners will structure a debate on ethical issues related to ADHD (e.g., medication, stigma) with both supporting and opposing arguments.",
+    "Learners collect specific feedback from three peers using flipped learning materials (videos, readings), incorporate it into a nursing education project deliverable (5–7-minute video or 10-slide PPT), and achieve an \"Excellent\" rating in ≥4 of five rubric items."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Video Lectures (5–7 Minute Segments)",
+      "Interactive ADHD Case Simulation Tool",
+      "PDF-Based Activity Workbook",
+      "Google Docs Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

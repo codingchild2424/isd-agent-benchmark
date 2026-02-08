@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3698",
+  "variant_type": "idld_aligned",
+  "title": "Scientific Data Analysis Problem-Solving Project Utilizing the BLAST Tool",
+  "context": {
+    "prior_knowledge": "Knowledge of basic biology and statistics, including understanding of DNA sequencing concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course focused on training pre-service/in-service teachers in proper use of the BLAST tool and scientific error analysis. Designs smartphone-based learning activities in limited technological environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain situation-specific selection criteria for BLAST programs (e.g., blastn, blastp)",
+    "Through case analysis, learners can quantitatively assess how BLAST parameter adjustments impact result interpretation",
+    "Via team projects, learners can analyze/validate DNA sequence manipulation cases using BLAST, identify scientific errors, and produce reports"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Friendly BLAST Web Interface",
+      "COVID-19-Related Similar Sequence Dataset",
+      "Virtual Dinosaur Genetic Manipulation Case Study Materials",
+      "Learning Management System (LMS) Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

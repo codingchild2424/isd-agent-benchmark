@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7255",
+  "variant_type": "idld_aligned",
+  "title": "Mathematics Reading Proficiency Enhancement Program Using the CBI Model",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical terminology and elementary English reading skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A program focused on enhancing mathematics domain English reading skills for working professionals, conducted in smartphone-based constrained environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can improve explicit information extraction skills by at least 30% over 8 weeks.",
+    "Learners can enhance implicit information inference skills by at least 25% over 8 weeks.",
+    "Learners can improve text interpretation skills using grammatical/vocabulary cues by at least 20% over 8 weeks."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Theme-based CBI (Content-Based Instruction) materials",
+      "Smartphone-compatible reading materials",
+      "Formative assessment worksheets",
+      "Voice feedback samples"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

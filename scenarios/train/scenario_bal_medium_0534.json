@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0534",
+  "variant_type": "balance_medium_scale",
+  "title": "Problem-based learning approach to developing consciousness-level assessment apps",
+  "context": {
+    "prior_knowledge": "Basic Mobile App Usage Experience and Intermediate-Level Mathematical Concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A process for pre-service teachers to develop mathematical problem-solving skills while experiencing an educational app development process applicable to real-world medical education contexts",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design two or more core features of a consciousness-level assessment app by applying problem-based learning (PBL) methodologies.",
+    "Within one week, learners develop a prototype (minimum 2 scales implemented) that converts the three Glasgow Coma Scale (GCS) items (motor function, verbal response, eye-opening) into a digital evaluation system using mathematical modeling techniques (e.g., regression analysis, weighted scoring) and submit results meeting four or more of the five peer evaluation rubric items.",
+    "Within one week, teams of 3–4 members select two instructional design tasks on user interface optimization, proceed through a three-stage process (problem definition → solution development → prototype implementation), and submit a final report and demo video."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Tools (e.g., Figma, Jamboard)",
+      "Low-Code App Development Platform (e.g., MIT App Inventor)",
+      "Medical Assessment Scale Reference Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

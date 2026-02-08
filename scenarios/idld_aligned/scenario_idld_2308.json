@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2308",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Cultural Competency Training Program for Nursing Practitioners",
+  "context": {
+    "prior_knowledge": "Basic nursing practice experience and foundational knowledge of cultural diversity concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A program for practicing nurses to systematically improve cultural care competencies. Conducts practice-centered learning by implementing real clinical cases via VR simulations",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Analyze health beliefs of patients from diverse cultural backgrounds and develop nursing care plans reflecting cultural sensitivity",
+    "Apply nonverbal/verbal communication techniques considering cultural differences in actual simulation scenarios",
+    "Evaluate patient responses after implementing culture-related nursing interventions and derive improvement strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Multicultural Patient Scenario Database",
+      "VR Simulation Equipment",
+      "Cultural Competency Assessment Tool",
+      "Role-Play Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

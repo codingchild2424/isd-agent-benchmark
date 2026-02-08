@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4220-V",
+  "variant_type": "context_variant",
+  "title": "Digital-Based Formative Feedback Design: Utilizing Interactive Feedback Loops",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Mobile learning environment in a smartphone-centric limited-technology setting. Students apply learning content through project-based assessments and experience a dialogic feedback loop exchanging weekly feedback",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can engage in peer/instructor feedback dialogues at least twice weekly via a digital platform.",
+    "Learners can revise and improve project deliverables two or more times by incorporating feedback.",
+    "Learners can reflect on and document their learning progress on a weekly basis using tools such as the GoingOK app.",
+    "Learners can enhance the qualitative completeness of social studies projects (e.g., local issue solutions) by over 30% through digital feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "GoingOK Web Application",
+      "LMS (Learning Management System)",
+      "Social Studies Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

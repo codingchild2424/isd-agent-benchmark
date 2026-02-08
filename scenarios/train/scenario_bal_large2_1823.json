@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1823",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Online Education Program for Enhancing Multidisciplinary Design Competencies",
+  "context": {
+    "prior_knowledge": "Foundational design theory and at least one year of practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Social Studies-Integrated Education Program for Office/Administrative Professionals, Designed to Acquire Multidisciplinary Design Approaches Through Project-Based Assessment in a BYOD Environment",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can compare and explain design education methodologies across four interdisciplinary fields (business, engineering, humanities, environmental design).",
+    "Learners can execute real-world problem-solving projects integrating interdisciplinary design approaches.",
+    "Learners can communicate effectively with multidisciplinary team members using online collaboration tools.",
+    "Learners can establish criteria for evaluating design outcomes within a social context."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interdisciplinary Design Case Database",
+      "Online Collaboration Tools (e.g., Figma, Miro)",
+      "LMS-Integrated Multimedia Authoring Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

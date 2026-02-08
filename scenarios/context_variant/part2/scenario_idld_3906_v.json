@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3906-V",
+  "variant_type": "context_variant",
+  "title": "Real-World Task-Based MOOC Learner Engagement and Reward System Design",
+  "context": {
+    "prior_knowledge": "Foundational science knowledge and online learning experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners simultaneously achieve theoretical application skills and economic motivation through performing practical tasks in the science field",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners demonstrate the ability to connect theory with practice by completing five or more real-world science tasks (data analysis, experimental design, etc.) linked to MOOC platforms",
+    "Learners complete over 80% of tasks provided on online marketplaces (e.g., Upwork) meeting quality standards",
+    "Learners submit the reward amount earned during task performance in conjunction with an attendance rate of 70% or higher at the end of the course"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS System (Assignment Distribution/Submission/Grading Functionality)",
+      "Online Marketplace API Integration Tool",
+      "Science Experiment Toolkit (Virtual/Physical)",
+      "Real-time chat support system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

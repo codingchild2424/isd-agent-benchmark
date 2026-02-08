@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4493-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening deep learning practical competencies: Writing task design strategies for data science education",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Improved ability to write logically structured reports explaining data analysis results",
+    "Graduate students can design one teaching-learning material applicable to educational settings (e.g., interactive AI simulation tool, data analysis worksheet) using data science concepts (machine learning models, visualization techniques, etc.) and achieve a suitability score of 80% or higher in peer evaluation and expert review.",
+    "Strengthened academic writing competencies through feedback incorporation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

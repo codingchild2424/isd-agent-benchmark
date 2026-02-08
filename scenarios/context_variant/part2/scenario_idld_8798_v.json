@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8798-V",
+  "variant_type": "context_variant",
+  "title": "Machine Learning-Based Instructional Design for Mobile Learning Taxonomy",
+  "context": {
+    "prior_knowledge": "Basic Digital Device Usage Skills and Foundational Language Learning Competencies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Asynchronous learning activities conducted using learners' personal mobile devices or institution-provided digital equipment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can classify the cognitive demand levels (e.g., understanding/applying/analyzing) of learning design texts with 85% accuracy.",
+    "Learners can identify inquiry-based learning designs (reflecting stages such as problem definition, hypothesis formulation, and experiment design) with 80% accuracy.",
+    "Learners can evaluate the role of situational context (e.g., fieldwork integration, virtual environment utilization) in learning design with 75% accuracy.",
+    "Learners can compare classification results and interpretability of machine learning models to select one suitable for instructional design."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Machine Learning Classification Models (EstBERT/Logistic Regression)",
+      "Learning Design Text Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

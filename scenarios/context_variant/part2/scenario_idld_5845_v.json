@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5845-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Mastering University Learning Strategies Through Structured Education",
+  "context": {
+    "prior_knowledge": "Experience in College-Level Foundational Studies",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "By the end of the 4-week course, learners can apply four core strategies (time management/exam strategies) contextually",
+    "Learners achieve scores improved by at least 20% in academic self-efficacy scale surveys",
+    "Through team-based projects, learners create personalized learning plans and present actionable 3-month roadmaps"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

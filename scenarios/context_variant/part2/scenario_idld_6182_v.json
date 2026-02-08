@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6182-V",
+  "variant_type": "context_variant",
+  "title": "AI-Based Customized Language E-Learning Expert Course: Integrated Design of Grammar, Vocabulary, and Expressiveness",
+  "context": {
+    "prior_knowledge": "Intermediate theoretical background (foundations of linguistics, pedagogical principles) and practical experience (basic grammar analysis, text proofreading) required",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "To strengthen the connection between current practitioners' work and learning, case-based learning (real-world language education scenarios) and mobile-optimized content (grammar quizzes, vocabulary memorization apps, expression practice modules) are provided.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Cultivate the ability to design optimal grammar/vocabulary learning paths for individuals using an AI recommendation system based on learner profile analysis",
+    "Learners design three types of language practice content (pronunciation evaluation, sentence correction, text restructuring) using customized feedback algorithms (e.g., ChatGPT API, Grammarly), operate them for 10 learners over four weeks, and provide feedback achieving over 80% satisfaction in surveys (improvements in lexical diversity, grammatical accuracy, expressive fluency)",
+    "At the end of a six-month course, learners analyze learner achievement data (attendance, assessment scores, assignment completion rates) extracted from an LMS system, propose three instructional improvement strategies (e.g., enhanced customized feedback, activity-based learning introduction, assessment system adjustment), and write a report recognized as over 80% valid by an institutional review committee (including grammar error pattern analysis, vocabulary acquisition efficiency evaluation, expressive fluency metrics)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Mobile Learning Platform",
+      "AI-Based Learning Analytics Tool",
+      "Multimedia Resources for Language Practice"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

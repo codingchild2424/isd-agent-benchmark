@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0467",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Case-Based Simulation Training for Enhancing Mammography Interpretation Expertise",
+  "context": {
+    "prior_knowledge": "Foundational knowledge in diagnostic imaging and experience in digital image analysis",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Digital learning environments for advanced professional managers/leaders, focusing on practical implementation",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify microcalcifications and masses in mammography images with 90% or higher accuracy",
+    "Learners can complete diagnostic reports within 15 minutes following standard interpretation protocols",
+    "Learners can mark lesion locations and classify grades with 85% concordance with expert interpretations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mammography Image Database",
+      "Digital Reporting Template",
+      "Comparative Analysis Tool",
+      "Expert Interpretation Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

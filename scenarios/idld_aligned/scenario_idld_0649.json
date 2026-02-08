@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0649",
+  "variant_type": "idld_aligned",
+  "title": "Learning Analytics-Based Elementary Mathematics Education Effectiveness Enhancement Course: Data-Driven Personalized Learning Design and Equation·Statistical Modeling Application",
+  "context": {
+    "prior_knowledge": "Elementary mathematics education experience (operations, geometry, measurement), basic digital tool proficiency, understanding of fundamental statistical concepts (mean, standard deviation, probability distributions), and equation/graph interpretation skills for mathematical problem-solving",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Acquires methods to improve educational effectiveness using learning analytics tools for current elementary mathematics teachers. Focuses on analyzing learning gaps by mathematical concepts and designing data-driven individualized instruction, optimizing educational strategies through statistical modeling and graph analysis. Customized lesson design using achievement data from operation, geometry, and measurement domains is central.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Trainees can design individualized mathematics learning paths (diagnostic assessment-goal setting-activity design-formative assessment) for three virtual student profiles using learning analytics tools (KnowledgeSpace, Smart Sparrow, etc.) and achieve over 80% fulfillment in peer evaluation and instructor feedback. Specifically, they establish learning plans including customized problem recommendations through analysis of error patterns by concept in operation and geometry domains",
+    "Trainees can monitor learner-specific progress rates, quiz accuracy rates, and participation data on a weekly basis using real-time learning analytics tools (e.g., LMS dashboards) and implement three or more individualized feedback strategies (e.g., equation-solving error pattern analysis, supplementary problem recommendations by geometry concept) or one or more class design changes (e.g., adjusting activity time for measurement domains) based on analysis results",
+    "Learners can collaborate with two peer teachers to select two validated analytical models (e.g., regression analysis, cluster analysis) using real vocational training institution math learning data (e.g., trainee performance analysis) and write a comparative evaluation report (5+ pages) on model application results. Specifically, they analyze learning gap factors through probability distributions and statistical graph visualization.",
+    "By the end of the 6-month course, learners can analyze math performance data (minimum 50 samples) to create an Excel sheet with three educational effectiveness metrics: (1) average score improvement rate (%), (2) learning completion rate (%), and (3) assessment pass rate (%). Based on this, they submit a 5-page protocol including two instructional improvement plans: (1) supplementary material development (3+ topics: fraction operations, geometric measurement, ratio graphs) and (2) class time adjustment strategies (±1 hour/week)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Analytics Platform License",
+      "Student learning data sample set",
+      "Co-designed pedagogical strategy worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

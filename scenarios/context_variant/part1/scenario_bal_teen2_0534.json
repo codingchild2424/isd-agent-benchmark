@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0534",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] VR-Based Fire Preparedness Simulation Game Project",
+  "context": {
+    "prior_knowledge": "Fundamental fire safety awareness and first-aid knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Fire Response Training Project Using VR Simulations in Smartphone-Centric, Limited-Technology Environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform initial response procedures (reporting, evacuation guidance, fire extinguisher use) with 80% accuracy in a VR environment during a fire",
+    "Learners can acquire the ability to identify risk areas and plan optimal evacuation routes through fire spread pattern analysis",
+    "Learners can develop role distribution and collaboration strategies applicable to real situations through team-based simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR Device (Cardboard/Low-End HMD)",
+      "Fire Simulation Software License",
+      "Fire Safety Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-1048",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Education Utilizing CSCL Interaction Monitoring and Assessment Design Patterns",
+  "context": {
+    "prior_knowledge": "Fundamental understanding of CSCL (Computer-Supported Collaborative Learning) environments and language teaching experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Enhancing monitoring and evaluation competencies using CSCL interaction data in smartphone-based limited-technology environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain methods to classify learning interactions in CSCL (Computer-Supported Collaborative Learning) environments using quantitative/qualitative metrics.",
+    "Learners can design three or more CSCL interaction monitoring systems utilizing design patterns (DPs).",
+    "Learners can perform interaction evaluations by applying smartphone-based data tracking methods in limited-technology environments.",
+    "Learners can submit deliverables applying DP solutions to real CSCL scenarios through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CSCL Interaction Case Database",
+      "Design Pattern Template",
+      "Mobile-Friendly Analytics Tool",
+      "Interaction Metrics Measurement Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

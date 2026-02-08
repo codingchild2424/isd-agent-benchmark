@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6432-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening App Development Practical Competencies: Competency-Based Online Learning for Predicting Micromasters Learner Success",
+  "context": {
+    "prior_knowledge": "Intermediate-level scientific theories and practical field experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain at least three key behavioral indicators (schedule participation, assessment interaction, etc.) for predicting success in micro-mastery courses",
+    "Learners can design practical strategies to establish and implement daily learning plans in an LMS environment with over 80% adherence",
+    "Learners can improve learning outcomes by over 15% through forum discussions with peer learners and formative assessment feedback"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

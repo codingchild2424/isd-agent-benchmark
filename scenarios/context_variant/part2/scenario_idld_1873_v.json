@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1873-V",
+  "variant_type": "context_variant",
+  "title": "Strategic Utilization of On-Demand Hint Effectiveness in Online Mathematics Learning",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based learning environment where secondary education practitioners utilize mathematical tools to support scientific problem-solving processes.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can strategically request hints during mathematical problem-solving processes to enhance self-directed learning abilities",
+    "Learners can reduce problem-solving time by 20% and improve efficiency using an on-demand hint system",
+    "Over six months, learners collaborate with ten peer developers to collect over 500 hint usage log data entries, analyze correlations between hint types and code completion time using Python/Pandas, and propose at least three personalized learning strategies improving individual learning efficiency by over 20%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Integratable with Hint System)",
+      "Customizable math problem database",
+      "Learning Analytics Tool (Hint Usage Log Tracking)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

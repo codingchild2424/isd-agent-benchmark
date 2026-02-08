@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-5157",
+  "variant_type": "idld_aligned",
+  "title": "Celiac Disease Diagnosis and Treatment Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Foundational medical knowledge and experience in gastroenterology practice",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A blended education course for current medical professionals using smartphone-based learning materials. Validates practical application skills through project-based assessments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply the diagnostic criteria for celiac disease (ESPGHAN/ACG guidelines) with over 80% accuracy",
+    "Learners can establish differential diagnoses and treatment plans through patient case analysis",
+    "Learners can propose at least three gluten-free dietary management strategies",
+    "Learners can analyze diagnostic error cases to develop prevention strategies",
+    "Learners can create patient education materials and evaluate their effectiveness"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized e-learning content",
+      "Diagnostic scenario workbook",
+      "Patient case database",
+      "Offline practice kit (small-scale equipment)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

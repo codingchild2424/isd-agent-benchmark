@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3525-V",
+  "variant_type": "context_variant",
+  "title": "Designing Self-Directed Thermodynamics Learning Based on Cognitive Load Theory",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Asynchronous learning environment for office/administrative professionals using personal devices (BYOD)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "The First and Second Laws of Thermodynamics can be explained through mathematical modeling and applied to real-world cases.",
+    "Multi-variable problems can be solved using the concept of partial molar entropy for entropy change calculations.",
+    "The ability to interpret Gibbs free energy diagrams and predict chemical equilibrium conditions is developed."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Simulation Tool",
+      "Step-by-step problem-solving worksheet",
+      "Concept Mapping Template",
+      "Real-time feedback system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

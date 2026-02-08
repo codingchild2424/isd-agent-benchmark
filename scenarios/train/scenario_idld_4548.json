@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4548",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Course for Problem-Solving and Mathematical Reasoning",
+  "context": {
+    "prior_knowledge": "Foundational mathematical concepts and logical reasoning skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course designed to enhance complex thinking skills by applying mathematical reasoning and problem-solving strategies for language learners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can generate at least three solution strategies in various problem situations.",
+    "Learners can validate problem-solving approaches through collaborative discussion and select optimal solutions.",
+    "Learners can visually represent mathematical reasoning processes (text, graphics, gestures, etc.) and incorporate peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App Interface",
+      "Digital Collaboration Tools",
+      "Interactive Problem Sets",
+      "Automated Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

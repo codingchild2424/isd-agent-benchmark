@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0907",
+  "variant_type": "idld_aligned",
+  "title": "Personalized Health Management Education Based on Nutrigenomics",
+  "context": {
+    "prior_knowledge": "Understanding of basic genetics and nutrition concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners participate through asynchronous interactions using digital devices. Education centered on nutrigenomics application cases within social contexts",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can generate at least three research questions for personalized diet design by applying core concepts of nutrigenomics.",
+    "Learners can write an experimental design report explaining fatty acid metabolism and gene expression regulation mechanisms.",
+    "Learners can analyze publicly available nutrigenomics data and prepare a report proposing health-promotion strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Virtual Experiment Simulation Tool",
+      "Public Genome Dataset",
+      "Interactive Learning Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

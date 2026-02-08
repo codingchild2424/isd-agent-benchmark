@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8600",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Learning-Based Mathematics Competency Enhancement Vocational Education",
+  "context": {
+    "prior_knowledge": "Basic mathematical computational skills and fundamental smartphone usage proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A project-based course for medical/legal/technical professionals to acquire practical mathematical competencies required in their work",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze and solve real-world mathematical problems encountered in workplace scenarios using mobile devices.",
+    "Learners can develop and implement collaborative problem-solving strategies through PBL (Project-Based Learning) team activities.",
+    "Learners can self-directly establish and evaluate learning plans using mobile learning tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PC or Smartphone",
+      "Mobile Learning Platform",
+      "Real-world Problem-solving Workbook",
+      "Collaboration Tools (Online Whiteboard, Document Sharing System)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

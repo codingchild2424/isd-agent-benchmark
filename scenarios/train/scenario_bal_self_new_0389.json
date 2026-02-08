@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0389",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Digital Game-Based Mathematical Inquiry Learning Design Workshop for Early Childhood Education",
+  "context": {
+    "prior_knowledge": "Foundational mathematics education theories (equations, statistics, geometry), experience with digital media, and basic programming skills (algorithm design)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Enhancing competencies in designing math games for young children in smartphone-centric limited-technology environments. Collects measurable learning evidence (e.g., accuracy rates, response times) within games and utilizes them as analytical tools.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Design three learning objectives for early childhood math games based on the Dick & Carey model, reinforcing computational skills and problem-solving strategies",
+    "Learners apply four stages of R&D methodology (problem definition → idea sketching → algorithm design → prototype implementation) to develop and demonstrate one digital game prototype solving a given math problem (e.g., probability calculation, optimization problem) within a week, utilizing formula application and graph interpretation skills",
+    "Implement two early childhood learning effectiveness assessment tools via VR simulation, applying experimental design and data analysis methods"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphones (10 units)",
+      "Low-Spec VR Headsets (5 units)",
+      "Game Development Template",
+      "Early Childhood Learning Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

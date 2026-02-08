@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2362-V",
+  "variant_type": "context_variant",
+  "title": "Mathematical Modeling and Optimization for Deep Learning-Based COVID-19 Medical Imaging Analysis",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and substantial practical experience in specialized fields, foundational understanding of linear algebra, probability statistics, and optimization theory",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A blended structure combining smartphone-based online learning with weekly offline workshops. Utilizes mobile-friendly tools for medical imaging data analysis and applies mathematical concepts such as matrix operations and gradient-based optimization.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Explain the mathematical structure of CNN models (convolution operations, activation functions, loss functions, etc.) for feature extraction in COVID-19 CT/X-ray images",
+    "Apply statistical preprocessing and geometric augmentation techniques to medical imaging datasets to improve classification accuracy by ≥15%",
+    "Learners design lightweight deep learning models (e.g., MobileNet, TinyML) for mobile environments (iOS/Android), implement models with ≥3 mathematical optimization techniques (quantization, pruning, matrix decomposition) using TensorFlow Lite or PyTorch Mobile, and meet performance criteria (inference speed ≤100ms, model size ≤10MB)"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "COVID-19 open medical imaging dataset",
+      "Google Colab free version",
+      "TensorFlow Lite/ONNX runtime",
+      "Mobile-Compatible Visualization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

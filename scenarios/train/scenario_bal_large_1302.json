@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-1302",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Mobile-Based Course for Strengthening Immigrants' Mathematics Vocabulary and Communication Skills",
+  "context": {
+    "prior_knowledge": "Basic arithmetic computation skills and native language literacy (reading/writing)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aims to enhance mathematical terminology acquisition and daily communication skills in a smartphone-centric, limited-technology environment. Targets non-degree adult learners, focusing on cultivating practical problem-solving abilities.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately understand and use everyday mathematical terms (e.g., invoices, discount rates, measurement units) in Korean.",
+    "Learners can solve context-specific math problems (e.g., budget calculations, distance measurements) three or more times weekly using a mobile app.",
+    "Learners can utilize math-related communication expressions with over 80% accuracy through mobile collaborative activities with peers."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App",
+      "Offline Scenario-Based Card Sets",
+      "Voice Recording Function"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

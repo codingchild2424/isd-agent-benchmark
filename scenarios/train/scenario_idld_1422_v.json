@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1422-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Learning for Data Warehousing for Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Understanding of basic database concepts and spreadsheet application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Need to strengthen data analysis competencies for integration with science curricula",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners explain the data warehouse design process to resolve real data problems in educational settings.",
+    "Learners complete an educational dataset construction project by applying the ETL (Extract-Transform-Load) process.",
+    "Learners analyze ≥3 science-subject-linked datasets (physics/chemistry/life sciences) using OLAP tools (Tableau, Power BI, etc.), generate reports with ≥5 visualizations (bar/line/scatter plots), and meet peer/teacher feedback standards (≥4/5-point scale)",
+    "Learners analyze real-world elementary education data (student grades, attendance) using ≥3 visualization tools (Google Data Studio, Tableau) and propose ≥2 actionable decision-making strategies for educational improvement"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Educational Data Warehousing Software (Open Source)",
+      "Virtual Learning Management System (LMS)",
+      "Educational Dataset Samples",
+      "OLAP Analytics Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

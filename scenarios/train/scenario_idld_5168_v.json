@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5168-V",
+  "variant_type": "context_variant",
+  "title": "Strategies for Enhancing Instructor Work Efficiency in Online Science Education",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Online science education course applying student-centered pedagogy in smartphone-centric limited-technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can perform scientific reasoning with 80% accuracy by analyzing online science experiment data.",
+    "Learners can compose peer evaluation feedback at least three times using a peer assessment system.",
+    "Instructors can reduce formative assessment processing time by 30% using mobile-friendly evaluation tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive LMS system",
+      "Mobile-optimized experimental simulation",
+      "Voice Feedback Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

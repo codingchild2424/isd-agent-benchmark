@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8170-V",
+  "variant_type": "context_variant",
+  "title": "Postpartum Hemorrhage Simulation Training: Instructional Design-Based Mobile Microlearning",
+  "context": {
+    "prior_knowledge": "Basic obstetrics and gynecology knowledge and emergency response skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A large-scale educational program in a smartphone-based limited-technology environment, focusing on improving practical skills through language-integrated simulation training",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Perform over 10 core clinical tasks in postpartum hemorrhage simulation scenarios with 90% accuracy.",
+    "Utilize team-based communication protocols to deliver effective emergency reports within 3 minutes.",
+    "Repeat simulation training in 15-minute intervals three times weekly via smartphone-based microlearning modules."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Friendly Simulation Application",
+      "Standardized Task Checklist",
+      "Audio/Visual Scenario Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

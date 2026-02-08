@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0724",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Three-Tier Learning Level-Based Instructional Design for Educational Mechatronics and Robotics",
+  "context": {
+    "prior_knowledge": "Basic engineering concepts and programming experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Hands-on course for acquiring mechatronics and robotics concepts aligned with Industry 4.0 demands",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "At the concrete learning level, learners can explain the assembly and basic operations of a 3D-printed robotic arm.",
+    "At the representational learning level, learners can simulate robotic workspace modeling and kinematic concepts.",
+    "At the abstract learning level, learners can connect mechatronics systems to Industry 4.0 application cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D-Printed Robotic Arm Kit",
+      "Motion Capture System Software",
+      "LMS platform",
+      "Digital Devices (Laptops/Tablets)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

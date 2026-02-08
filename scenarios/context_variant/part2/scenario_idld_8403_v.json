@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8403-V",
+  "variant_type": "context_variant",
+  "title": "Learning Design Tool Utilization Competency Enhancement Course for Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Systematic acquisition of digital tool competencies for mathematics curriculum design targeting pre-service teachers from medical/legal/technical professions. Emphasizes collaboration and project-based learning via BYOD (Bring Your Own Device)",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can independently design mathematics curriculum project-based learning (PBL) using learning design tools (LDT)",
+    "Learners can systematically structure learner activity types and organizational methods using the visual representation features of LDT",
+    "Learners can integrate technology-enhanced learning (TEL) elements into the learning design process and apply the design outcomes to an LMS"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Designer Tool License",
+      "Moodle LMS Access Permissions",
+      "Mathematics Subject PBL Template",
+      "Digital Collaboration Tools (Google Workspace, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

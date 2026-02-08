@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5650-V",
+  "variant_type": "context_variant",
+  "title": "Decision Tree Algorithm Application for Parametric Design Learning Strategies",
+  "context": {
+    "prior_knowledge": "Foundational Programming Skills and Understanding of Design Principles",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Students engage in hands-on practice using personal devices and receive continuous feedback through formative assessments.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Participants can explain the fundamental principles of the Decision Tree algorithm (ID3) and its application in parametric design.",
+    "Based on design attributes and test criteria, participants can construct a decision tree to derive optimal design strategies.",
+    "Participants can apply automated procedures to solve new parametric design problems using learned rules."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Programming tools (e.g., Python/R)",
+      "Parametric design software",
+      "Gear reducer design case data"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

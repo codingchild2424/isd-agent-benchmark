@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2986",
+  "variant_type": "idld_aligned",
+  "title": "Productive Failure-Based Programming Problem-Solving Workshop",
+  "context": {
+    "prior_knowledge": "Basic mathematical computational skills and comprehension of logical structures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-centric learning environment with real-time collaboration tools (e.g., Padlet).",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can convert given mathematical problems into algorithmic logic with over 80% accuracy.",
+    "Learners can generate revised code versions incorporating peer feedback through three or more iterative stages.",
+    "Learners can classify errors in problem-solving processes and propose five or more debugging strategies."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-optimized IDE (Integrated Development Environment)",
+      "Item bank template",
+      "Collaborative Whiteboard Tool",
+      "Automated grading script"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-2049-V",
+  "variant_type": "context_variant",
+  "title": "Physical Education Design Strategies Utilizing Large Language Models",
+  "context": {
+    "prior_knowledge": "Elementary physical education theory and digital tool utilization experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Most learners are active physical education instructors interested in educational content development based on language domain expertise",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design physical education lesson plans using large language models in three methods: direct generation, generation after providing materials, and collaborative generation.",
+    "Learners can explain at least five criteria for evaluating the safety, accuracy, and appropriateness of generated physical education content.",
+    "Learners can identify potential issues in teacher-AI collaboration scenarios and propose improvement strategies.",
+    "Learners can develop an AI-integrated physical education model applicable to real-world professional settings through project-based learning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Generative AI Platform Access Permissions",
+      "Physical Education Standard Textbooks and Curriculum",
+      "Digital Collaboration Tools (e.g., Google Workspace, Notion)",
+      "AI Ethics Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

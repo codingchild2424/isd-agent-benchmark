@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4981",
+  "variant_type": "idld_aligned",
+  "title": "Think-Aloud-Based Diagnostic Reasoning Education for Radiological Image Interpretation",
+  "context": {
+    "prior_knowledge": "Basic Medical Terminology and Knowledge of Human Anatomy",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Project-based digital environment training to enhance radiographic image interpretation skills. Acquiring expert-level thinking processes through team case analysis and iterative feedback",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can consciously utilize four cognitive processes—Gestalt interpretation, goal-directed search, rule application, and prior case reasoning—when analyzing suspected fracture cases in radiographic images.",
+    "Learners can verbalize and share their diagnostic reasoning processes with peers/instructors through think-aloud protocols.",
+    "Learners can selectively apply different interpretation strategies (Gestalt vs. goal-directed search) based on abnormal/normal imaging cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Pediatric Elbow X-ray Image Dataset",
+      "Think-Aloud Recording Equipment",
+      "Real-time feedback system",
+      "Video Interpretation Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

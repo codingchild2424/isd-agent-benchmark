@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3828-V",
+  "variant_type": "context_variant",
+  "title": "New Nurses' Learning Competency Enhancement Project in Organizational Environments",
+  "context": {
+    "prior_knowledge": "Basic clinical practice knowledge and organizational work experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Restructuring new nurses' learning experiences in a hospital organizational setting through project-based team activities, including simulation tasks resembling real medical cases.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can establish task execution strategies that prioritize patient safety in resource-constrained organizational settings (limited personnel/time)",
+    "Learners can collaborate with peer nurses to analyze clinical cases and design processes for solving complex nursing problems",
+    "Learners can autonomously develop and implement learning plans that account for hospital organizational structures (shift rotations/patient volume fluctuations)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Case Database",
+      "Virtual Simulation Platform",
+      "Team Collaboration Tools (Slack/MS Teams)",
+      "Mobile Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2172",
+  "variant_type": "idld_aligned",
+  "title": "Intensive Course on Task-Example-Based Video Podcasts for Pre-Calculus Preparation",
+  "context": {
+    "prior_knowledge": "High school mathematics fundamentals (functions, equations, graph comprehension)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Offline classes optimized for smartphone-based video learning environments. Providing real-time feedback through formative assessment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve worked examples of five foundational calculus problem types (limits, continuity, differentiation, integration, applications) with 80% accuracy",
+    "Learners can reconstruct and explain complex mathematical concepts into three or more stages using step-by-step video podcast explanations",
+    "Learners solve and submit context-specific problems from formative assessments within 15 minutes via smartphones"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Calculus Task Example Video Podcast (59 Episodes)",
+      "Printed Learning Materials with QR Codes",
+      "Smartphone Charging Station",
+      "Physical Whiteboard and Markers"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

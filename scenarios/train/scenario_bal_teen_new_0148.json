@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0148",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Learner-Centered MOOC Design and Improvement Strategies",
+  "context": {
+    "prior_knowledge": "Foundational educational theory knowledge and online learning experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "MOOC design competency enhancement program linked to social studies subjects for pre-service and in-service teachers",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain at least three inquiry-based MOOC content design frameworks that enhance learner engagement.",
+    "Apply at least two technology-enhancement strategies feasible in limited-tech environments (smartphone-centric).",
+    "Develop a MOOC effectiveness evaluation plan utilizing evidence-based strategies."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Open-source educational content creation tool",
+      "Mobile-friendly interactive platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

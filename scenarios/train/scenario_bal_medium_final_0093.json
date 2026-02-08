@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-FINAL-0093",
+  "variant_type": "balance_medium_final",
+  "title": "Simulation-Based Deliberate Practice Education for Surgical Skill Development",
+  "context": {
+    "prior_knowledge": "Basic anatomy and physiology knowledge, general understanding of surgical procedures",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners access simulation-based educational modules via personal smart devices in a BYOD environment, receiving real-time feedback through formative assessments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Basic suturing and incision techniques can be performed with 80% accuracy in a simulated environment",
+    "Surgical procedure execution time can be reduced by 30% through repetitive skill training based on deliberate practice principles",
+    "Surgical simulation performance scores in mobile app-based formative assessments can be improved by 25% over four weeks"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual Reality (VR) Surgical Simulation App",
+      "3D Anatomy Model Database",
+      "Mobile-compatible assessment tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

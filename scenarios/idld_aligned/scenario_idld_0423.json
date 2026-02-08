@@ -1,0 +1,44 @@
+{
+  "scenario_id": "IDLD-0423",
+  "variant_type": "idld_aligned",
+  "title": "Organic Chemistry Foundational Competency Strengthening Program: Mathematical Modeling of Molecular Structures and Reaction Mechanisms",
+  "context": {
+    "prior_knowledge": "Foundational knowledge in general chemistry (atomic structure, chemical bonding, intermolecular interactions) and basic mathematical competencies (algebra, functions, graph interpretation, matrix operations, elementary statistics, probability theory)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A program for non-majors to systematically master core organic chemistry concepts. Combines online theory with offline lab sessions, emphasizing structural similarities and conceptual connections. Strengthens scientific inquiry through mathematical modeling (graph theory, statistical analysis, matrix operations). Focuses on formulating chemical equations and interpreting experimental data via probabilistic models.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can represent functional similarities of molecular structures as adjacency matrices based on graph theory and classify them with 80% accuracy.",
+    "Learners can illustrate reaction mechanisms of organic compounds as energy profile graphs with ≥3 steps and express each step as a chemical reaction formula (equation).",
+    "Learners can model the impact of molecular structure differences on reactivity using multiple regression analysis (QSAR) with explanatory power ≥70%.",
+    "Learners can process IR/UV spectrum data using singular value decomposition (SVD) and infer functional groups.",
+    "Learners can explain acid-base reactions in relation to pKa values and calculate pH using the Henderson-Hasselbalch equation (formula).",
+    "Learners can predict stereochemical configurations of reaction products by applying stereochemical concepts and utilizing 3D coordinate systems and rotation matrix operations.",
+    "Learners can comparatively analyze the effects of reaction conditions (temperature, solvent) on reaction pathways using the Arrhenius equation (formula) and activation energy graphs.",
+    "Design a multi-step organic synthesis pathway with logical flow of three or more stages, and calculate the yield of each stage using a Markov chain probability model",
+    "When critically evaluating reaction mechanisms based on experimental results, apply error propagation analysis and nonlinear regression analysis (statistical methods)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D molecular modeling software",
+      "Virtual Laboratory Platform",
+      "Response Simulation Tool",
+      "Organic Chemistry Reaction Card Set",
+      "Spectral Analysis Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5878-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Medical Practice Competencies: Training Integrating Action Observation and Motor Imagery (AOMI)",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners achieve ≥80% improvement in accuracy when performing motor skills after a 5-day training program",
+    "Learners demonstrate ≥30% increase in self-confidence compared to baseline assessments via self-efficacy questionnaires",
+    "Learners achieve over 75% similarity between actual motor performance and imagery performance by applying AOMI training."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

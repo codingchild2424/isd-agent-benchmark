@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4827-V",
+  "variant_type": "context_variant",
+  "title": "Participatory Instructional Design for Improving Counterfeit Identification Skills",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based reinforcement of critical identification competencies through smartphone-based learning activities in a restricted technology environment",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can visually identify deciduous tooth morphology with an accuracy of 85% or higher.",
+    "Learners can compare and explain structural differences between deciduous and permanent teeth in three or more ways.",
+    "Learners can apply the importance of deciduous tooth management to three or more real-world cases in pediatric patient care."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible image database",
+      "Mobile Survey Platform",
+      "3D virtual tooth model (mobile-optimized)",
+      "Printable Learning Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

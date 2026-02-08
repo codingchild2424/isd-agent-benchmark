@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2784-V",
+  "variant_type": "context_variant",
+  "title": "Intensive Short-Term Course on Reinforcement Learning-Based H∞ Controller Design",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Experiment-centered intensive training to strengthen practical H∞ control design competencies",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Explain the mathematical structure of GARE (Generalized Algebraic Riccati Equation) and the principles of H∞ control design.",
+    "Implement optimal control policies for linear discrete-time systems using reinforcement learning-based policy iteration algorithms.",
+    "Apply the Minimax Q-learning algorithm to a real-world system model satisfying persistent excitation (PE) conditions and interpret the results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Industrial control system simulator",
+      "Jupyter Notebook Environment",
+      "Industry-academia collaborative project dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

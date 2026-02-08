@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1242",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Course for Maintenance Management Competency Development",
+  "context": {
+    "prior_knowledge": "Foundational engineering and mathematics knowledge, ability to utilize basic digital learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Integrated training course for pre-service and in-service teachers to develop maintenance management competencies across various fields. Designed by combining mobile-based self-directed learning and formative assessment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can understand core areas of maintenance management (e.g., engineering, safety, finance) and analyze practical cases within one week.",
+    "Learners can complete maintenance process simulations with a formative assessment pass rate of over 80% in a mobile environment.",
+    "Learners can propose three or more maintenance problem-solving strategies through team-based online discussions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Mobile Learning Module",
+      "Virtual maintenance simulation tool",
+      "Automated Formative Assessment System",
+      "Online Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0303",
+  "variant_type": "idld_aligned",
+  "title": "Mathematical Analysis and Technical Mastery Course Based on Ureteropyeloscopy Simulation",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and anatomy knowledge, foundational understanding of surgical procedures, skills in statistical and graph interpretation, basic measurement data analysis, and introductory concepts of probability and hypothesis testing.",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "In a BYOD environment, learners engage in individual simulation training and measure learning achievement through mathematical modeling (regression analysis, ANOVA) and project-based assessments. Learners are evaluated on technical proficiency through graph interpretation, data analysis, and formula application.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Calculate and statistically validate the accuracy of ureteroscopy procedures to over 80% using quantitative data collected from virtual reality simulators.",
+    "Analyze the success rate of stone removal techniques in simulation environments using probability distributions and confidence intervals, then establish optimization strategies to reduce error rates to 20% or below.",
+    "Within one week, learners will collect simulation metric data (time, angle, force) and apply descriptive statistics (mean, standard deviation, variance) and t-tests/ANOVA to analyze performance gaps between individuals. They will identify three or more differences between the top 20% and bottom 20% groups, then propose improvement plans (adjusting training frequency, modifying feedback cycles) based on statistical significance (p-value < 0.05)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "URO Mentor™ virtual reality simulator license",
+      "Simulation training video materials",
+      "LMS platform (assignment submission/feedback functionality)",
+      "Performance metric analysis tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

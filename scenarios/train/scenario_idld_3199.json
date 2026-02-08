@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3199",
+  "variant_type": "idld_aligned",
+  "title": "Online Collaborative Project-Based Social Education Curriculum",
+  "context": {
+    "prior_knowledge": "Basic knowledge of elementary education curricula and fundamental digital device utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Aimed at in-service elementary educators strengthening social studies competencies through asynchronous collaborative learning via smartphones",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can complete social studies project assignments with over 80% participation through online collaboration with peers",
+    "Learners can perform three or more feedback and interaction cycles among peers using digital communication tools",
+    "Learners can concretely articulate problem-solving and critical thinking competencies acquired during collaborative processes through formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Collaborative Mobile App (KakaoTalk Team Chat/Slack Mobile Version, etc.)",
+      "Digital Content (PDF/Video/Interactive Quiz)",
+      "Mobile-Compatible Project Template (Google Docs Mobile)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

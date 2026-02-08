@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4159-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Learning Design Practical Competencies: AR-Based Biomechanical Knee Load Analysis Practical Project",
+  "context": {
+    "prior_knowledge": "Foundational biomechanics theory, kinematic analysis knowledge, and basic understanding of AR technology",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Competency enhancement program for professionals in education/teaching/learning fields",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can quantify knee load changes when performing volleyball movements (drop landing, spike jump, etc.) in an AR simulation environment",
+    "Learners can diagnose biomechanical risk factors by analyzing patellar tendon force and knee moment data",
+    "Learners can collect and analyze three biomechanical data points (joint angles, muscle activation, gait cycles) in an AR-recreated soccer stadium environment and write a report evaluating clinical applicability using a 5-point rubric (accuracy, practicality, innovativeness)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Authoring Tool",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

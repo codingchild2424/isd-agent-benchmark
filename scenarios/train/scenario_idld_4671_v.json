@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4671-V",
+  "variant_type": "context_variant",
+  "title": "Instructor Emotional Expression Recognition Training in Educational Videos",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-based learning environment, considering novice-level understanding of science among professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify the four basic emotions (happiness, satisfaction, boredom, frustration) of human/virtual instructors in video lectures with 80% accuracy",
+    "Learners can distinguish positive emotions (happiness/satisfaction) from negative emotions (boredom/frustration) with 90% accuracy",
+    "Learners can explain perceptual differences in high-activity emotions (happiness/frustration) between human and virtual instructors"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Video Content",
+      "Emotional recognition assessment questionnaire",
+      "Statistical Data Visualization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2374",
+  "variant_type": "idld_aligned",
+  "title": "Principles and Applications of 5G-Advanced Beam Prediction",
+  "context": {
+    "prior_knowledge": "Basic wireless communication concepts, foundational machine learning theory, and introductory signal processing",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Aims to cultivate understanding and practical application of 5G-Advanced core technologies in smartphone-based learning environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the necessity of beam prediction and technical challenges in 5G-Advanced environments.",
+    "Learners can diagram the operational principles of machine learning-based beam prediction algorithms (utilizing spatial correlations).",
+    "Learners can quantitatively analyze the impact of beam prediction technology on communication efficiency (e.g., reducing RS overhead by 75%)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Interactive Content",
+      "Web-Based Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

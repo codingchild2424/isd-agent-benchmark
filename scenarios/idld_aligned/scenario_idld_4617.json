@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4617",
+  "variant_type": "idld_aligned",
+  "title": "Intelligent Tutoring System Design and Application for Students with Learning Disabilities",
+  "context": {
+    "prior_knowledge": "Understanding learning disabilities, basic instructional design principles, and experience with online education platforms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course for pre-service and in-service teachers to develop competencies in designing intelligent tutoring systems for supporting students with learning disabilities.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "One can explain the principles of designing single-mode instructional methods to reduce cognitive load for students with learning disabilities",
+    "One can propose strategies to consider the emotional responses of students with learning disabilities when designing interfaces for intelligent tutoring systems",
+    "One can interpret SVM-based learning effectiveness analysis results and apply them to improve instructional strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Responsive Web Design Tool",
+      "SVM (Support Vector Machine) Analysis Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

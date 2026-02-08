@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0504-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Skills: Mathematical Modeling and Strategy Through Australian Rules Football Simulation",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Quantify spatial utilization and player interaction patterns using match simulation data",
+    "Analyze the impact of match constraints (field size, player density, etc.) on statistical performance metrics (shot success rate, pass accuracy)",
+    "Apply network theory to calculate pass network centrality and variability, enabling mathematical evaluation of team strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

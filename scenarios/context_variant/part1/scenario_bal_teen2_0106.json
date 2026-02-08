@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0106",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Short-term intensive simulation-based electronics laboratory education course",
+  "context": {
+    "prior_knowledge": "Basic electronics theory and circuit analysis knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning course conducted in smartphone-centric limited-technology environments, aiming to cultivate practical skills while minimizing physical experiments through virtual lab simulations",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can explain operational principles through electronic circuit design and analysis simulations",
+    "Learners can independently perform at least three electronic experiments (e.g., RC circuits, OP-AMP amplifiers) using mobile-based simulation tools",
+    "Learners will analyze three or more experimental datasets provided within a week, write a report following graduate-level standards (introduction-methods-results-discussion), and achieve 12/15 points or higher on an evaluation rubric (clarity, accuracy, logical consistency)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Simulation Software",
+      "Fundamentals of electronics theory textbook",
+      "Experimental kits (optional use)",
+      "Online Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1011",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Simulation-Based Instructional Design for Integrating AI Competencies in Nursing Education",
+  "context": {
+    "prior_knowledge": "Basic nursing theory and clinical practice experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Performing AI-assisted clinical scenario simulations in a smartphone-centric, limited-technology environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "One can explain AI-based clinical decision-making processes according to Bloom's Revised Taxonomy (BRT) levels 4 (Understanding, Applying, Analyzing, Evaluating)",
+    "One can perform patient data analysis simulations using AI tools at each SAMR model stage (Substitution, Augmentation, Modification, Redefinition)",
+    "One can design and execute virtual patient management scenarios applying AI predictive models in VR environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR viewer",
+      "Cloud-Based AI Analysis Tool",
+      "Mobile-Optimized Simulation Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

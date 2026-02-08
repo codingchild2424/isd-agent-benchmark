@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0648-V",
+  "variant_type": "context_variant",
+  "title": "Gamification-Based Science Learning Effectiveness Enhancement Program",
+  "context": {
+    "prior_knowledge": "Elementary scientific terminology comprehension and basic smartphone operation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducting smartphone-based learning in limited technology environments, utilizing 10-minute microlearning modules",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain five core science concepts through gamification elements.",
+    "Learners improve self-directed learning abilities by achieving over 80% weekly mission completion rates.",
+    "Learners record at least three weekly interactions with peer learners based on leaderboard feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Gamification Mobile Application",
+      "Science Concept Animation",
+      "Weekly Mission Template",
+      "Simplified Quiz Generator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

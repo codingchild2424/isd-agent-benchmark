@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0626",
+  "variant_type": "idld_aligned",
+  "title": "Age-Friendly Multimedia Learning Design: Customized Strategies for Adult Learners Aged 40+",
+  "context": {
+    "prior_knowledge": "Basic digital device usage skills and foundational knowledge in social sciences",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Operates in a smartphone-centric, limited-technology environment, requiring multimedia design that addresses learners' reduced working memory capacity",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain at least three multimedia content design principles reflecting age-related cognitive characteristics.",
+    "Learners can effectively produce educational materials using voice explanations and redundant text in smartphone environments.",
+    "Learners can present strategies for utilizing age-appropriate visual aids through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-Optimized Authoring Tools",
+      "Audio Editing Software",
+      "Image Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0466",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Mobile Microlearning-Based Programming Education Design",
+  "context": {
+    "prior_knowledge": "Comprehension of basic programming concepts (variables, conditionals, loops, etc.)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Distributed learning environment using digital devices (tablets/smartphones), providing micro-tasks linked to PBL",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners enhance their ability to solve programming problems through 5-minute micro-content units (20% improvement in pre-post assessments).",
+    "Learners correct code errors by over 80% using immediate feedback provided in mobile environments.",
+    "Learners autonomously study and apply over 15 micro-units to complete a 2-week PBL project."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Programming simulator",
+      "Mobile Learning Management System (LMS)",
+      "Interactive Quiz Template",
+      "Automated Code Evaluation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

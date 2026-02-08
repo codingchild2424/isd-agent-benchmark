@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0506",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Computer-Based Mathematics Test Design Applying Cognitive Load Theory",
+  "context": {
+    "prior_knowledge": "Basic mathematical operations and statistical concepts, experience with CBT platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course focused on designing personalized CBT (Computer-Based Training) and mastering assessment methodologies using learners' mobile devices.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain how to optimize visual components of CBT math items according to CTML principles.",
+    "Learners can redesign the information presentation structure of test items by applying Cognitive Load Theory (CLT).",
+    "Learners analyze eye-tracking data in mobile environments to evaluate item utility."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CBT Authoring Software",
+      "Eye-Tracking Analysis Tool",
+      "Mobile-Compatible Assessment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

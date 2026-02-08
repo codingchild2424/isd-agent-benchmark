@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5412",
+  "variant_type": "idld_aligned",
+  "title": "Visuo-Kinesthetic-Based Anatomy Education Design: Practice-Centered Learning for Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Understanding of basic anatomical terminology and human anatomy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducted in smartphone-based limited-technology environments, emphasizing tactile learning through actual bone model utilization",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can visually and kinesthetically analyze 3D human anatomy (joints, bones) and explain key names and functions with 80% accuracy",
+    "By comparing smartphone apps with physical bone models, learners can achieve over 70 points (out of 100) on anatomy assessment items utilizing spatial cognition skills",
+    "Learners can propose two customized anatomy teaching strategies to support peer teachers with low spatial ability"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Physical Bone Model Set",
+      "Low-Spec Smartphone-Compatible Anatomy App",
+      "Joint Structure 3D Printed Output (Optional)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

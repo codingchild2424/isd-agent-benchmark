@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0898-V",
+  "variant_type": "context_variant",
+  "title": "Short-Intensive Flipped Learning-Based Logistics System Simulation Course",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-based learning environment, centered on real-time interaction",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain inventory management optimization methods through logistics system simulation modeling",
+    "Learners can generate visualized logistics process outputs using mobile-compatible simulation tools such as AnyLogic",
+    "Learners can propose simulation design improvements based on peer feedback in flipped learning activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Simulation Tool",
+      "Short Video Lecture Materials",
+      "Real-Time Collaborative Whiteboard (e.g., Miro)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

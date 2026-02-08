@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0335",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Cognitive Load Prediction and Management in Patient Handover: Medical Communication Language Strategy Training",
+  "context": {
+    "prior_knowledge": "Basic medical terminology, foundational understanding of patient handover processes, proficiency in specialized vocabulary required in healthcare settings, and basic medical documentation skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A language-based curriculum designed to enhance medical communication expertise, focusing on structured verbal expression training (e.g., SBAR, ISBAR) for accurate information transfer and efficient communication during patient handoffs. The goal is to comprehensively improve learners’ reading comprehension, expressive skills, and proficiency in specialized terminology.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can distinguish the three types of cognitive load (intrinsic, extraneous, and germane) that occur during patient handoff using professional terminology and explain medical communication strategies for each type.",
+    "Learners can analyze cognitive load predictors (e.g., fatigue, patient volume, information sources) during patient handoff and develop language expression strategies to improve task efficiency and communication clarity.",
+    "Learners can propose structured language expression strategies (e.g., SBAR technique) that enhance germane cognitive load by applying standardized handoff protocols and utilizing feedback systems."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CLIH (Cognitive Load Inventory)-Based Assessment Tool",
+      "Simulation Patient Handover Case Database",
+      "LMS-Integrated Handover Protocol Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

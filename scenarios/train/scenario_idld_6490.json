@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6490",
+  "variant_type": "idld_aligned",
+  "title": "Optimizing Science Education Design Through Analysis of Perceived Learning Environment Differences",
+  "context": {
+    "prior_knowledge": "Possession of Basic Scientific Knowledge, Experience with Digital Devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based training program for science field employment preparation",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can diagnose discrepancies in perceptions of the learning environment between learners and instructors with 80% accuracy.",
+    "Learners can design three or more customized instructional strategies based on perception gap patterns.",
+    "Learners can improve learning environment satisfaction by 20% through a real-time feedback system utilizing digital tools.",
+    "Learners can apply perception gap resolution strategies to actual educational settings via project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IPSEE survey instrument",
+      "Learning style diagnostic survey",
+      "Teaching approach diagnostic tool",
+      "Digital Collaboration Platforms"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

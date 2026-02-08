@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-1107",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Strengthening Academic Writing Competencies with Generative AI Support",
+  "context": {
+    "prior_knowledge": "Understanding of basic academic writing structures and smartphone utilization skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Project-based learning applying generative AI tools to actual academic writing tasks in smartphone-based learning environments with limited technology",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can systematically design three or more stages (planning-drafting-revision) of the academic writing process using generative AI tools.",
+    "Learners enhance critical analysis skills by applying at least five criteria to evaluate the academic suitability of AI-generated content.",
+    "Learners can establish a writing time management plan (2 weekly 30-minute sessions) and resource utilization checklist (topic selection/data collection/first draft) using three or more AI tools (e.g., Grammarly, Notion AI) in mobile environments, achieving over 80% execution rates for four weeks."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ChatGPT-4-Based Mobile Application",
+      "Academic Writing Template Database",
+      "AI-Human Collaboration Case Study Videos (5-Minute Segments)",
+      "Mobile-Optimized Feedback Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

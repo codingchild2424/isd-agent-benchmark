@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0661",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Advanced Mathematical Problem-Solving Project Utilizing Experience-Based Learning with Information Processing",
+  "context": {
+    "prior_knowledge": "High school mathematics fundamentals (functions, calculus, statistics) and basic understanding of programming languages (Python)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Data analysis and mathematical modeling projects for real-life problem-solving, with experiential learning reinforced through team collaboration",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can build 2 mathematical models using real workplace data (e.g., production line efficiency, inventory management data), systematically analyze results following a 4-stage process (problem definition, modeling, verification, solution proposal), present findings, and achieve at least 3 points (out of 5) on an evaluation rubric (model appropriateness, data usability, logical consistency).",
+    "In 3-person project teams, learners can perform data collection (from at least 2 sources), processing (using Excel/statistical tools), and interpretation (visualization and trend analysis) with a given dataset, reflect the experiential learning cycle (experience-reflection-conceptualization-application) in 1-page reports per stage, and submit final project deliverables.",
+    "Learners submit three individual portfolios documenting their mathematical thinking processes and problem-solving strategies during the mid-term course (4 weeks) and achieve scores meeting at least four out of five self-assessment checklist items and three out of four peer-assessment rubric items."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online data analysis tool (Google Colab, etc.)",
+      "Open-source library for mathematical modeling",
+      "PBL Worksheet Template",
+      "Collaboration platform (Notion, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

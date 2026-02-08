@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-0580",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-directed] Blended Learning-Based Basic English Education Course: Short-Term Intensive Program for Science Field Practitioners",
+  "context": {
+    "prior_knowledge": "Basic English grammar and conversational English comprehension at an everyday level",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires establishing a VR-based simulation learning environment and ensuring accessibility centered on mobile devices.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately utilize 200 core English vocabulary terms related to science-related practical tasks.",
+    "Learners can comprehend and summarize English texts at the level of scientific abstracts with over 70% accuracy.",
+    "Learners can understand and perform English oral instructions for science experiment procedures in a VR simulation environment with over 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible VR Content",
+      "Moodle Platform",
+      "Voice Recognition-Based Feedback System",
+      "Science Domain English Learning Materials Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

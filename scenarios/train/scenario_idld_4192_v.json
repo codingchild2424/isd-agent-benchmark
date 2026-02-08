@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4192-V",
+  "variant_type": "context_variant",
+  "title": "Data Science Practical Competency Enhancement: Mobile Project Management Language Utilizing Virtual Learning Media",
+  "context": {
+    "prior_knowledge": "Fundamental project management concepts and understanding of work processes",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can complete virtual scenario-based language tasks in a mobile environment with over 90% success.",
+    "Learners can utilize language expressions required in project management situations with over 80% accuracy.",
+    "Learners can perform peer collaboration feedback through virtual learning media at least three times."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

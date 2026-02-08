@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0547",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Port Crane Operator Simulation-Based Applied Mathematics Training Program: Trigonometry·Linear Equations·Statistical Modeling",
+  "context": {
+    "prior_knowledge": "Basic crane operation theory, understanding of port work procedures, and comprehension of middle school-level mathematics concepts (linear equations, coordinate plane graphs, basic statistics (mean/variance)). Familiarity with fundamental trigonometric function properties (unit circle, special angle values) and basic linear system solving methods (elimination/substitution)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Application of mathematical modeling (cargo space volume calculation, work-time prediction equations) in virtual simulations mimicking real port operations. Training in controlling probabilistic variables (weather conditions, equipment failures) cultivates probabilistic thinking and optimization problem-solving skills. Learners solve real-world scenarios in project units, experiencing data-driven decision-making processes (statistical significance testing, graph trend analysis).",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can calculate object positions, angles, and movement paths in a 3D coordinate system using trigonometric functions (sine, cosine, tangent) through simulations of crane types (Quay-Side Gantry, Rubber Tired Gantry) and solve at least eight of ten problems with accuracy.",
+    "Learners can improve resource allocation skills by constructing linear equation systems for container loading optimization and applying probabilistic modeling (calculating expected values, variances).",
+    "Learners can analyze real-time performance feedback from an automated evaluation system in simulations, identify error patterns in solving ten or more math problems (measurement error analysis, graph interpretation, statistical inference), and propose three or more improvement strategies (calculation verification procedures, unit conversion formulas, data visualization tools) to achieve over 80% accuracy enhancement."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Simulation Software",
+      "Virtual Reality (VR) Headset Rental System",
+      "Crane Control Interface Simulator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

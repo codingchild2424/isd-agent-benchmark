@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6519-V",
+  "variant_type": "context_variant",
+  "title": "Generative AI-Enabled Instructional Design Strategies for Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasis on concept mapping and lesson design activities combining ChatGPT and peer assessment in a smartphone-based restricted technology environment",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can generate and revise social studies concept maps using ChatGPT.",
+    "Learners can improve lesson design plans by incorporating peer assessment feedback.",
+    "Learners can apply higher-order thinking skills in instructional design processes utilizing generative AI."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "ChatGPT Free Version",
+      "Concept Map Template",
+      "Peer Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

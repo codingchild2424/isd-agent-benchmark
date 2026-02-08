@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8500-V",
+  "variant_type": "context_variant",
+  "title": "Online Discussion-Based Microlearning for Improving Medical Interview Skills",
+  "context": {
+    "prior_knowledge": "Knowledge of basic medical terminology and foundational patient communication concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learning the cognitive foundations of medical interview skills through asynchronous discussions and video learning accessible via smartphones, reinforced by project-based assessment and peer feedback.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain core concepts such as open-ended questioning, active listening, and response analysis during patient interviews.",
+    "Learners can improve interview scenarios by over 80% based on peer feedback in asynchronous discussions.",
+    "Learners can apply a 3-stage model (preparation-execution-reflection) to structure medical interview processes in real-world cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Medical Interview Video Materials (MP4)",
+      "Discussion board functionality",
+      "Mobile-Optimized PDF Learning Modules"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

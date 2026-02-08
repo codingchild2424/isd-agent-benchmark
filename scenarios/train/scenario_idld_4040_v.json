@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4040-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Immersive Virtual Reality-Based Science Instructional Design Workshop",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can design three or more types of interactive activities for conveying scientific concepts in VR environments.",
+    "Learners can analyze trends in VR educational design research using systematic literature review methods.",
+    "Learners can evaluate the interaction level and openness level of VR learning activities by applying cluster analysis techniques.",
+    "Learners can develop VR simulation scenarios applicable to real science classes through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

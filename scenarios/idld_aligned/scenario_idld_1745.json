@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1745",
+  "variant_type": "idld_aligned",
+  "title": "Academic Performance Improvement Strategies Through LMS Interaction Data Analysis",
+  "context": {
+    "prior_knowledge": "Fundamental Digital Literacy and LMS Usage Experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Targeting advanced language learners in medical, legal, and technical professions; emphasizes improving practical language skills through project-based assessments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically analyze LMS interaction types (access frequency, content engagement, collaborative activities) according to the CILC classification framework.",
+    "Learners can visually represent the correlation between their LMS usage patterns and academic performance.",
+    "Learners can improve project execution efficiency by 20% or more by establishing personalized LMS optimization strategies based on analysis results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Moodle Log Data Sample",
+      "Learning Analytics Visualization Tool",
+      "CILC Classification Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0561",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Ecological Dynamics-Based Learning for Designing Athlete Training Programs",
+  "context": {
+    "prior_knowledge": "Fundamental exercise biomechanics and comprehension of data analysis concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Real-time feedback using digital devices combined with offline hands-on practice",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify at least three key constraints affecting kicking performance by analyzing real-game environment data.",
+    "Learners can design representative training scenarios by applying ecological dynamics theory.",
+    "Learners can explain differences in constraint interactions across skill levels using rule-based analysis via the Apriori algorithm."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Australian Rules Football Game Video Materials",
+      "Data Analysis Software License",
+      "Motion Capture Equipment",
+      "Online Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

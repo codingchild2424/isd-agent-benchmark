@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2355-V",
+  "variant_type": "context_variant",
+  "title": "Hierarchical Instructional Design Approach for Enhanced Interactivity",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course for pre-service and in-service science teachers emphasizing the enhancement of interactive design competencies. Operated with a focus on practical training using real-time video conferencing tools and personal devices.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can interpret the five stages of a hierarchical design approach (control layer, strategy layer, representation layer, etc.) and apply them to actual science classes.",
+    "Learners can utilize control layer theory (interface design, interaction patterns, etc.) for designing interactive lessons in online environments.",
+    "Learners can develop formative assessment tools to evaluate learner engagement and build feedback systems."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactivity Design Template",
+      "Zoom Practical Environment",
+      "Science Lesson Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

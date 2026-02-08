@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1988",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Protein Thermal Stability Regulation Education Course Utilizing Molecular Dynamics Simulation",
+  "context": {
+    "prior_knowledge": "Elementary biochemistry and protein structure knowledge, basic computer application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are professionals focusing on applying complex scientific concepts to real-world problem-solving, with a hands-on curriculum utilizing digital devices.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze residues affecting protein thermal stability using molecular dynamics simulation tools",
+    "Learners can quantitatively evaluate protein conformational stability through RMSD calculations",
+    "Learners can design rational residue substitution strategies to enhance protein thermal stability based on MD simulation results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Molecular dynamics simulation software",
+      "Protein structure database",
+      "Computational computing resources"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

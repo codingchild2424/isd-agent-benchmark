@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4988",
+  "variant_type": "idld_aligned",
+  "title": "STEM Exploration Through Meteorological Phenomena and Data Analysis: Short-Term Project-Based Learning",
+  "context": {
+    "prior_knowledge": "Basic Atmospheric Science Knowledge and Foundations of Data Analysis",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Real-time weather data analysis and region-specific problem-solving projects using digital devices.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Mesonet data can be utilized to analyze regional weather patterns and build predictive models.",
+    "In PBL (Problem-Based Learning) projects based on real weather issues, students perform collaborative and data-driven decision-making.",
+    "By applying the scientific principles of meteorological phenomena, solutions can be proposed for community issues (e.g., improving flood warning systems)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mesonet real-time data platform access",
+      "Weather observation equipment experience kit",
+      "Spatial analysis software (e.g., ArcGIS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4334",
+  "variant_type": "idld_aligned",
+  "title": "AI-Powered Virtual Tour Education for English Proficiency Enhancement in Tourism Vocational High Schools",
+  "context": {
+    "prior_knowledge": "Basic English communication skills, understanding of fundamental tourism terminology",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course aiming to cultivate practical English skills required for tourism guide roles, presupposing mobile device usage in a BYOD environment. Conducted with a focus on summative assessment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Through AI virtual tour simulation, learners can utilize over 80% of core English expressions required in tourism settings.",
+    "Using an AI real-time feedback system, learners can improve pronunciation, grammar, and vocabulary accuracy by over 40%.",
+    "Learners' ability to provide context-specific English guidance is evaluated using a three-level assessment criteria through interaction scenarios with virtual tourists."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AI Virtual Tour Platform License",
+      "On-site Tourism Voice Dataset",
+      "Mobile-Compatible Content Authoring Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

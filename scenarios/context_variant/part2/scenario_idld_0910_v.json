@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0910-V",
+  "variant_type": "context_variant",
+  "title": "Fundamentals of Machine Learning-Based Graphene Absorber Design",
+  "context": {
+    "prior_knowledge": "Understanding Basic Electromagnetism and Machine Learning Concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Combined theory-practice learning through VR-based graphene structure manipulation and machine learning model application exercises.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the fundamental operating principles of graphene-based absorbers from an electromagnetic perspective",
+    "Implement a spectral prediction model utilizing five machine learning algorithms (kNN, ANN, DT, ETs, RF) in a simulated environment",
+    "Apply RF algorithms to inverse design problems to propose optimal graphene absorber structures"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software",
+      "Graphene Material Properties Database",
+      "Machine Learning Framework (Jupyter Notebook)",
+      "Online assessment platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

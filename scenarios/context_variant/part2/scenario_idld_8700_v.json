@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8700-V",
+  "variant_type": "context_variant",
+  "title": "Integrated Hardware Simulation Education Program for Electrical Engineering",
+  "context": {
+    "prior_knowledge": "Elementary electrical circuit theory and basic MATLAB software proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course emphasizing intuitive understanding of physical operating principles in electrical systems through hardware simulations resembling real-world scenarios. Modular design is required to address individual learning pace differences in BYOD environments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Implement a power system model with over 85% accuracy using TIMS simulation hardware",
+    "Quantitatively evaluate differences from real systems through comparative experiments conducted at least three times based on simulation results",
+    "Learners will analyze three simulation-based problems (e.g., process optimization, quality control) occurring in industrial settings through team projects (four members per team), write a project report including problem definitions and solutions, and achieve a grade of B or higher in at least four of five evaluation criteria during the final presentation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "TIMS Simulation Kit",
+      "Auxiliary VR Equipment",
+      "Personal Laptop",
+      "Cloud-Based Data Analysis Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

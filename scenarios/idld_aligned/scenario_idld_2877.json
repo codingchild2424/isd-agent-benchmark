@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2877",
+  "variant_type": "idld_aligned",
+  "title": "Technology Education Based on RFID and Mixed Reality: Mobile Microlearning Course",
+  "context": {
+    "prior_knowledge": "Understanding of basic electronics and programming",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A practice-oriented training course for current professionals combining RFID hardware with mixed reality (MR) software",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can visually explain the operating principles and data flow of RFID systems in a mixed-reality environment.",
+    "Learners can perform RFID-based IoT system design simulations using mobile devices with over 80% accuracy.",
+    "Learners can autonomously create AR/MR modules for technical education using mixed-reality content authoring tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "RFID Kit",
+      "MR Headset/Tablet",
+      "LMS platform",
+      "3D Modeling Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

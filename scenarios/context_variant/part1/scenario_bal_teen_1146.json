@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-1146",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] COIL-Based Inclusive Project Design in Science for Students with Disabilities",
+  "context": {
+    "prior_knowledge": "Basic Science Knowledge and Experience with Online Collaboration Tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Ensuring participation of students with disabilities and enhancing technology-based accessibility in international collaborative learning settings.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Collaborative Online International Learning (COIL) can be utilized to form mixed teams of students with and without disabilities to complete science projects",
+    "Technology-based platforms (cloud collaboration tools, accessibility software, etc.) can be used to design inclusive learning environments",
+    "Project-based assessment criteria can be applied to fairly measure the learning outcomes of students with disabilities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Accessibility Verification Tools (JAWS, NVDA, etc.)",
+      "Real-Time Captioning Software",
+      "Multilingual Collaboration Platform (Slack, Padlet, etc.)",
+      "Assistive Technology Devices (Supported by Student Life Support Center)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

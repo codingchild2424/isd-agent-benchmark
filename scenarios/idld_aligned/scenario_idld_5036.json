@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5036",
+  "variant_type": "idld_aligned",
+  "title": "Audiovisual Vocabulary Curriculum Utilizing Active Response Error Correction",
+  "context": {
+    "prior_knowledge": "Fundamental literacy skills and understanding of job-related basic terminology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Vocabulary education focused on social studies domains for practicing professionals, emphasizing smartphone-based learning activities",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can recognize and pronounce social studies domain-specific vocabulary with 80% or higher accuracy",
+    "Learners demonstrate a 75% or higher improvement in accuracy after error correction procedures",
+    "Learners can utilize at least 60% of acquired vocabulary in new sentence contexts during training"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-optimized word card template",
+      "Voice recording tool",
+      "Automated word test scoring system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0261",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Virtual Reality-Based Underwater Engineering Learning: Adaptive Simulation Utilization",
+  "context": {
+    "prior_knowledge": "Basic fluid mechanics and engineering mathematics knowledge, fundamental VR device operation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical skills-focused education utilizing smartphone-based VR devices in limited-technology environments.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply fluid dynamics principles (Bernoulli’s equation, drag calculation) while designing submarine models in VR environments.",
+    "Learners can analyze simulation data to propose optimal designs that resolve buoyancy balance and stability issues",
+    "Learners can solve underwater engineering problems with over 80% accuracy through a VR-based adaptive learning system tailored to individual learning styles"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Headset",
+      "Underwater engineering simulation software",
+      "Learning Analytics Dashboard",
+      "Basic fluid mechanics textbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

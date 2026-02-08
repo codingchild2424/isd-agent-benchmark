@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3506",
+  "variant_type": "idld_aligned",
+  "title": "Flexible Language Curriculum Utilizing Emergency Remote Teaching (ERT) and Mobile Messengers",
+  "context": {
+    "prior_knowledge": "Basic Language Proficiency and Fundamental Digital Device Usage Skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Multimodal curriculum optimized for limited data environments and mobile device accessibility, designed to enable language learning continuity in low-cost/low-data settings",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students acquire at least five language expressions per week using text/audio/image-based materials provided via mobile messenger (Telegram).",
+    "Students demonstrate language application skills by completing at least four weekly projects in a non-real-time online environment.",
+    "At the end of the course, over 80% of students maintain learning persistence by utilizing data optimization strategies."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile Messenger App (Telegram)",
+      "LMS platform",
+      "Low-Bandwidth Multimedia Resources",
+      "Project Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

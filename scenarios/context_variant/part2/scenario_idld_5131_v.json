@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5131-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Social Science Decision-Making Competency Enhancement Project: Language Domain",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply the three-stage social science decision-making framework (problem definition → strategy development → reflective evaluation) to solve language-related practical problems.",
+    "Learners can enhance their decision-making ability to assess the validity of language policies through evidence-based reasoning and social interaction.",
+    "Learners can systematically analyze complex problems in the language domain based on scientific knowledge and epistemic beliefs."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8248-V",
+  "variant_type": "context_variant",
+  "title": "Effective Mathematics Instructional Design Strategies in Remote Education Environments",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Modular mathematics education design for working professionals with time constraints in smartphone-based learning environments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply core linear algebra concepts with over 80% accuracy through 15-minute microlearning modules in a mobile environment",
+    "Learners can explain mathematical problem-solving procedures through asynchronous media-based interactive activities (quizzes, video lectures, simulations)",
+    "Learners can achieve a score of 70 or higher on comprehensive assessments using a mobile-optimized evaluation system even in limited technological environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Mobile LMS",
+      "Video Production Tools",
+      "Interactive Quiz Platform",
+      "Mathematics Simulation App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0637",
+  "variant_type": "balance_large_scale",
+  "title": "4C-ID Based Intensive Mobile Programming Course for Non-Majors [Large-Scale]",
+  "context": {
+    "prior_knowledge": "Understanding of basic computing concepts and simple algorithm principles",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Strengthening foundational programming competencies for graduate students in non-computer majors (e.g., architecture)",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can complete three or more practical Python-based examples within one week.",
+    "Learners can self-diagnose code errors with over 80% accuracy using debugging tools.",
+    "Learners can design simple applications utilizing conditional statements, loops, and function concepts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "4C/ID Instructional Design Template",
+      "Mobile-Compatible IDE (Integrated Development Environment)",
+      "Programming Question Bank",
+      "Peer Review Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0261-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Medical Practical Competencies: Surface Mount Technology Defect Analysis and Machine Learning-Based Root Cause Identification",
+  "context": {
+    "prior_knowledge": "Basic Electronics, Statistics, and Foundational Python Programming",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain three or more major defect patterns (nozzle size errors, pickup position errors, etc.) in the Pick & Place (P&P) process of SMT manufacturing.",
+    "Learners can implement a machine learning model in Python to classify defect causes using Automated Optical Inspection (AOI) data.",
+    "Based on experimental data, the probability of defect occurrence and statistical characteristics (mean, standard deviation) can be analyzed to infer root causes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

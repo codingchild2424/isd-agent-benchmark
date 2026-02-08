@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7761-V",
+  "variant_type": "context_variant",
+  "title": "Flipped Learning-Based Language Proficiency Improvement Program: Pre-Learning Video Viewing Strategies and Academic Achievement Analysis",
+  "context": {
+    "prior_knowledge": "Basic Language Proficiency and Experience with Online Learning Tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners watch pre-class videos on personal devices and engage in project-based activities during class. Analysis of video-viewing data investigates correlations with academic achievement.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners acquire foundational concepts by watching pre-learning videos in a flipped learning environment at least 80% within the specified timeframe.",
+    "Learners achieve at least 70% participation in in-class project activities based on pre-learning content.",
+    "Learners score at least 15% higher than groups with lower pre-learning video viewership and class participation in final assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Platform",
+      "Video Production Tools",
+      "Learning Analytics Dashboard",
+      "Project Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

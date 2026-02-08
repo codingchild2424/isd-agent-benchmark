@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8466",
+  "variant_type": "idld_aligned",
+  "title": "Advanced Analytics Course Using Scientific Simulation Software",
+  "context": {
+    "prior_knowledge": "Foundational science theory and data analysis competency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Workplace-oriented science simulation software proficiency enhancement program for working professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can replicate complex scientific phenomena from industrial settings through 3D modeling using scientific simulation software.",
+    "Learners can submit quantitative analyses of data collected in virtual laboratory environments as formal reports.",
+    "Learners can demonstrate variable control and result interpretation skills in simulation-based experimental design through project deliverables."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "PhET Simulation Tool",
+      "Labster Virtual Laboratory",
+      "MATLAB Simulink",
+      "LMS-Integrated Simulation Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

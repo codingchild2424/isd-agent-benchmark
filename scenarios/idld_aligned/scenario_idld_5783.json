@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5783",
+  "variant_type": "idld_aligned",
+  "title": "Inclusive Virtual Education Design: Building Science Learning Environments for All",
+  "context": {
+    "prior_knowledge": "Experience with basic online learning tools and secondary-level science knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Operating a MOOC-based course applying UDL principles with diverse learners in a blended learning environment using digital devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design science learning materials by applying the three UDL (Universal Design for Learning) principles (representation, action & expression, engagement).",
+    "Learners can construct inclusive virtual learning environments by utilizing accessibility features of various digital tools.",
+    "Learners can evaluate and improve science education content on MOOC platforms by applying UDL guidelines."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Multimedia Authoring Tool",
+      "Accessibility Validation Software",
+      "Open Educational Resources in Science"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

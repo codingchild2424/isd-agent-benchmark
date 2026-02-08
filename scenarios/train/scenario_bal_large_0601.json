@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0601",
+  "variant_type": "balance_large_scale",
+  "title": "Large-Scale Competency-Based Extended Flipped Learning Curriculum for Minimally Invasive Surgery (MIS)",
+  "context": {
+    "prior_knowledge": "Foundational medical knowledge and understanding of surgical procedures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Hands-On Instructional Environment Supported by Digital Devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve over 85% proficiency in performing each step of core MIS procedures (e.g., laparoscopic surgery) through extended flipped learning.",
+    "Improve collaborative communication (Team-STEPPS) competencies within surgical teams by 30% compared to pre-evaluation through team-based simulation.",
+    "Achieve an average score of 4 or higher (on a 5-point scale) across five OSATS (Objective Structured Assessment of Technical Skills) criteria, including instrument handling and accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual Surgery Simulator",
+      "MIS Practical Training Kit",
+      "Video Lecture Materials",
+      "Team Evaluation Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

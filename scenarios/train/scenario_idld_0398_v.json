@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0398-V",
+  "variant_type": "context_variant",
+  "title": "Radiological Oncology Anatomy Education: Interdisciplinary Interactive Learning Module",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Limited-use environment for anatomy labs and digital image analysis tools. Utilizes smartphone-based resource sharing and collaboration tools",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately identify and explain the 3D structures of four anatomical regions (head/neck, thorax, abdomen/pelvis, musculoskeletal system) related to radiation oncology.",
+    "Learners can contour radiation-targeted structures with 90% accuracy by linking CT/MRI images with anatomical specimens.",
+    "Learners can collaborate with an interdisciplinary team (radiation oncology, radiology, anatomists) to assess anatomical risk levels for clinical cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Anatomy Practical Specimen Set",
+      "Mobile-Compatible 3D Anatomy Application",
+      "Radiological Imaging Database",
+      "Multidisciplinary Instructor Pool (Radiation Oncologists, Radiologic Technologists, Anatomists)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1334",
+  "variant_type": "idld_aligned",
+  "title": "Hybrid Microlearning Program for Strengthening Climate Change Leadership Competencies",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and experience in education/administration",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A climate change education program for corporate managers/leaders, combining mobile learning via digital devices with monthly offline workshops and providing continuous feedback through formative assessments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "They can explain at least three scientific mechanisms and economic impacts of climate change",
+    "They can design team-based carbon reduction strategies and develop actionable implementation plans",
+    "They can propose organization-specific responses by applying a climate risk management framework"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Climate Data Visualization Tool",
+      "Interactive Online Learning Modules",
+      "Reusable Learning Objects (RLOs)",
+      "Mobile App-Based Quiz System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

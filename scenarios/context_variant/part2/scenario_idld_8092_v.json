@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8092-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Nursing Practice Competencies: Online Computer Programming Bridge Course",
+  "context": {
+    "prior_knowledge": "Understanding of basic programming concepts and experience in writing simple code",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "By completing ten micro-modules designed according to the ADDG9E model, learners can implement Python-based problem-solving algorithms with 80% accuracy.",
+    "Through weekly project assignments, learners can enhance their code refactoring capabilities—reflecting real-world work scenarios—by at least three levels based on evaluation rubrics.",
+    "Using peer assessment and feedback systems, learners can participate in at least five collaborative coding projects and execute over 90% of code quality improvement suggestions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5506-V",
+  "variant_type": "context_variant",
+  "title": "Blended Learning in Medical Education: Flipped Learning and 4Es Learning Cycle Application",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A long-term course for pre-service and in-service teachers conducted in a smartphone-based microlearning environment. Recontextualizes medical education content through social studies integration to emphasize blended learning effectiveness.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners demonstrate the ability to design flipped learning-based classes in a blended learning environment with over 80% accuracy.",
+    "Learners restructure medical education content into social studies using the 4Es learning cycle (Engagement, Exploration, Explanation, Extension).",
+    "Learners develop at least three interactive microlearning modules using smartphone-based webinar tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Webinar Platform",
+      "Mobile-Friendly LMS",
+      "Medical Education Content Database",
+      "Interactive quiz authoring tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

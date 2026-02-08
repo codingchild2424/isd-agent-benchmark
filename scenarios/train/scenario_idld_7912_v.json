@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7912-V",
+  "variant_type": "context_variant",
+  "title": "MOOC Participation Motivation Analysis and Social Learning Strategy Design",
+  "context": {
+    "prior_knowledge": "Online learning experience and foundational digital literacy. Basic understanding of social learning environments and experience in online community activities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Content design optimized for smartphone accessibility and microlearning formats. Emphasizes practical learning through project-based assessments. Requires designing activities that promote collaboration and social interaction among learners. Content development must consider alignment with educational curricula",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners analyze MOOC participants' learning motivation factors (social interaction, self-directed goals, external certification acquisition) and explain them within a social context.",
+    "Learners compare the impact of gamification elements on learning immersion across cases of social relationship formation and civic engagement.",
+    "Learners apply three core principles (accessibility, interactivity, modularity) when designing mobile-optimized microlearning content, produce one video or infographic under five minutes, and achieve an \"excellent\" rating in two or more of three peer-assessment rubric criteria (clarity, engagement, mobile suitability). Additionally, they enhance collaborative learning experiences through peer feedback exchanges during content creation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Video Production Tool",
+      "Online Collaboration Platform",
+      "Simplified Survey Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

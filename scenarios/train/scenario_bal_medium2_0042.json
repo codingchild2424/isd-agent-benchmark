@@ -1,0 +1,39 @@
+{
+  "scenario_id": "BAL-MEDIUM2-0042",
+  "variant_type": "balance_medium_final",
+  "title": "Clinical Competency Enhancement Course Based on Nursing Simulation",
+  "context": {
+    "prior_knowledge": "Knowledge of basic nursing theories and clinical practice experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-centered training course for corporate nursing education coordinators or prospective nursing instructors",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Patient safety-centered nursing interventions can be applied with 80% accuracy in a simulation environment.",
+    "Emergency response procedures can be successfully performed three or more times using high-fidelity simulation equipment.",
+    "Learners self-evaluate simulation performance results in three or more specific categories (e.g., patient safety protocols, communication, technical proficiency) during a 10-minute debriefing session, establish two or more improvement plans, and submit a checklist.",
+    "Role allocation and communication strategies are effectively executed two or more times in team-based simulations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Fidelity Patient Simulator",
+      "Online Simulation Platform Account",
+      "Standardized Patient Scenario Package",
+      "Zoom webinar features",
+      "Digital Assessment Tool (LMS-Integrated)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

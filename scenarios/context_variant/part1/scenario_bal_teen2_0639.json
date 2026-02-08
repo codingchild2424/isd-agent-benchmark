@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0639",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Trust Concept Reinforcement and Clinical Learning Enhancement Program in Medical Education",
+  "context": {
+    "prior_knowledge": "Fundamental clinical assessment techniques and patient communication experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Hybrid education environment combining smartphone-based VR simulations with problem-based learning",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain three attitudinal elements (humility, empathy, transparency) for building patient trust",
+    "Learners can identify trust-building barriers from the patient's perspective and propose solutions through VR simulation",
+    "Learners can evaluate how establishing trust relationships with patients affects diagnostic accuracy in problem-based learning (PBL) scenarios"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Equipment",
+      "Offline PBL worksheet",
+      "Clinical scenario video materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

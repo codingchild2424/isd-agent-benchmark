@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1750",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Connectivist Blended Learning Course for GNSS Education Competency Development",
+  "context": {
+    "prior_knowledge": "Basic Surveying Techniques and Understanding of GIS Software",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course focused on developing GNSS competencies immediately applicable in the workplace for practitioners. Integrates theoretical learning with practical activities to holistically enhance scientific attitudes, professional knowledge, and practical skills.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the operating principles and applications of GNSS systems and apply them to real-world cases.",
+    "Within one week, learners can collect and analyze five or more field data sets using three types of GNSS equipment (Trimble, Garmin, etc.), then generate and submit two or more spatial distribution maps using QGIS or ArcGIS.",
+    "Learners can form a collaborative network with 3 peer learners and 1 expert within a week, post at least 2 learning-related questions on an online forum, share feedback, and foster a continuous learning environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GNSS Receiver",
+      "GIS Software License",
+      "Online Collaboration Platform",
+      "Training Tablets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

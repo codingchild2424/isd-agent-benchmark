@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7591-V",
+  "variant_type": "context_variant",
+  "title": "Integrated Mobile Microlearning Course on Engineering Technology and Mathematics",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasis on practical math application skills for working professionals, optimized for smartphone-based learning environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners explain fundamental mathematical concepts (matrix operations, function graphs) required for image processing techniques (e.g., filter application, contrast adjustment) with over 80% accuracy",
+    "Learners demonstrate the mathematical modeling process by analyzing real-world engineering cases provided through a mobile app",
+    "Learners select appropriate mathematical formulas (FFT, convolution) to resolve issues encountered in image processing tasks (e.g., noise reduction)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Interactive Mathematics Simulation App",
+      "Image Processing Practice Dataset",
+      "PDF-Based Learning Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

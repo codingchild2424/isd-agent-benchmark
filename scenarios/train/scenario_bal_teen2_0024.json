@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0024",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Data-Driven Learning Problem Diagnosis and Personalized Instruction Strategy Design",
+  "context": {
+    "prior_knowledge": "Understanding of foundational pedagogy and basic scientific subject-matter knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Process for pre-service teachers to diagnose science subject learning issues and design improvement strategies in smartphone-based limited-technology environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze learners' historical assessment data to identify at least three incorrect answer patterns by key concept.",
+    "Classify learning problem types into three categories using data mining techniques and propose customized instructional strategies.",
+    "Formulate an improved teaching strategy plan suitable for the characteristics of science subjects based on diagnostic results."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Web-based analytics tools accessible via smartphones",
+      "Science subject assessment data samples",
+      "Learning problem diagnosis framework template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

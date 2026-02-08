@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0875",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Adaptive Dynamic Programming Design for Intelligent Energy Management Systems",
+  "context": {
+    "prior_knowledge": "Fundamentals of power systems, basic programming skills, and machine learning concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Combines hands-on digital device practice with theoretical lectures, conducting problem-solving projects based on real residential scenarios",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "The ability to design systems optimizing energy costs and loads using adaptive dynamic programming-based algorithms is assessed.",
+    "Battery management strategies for renewable energy integration can be mathematically modeled and experimentally tested.",
+    "After two weeks of training, learners implement a simple neural network model using Python and TensorFlow/Keras that dynamically adjusts energy management policies (cooling/heating setpoints) based on input meteorological data (temperature, humidity, solar radiation) and achieve at least 70% prediction accuracy on a test dataset."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Notebook environment",
+      "Simulation Dataset",
+      "MATLAB/Simulink license",
+      "Lecture textbook (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

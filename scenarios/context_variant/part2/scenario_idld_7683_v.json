@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-7683-V",
+  "variant_type": "context_variant",
+  "title": "Applying an Opportunity-Building Model for Improving English e-Learning Courses",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Digital device-based learning environment, project-based assessment, intermediate-level learners, and diverse professional backgrounds",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can extract core keywords with over 80% accuracy by analyzing text-mining-based materials provided in e-learning courses.",
+    "Learners can generate at least three visualization scenarios reflecting abstract learning styles using KeyGraph technology.",
+    "Learners can identify at least five \"opportunity factors\" in their learning patterns and propose improvement strategies by applying Grounded Theory methodology.",
+    "Learners can derive at least three actionable strategies for course improvement by evaluating the ARCS model (Attention, Relevance, Confidence, Satisfaction)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Text Mining Tool",
+      "KeyGraph Visualization Software",
+      "Online survey system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

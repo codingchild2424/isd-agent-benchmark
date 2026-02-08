@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8670-V",
+  "variant_type": "context_variant",
+  "title": "Designing Domain-Specific Scripting Language-Based Automated Machine Learning Pipelines",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Emphasizes competency in designing automation pipelines applicable to real-world work environments, focusing on improving work efficiency for professionals.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Can design automated machine learning pipelines using domain-specific scripting languages",
+    "Can implement model selection processes applying genetic algorithm-based optimization techniques",
+    "Complex machine learning tasks can be translated into concise scripting language syntax to solve practical problems"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Dedicated Development Environment Server",
+      "Domain-Specific Language (DSL) Execution Environment",
+      "Sample Dataset Provision"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0617",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Learning Analytics-Based Student Engagement Monitoring Strategies for Large-Scale Health Science Classes [Large-Scale]",
+  "context": {
+    "prior_knowledge": "Basic health science knowledge and experience using online learning tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Language Education Course Conducted in Smartphone-Centric Limited Technology Environments, Featuring Practice-Oriented Classes Using Action Learning Research Approach",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learning analytics tools enable monitoring of students' real-time engagement with over 80% accuracy",
+    "Applying the action learning approach, learners can design and implement at least three personalized feedback strategies per student",
+    "Based on Learning Management System (LMS) data, learners can identify and intervene early with the bottom 20% in academic achievement"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Learning Analytics Dashboard",
+      "Real-Time Video Conferencing Tool",
+      "Smartphone-Compatible Quiz Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

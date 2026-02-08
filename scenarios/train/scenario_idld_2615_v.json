@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2615-V",
+  "variant_type": "context_variant",
+  "title": "Game-Based Programming Learning Design: Social Domain Application for Intermediate Learners",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Flexible personalized learning environment enabling individual BYOD access to game platforms",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners enhance their intermediate-level algorithm design skills using conditional statements/loops by solving in-game missions.",
+    "Learners perform logical error debugging procedures with 80% accuracy by analyzing the game feedback system.",
+    "Learners provide three or more examples of applying programming games to social problem-solving simulations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cross-Platform Compatible Programming Game Software",
+      "Learning analytics dashboard system",
+      "Social issue scenario template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

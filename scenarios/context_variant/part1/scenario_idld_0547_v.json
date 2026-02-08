@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0547-V",
+  "variant_type": "context_variant",
+  "title": "Integrated Education on Code Tracing Techniques Using an Intelligent Tutoring System",
+  "context": {
+    "prior_knowledge": "Foundational programming concepts and practical experience in social sectors",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Code tracing technology training to enhance digital competencies of social sector practitioners. Requires design optimized for smartphone-based learning environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can visualize and explain the step-by-step execution flow of Python code.",
+    "Learners can achieve over 80% accuracy in tracking variable values in integrated code with compound conditionals and loops.",
+    "Learners can apply code tracing skills to solve problems in real-world social data processing scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized ITS (Intelligent Tutoring System) platform",
+      "Step-by-step hint provision system",
+      "Social studies code-tracing case database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

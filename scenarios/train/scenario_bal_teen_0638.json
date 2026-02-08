@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0638",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Project-Based Language Learning Design Utilizing Smartphones",
+  "context": {
+    "prior_knowledge": "Basic smartphone operation skills and foundational understanding of language learning",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners utilize smartphones as primary learning tools, requiring design considerations for offline collaboration and limited internet accessibility.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can autonomously explore and utilize language learning content using smartphone apps.",
+    "Learners can collaborate with peers to complete smartphone-based language projects through PBL (Problem-Based Learning) activities.",
+    "Learners can evaluate their learning environment and propose improvement strategies by applying the SERVQUAL framework."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Low-Bandwidth Language Learning App",
+      "Offline Collaboration Tool",
+      "SERVQUAL Assessment Questionnaire"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

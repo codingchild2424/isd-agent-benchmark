@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0195",
+  "variant_type": "balance_medium_last",
+  "title": "Learning-Based Approach for Learning Object Evaluation",
+  "context": {
+    "prior_knowledge": "Foundational instructional design theories and experience in educational content planning",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Development and application of assessment tools optimized for smartphone-based mobile learning",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain reliability and validity verification methods for measuring the educational effectiveness of learning objects.",
+    "Learners can design learning-based assessment tools that integrate formative and summative evaluations.",
+    "Learners develop a learning object evaluation framework executable in smartphone environments (e.g., 5 core metrics: mobile UX evaluation, content accessibility, interaction efficiency) and derive evaluation results with over 80% reliability by applying it to at least 3 real learning objects.",
+    "Learners analyze correlations between 3+ instructional design elements (interactivity, feedback mechanisms) and learning outcomes (test scores, assignment completion) via statistical analysis (correlation coefficients, p-value verification) over 1–6 months and write an APA-formatted research report."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible Assessment Template",
+      "Open-Source Statistical Analysis Tools",
+      "Learning Object Sample Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

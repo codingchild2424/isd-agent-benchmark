@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-5932-V",
+  "variant_type": "context_variant",
+  "title": "Design Pattern Application for Monitoring and Evaluating CSCL (Computer-Supported Collaborative Learning) Interactions",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and understanding of CSCL (Computer-Supported Collaborative Learning) concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended learning environment centered on smartphone-based activities, utilizing workplace-relevant case studies aligned with professionals' job responsibilities",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain five key metrics (quantitative/qualitative) for monitoring CSCL (Computer-Supported Collaborative Learning) interactions.",
+    "Learners can design at least three evaluation systems for CSCL interactions by applying design patterns (DP).",
+    "Learners can present a two-step or more process for utilizing CSCL monitoring tools implementable in smartphone environments.",
+    "Learners can categorize feedback for improving teamwork into three types through learning data analysis."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible monitoring template",
+      "Open-source CSCL (Computer-Supported Collaborative Learning) analysis tool",
+      "Interactive worksheet PDF",
+      "Case-Based Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

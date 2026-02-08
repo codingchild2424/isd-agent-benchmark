@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5001-V",
+  "variant_type": "context_variant",
+  "title": "Design and Utilization of IoT-Based Educational Curricula",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course for pre-service and in-service teachers focusing on integrating IoT technology into curricula. Requires content design considering smartphone-centric limited-technology environments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "They can systematically perform the analysis-design-development-implementation-evaluation phases of an IoT curriculum by applying the ADDIE model",
+    "They can select and structure educational content based on the IT2017 guidelines and IoT application cases from industrial settings",
+    "They can design and operate effective IoT experiments and project activities even in constrained technological environments (primarily smartphone-based)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IoT practice kit (mobile-compatible)",
+      "LMS platform",
+      "Open-source IoT development tools",
+      "IT2017 guideline documentation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

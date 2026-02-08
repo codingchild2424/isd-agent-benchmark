@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-0360",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Comparative Study on Online-Asynchronous Laboratory Learning Designs for Anatomy and Physiology",
+  "context": {
+    "prior_knowledge": "Foundational anatomy and physiology knowledge, and comprehension of advanced life science concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An asynchronous digital learning environment for office/administrative professionals, combining project-based assessments with standardized knowledge validation tools",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Students can accurately explain the difference in learning effectiveness between online and traditional laboratory settings with over 80% accuracy.",
+    "Learners can submit project outcomes applying core concepts of anatomy and physiology with a 90% completion level.",
+    "Learners can statistically compare and analyze academic achievement (exam scores, lab evaluations, overall grades) between two experimental methods with significance (p<0.05)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Anatomy Modeling Software",
+      "Virtual Laboratory Simulation Tool",
+      "LMS platform",
+      "Standardized Knowledge Assessment Tool",
+      "Digital Text Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

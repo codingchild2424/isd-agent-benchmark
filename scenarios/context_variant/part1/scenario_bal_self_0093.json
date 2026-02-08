@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-0093",
+  "variant_type": "balance_self_directed",
+  "title": "Customized Mobile Microlearning Design for [Self-Directed] Adult Literacy Education",
+  "context": {
+    "prior_knowledge": "Basic digital device operation skills and job-related language application experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Designing educational courses for advanced domain experts in managerial/leadership roles to improve language proficiency in smartphone-based limited-technology environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately read and compose basic workplace documents (emails, reports, etc.)",
+    "Learners independently complete five or more microlearning modules (5-minute duration) per week using mobile devices",
+    "Learners achieve an 80% or higher correct answer rate on the comprehensive assessment at the end of the one-week course"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Mobile app for language learning",
+      "Offline-accessible PDF materials",
+      "Voice-based learning content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

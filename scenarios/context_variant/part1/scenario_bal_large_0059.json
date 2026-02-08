@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0059",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Practical Course on Digital Library and Repository Construction",
+  "context": {
+    "prior_knowledge": "Foundational digital information management, understanding of data structures, and basic programming knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-oriented course for in-service professionals. Learners use BYOD (Bring Your Own Device) for hands-on activities, with learning outcomes measured through project-based assessment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the components of a digital library and standard metadata frameworks.",
+    "Design repository interoperability systems using the OAI-PMH protocol.",
+    "Implement digital resource search algorithms applying mathematics-based data structures (trees, graphs)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "DSpace/DSpace Installation Package",
+      "OAI-PMH Test Server",
+      "RDBMS Sample Dataset",
+      "XML Schema Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

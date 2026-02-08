@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-0844",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Digital Self-Directed Nursing Learner Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic nursing theory and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A program designed to strengthen digital competencies required in the Fourth Industrial Revolution by creating personalized learning pathways in a BYOD environment. It applies Professor Huh Tae-geo’s pedagogy to promote learners’ self-directedness and reflective thinking.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design and implement nonlinear learning pathways using digital tools",
+    "Learners can autonomously complete 80% or more of practical scenarios through self-directed decision-making during the learning process",
+    "Learners can improve their learning strategies three or more times through reflective journaling utilizing metacognition",
+    "Learners can perform double-loop learning—revising learning goals based on peer feedback—two or more times"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Learning Platform Access Permissions",
+      "Nursing Simulation Software",
+      "Metacognitive Learning Guide Document",
+      "Online Collaboration Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

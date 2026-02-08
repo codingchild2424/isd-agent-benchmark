@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5394-V",
+  "variant_type": "context_variant",
+  "title": "Machine Learning Practical Competency Enhancement: Activity·Problem·Project-Based Mobile Anatomy and Physiology Learning",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Students can explain brain structure-related technical terms in their native language and a second language with over 80% accuracy",
+    "Learners can explain the interaction of body systems as problem-solving methods using everyday life examples (e.g., muscle activity during exercise)",
+    "Learners can complete one human organ interconnection project using smartphone-based collaboration tools within four weeks"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

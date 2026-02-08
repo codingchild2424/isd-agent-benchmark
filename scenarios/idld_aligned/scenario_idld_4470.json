@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4470",
+  "variant_type": "idld_aligned",
+  "title": "Teacher Competency Enhancement Program Based on Situated and Spiral Learning for Digital Literacy Development",
+  "context": {
+    "prior_knowledge": "Core science curriculum knowledge and experience with digital tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Provides AR-based situated learning and progressive deepening experiences for pre-/in-service secondary teachers to effectively instruct digital literacy in science classes.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically collect, classify, and manage various digital information (oral, text, images, data visualizations) required in science classes.",
+    "Learners can effectively communicate and exchange feedback with peer teachers during digital content production using online collaboration tools.",
+    "Learners can creatively design digital educational content that implements science concepts (e.g., molecular structures, celestial motion) through multimodal, interactive, and context-based representations using AR technology.",
+    "Learners can establish systematic criteria to evaluate the pedagogical efficacy and technical completeness of digital outputs and propose problem-solving solutions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR authoring tool licenses",
+      "Digital content evaluation rubrics",
+      "Multimodal resource templates linked to science curriculum",
+      "Online Collaboration Platform Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

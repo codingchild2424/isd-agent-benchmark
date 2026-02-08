@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2061",
+  "variant_type": "idld_aligned",
+  "title": "Instructional Design Scenarios for an Online Master’s Degree Program in Computer Science",
+  "context": {
+    "prior_knowledge": "Foundational computer science knowledge (programming, data structures, algorithms) and understanding of mathematics (calculus, linear algebra)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-time video lectures and collaborative tools in BYOD environments, requiring modular design aimed at learner competency enhancement",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply core computer science theories (algorithm optimization, system design) to real-world projects.",
+    "Learners can complete team projects with five or more members using online collaboration tools.",
+    "Learners can establish personalized learning roadmaps (technology stacks, certification plans) for career development in technical fields."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Integrated Development Environment (IDE) for Programming",
+      "Online Collaboration Platforms (Slack, GitHub)",
+      "Simulation Software",
+      "Video Lecture Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

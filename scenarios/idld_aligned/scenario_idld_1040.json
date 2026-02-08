@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1040",
+  "variant_type": "idld_aligned",
+  "title": "Activity-Based Interactive Online Mathematics Educational Materials Development Course",
+  "context": {
+    "prior_knowledge": "High school-level mathematical concepts and workplace data analysis experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Need for geographically dispersed developer teams to collaboratively create customized mathematics educational materials considering cognitive load, emphasizing real-time interaction and progress-tracking features.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can develop visualization materials for math concepts by applying activity-based interaction design principles",
+    "Learners can design three or more personalized learning activity scenarios that support different cognitive styles",
+    "Learners can create interactive quiz modules for mathematical problem-solving in real-time video environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account",
+      "H5P/Articulate 360 Licenses",
+      "Cloud-Based Collaboration Tools (Notion, Figma)",
+      "Basic Statistical Data Sets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

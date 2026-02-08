@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-1038",
+  "variant_type": "balance_teen_k12",
+  "title": "Peer Feedback Pedagogy for Simulation-Based Critical Thinking Development in K-12 Education",
+  "context": {
+    "prior_knowledge": "Knowledge of fundamental scientific theories and experimental methodologies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Instructional design combining science lab simulations/VR tools with peer assessment in a smartphone-centric limited-technology environment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze the validity of science experiment results with over 80% accuracy through peer evaluation feedback",
+    "Learners apply a multi-stage critical thinking process (problem definition-hypothesis formulation-conclusion derivation) of at least three levels to scientific problems presented in VR simulation environments",
+    "Learners provide structured feedback (with at least three specific improvement points) on peers' science experiment designs"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible VR Simulation Platform",
+      "Peer Assessment Guidelines Template",
+      "Science Experiment Simulation Scenario Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

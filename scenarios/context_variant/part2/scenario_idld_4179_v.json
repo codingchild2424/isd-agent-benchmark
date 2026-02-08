@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4179-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Systems Design Competencies: Personalized Social Studies Learning Using Intelligent E-Learning Systems",
+  "context": {
+    "prior_knowledge": "Basic Proficiency in Online Learning Platforms and Understanding of Social Studies Foundations",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners complete adaptive algorithm-recommended personalized content (5-minute modules) at an 80% or higher completion rate.",
+    "Learners improve their understanding of core social studies concepts by 20% or more through formative assessments (quizzes/feedback).",
+    "Learners can select three or more core topics from system-recommended learning paths (e.g., Coursera, Udacity), create a weekly learning plan (including time allocation and resource lists), and achieve an implementation rate of 80% or higher over two weeks."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0477",
+  "variant_type": "idld_aligned",
+  "title": "Hybrid Deep Learning-Based Skin Lesion Classification and Diagnostic Education",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and understanding of digital image processing concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical skills-focused training for learners preparing for employment in medical AI fields",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can classify at least three major types of skin lesions and describe their clinical characteristics",
+    "Learners can explain the basic structure of the ResUNet + ACO model and its application to skin lesion classification",
+    "Learners can evaluate model performance using medical image analysis metrics such as the Dice coefficient and Jaccard index"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Dermatological Lesion Image Dataset",
+      "Google Colab/Similar Cloud Environment",
+      "Hybrid ResUNet-ACO Model Sample Code",
+      "Zoom Account & Virtual Training Infrastructure"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2133",
+  "variant_type": "idld_aligned",
+  "title": "Mastery-Based Online Language Learning Module Improvement Design",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and fundamental digital learning tool usage",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Building personalized learning environments for general citizens to enhance language proficiency.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners self-select learning materials and achieve a formative assessment pass rate of 85% or higher",
+    "Learners selectively utilize pre-assessment attempts to reduce average learning time by 10%",
+    "Learners achieve the target language proficiency level within two retries through a data-driven feedback system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Learning Analytics Tools",
+      "Interactive Language Practice Module",
+      "Customized Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

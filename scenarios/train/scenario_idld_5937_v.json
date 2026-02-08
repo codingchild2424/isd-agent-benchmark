@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5937-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Competencies: Conceptual Model-Based Education for Fostering Design Thinking Dispositions",
+  "context": {
+    "prior_knowledge": "Basic problem-solving skills and experience in mathematical thinking",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the application of the five stages of design thinking (Empathize-Define-Ideate-Prototype-Test) to mathematical problem-solving scenarios.",
+    "Learners can practice design thinking dispositions—such as openness, empathetic observation, and experimental approaches—during collaborative problem-solving and document reflections in a journal.",
+    "Learners can recognize the importance of design thinking dispositions in mathematical problem-solving and propose strategies for applying them to real-life issues."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

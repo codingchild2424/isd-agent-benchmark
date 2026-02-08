@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5647",
+  "variant_type": "idld_aligned",
+  "title": "Online English Experiential Learning Program Based on Real-World Tasks",
+  "context": {
+    "prior_knowledge": "Basic English Vocabulary and Sentence Comprehension Skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Application of virtual environment simulations and robotic agent role-playing activities to strengthen experiential learning.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform basic English communication (greetings, ordering, directions, etc.) in virtual scenarios resembling real-life situations.",
+    "Through task-based learning activities, learners can understand and utilize over 50 essential vocabulary items per context.",
+    "Learners can apply learned English expressions to real-world tasks through the experiential learning cycle (experience-reflection-conceptualization-application)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Platform",
+      "Virtual Simulation Software",
+      "Robotic agent avatar system",
+      "Task activity sheet (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

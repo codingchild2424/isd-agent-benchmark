@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5749",
+  "variant_type": "idld_aligned",
+  "title": "Reinforcement Learning-Based Personalized Cancer Treatment Strategy Design",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and foundational data analysis comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-based learning conducted outside work hours for corporate professionals.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "One can describe the procedure for applying reinforcement learning (Q-learning) to clinical data.",
+    "Hands-on practice with Q-function approximation methods using Support Vector Regression (SVR) and Extremely Randomized Trees (ERT)",
+    "Application of personalized cancer treatment strategies considering delayed effects to clinical case data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Learning Platform",
+      "Clinical data sample set",
+      "Reinforcement learning simulation tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

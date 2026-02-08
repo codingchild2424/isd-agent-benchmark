@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3617",
+  "variant_type": "idld_aligned",
+  "title": "IoT-Based Cyber-Physical Interaction Programming Education Course",
+  "context": {
+    "prior_knowledge": "Understanding Basic Programming Concepts, Foundational Knowledge in Physics and Mathematics",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Students experiment with cyber-physical interactions using personal smartphones as controllers and implement 3D animations via VPython. Conducted as blended learning combining offline activities and online programming",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can create 3D animation programs controllable via smartphones using an IoT platform",
+    "Students apply physics concepts to cyber-physical systems to complete programming projects linked to real-world phenomena",
+    "Students understand the fundamentals of digital twin development and can design science fair projects"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone (One Per Learner)",
+      "Wi-Fi-Enabled Environment",
+      "Web Browser-Based Development Environment",
+      "VPython/GlowScript Library",
+      "IoTtalk Platform Access Permission"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

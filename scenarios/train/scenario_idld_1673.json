@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1673",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Network Engineering Practical Skills Course",
+  "context": {
+    "prior_knowledge": "Basic network theory and protocol comprehension",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Mobile-based learning for professionals to acquire network practice skills directly applicable to their work, with learner-centered activities via BYOD.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Using the PT Anywhere platform, learners perform routing and switching configuration practice without physical network equipment.",
+    "Through learning analytics, learners analyze individual practice performance results and establish improvement plans.",
+    "Via team-based projects, learners design and implement virtual network infrastructure in a cloud environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "PT Anywhere platform license",
+      "Mobile device-compatible practice modules",
+      "Virtual network simulation tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

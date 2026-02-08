@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8758-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Expert Course on Augmented Reality-Based Science Education Design and Assessment",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and experience with digital tool utilization",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Diagnose the educational integration of AR educational content on a 5-point scale using the EVAR assessment rubric.",
+    "Implement three or more interactive elements using AR technology when designing science experiment simulations.",
+    "Plan and develop AR learning scenarios to achieve an average score of 3 or higher across 18 evaluation criteria through peer assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

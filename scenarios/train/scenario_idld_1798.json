@@ -1,0 +1,35 @@
+{
+  "scenario_id": "IDLD-1798",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning-Based e-Learning Material Development Process",
+  "context": {
+    "prior_knowledge": "Experience using basic digital learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short-term intensive science course in BYOD environments requiring formative assessment-based learning outcome measurement. Must be designed for accessible engagement by learners with beginner-level domain expertise",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the core elements of the e-learning material development stages (needs analysis - storyboard creation - content production).",
+    "Learners can apply the necessary learning theories to design microlearning content suitable for mobile environments.",
+    "Learners can structure an ID team collaboration process (role distribution among instructional designers - subject matter experts - technologists) according to real-world scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "eLearning Authoring Tools (Articulate 360, Canva, etc.)",
+      "Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

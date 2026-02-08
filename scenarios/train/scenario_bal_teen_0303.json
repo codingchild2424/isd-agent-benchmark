@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0303",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Advanced Mathematics Learning Design Using Flipped Classroom and Micro-Course Online Videos",
+  "context": {
+    "prior_knowledge": "Completion of full high school mathematics curriculum and foundational knowledge of college-level calculus",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students watch pre-produced micro-lecture videos (5–7 minutes) before focusing on problem-solving and project collaboration in real-time classes. Project-based assessments measure the applicability of learning outcomes.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can self-study complex mathematical concepts through micro-course videos and explain core ideas.",
+    "Students can complete collaborative projects solving real-world problems (e.g., optimization, modeling) in a flipped classroom setting.",
+    "Students can present the process of applying concepts in online real-time classes and improve project outcomes by reflecting on feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account",
+      "LMS (Learning Management System)",
+      "Microlearning Course Authoring Tool (e.g., Camtasia)",
+      "Mathematical modeling software (Desmos, GeoGebra)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

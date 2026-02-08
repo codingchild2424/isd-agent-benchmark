@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4698",
+  "variant_type": "idld_aligned",
+  "title": "Online Engineering Learning Environment Design: Learner-Centered Mathematics Curriculum",
+  "context": {
+    "prior_knowledge": "Advanced-level knowledge in engineering and mathematics",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requirement for smartphone-based accessibility-optimized learning environments for current practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners will apply at least three mathematical modeling techniques for engineering problem-solving",
+    "Learners will access desired content within 5 seconds when navigating learning materials on a mobile-optimized LMS interface",
+    "Learners will integrate mathematical theories into real-world engineering cases and submit project-based assessment reports"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Responsive Web-Based Learning Materials",
+      "Asynchronous communication tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

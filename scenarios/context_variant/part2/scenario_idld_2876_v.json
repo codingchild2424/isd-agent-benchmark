@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2876-V",
+  "variant_type": "context_variant",
+  "title": "Analysis of Chemical Learning Communication Patterns: Mathematical Pedagogy Design Based on TBLA",
+  "context": {
+    "prior_knowledge": "Advanced-level expertise and extensive practical experience in the field, basic statistical and data analysis skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Targeting learners from medical, legal, and technical fields seeking to apply foundational chemistry knowledge to practice. Focus is on interpreting communication patterns using mathematical analysis techniques.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "By combining the TBLA (Task-Based Language Analysis) technique with mathematical modeling, it is possible to quantitatively analyze teacher-student communication patterns that occur during chemistry classes.",
+    "The quality of classroom interaction is evaluated through keyword frequency analysis (statistical analysis) and speech volume analysis (probabilistic modeling) based on the transcribed text of recorded lecture materials.",
+    "Derive concrete insights for improving instructional design and identify mathematical patterns by presenting analytical results through graphs and visualization tools (schematic diagrams)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Lecture Recording Equipment (Camera/Audio Recorder)",
+      "Excel Template for Transcription Analysis",
+      "Keyword Analysis Script",
+      "Real-Time Video Conferencing Tool (Zoom)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

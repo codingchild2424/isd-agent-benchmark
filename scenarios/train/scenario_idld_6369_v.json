@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6369-V",
+  "variant_type": "context_variant",
+  "title": "Inquiry-Based Groundwater Numerical Modeling Project Design Education",
+  "context": {
+    "prior_knowledge": "Basic quantitative mathematics and geology knowledge, no programming experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasizing pedagogical competencies in groundwater modeling for pre-service and in-service teachers",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can create 3D terrain models explaining the geometric requirements of the CVFD method via a smartphone app",
+    "Learners can produce a 5-minute presentation explaining the adaptive principles of Voronoi grids generated through the inquiry process to peers",
+    "Learners can write a report identifying three or more causes of errors in the modeling process by reflecting on formative assessment feedback"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-compatible modeling simulation tools",
+      "Topographic data open-source packages",
+      "Offline collaborative worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

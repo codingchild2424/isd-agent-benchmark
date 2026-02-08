@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2232-V",
+  "variant_type": "context_variant",
+  "title": "Protein Thermal Stability Regulation Strategies Using Molecular Dynamics Simulation",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthens computational protein engineering design capabilities to compensate for limitations in experimental approaches.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "The role of surface residues (Asp/Glu) related to thermal stability can be analyzed and explained at the molecular level",
+    "Thermodynamic properties of protein variants can be quantitatively evaluated using MD simulations",
+    "A project comparing/predicting thermal stability differences among variants through RMSD data interpretation can be conducted"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GROMACS/AMBER Software",
+      "Protein Structure Database (PDB)",
+      "VR Simulation Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3367-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Learning-Based Career Guidance Program Development",
+  "context": {
+    "prior_knowledge": "Basic proficiency in smartphone usage and foundational understanding of career exploration",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-centered learning design considering PC-unavailable environments, linked to science career pathways",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can categorize career exploration processes into three or more stages using mobile applications.",
+    "Learners can analyze five or more scientific career cases provided in the application and connect them to their fields of interest.",
+    "Learners can complete at least 70% of action plans for career planning using mobile learning tools without time/location constraints."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Application Prototype",
+      "Career Assessment Tool API",
+      "Science Field Occupational Information Database",
+      "LMS Integration System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

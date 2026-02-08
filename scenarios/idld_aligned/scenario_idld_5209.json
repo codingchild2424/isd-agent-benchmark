@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5209",
+  "variant_type": "idld_aligned",
+  "title": "Short-Term Course for Online Mathematics Educational Material Development and Teacher Capacity Building",
+  "context": {
+    "prior_knowledge": "Basic mathematics education methodologies and digital tool proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended learning environment focusing on integrating OER (Open Educational Resources) and VLE (Virtual Learning Environment) tools for elementary mathematics curriculum alignment.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participating teachers can produce and utilize at least three types of OER for mathematics education within one week.",
+    "Achieve an 85% or higher peer review completion rate with fellow teachers by applying a feedback-based evaluation system.",
+    "Assess the ability to design mathematics educational materials by integrating VLE tools (Quiz Maker, LMS) with external OER.",
+    "Acquire the method of visually representing learning outcomes using a digital badge system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS account",
+      "OER Authoring Tools (Canva, H5P, etc.)",
+      "Rubric Template",
+      "Digital Badge Issuance System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7266-V",
+  "variant_type": "context_variant",
+  "title": "Text Mining-Based Mathematical Approaches for Analyzing MOOC Research Trends",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Applied mathematics course in smartphone-based limited-technology environments analyzing MOOC trends through text mining",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can derive key research themes by applying text mining techniques to MOOC research papers",
+    "Learners can visually represent MOOC research trends through frequency analysis and keyword network mapping",
+    "Learners can interpret mathematics-based text analysis results to predict research directions in the MOOC field"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Compatible Text Mining Tool",
+      "MOOC-Related Academic Paper Dataset",
+      "Simplified Analysis Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

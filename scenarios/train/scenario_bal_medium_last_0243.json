@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0243",
+  "variant_type": "balance_medium_last",
+  "title": "Tensor-Based Regression Learning: Foundations and Applications for Language Modeling",
+  "context": {
+    "prior_knowledge": "Basic machine learning concepts, foundational linear algebra, and introductory understanding of natural language processing (NLP) along with basic grammar and lexical analysis capabilities",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Emphasizes practical language modeling application skills through hands-on education. Combines theoretical explanations with simple text data computation exercises due to technological constraints. Considers linguistic contexts such as vocabulary/grammar structure analysis, text representation, and contextual meaning interpretation.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the fundamental principles of tensor-based regression learning and compare its differences from ELM (Extreme Learning Machine) in natural language processing, focusing on text structure and vocabulary usage.",
+    "Solve simple regression problems in text data (e.g., word frequency prediction and contextual semantic analysis) by applying the Moore-Penrose pseudoinverse calculation method for tensors.",
+    "Understand the integration of Type-2 fuzzy sets into tensor regression models and apply them to address uncertainties in linguistic data (e.g., polysemy handling and context-dependent semantic interpretation)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Whiteboard and Markers",
+      "Printed learning materials",
+      "Basic calculator",
+      "Smartphone-compatible practice worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

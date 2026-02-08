@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7877-V",
+  "variant_type": "context_variant",
+  "title": "Computer Science Foundational Competency Enhancement Course Using Hybrid Service Learning",
+  "context": {
+    "prior_knowledge": "Comprehension of introductory programming concepts or computer application experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course for employees using smartphones as the primary tool, emphasizing the application of computer science concepts to solve real-life problems.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply core computer science concepts (algorithms, data structures) to real-life scenarios",
+    "Learners can plan and execute small-scale projects using collaborative tools in mobile environments",
+    "Learners can utilize outcomes developed through service-learning activities to address community issues"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account",
+      "Mobile-Optimized LMS Platform",
+      "Visual concept explanation videos (MP4)",
+      "Collaborative mobile apps (Google Docs, Padlet, etc.)",
+      "Simple web-based coding simulator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

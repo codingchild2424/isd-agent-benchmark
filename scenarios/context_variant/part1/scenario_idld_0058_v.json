@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0058-V",
+  "variant_type": "context_variant",
+  "title": "Deep Learning Practical Competency Enhancement: MOOC Design and Implementation for Sustaining Online Science Learning",
+  "context": {
+    "prior_knowledge": "No foundational science knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can utilize three core strategies (shortened course duration, narrative structure design, diversified activity placement) to improve retention rates when designing MOOCs",
+    "Ability to analyze learner engagement patterns and derive improvement plans based on learning analytics data",
+    "Application of project-based assessment in small-scale online environments to measure learning outcomes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

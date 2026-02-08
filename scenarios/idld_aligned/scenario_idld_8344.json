@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8344",
+  "variant_type": "idld_aligned",
+  "title": "Activity-Based Collaborative Learning Design for Language Computing Education Utilizing UMI Technology",
+  "context": {
+    "prior_knowledge": "Knowledge of fundamental programming concepts and Internet of Things (IoT) technology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Hybrid education utilizing personal smart devices and IoT sensors in a BYOD environment. Highlights practical language processing cases applicable to job seekers' real-world tasks",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Participants can design and implement a language analysis prototype utilizing UMI (Ubiquitous Microcomputing Integration) technology elements (sensors/networks/mini-computing).",
+    "In collaborative learning environments, participants can develop at least three IoT data-based natural language processing scenarios.",
+    "Participants can evaluate a language pattern recognition system through real-time data collection, analysis, and visualization processes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Raspberry Pi or Arduino Kits",
+      "Mobile Sensor Equipment (Temperature/Humidity/Gas/Sound Sensors, etc.)",
+      "Open-Source NLP Libraries (Mecab, KoNLPy, etc.)",
+      "Collaboration Platforms (Google Workspace, Notion)",
+      "LMS Systems (Moodle, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0041",
+  "variant_type": "balance_medium_last",
+  "title": "TPACK-Based Technology Integration Design for Higher Education Science Instruction",
+  "context": {
+    "prior_knowledge": "College-level foundational science knowledge and experience with digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended-format graduate-level science program where students engage in online/offline learning activities using personal devices. Project-based assessments evaluate real-world problem-solving skills.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the interactions among the three core domains of the TPACK framework: technology, content, and pedagogy.",
+    "Learners can propose two or more lesson designs that effectively integrate technology in science classes.",
+    "Learners can diagnose the current status of technology use in educational settings by analyzing survey results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "TPACK Survey Instrument",
+      "Digital content creation software",
+      "Learning Management System (LMS)",
+      "Science laboratory equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

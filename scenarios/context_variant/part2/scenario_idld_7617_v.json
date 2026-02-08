@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7617-V",
+  "variant_type": "context_variant",
+  "title": "Robotics and Coding-Based Social-Emotional Learning (SEL) Integrated Language Expression Curriculum",
+  "context": {
+    "prior_knowledge": "Grasp of introductory programming concepts and robotics principles, intermediate reading/writing proficiency (capable of technical documentation comprehension and report writing)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Collaborative project execution in BYOD environments, providing real-life problem-solving scenarios through VR simulations. Includes technical terminology organization and report writing guidelines to enhance learners' language expression skills",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "When performing robot control coding projects (3+ times), learners write a report in clear vocabulary and grammatical structure that meets at least 4 of 5 checklist items for self-awareness (emotional/cognitive monitoring) and self-management (time/resource planning) competencies.",
+    "While performing team-based coding tasks, learners assess social awareness and relationship management skills and apply effective communication (listening/speaking) strategies during collaboration.",
+    "Learners complete three collaborative robotics tasks (e.g., disaster response simulation) in a VR simulation environment, achieve an average of 4/5 points or higher on a 5-point scale for responsible decision-making (incorporating team input, considering risks, predicting outcomes), and express the process in structured text."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Robotics Kit",
+      "Coding Software License",
+      "VR Equipment Rental",
+      "SEL (Social-Emotional Learning) Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

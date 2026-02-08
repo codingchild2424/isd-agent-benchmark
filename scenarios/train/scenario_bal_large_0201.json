@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0201",
+  "variant_type": "balance_large_scale",
+  "title": "Large-Scale: ChatGPT-Integrated Chemistry Education Design Project for Pre-Service Elementary Teachers",
+  "context": {
+    "prior_knowledge": "Elementary chemistry education knowledge, understanding of basic teaching methodologies, experience with ChatGPT (optional)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners develop chemistry education design competencies through iterative interactions with ChatGPT and produce instructional materials reflecting peer feedback in a PBL environment.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Using ChatGPT, learners can generate at least three types of scientifically and pedagogically relevant questions for designing elementary chemistry education activities.",
+    "By analyzing ChatGPT conversation logs, learners can propose at least one improvement plan for instructional design that reflects learners' prior knowledge.",
+    "Based on mixed research methodologies (structured activity design), learners critically evaluate ChatGPT-generated content and classify its applicability in real classrooms into three levels (high, medium, low)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ChatGPT Plus Subscription Account",
+      "Instructional Design Guidelines Template",
+      "Chemistry Education Standard Curriculum Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

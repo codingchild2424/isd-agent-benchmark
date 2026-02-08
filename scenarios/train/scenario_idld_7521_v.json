@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7521-V",
+  "variant_type": "context_variant",
+  "title": "Knowledge-Based Advisor Utilization for Cross-Cultural Science Learning Design",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Need for science education design considering cultural backgrounds of multicultural learner groups",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain ≥3 science instructional designs that incorporate cultural differences.",
+    "Using knowledge-based advisor tools, learners can modify science learning scenarios for specific cultural contexts.",
+    "Through project-based assessments, learners can validate the effectiveness of culturally adapted instructional materials they developed."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cross-cultural science education case database",
+      "Tablet PC",
+      "Interactive Whiteboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

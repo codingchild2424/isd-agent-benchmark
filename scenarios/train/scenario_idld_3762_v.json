@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3762-V",
+  "variant_type": "context_variant",
+  "title": "Practical Competency Enhancement Program Through Data Structure Visualization",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended education model conducted in a smartphone-centric, limited technological environment, designed to allow practitioners to learn while balancing work.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the node structure and pointer operations of a linked list with 80% accuracy using visualization tools based on the split-attention effect.",
+    "Learners can implement basic operations (insertion/deletion/traversal) of a singly linked list in code by referencing workflow examples from visualization tools.",
+    "Learners can select appropriate data structures for real-world data processing scenarios through project-based assessment and validate them using visualization tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Visualization Tool",
+      "Workbook PDF",
+      "Step-by-Step Video Tutorial"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

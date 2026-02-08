@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0866-V",
+  "variant_type": "context_variant",
+  "title": "Evidence-Based Decision-Making Competency Enhancement in Mathematics Education Design",
+  "context": {
+    "prior_knowledge": "Basic arithmetic operations and data interpretation competencies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners acquire evidence-based methods to solve mathematical problems encountered in daily life (e.g., budget management, statistical interpretation), with practical exercises using digital devices (tablets, etc.).",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can construct specific and measurable questions using the PICO (Problem-Intervention-Comparison-Outcome) framework in given problem situations.",
+    "Learners can systematically collect and analyze relevant evidence from diverse sources (public data, research reports, etc.) and apply it to decision-making.",
+    "Based on evidence evaluation and critical thinking, learners can derive optimal solutions and express them through mathematical modeling."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "PICO framework template",
+      "Public Dataset",
+      "Interactive math tools (GeoGebra, etc.)",
+      "Formative assessment checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7850-V",
+  "variant_type": "context_variant",
+  "title": "Healthcare Practical Skills Enhancement: Project-Based Learning Program for Improving Adolescent Mental Health",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Key types of adolescent mental health issues (anxiety, depression, etc.) and influencing factors can be systematically explained",
+    "A mental health improvement app prototype can be developed by applying the ADDIE model-based instructional design process",
+    "A report analyzing the visual effectiveness and usability of app design can be written using user experience (UX) evaluation metrics"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

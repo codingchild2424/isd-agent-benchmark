@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1287-V",
+  "variant_type": "context_variant",
+  "title": "Teacher-Led Online Course for Enhancing Science Learning Outcomes",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Process of effectively integrating informal online resources from science museums/centers into school curricula through teacher-led learning pathways",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain energy resource-related scientific concepts with over 80% accuracy",
+    "Learners effectively apply teacher feedback three or more times during problem-solving processes using online science resources",
+    "Learners record scores improved by over 15% compared to pre-TGEP implementation in surveys on science learning attitudes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "European science education pathway materials",
+      "LMS platform",
+      "Digital Assessment Tools",
+      "Teacher’s manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

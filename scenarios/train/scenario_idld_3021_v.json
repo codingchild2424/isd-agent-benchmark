@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3021-V",
+  "variant_type": "context_variant",
+  "title": "VR-Based STEM Education Design: Immersive Learning Experience Development",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Social STEM Convergence Education Utilizing VR Content in a BYOD (Bring Your Own Device) Environment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Perform molecular structure manipulation simulations in a VR environment and explain the principles of atomic interactions",
+    "Apply engineering design processes in a 3D virtual space to create small-scale infrastructure models",
+    "Present STEM data analysis results for solving social issues using data visualization tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR device",
+      "3D Modeling Software License",
+      "LMS-integrated VR plugin",
+      "Social Issues Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

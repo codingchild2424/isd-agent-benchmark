@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6800-V",
+  "variant_type": "context_variant",
+  "title": "LLM-Based Strategies for Enhancing Engagement in Science English Learning",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Targets managers/leaders requiring science-field practical English. Requires self-directed learning environment construction using digital devices",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will design three or more English learning scenarios in science fields using LLM tools.",
+    "Learners will complete a rubric for assessing learning engagement based on Self-Determination Theory (SDT) with 80% or higher accuracy.",
+    "Learners will create two or more 5-minute microlearning contents using LLMs in a mobile environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ChatGPT API",
+      "Mobile Learning Management System (LMS)",
+      "Science Domain English Text Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

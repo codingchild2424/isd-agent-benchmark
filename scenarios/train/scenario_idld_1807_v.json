@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1807-V",
+  "variant_type": "context_variant",
+  "title": "Cognitive Radio System Performance Analysis and Deep Learning-Based Predictive Modeling",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for pre-service/in-service teachers exploring methods to apply advanced scientific technologies in real educational settings, with practice-centered classes using digital devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can mathematically analyze key performance metrics of cognitive radio communication systems (e.g., outage probability, system throughput)",
+    "Learners can explain methods for real-time prediction of communication system performance using deep learning-based predictive models",
+    "Learners can comparatively evaluate system design cases applying NOMA (Non-Orthogonal Multiple Access) and relay selection techniques"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Simulation software (MATLAB/Python)",
+      "Deep learning framework (TensorFlow/PyTorch)",
+      "Communication system performance analysis dataset",
+      "Supplementary instructional materials (research paper summaries)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6777",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Technology Utilization Training for Construction Engineering Practitioners",
+  "context": {
+    "prior_knowledge": "Understanding of basic construction terminology and elementary engineering concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-based short-term intensive training for in-service construction professionals, with interactive learning environments using digital devices (tablets/smartphones)",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform basic BIM (Building Information Modeling) functions applicable to construction sites with over 85% accuracy.",
+    "Learners can understand and apply structural stability analysis procedures with over 90% accuracy using simulation tools provided via a mobile app.",
+    "Learners can conduct real-time project feedback with peers at least three times using a collaborative platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "BIM Software Simulation Module",
+      "Construction Site VR Experience Content",
+      "Mobile Quiz System",
+      "Collaborative Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

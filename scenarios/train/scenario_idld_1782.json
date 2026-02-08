@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1782",
+  "variant_type": "idld_aligned",
+  "title": "Cognitive Load Management Strategies: Simulation-Based Instructional Design",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and ability to use digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners in Managerial/Leadership Roles Perform Science Experiment Simulations in VR, with Periodic Cognitive Load Surveys Throughout the Course; Comprehensive Learning Outcomes Analyzed via Project-Based Assessments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can distinguish and explain intrinsic, extraneous, and germane cognitive loads occurring during simulation activities",
+    "Learners can quantitatively assess overall cognitive load levels using the 10-item Cognitive Load Inventory (CLI-10)",
+    "Learners can develop optimization strategies to adjust simulation difficulty based on cognitive load measurement results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR devices and software",
+      "CLI-10 survey tool",
+      "Cognitive science-related supplementary materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

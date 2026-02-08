@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8298-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Survey Design Course for AI-Driven Mathematics Education Innovation",
+  "context": {
+    "prior_knowledge": "Basic mathematical concepts (functions, calculus, statistics) and experience with digital tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain three or more advantages of AI-based educational tools.",
+    "Construct a step-by-step survey design framework for improving mathematics education.",
+    "Analyze data collected from VR simulation environments to derive insights for educational improvement."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

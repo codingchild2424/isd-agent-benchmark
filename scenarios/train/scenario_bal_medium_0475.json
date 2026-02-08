@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0475",
+  "variant_type": "balance_medium_scale",
+  "title": "Game-Based Mobile Mathematics Education: Intensive Short-Term Course",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts (equations, statistics, functions, etc.)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Gamified mobile learning environment for acquiring advanced mathematics concepts needed for social sector job applications, utilizing personal mobile devices.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Through game-based assignments, learners apply advanced mathematical concepts (probability, optimization, data interpretation) with ≥85% achievement within one week",
+    "Via gamified assessments on mobile platforms, learners explain mathematical problem-solving processes with ≥70% accuracy",
+    "During game-based competition/collaboration with peers, learners provide ≥3 examples of mathematical concept applications"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Math Game Platform",
+      "Gamification Design Guidelines",
+      "Formative Assessment Quiz Bank",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

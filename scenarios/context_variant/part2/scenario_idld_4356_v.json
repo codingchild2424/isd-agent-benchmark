@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4356-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Practical Web Development Competencies: Motivating Pre-Service Teachers Through Game-Based Programming Integration",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Prospective teachers can explain at least three motivational changes based on the ARCS model (Attention/Relevance/Confidence/Satisfaction) in game-based learning environments",
+    "Learners can design simple educational games and implement prototypes using the MakeCode Arcade platform",
+    "Participants can propose at least two strategies for applying motivational techniques to actual classroom instruction based on experiences in programming-integrated game development"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

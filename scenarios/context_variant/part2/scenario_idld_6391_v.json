@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6391-V",
+  "variant_type": "context_variant",
+  "title": "Language Proficiency Deepening Course Through Online Project-Based Collaborative Learning",
+  "context": {
+    "prior_knowledge": "Elementary language proficiency and experience using online learning platforms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-real-time collaborative learning in a smartphone-centric limited-technology environment, aiming to enhance practical language skills",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can improve project deliverables by at least 80% based on peer feedback using online discussion boards.",
+    "Learners achieve an average rating of 4.0/5.0 or higher in language project completion through at least three asynchronous collaborative activities.",
+    "Learners can apply peer assessment rubrics with 90% accuracy in project-based learning processes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Online Discussion Forum Tool",
+      "Project Templates and Language Assessment Rubrics",
+      "Asynchronous Collaboration Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

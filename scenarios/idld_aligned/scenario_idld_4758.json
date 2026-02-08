@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4758",
+  "variant_type": "idld_aligned",
+  "title": "Design and Application of Machine Learning Hardware Accelerators",
+  "context": {
+    "prior_knowledge": "Understanding of basic machine learning concepts, programming experience, and basic knowledge of hardware architecture",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Participants are teachers or pre-service teachers interested in developing corporate education/training programs. They require an understanding of technology trends applicable to educational settings through real-case analysis.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain the design principles of machine learning hardware accelerators based on CNN, RNN, and ANN",
+    "Analyze performance metrics of hardware accelerators, including speed, power efficiency, and throughput",
+    "Propose machine learning hardware optimization strategies based on real-world applications"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "FPGA/ASIC Simulation Tools",
+      "Machine Learning Benchmark Datasets",
+      "Hardware Performance Analysis Report"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

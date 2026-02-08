@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-MEDIUM-0311",
+  "variant_type": "balance_medium_scale",
+  "title": "Prenatal Nutrition Education: Video-Based Online Training Program",
+  "context": {
+    "prior_knowledge": "Basic nutrition principles and understanding of foundational teaching assistant roles",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Online training to enhance prenatal nutrition education competencies for educational assistants working in elementary and secondary schools, structured around video case studies and practical materials applicable to real-world settings.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain prenatal nutrition recommendations with over 80% accuracy.",
+    "Learners can analyze video cases to identify inappropriate instructional methods with 90% accuracy",
+    "Prenatal nutrition education can improve self-efficacy by over 30%",
+    "Learners can complete two topics per week using 3-minute-or-less microlearning modules in mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Prenatal Nutrition Education Video",
+      "Interactive Quiz",
+      "Practical Scenario PDF",
+      "Self-Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6398-V",
+  "variant_type": "context_variant",
+  "title": "Augmented Reality (AR) Utilization Strategies in Secondary Education: Enhancing Motivation",
+  "context": {
+    "prior_knowledge": "Basic ICT utilization skills and foundational understanding of secondary education systems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Teacher training program for professionals in medical, legal, and technical fields, featuring mobile learning environments using digital devices (tablets/smartphones)",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply Keller’s ARCS (Attention, Relevance, Confidence, Satisfaction) motivational model when designing AR-based learning tools.",
+    "Learners can develop at least three lesson scenarios utilizing AR technology in secondary education settings.",
+    "Learners can reflect data analyzing differences in learner motivation based on ICT experience levels and gender into instructional design."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smart devices (for 30+ users)",
+      "AR authoring tool (e.g., Unity + Vuforia)",
+      "IMMS survey template",
+      "AR educational app sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7541",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Flexible Learning Strategies for Nursing Education",
+  "context": {
+    "prior_knowledge": "Understanding of basic nursing concepts and administrative/management job experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Designed to enable working professionals to learn during work hours by leveraging blended learning and technology-based learning strategies in smartphone-centric, resource-constrained environments.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can understand and explain core nursing concepts (e.g., infection control, patient assessment) with 80% accuracy using 10-minute microlearning content in mobile environments.",
+    "Learners participate in weekly live video discussions (2 sessions × 30 minutes) to share and evaluate flexible learning strategies linked to real-world work scenarios with peers.",
+    "Learners submit and receive peer feedback on a field problem-solving project utilizing smartphone camera functions at the end of the one-week course."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "NVivo 12 Plus Analysis Tool (Instructor Edition)",
+      "Seven 10-Minute Video Lectures",
+      "Weekly Live Video Conferencing Sessions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

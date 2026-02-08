@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4799-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Software Development Competencies: Pre-Service Teacher Orientation for Online Learning Success",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can independently navigate a mobile LMS (basic functions) within one week",
+    "Learners can apply online learning time management and motivation strategies to actual classes",
+    "Learners can form learning communities by communicating with three or more peer teachers in mobile environments",
+    "Learners can identify and utilize five or more essential digital resources related to language education job tasks"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

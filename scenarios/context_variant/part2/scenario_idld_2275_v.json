@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2275-V",
+  "variant_type": "context_variant",
+  "title": "Gamification Education for Smart City Communities",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthens creative problem-solving competencies for medical/legal/technical professionals addressing smart city challenges.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply smart city core technologies (IoT, big data, AI) to gamification activities.",
+    "Learners can design community problem-solving scenarios using the Design Thinking process.",
+    "Learners can prototype community-tailored smart solutions through collaboration-based digital platforms."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Gamification Authoring Tools (Miro, Gather.town, etc.)",
+      "Smart City Case Study Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

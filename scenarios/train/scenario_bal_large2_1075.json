@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1075",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Virtual World-Based Medical Professional Training Program",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge (anatomy, physiology, etc.)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A simulation-based learning environment using virtual world platforms (e.g., Second Life), emphasizing real medical scenario replication and collaborative learning.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Enhancing diagnostic and treatment planning skills through a type 2 diabetes patient management simulation in a virtual environment",
+    "Learners can form a team of three peer learners on a virtual collaboration platform (e.g., Miro, Microsoft Teams), analyze two interdisciplinary medical scenarios (e.g., surgery, rehabilitation, patient education), and submit a consensus-based treatment plan with over 80% completeness via real-time chat/video conferencing.",
+    "Develop the capacity to critically evaluate the educational utility of virtual reality-based learning tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual World Platform License",
+      "Medical Scenario Development Specialist",
+      "3D Modeling Equipment",
+      "Basic Medical Textbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

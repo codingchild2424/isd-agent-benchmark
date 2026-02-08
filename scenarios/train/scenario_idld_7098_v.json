@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7098-V",
+  "variant_type": "context_variant",
+  "title": "Gamification-Enhanced Language Learning Design: Strengthening Flow and Persistence",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners are everyday citizens requiring language use: Needs include gamification for motivation and incremental difficulty progression",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners perform self-directed learning activities with over 80% frequency in gamification environments",
+    "Learners achieve intermediate or higher language proficiency (e.g., TOPIK Levels 3-4) through step-by-step mission completion",
+    "Learners maintain interaction frequency with peer learners at least twice weekly through collaborative game activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Gamified learning platform access",
+      "Digital quiz tool",
+      "Tangible Reward Items (Badges, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

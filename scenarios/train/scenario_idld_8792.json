@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8792",
+  "variant_type": "idld_aligned",
+  "title": "MOOC-Based Technical Competency Enhancement Program for Drinking Water System Operators",
+  "context": {
+    "prior_knowledge": "Basic engineering and chemistry knowledge, with adaptability to online learning environments",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Inclusive learning design considering socially vulnerable groups, with digital device provision.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the basic components and operational processes of a drinking water system with 80% accuracy.",
+    "Learners can perform water quality testing and pollution management procedures with 90% accuracy using simulation tools.",
+    "Learners can independently execute problem-solving procedures based on an emergency response manual with over 70% proficiency."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D System Modeling Software",
+      "Virtual Laboratory Platform",
+      "Open-Source Water Quality Analysis Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

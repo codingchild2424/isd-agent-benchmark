@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0655-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Team-Based Deliberate Practice Design for Medical Simulation Education",
+  "context": {
+    "prior_knowledge": "Fundamental principles of medical simulation and foundational mathematical modeling",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Through team-based simulation, a mathematical medical data analysis model can be constructed with 80% accuracy",
+    "By following the deliberate practice framework, simulation error patterns can be iteratively improved three or more times to enhance performance by 30%",
+    "Learners must collaborate in teams of 3–4 using LMS platforms (Google Classroom, Moodle) and their collaborative tools (Google Docs, Padlet) to produce one AI simulation report, adhering to APA format (5+ references, 10–15 pages) and submitting it two weeks before the course ends (by XX/XX/202X). The report must achieve ≥80/100 points based on the rubric criteria: content accuracy (30%), format compliance (20%), team collaboration (20%), and creativity (30%)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

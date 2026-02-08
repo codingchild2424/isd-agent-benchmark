@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1933-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Patient Care Practical Competencies: Reinforcement Learning-Based Nonlinear MIMO System Control Design",
+  "context": {
+    "prior_knowledge": "Elementary control theory, linear algebra, Python programming, and fundamental neural network concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can mathematically model the dynamic characteristics of nonlinear MIMO systems.",
+    "Learners can apply reinforcement learning-based control algorithms (Actor-Critic) to system design.",
+    "Learners can generate optimal control inputs for MIMO systems with disturbances using an NN Approximator.",
+    "Learners can analyze the convergence of control systems based on Lyapunov stability theory.",
+    "Learners can solve practical control problems by conducting team-based projects in mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Records (EMR) System",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1363",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Adaptive Swarm Behavior Project Based on Reinforcement Learning",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts (functions, graphs) and simple algorithm design experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Small-group project-centered education utilizing smartphone-based collaboration tools",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain at least three optimized pathfinding methods for collective behavior using reinforcement learning principles",
+    "Implement a virtual swarm simulation model by applying the TD-error learning algorithm",
+    "Quantitatively analyze swarm behavior experiment results to demonstrate at least 20% improvement in optimal pathfinding performance"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "5 Tablet PCs for Loan/Rental",
+      "Mobile Learning App Package",
+      "Cluster Behavior Simulation Worksheet Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

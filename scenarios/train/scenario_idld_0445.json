@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0445",
+  "variant_type": "idld_aligned",
+  "title": "Augmented Reality-Based Scientific Inquiry of Reinforced Concrete Structures: Collaborative Learning Through Hypothesis Verification of Reinforcement Placement",
+  "context": {
+    "prior_knowledge": "Fundamental concrete engineering and 2D drafting with rebar notation comprehension, basic grasp of the scientific inquiry method (hypothesis-experiment-observation-conclusion), and experience using measurement tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conduct collaborative learning in mixed reality environments using HoloLens 2 and tablet PCs. Simultaneously enhance engineering problem-solving and scientific inquiry skills through experimental design, evidence collection, and data analysis processes.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Using 3D augmented reality models, learners can accurately identify, measure, and verify hypotheses about rebar positioning, spacing, and binding methods through scientific observation.",
+    "Through collaborative activities, learners can convert complex rebar layout diagrams into 3D spatial information, control key variables, and systematically analyze experimental data.",
+    "In an AR environment, learners can detect and correct rebar binding errors with over 90% accuracy, derive scientific conclusions based on experimental results, and present evidence."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "HoloLens 2 (5 units)",
+      "Tablet PC (Windows 10 or higher)",
+      "AR Development Kit",
+      "Reinforcement model dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

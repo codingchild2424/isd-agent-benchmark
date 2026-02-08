@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3769-V",
+  "variant_type": "context_variant",
+  "title": "Foundational Computer Science Competency Enhancement Course Using Blended Learning: Scientific Inquiry and Experiment-Based Approach",
+  "context": {
+    "prior_knowledge": "Basic computer proficiency (file management, internet searches, etc.) and foundational understanding of scientific methodologies (hypothesis formulation, experimental design, etc.)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Utilizes simulation/VR content reflecting real work scenarios to enhance job applicability for current practitioners. Blended learning structure comprising two weekly face-to-face sessions (experiment design and result analysis) and three online activities (data collection and measurement). Systematically applies scientific methodologies including observation, analysis, and conclusion-drawing throughout the learning process",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Understand algorithm design principles and apply scientific inquiry methods to implement and analyze simple problems in a simulation environment.",
+    "Visualize data structure concepts in a VR environment and systematically explain their application, considering variables and measurement methods.",
+    "Learners can develop prototype solutions for two real-world business scenarios (e.g., logistics optimization, data analysis) using computer science theories (algorithms, data structures, etc.) in 3–4-member team projects and submit a report achieving over 70% in evidence-based evaluation criteria (functionality 40%, creativity 30%, collaboration efficiency 30%)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "15 Sets of VR Headsets (Rotational Use for Groups of 5)",
+      "Cloud-Based Collaboration Tools (Google Workspace)",
+      "Real-Time Video Conferencing System (Zoom)",
+      "Simulation Authoring Tool (Unity-Based)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

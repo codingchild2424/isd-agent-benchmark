@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0764",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Large-Scale Online Mathematics Leadership Development Program for Volunteer Sector Leaders",
+  "context": {
+    "prior_knowledge": "Basic mathematical concepts comprehension and administrative management experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasizing Mathematical Decision-Making Competencies for the Efficient Operation of Volunteer Activities",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Perform basic statistical analysis required for volunteer project budget planning.",
+    "Within one week, learners design a linear programming (LP)-based resource allocation optimization model in a three-person team project using real-time collaboration tools (e.g., Google Colab), and submit simulation results proving an objective function achievement rate of 85% or higher under given constraints (budget, time, personnel).",
+    "Within one week, learners select three or more measurement indicators (volunteer hours, participation rate, social impact) using smartphone-based tools (Google Forms, Excel Mobile, etc.), and write a 1–2-page performance measurement plan specifying data collection methods for each indicator."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Zoom Account",
+      "Open-source spreadsheet tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

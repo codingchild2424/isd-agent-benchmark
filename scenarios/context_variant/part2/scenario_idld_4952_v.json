@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4952-V",
+  "variant_type": "context_variant",
+  "title": "Mathematical Data Analysis Design Utilizing Spatial Thinking and GIS",
+  "context": {
+    "prior_knowledge": "Fundamental mathematics concepts (coordinate systems, graph interpretation) and digital device usage ability",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Utilizing cloud-based GIS simulation tools in a BYOD (Bring Your Own Device) environment. Strengthening project-based activities that convert real spatial data into mathematical problems.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can convert 3D spatial data into 2D coordinate systems and analyze mathematical patterns using GIS simulation tools.",
+    "Learners can visualize spatiotemporal change data (e.g., population migration, terrain changes) as graphs and perform trend analysis.",
+    "Learners can apply strategies to reduce cognitive load during mathematical modeling processes through GIS-based simulations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cloud-Based GIS Simulation Platform License",
+      "Spatial Dataset (Utilizing Public Data)",
+      "BYOD-compatible educational app"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

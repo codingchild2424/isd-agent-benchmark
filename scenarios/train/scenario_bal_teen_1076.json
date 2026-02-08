@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-1076",
+  "variant_type": "balance_teen_k12",
+  "title": "Team-Based e-Learning Content Development: Collaborative Learning Using Shared Mental Models (SMM) (K-12)",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and experience using digital tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based learning where teams design/develop math e-learning content in VR/simulation environments, enhancing collaboration through role distribution",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Through a 4-week 3–4 member team project (planning-design-testing phases), learners will visualize three Shared Mental Model (SMM) elements (e.g., goal sharing, role division, communication rules) using FigJam or Miro for math education content development. They will incorporate at least two rounds of peer feedback and finalize an SMM document that meets a score of 2 or higher (out of 3) on the rubric criteria (clarity, collaboration, completeness).",
+    "In teams of 3–4, learners will select one secondary school math concept (functions or geometry) and design and implement a VR/simulation-based e-learning content prototype within 4 weeks using CoSpaces or Unity. The prototype must include at least three interactive elements (e.g., drag manipulation, real-time graph generation, 3D model rotation) and pass peer evaluation (average 3.5 or higher from three reviewers on a 5-point scale) and teacher evaluation (4.0 or higher on a 5-point scale).",
+    "Learners will identify two collaboration issues (e.g., unclear role differentiation, lack of communication at progress stages) from a 3–4 member team project, analyze each issue using the provided framework (cause-effect-solution), and write a 500-word report proposing specific improvement plans (e.g., role assignment table, weekly checkpoint meetings). The report must meet an 80% or higher fulfillment rate in at least two out of three rubric criteria (clarity, specificity, feasibility)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment (Available for Loan)",
+      "BYOD-Compatible Collaboration Tools (e.g., Google Workspace)",
+      "3D Modeling Templates for Mathematics Education"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

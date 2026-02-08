@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0187",
+  "variant_type": "balance_teen_filtered",
+  "title": "Application of Item Response Theory (IRT) to Improve Online Course Assessment Quality [K-12]",
+  "context": {
+    "prior_knowledge": "Basic physics knowledge and online learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An intensive short-term course for beginner science learners to study IRT-based assessment design and quality validation methods",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain core concepts of Item Response Theory (IRT) and assessment quality indicators (validity, reliability, fairness)",
+    "Learners can design IRT-based assessment items in LMS environments and perform procedures to analyze difficulty consistency",
+    "Learners can visualize changes in item-wise correct answer rates via graphs from science assessment data measured ≥3 times and identify ≥2 items with ≥10% differences for reporting."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "LMS platform",
+      "IRT (Item Response Theory) Analysis Software (e.g., R, IRTPRO)",
+      "AP Physics Equivalent Assessment Item Sample Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

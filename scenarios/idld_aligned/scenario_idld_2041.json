@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2041",
+  "variant_type": "idld_aligned",
+  "title": "Multimedia Instructional Design Project for Video Segmentation-Based Assembly Task Training",
+  "context": {
+    "prior_knowledge": "Fundamental Digital Tool Utilization Skills and Basic Understanding of Assembly Work",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Students form teams to analyze actual assembly work scenarios and produce systematic multimedia manuals using video splitting tools",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design visual instruction steps segmented into three or more levels by recognizing naturally occurring event boundaries in assembly tasks.",
+    "Learners can accurately segment over 80% of task videos and generate step-by-step instructions using multimedia tools (IBES).",
+    "Learners validate the utility of their created manuals through peer assessment and achieve a usability score of 85% or higher."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Assembly task sample video",
+      "IBES tool license",
+      "Digital tablet/laptop",
+      "3D Modeling Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

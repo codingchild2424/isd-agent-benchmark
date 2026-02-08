@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0379",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Short-term Course for Enhancing Elementary Mathematics Teachers' Competencies Using Mobile Learning",
+  "context": {
+    "prior_knowledge": "Basic mathematics education theories and fundamental smartphone utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course focused on developing mobile-based mathematics pedagogies applicable in real classrooms. Content creation and collaboration must be achievable via smartphones in PC-unavailable environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design personalized math problem sets using mobile applications.",
+    "Within one week, learners will develop one mobile-based math lesson scenario meeting all evaluation criteria (scenario completeness: over 3 points, technical feasibility: over 3 points, educational effectiveness: over 3 points on a 5-point scale). The scenario must reflect real classroom situations (e.g., fraction concept explanation, shape measurement activities) and implement a prototype using Figma or Adobe XD.",
+    "Learners can share mobile lesson materials with peer teachers and provide feedback via a collaborative platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Free/Low-Cost Educational Apps",
+      "QR Code Generator",
+      "Cloud Storage Space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3857",
+  "variant_type": "idld_aligned",
+  "title": "Wearable Technology-Based Technical Subject MOOC: Practice-Oriented Learning Design to Improve Completion Rates",
+  "context": {
+    "prior_knowledge": "Foundational programming and hardware manipulation experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners perform practice tasks linked to real-time biometric feedback using personal wearable devices (smartwatches/bands or mobile alternatives).",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze biometric data collected from wearable technology to visualize learning motivation patterns",
+    "Learners can complete 80% or more of personalized practical assignments through an LMS system integrated with wearable devices",
+    "Learners can evaluate peers' wearable data utilization cases through peer review and propose three improvement strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Wearable technology-integrated LMS platform",
+      "Biometric data simulation tool",
+      "Real-time collaborative feedback system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

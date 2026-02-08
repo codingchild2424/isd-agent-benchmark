@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4374-V",
+  "variant_type": "context_variant",
+  "title": "Online Graduate Disaster Research and Statistics Education: Interactive Team-Teaching-Based Intensive Short-Term Course",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Geographically dispersed faculty collaborating in real-time to deliver content and provide feedback. Building a mobile learning environment using digital devices",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners will be able to apply intermediate statistical techniques (e.g., regression analysis, hypothesis testing) for disaster research data analysis with 80% accuracy.",
+    "Learners will be able to complete and submit a disaster management case study report with 90% completeness through team-based interactive learning.",
+    "Learners will be able to correct research design errors by 70% or more by incorporating real-time feedback in a mobile environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Video Conferencing Tools",
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Statistical analysis software license",
+      "Disaster Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2109",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Application-Based Newborn Nursing Simulation Education",
+  "context": {
+    "prior_knowledge": "Fundamental Nursing Knowledge and Understanding of Newborn Developmental Stages",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended learning environment combining self-directed learning and group collaboration activities using digital devices (tablets/smartphones)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately describe four or more stages of the newborn physical examination procedure.",
+    "Learners can identify five critical danger signs in newborns and propose corresponding response strategies.",
+    "Learners can complete vaccination schedule management scenarios with an 80% or higher success rate using simulation modules within a mobile application.",
+    "Learners can design newborn family education scenarios based on instructional materials for nutrition and oral health management."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Android/iOS-compatible mobile application",
+      "Neonatal manikin simulator",
+      "VR headset (optional)",
+      "Multimedia content (text/image/video)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

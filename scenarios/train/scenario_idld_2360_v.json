@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2360-V",
+  "variant_type": "context_variant",
+  "title": "Spatiotemporal Data Analysis Project for Landslide Prediction",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based learning environment understanding basic principles of landslide prediction models and analyzing real-world cases through data analysis practice using digital devices",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze landslide risk factors by integrating spatial data (e.g., satellite imagery) with environmental data over time.",
+    "Learners can explain the basic architecture of a deep learning model (CAE-RNN) and its application to spatiotemporal pattern recognition.",
+    "Learners can evaluate landslide prediction results using quantitative metrics such as precision, recall, and F1-score."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Landslide4Sense-like Dataset (Simplified Version)",
+      "Google Earth Engine or QGIS Educational Licenses",
+      "TensorFlow/Keras-Based Simple Deep Learning Lab Environment",
+      "Landslide Case Study Reports (Provided by Education Office)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4310-V",
+  "variant_type": "context_variant",
+  "title": "Language Education Design Using Infographics: Implementation Strategy Based on the ADDIE Model",
+  "context": {
+    "prior_knowledge": "Basic Digital Tool Usage Skills and Foundational Language Learning Competencies",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "In smartphone-centric limited-technology environments, VR simulations integrate infographic creation and language learning.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Can explain an infographic design process for language learning by applying the five phases of the ADDIE model",
+    "Can produce effective infographics utilizing visual elements (text, icons, layout) in VR simulation environments",
+    "Through project-based assessment, learners can complete at least one infographic applicable to real-world language learning scenarios"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Infographic Creation Tools (Canva, Piktochart Mobile Versions)",
+      "VR Simulation Platform (Unity3D-Based Mobile VR Environment)",
+      "Visual Aids Templates for Language Learning"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

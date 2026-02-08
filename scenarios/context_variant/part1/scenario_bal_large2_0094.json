@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0094",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Purposeful Digital Science Learning Design: Game and Challenge-Based Instructional Methods for Large-Scale Education",
+  "context": {
+    "prior_knowledge": "Basic science education theory and experience with digital tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Exploring methods for integrating gamification elements into science curriculum design for pre-service and in-service teachers, while conducting collaborative projects in a BYOD environment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design science education modules using a game-based learning design framework (knowledge activation, learning space configuration, learning support systems, etc.).",
+    "Design and implement PBL scenarios that enhance learner engagement by over 30% through challenge-based interaction.",
+    "Learners can analyze three cases of educational/technical issues (e.g., LMS integration errors, real-time collaboration tool delays) that occurred during digital tool integration, accurately identify root causes with over 80% accuracy using problem-specific diagnostic checklists (5 technical/educational items each), propose at least two actionable improvement plans (technical/educational approaches) within three days, and validate them using a 5-point feasibility assessment scale for educational settings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Education Game Authoring Tools (Unity, Unreal Engine)",
+      "Collaboration Platforms (Google Workspace, Notion)",
+      "Learning Analytics Software (LMS Plugin)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

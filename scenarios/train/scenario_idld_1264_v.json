@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1264-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: VR-Based Adaptive Social Skill Enhancement for Autistic Learners",
+  "context": {
+    "prior_knowledge": "Basic digital device utilization skills and foundational understanding of social skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify social cues (e.g., eye contact, facial expression recognition) with over 80% accuracy using visual attention-guiding techniques in VR environments.",
+    "Learners can reduce cognitive load by 30% when solving complex social problems by utilizing multimodal representation strategies (text + audio + visual cues).",
+    "Learners can achieve over 70 points in social scenario performance evaluations after four or more repeated practices with an adaptive feedback system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

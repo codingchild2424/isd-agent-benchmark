@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0092",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-directed] Intensive Course to Improve Elementary Mathematics Foundational Skills Using Mental Math Strategies",
+  "context": {
+    "prior_knowledge": "Understanding of basic arithmetic operations (addition/subtraction) and number system fundamentals",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Program to strengthen elementary mathematics instructional competencies for professionals, applying mobile-based microlearning in BYOD environments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Perform addition/subtraction within 20 with 90% accuracy using skip-counting and bridging-through-ten strategies",
+    "Visually and conceptually explain numerical relationships within the range (0-100) through number structuring",
+    "Learners will solve at least eight out of ten mental math problems presented in everyday situations (e.g., discount calculations, split bills) with 90% accuracy and apply appropriate strategies (e.g., rounding, distributive property, compensation) for each problem."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App",
+      "Interactive number manipulation simulation",
+      "Video case analysis materials",
+      "Automated Grading Quiz System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

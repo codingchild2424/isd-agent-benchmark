@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4647-V",
+  "variant_type": "context_variant",
+  "title": "Constructivist Microlearning for Understanding Groundwater Resources",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-optimized content for working professionals, accessible exclusively via smartphones without PCs",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners identify three core mechanisms explaining the formation and circulation processes of groundwater",
+    "Learners conduct case analyses comparing groundwater pollution and conservation strategies",
+    "Learners predict groundwater level changes using smart device-based simulation tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Interactive Quiz",
+      "Short video lecture (under 5 minutes)",
+      "Real-Time Survey Tool",
+      "Low-Bandwidth 3D Simulation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

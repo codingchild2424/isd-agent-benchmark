@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2139",
+  "variant_type": "idld_aligned",
+  "title": "Foundations of Suicide Risk Prediction Modeling for Patients with Substance Use Disorders",
+  "context": {
+    "prior_knowledge": "Comprehension of basic statistical concepts and experience with simple data analysis",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Content optimized for smartphone-based learning environments, prioritizing conceptual understanding without complex programming",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain hierarchical analysis methods for suicide risk factors using machine learning model decision trees",
+    "Summarize step-by-step processes for deriving key predictive variables using the random forest algorithm",
+    "It is possible to comparatively analyze interaction patterns of suicide risk factors according to gender."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Interactive infographic materials",
+      "Step-by-step concept explanation videos",
+      "Simple simulation tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

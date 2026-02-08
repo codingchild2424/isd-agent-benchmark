@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1742-V",
+  "variant_type": "context_variant",
+  "title": "Validation and Utilization of Online Learning Module Motivation Measurement Tools",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners must possess intermediate-level expertise in language education and be familiar with mobile learning using digital devices",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can understand the structure of the MSLQ-Short Form-Revised and RIMMS tools and explain the motivational factors measured by each item.",
+    "Learners can analyze reliability and validity of survey data collected from online modules using SPSS/R.",
+    "Learners can recognize the need to correct negatively worded items when interpreting survey results and evaluate model fit using the revised tool (RIMMS)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Statistical Analysis Software (SPSS/R)",
+      "Learning Module Sample Data",
+      "Survey Tool Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

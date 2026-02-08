@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8809-V",
+  "variant_type": "context_variant",
+  "title": "ADTRE-Based Instructional Design Competency Assessment Course for Preservice Science Teachers",
+  "context": {
+    "prior_knowledge": "Basic science education theories, ADTRE model concepts, and science subject matter knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Developing instructional design competencies through reflection and feedback in a smartphone-centered restricted technology environment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Can systematically execute a science lesson design process following the ADTRE (Analysis-Design-Teaching-Revision-Evaluation) model",
+    "Can continuously improve instructional design competencies through reflective journals and peer feedback",
+    "Can develop lesson plans reflecting real classroom situations in simulation/VR environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Simulation Tool",
+      "Digital Reflective Journal Template",
+      "Instructional design rubric",
+      "Science Education Content Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

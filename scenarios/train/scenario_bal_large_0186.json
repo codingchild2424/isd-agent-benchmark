@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0186",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Machine Learning Modeling for Catalyst Material Development in Solid Oxide Fuel Cells/Electrolyzers",
+  "context": {
+    "prior_knowledge": "Understanding of basic chemistry and physics knowledge, catalytic reaction concepts, and fundamental principles of machine learning",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhancing practical problem-solving skills through virtual material synthesis and performance evaluation simulations in VR environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain procedures for building machine learning models to predict oxygen reduction/evolution reaction catalyst performance",
+    "Learners can interpret machine learning model predictions (e.g., XGBoost, LightGBM) using SHAP (Shapley Additive Explanations) and create a report visualizing the impact analysis of five material properties (e.g., strength, durability) via bar plots and summary plots.",
+    "Screening of high-performance catalyst candidates is possible from a perovskite material database of over 19 million entries"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Machine Learning Tools (Scikit-learn, TensorFlow)",
+      "VR Simulation Platform",
+      "Material Database",
+      "Online ASR Prediction Model API"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

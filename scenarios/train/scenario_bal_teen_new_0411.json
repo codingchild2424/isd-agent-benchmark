@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0411",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] CoI-Based Collaborative Learning Design for Online Language Learning",
+  "context": {
+    "prior_knowledge": "Basic Language Proficiency and Experience with Online Learning Tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended course promoting collaborative learning in smartphone-based limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners write three or more questions/feedback expressing social presence using an online discussion platform.",
+    "Learners generate two or more argumentative responses demonstrating cognitive presence while collaborating with peers to solve language tasks.",
+    "Learners develop at least one collaborative learning strategy to overcome technical constraints with instructor guidance."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Synchronous/Asynchronous Communication Tools",
+      "Open-Source Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0050",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Model-Based Inquiry Instructional Design to Enhance Middle School Students' Understanding of Molecular Biology and Genetics",
+  "context": {
+    "prior_knowledge": "Basic biology knowledge, fundamental principles of genetic phenomena, and general understanding of curriculum design",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course enhancing pre-service teachers' instructional design capabilities to effectively teach molecular biology genetics to middle school students, implementing experiential learning environments through simulation and VR technologies",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can extract and apply three or more molecular biology genetics concepts suitable for middle schoolers' cognitive development stages.",
+    "Learners can design genetics simulation activities for middle schoolers using model-based inquiry learning strategies.",
+    "Learners can develop instructional materials visualizing gene expression processes in VR environments and evaluate their educational effectiveness."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D molecular modeling software",
+      "Genetics Simulation VR Content",
+      "Middle Schoolers' Misconception Case Database",
+      "Educational Gene-Editing Tool Simulation Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

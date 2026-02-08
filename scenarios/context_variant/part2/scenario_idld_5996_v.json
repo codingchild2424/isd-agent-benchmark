@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5996-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Microlearning Design for Adaptive Learning Activity Sequencing",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-Optimized Course for Developing Social Studies Pedagogical Expertise Among Pre-Service Teachers",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can select and apply five adaptive sequencing strategies according to situational contexts.",
+    "Learners can design activity sequences based on learner data in mobile environments with 80% accuracy.",
+    "Learners can complete a three-stage activity linkage structure through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based Learning Management System (LMS)",
+      "Micro-Content Template",
+      "Learner analytics dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

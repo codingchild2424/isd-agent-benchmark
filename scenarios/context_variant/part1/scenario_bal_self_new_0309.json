@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0309",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] MOOC-Based Self-Regulated Learning and Learning Ownership Enhancement Program",
+  "context": {
+    "prior_knowledge": "High school-level foundational mathematics knowledge and applied mathematical experience in job-related contexts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended learning program conducted in a digital device-provided environment, combining MOOC platforms and offline workshops to enhance mathematical competencies for working professionals.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Upon completion, learners independently complete over 90% of MOOC content using self-regulated learning strategies.",
+    "By the end of the course, learners voluntarily perform the goal-setting-execution-evaluation cycle at least three times.",
+    "During the learning process, learners improve awareness of learning ownership by over 70% using self-regulation question prompts (Regulation Activators)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Massive Open Online Course (MOOC) Platform",
+      "Self-Regulated Learning Prompt Template",
+      "Learning Analytics Tool",
+      "Offline Workshop Space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

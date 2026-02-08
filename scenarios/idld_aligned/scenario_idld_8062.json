@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8062",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Remote Mathematics Education Design: Short-Intensive Course for Professional Learners",
+  "context": {
+    "prior_knowledge": "Understanding of core middle school mathematics concepts and experience solving job-related mathematical problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening real-time interaction using mobile learning tools in a smartphone-centric limited-technology environment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participate in real-time mathematical problem-solving processes through a mobile learning application at least three times per week",
+    "Perform social interactions with peer learners at least twice per week using a mobile collaboration tool based on Transactional Distance Theory",
+    "Demonstrate the ability to analyze and solve job-related mathematical problems in a mobile environment, evidenced by a formative assessment achievement rate of over 80%"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Zoom Video Conferencing System",
+      "Math Problem-Solving App for Smartphones",
+      "PDF-based learning materials",
+      "Real-Time Chat Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

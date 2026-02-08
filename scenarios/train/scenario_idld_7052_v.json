@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7052-V",
+  "variant_type": "context_variant",
+  "title": "Teacher Capacity Building Program through Online Science Project-Based Learning",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Teaching competency enhancement program for pre-service or in-service teachers. Improving ability to design and implement science education projects applicable in real school settings",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced",
+    "learner_education": "Middle school"
+  },
+  "learning_goals": [
+    "Develop instructional design that improves learners' scientific inquiry skills by over 80% through project-based learning",
+    "Share learning materials with peers and provide feedback at least twice weekly using smartphone-based collaboration tools",
+    "Over 90% of learners rate the perceived usefulness (PU) of science project design at 4 points or higher (on a 5-point scale) at course completion"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Science Experiment Kit (Virtual/Low-Cost Physical)",
+      "Collaboration Tools (KakaoTalk/Google Drive)",
+      "Motivation Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

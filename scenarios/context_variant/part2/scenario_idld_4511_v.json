@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4511-V",
+  "variant_type": "context_variant",
+  "title": "Design-Based Science Leadership Education Utilizing Reflective Processes",
+  "context": {
+    "prior_knowledge": "Fundamental scientific problem-solving knowledge and managerial experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Immersive learning using VR simulations in a smartphone-centric, limited-technology environment, integrating design thinking processes into science education methodologies to strengthen leadership competencies",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Enhancement of systematic scientific education problem analysis skills using the IAES model (Investigate-Apply-Explain-Share)",
+    "Learners can develop action plans to improve instructional methodologies based on reflective thinking",
+    "Within one week, learners design one science education scenario using VR simulation tools (e.g., Unity, Unreal Engine), submitting deliverables that apply all four design process stages (problem definition-idea sketching-prototyping-testing)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "IAES Model Worksheet",
+      "Science education case database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

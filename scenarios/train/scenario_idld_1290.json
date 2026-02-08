@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1290",
+  "variant_type": "idld_aligned",
+  "title": "Knowledge Circulation Organization Management and E-Learning Content Design: Mathematics Education Specialist Program",
+  "context": {
+    "prior_knowledge": "Elementary mathematics theory and understanding of core instructional design principles",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course for professionals in medical, legal, and technical fields to enhance math education content design and knowledge management competencies. Real-time collaborative learning is supported via an integrated e-learning system in a BYOD environment.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "They can systematically classify mathematics educational content and integrate it into a knowledge management system using standardized data formats (XML/JSON).",
+    "They can implement a collaboration-based content design process in e-learning environments by applying distributed file systems and real-time synchronization technology.",
+    "Cultivating the ability to design individualized mathematics educational content by analyzing learner diagnostic data and incorporating it into the knowledge cycle process."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Standardized Learning Content Template",
+      "Real-Time Collaborative Editing Tool",
+      "Learning Analytics Dashboard",
+      "BYOD-compatible LMS platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

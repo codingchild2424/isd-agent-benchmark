@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0409",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Inference-Based English Vocabulary Learning Game Course",
+  "context": {
+    "prior_knowledge": "Elementary English Grammar and Vocabulary (1,500–2,000 Word Level)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Strengthening contextual vocabulary acquisition through inference games in non-real-time smartphone-based learning.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Acquisition of 500 new vocabulary items at VKS (Vocabulary Knowledge Scale) Level 3 (active use) or higher after six months.",
+    "Achievement of an 80% or higher accuracy rate in in-game reasoning activities.",
+    "Improvement of vocabulary knowledge scores by at least 40% in post-assessment compared to pre-assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Responsive web-based reasoning game",
+      "Vocabulary Database",
+      "Automated grading system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

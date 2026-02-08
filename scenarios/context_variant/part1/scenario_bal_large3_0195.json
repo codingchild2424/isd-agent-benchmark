@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE3-0195",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Interactive Geographic Information Science (GIS) Microlearning Course",
+  "context": {
+    "prior_knowledge": "Understanding of basic spatial concepts and ability to use mobile devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An interactive learning environment emphasizing workplace applicability for current practitioners. Utilizing open resources based on ETSS (Effective Teaching, Learning, and Assessment)",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will be able to perform basic GIS analysis (coordinate system conversion, spatial queries) with over 80% accuracy using mobile devices.",
+    "Learners will be able to design learning activities that solve real-world spatial problems (e.g., traffic route optimization) through interactive simulations.",
+    "Learners will be able to create and share spatial data visualizations (e.g., heatmaps) tailored to corporate requirements at least three times."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "ETSS Platform",
+      "Open-Source GIS Tools (e.g., QGIS)",
+      "Interactive Learning Scenario Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

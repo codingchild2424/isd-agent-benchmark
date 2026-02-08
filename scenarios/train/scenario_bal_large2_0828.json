@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0828",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Mobile-Based Differentiated Mathematics Instruction for Job Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and ability to interpret job-related data",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized math learning program for professionals with only smartphones.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can select and apply differentiated learning strategies to solve job-related mathematical problems",
+    "Learners enhance problem-solving skills by 20% by utilizing diverse learning materials (text/video/interactive content) provided in mobile environments",
+    "Learners must select one applicable mathematical modeling technique (linear programming or simulation) for the HR field (optimizing workforce allocation or budget planning) within one week, build a model using the provided real-world dataset, and submit a 5-page report (including introduction, methodology, results, conclusion, and references). They must achieve at least 3 points (out of 5) in four or more of the five rubric criteria: topic relevance, data utilization, model accuracy, result interpretation, and report completeness."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Mobile Learning Platform",
+      "Occupation-Specific Customized Mathematics Case Database",
+      "Automated Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Business/HR/Admin Support"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6953-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Learning Course to Improve Scientific Problem-Solving Skills for Vocational College Students",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Focuses on problem-solving scenarios similar to real work environments, supporting collaborative learning through the use of personal devices (BYOD)",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can solve science field practical problems by applying a four-stage problem-solving process: problem definition → cause analysis → solution development → implementation evaluation",
+    "Learners can solve real-world science problems from industrial settings with over 80% completion rates through collaborative PBL team projects",
+    "Learners can improve problem-solving strategies at least three times by reflecting on formative assessment feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Experiment Kit",
+      "Industry-linked Case Database",
+      "Digital Collaboration Tools",
+      "Formative assessment rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

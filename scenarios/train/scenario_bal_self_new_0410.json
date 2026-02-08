@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0410",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-directed] Mastoidectomy VR Simulation Training: Intentional Practice-Based Self-Regulated Learning Program",
+  "context": {
+    "prior_knowledge": "Basic anatomy and understanding of otolaryngology surgical procedures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Simulation training in a limited-technology environment (smartphone-based VR access), where learners engage with virtual modules replicating real surgical settings",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify the major anatomical boundaries of the mastoidectomy with 80% accuracy in a VR simulation environment",
+    "Learners can achieve a success rate of over 90% according to specified safety standards (protection of lateral semicircular canal, temporal bone, and facial nerve) in VR training",
+    "Learners can optimize training time using self-regulated learning tools (e.g., utilizing over 90% of allocated time) and identify at least three performance improvement areas through self-assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Headset",
+      "Cloud-based VR simulation platform",
+      "Learning Progress Monitoring Dashboard",
+      "Stepwise feedback-providing tutoring system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

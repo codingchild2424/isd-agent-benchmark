@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6829",
+  "variant_type": "idld_aligned",
+  "title": "Simulation/VR-Based Educational Programs for Remote Collaborative Science Learning",
+  "context": {
+    "prior_knowledge": "Basic Science Knowledge and Digital Device Proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Science learning integrating VR simulations and collaboration tools in smartphone-centric limited-technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain scientific problem-solving processes with peers using remote collaboration tools with over 80% accuracy.",
+    "Learners can analyze scientific experiment data in VR simulation environments and write collaborative reports.",
+    "Learners can complete team projects by applying digital collaboration protocols even in limited-technology environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR Devices (Minimum 10 Units)",
+      "Collaborative Learning Management System (LMS)",
+      "Offline-synchronizable app"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

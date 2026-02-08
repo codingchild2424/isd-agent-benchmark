@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1063-V",
+  "variant_type": "context_variant",
+  "title": "Intensive Short-Term Online Course for Mathematics Certification Exam Preparation",
+  "context": {
+    "prior_knowledge": "Comprehension of basic mathematics concepts at middle school level",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Operation of a personalized learning materials, weekly assignments, and formative assessment-centered feedback system feasible in a smartphone-based learning environment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain math concepts required for certification exams (e.g., equations, functions, statistics) with over 80% accuracy.",
+    "Learners can establish an individualized learning plan to complete all learning modules within one week.",
+    "Learners diagnose learning gaps through weekly quizzes and achieve an accuracy rate of over 70%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS System",
+      "PDF/Video Learning Materials",
+      "Weekly Online Quizzes",
+      "Practical Problem Bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

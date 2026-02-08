@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-1202",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Collaborative Argument-Based Learning (CABLE) Discussion Simulation Course",
+  "context": {
+    "prior_knowledge": "Understanding of basic argumentative structures and experience with digital collaboration tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Real-time collaborative learning utilizing VR simulations in a BYOD environment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform the role of Knowledge Integrator in structured argumentative discussions on controversial topics.",
+    "Learners can implement interaction patterns of a Discussion Facilitator (e.g., eliciting questions, organizing perspectives) with over 80% accuracy in three or more argumentative discussions.",
+    "Learners can analyze the correlation between individual argumentative contributions (Viewpoint Contributor) and group performance to design optimal participation strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Collaboration Platform License",
+      "Argument Structure Analysis Software",
+      "Role-based Discussion Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

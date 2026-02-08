@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2803-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Learning-Based Language Proficiency Enhancement Simulation Program",
+  "context": {
+    "prior_knowledge": "Basic Digital Device Usage Skills and Intermediate Language Proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Providing situational language learning modules for application in workplace environments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can improve real-world responsiveness by over 80% through weekly participation in language-interactive task simulations using mobile devices",
+    "Acquire and apply over 15 intermediate-level language expressions considering cultural contexts through VR-based multinational team collaboration scenarios",
+    "Learners will analyze two weeks of language learning data (e.g., vocabulary test results, pronunciation scores) collected via personal BYOD devices (smartphones/tablets). They will generate a weekly personalized feedback report (including 3 learning strengths/weaknesses and 2 improvement strategies) and incorporate it into the next week’s learning plan."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "VR Headset Rental Equipment",
+      "Language assessment AI engine",
+      "Context-Specific Scenario Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

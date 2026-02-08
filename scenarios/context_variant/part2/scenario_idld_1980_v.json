@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1980-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Machine Learning Competency in Practice: Interactive Multimedia-Based Oral Medication Administration Simulation",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform oral medication administration procedures with 90% accuracy in a CD-ROM simulation.",
+    "Learners can explain more than 10 cases of drug interactions and side effects along with context-specific coping strategies.",
+    "Learners can select medication error prevention strategies aligned with 80% or more of application cases through interactive quizzes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

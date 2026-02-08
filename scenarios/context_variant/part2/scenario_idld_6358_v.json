@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6358-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening App Development Competencies: Online Argumentation-Based Science Concept Inquiry Learning",
+  "context": {
+    "prior_knowledge": "High school-level foundational science knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can systematically analyze and critically evaluate scientific concepts during argumentation-based interactive processes.",
+    "Learners can improve their conceptual understanding of diffusion phenomena by more than 80% through collaborative argumentation activities.",
+    "Learners can present their arguments about scientific concepts in a structured form through project deliverables."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

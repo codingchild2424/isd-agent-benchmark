@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1100",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Online Workshop to Counter COVID-19 Vaccine Misinformation and Reduce Vaccine Hesitancy",
+  "context": {
+    "prior_knowledge": "Basic public health concepts and foundational digital literacy",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Establishing a Customized Content Delivery System and Pre-Post Comparative Assessment Framework Through Learner Analysis",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify at least three types of COVID-19 vaccine misinformation and refute them with scientific evidence",
+    "Learners demonstrate a 20% or greater improvement in attitudes based on Adult Vaccine Hesitancy Scale (AVHS) assessment results",
+    "Learners complete at least 80% of interactive modules provided in the LMS and can apply core concepts"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web-Based Learning Platform",
+      "Vaccine Hesitancy Scale (AVHS) Assessment Tool",
+      "Infographic Template",
+      "Fact-Checking Database Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

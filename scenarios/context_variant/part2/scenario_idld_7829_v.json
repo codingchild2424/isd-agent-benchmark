@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7829-V",
+  "variant_type": "context_variant",
+  "title": "Audience Response System (ARS) Utilization Process for Improving Health Education Learning Outcomes",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Health Education Curriculum Combining Project-Based Assessment with ARS Technology in a Smartphone-Based Learning Environment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can solve health statistics problems presented through ARS with 80% accuracy",
+    "Learners can reduce health data analysis errors by 50% using ARS real-time feedback",
+    "Learners can complete health education project assignments through ARS-based collaborative activities with over 90% success"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible ARS Platform",
+      "LMS-Integrated Quiz Tool",
+      "Health Statistics Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

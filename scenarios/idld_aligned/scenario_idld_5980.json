@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5980",
+  "variant_type": "idld_aligned",
+  "title": "Foundational Bioinformatics Education for Medicine: Application of Blended Teaching Methods",
+  "context": {
+    "prior_knowledge": "Knowledge of basic medical terminology and statistical concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Blended online-offline learning environment utilizing digital devices, with project execution based on clinical cases",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can interpret clinical sample analysis results using bioinformatics tools (e.g., BLAST, NCBI databases)",
+    "Learners can apply statistical analysis results of genomic data to clinical decision-making",
+    "Learners can design and validate the fundamental stages of a bioinformatics analysis pipeline"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Bioinformatics Analysis Software (Galaxy, UCSC Genome Browser)",
+      "Clinical Case Database",
+      "Gagne-Peyton Blended Instructional Design Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

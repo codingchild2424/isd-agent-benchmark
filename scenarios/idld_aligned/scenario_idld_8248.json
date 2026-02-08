@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8248",
+  "variant_type": "idld_aligned",
+  "title": "Media-Based Language Learning Design in Remote Education Environments",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and intermediate-level language proficiency in a specialized field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Need for modular content design to support workplace-integrated learning for professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can complete 15-minute self-directed learning sessions five times per week in a mobile environment.",
+    "Learners can utilize 30 job-specific terms in context-based dialogues relevant to workplace situations.",
+    "Learners can achieve 80% or higher weekly learning achievement rates through peer assessment and quiz features."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Mobile Learning Platform",
+      "Audio/Visual Content Creation Tools",
+      "Automated grading system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

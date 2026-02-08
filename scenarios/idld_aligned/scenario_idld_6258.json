@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6258",
+  "variant_type": "idld_aligned",
+  "title": "Elementary Language Education Curriculum Development Based on Learning Design Models",
+  "context": {
+    "prior_knowledge": "Possession of foundational literacy skills and experience using digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Providing a structured learning design environment using a model-based development approach. Activity-centered composition to promote learner engagement",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Can explain the basic components of a learning design model (activity types, roles, resources).",
+    "Can design simple learning scenarios using DSML (Domain-Specific Modeling Language).",
+    "Can convert developed learning designs into activity worksheets applicable in offline settings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "15 tablet PCs",
+      "Learning Design Template",
+      "Activity Worksheet Samples",
+      "LMS Integration Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

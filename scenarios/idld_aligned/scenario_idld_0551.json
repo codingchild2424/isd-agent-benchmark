@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0551",
+  "variant_type": "idld_aligned",
+  "title": "Design Thinking-Based Scientific Web Development Course for Early Childhood Reading Habit Formation: Integrated Experimentation·Measurement·Analysis Approach",
+  "context": {
+    "prior_knowledge": "Basic web development, understanding of design thinking concepts, and foundational knowledge of statistics and scientific experimentation methodologies (measurement, hypothesis formulation, variable control)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course designed to enhance the capacity of professionals in medical, legal, and technical fields to design reading environments and develop digital solutions for infants and toddlers at different developmental stages. Emphasizing scientific inquiry methods (observation, experimentation, data analysis) and data-driven decision-making, this course teaches evidence-based approaches to fostering reading habits in early childhood.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Apply the five stages of design thinking (Empathize-Define-Ideate-Prototype-Test) to create a web service proposal for fostering reading habits in early childhood and integrate scientific analysis methods (variable control, data measurement, result interpretation).",
+    "Within three weeks, learners analyze survey results from 15 or more caregivers (family, teachers, librarians) of young children and develop a platform prototype (wireframe + functional specification) tailored to reading habits and needs. They establish an experimental plan including A/B test design (setting independent and dependent variables).",
+    "Learners apply A/B testing methodologies to digital reading platforms (e.g., e-book readers, online libraries) to design three or more UI/UX improvements. After conducting a two-week experiment with 50 real users, they write a 5-page scientific evaluation report (deriving evidence-based conclusions) based on results confirming statistical significance (p-value < 0.05)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Figma/Adobe XD Design Tools",
+      "GitHub Repository",
+      "Online Collaboration Platform",
+      "Statistical Dataset on Early Childhood Reading"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

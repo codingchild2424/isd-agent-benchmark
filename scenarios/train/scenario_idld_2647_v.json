@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2647-V",
+  "variant_type": "context_variant",
+  "title": "Health Game-Based Microlearning Design Workshop",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners possess advanced knowledge in science, requiring individualized learning experiences in a BYOD environment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners develop a prototype of a health-promotion educational game within a week by applying persuasive game design principles (e.g., motivation, feedback, gradual difficulty), and submit a result that meets four or more of five predefined evaluation checklist criteria (functionality, educational value, user experience).",
+    "Compare and analyze at least three intrinsic/extrinsic game mechanics tailored for medical purposes (health promotion/disease management)",
+    "Design a peer support system utilizing mobile-optimized microlearning activities (5-minute units)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Game Development Tools (e.g., Unity/Unreal Engine Educational Licenses)",
+      "Open-Source Health Data Visualization Libraries",
+      "Smartphone-Compatible Wearable Devices"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

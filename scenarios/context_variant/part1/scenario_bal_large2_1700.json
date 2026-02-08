@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1700",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Instructional Design Project for AI-Driven Innovation in Mathematics Education",
+  "context": {
+    "prior_knowledge": "Foundations of Mathematics Education Theory and Experience with Online Learning Platforms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Designing AI-integrated lessons using personal devices and conducting projects to develop generative AI systems for mathematics education.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will design a system that uses generative AI models (e.g., GPT-4, Claude) to automatically generate ≥10 math problems across three difficulty levels (beginner/intermediate/advanced) and recommend appropriate problem sets based on learner diagnostic results. Generated problems must receive ≥80% suitability ratings on an expert evaluation rubric: clarity, difficulty, and educational relevance.",
+    "Develop the capability to implement a math learning data visualization and feedback system using AI analysis tools",
+    "Strengthen the competency to develop AI-based math education scenarios using PBL methods and apply them to real classroom environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Google Colaboratory",
+      "Python-based AI library",
+      "Learning Analytics Tools",
+      "Educational Chatbot Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

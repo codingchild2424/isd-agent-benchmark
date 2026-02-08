@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1135-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Skills: Mobile Microlearning Strategies for Digital Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Experience using fundamental digital tools (e.g., email, document editing)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can independently utilize digital tools (cloud collaboration tools, presentation software) required for business document creation within one week",
+    "Learners can apply effective information communication techniques when engaging in digital communication (email, messenger) in mobile environments",
+    "Learners can demonstrate digital problem-solving skills (information retrieval, data visualization) through project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

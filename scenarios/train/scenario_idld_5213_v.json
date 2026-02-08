@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5213-V",
+  "variant_type": "context_variant",
+  "title": "Short-term course to enhance science inquiry competencies based on flipped learning",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Operated in smartphone-based limited tech environments; learning process involving scientific phenomenon experiences through virtual reality simulations",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can self-direct science learning by applying the seven-step O-PIRTAS flipped learning model.",
+    "Learners can explore scientific principles via VR simulation and engage in ≥ 80% collaborative activities with peers.",
+    "Learners can achieve ≥ 75% comprehension of scientific concepts through formative assessment."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Compatible VR Application",
+      "Smartphone",
+      "Wi-Fi Environment",
+      "Flipped Learning Video Materials",
+      "Online Discussion Forum"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

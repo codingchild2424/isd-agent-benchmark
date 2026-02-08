@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1283",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Mathematics Learning Engagement Classification Education Using Deep Learning-Based Real-Time Feedback Systems for [Large-Scale] Implementation",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental mathematics concepts and experience using digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A real-time feedback system integrated with digital devices, facilitating mathematics problem-solving projects",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students will be able to accurately classify their real-time engagement levels into one of four tiers (high/medium/low/very low) via a deep learning-based system.",
+    "Learners will improve math project efficiency by utilizing engagement-based personalized feedback provided by the system at least 85% of the time.",
+    "Students will be able to analyze engagement data over a six-month course to diagnose learning patterns and develop improvement strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Vanilla EfficientNet Model",
+      "DAiSEE Style Engagement Dataset",
+      "Learning Analytics Dashboard",
+      "Mathematics Problem Bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

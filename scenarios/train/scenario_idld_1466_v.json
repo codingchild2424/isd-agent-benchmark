@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1466-V",
+  "variant_type": "context_variant",
+  "title": "Online Course for Improving Law Education Based on Deep Learning Theory",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized legal education courses for professionals, prioritizing practical skill enhancement over assessment as a non-degree program.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately interpret and analyze legal language information.",
+    "Learners can improve critical thinking skills required for solving legal problems by 20% through case studies.",
+    "Learners can acquire and implement three or more practical skills applicable to real legal tasks.",
+    "Learners can improve their ethical attitude by 15% in the legal judgment process"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Video Lectures, Quizzes, Discussion Board)",
+      "Case Study Database",
+      "Online Collaboration Tools (Real-Time Chat/Video Conferencing)",
+      "Legal Judgment Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

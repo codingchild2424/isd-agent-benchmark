@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0185",
+  "variant_type": "balance_medium_scale",
+  "title": "Mobile VR-Based Language Learning Design for P-12 Education",
+  "context": {
+    "prior_knowledge": "Fundamental Smartphone Operation Skills and Understanding of Elementary Education Curricula",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Focuses on graduate students designing VR-based language learning programs for elementary education settings. Prioritizes developing executable microlearning modules in smartphone-based restricted environments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design three or more experience-based VR language learning scenarios for P-12 learners",
+    "Plan mobile VR language learning content incorporating gamification elements",
+    "Develop formative assessment tools to evaluate VR’s educational effectiveness (immersion, creative problem-solving) in primary education settings"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR Devices (Cardboard/Basic HMD)",
+      "360-degree video production tools",
+      "Game Design Template",
+      "Educational VR Authoring Tool (e.g., CoSpaces)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

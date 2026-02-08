@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0771",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Integrated Dental Clinical Reasoning Development: Case Simulation Learning Based on Social Determinants of Health (SDOH)",
+  "context": {
+    "prior_knowledge": "Basic dental knowledge (oral anatomy, pathology, etc.) and foundational understanding of clinical procedures, basic awareness of social determinants of health (SDOH) (economic inequality, cultural differences, healthcare accessibility, etc.)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducted in a virtual patient simulation environment using VR equipment, with individual mobile devices for accessing and analyzing case materials. Implementation of scenarios reflecting social contexts such as community health disparities, healthcare accessibility, cultural sensitivity, and social networks. Linked to educational curricula promoting civic rights and health equity.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners perform patient information collection → diagnosis considering social determinants of health (SDOH: socioeconomic background, cultural beliefs, community resources) → treatment planning respecting patient rights in ≥3 complex clinical cases with 80% accuracy.",
+    "Achieved 1.5 times higher decision-making accuracy compared to treatment planning during diagnostic decision-making (applied criteria: medical ethics, patient autonomy, cultural sensitivity)",
+    "Identified and improved ≥3 clinical errors through peer and self-assessment in VR simulations (including strategies for enhancing patient-doctor relationships within healthcare systems and promoting health equity)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR dental treatment simulator",
+      "Digital patient case database",
+      "BYOD-Compatible Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

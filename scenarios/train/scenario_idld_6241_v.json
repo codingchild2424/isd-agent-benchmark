@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6241-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Curriculum Development Competencies: Lifelong Learning Path Design in Science Fields: Online LMS-Based Module",
+  "context": {
+    "prior_knowledge": "Basic scientific terminology understanding and digital device proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Competency enhancement program for professionals in education/teaching/learning fields",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners autonomously explore five core science modules (Physics, Chemistry, Biology, Earth Science, Experimental Methods) provided by the LMS system to establish a personalized learning plan.",
+    "Learners self-define and achieve module completion conditions (e.g., quiz scores above 80%) using IMS-LD-based conditional settings.",
+    "Learners adjust learning paths based on formative assessment results and complete in-depth studies in at least three fields within a six-month course.",
+    "Learners upload ≥3 monthly learning artifacts (assignments, projects, assessments) to a digital portfolio platform (e.g., Google Sites, Notion) and, upon course completion, submit a career goal plan based on the portfolio, achieving ≥80% suitability rating from an instructor"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Authoring Tool",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Education (Teaching & Learning)"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0385",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Augmented Reality-based Elementary English Vocabulary Learning Program: Application of Scientific Inquiry Methods",
+  "context": {
+    "prior_knowledge": "Recognition of basic English alphabet and 100 everyday vocabulary words, experience designing simple experiments and formulating hypotheses",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning via BYOD (tablet/smartphone): twice-weekly 40-minute face-to-face classes + daily 15-minute AR self-study. Learning data is systematically measured/recorded for scientific analysis, with evidence-based feedback provision.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Develop scientific inquiry skills by manipulating 3D objects in AR environments and contextually utilizing 25 new vocabulary terms per week.",
+    "Analyzing word meaning-pronunciation-spelling-image connections with 80% accuracy through an augmented reality quiz system to enhance variable control capabilities",
+    "Sharing AR word maps with peers in collaborative learning mode to generate and record observational results of over 10 situational expression sentences"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR-compatible mobile app (Unity-based)",
+      "Vocabulary curriculum mapping document for teachers",
+      "AR marker kit for students (printable materials)",
+      "Cloud-based progress tracking system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

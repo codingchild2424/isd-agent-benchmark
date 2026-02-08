@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4499-V",
+  "variant_type": "context_variant",
+  "title": "Industry-Linked Problem-Based Learning-Driven Innovation Program for Indian Engineering Education",
+  "context": {
+    "prior_knowledge": "Core engineering knowledge and competency in digital tool utilization",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A practice-oriented course addressing the mismatch between Indian engineering education and industry demands. Learners (faculty and engineers) develop innovative solutions using digital tools and collaboration platforms while solving real industry problems.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze engineering problems occurring in industrial settings using PBL (Problem-Based Learning) and propose concrete solutions.",
+    "Learners can design and implement projects reflecting annual curriculum improvement requirements presented by the FAIR (Faculty-Alumni-Industry-Representatives) Committee.",
+    "Learners can develop industry-linked prototypes or products using digital tools (e.g., simulation software, cloud platforms)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Industry collaboration network (corporate mentors, field data)",
+      "Digital fabrication equipment (3D printer, IoT kit)",
+      "PBL-supported LMS (Learning Management System)",
+      "FAIR Committee operations manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

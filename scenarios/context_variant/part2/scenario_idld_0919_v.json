@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0919-V",
+  "variant_type": "context_variant",
+  "title": "Development of an Instructional Design System Based on an Integrated Training Design Matrix",
+  "context": {
+    "prior_knowledge": "Basic instructional design theories and experience with online learning environments",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Intensive 5-day curriculum where learners design educational environments using instructional design systems to strengthen job competencies, with hands-on practice using personal devices and project-based assessments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically classify educational objectives according to four training issues (scope, location, transfer characteristics, difficulty) using the ITDM matrix.",
+    "Learners can derive and apply instructional design elements (feedback methods, practice structures, etc.) based on analysis results with over 80% accuracy.",
+    "Learners can develop customized instructional design plans using organizational/personal analysis data and submit them in project format."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ITDM Template",
+      "Job Task Analysis Case Database",
+      "Zoom screen-sharing tool",
+      "Real-Time Collaboration Platform (e.g., Miro)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

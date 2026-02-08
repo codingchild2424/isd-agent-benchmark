@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2512-V",
+  "variant_type": "context_variant",
+  "title": "Constructivist Social Education Design Based on Reinforcement Learning",
+  "context": {
+    "prior_knowledge": "Basic digital device operation skills and foundational knowledge in social sciences",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A customized social education program for learners in managerial/leadership roles, providing interactive learning environments using digital devices",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can understand the basic principles of reinforcement learning and explain its applicability to instructional design.",
+    "Learners can design social studies education scenarios using a constructivist approach.",
+    "Learners can implement a learner-customized feedback system using digital tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "10 Tablet PCs",
+      "Interactive Whiteboard",
+      "Reinforcement learning simulation software",
+      "Social Studies Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

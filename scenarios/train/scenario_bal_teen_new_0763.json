@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0763",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Interactive Web-Based Mathematics Projects: Data Analysis and Problem Solving",
+  "context": {
+    "prior_knowledge": "High school mathematics foundation (Math I, II level)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners access web-based platforms via personal devices and perform math projects using real-time collaboration tools and asynchronous discussion boards",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can build regression analysis models using real datasets and perform statistical interpretations",
+    "Learners implement at least three feedback loops with peers using web-based collaboration tools to refine problem-solving strategies",
+    "Learners select one math concept (e.g., linear functions, geometric properties) and create interactive web content with three or more visual representations (graphs, animations, manipulable elements) using Desmos or GeoGebra, achieving 80% or higher on a peer evaluation rubric (creativity 20%, accuracy 30%, interactivity 30%, completeness 20%)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Google Colab/Jupyter Notebook",
+      "Padlet/Notion Collaborative Workspace",
+      "Khan Academy Math Tutorials",
+      "Real-Time Video Conferencing System (Zoom/Teams)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

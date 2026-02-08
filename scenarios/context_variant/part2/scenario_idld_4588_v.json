@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4588-V",
+  "variant_type": "context_variant",
+  "title": "Constraint-Led Training Design Workshop for Sports Skill Acquisition",
+  "context": {
+    "prior_knowledge": "Basic sports science knowledge and understanding of exercise biomechanics",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners are general citizens interested in data-driven training design, possessing intermediate-level sports science knowledge",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design sports skill training programs using a constraint-led approach.",
+    "Learners can optimize training constraints by applying machine learning techniques (decision trees/clustering analysis).",
+    "Learners can develop training scenarios based on Representative Learning Design (RLD) that reflect real-game environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Sports Training Dataset",
+      "Machine Learning Visualization Tool",
+      "LMS platform",
+      "Online Collaborative Whiteboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

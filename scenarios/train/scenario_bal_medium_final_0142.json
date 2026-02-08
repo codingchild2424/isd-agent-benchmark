@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-FINAL-0142",
+  "variant_type": "balance_medium_final",
+  "title": "AR-Based Inquiry Learning: Advanced Biology Concepts Course",
+  "context": {
+    "prior_knowledge": "Mastery of high school biology fundamentals and basic smartphone/tablet operation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Constructing a visualization-based inquiry learning environment using AR technology, combining weekly face-to-face sessions with asynchronous online activities",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "AR simulation tools can be utilized to analyze the cell division process in 3D and explain key stages.",
+    "Learners can analyze three cases applying AR technology (3D modeling, augmented reality simulations) to biological phenomena (e.g., cell division, ecosystem interactions) and write a report including two improvement plans based on educational effectiveness criteria (engagement, comprehension enhancement).",
+    "Collaborative inquiry activities enhance the ability to design AR-based experiments and interpret data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Development Platform License",
+      "3D Modeling Software",
+      "Tablet PC rental set",
+      "Life Sciences AR Content Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

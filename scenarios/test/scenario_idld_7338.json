@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7338",
+  "variant_type": "idld_aligned",
+  "title": "Social Health Literacy Education Using Virtual Patient Simulation",
+  "context": {
+    "prior_knowledge": "Basic comprehension of medical terminology and digital device proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners, as ordinary citizens, are interested in solving community health issues and engage in collaborative learning in a BYOD (Bring Your Own Device) environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain neurological disorder symptom assessment procedures with 80% accuracy through virtual patient simulations.",
+    "Learners can present decision-making rationales considering social factors in patient diagnosis during post-simulation discussions.",
+    "Learner groups can propose three practical strategies for community health promotion in final projects, incorporating simulation experiences."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual Patient Simulation Platform Access Permissions",
+      "5 Backup Devices for Tablet/Smartphone Loan",
+      "Neurological Disorder Case Study Resource Collection"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

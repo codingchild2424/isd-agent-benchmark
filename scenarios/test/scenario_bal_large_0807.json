@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0807",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Serious Game-Based Mathematics Competency Enhancement Workshop for Healthcare Leaders",
+  "context": {
+    "prior_knowledge": "Fundamental statistics and data interpretation skills, with healthcare management experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A game-based learning environment for healthcare administrators to improve mathematical decision-making skills, emphasizing collaborative learning via BYOD",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze complex medical data with 80% accuracy through game-based simulations.",
+    "Learners can derive three or more resource allocation optimization strategies via in-game decision-making simulations.",
+    "Learners can improve team-based problem-solving efficiency by 40% using competition/collaboration mechanisms with peers."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet Device (Learner-Brought)",
+      "Game Development Platform License",
+      "Medical scenario database",
+      "Real-time feedback system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

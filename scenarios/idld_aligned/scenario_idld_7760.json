@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7760",
+  "variant_type": "idld_aligned",
+  "title": "Workshop on LMS Design for Adaptive Online Science Learning",
+  "context": {
+    "prior_knowledge": "Foundational Science Knowledge and Experience in Using Online Learning Platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A student-centered adaptive learning design course conducted in a smartphone-based limited-technology environment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design three or more adaptive learning rules applicable to LMS following DBR (Design-Based Research) methodology",
+    "Learners can create evaluation criteria that consider connectivity between learning activities based on peer feedback",
+    "Learners can prototype personalized learning pathways implementable in mobile environments on the Moodle platform"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Zoom Account",
+      "Moodle demonstration platform",
+      "Learning style diagnostic tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

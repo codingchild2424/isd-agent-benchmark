@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-0413",
+  "variant_type": "balance_large_scale",
+  "title": "Blended Learning Course for Remote Chemistry Laboratory Education (Large-Scale)",
+  "context": {
+    "prior_knowledge": "Understanding of high school-level basic chemistry concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Flexibly scheduled for working professionals, combining experiments using personal devices with online learning.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can safely use experimental equipment and materials with over 80% accuracy",
+    "Learners can perform chemical experiments according to given procedures and create digital reports (text and photos)",
+    "Learners can master laboratory safety regulations at over 90% proficiency through online safety quizzes",
+    "Learners can systematically document insights gained from experimental processes via weekly reflection journals"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Customized At-Home Experiment Kit",
+      "Experimental Videos and Manuals",
+      "Digital Photo Submission Platform",
+      "Online Practical Exam System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

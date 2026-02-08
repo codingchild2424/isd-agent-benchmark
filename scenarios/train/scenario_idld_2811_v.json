@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2811-V",
+  "variant_type": "context_variant",
+  "title": "Foundations of Educational Technology Usability Evaluation: Online Tool Analysis for Science Learning",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A science education technology evaluation process conducted in a smartphone-centric, limited-technology environment.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain at least three usability evaluation criteria for educational technology tools.",
+    "Learners can analyze trends in usability research for science learning tools through literature reviews.",
+    "Learners can conduct usability evaluations of educational technology using online survey tools.",
+    "Learners can analyze the impact of technological environment constraints on usability evaluations through case studies."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Open-access academic databases",
+      "Basic Survey Questionnaire Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

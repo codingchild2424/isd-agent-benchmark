@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3751",
+  "variant_type": "idld_aligned",
+  "title": "Blended Teaching Method Design and Operation for Emergency Online Learning Environments",
+  "context": {
+    "prior_knowledge": "Fundamental digital literacy and practical experience in social sector operations",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Hybrid environment using real-time video conferencing tools (Zoom) and LMS simultaneously. Requires flexible learning schedules considering learners' work commitments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design classes utilizing at least three synchronous instructional methods in emergency online settings",
+    "Learners can collect and analyze materials required for social problem-solving projects through asynchronous learning activities",
+    "Learners can complete project-based assessment tasks with peers using digital collaboration tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ZOOM Account",
+      "LMS platform",
+      "Digital Collaboration Tools (Google Workspace, etc.)",
+      "Social Studies Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

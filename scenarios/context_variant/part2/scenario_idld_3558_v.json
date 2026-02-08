@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3558-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Medical Practice Competencies: Model-Free Q-Learning Practice for H∞ Tracking Control Design",
+  "context": {
+    "prior_knowledge": "Linear control theory, discrete-time systems, optimization-based controller design, and introductory machine learning concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Quantify the mathematical modeling and performance of H∞ tracking control problems",
+    "Explain the relationship between the Game Algebraic Riccati Equation (GARE) and Q-learning algorithms",
+    "Design a controller for discontinuous systems using model-free Q-learning and verify it through simulation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Records (EMR) System",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

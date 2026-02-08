@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0592",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Technology-Enhanced Social Education Design for Secondary School Teachers Aged 40+",
+  "context": {
+    "prior_knowledge": "Basic smartphone application usage skills and foundational secondary-level social studies concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in a smartphone-centric limited-technology environment, emphasizing practical content immediately applicable to school settings post-training",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners design methods to integrate four or more digital tools (video editors, survey apps, collaboration platforms, augmented reality apps) into social studies lessons.",
+    "Learners identify three or more ethical issues (privacy protection, copyright, digital divide) arising in technology-integrated lesson design and propose solutions.",
+    "Learners develop two types of interactive learning materials (quiz-based content, virtual field surveys) creatable via smartphones and improve them through peer assessment"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone basic apps (camera, video player)",
+      "Free educational platforms (Google Classroom, Padlet)",
+      "Low-capacity video creation tool (CapCut mobile version)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

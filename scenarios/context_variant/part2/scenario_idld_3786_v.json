@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3786-V",
+  "variant_type": "context_variant",
+  "title": "Analysis and Application Project on the Timing Effect of Digital Game-Based STEM Language Learning",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in the relevant field or equivalent experience (understanding basic grammar, acquiring foundational vocabulary in the specialty area)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A customized program for pre-professionals in medical/legal/technical fields at vocational training institutions. Focuses on improving job-specific language expression (e.g., patient explanations, legal document drafting, technical report structuring) and reading comprehension.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can comparatively analyze the cognitive and affective effects (e.g., vocabulary acquisition efficiency, grammar comprehension improvement) of applying DGBL (Digital Game-Based Learning) before/after STEM language classes.",
+    "Through project-based collaboration, learners develop language problem-solving strategies applicable to real-world professional scenarios (medical/legal/technical fields), such as specialized terminology usage and context-specific expression construction.",
+    "Learners analyze log data (playtime, error frequency, repetition count, etc.) from a game-based language learning platform to evaluate their learning patterns (e.g., vocabulary acquisition speed, grammar error types), propose at least three specific improvement plans (e.g., adjusting focused study time, repeated practice of weak grammar types, specialized vocabulary reinforcement training), and incorporate them into a weekly learning plan."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "STEM Educational Digital Gaming Platform",
+      "Collaborative Problem-Solving Tools",
+      "Learning Analytics Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

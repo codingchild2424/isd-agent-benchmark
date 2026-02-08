@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0201",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Difficulty Factor Approach-Based Mathematics Learning Course for Intelligent Tutoring System Design",
+  "context": {
+    "prior_knowledge": "Understanding of introductory statistics concepts (scatter plots, correlation) and basic programming knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Intelligent tutoring system development project to improve scatter plot analysis skills through learner-specific difficulty adjustments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify and explain three or more major error factors occurring during scatterplot analysis",
+    "Learners can design personalized tutoring content by applying a difficulty factor approach",
+    "Learners can improve intelligent tutoring systems through an iterative design process (analysis-development-evaluation-revision)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile LMS Platform",
+      "Interactive scatter plot generator",
+      "Real-time learner data analytics tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

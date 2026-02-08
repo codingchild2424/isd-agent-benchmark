@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7267-V",
+  "variant_type": "context_variant",
+  "title": "Automated Social Domain Learning Pathway Design",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An advanced social studies program for professionals in medical, legal, and technical fields. Offers personalized learning paths through learner-customized knowledge structure analysis.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately identify the semantic connection structure between core social studies concepts with over 80% accuracy.",
+    "Learners can establish a personalized learning plan within three months based on an automated system-recommended learning path.",
+    "Learners can achieve 85 points or higher (out of 100) in their summative assessment for social phenomenon analysis competency."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Wikipedia-Based Knowledge Graph",
+      "Automated Learning Path Generation Algorithm",
+      "Online Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0199",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Interdisciplinary Collaborative Learning and Scientific Inquiry Competency Development Program for Medical Science Students",
+  "context": {
+    "prior_knowledge": "Basic medical and nursing knowledge, at least one clinical practice experience, and foundational understanding of scientific experimental design (observation, hypothesis formulation, experimentation) and data analysis (measurement, statistical processing)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A program addressing the lack of role awareness as healthcare team members and collaboration experience with students from other disciplines. Provides flexible learning environments through mobile-based learning modules. Integrates scientific methodologies (observation, hypothesis formulation, experimental design, data analysis, evidence-based conclusions) into collaborative projects to cultivate problem-solving skills for real medical settings. Particularly strengthens scientific inquiry competencies required in medical fields (variable control, data interpretation, objective evidence presentation).",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Improve understanding of interdisciplinary collaboration and team-based healthcare environments by ≥80%, cultivating problem-solving skills via scientific inquiry (hypothesis, variable control, experimental design).",
+    "Enhance RILS (Readiness for Interprofessional Learning Scale) scores by ≥25% from baseline, strengthen evidence-based decision-making through experimental data analysis.",
+    "In a 4–5-member interdisciplinary team (medicine, engineering, arts), learners must perform one role (planner, researcher, presenter), write four weekly meeting logs, produce a ≤10-minute final presentation, achieve “Excellent” in ≥3 of 5 project evaluation criteria, and apply systematic variable control/hypothesis testing for scientific validation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "RILS Assessment Tool",
+      "Virtual Simulation Platform",
+      "Mobile Learning Management System (LMS)",
+      "Interdisciplinary Case Study Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

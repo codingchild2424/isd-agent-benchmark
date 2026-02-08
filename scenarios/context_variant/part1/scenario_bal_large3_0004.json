@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE3-0004",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Structured Training Program for AI-Driven Educational Tool Integration",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and specialized expertise in social sciences",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners use personal devices via BYOD (Bring Your Own Device), aiming to integrate AI tools immediately applicable in real work environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain and apply ethical principles for using LLM tools like ChatGPT in educational settings",
+    "Learners apply the ADDIE model (Analysis-Design-Development-Implementation-Evaluation) to design one customized educational scenario for a specific learner group (e.g., adult literacy learners) using AI tools like ChatGPT and MidJourney, pilot it for four weeks, and submit an effectiveness report (80%+ participation, 20%+ learning outcome improvement).",
+    "Through project-based assessment (4 weeks), learners select one real-world public/nonprofit task (e.g., community service optimization, resource allocation efficiency), design a solution using AI tools (chatbots, data analysis), and submit a deliverable (report or prototype). They achieve ≥4/5 points in four of five rubric items (problem definition, AI applicability, feasibility, creativity, completeness).",
+    "Learners identify three specific privacy issues arising from AI tools (ChatGPT, facial recognition systems) and write a 1,500-character report proposing ≥2 solutions (e.g., encryption, access hierarchy, data minimization) per issue. The report must earn \"excellent\" in ≥4 of 5 rubric items (clarity, validity, practicality, creativity, format)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AI Educational Tool Access Account",
+      "PBL Project Template",
+      "AI Integration Guidelines for Educators",
+      "Offline Collaboration Space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

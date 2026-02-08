@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6947-V",
+  "variant_type": "context_variant",
+  "title": "Classifying Student Engagement in Education Using a Deep Learning-Based Feedback System",
+  "context": {
+    "prior_knowledge": "Basic understanding of machine learning concepts and Python programming proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Environment enabling real-time participation monitoring and feedback via digital devices. Focused on professionals analyzing their engagement patterns and developing improvement strategies in language education",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can classify student engagement levels into four stages (very high, high, low, very low) with over 80% accuracy using a deep learning model (EfficientNet).",
+    "Learners can design a normalization loss function based on Inverse Class Frequency to address class imbalance issues.",
+    "Learners can implement a customized feedback system based on text and video data extracted from the DAiSEE dataset and evaluate its real-time applicability in small classrooms."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "DAiSEE Dataset Sample",
+      "Google Colab or Equivalent GPU Environment",
+      "Jupyter Notebook/Google Colab Environment",
+      "EfficientNet-B0 Model Architecture Documentation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

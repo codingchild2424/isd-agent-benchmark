@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4200",
+  "variant_type": "idld_aligned",
+  "title": "Online Quiz-Based College Mathematics Foundational Competency Enhancement Course",
+  "context": {
+    "prior_knowledge": "Basic arithmetic operations and understanding of elementary mathematics concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Operated in a smartphone-centric limited technological environment, applying flexible learning schedules considering workplace integration for employees",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve algebraic equations and basic calculus problems with over 80% accuracy.",
+    "Learners review concepts three or more times through weekly automated quizzes, improving comprehension by over 70%.",
+    "Learners perform self-directed learning with over 90% participation by utilizing digital resources provided in an online quiz system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Automated Grading Quiz Engine",
+      "Responsive Web-Based Learning Content",
+      "PDF/Image Output Support System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0825",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Collaborative Digital Literacy Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic experience with digital tools (ability to use smartphones/tablets)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course combining theory and practical tasks through mobile-based fragmented learning, with mandatory online collaboration tools for team projects",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners complete information-sharing and feedback processes using online collaboration tools (Google Workspace, Padlet, etc.) with over 80% accuracy.",
+    "Utilizing digital content creation tools, learners participate in three or more team projects and generate collaborative outputs.",
+    "Applying critical digital information evaluation criteria, learners identify virtual disinformation with 90% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Google Workspace Account",
+      "Padlet Educational Account",
+      "Digital Content Production Template",
+      "Collaborative Project Guide Document"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4746-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Programming Practical Competencies: PBL-Based Educational Design Competency Enhancement for Early Childhood Educators",
+  "context": {
+    "prior_knowledge": "Foundational early childhood education theories and classroom management experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design educational programs by applying the ADDIE model (Analysis-Design-Development-Implementation-Evaluation) to real early childhood education scenarios.",
+    "Through PBL team activities, learners enhance educational design competencies by collaborating effectively with peer teachers and exchanging feedback.",
+    "Learners simulate the educational design process using digital tools (e.g., survey apps, video production) in a constrained technological environment (smartphones)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7914",
+  "variant_type": "idld_aligned",
+  "title": "Cognitive and Metacognitive Load Management Strategies in Computer-Based Mathematics Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic mathematics pedagogy and experience with computer-based learning tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mathematics education design utilizing VR simulations in limited-technology smartphone-based environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design math simulation materials by applying CLT (Cognitive Load Theory) and multimodal learning principles.",
+    "Learners can utilize checklists to diagnose cognitive load and metacognitive needs of learners in VR environments.",
+    "Learners can structure effective math learning activities even in low-spec VR environments based on smartphones."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Low-spec VR-compatible Simulator",
+      "Mobile-optimized Educational Content Authoring Tool",
+      "Metacognitive Load Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

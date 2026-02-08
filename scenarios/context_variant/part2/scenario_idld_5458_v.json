@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5458-V",
+  "variant_type": "context_variant",
+  "title": "Systematic Instructional Design Strategies to Enhance MOOC Learning Engagement",
+  "context": {
+    "prior_knowledge": "Foundational knowledge in scientific disciplines and online learning experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Small-scale science MOOC conducted in mobile environments using digital devices, focusing on analyzing and improving academic engagement through project-based assessments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Identify three or more learning engagement measurement metrics and apply them to assessment tools",
+    "Analyze five or more factors that inhibit engagement in MOOC environments",
+    "Design three engagement enhancement strategies based on systematic literature mapping results",
+    "Learners can complete a project that enhances participation through small-group collaboration and the use of digital tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MOOC Platform Access Permissions",
+      "Learning Analytics Tools",
+      "Digital Collaboration Board",
+      "Science OER (Open Educational Resources) Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

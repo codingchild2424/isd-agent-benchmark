@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE3-0023",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Mobile-based Flipped Learning Program for Strengthening Mathematical Job Competencies",
+  "context": {
+    "prior_knowledge": "Basic arithmetic skills and workplace leadership experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A program emphasizing the development of applied mathematical skills to enhance managerial work efficiency.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform pre-learning three or more times per week through 5-minute microlearning content provided on a flipped learning platform.",
+    "Learners can achieve a participation rate of over 90% by utilizing a motivation-driven quiz system.",
+    "Learners can submit work improvement plans applying mathematical problem-solving skills in project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Interactive Microlearning Content",
+      "Motivational Quiz Template",
+      "Project Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

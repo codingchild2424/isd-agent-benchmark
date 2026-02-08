@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1537",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Online Collaborative Science Inquiry Project: Mobile Microlearning-based Cooperative Learning",
+  "context": {
+    "prior_knowledge": "Comprehension of fundamental scientific theories and experimental methods",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-time collaborative learning using mobile devices (smartphones/tablets) in a BYOD environment",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can share scientific problem-solving ideas at least three times using mobile collaboration tools (e.g., Google Jamboard, Padlet).",
+    "Learners can critique peers' scientific arguments at least five times according to rubric-based peer evaluation criteria in online discussion forums.",
+    "Learners can collaboratively write one scientific report (approximately 500 characters) per team by analyzing virtual lab data (e.g., PhET simulations)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Digital whiteboard tool",
+      "Virtual Lab Simulation Tool",
+      "Online Discussion Forum Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

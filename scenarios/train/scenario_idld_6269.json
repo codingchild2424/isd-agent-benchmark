@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6269",
+  "variant_type": "idld_aligned",
+  "title": "Customized E-Learning Pathway Modeling for Adult Learners",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and language learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-based learning environments with situational language practice using simulations/VR",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply three or more personalized e-learning pathways based on IMS Learning Design standards across different scenarios",
+    "Learners can design language acquisition-focused learning pathways in VR simulation environments with 80% accuracy",
+    "Learners can autonomously manage e-learning activities utilizing limited technological resources in mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Equipment",
+      "IMS Learning Design (IMS LD) Template",
+      "Offline Synchronization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

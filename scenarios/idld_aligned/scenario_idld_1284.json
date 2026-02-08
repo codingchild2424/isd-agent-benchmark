@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1284",
+  "variant_type": "idld_aligned",
+  "title": "Database Utilization Competency Enhancement Program Using Interactive Online Tutorials",
+  "context": {
+    "prior_knowledge": "Understanding basic SQL syntax and database concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Offline implementation with digital devices, emphasizing hands-on formative assessments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform complex data extraction requests using SQL queries with 90% accuracy.",
+    "Learners can build domain-specific data models by applying relational database design principles.",
+    "Learners can understand data integrity constraints and apply them to real-world business scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Online Tutorial Platform",
+      "Practical Training Database Server",
+      "Instructional Dataset",
+      "Assessment Scenario Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

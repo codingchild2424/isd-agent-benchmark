@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2697",
+  "variant_type": "idld_aligned",
+  "title": "Remote-Based Mobile Language Leadership Education Program",
+  "context": {
+    "prior_knowledge": "No prior language learning experience, but holds organizational management experience as an administrator",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-optimized courses operating in smartphone-centric, technology-constrained environments, necessitating learner interaction and real-time feedback systems.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can achieve basic language proficiency by completing microlearning modules three or more times per week in a mobile environment",
+    "Learners can collaborate with peers to complete two or more weekly projects using digital collaboration tools",
+    "Learners can receive personalized feedback through a remote education support system at least once per month"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Mobile LMS",
+      "Offline-Synchronizable Learning App",
+      "Voice Recognition-Based Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

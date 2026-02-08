@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0425",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Collaborative Learning Course on Real-Time Graph Interpretation of Ocean Acidification",
+  "context": {
+    "prior_knowledge": "Basic chemistry concepts (pH, carbon dioxide reactions) and graph interpretation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A CSCL environment where students access VR simulations on individual devices, collaborate, and receive real-time feedback from teachers with digital tool support",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can accurately interpret real-time pH change graphs generated from ocean acidification experiments.",
+    "Learners can graphically represent and explain the correlation between CO₂ concentration changes and pH values.",
+    "Students can holistically analyze scientific phenomena using digital simulation tools and collaborative learning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR/simulation software",
+      "Personal devices (BYOD)",
+      "CO2 concentration-pH change experiment dataset",
+      "Collaborative learning guides"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

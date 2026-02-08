@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0170",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Large-Scale Mobile Education Utilizing Visual Callouts to Improve Information Literacy",
+  "context": {
+    "prior_knowledge": "Basic digital device usage skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A program enhancing information retrieval and evaluation skills in the social sciences domain for in-service professionals.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can search for topic-related materials in a digital library interface with 90% accuracy within two weeks",
+    "Learners can explain how to analyze the credibility of information sources using a four-level evaluation criteria",
+    "Learners can identify key information within 3 seconds using microlearning content with callout indicators on mobile devices"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Screencast creation tool",
+      "Interactive Quiz Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

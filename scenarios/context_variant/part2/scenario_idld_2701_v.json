@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2701-V",
+  "variant_type": "context_variant",
+  "title": "Foundations and Practical Applications of 3D Human Motion Generation",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Understanding 3D motion generation technologies used in the game/animation industry and cultivating practical application skills using AI-based tools.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain core design principles of ADAM-Net (random masking, L-ADAM/S-ADAM attention)",
+    "Learners can generate natural 3D pose/shape transitions from temporally sparse photo inputs",
+    "Learners can design processes for applying generated motion data to industrial contexts (e.g., animation production)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Motion Generation Sample Dataset",
+      "ADAM-Net Simulation Tool",
+      "LMS platform",
+      "Practice-Oriented Virtual Environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

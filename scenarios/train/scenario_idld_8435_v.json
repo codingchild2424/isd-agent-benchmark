@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8435-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Mastering Linear Algebra Symbolic Systems: Task-Based Mobile Learning",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Identify and interpret core linear algebra symbols (e.g., matrix notation, vector space operators) with 90% accuracy",
+    "Submit step-by-step solutions to given matrix problems using a mobile app, utilizing symbolic systems",
+    "Learners produce video (1–3 minutes) or image (3–5 slides) materials reflecting feedback from AI model debugging processes, submit them to the designated platform within the deadline, and ensure the submission achieves 8/10 points or higher across rubric items: clarity (3 points), completeness (3 points), and feedback incorporation (4 points)"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

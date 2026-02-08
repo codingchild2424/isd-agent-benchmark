@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8129-V",
+  "variant_type": "context_variant",
+  "title": "Collaborative Situated Learning Expert Training Program for Mobile Learning Integration",
+  "context": {
+    "prior_knowledge": "Basic digital tool proficiency and mobile device usage experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for professionals in medical/legal/technical fields to learn how to apply mobile learning objects (Reusable Learning Objects) to real work situations",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain at least three instructional design strategies for integrating mobile-based reusable learning objects into real work scenarios",
+    "Learners can design mobile learning modules using the Collaborative Situated Activity Learning (CSAM) framework",
+    "Learners can write self-reflection reports based on the mTSES evaluating self-efficacy when utilizing mobile learning tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile learning authoring tool (Articulate 360, etc.)",
+      "CSAM framework template",
+      "mTSES questionnaire",
+      "Reusable learning object sample library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

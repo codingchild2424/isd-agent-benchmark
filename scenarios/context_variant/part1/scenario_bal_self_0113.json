@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-SELF-0113",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Game-Based Job Interview Simulation: Competency Enhancement for Real-World Preparation",
+  "context": {
+    "prior_knowledge": "Basic self-introduction skills and possession of job-related knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Provides a real-time interview practice environment combining AI digital human interviewers with game elements",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve an 80% or higher response rate to core interview questions from various professions (design, engineering, development).",
+    "Learners correct two or more nonverbal communication errors (facial expressions, vocal tone) through game-based feedback.",
+    "Learners establish three personalized interview strategies based on AI simulation evaluation reports."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IIAA platform license",
+      "3D animation rendering server",
+      "LM-based conversational engine",
+      "Voice conversion system",
+      "Mock interview scenario database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

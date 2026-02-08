@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8332-V",
+  "variant_type": "context_variant",
+  "title": "Advanced Mathematics Problem-Solving Course for Healthcare Professionals Using Intelligent Tutoring Systems",
+  "context": {
+    "prior_knowledge": "Basic mathematical knowledge and practical experience in specialized fields (medical/technical)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-centered blended learning environment with digital device support and specialized custom learning scenarios.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners apply advanced mathematical modeling techniques required for analyzing complex medical data using an intelligent tutoring system.",
+    "Learners document the process of solving mathematical problems encountered in real job situations through project-based assignments.",
+    "Learners revise and improve problem-solving strategies with over 80% accuracy through peer assessment and system feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Authoring Tool (REDEEM-like System)",
+      "Real-World Case Database in Medical/Technical Fields",
+      "Collaborative Software",
+      "AR/VR Simulation Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

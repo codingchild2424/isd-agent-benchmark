@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1461-V",
+  "variant_type": "context_variant",
+  "title": "Open Science Textbook Development Workshop: VR-Based Lifelong Learning Design",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and experience in utilizing digital learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Strengthening competencies to develop open educational resources using VR simulations in a smartphone-centric, limited-technology environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can understand the Open Educational Resources (OER) licensing system and select appropriate Creative Commons (CC) licenses",
+    "Learners can develop an open textbook prototype visualizing scientific concepts in a mobile VR environment",
+    "Learners can derive improvements for open textbooks through user experience (UX) testing"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Free version of VR production software",
+      "Open-source image/video library",
+      "Mobile-Compatible VR Equipment Rental System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

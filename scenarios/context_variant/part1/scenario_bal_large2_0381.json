@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0381",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Mobile Microlearning Course for Elementary Physics Concept Comprehension",
+  "context": {
+    "prior_knowledge": "Comprehension of middle school-level foundational physics concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-based learning environment for current elementary teachers to strengthen job competencies. Verifies applicability to actual classes through project-based assessments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Apply Newton's laws of motion and force concepts to real-life scenarios",
+    "Surveys can diagnose learners' misconceptions of physics concepts and suggest improvement strategies",
+    "5-minute learning modules can be designed and shared using smartphone-based microlearning content"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Physics Concept Diagnostic Questionnaire",
+      "5-Minute Lecture Video Sample",
+      "Collaborative Learning Chat Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

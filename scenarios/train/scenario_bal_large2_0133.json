@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0133",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Adaptive Language Learning Program Design for Professionals",
+  "context": {
+    "prior_knowledge": "Possession of basic language proficiency, no work experience related to the language",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Job-focused language training for professionals in medical/legal/technical fields, establishing personalized learning environments using digital devices",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately use 200 job-related linguistic expressions categorized by situational context",
+    "Learners can correct over 80% of grammatical errors by receiving personalized feedback through an adaptive system",
+    "Learners can design three or more personalized learning pathways based on learning style diagnostic results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Management System (LMS)",
+      "AI-Powered Language Analysis Tool",
+      "Job-Specific Situational Simulation Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

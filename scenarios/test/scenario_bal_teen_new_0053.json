@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0053",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Language Learning Achievement Improvement Program Using a Constructivist E-Learning System",
+  "context": {
+    "prior_knowledge": "Fundamental language learning theories and experience using digital learning tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Language learning course emphasizing constructivist interaction (exploration, collaboration, knowledge construction) in smartphone-based constrained environments, targeting job seekers and focusing on improving practical language proficiency.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can execute at least three search strategies for linguistic problem-solving in constructivist e-learning environments",
+    "Learners achieve at least 80% interaction participation rates with peer learners during language task resolution using mobile collaboration tools",
+    "Learners demonstrate at least 15% higher performance in language tests compared to traditional learning groups based on constructivist learning experiences"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Collaboration-based language learning app",
+      "Microlearning Content Creation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

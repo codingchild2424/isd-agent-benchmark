@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1459",
+  "variant_type": "idld_aligned",
+  "title": "Project-Based Course on OFDM CFO Estimation and Channel Estimation Using Bayesian Learning",
+  "context": {
+    "prior_knowledge": "Digital communication fundamentals, probability & statistics, and introduction to signal processing",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Utilization of smartphone-based simulations and collaborative tools in limited-technology environments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the importance of CFO and channel estimation in OFDM systems and analyze factors affecting performance",
+    "Mathematically model and implement estimation techniques using Bayesian learning and the EM algorithm",
+    "Verify the CRB-achieving performance of the STS CFO estimator through simulation and confirm a ±0.5 tracking range",
+    "Evaluate the MSE performance of estimation algorithms while performing project-based tasks on real-world signals"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Platform (e.g., Google Colab)",
+      "Mobile signal processing simulator",
+      "Open-source Bayesian learning library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

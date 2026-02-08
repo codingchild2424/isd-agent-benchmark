@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8442",
+  "variant_type": "idld_aligned",
+  "title": "Self-Directed Learning Competency Development Program for Prospective Mathematics Teachers",
+  "context": {
+    "prior_knowledge": "Foundational mathematical knowledge and general pedagogical concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Requirement for a platform integrating formative assessment and AI tools in digital tool-enabled learning environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Based on formative assessment feedback, learners can autonomously diagnose their learning process and develop improvement plans.",
+    "Learners can apply metacognitive strategies in mathematical problem-solving processes using AI-based tools.",
+    "Through peer and self-assessment, learners can quantitatively analyze learning outcomes and create reflective action plans."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS (Learning Management System) Platform",
+      "AI-powered math problem-solving tool",
+      "Digital checklist template for formative assessment",
+      "Metacognitive strategy worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

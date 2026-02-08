@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4196",
+  "variant_type": "idld_aligned",
+  "title": "Analysis of the Association Between Regularity of Pre-Learning Activities and Learning Outcomes in Flipped Learning",
+  "context": {
+    "prior_knowledge": "Understanding of flipped learning basics and experience utilizing online learning tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Mandatory pre-session online learning activities (video viewing, quizzes, discussion board participation, etc.) before in-person sessions",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the impact of regularity in pre-learning activities and time management strategies on learning outcomes in flipped learning",
+    "Learners can derive two or more types of pre-learning engagement patterns (general/design-specific indicators) by analyzing learning tracking data",
+    "Learners can visualize and report the correlation between regularity indicators and academic performance using regression prediction models"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS (Learning Management System) Data",
+      "Learning Analytics Tools",
+      "Statistical Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

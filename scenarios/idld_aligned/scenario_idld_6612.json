@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6612",
+  "variant_type": "idld_aligned",
+  "title": "Extended Project-Based Education Program for Promoting Self-Directed Independent Learning in Science",
+  "context": {
+    "prior_knowledge": "Understanding of basic theories in the field of science and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Targeting current practitioners, conducted in a smartphone-centric, limited technological environment, with learners leading the entire process from research topic selection to report writing and presentation",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can independently select project topics and write proposals to solve practical problems in a given scientific field",
+    "Learners can collect and organize at least three reliable reference materials within two weeks using smartphone-based information search and management tools",
+    "By the end of the 4-week course, learners can write a 10-page A4 report and create a 10-minute presentation on independent project outcomes"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Cloud Document Tool",
+      "Science Field Practical Case Database",
+      "Basic Statistical Analysis App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

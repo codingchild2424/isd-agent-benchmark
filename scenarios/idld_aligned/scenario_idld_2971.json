@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2971",
+  "variant_type": "idld_aligned",
+  "title": "Language Resource Sharing and Utilization Strategy through Federated Educational Digital Repository Construction",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and experience managing educational materials",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Providing practical solutions for teachers and administrators managing multilingual resources across platforms in educational settings.",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the federated operation principles of diverse educational digital repositories and apply them to real-world cases.",
+    "Learners can design metadata utilization strategies based on open standards such as IEEE LOM and IMS DRI.",
+    "Learners can plan and execute repository integration projects considering interoperability of language education materials."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Tools",
+      "Sample language education dataset",
+      "Storage federation simulation tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

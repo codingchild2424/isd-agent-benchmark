@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8013",
+  "variant_type": "idld_aligned",
+  "title": "Mathematics Instructional Design Using VR-Based Eye-Tracking and Deep Learning",
+  "context": {
+    "prior_knowledge": "Understanding of basic educational technology and secondary mathematics pedagogy, with VR technology experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "VR-based customized math lesson design competency development program for pre-service and in-service teachers",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain methods to assess cognitive load by analyzing eye-tracking data in VR environments.",
+    "Learners can demonstrate the impact of deep learning-based feedback systems on improving mathematical concept comprehension using empirical data.",
+    "Learners can design adaptive mathematics education scenarios based on the correlation between gaze concentration and academic achievement."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headsets (10 units)",
+      "Eye-Tracking Sensor Kit",
+      "CNN (Convolutional Neural Network) Training GPU Server",
+      "Mathematical Concept Modeling Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

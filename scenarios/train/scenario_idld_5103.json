@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5103",
+  "variant_type": "idld_aligned",
+  "title": "mCSCL-Based Educational Program for Emotional Regulation Support for Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Basic experience using online learning platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Pre-service language educators creating collaborative learning environments that leverage mobile devices to recognize and share emotions",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Preservice teachers can classify their emotional states into three or more categories using an emotion tracker app in an mCSCL environment.",
+    "Learners can practice empathic communication strategies in conflict situations at least twice through emotion-sharing activities with peers.",
+    "At the end of the curriculum, learners can create an emotion regulation plan through project-based assessment and incorporate peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Emotion Recognition Mobile App",
+      "Wearable Device for Physiological Signal Measurement (Optional)",
+      "Online collaborative board (e.g., Miro)",
+      "Emotion Regulation Worksheet Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

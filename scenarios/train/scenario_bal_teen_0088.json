@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0088",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Workshop on Augmented Reality-Based Spatial Reasoning Education Design for Early Childhood",
+  "context": {
+    "prior_knowledge": "Experience in basic mathematics education and potential for digital tool utilization",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening AR-based educational content design capabilities in smartphone-centric limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "One can explain a three-stage or more process for designing spatial reasoning activities using AR technology.",
+    "For early childhood learners, one can propose at least two types of AR experiential learning scenarios tailored to learner environmental characteristics.",
+    "One can develop at least one spatial reasoning educational tool implementable within limited technological resources (smartphones)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR authoring tools (free version)",
+      "Spatial reasoning educational digital resources",
+      "Teacher-learner collaboration guidebook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

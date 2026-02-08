@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6583",
+  "variant_type": "idld_aligned",
+  "title": "Instructional Design Scenarios for Improving Colonoscopy Performance Competency",
+  "context": {
+    "prior_knowledge": "No Prior Medical Knowledge or Endoscopic Equipment Operation Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Structured curriculum for practicing clinicians to acquire colonoscopy proficiency. Features cognitive task analysis-driven content design and project-based assessment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain 27 core elements across six categories required for colonoscopy performance: clinical knowledge, endoscope manipulation, situational awareness, strategy development, clinical reasoning, and interpersonal skills.",
+    "Learners can perform colonoscopy manipulation skills with over 80% accuracy using simulation tools.",
+    "Learners can logically describe patient status assessment and decision-making processes through real-case analysis."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Video Lecture Materials",
+      "Virtual Simulation Software",
+      "3D Endoscopic Manipulation Module",
+      "Case Study Resource Compilation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

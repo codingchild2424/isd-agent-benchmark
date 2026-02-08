@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0589",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-directed] Simulation-based Instructional Design for Language Knowledge Enhancement and Automation",
+  "context": {
+    "prior_knowledge": "Basic Understanding of Language Structure and Grammar",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Promoting internalization of language knowledge through VR simulations and personalized assignments in a BYOD environment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply grammatical rules with 90% accuracy in a VR simulation environment",
+    "Based on automated vocabulary utilization skills, learners can make contextually appropriate word choices within 3 minutes",
+    "By integrating declarative and procedural knowledge, learners can perform creative writing tasks of approximately 500 characters"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "BYOD-compatible educational app",
+      "Customizable Assessment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

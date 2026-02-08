@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0326",
+  "variant_type": "balance_medium_scale",
+  "title": "360° VR-Based Scientific Inquiry Experience Education",
+  "context": {
+    "prior_knowledge": "Understanding basic scientific concepts and experience using digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners are not familiar with smartphone-based VR experiences but can perform basic operations; the goal is to deepen scientific inquiry and improve real-world application skills",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Ability to observe scientific phenomena and explain core principles in a 360° VR environment",
+    "Reproduction of actual science experiment processes step-by-step in 360° video-based simulations",
+    "Understanding of complex scientific concepts in spatial and visual contexts through immersive learning experiences"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "360° VR Content Production Equipment (Smartphone Mount, 360° Camera, etc.)",
+      "VR Headset or Cardboard Viewer (1 per Learner)",
+      "Pre-produced 360° Science Experiment Video Library",
+      "Supplementary Learning Materials (Infographics, Summary Handouts)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

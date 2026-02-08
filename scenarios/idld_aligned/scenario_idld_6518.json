@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6518",
+  "variant_type": "idld_aligned",
+  "title": "Practitioner Competency Enhancement Program for Fostering Critical Thinking in Elementary Science",
+  "context": {
+    "prior_knowledge": "Elementary science knowledge and practical work experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Accessibility-focused design using smartphones and LMS for current elementary education practitioners. Aims to apply critical thinking in science problem-solving",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners structure problem-solving processes by applying explicit computational thinking (CT) strategies during science experiment design",
+    "Learners engage in critical discussions and feedback exchanges with peers using digital collaboration tools (smartphone-compatible)",
+    "Learners generate at least three question frameworks for evaluating the credibility of scientific information sources",
+    "Learners develop protocols to resolve science-related problems in real educational settings using comparative analysis approaches"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Open-Source Collaboration Tools (Padlet/Google Docs Mobile Version)",
+      "Science Experiment Simulation App",
+      "CT Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

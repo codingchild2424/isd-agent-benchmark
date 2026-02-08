@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8662-V",
+  "variant_type": "context_variant",
+  "title": "Reinforcement Learning-Based Control System Optimization: Adaptive Dynamic Programming Applications",
+  "context": {
+    "prior_knowledge": "Basic control theory and programming concepts comprehension",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Process of learning control system optimization concepts, focusing on language domain applications in a digitally supported environment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain fundamental principles of adaptive dynamic programming and analyze its relevance to reinforcement learning",
+    "Learners can implement discount iteration algorithms with adjustable convergence rates in simulation environments",
+    "Learners can complete optimization projects applying value function approximation and policy improvement techniques through nonlinear system cases"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Simulation Tool",
+      "LMS Hosting Infrastructure",
+      "Example Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

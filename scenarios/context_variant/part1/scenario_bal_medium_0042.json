@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0042",
+  "variant_type": "balance_medium_scale",
+  "title": "Science Job Competency Enhancement Course Using Remote Collaborative Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and experience with digital device usage",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Establishment of non-face-to-face collaborative learning environments using an LMS (Learning Activity Management System), with enhanced experimental/analytical activities through VR simulations",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform over 80% of synchronous/asynchronous scientific problem-solving processes with peer learners using LMS-based collaboration tools.",
+    "Learners can independently analyze and share results of science experiment scenarios presented in VR simulation environments three or more times.",
+    "Learners can improve assignments by incorporating over 90% of feedback provided during collaborative learning processes through formative assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS (LAMS) account",
+      "VR devices and compatible software",
+      "Science Simulation Content Library",
+      "Collaborative learning guide document"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

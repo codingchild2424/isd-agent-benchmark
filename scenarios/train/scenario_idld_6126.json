@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6126",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Learning for Transferring Medical Communication Skills",
+  "context": {
+    "prior_knowledge": "Basic medical communication theory and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A Process Where Practicing Professionals Apply Communication Skills and Receive Feedback by Simulating Actual Clinical Scenarios",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply effective questioning techniques during patient role-play conversations in simulation environments with 80% accuracy",
+    "Learners can analyze the appropriateness of skill application (JOS-type-c) through self-assessment after communication performance using at least three specific criteria",
+    "Learners can revise communication strategies based on peer feedback and instructor coaching to propose at least two alternative techniques for similar situations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Simulated patient scenario database",
+      "Video recording and analysis tool",
+      "Real-time feedback template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

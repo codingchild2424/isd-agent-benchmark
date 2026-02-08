@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0581-V",
+  "variant_type": "context_variant",
+  "title": "Spatial Learning and Navigation Design Course Based on Multimedia Maps",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course for practitioners to understand navigation system design and spatial learning principles, and to acquire map design techniques applicable in VR environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can compare and analyze the functional differences between north-up and track-up map orientations.",
+    "Learners can design and evaluate multimedia map interface elements for optimizing spatial learning.",
+    "Learners can measure the effectiveness of spatial knowledge acquisition when applying new spatial indicators (advisory indicators) in VR simulation environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment",
+      "Virtual City Simulation Software",
+      "Multimedia Map Template",
+      "Spatial Cognition Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

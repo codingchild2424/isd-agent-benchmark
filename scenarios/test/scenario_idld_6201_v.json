@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6201-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Customer Service Competencies: Customized Science Concept Instruction Design for Visually Impaired University Students",
+  "context": {
+    "prior_knowledge": "Grasp of basic science concepts at the middle school level",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customer service competency enhancement program for service/customer-facing role practitioners",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately define over 80% of the core terms required to explain the science concept (structure of matter).",
+    "Learners can combine tactile models and audio descriptions to reproduce the experimental process in three or more steps.",
+    "Learners achieve a 75% or higher correct response rate on formative assessments evaluating conceptual understanding."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Customer Relationship Management (CRM) System",
+      "Customer Interaction Simulator",
+      "Service Manual"
+    ],
+    "accessibility": "WCAG 2.1 AA 준수",
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

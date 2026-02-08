@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1007",
+  "variant_type": "balance_teen_filtered",
+  "title": "K-12 Mobile-Based Cardiovascular Metabolic Disease Health Education Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and core concepts in chronic disease management",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Emphasis on self-directed learning using mobile apps in BYOD environments. Provides case-based content for practical application",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the five major risk factors for cardiometabolic diseases.",
+    "Learners set personalized health goals (diet/exercise/sleep) using a mobile app and achieve a compliance rate of 80% or higher.",
+    "Learners achieve a score of 85 or above (out of 100) in a disease management knowledge assessment through in-app quizzes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Flutter-Based Mobile Application",
+      "Firebase Database",
+      "10 Health Management Case Study Videos",
+      "Weekly Progress Tracking Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

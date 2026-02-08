@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0524",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Scientific Inquiry Learning for Reinforcement Placement in Reinforced Concrete Structures Using Augmented Reality",
+  "context": {
+    "prior_knowledge": "Elementary concrete engineering and 2D reinforcement notation comprehension, basic understanding of the scientific inquiry process (hypothesis→experiment→analysis→conclusion), and foundational skills in experiment design and data analysis",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducted via project-based learning (PBL) in a mixed-reality environment using HoloLens 2 and tablet PCs, applying scientific inquiry methods (observation, measurement, data analysis, evidence collection). Learners experience real-world construction site problem-solving processes and cultivate the ability to derive conclusions based on experimental results.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately identify the position, spacing, and binding methods of rebar using scientific observation and measurement techniques in 3D augmented reality models and systematically analyze relationships between independent and dependent variables.",
+    "Learners can form collaborative learning groups of 3–4 members, convert 2 complex rebar layout drawings into 3D spatial information with ≥80% accuracy using 3D modeling software (e.g., Tinkercad), and receive peer feedback averaging ≥4 points (5-point scale). This process strengthens hypothesis formulation and experimental design skills while applying the scientific inquiry process (observation-experiment-analysis-conclusion).",
+    "Learners can detect and correct rebar binding errors with ≥90% accuracy in AR environments, document the correction process with evidence-based records, and derive scientific conclusions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "HoloLens 2 (5 units)",
+      "Tablet PC (Windows 10 or higher)",
+      "AR Development Kit",
+      "Reinforcement model dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

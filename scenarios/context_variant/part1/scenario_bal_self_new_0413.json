@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0413",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Cultural Heritage Language Data Augmentation: Machine Learning-Based Metadata Calibration and Restoration Techniques",
+  "context": {
+    "prior_knowledge": "Foundational machine learning understanding, basic cultural heritage management concepts, elementary NLP knowledge, familiarity with cultural heritage terminology (heritage types, preservation grades, historical context terms), and basic text analysis experience (morphological/syntactic analysis)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course emphasizing immediate workplace applicability for current professionals. Conducts flexible learning using mobile devices in a BYOD environment. Focuses on developing proficiency in processing diverse language materials (cultural heritage descriptions, archival documents, tourism guides). Particularly strengthens advanced language processing skills, including historical text decipherment, dialect translation, and culturally contextualized expression generation.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can achieve ≥85% accuracy in automatic metadata annotation for cultural heritage image and text data by applying a hierarchical multimodal classification model (including vocabulary analysis, text structure classification, contextual expression interpretation).",
+    "Learners can apply supervised/unsupervised learning-based image inpainting techniques to ≥10 cultural heritage images, achieve ≥85% restoration accuracy, and generate descriptive texts for restored images using NLP technology. They can write a report meeting ≥4 out of 5 evaluation rubric criteria (grammatical accuracy, vocabulary appropriateness, content coherence, cultural context reflection, clarity of expression).",
+    "Learners can build a Python-based crawling-preprocessing-augmentation pipeline for international cultural heritage datasets (from ≥3 sources like UNESCO, ICCROM) within 6 months, and write an optimization report achieving ≥20% improvement in data processing speed and ≥90% preprocessing accuracy. The report must include analysis of cultural heritage-specific terminology (historical terms, architectural terms, cultural asset classification systems) and contextual expressions (era-specific language patterns, regional dialect characteristics)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cultural Heritage Image Dataset",
+      "TensorFlow/PyTorch Learning Environment",
+      "Mobile-compatible Development Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

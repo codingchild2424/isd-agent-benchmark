@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5144-V",
+  "variant_type": "context_variant",
+  "title": "In-Context Learning Workshop for Software Engineering Knowledge Reasoning",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course designed for professionals in medical, legal, or technical fields to apply software knowledge reasoning skills in practice",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Explain the FQN (Fully Qualified Names) inference method using pre-trained code models (PCM)",
+    "Achieve over 80% accuracy in knowledge inference for software engineering through in-context learning",
+    "Propose practical applications of PCM-based knowledge retrieval strategies across diverse domains"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GitHub Copilot API access permissions",
+      "Jupyter Notebook Environment",
+      "FQN dataset samples"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

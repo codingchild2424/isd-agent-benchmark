@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0420",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Fundamentals of Underwater Deep Learning Image Processing: Experiment-Based Learning",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and smartphone usage experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Training program aimed at strengthening practical competencies in underwater environmental data processing and deep learning model optimization. VR simulations enable experiential learning even in limited technical environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the principles of applying deep learning models in underwater image processing.",
+    "Learners can perform real-time image analysis simulations using low-power deep learning models in edge computing environments.",
+    "Learners can propose data processing optimization plans considering constraints of underwater sensor networks."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR simulation equipment (institutional owned)",
+      "Smartphone-Compatible Educational Platform",
+      "Underwater image dataset samples"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

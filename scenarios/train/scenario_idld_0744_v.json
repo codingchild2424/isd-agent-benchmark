@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0744-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Learning Design to Enhance Middle School Computer Science Education and Interest",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "STEM education enhancement using unplugged activities and play robots in digital device-provided environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain core concepts of computer science through unplugged activities",
+    "In 4-member teams, learners complete an 8-week playable robot project (obstacle-avoidance robot), fulfilling three stages: (1) deriving ≥3 core requirements in problem definition, (2) sketching ≥2 solutions and co-designing with tools like Figma, (3) conducting ≥3 prototype improvement tests, and submitting a final demonstration meeting ≥4 out of 5 rubric criteria (≥80%).",
+    "Learners select one gender-specific STEM topic (e.g., robotics for females, data science for males) from three options, conduct a 4-week inquiry, submit a computer science project, and achieve ≥4 points (5-point scale) in a satisfaction survey to confirm sustained interest.",
+    "Learners use digital tools (sensors, data analysis software) to select one real-world problem (e.g., energy conservation, safety management), divide the solution process into five stages (problem definition, data collection, analysis, solution design, evaluation), and complete a 5–10-page project report or 10-minute presentation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Unplugged activity kit",
+      "Play Robot Kit",
+      "Programming Education Software",
+      "Digital Assessment Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

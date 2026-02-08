@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0016",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Scientific Inquiry Methods Using ChatGPT in Malaysian Primary Education: Integrated Observation, Measurement, and Analysis Approach",
+  "context": {
+    "prior_knowledge": "Basic digital literacy, smartphone usage skills, and foundational understanding of elementary science experiment procedures (hypothesis formulation, variable control, data recording)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Foundational course focusing on designing science inquiry lessons using ChatGPT in Malaysian public education. Practical approach emphasizing observation/measurement/analysis activities in smartphone-based limited environments. Recommends experiment topics reflecting local contexts (tropical climate, multicultural society).",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Understand the basic functions of ChatGPT and explain how to apply them to the scientific inquiry process (hypothesis formulation, variable control, experimental design) in elementary science classes.",
+    "Identify at least three ethical considerations, such as the potential of generative AI to support the scientific inquiry process, data bias, algorithmic limitations, and misinterpretation of results.",
+    "Learners can use ChatGPT in a smartphone environment to design three science experiments (e.g., plant growth observation, chemical reaction measurement, physical phenomenon analysis) and create an activity plan within a week, including step-by-step procedures (observation, measurement, analysis) and expected outcomes.",
+    "Propose at least two strategies for maintaining academic integrity and deriving conclusions based on scientific evidence (experimental data, observation records) when using AI tools."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Zoom Platform",
+      "ChatGPT Web Interface",
+      "Digital Education Guidelines PDF"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

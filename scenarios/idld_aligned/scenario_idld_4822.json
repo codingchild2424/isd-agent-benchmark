@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4822",
+  "variant_type": "idld_aligned",
+  "title": "Generative AI-Enhanced Science Textbook PowerPoint Design Improvement Workshop",
+  "context": {
+    "prior_knowledge": "Basic PowerPoint Proficiency, Science Curriculum Knowledge, and Core Competencies for Pre-Service Teachers",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Need to strengthen competencies in educational material development through AI tools in smartphone-based learning environments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Generative AI (ChatGPT) and simple automation tools can convert text-heavy slides in science textbooks into designs with clear visual hierarchies.",
+    "By applying prompt engineering techniques, concise slide content aligned with educational objectives can be generated.",
+    "Automation workflows executable on mobile devices enable continuous improvement of existing materials to meet modern design standards."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "ChatGPT free account",
+      "Simple Python script execution environment (e.g., Google Colab)",
+      "Science textbook PPT sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

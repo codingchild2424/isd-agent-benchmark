@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3516",
+  "variant_type": "idld_aligned",
+  "title": "Deep Learning-Based Soil Sampling Location Optimization Process",
+  "context": {
+    "prior_knowledge": "Soil science fundamentals, basic statistical analysis experience, and understanding of deep learning (image processing/neural networks)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Designing field-applicable models using multidimensional data (Aspect, Flow Accumulation, Slope, NDVI, Yield) collected from actual agricultural settings",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can preprocess input datasets for a deep learning model using five soil property data types, including NDVI and Slope.",
+    "Learners can design a model to predict optimal sampling locations using a CNN/Transformer-based encoder-decoder architecture.",
+    "Data augmentation techniques can be applied to address the imbalanced dataset problem (sample points vs. background pixels)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible learning platform",
+      "Mobile web-based Colab integration system",
+      "Sample data package (ZIP)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

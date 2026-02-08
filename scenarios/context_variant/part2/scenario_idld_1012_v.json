@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1012-V",
+  "variant_type": "context_variant",
+  "title": "Web Development Practical Competencies Enhancement: Simulation/VR-Based Program for Learners Aged 40+",
+  "context": {
+    "prior_knowledge": "Basic Computer Literacy, Foundational Logical Thinking Skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Capable of implementing simple algorithms using basic Python syntax.",
+    "Acquire the ability to resolve errors using debugging tools in a VR simulation environment.",
+    "Perform code reviews and provide feedback with peers through a collaborative platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

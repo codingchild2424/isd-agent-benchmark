@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3383",
+  "variant_type": "idld_aligned",
+  "title": "Student-Led Computing Task Design: Societal Domain-Tailored Approaches",
+  "context": {
+    "prior_knowledge": "Fundamental Computer Literacy and General Understanding of Social Issues",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are novice-level students with diverse backgrounds (interest in medical/legal/technical fields) who perform project-based assessments in an online environment using digital devices.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can compare three or more alternative approaches in the design process of computing-based solutions for social issues.",
+    "Learners can autonomously select and perform computing tasks linked to their professional domains (medical/legal/technical).",
+    "Learners can systematically manage and present team project documents using collaboration tools (with 85% or higher task completion rate)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Notebook License",
+      "Online Collaboration Platform (Notion/GitHub Classroom)",
+      "Social Issues Dataset Sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

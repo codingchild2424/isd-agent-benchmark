@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5041-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Applying the COST Model for Interaction-Based Language Learning",
+  "context": {
+    "prior_knowledge": "Basic language structure and digital tool utilization skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners design and execute language projects utilizing the four interaction dimensions of the COST model (C: Content, O: Others, S: Self, T: Task).",
+    "Learners enhance language learning outcomes by at least 30% through the integration of digital tools (e.g., collaboration platforms, AI translators).",
+    "Learners produce project deliverables including language analysis, cultural context integration, and self-reflection reports."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

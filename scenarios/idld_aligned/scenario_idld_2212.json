@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2212",
+  "variant_type": "idld_aligned",
+  "title": "4G Technology-Enabled Higher Education Project-Based Learning Design",
+  "context": {
+    "prior_knowledge": "Basic mobile device usage experience and understanding of core social studies concepts at the middle school level",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Flexible learning space configuration utilizing 4G network environments and provision of digital devices (tablets/smartphones)",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain three or more characteristics of 4G technology and its applicability to higher education.",
+    "Learners can apply at least two real-time collaboration tools (cloud/hybrid conferencing) in mobile technology-based PBL projects.",
+    "Learners can write a social issue analysis report using 4G-based content (videos/AR) in a remote learning environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "4G-Enabled Mobile Device",
+      "Cloud Collaboration Platform Account",
+      "AR Content Sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

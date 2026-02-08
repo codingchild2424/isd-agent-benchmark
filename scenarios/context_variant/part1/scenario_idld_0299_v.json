@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0299-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Comparative Study of Instructional Design Models for 21st-Century Skills",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can compare and explain core procedures of the Dick & Carey model and Rapid Prototyping model",
+    "Learners can design three types of language education materials (1 quiz, 1 interactive workbook, 1 audio lecture) using digital tools (e-book, Canva, H5P, etc.), achieve over 80% task completion within two weeks according to a weekly time management checklist, and earn an \"excellent\" grade in four or more of five peer evaluation rubric items.",
+    "Learners can evaluate teamwork and communication competencies through project collaboration and propose improvement strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

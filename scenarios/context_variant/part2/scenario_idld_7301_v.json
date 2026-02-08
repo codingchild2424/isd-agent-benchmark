@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7301-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Skills: A Job-Based Science Teaching and Learning Design Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic educational methodologies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can utilize three or more job-based learning design frameworks applicable to real science education settings.",
+    "Learners can modify IMS-LD-based learning design tools to create science domain Work-Based Learning (WBL) scenarios.",
+    "Learners can develop a PBL activity plan that achieves over 80% learner engagement in university-corporate linked science education projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

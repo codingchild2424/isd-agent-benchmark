@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2288-V",
+  "variant_type": "context_variant",
+  "title": "Mastering Integrated Design of Web-Based Distance Education Platforms",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and LMS (Learning Management System) usage experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A platform optimization course for science professionals to support work-integrated learning",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can integrate and implement science experiment simulation modules into web-based platforms within three or fewer steps",
+    "Learners can operate a real-time feedback system for project collaboration in an e-Learning environment with 80% efficiency",
+    "Learners can visualize learning performance data and propose improvement strategies using platform analytics tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-source LMS platform",
+      "BYOD-Compatible Science Simulation Tool",
+      "Collaborative Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

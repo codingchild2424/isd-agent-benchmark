@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1177-V",
+  "variant_type": "context_variant",
+  "title": "Design of Integrated Technology-Based Science Learning Environments",
+  "context": {
+    "prior_knowledge": "Elementary scientific knowledge and experience with digital device usage",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Design considerations required for smartphone-centric accessibility and limited technological environments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the principles of scientific concepts with over 80% accuracy using a mobile-optimized LMS.",
+    "Learners perform scientific problem-solving processes with peers through online collaboration tools at least three times.",
+    "Learners achieve at least 70% proficiency in their final assignments via a digital assessment system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Science Simulation Application",
+      "Text-based collaborative tools",
+      "Automated grading system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-8299-V",
+  "variant_type": "context_variant",
+  "title": "Augmented Reality-Based Natural Science Inquiry Project: Math Modeling Using Mindtools",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "In-service teacher re-education program for office/administrative workers, enhancing competencies to develop AR-integrated mathematics content applicable to elementary science classes.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners will select three natural science phenomena (e.g., waves, gravity) in an AR environment (e.g., Unity MARS, ZapWorks), design mathematical models (differential equations, simulation algorithms, etc.) for each phenomenon, create a project plan (including objectives, methodology, evaluation criteria), and implement a prototype executable within six months.",
+    "Designing learner-led knowledge construction processes using mindtool-based AR systems",
+    "Developing AR-integrated math educational materials applying multisensory information integration and cognitive load management strategies",
+    "Completing final outputs through peer feedback and iterative improvements in PBL processes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR development kit (e.g., Unity + Vuforia)",
+      "3D Modeling Software",
+      "10 Tablet PCs",
+      "Spatial awareness sensor equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

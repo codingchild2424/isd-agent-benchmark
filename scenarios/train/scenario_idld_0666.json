@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0666",
+  "variant_type": "idld_aligned",
+  "title": "Comparative Research-Based Pedagogical Development for Remote Design Studio Education",
+  "context": {
+    "prior_knowledge": "Foundational design process comprehension and mathematical modeling understanding",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Analyzing effectiveness of remote design studio education in VR/simulation environments for current practitioners and exploring instructional improvement strategies",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze the differences in interaction between physical and remote studios using quantitative and qualitative metrics",
+    "Learners can design a prototype with core peer feedback system functions (3 evaluation items, 1 feedback form) in a VR simulation environment (Unity/Unreal Engine) within 1 week and submit a development outcome scoring ≥4/5 average on functionality/usability from 2 peer evaluators.",
+    "Learners can identify issues arising during the remote conversion of design critique (crits) sessions and propose improvement strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D design software licenses",
+      "VR headset rental kit",
+      "Real-time collaboration platform subscription"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1271",
+  "variant_type": "balance_large_scale",
+  "title": "Workshop on Digital Game-Based Mathematics Concept Learning Design for Early Childhood Education: Focus on Computation, Geometry, and Patterns",
+  "context": {
+    "prior_knowledge": "Foundational mathematics education theories (number concepts, geometry, measurement, patterns), experience with digital media, understanding of early childhood cognitive development stages, and basic problem-solving and graph interpretation skills in mathematics",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhancing the capability to design math games for young children in smartphone-centric limited-technology environments: optimizing touch-based interfaces (drag-and-drop), internalizing math concepts through gamification elements (scores, levels, rewards), and increasing learning effectiveness via multisensory stimulation (animation/sound effects). It systematically connects calculation, geometry, and pattern domains.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Design three learning objectives for early childhood math games based on the Dick & Carey model: addition/subtraction problem-solving to strengthen basic calculation skills, shape manipulation (rotation/symmetry) for spatial sense development, and pattern recognition to foster logical thinking (discovering regularities).",
+    "Applying R&D methodology (requirements analysis–design–development–testing), learners develop one digital game prototype (with formula visualization and graph-based feedback), implement three or more interactive problem-solving scenarios (equation solving, shape classification, pattern completion), and apply a gamification evaluation system (scores/badges/level-ups) to achieve over 80% user satisfaction.",
+    "Implement two early childhood learning effectiveness assessment tools via VR simulation: in-game behavioral data analysis (problem-solving time/attempts) and a mathematical concept comprehension rubric (calculation accuracy, shape recognition, pattern prediction)."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphones (10 units)",
+      "Low-Spec VR Headsets (5 units)",
+      "Game Development Template",
+      "Early Childhood Learning Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

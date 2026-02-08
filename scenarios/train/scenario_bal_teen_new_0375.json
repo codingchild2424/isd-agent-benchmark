@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0375",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Understanding and Applying the Zero Product Property in Algebra",
+  "context": {
+    "prior_knowledge": "Understanding of elementary algebra (solving equations, polynomial operations)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Students may struggle to connect theoretical concepts to real-world problem-solving; abstract concepts are concretized through student engagement activities",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can accurately state the Zero Product Property (ZPP) and use it to solve equations with polynomial and integer coefficients.",
+    "Students can understand the concept of zero-divisors and identify cases where the inverse of ZPP does not hold.",
+    "Students can justify algebraic properties used in problem-solving processes both linguistically and symbolically."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Lecture Platform",
+      "Interactive Mathematics Software (GeoGebra, etc.)",
+      "Problem-solving worksheet",
+      "Small-Group Collaboration Space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

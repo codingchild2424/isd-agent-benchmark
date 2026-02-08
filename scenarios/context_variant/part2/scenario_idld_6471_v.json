@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6471-V",
+  "variant_type": "context_variant",
+  "title": "Micro-Learning Course for Mathematical Skill Support in Blended Learning Environments",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short-Intensive Course Aimed at Strengthening Practical Mathematics Competencies for Office Workers, Supporting Flexible Learning Environments via Personal Mobile Devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can solve mathematical problems at least three times a week by integrating mobile applications with in-person classes in blended learning environments.",
+    "Learners can complete real-world problem-solving projects with over 80% accuracy using digital tools (calculators, graphing apps, etc.) in BYOD environments.",
+    "Learners can achieve an average participation rate of over 90% in learning activities while completing microlearning modules (5–7 minutes each) over one week."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Interactive Mathematics Content",
+      "Project Evaluation Template",
+      "Real-time feedback system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

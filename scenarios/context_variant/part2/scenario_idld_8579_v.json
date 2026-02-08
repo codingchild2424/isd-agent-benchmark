@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8579-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Practical AI Competencies: Universal Design for Learning (UDL) and Differentiated Instruction for Inclusive English Education Design",
+  "context": {
+    "prior_knowledge": "Basic English communication skills and foundational understanding of instructional design",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design lesson plans based on the three principles of UDL (Universal Design for Learning): engagement, representation, and action & expression.",
+    "Learners can demonstrate English lessons for mixed-ability learners, including those with visual impairments, using VR simulations.",
+    "Learners can develop customized assessment tools for different learner levels by applying Differentiated Instruction (DI) strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

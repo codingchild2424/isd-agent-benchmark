@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-3679-V",
+  "variant_type": "context_variant",
+  "title": "Scaffolding-Based Medical Text Analysis and Report Writing Education Design",
+  "context": {
+    "prior_knowledge": "Basic comprehension of medical terminology and medication principles, medical text literacy, and report-writing experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Medical education utilizing information technology-based scaffolding accessible via smartphones for practicing professionals. Focuses on improving learners' medical text analysis and report writing skills",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners identify the credibility of medical information sources by symptom with 80% accuracy in a simulated environment.",
+    "Learners systematically organize the structure and vocabulary of medical case analysis reports using scaffolding tools (templates and online platforms).",
+    "Learners logically articulate (verbally/written) drug side-effect response procedures in three or more steps through VR simulation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized LMS (Learning Management System)",
+      "Medical Case Database",
+      "VR Simulation Module",
+      "Google Sites-Based Collaboration Templates",
+      "Reliability Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

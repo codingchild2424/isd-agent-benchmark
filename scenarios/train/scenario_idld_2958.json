@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2958",
+  "variant_type": "idld_aligned",
+  "title": "Immersive Virtual Reality-Based Plant Learning Design",
+  "context": {
+    "prior_knowledge": "Basic understanding of fundamental biology terminology and plant structures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners access IVR content asynchronously via personal devices, with project-based assessments measuring learning outcomes. Includes activities analyzing plant growth patterns through mathematical modeling",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the photosynthesis mechanism while exploring plant cell structures in 3D within an IVR environment.",
+    "Learners can analyze the impact of environmental variables (light, water, nutrients) on growth rates using mathematical models through virtual plant growth simulations.",
+    "Learners can complete a project proposing sustainable plant cultivation strategies based on IVR learning experiences using collaborative tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IVR-Compatible LMS Platform (Interactive Voice Response)",
+      "3D Modeling Software",
+      "Virtual Plant Database",
+      "BYOD (Bring Your Own Device) Support Technical Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

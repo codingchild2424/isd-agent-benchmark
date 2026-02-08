@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3281",
+  "variant_type": "idld_aligned",
+  "title": "Instructional Design for Language Learning Pedagogy Using Generative AI",
+  "context": {
+    "prior_knowledge": "Understanding of basic English sentence structures and sequence adverbs (order words)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A microlearning module utilizing digital devices, where generative AI-based pedagogical agents support learning activities. Students can perform personalized feedback and interactive exercises in mobile environments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately construct English sentences using sequential adverbs (e.g., First, Next, Then, Finally) by interacting with a generative AI agent.",
+    "Learners can generate short stories with logical sequential structures based on feedback from an AI agent.",
+    "Learners can improve the efficiency of language structure practice by over 30% using AI-generated content on mobile platforms."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App",
+      "AI-Powered Content Generation Tool",
+      "Pre-Built Linguistic Structure Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3506-V",
+  "variant_type": "context_variant",
+  "title": "System Design Practical Competency Enhancement: Through Emergency Remote Teaching (ERT) and Mobile Messenger Utilization",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Students can efficiently receive and engage with weekly language learning content using the Telegram app.",
+    "Learners perform ≥5 language use scenarios in three job situations (negotiation, customer service, team collaboration) using simulation/VR environments (e.g., virtual meeting rooms) and mobile messengers (Slack, Zoom Chat, etc.) within one week, and submit practical reports meeting ≥2 of 3 evaluation checklist items (clarity, appropriateness, responsiveness) per scenario",
+    "Participants can improve language proficiency based on formative assessment feedback in a low-cost technological environment."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1133-V",
+  "variant_type": "context_variant",
+  "title": "Medical Simulation-Based Professional Language Communication Competency Enhancement Training",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge (medical terminology, clinical protocols, etc.) and extensive practical experience, basic ability to compose and interpret medical documents, and understanding of specialized vocabulary and grammatical structures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Cultivating practical communication skills in medical contexts through language simulation in smartphone-centric environments. Emphasizes language use close to real clinical settings via **integrated speaking/listening in virtual patient consultations**, **text structuring/lexical selection in electronic medical records**, and **role-specific expressions/technical terminology in multidisciplinary team scenarios**. Includes evaluations of grammatical accuracy, lexical appropriateness, and communicative effectiveness",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "In patient-healthcare role-playing based on medical scenarios, learners perform with ≥80% accuracy using **specialized terminology** (medical terms, abbreviations) and communication strategies.",
+    "Learners achieve ≥70% accuracy in using specialized terms contextually when documenting and interpreting medical records, cultivating structured text organization skills.",
+    "In emergency simulations, learners apply ≥3 appropriate language strategies (e.g., patient status explanation, instruction delivery, collaboration requests) and utilize situational expression strategies (clarity, conciseness, empathetic language).",
+    "In team-based virtual clinical simulations, learners apply the **SBAR communication protocol** to develop communication plans for three clinical scenarios (emergency, chronic care, interdisciplinary consultation), achieving ≥4/5 average in peer reviews (2+ out of 3 peers) and simulation rubrics. This includes applying a 3-step structure (subjective-objective-request) in patient reporting, using ≥5 specialized terms in treatment planning, and clearly expressing role divisions (responsibilities, task sequences) in interdisciplinary collaboration."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-friendly LMS platform",
+      "Medical Simulation Scenario Database",
+      "Speech-to-Text Conversion Tool",
+      "Basic Features of Video Conferencing Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

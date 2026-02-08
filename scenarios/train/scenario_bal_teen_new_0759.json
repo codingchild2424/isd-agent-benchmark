@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0759",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Remote Sensing Image Caption Generation: Design and Evaluation of Self-Learning-Based Language Generation Solutions",
+  "context": {
+    "prior_knowledge": "Basic machine learning concepts, experience processing remote sensing data, understanding of deep learning model architectures, and introductory natural language processing (NLP) concepts (including grammar analysis, vocabulary extraction, text generation).",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Simulating high-quality natural language caption generation techniques with limited label data in a simulated environment, exploring methods to enhance model performance through self-learning algorithms. Applying a linguistic framework to evaluate grammatical accuracy (part-of-speech agreement, tense consistency), lexical diversity (synonym utilization, appropriateness of technical terms), and contextual appropriateness (image-text consistency, logical flow) of generated captions.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Improve natural language captioning model accuracy by ≥20% using self-supervised learning techniques (SFRC) on limited remote sensing image datasets, evaluating grammatical accuracy and lexical diversity of generated texts",
+    "Possess capabilities in designing feature extractors using BYOL-based self-supervised learning and analyzing text-image correlations, verifying contextual appropriateness of captions",
+    "Implement self-distillation processes between teacher-student models in simulation environments, conducting comprehensive evaluations of generated captions' linguistic coherence, expressiveness, and readability"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Public Remote Sensing Image Dataset",
+      "VR/Simulation Software Licenses",
+      "Distributed Computing Resources"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

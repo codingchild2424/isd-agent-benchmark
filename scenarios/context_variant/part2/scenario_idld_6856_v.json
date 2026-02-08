@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6856-V",
+  "variant_type": "context_variant",
+  "title": "Reinforcement Learning-Based Scientific Policy Design for Propellant Sloshing Control in Space Launch Vehicles",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in the relevant field or equivalent experience, proficiency in scientific inquiry methods and basic experimental design",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Provision of video lectures, interactive quizzes, and small-scale simulation tools optimized for smartphone-based learning environments. Learners enhance scientific observation and measurement skills through virtual lab environments simulating real-world spacecraft propulsion systems.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will explain the scientific principles of reinforcement learning-based control policies and propose variable analysis and application strategies for propellant sloshing issues in space launch vehicles.",
+    "Learners will explain the mathematical definitions of CLF (Control Lyapunov Function) and CBF (Control Barrier Function) within one week, describe step-by-step stability verification procedures for three given control systems, implement two or more verification cases using simulation tools (e.g., MATLAB), and derive scientific evidence by analyzing experimental data.",
+    "Learners will perform safe propellant control simulations using DRL (Deep Reinforcement Learning) algorithms in mobile environments and draw conclusions based on experimental results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Simulation Software",
+      "Cloud-Based Computational Resources",
+      "Simplified Physics Model Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

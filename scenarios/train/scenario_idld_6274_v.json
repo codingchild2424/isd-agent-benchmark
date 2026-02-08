@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6274-V",
+  "variant_type": "context_variant",
+  "title": "Designing Electronic Collaboration Environments for Complex Learning: Project-Based Learning Course for Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended learning course combining individual and collaborative learning in a smartphone-centric, limited-technology environment",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners perform peer evaluations using mobile-based collaboration tools (KakaoTalk channels/Google Drive mobile version) when designing complex social studies projects",
+    "Learners produce instructional materials using smartphone-accessible digital resources (podcasts, infographics) following a four-stage PBL model (problem definition-planning-execution-reflection)",
+    "Learners achieve an 80%+ task completion rate by applying time management and role allocation strategies during mobile team-based learning activities"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Offline Activity Kit (Print Materials)",
+      "Mobile-Friendly Authoring Tool Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7887",
+  "variant_type": "idld_aligned",
+  "title": "Computer Technology-Based Language Education Design Workshop",
+  "context": {
+    "prior_knowledge": "Basic language education knowledge and smartphone utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A short-term course for professionals in medical/legal/technical fields with advanced language proficiency. Conducts project-based assessments in smartphone-centric limited-technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design three types of language teaching activities using digital tools (apps, web-based platforms).",
+    "Establish learner engagement strategies by applying smartphone-based assessment tools.",
+    "Develop a blended learning scenario executable in a limited-technology environment."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Free educational apps (Quizlet, Padlet, etc.)",
+      "Open-source LMS platform",
+      "Mobile-compatible authoring tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

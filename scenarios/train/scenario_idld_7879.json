@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7879",
+  "variant_type": "idld_aligned",
+  "title": "Iterative Learning Control (ILC) Simulation Education for Periodic Disturbance Rejection",
+  "context": {
+    "prior_knowledge": "Understanding of basic control system theory and feedback control principles",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical training for administrators on periodic noise reduction in language processing systems",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze periodic disturbance characteristics and conduct iterative experiments (three or more times) using simulation tools",
+    "Learners can design reference signals that reduce system measurement errors by 30% or more by applying ILC algorithms",
+    "Learners can explain step-by-step the process of eliminating periodic disturbances in feedback control systems in VR environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible simulation tool",
+      "VR equipment rental system",
+      "Periodic disturbance sample dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

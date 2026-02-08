@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1247",
+  "variant_type": "idld_aligned",
+  "title": "Team-Based Hybrid Science Education Design: Applying Mobile Microlearning",
+  "context": {
+    "prior_knowledge": "Understanding Basic Scientific Theories and Experimental Methodologies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Science education design integrating team collaboration and self-directed learning in a hybrid classroom setting utilizing personal devices",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students apply critical thinking with over 80% accuracy when solving scientific problems",
+    "Learners initiate interactions with peers and instructors at least three times per week during team activities",
+    "Maintaining over 90% participation in individual mobile learning activities demonstrates self-directed learning competency",
+    "In team-based assignments, learners demonstrate problem-solving skills improved by over 30% compared to individual performance",
+    "Through team dynamics reflection during the learning process, learners acquire at least three conflict management strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Team Collaboration Tools (Slack/Notion, etc.)",
+      "Digital Assessment System",
+      "Scientific Simulation Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

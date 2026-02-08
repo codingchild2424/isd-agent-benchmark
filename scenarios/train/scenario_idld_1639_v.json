@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1639-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Leadership Practical Competencies: Fundamentals of Robotic Manipulator Safety Control: Learning through Simulation",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental mathematical concepts (functions, graphs, simple physics laws)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for Corporate Management/HR Professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will explain at least three output constraint conditions (e.g., speed limits, force restrictions) that may occur in robotic manipulator movements.",
+    "Learners will design and test a control system incorporating output constraints at least once using simulation tools.",
+    "Learners will graphically analyze whether a robot tracks a target trajectory under constraints and achieve at least 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Business Simulation Tool",
+      "HR Management System",
+      "Business Analytics Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Business/HR/Admin Support"
+}

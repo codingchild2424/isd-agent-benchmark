@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2504-V",
+  "variant_type": "context_variant",
+  "title": "Designing General and Content-Neutral Instructional Strategies in Electronic Education Environments",
+  "context": {
+    "prior_knowledge": "Basic mathematical knowledge and experience with online learning",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Operated in a smartphone-centric, limited technological environment, applying a summative assessment-centered evaluation system.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can interpret machine-readable instructional strategy language with over 80% accuracy in an e-learning environment.",
+    "Learners can design three or more general instructional strategies for given mathematical content.",
+    "Learners can perform peer feedback activities with over 90% participation on an LMS-based platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Text-Based Learning Materials",
+      "Automated grading system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

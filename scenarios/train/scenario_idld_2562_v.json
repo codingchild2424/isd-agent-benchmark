@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2562-V",
+  "variant_type": "context_variant",
+  "title": "Introduction to Statistics Based on Flipped Learning: Short-Intensive Course Utilizing VR Simulation",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Mathematical Concepts (Secondary Level), Basic Smartphone Operation Skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Implementing a blended learning environment using VR content and mobile apps in smartphone-centric limited-technology settings",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can visualize and explain sampling and probability distributions via VR simulations.",
+    "Learners can calculate descriptive statistics (mean, variance, standard deviation) using mobile app-based pre-learning materials.",
+    "Learners can interpret the concept of hypothesis testing by applying it to real-world cases through collaborative learning activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset Sharing and Rental System",
+      "Mobile-Optimized Statistical Learning App",
+      "Wi-Fi-Enabled Classroom Environment",
+      "Data Visualization Templates Provision"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

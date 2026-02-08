@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5890-V",
+  "variant_type": "context_variant",
+  "title": "Scientific Inquiry Curriculum Based on Radar Electronic Warfare Countermeasure Simulation",
+  "context": {
+    "prior_knowledge": "Basic radar signal processing concepts and intermediate-level electronic warfare simulation experiment experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A corporate technical competency enhancement program with BYOD-based simulation exercises. Focuses on developing electronic warfare response strategies using scientific inquiry methods.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain the operating principles of LFM pulse radar and the impact of electronic warfare jamming signals on signal modulation through scientific methods.",
+    "Perform simulations via experimental measurements for jamming signal detection based on RPIP signals and PPLFM signal design.",
+    "Implement an algorithm design project to separate target and jamming signals using sparse decomposition-based dictionary learning methods and conduct evidence-based analysis."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Radar Signal Processing Simulation Software",
+      "PPLFM Signal Design Algorithm Examples",
+      "Electronic Warfare Jamming Scenario Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

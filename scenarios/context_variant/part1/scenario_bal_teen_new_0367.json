@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0367",
+  "variant_type": "balance_teen_filtered",
+  "title": "E-Learning Cost Management Strategies for Medical Professionals in K-12",
+  "context": {
+    "prior_knowledge": "Basic medical field knowledge and fundamental financial management concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires mobile-optimized content for smartphone-based learning, focusing on budget management for medical institutions and cost-efficient education.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can classify medical e-learning development cost components (labor, technical infrastructure, content production costs, etc.) with 80% accuracy",
+    "Learners can analyze e-learning cost-efficiency compared to traditional face-to-face education using three metrics (time savings, workforce minimization, scalability)",
+    "Learners can apply mobile-optimized low-cost e-learning production techniques (template utilization, microlearning design) to real-world cases"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Open-Source Authoring Tools",
+      "Medical Education Standard Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

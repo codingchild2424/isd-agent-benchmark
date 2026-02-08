@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE3-0180",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Simulation-based LLM-assisted foreign language scientific paper analysis education",
+  "context": {
+    "prior_knowledge": "Understanding Basic Scientific Terminology and Elementary Foreign Language Reading Comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Designing foreign language science paper analysis scenarios in a VR environment",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can summarize core concepts of foreign-language scientific papers with 80% accuracy using LLMs.",
+    "Learners can correct specialized terminology errors with over 90% accuracy based on customized LLM feedback.",
+    "Learners can evaluate the logical structure of foreign-language papers in three stages (critique, analysis, reconstruction) within a simulation environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Multimodal LLM Interface",
+      "Foreign Language Scientific Paper Database",
+      "VR Interaction Script"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

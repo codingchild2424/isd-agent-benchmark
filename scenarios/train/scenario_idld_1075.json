@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1075",
+  "variant_type": "idld_aligned",
+  "title": "Design and Implementation of E-Learning Environments Using Activity-Based Blended Learning",
+  "context": {
+    "prior_knowledge": "Fundamental Mathematics Knowledge and Digital Device Usage Proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized learning environments for medical/legal/technical professionals to improve mathematical problem-solving skills",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design activities to solve various mathematical problems using basic functions of the CADI framework",
+    "Learners can perform collaborative and individual learning activities in BYOD environments with 80% or higher accuracy",
+    "Learners can present mathematical thinking processes in logical structures of at least three stages through project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CADI framework license",
+      "WiFi-enabled personal device",
+      "Math Problem-Solving Template",
+      "Collaborative Learning Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

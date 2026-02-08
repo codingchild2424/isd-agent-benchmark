@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-FINAL-0043",
+  "variant_type": "balance_medium_final",
+  "title": "Health Literacy Improvement Program for Adolescents with Food Allergies in Social Meal Situations",
+  "context": {
+    "prior_knowledge": "Basic understanding of food allergy concepts and proficiency in using digital learning platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Education for parents in their 40s or older with adolescent children, focusing on self-directed learning in a BYOD (Bring Your Own Device) environment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can improve their ability to evaluate and utilize food allergy-related information with over 80% accuracy",
+    "Learners can propose three or more communication strategies for adolescents to manage allergies in social dining situations",
+    "Learners must utilize three or more local resources (public health centers, welfare centers, pharmacies, etc.) to develop a personalized health management plan executable within a week and submit an implementation report fulfilling at least four of five checklist items."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Allergy response simulation module",
+      "Interactive Case Database",
+      "Mobile-compatible learning materials package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

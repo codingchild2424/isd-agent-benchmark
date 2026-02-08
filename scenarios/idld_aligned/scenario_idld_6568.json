@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6568",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Blended Language Learning Course for Working Professionals",
+  "context": {
+    "prior_knowledge": "Basic language comprehension skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Flexible learning design considering employees' work schedules, combining real-time interaction and self-directed learning via mobile devices.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can utilize 50 core job-related vocabulary items with 80% accuracy",
+    "Learners practice 10 basic situational conversation patterns in a mobile environment three or more times",
+    "Learners participate in weekly online discussion forums at least twice to conduct language practice with peer learners"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App",
+      "Weekly offline workshop materials",
+      "AI-Powered Pronunciation Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8361",
+  "variant_type": "idld_aligned",
+  "title": "Microlearning MOOC for Understanding Dementia and Field Application",
+  "context": {
+    "prior_knowledge": "Basic medical/social welfare knowledge or dementia-related job experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Theory-practice integrated dementia education for professionals in medical/legal/technical fields",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain at least three pathophysiological mechanisms of dementia.",
+    "Learners can apply personalized dementia management strategies to real-world cases.",
+    "Learners can create workplace dementia response guidelines based on MOOC learning content."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Dementia Expert Interview Videos (Segmented by 5-Minute Intervals)",
+      "Interactive Patient Simulation Module",
+      "Mobile-Optimized Case Study PDF Compilation",
+      "Real-Time Q&A Forum System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

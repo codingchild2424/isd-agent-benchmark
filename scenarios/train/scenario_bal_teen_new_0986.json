@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0986",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Asynchronous E-Learning-Based Basic Mathematics Course for Adults: Design for Improving Learner Satisfaction",
+  "context": {
+    "prior_knowledge": "Elementary and Secondary Level Core Mathematics Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Flexible learning environment centered on asynchronous discussions, assignments, and video lectures for learners provided with digital devices",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners improve basic mathematical operation skills by 30% within six months in an LMS-based asynchronous environment.",
+    "Learners achieve a formative assessment pass rate of over 70% by the end of the course.",
+    "Learners attain an average score of 4.0/5.0 or higher in the course satisfaction survey (based on LSAeL)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Video Upload/Assignment Review Functionality)",
+      "Foundational Math Concept Videos (20 Modules in 30-Minute Segments)",
+      "Automated Grading Quiz System",
+      "Weekly Checklist Template for Maintaining Learning Motivation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

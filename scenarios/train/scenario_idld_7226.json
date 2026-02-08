@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7226",
+  "variant_type": "idld_aligned",
+  "title": "Cognitive Science-Based Statistics Practice Mastery Course",
+  "context": {
+    "prior_knowledge": "Basic statistics (descriptive and inferential) and foundational R/Python programming skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Optimizing mobile learning via smartphones, collaboration environment centered on data analysis projects.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Participants can independently apply three or more statistical analysis techniques (t-test, regression analysis, time-series forecasting) in a smartphone environment using real datasets.",
+    "Through microlearning modules incorporating cognitive science principles (distributed learning, retrieval practice), participants can retain 20 cumulative statistical concepts over four weeks.",
+    "In team-based data analysis projects, participants document statistical decision-making processes, perform peer reviews three or more times, and complete practical reports."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Statistical Analysis Apps (Shiny, JMP Mobile)",
+      "Offline-Syncable Cloud Storage",
+      "Interactive Data Visualization Tool (Plotly Mobile)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

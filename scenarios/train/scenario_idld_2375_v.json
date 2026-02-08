@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2375-V",
+  "variant_type": "context_variant",
+  "title": "Case-Based Learning Course Using Nursing Simulation",
+  "context": {
+    "prior_knowledge": "Basic nursing knowledge and ward practicum experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhances critical thinking through case analysis replicating real medical scenarios in nursing simulation environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can derive three or more nursing problem-solving strategies by analyzing simulation-based clinical cases.",
+    "Learners can critically evaluate nursing interventions according to patient condition changes and provide optimal decision rationales.",
+    "Learners can perform structured thinking processes reflecting peer feedback during case discussions with over 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual Simulation Platform",
+      "Standardized Patient Scenarios",
+      "Video Conferencing Tool",
+      "Real-Time Chat Functionality"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

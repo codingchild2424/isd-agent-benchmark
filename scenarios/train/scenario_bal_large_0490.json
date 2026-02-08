@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0490",
+  "variant_type": "balance_large_scale",
+  "title": "Simulation-Based Mathematical Optimization Training Program for Port Crane Operators",
+  "context": {
+    "prior_knowledge": "Basic crane operation theory and understanding of port work procedures, fundamental mathematical computation skills (solving equations, graph interpretation, probability concepts), and introductory grasp of optimization problems (objective functions, constraints, linear/nonlinear programming)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Acquiring operation skills for various crane types in a virtual simulation environment mimicking actual port work settings, solving real-world work scenarios in project-based units. Includes variable control training for weather conditions, equipment failures, etc. Particularly learns methods to maximize operational efficiency by applying mathematical modeling (linear/nonlinear programming, stochastic optimization, integer programming). Simulation data is continuously improved through statistical analysis (mean, variance, confidence intervals), and sensitivity analysis and simulation optimization techniques are utilized to verify optimization results",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Master simulation-based operation techniques for various crane types (Quay-Side Gantry, Rubber Tired Gantry, etc.) and develop linear/nonlinear programming modeling skills for optimizing work sequences.",
+    "Learners can apply three work sequence optimization models (e.g., FIFO, LIFO, priority-based) during container loading/unloading tasks in given environments (ports/logistics warehouses), reduce work time by 15%, comply with five safety protocols (falling object prevention, PPE usage, etc.) at 95%+, and score 80+ points in simulation evaluations. Mathematical analyses (expected value calculations, sensitivity analysis) must account for probabilistic variables and constraints during optimization.",
+    "Learners can utilize an automated assessment system within the simulation to analyze three or more performance metrics (accuracy, processing speed, error rate) in real time, achieve performance improvement goals of over 10% every two weeks based on weekly feedback reports, and propose improvement strategies. When analyzing performance metrics, learners apply statistical methods (mean, standard deviation, correlation analysis, regression analysis) to cultivate data-driven decision-making skills."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Simulation Software",
+      "Virtual Reality (VR) Headset Rental System",
+      "Crane Control Interface Simulator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

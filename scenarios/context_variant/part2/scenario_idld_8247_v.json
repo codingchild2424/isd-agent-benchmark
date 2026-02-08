@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8247-V",
+  "variant_type": "context_variant",
+  "title": "Designing University Chemistry Education with Blended Learning: Project-Based Intensive Short Course",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners use personal devices (BYOD) to simultaneously engage with online content and offline activities, performing team-based chemistry experiment design and analysis projects",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "In blended learning environments, learners can explain core principles of chemical experiment design with over 80% accuracy.",
+    "Using digital tools (e.g., simulation software, data analysis tools), learners can complete chemical reaction analysis projects.",
+    "Learners can evaluate team-based project outcomes using peer assessment criteria with at least three measurable indicators."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Chemical Experiment Simulation Software",
+      "Learning Management System (LMS)",
+      "Digital Content Creation Tool",
+      "Team-Based Project Kit (Experimental Materials)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

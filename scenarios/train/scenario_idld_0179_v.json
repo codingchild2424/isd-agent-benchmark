@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0179-V",
+  "variant_type": "context_variant",
+  "title": "Ontology-Based Language Learning Design Model Development Program",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Corporate In-Service Training Program to Strengthen Competencies in Designing Practically Applicable Learning Content",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners will be able to systematically classify language learning content using an ontology-based design model.",
+    "Learners will be able to design interactive learning scenarios applying ontology structures in simulation/VR environments.",
+    "Learners will be able to develop three or more language learning modules implementable in constrained technological environments (smartphone-based)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based VR Solution",
+      "Ontology Editing Tool",
+      "Language Learning Resource Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0059",
+  "variant_type": "balance_large_last",
+  "title": "Design of an Integrated Digital Anatomy Education Platform: A Mixed-Methods Approach",
+  "context": {
+    "prior_knowledge": "Basic anatomical terminology and general knowledge of human body structures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Since learners may have limited experience with digital devices, foundational functionality training must precede advanced instruction. Practical spaces and support systems are required for utilizing digital tools in offline environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can visually explain the spatial relationships of major organ systems using 3D virtual dissection tools",
+    "Learners can analyze anatomical structures using annotation features provided by digital platforms and label them with over 80% accuracy",
+    "Learners can pass quizzes related to human anatomy with over 70% accuracy using in-platform assessment tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Anatomy Software License",
+      "Tablet PC or Desktop Computer (1 per learner)",
+      "Projector and Screen-Sharing Device"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-4191-V",
+  "variant_type": "context_variant",
+  "title": "Game-Based Self-Regulated Learning Course for Enhancing Artificial Intelligence Applications and Computational Thinking",
+  "context": {
+    "prior_knowledge": "Understanding of foundational computing concepts, no programming experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Optimizing smartphone-based learning environments for pre-service/in-service teachers, with a focus on formative assessment-driven operations",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain ≥80% of AI application cases through game-based simulations.",
+    "Learners can design ≥3 stages of computational thinking problem-solving processes using self-regulated learning strategies.",
+    "Learners can apply ≥70% of feedback routines that assess and improve logical thinking skills related to AI technology.",
+    "Learners can identify ≥3 ethical issues arising from AI use and propose solutions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized LMS (Learning Management System)",
+      "AI 2 Robot City Mobile Game App",
+      "Automated Grading Quiz System",
+      "Video Lecture Materials (5–10 Minute Segments)",
+      "Learning Progress Monitoring Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

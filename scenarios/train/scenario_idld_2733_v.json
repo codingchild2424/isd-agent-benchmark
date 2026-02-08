@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2733-V",
+  "variant_type": "context_variant",
+  "title": "Molecular Biology Teacher Training: Integrated Online-Offline Instructional Design",
+  "context": {
+    "prior_knowledge": "Basic high school life science knowledge and understanding of laboratory safety protocols",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Part of a molecular biology bootcamp for Hawaii high school biology teachers: Blended learning environment combining online modules with laboratory practicums",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Key molecular biology techniques such as PCR and gel electrophoresis can be simulated online to explain experimental principles",
+    "Online modules can be utilized to present safety protocols and error-resolution strategies required in experimental design",
+    "Project-based assessments can develop molecular biology laboratory guidelines applicable to student research mentoring"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Online Learning Platform",
+      "Molecular Biology Lab Equipment (Micropipettes, Centrifuges, etc.)",
+      "3D Animation Lab Simulation Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

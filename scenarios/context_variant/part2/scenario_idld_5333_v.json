@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5333-V",
+  "variant_type": "context_variant",
+  "title": "Art-Based Interventions to Reduce Nurse Stigma Toward Prenatal Substance Use Education",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Professional training for current practitioners, conducted in a smartphone-centric limited technology environment, utilizing an asynchronous learning platform combining VR simulations and artistic activities",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners reduce stigmatizing attitudes toward prenatal substance use (PSU) by over 30%.",
+    "Through art-based interventions, learners apply at least three empathetic communication strategies that reflect patients' perspectives.",
+    "In VR simulations, learners perform unbiased nursing interventions in PSU-related scenarios with 80% accuracy based on critical thinking."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Platform",
+      "Digital Art Tools",
+      "Case-Based Scenario Database",
+      "Interactive Artwork Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

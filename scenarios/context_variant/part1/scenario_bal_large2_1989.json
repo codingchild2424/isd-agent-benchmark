@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1989",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Introductory Course on Statistics and Research Design for Medical Professionals",
+  "context": {
+    "prior_knowledge": "Comprehension of basic statistical terminology and ability to read research papers",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized education for healthcare professionals conducted in a non-face-to-face learning environment using digital devices.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can write a data analysis plan applying basic statistical methodologies (e.g., t-tests, chi-square tests) for research design.",
+    "Learners can analyze clinical research cases and propose appropriate sample size calculations and interpretation strategies for results.",
+    "Learners can visualize descriptive and inferential statistics using analysis tools like SPSS/R and compile them into a report."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Management System (LMS)",
+      "Statistical analysis software license",
+      "Medical case database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,606 @@
+"""
+Baseline ISD Generator
+
+Generates ADDIE outputs with a single LLM call.
+Supports multiple providers: Upstage, OpenRouter, OpenAI.
+"""
+
+import json
+import os
+import re
+from datetime import datetime
+from typing import Any, Optional
+
+from openai import OpenAI
+
+from baseline.prompts import SYSTEM_PROMPT, build_user_prompt
+
+
+# API Settings
+UPSTAGE_BASE_URL = "https://api.upstage.ai/v1/solar"
+OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
+
+# Default models per provider
+DEFAULT_MODELS = {
+    "upstage": "solar-pro3",  # Free until March 2026
+    "openrouter": "anthropic/claude-3.5-sonnet",
+    "openai": "gpt-4-turbo",
+}
+
+# Round-robin API key management for Upstage
+_upstage_api_keys = None
+_upstage_key_index = 0
+_upstage_key_lock = None
+
+def get_upstage_api_key():
+    """Get Upstage API key with round-robin rotation"""
+    global _upstage_api_keys, _upstage_key_index, _upstage_key_lock
+    import threading
+
+    if _upstage_key_lock is None:
+        _upstage_key_lock = threading.Lock()
+
+    if _upstage_api_keys is None:
+        # Collect all available Upstage API keys
+        keys = []
+        base_key = os.getenv("UPSTAGE_API_KEY")
+        if base_key:
+            keys.append(base_key)
+        key2 = os.getenv("UPSTAGE_API_KEY2")
+        if key2:
+            keys.append(key2)
+        key3 = os.getenv("UPSTAGE_API_KEY3")
+        if key3:
+            keys.append(key3)
+        # Also check comma-separated format
+        keys_str = os.getenv("UPSTAGE_API_KEYS")
+        if keys_str:
+            keys.extend([k.strip() for k in keys_str.split(",") if k.strip()])
+        _upstage_api_keys = keys if keys else [None]
+
+    with _upstage_key_lock:
+        key = _upstage_api_keys[_upstage_key_index % len(_upstage_api_keys)]
+        _upstage_key_index += 1
+        return key
+
+
+def get_default_model(provider: str = "upstage") -> str:
+    """Get default model for provider, or from environment variable"""
+    env_model = os.getenv("LLM_MODEL") or os.getenv("MODEL_NAME")
+    return env_model or DEFAULT_MODELS.get(provider, "solar-pro3")
+
+
+class BaselineGenerator:
+    """Single prompt ADDIE generator with multi-provider support"""
+
+    def __init__(
+        self,
+        model: str = None,
+        temperature: float = 0.7,
+        max_tokens: int = 32768,
+        api_key: Optional[str] = None,
+        provider: str = None,  # "upstage", "openrouter", or "openai"
+        reasoning_budget: int = None,  # Thinking/reasoning token budget (OpenRouter)
+    ):
+        # Auto-detect provider from environment if not specified
+        if provider is None:
+            provider = os.getenv("MODEL_PROVIDER", "upstage")
+
+        self.provider = provider
+        self.model = model or get_default_model(provider)
+        self.temperature = temperature
+        self.max_tokens = max_tokens
+        self.reasoning_budget = reasoning_budget or int(os.getenv("REASONING_BUDGET", "0")) or None
+
+        if provider == "upstage":
+            self.client = OpenAI(
+                api_key=api_key or get_upstage_api_key(),
+                base_url=UPSTAGE_BASE_URL,
+            )
+        elif provider == "openrouter":
+            self.client = OpenAI(
+                api_key=api_key or os.getenv("OPENROUTER_API_KEY") or os.getenv("OPEN_ROUTER_API_KEY"),
+                base_url=OPENROUTER_BASE_URL,
+            )
+        else:  # openai
+            self.client = OpenAI(api_key=api_key or os.getenv("OPENAI_API_KEY"))
+
+    def generate(self, scenario: dict) -> dict:
+        """
+        시나리오를 입력받아 ADDIE 산출물을 생성합니다.
+
+        Args:
+            scenario: 시나리오 딕셔너리 (JSON 스키마 준수)
+
+        Returns:
+            dict: ADDIE 산출물 + 메타데이터
+        """
+        start_time = datetime.now()
+
+        # 프롬프트 생성
+        user_prompt = build_user_prompt(scenario)
+
+        # API 호출
+        api_kwargs = {
+            "model": self.model,
+            "messages": [
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": user_prompt},
+            ],
+            "temperature": self.temperature,
+            "max_tokens": self.max_tokens,
+            "response_format": {"type": "json_object"},  # Force JSON output
+        }
+
+        # Add reasoning budget for OpenRouter (extended thinking)
+        # Claude/Gemini: max_tokens, OpenAI: effort level
+        if self.reasoning_budget and self.provider == "openrouter":
+            if "openai/" in self.model or "gpt" in self.model.lower():
+                # OpenAI models use effort level instead of max_tokens
+                api_kwargs["extra_body"] = {"reasoning": {"effort": "low"}}
+            else:
+                # Claude/Gemini use max_tokens
+                api_kwargs["extra_body"] = {"reasoning": {"max_tokens": self.reasoning_budget}}
+
+        response = self.client.chat.completions.create(**api_kwargs)
+
+        # 응답 파싱
+        content = response.choices[0].message.content
+        addie_output = self._parse_response(content)
+
+        # 메타데이터 생성
+        end_time = datetime.now()
+        execution_time = (end_time - start_time).total_seconds()
+
+        # trajectory에 ADDIE 단계별 추론 과정 기록
+        reasoning_steps = self._extract_reasoning_steps(scenario, addie_output)
+        tool_calls = self._build_tool_calls(scenario, addie_output, start_time)
+
+        result = {
+            "scenario_id": scenario.get("scenario_id", "unknown"),
+            "agent_id": "baseline",
+            "timestamp": end_time.isoformat(),
+            "addie_output": addie_output,
+            "trajectory": {
+                "tool_calls": tool_calls,
+                "reasoning_steps": reasoning_steps,
+                "agent_interactions": [
+                    {
+                        "iteration": 1,
+                        "agent": "baseline",
+                        "action": "analyze",
+                        "timestamp": start_time.isoformat(),
+                    },
+                    {
+                        "iteration": 1,
+                        "agent": "baseline",
+                        "action": "design",
+                        "timestamp": start_time.isoformat(),
+                    },
+                    {
+                        "iteration": 1,
+                        "agent": "baseline",
+                        "action": "develop",
+                        "timestamp": start_time.isoformat(),
+                    },
+                    {
+                        "iteration": 1,
+                        "agent": "baseline",
+                        "action": "implement",
+                        "timestamp": start_time.isoformat(),
+                    },
+                    {
+                        "iteration": 1,
+                        "agent": "baseline",
+                        "action": "evaluate",
+                        "timestamp": start_time.isoformat(),
+                    },
+                ],
+            },
+            "metadata": {
+                "model": self.model,
+                "total_tokens": response.usage.total_tokens if response.usage else 0,
+                "prompt_tokens": response.usage.prompt_tokens if response.usage else 0,
+                "completion_tokens": response.usage.completion_tokens if response.usage else 0,
+                "execution_time_seconds": execution_time,
+                "cost_usd": self._calculate_cost(response.usage),
+                "agent_version": "0.1.0",
+                "iterations": 1,
+            },
+        }
+
+        return result
+
+    def _parse_response(self, content: str) -> dict:
+        """LLM 응답을 ADDIE 출력으로 파싱"""
+        import sys
+
+        # Strip markdown code blocks if present
+        json_str = content.strip()
+        if json_str.startswith("```json"):
+            json_str = json_str[7:]  # Remove ```json
+        if json_str.startswith("```"):
+            json_str = json_str[3:]  # Remove ```
+        if json_str.endswith("```"):
+            json_str = json_str[:-3]  # Remove trailing ```
+        json_str = json_str.strip()
+
+        # Try parsing
+        try:
+            result = json.loads(json_str)
+            return self._ensure_required_fields(result)
+        except json.JSONDecodeError as e:
+            print(f"[DEBUG] JSON 파싱 실패: {e}", file=sys.stderr)
+            print(f"[DEBUG] 응답 길이: {len(content)}", file=sys.stderr)
+            print(f"[DEBUG] 응답 시작 200자: {content[:200]}", file=sys.stderr)
+
+        # 파싱 실패 시 기본 구조 반환
+        print("[DEBUG] 기본 출력 반환", file=sys.stderr)
+        return self._create_default_output()
+
+    def _ensure_required_fields(self, data: dict) -> dict:
+        """필수 필드 누락 시 기본값 적용 (#71)"""
+        default = self._create_default_output()
+
+        # evaluation 섹션 확보
+        if "evaluation" not in data:
+            data["evaluation"] = {}
+
+        # [28] pilot_data_collection 검증 및 fallback
+        if not data.get("evaluation", {}).get("pilot_data_collection"):
+            data["evaluation"]["pilot_data_collection"] = default["evaluation"]["pilot_data_collection"]
+
+        return data
+
+    def _create_default_output(self) -> dict:
+        """기본 ADDIE 출력 구조 (33개 소항목 완전 포함)"""
+        return {
+            "analysis": {
+                # A-1 ~ A-4: 요구분석
+                "needs_analysis": {
+                    "problem_definition": None,      # A-1: 문제 확인 및 정의
+                    "gap_analysis": [],              # A-2: 차이분석
+                    "performance_analysis": None,    # A-3: 수행분석
+                    "priority_matrix": {             # A-4: 요구 우선순위 결정
+                        "high": [],
+                        "medium": [],
+                        "low": [],
+                    },
+                },
+                # A-5: 학습자 분석
+                "learner_analysis": {
+                    "target_audience": "미지정",
+                    "characteristics": [],
+                    "prior_knowledge": None,
+                    "learning_preferences": [],
+                    "motivation": None,
+                    "challenges": [],
+                },
+                # A-6: 환경분석
+                "context_analysis": {
+                    "environment": "미지정",
+                    "duration": "미지정",
+                    "constraints": [],
+                    "resources": [],
+                    "technical_requirements": [],
+                },
+                # A-7 ~ A-10: 과제분석
+                "task_analysis": {
+                    "main_topics": [],               # A-7: 초기 학습목표 도출
+                    "subtopics": [],                 # A-8: 하위 기능 분석
+                    "prerequisites": [],             # A-9: 출발점 행동 분석
+                    "review_summary": None,          # A-10: 과제분석 결과 검토/정리
+                },
+            },
+            "design": {
+                # D-11: 학습목표 정교화
+                "learning_objectives": [],
+                # D-12: 평가 계획 수립
+                "assessment_plan": {
+                    "diagnostic": [],
+                    "formative": [],
+                    "summative": [],
+                },
+                # D-13: 교수 내용 선정
+                "content_selection": [],
+                # D-14, D-17: 교수적 전략 수립, 학습활동 및 시간 구조화
+                "instructional_strategy": {
+                    "model": "Gagné's 9 Events",
+                    "sequence": [],
+                    "methods": [],
+                },
+                # D-15: 비교수적 전략 수립
+                "non_instructional_strategy": [],
+                # D-16: 매체 선정
+                "media_selection": [],
+                # D-18: 스토리보드/화면 흐름 설계
+                "storyboard": [],
+            },
+            "development": {
+                # Dev-19: 학습자용 자료 개발
+                "lesson_plan": {
+                    "total_duration": "미지정",
+                    "modules": [],
+                },
+                "materials": [
+                    {
+                        "type": "프레젠테이션",
+                        "title": "교육 슬라이드",
+                        "description": "학습 내용을 시각적으로 전달하는 슬라이드 자료",
+                        "slides": 10,
+                        "slide_contents": [
+                            {"slide_number": 1, "title": "교육 소개", "bullet_points": ["환영 인사", "학습 목표", "일정 안내"], "speaker_notes": "참가자들을 환영하며 교육 목표를 안내합니다."},
+                            {"slide_number": 2, "title": "핵심 개념 1", "bullet_points": ["개념 정의", "주요 특성", "적용 사례"], "speaker_notes": "첫 번째 핵심 개념을 예시와 함께 설명합니다."},
+                            {"slide_number": 3, "title": "핵심 개념 2", "bullet_points": ["개념 정의", "주요 특성", "적용 사례"], "speaker_notes": "두 번째 핵심 개념을 예시와 함께 설명합니다."},
+                            {"slide_number": 4, "title": "실습 안내", "bullet_points": ["실습 목표", "실습 절차", "주의사항"], "speaker_notes": "실습 활동을 안내합니다."},
+                            {"slide_number": 5, "title": "정리 및 Q&A", "bullet_points": ["핵심 내용 요약", "질의응답", "다음 단계 안내"], "speaker_notes": "학습 내용을 정리하고 질문을 받습니다."},
+                        ],
+                    },
+                    {
+                        "type": "유인물",
+                        "title": "학습자용 핸드아웃",
+                        "description": "학습 내용 정리 및 참고 자료",
+                        "pages": 5,
+                    },
+                    {
+                        "type": "실습 자료",
+                        "title": "실습 가이드",
+                        "description": "실습 활동을 위한 단계별 가이드",
+                        "pages": 3,
+                    },
+                ],
+                # Dev-20: 교수자용 매뉴얼 개발
+                "instructor_manual": None,
+                # Dev-21: 운영자용 매뉴얼 개발
+                "operator_manual": None,
+                # Dev-23: 전문가 검토
+                "expert_review": {
+                    "reviewers": [],
+                    "checklist": [],
+                    "feedback_plan": None,
+                },
+            },
+            "implementation": {
+                "delivery_method": "미지정",
+                "facilitator_guide": None,
+                "learner_guide": None,
+                # I-25: 시스템/환경 점검
+                "technical_requirements": [],
+                # I-24: 교수자/운영자 오리엔테이션
+                "orientation_plan": None,
+                # I-26: 프로토타입 실행 계획
+                "pilot_plan": {
+                    "pilot_scope": None,
+                    "participants": None,
+                    "duration": None,
+                    "success_criteria": [],
+                    "data_collection": [],
+                    "contingency_plan": None,
+                },
+                # I-27: 운영 모니터링
+                "support_plan": None,
+            },
+            "evaluation": {
+                # Dev-22: 평가 도구/문항 개발
+                "quiz_items": [
+                    {
+                        "id": "Q-01",
+                        "question": "본 교육의 주요 학습 내용에 대한 이해도를 확인하는 문항입니다.",
+                        "type": "multiple_choice",
+                        "options": ["선택지 A (정답)", "선택지 B", "선택지 C", "선택지 D"],
+                        "answer": "선택지 A (정답)",
+                        "explanation": "핵심 개념을 정확히 이해했는지 확인하는 문항입니다.",
+                        "objective_id": "OBJ-01",
+                        "difficulty": "easy",
+                    },
+                    {
+                        "id": "Q-02",
+                        "question": "학습 내용을 실제 상황에 적용할 수 있는지 확인하는 문항입니다.",
+                        "type": "multiple_choice",
+                        "options": ["선택지 A", "선택지 B (정답)", "선택지 C", "선택지 D"],
+                        "answer": "선택지 B (정답)",
+                        "explanation": "학습 내용의 실제 적용 능력을 평가합니다.",
+                        "objective_id": "OBJ-02",
+                        "difficulty": "medium",
+                    },
+                    {
+                        "id": "Q-03",
+                        "question": "핵심 개념 간의 관계를 분석하는 문항입니다.",
+                        "type": "multiple_choice",
+                        "options": ["선택지 A", "선택지 B", "선택지 C (정답)", "선택지 D"],
+                        "answer": "선택지 C (정답)",
+                        "explanation": "분석적 사고력을 평가하는 문항입니다.",
+                        "objective_id": "OBJ-03",
+                        "difficulty": "medium",
+                    },
+                    {
+                        "id": "Q-04",
+                        "question": "학습 내용의 장단점을 비교 분석하시오.",
+                        "type": "short_answer",
+                        "options": [],
+                        "answer": "장점과 단점을 구체적으로 제시하고 비교 분석",
+                        "explanation": "비판적 사고력과 분석 능력을 평가합니다.",
+                        "objective_id": "OBJ-04",
+                        "difficulty": "hard",
+                    },
+                    {
+                        "id": "Q-05",
+                        "question": "배운 내용을 바탕으로 문제 해결 방안을 제시하시오.",
+                        "type": "essay",
+                        "options": [],
+                        "answer": "학습 내용을 종합하여 창의적인 해결 방안 제시",
+                        "explanation": "종합적 사고력과 문제 해결 능력을 평가합니다.",
+                        "objective_id": "OBJ-05",
+                        "difficulty": "hard",
+                    },
+                ],
+                # E-28: 파일럿 자료 수집
+                "pilot_data_collection": {
+                    "title": "파일럿/초기 실행 자료 수집 계획",
+                    "data_types": {
+                        "quantitative": [
+                            {"type": "사전 테스트 점수", "purpose": "기초선 측정", "source": "학습자"},
+                            {"type": "사후 테스트 점수", "purpose": "학습 성과 측정", "source": "학습자"},
+                            {"type": "만족도 점수", "purpose": "반응 평가", "source": "학습자"},
+                            {"type": "참여율/완주율", "purpose": "참여도 측정", "source": "시스템"},
+                        ],
+                        "qualitative": [
+                            {"type": "개방형 피드백", "purpose": "심층 의견 수집", "source": "학습자"},
+                            {"type": "관찰 기록", "purpose": "행동 패턴 파악", "source": "관찰자"},
+                            {"type": "인터뷰 응답", "purpose": "심층 이해", "source": "학습자/강사"},
+                        ],
+                    },
+                    "collection_methods": [
+                        {"method": "온라인 설문", "timing": "교육 직후", "tool": "설문 플랫폼"},
+                        {"method": "시험/퀴즈", "timing": "교육 전/후", "tool": "LMS"},
+                        {"method": "관찰", "timing": "교육 중", "tool": "관찰 체크리스트"},
+                        {"method": "인터뷰", "timing": "교육 후 1주 내", "tool": "인터뷰 가이드"},
+                    ],
+                    "instruments": [
+                        {"name": "사전-사후 테스트", "type": "지식 평가", "items": 20},
+                        {"name": "만족도 설문", "type": "반응 평가", "items": 15},
+                        {"name": "관찰 체크리스트", "type": "행동 관찰", "items": 10},
+                    ],
+                    "timeline": [
+                        {"phase": "사전", "timing": "D-1 ~ D-Day", "activities": ["사전 테스트", "기초 정보 수집"]},
+                        {"phase": "중간", "timing": "교육 중", "activities": ["실시간 관찰", "형성 평가"]},
+                        {"phase": "직후", "timing": "D+0", "activities": ["사후 테스트", "만족도 설문"]},
+                        {"phase": "추적", "timing": "D+7 ~ D+30", "activities": ["인터뷰", "현업 적용도 조사"]},
+                    ],
+                    "data_management": {
+                        "storage": "보안 저장소",
+                        "retention_period": "3년",
+                        "access_control": "교육팀 및 평가팀으로 제한",
+                    },
+                },
+                # E-29: 형성평가 기반 개선
+                "formative_improvement": None,
+                # E-30: 총괄평가 계획
+                "rubric": {
+                    "criteria": [],
+                    "levels": {
+                        "excellent": None,
+                        "good": None,
+                        "needs_improvement": None,
+                    },
+                },
+                # E-31: 총괄평가 효과 분석 계획
+                "summative_analysis": {
+                    "level_1_reaction": None,
+                    "level_2_learning": None,
+                    "level_3_behavior": None,
+                    "level_4_results": None,
+                },
+                # E-32: 프로그램 채택 여부 결정
+                "adoption_decision": {
+                    "recommendation": None,
+                    "rationale": None,
+                    "conditions": [],
+                    "next_steps": [],
+                },
+                # E-33: 프로그램 개선 및 환류
+                "program_improvement": None,
+                "feedback_plan": None,
+            },
+        }
+
+    def _extract_reasoning_steps(self, scenario: dict, addie_output: dict) -> list:
+        """ADDIE 산출물에서 추론 과정을 추출하여 reasoning_steps 생성"""
+        steps = []
+
+        # 시나리오 분석 단계
+        target = scenario.get("context", {}).get("target_audience", "학습자")
+        goals = scenario.get("learning_goals", [])
+        duration = scenario.get("context", {}).get("duration", "미지정")
+
+        steps.append(f"Step 1 (Analysis): 학습자 분석 - 대상: {target}")
+        steps.append(f"Step 2 (Analysis): 학습 목표 파악 - {len(goals)}개 목표 식별")
+
+        # 설계 단계
+        if addie_output.get("design"):
+            objectives = addie_output.get("design", {}).get("learning_objectives", [])
+            steps.append(f"Step 3 (Design): 학습 목표 설계 - {len(objectives)}개 세부 목표 수립")
+            steps.append("Step 4 (Design): 평가 계획 및 교수 전략 설계")
+
+        # 개발 단계
+        if addie_output.get("development"):
+            modules = addie_output.get("development", {}).get("lesson_plan", {}).get("modules", [])
+            steps.append(f"Step 5 (Development): 레슨 플랜 개발 - {len(modules)}개 모듈 구성")
+            steps.append("Step 6 (Development): 학습 자료 및 콘텐츠 개발")
+
+        # 실행 단계
+        if addie_output.get("implementation"):
+            delivery = addie_output.get("implementation", {}).get("delivery_method", "미지정")
+            steps.append(f"Step 7 (Implementation): 전달 방법 결정 - {delivery}")
+            steps.append("Step 8 (Implementation): 운영 가이드 작성")
+
+        # 평가 단계
+        if addie_output.get("evaluation"):
+            quiz_items = addie_output.get("evaluation", {}).get("quiz_items", [])
+            steps.append(f"Step 9 (Evaluation): 평가 문항 개발 - {len(quiz_items)}개 문항")
+            steps.append("Step 10 (Evaluation): 피드백 계획 수립")
+
+        # 최종 결론
+        steps.append(f"결론: ADDIE 프레임워크 기반 {duration} 교육과정 설계 완료")
+
+        return steps
+
+    def _build_tool_calls(self, scenario: dict, addie_output: dict, start_time: datetime) -> list:
+        """ADDIE 단계별 도구 호출 기록 생성"""
+        tool_calls = [
+            {
+                "step": 1,
+                "tool": "analyze_learner",
+                "args": {"scenario_id": scenario.get("scenario_id", "unknown")},
+                "timestamp": start_time.isoformat(),
+            },
+            {
+                "step": 2,
+                "tool": "analyze_context",
+                "args": {"scenario_id": scenario.get("scenario_id", "unknown")},
+                "timestamp": start_time.isoformat(),
+            },
+            {
+                "step": 3,
+                "tool": "design_objectives",
+                "args": {"scenario_id": scenario.get("scenario_id", "unknown")},
+                "timestamp": start_time.isoformat(),
+            },
+            {
+                "step": 4,
+                "tool": "design_strategy",
+                "args": {"scenario_id": scenario.get("scenario_id", "unknown")},
+                "timestamp": start_time.isoformat(),
+            },
+            {
+                "step": 5,
+                "tool": "develop_lesson_plan",
+                "args": {"scenario_id": scenario.get("scenario_id", "unknown")},
+                "timestamp": start_time.isoformat(),
+            },
+            {
+                "step": 6,
+                "tool": "implement_delivery",
+                "args": {"scenario_id": scenario.get("scenario_id", "unknown")},
+                "timestamp": start_time.isoformat(),
+            },
+            {
+                "step": 7,
+                "tool": "evaluate_create_quiz",
+                "args": {"scenario_id": scenario.get("scenario_id", "unknown")},
+                "timestamp": start_time.isoformat(),
+            },
+        ]
+        return tool_calls
+
+    def _calculate_cost(self, usage: Any) -> float:
+        """API 호출 비용 계산 (USD)"""
+        if not usage:
+            return 0.0
+
+        # GPT-4o 가격 (2024년 기준 근사값)
+        # Input: $5/1M tokens, Output: $15/1M tokens
+        input_cost = (usage.prompt_tokens / 1_000_000) * 5
+        output_cost = (usage.completion_tokens / 1_000_000) * 15
+
+        return round(input_cost + output_cost, 6)

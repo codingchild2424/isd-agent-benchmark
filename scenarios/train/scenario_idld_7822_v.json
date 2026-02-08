@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7822-V",
+  "variant_type": "context_variant",
+  "title": "Integrated E-Learning-Based Remote Science Education System Design",
+  "context": {
+    "prior_knowledge": "Basic Science Theories and Experience with LMS Utilization",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized online courses for enhancing scientific domain competencies. Asynchronous learning environment leveraging learner-owned devices (BYOD).",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain interactions among the four core elements (instructional methods, technology, teaching, and learning) of an integrated e-learning model",
+    "Learners can specify activity sequences and evaluation methods based on LMS when designing remote education in science fields",
+    "Learners can propose at least two interaction strategies for small learner groups in BYOD environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Experiment Simulation Tool",
+      "LMS platform",
+      "Peer Assessment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

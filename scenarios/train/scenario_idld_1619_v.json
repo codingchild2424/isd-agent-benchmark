@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1619-V",
+  "variant_type": "context_variant",
+  "title": "Optimized Information Extraction Design Utilizing Large Language Models",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practice-oriented classes using digital devices (tablets/laptops), with team project-based learning",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can design models optimized for three or more information extraction (IE) tasks by applying Parameter-Efficient Fine-Tuning (PEFT) techniques",
+    "Learners implement an answer selection algorithm that improves structured vs. natural language output mismatches by over 20%",
+    "Learners build an information extraction pipeline achieving F1-scores of 0.85 or higher across five or more public datasets",
+    "Learners can train models using computational resources reduced by over 50% compared to conventional fine-tuning"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GPU Server (Shared Resource)",
+      "Public IE Dataset",
+      "PEFT Library (HuggingFace PEFT)",
+      "Jupyter Notebook Environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

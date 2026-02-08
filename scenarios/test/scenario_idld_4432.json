@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4432",
+  "variant_type": "idld_aligned",
+  "title": "Team Competency Enhancement Program Based on Medical Simulation",
+  "context": {
+    "prior_knowledge": "Foundational Medical Knowledge and Team Collaboration Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Utilizing simulation equipment and virtual patient systems in a BYOD environment, with 5-6 member teams performing role-based practical exercises",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Perform low-level cognitive processes (information summarization, diagnostic review) with 80% accuracy when responding to emergency medical scenarios in simulation environments",
+    "Observe and document peer metacognitive processes (decision-making rationale, role adjustments) at least three times",
+    "Propose two strategies for converting negative emotions (anxiety, frustration) into positive feedback during debriefing sessions",
+    "Achieve an average score of 3/4 or higher on simulation evaluation rubrics (leadership, technical proficiency)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Fidelity Manikin Set (5 Units)",
+      "Virtual Patient Software License",
+      "Video Analysis Tool",
+      "Role-Play Scenario Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

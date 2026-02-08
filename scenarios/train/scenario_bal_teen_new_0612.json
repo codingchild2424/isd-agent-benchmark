@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0612",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] 4C/ID Model-based Basic Electric Circuit Curriculum",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental physics concepts (voltage, current, resistance) required",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Mobile learning environment based on smartphones, supplemented with offline practical sessions",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Identify and explain the functions of basic electrical circuit components (resistors, capacitors, switches, etc.)",
+    "Apply Ohm’s Law to calculate voltage, current, and resistance values in simple series/parallel circuits",
+    "Demonstrate circuit design and problem-solving skills using digital simulation tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible simulation app",
+      "Basic Electronic Components Kit",
+      "Offline Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

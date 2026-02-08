@@ -1,0 +1,148 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://upstage.ai/isd-benchmark/input-schema.json",
+  "title": "ISD Agent 입력 시나리오 스키마",
+  "description": "교수설계 Agent에 전달되는 입력 시나리오의 JSON 스키마",
+  "type": "object",
+  "required": ["scenario_id", "title", "context", "learning_goals"],
+  "properties": {
+    "scenario_id": {
+      "type": "string",
+      "description": "시나리오 고유 식별자",
+      "pattern": "^(EASY|MEDIUM|HARD)-[0-9]{3}$",
+      "examples": ["EASY-001", "MEDIUM-002", "HARD-001"]
+    },
+    "title": {
+      "type": "string",
+      "description": "시나리오 제목",
+      "minLength": 1,
+      "maxLength": 100,
+      "examples": ["신입사원 온보딩 교육", "초등학생 코딩 교육"]
+    },
+    "context": {
+      "type": "object",
+      "description": "학습 맥락 정보",
+      "required": ["target_audience", "duration", "learning_environment"],
+      "properties": {
+        "target_audience": {
+          "type": "string",
+          "description": "학습 대상자",
+          "examples": ["신입사원 (대졸, IT 기업)", "초등학교 3-4학년"]
+        },
+        "prior_knowledge": {
+          "type": "string",
+          "description": "사전 지식 수준",
+          "examples": ["기본 컴퓨터 활용 능력", "프로그래밍 경험 없음"]
+        },
+        "duration": {
+          "type": "string",
+          "description": "학습 시간",
+          "pattern": "^[0-9]+(시간|분|일|주)$",
+          "examples": ["2시간", "90분", "1주"]
+        },
+        "learning_environment": {
+          "type": "string",
+          "description": "학습 환경",
+          "enum": ["온라인 동기 학습", "온라인 비동기 학습", "오프라인 대면", "블렌디드"],
+          "examples": ["온라인 비동기 학습"]
+        },
+        "class_size": {
+          "type": "integer",
+          "description": "학습자 수",
+          "minimum": 1,
+          "examples": [20, 50, 100]
+        },
+        "additional_context": {
+          "type": "string",
+          "description": "추가 맥락 정보"
+        }
+      }
+    },
+    "learning_goals": {
+      "type": "array",
+      "description": "학습 목표 목록",
+      "minItems": 1,
+      "maxItems": 10,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "examples": [
+        ["회사 문화와 가치를 이해한다", "업무 프로세스를 설명할 수 있다"]
+      ]
+    },
+    "constraints": {
+      "type": "object",
+      "description": "제약 조건",
+      "properties": {
+        "budget": {
+          "type": "string",
+          "description": "예산 수준",
+          "enum": ["low", "medium", "high"],
+          "examples": ["low"]
+        },
+        "resources": {
+          "type": "array",
+          "description": "사용 가능한 자료 유형",
+          "items": {
+            "type": "string",
+            "enum": ["PPT", "동영상", "퀴즈", "시뮬레이션", "게임", "워크시트", "토론", "실습"]
+          },
+          "examples": [["PPT", "동영상", "퀴즈"]]
+        },
+        "accessibility": {
+          "type": "array",
+          "description": "접근성 요구사항",
+          "items": {
+            "type": "string"
+          },
+          "examples": [["자막 필수", "색약 고려"]]
+        },
+        "language": {
+          "type": "string",
+          "description": "콘텐츠 언어",
+          "default": "ko",
+          "examples": ["ko", "en"]
+        }
+      }
+    },
+    "difficulty": {
+      "type": "string",
+      "description": "시나리오 난이도",
+      "enum": ["easy", "medium", "hard"],
+      "examples": ["easy"]
+    },
+    "domain": {
+      "type": "string",
+      "description": "교육 도메인",
+      "enum": ["기업교육", "K-12", "고등교육", "성인교육", "직업훈련"],
+      "examples": ["기업교육"]
+    },
+    "metadata": {
+      "type": "object",
+      "description": "메타데이터",
+      "properties": {
+        "version": {
+          "type": "string",
+          "description": "시나리오 버전"
+        },
+        "author": {
+          "type": "string",
+          "description": "작성자"
+        },
+        "created_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "생성 일시"
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "태그"
+        }
+      }
+    }
+  }
+}

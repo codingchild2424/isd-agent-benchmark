@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7025",
+  "variant_type": "idld_aligned",
+  "title": "PBL-CBT Integrated Instructional Design for Ultrasound Practical Training",
+  "context": {
+    "prior_knowledge": "Basic ultrasound equipment operation and medical terminology comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Hybrid learning environment combining VR simulations and real-case analysis for skill-based training targeting in-service professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can distinguish normal/abnormal findings in ultrasound images (sonograms) with 80% accuracy.",
+    "Learners can design three ultrasound protocols required for differential diagnosis in given clinical cases.",
+    "Learners can perform standard ultrasound examination procedures in a VR simulation environment with 90% completion rate."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Resolution VR Ultrasound Simulator",
+      "Diverse Clinical Case Database",
+      "Normal/Abnormal Sonogram Library",
+      "Real-time feedback system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

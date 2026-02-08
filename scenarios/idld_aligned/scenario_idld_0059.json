@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0059",
+  "variant_type": "idld_aligned",
+  "title": "Gradual Guidance Reduction Instructional Design for Open Chemistry Experiments",
+  "context": {
+    "prior_knowledge": "Basic chemistry lab skills and understanding of chemical reaction principles",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducts chemistry experiments in VR simulation environments, cultivating problem-solving skills by virtually replicating real lab equipment malfunctions.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can propose solutions through scientific reasoning when unexpected experimental results occur",
+    "Learners can autonomously develop experimental plans according to a gradual guidance reduction strategy in VR-based laboratory environments",
+    "Learners can lead collaborative problem-solving processes based on responsibility allocation within experimental groups"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Laboratory Equipment",
+      "Chemical Experiment Simulation Software",
+      "Individual Tablet PCs",
+      "Experimental Error Scenario Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

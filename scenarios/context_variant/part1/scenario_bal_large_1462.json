@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-1462",
+  "variant_type": "balance_large_scale",
+  "title": "[Massive] Advanced Microbiology Inquiry via Virtual Reality: Project-Based Learning",
+  "context": {
+    "prior_knowledge": "Basic biology and introductory microbiology knowledge, with practical experience in medical/technical fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners access VR environments via smartphones, focusing on visualizing complex microbial structures. Project outcomes assess field applicability",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze 3D models of microbial cell structures in a VR environment and identify key organelles with 90% accuracy",
+    "Through PBL team projects, learners can develop solutions applying microbiology theories to real-world medical/technical problems",
+    "Learners can compare differences in learning effectiveness based on VR immersion levels and incorporate findings into instructional design"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Headset (Google Cardboard-Compatible Device)",
+      "Microbiology 3D Modeling VR Content Library",
+      "PBL Collaboration Tools (Online Whiteboard, Document Sharing System)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

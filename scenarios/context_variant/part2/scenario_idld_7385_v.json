@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7385-V",
+  "variant_type": "context_variant",
+  "title": "AI-Based Customized Language Education Intensive Short-Term Course",
+  "context": {
+    "prior_knowledge": "Elementary mobile device proficiency and understanding of primary education curricula",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A process for pre-service teachers to diagnose their competency levels, follow AI-recommended personalized learning pathways, and strengthen language education capabilities through 10–15-minute modular activities in smartphone-based environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can assess their language teaching competency levels with over 80% accuracy using AI-based diagnostic tools",
+    "Learners enhance core competencies by completing over 70% of personalized learning content recommended by the system, including pronunciation correction and grammar guidance strategies.",
+    "Learners participate in over 90% of formative assessments (quizzes, role-play simulations) provided in real-time in mobile environments to receive immediate feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible AI Learning App",
+      "Speech Recognition Module",
+      "Text-to-speech conversion tool",
+      "Offline-Enabled Learning Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

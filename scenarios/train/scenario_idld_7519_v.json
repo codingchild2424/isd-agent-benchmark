@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7519-V",
+  "variant_type": "context_variant",
+  "title": "Machine Learning Practical Competency Enhancement: Gamification Workshop for Self-Management of Inflammatory Bowel Disease (IBD)",
+  "context": {
+    "prior_knowledge": "Understanding fundamental IBD symptoms and treatment concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain IBD symptom tracking and dietary management methods with 80% accuracy",
+    "Participants can set and execute three or more daily self-management goals using a gamification app",
+    "Based on app usage records for two weeks post-education, learners evaluate self-management sustainability at ≥70%"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1392",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Learning Object-Based Set Covering Mathematics Education Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts (sets, functions, equations)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A mathematics education course that integrates real-time interaction and project-based assessment in a smartphone-centric, limited-technology environment.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners derive connections between mathematical concepts using set-covering models by analyzing learning object attributes",
+    "Learners can select the top three similar resources from a given learning resource dataset (10 items) using cosine similarity and Jaccard similarity techniques and explain how to apply the selected resources in actual learning scenarios within 500 characters.",
+    "Under given constraints (budget: 1 million KRW, time: 10 hours, resources: 3 types), learners can submit an optimal learning object combination design plan for a math problem-solving project (e.g., logistics route optimization) within one week by applying three optimization techniques (linear programming, genetic algorithms, dynamic programming), and achieve 4 or higher (out of 5) on the evaluation rubric (problem definition clarity, technique applicability, constraint fulfillment, creativity)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Platform",
+      "Mobile-Optimized Learning Management System (LMS)",
+      "Open-Source Mathematics Learning Object Repository",
+      "Collaboration Tools (e.g., Google Docs)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

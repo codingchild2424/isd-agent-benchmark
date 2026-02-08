@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8084",
+  "variant_type": "idld_aligned",
+  "title": "Gamification-Based Language Learning Design",
+  "context": {
+    "prior_knowledge": "Basic language skills (reading/writing) and fundamental ability to operate digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Accessing gamification platforms via personal mobile devices, measuring achievement through project-based assessments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can enhance language learning motivation by 20% or more using gamification elements (badges, leaderboards, storytelling).",
+    "Learners demonstrate language application skills by completing 90% or more of mobile app-based microlearning tasks.",
+    "Learners develop and present a language learning scenario applying gamification design principles through 3–5 member team projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Gamification EdTech Platform",
+      "Mobile-Compatible Learning Content",
+      "Digital Badge Issuance System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

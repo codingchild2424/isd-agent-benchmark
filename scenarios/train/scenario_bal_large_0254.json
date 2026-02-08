@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0254",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Customized Mobile Microlearning Course for Gen Z Nursing Education: Mathematical Modeling-Based Instructional Design",
+  "context": {
+    "prior_knowledge": "Foundational nursing knowledge and professional experience, basic statistical analysis (mean/variance), graph interpretation skills, and understanding of linear regression and probability distributions (normal/Poisson)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized educational program for workers aged 40+ reflecting the characteristics of Gen Z nursing learners and the educational needs of digital native generations. Application of probabilistic distribution modeling (Bayesian networks) for learning data analysis and t-test/chi-square test methods for verifying educational effectiveness.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze the learning curve of educational content reflecting Gen Z learners' preference for digital environments using exponential and logistic curve modeling.",
+    "Learners can develop learning effectiveness optimization equations (e.g., linear programming) and time allocation algorithms (e.g., dynamic programming) using mobile-based microlearning strategies.",
+    "Learners can establish an A/B test experimental design that verifies the statistical significance (p-value < 0.05) of customized teaching methods considering generational trait differences and improves educational satisfaction by 15%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Video Production Tools",
+      "Interactive Quiz Template",
+      "Generational learning style analysis materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

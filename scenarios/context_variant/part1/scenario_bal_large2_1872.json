@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1872",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Survey-Based Competency Assessment Program for Entrepreneurship Development",
+  "context": {
+    "prior_knowledge": "Understanding of basic entrepreneurship concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Competency assessment and feedback provision using smartphone-based survey tools",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can evaluate the five core competencies required for entrepreneurship (self-management, problem-solving, leadership, creativity, communication).",
+    "Learners can identify their strengths and areas needing improvement based on survey results.",
+    "Learners can establish individualized competency development plans using analysis results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Optimization Survey Platform",
+      "Entrepreneurship Competency Assessment Questionnaire",
+      "Competency Development Guide PDF Materials",
+      "Weekly learning checklist template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

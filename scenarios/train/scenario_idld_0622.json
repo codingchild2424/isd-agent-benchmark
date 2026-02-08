@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0622",
+  "variant_type": "idld_aligned",
+  "title": "Scaffolding-Based Blended Education Program for Strengthening College Mathematics and Statistics Competencies",
+  "context": {
+    "prior_knowledge": "High school-level foundational mathematics and statistical knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Education utilizing interactive platforms accessible in smartphone-centric limited-technology environments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve basic college-level mathematical and statistical problem-solving skills with over 80% accuracy after 6 months.",
+    "Learners acquire the ability to analyze and reconstruct complex mathematical concepts step-by-step through scaffolding techniques.",
+    "Learners can establish a 4-week learning plan using metacognitive strategies (learning journaling, goal setting, self-assessment, etc.), achieve ≥80% progress rate relative to the plan based on weekly reflective journals, and attain ≥4 out of 5 points on a final self-assessment report at the course’s conclusion.",
+    "Learners complete the process of recognizing and correcting error patterns through a real-time feedback system with over 90% success."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Free Interactive Platforms (e.g., Genially.com, Canva)",
+      "Smartphone-Compatible Learning Materials",
+      "Offline workbooks",
+      "Basic Calculator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2779",
+  "variant_type": "idld_aligned",
+  "title": "Fuzzy Logic-Based QFD Strategy for Selecting e-Learning Service Providers",
+  "context": {
+    "prior_knowledge": "Basic e-learning concepts and foundational understanding of quality management",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Cultivates practical problem-solving skills for professionals via real-time video instruction in smartphone-centric restricted technology environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Five quality requirements for selecting e-learning service providers are derived using fuzzy logic-based methods",
+    "Correlations between supplier evaluation criteria are analyzed using the QFD House of Quality (HOQ) matrix",
+    "Optimal suppliers are selected through hands-on practice of fuzzy data defuzzification processes applying the CFCS technique"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone app-based collaboration tools",
+      "QR code survey distribution system",
+      "Zoom real-time whiteboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1853",
+  "variant_type": "idld_aligned",
+  "title": "Spatial Arrangement and Cognitive Load Management in Augmented Reality Environments",
+  "context": {
+    "prior_knowledge": "Understanding basic augmented reality (AR) concepts and foundational pedagogical knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Pre-service/in-service teachers design augmented reality-based instructional materials for real classrooms, learn flexibly via personal devices, and demonstrate application skills through project-based assessments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the impact of horizontal/vertical information placement on cognitive load in AR environments.",
+    "Learners can apply principles for optimal spatial layout design during procedural content interactions.",
+    "Learners can improve AR learning environment designs by analyzing pupil dilation and fixation duration data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR development tools (Unity/Meta Spark, etc.)",
+      "Cognitive Load Measurement Software",
+      "Procedural science experiment content samples"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

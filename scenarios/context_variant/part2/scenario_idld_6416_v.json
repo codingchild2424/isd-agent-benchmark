@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6416-V",
+  "variant_type": "context_variant",
+  "title": "Representative Learning Design Simulation for Improving Tennis Serve Techniques",
+  "context": {
+    "prior_knowledge": "Understanding basic tennis strokes and serve mechanics",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Utilization of low-spec VR simulation tools based on smartphones, offering a three-tier representative learning environment reflecting actual match situations (simple serve, opponent response, three-ball rally).",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve over 85% accuracy in first/second serve precision within a three-stage simulation environment resembling actual matches",
+    "Learners strategically adjust serve angles and landing points to exploit opponents’ weaknesses with over 70% effectiveness",
+    "Learners can perform each of the speed serve (within 30 seconds) and accuracy serve (80% target hit rate) strategies five or more times in a badminton simulation and select appropriate serve types based on given situations (score difference, opponent’s defensive position) with 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible VR Headset",
+      "Tennis Serve Motion Sensor",
+      "Representational Learning Assessment Checklist",
+      "VR Simulation Software License"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

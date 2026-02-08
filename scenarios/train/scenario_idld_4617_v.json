@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4617-V",
+  "variant_type": "context_variant",
+  "title": "Design and Operation of a Single-Mode Language Tutoring System for Students with Learning Disabilities",
+  "context": {
+    "prior_knowledge": "Understanding of basic educational technology and methods for supporting students with learning disabilities, experience in teaching grammar and vocabulary in language education",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Exploring the design and operation of intelligent tutoring systems for pre-service/in-service teachers to support students with learning disabilities in language education. Developing personalized language teaching methodologies through individual text analysis, writing feedback, and reading proficiency assessment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Develop the ability to design intelligent tutoring system interfaces for integrated reading-writing support while monitoring emotional states and cognitive load of students with learning disabilities.",
+    "Acquire skills to develop language learning content using single-mode instructional methods and measure the effectiveness of reading-comprehension and expression enhancement.",
+    "Cultivate the ability to analyze learner language responses using SVM classification techniques and derive personalized vocabulary/grammar feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AI-based tutoring system prototype",
+      "Learner emotion/cognitive load measurement tool",
+      "BYOD-Compatible Learning Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0629",
+  "variant_type": "balance_teen_filtered",
+  "title": "Mathematical Inquiry Projects Through Wiki-Based Collaborative Learning (K-12)",
+  "context": {
+    "prior_knowledge": "Basic Mathematical Concepts and Experience with Online Collaboration Tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducted in a smartphone-centric, technology-constrained environment, this program operates with a focus on formative assessments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can document a mathematical inquiry process in three or more stages using a wiki platform.",
+    "Learners can improve wiki content by reflecting on peer feedback five or more times in a collaborative learning environment.",
+    "Over 1–6 months, learners develop ≥1 mathematical model (linear regression, optimization models, etc.) applicable to real-world cases (e.g., school meal optimization, traffic flow analysis) through inquiry-based problem-solving (problem definition → data collection → model design → validation), achieving ≥'B' (80–89 points) in ≥2 of 3 teacher evaluation rubric items (problem suitability, model accuracy, practicality)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Wiki Platform",
+      "Zoom Account",
+      "Digital Assessment Rubric",
+      "Mathematics Inquiry Guidelines Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

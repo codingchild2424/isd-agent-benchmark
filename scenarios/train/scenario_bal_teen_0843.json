@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0843",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Optimal Decision-Making Strategy Design Using Reinforcement Learning Policy Iteration",
+  "context": {
+    "prior_knowledge": "Elementary statistics, linear algebra, and fundamental concepts of control theory",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Education centered on applied reinforcement learning case studies integrated with mathematics curriculum",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the reinforcement learning policy iteration process through policy evaluation and improvement stages.",
+    "Learners can apply optimal control approximation techniques to case studies in output feedback systems.",
+    "Learners can interpret simulation results utilizing policy transformation characteristics in offline environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Lecture-Ready PPT Templates",
+      "Python-based simulation tools",
+      "Policy Iteration Algorithm Workflow Chart",
+      "Curriculum-Aligned Case Study Resource Compilation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

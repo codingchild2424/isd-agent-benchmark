@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2781-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Nursing Practice Competencies: Simulation-Based Parachute Descent Procedure Training Course",
+  "context": {
+    "prior_knowledge": "Understanding of basic aircraft structures and emergency response principles",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Can explain the five-step safety check procedure during parachute descent with 90% accuracy",
+    "Can determine the appropriate timing for parachute deployment in emergency scenarios with a simulation success rate of over 85%",
+    "Can accurately reproduce emergency procedures three or more times using standard communication protocols with team members"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

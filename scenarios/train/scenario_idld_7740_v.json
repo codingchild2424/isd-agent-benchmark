@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7740-V",
+  "variant_type": "context_variant",
+  "title": "Failure-Based Language Learning Design: Strategic Error Utilization Course",
+  "context": {
+    "prior_knowledge": "Elementary language proficiency and mastery of job-related basic vocabulary",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course emphasizing converting real workplace language errors into learning materials, targeting working professionals accessing content via mobile devices (smartphones) in limited-technology environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyzing linguistic failure cases in real business situations to develop at least three strategic response approaches",
+    "Reducing grammatical/vocabulary errors in business document writing by over 80% through intentional error generation-correction cycles",
+    "Identifying error patterns at least three times and proposing improvement measures using a feedback framework that evaluates peer learners' failure cases"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Text/Audio-Based Error Case Database",
+      "Peer feedback template",
+      "Error Analysis Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

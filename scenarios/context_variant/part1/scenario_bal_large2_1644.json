@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1644",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Spaced Learning Strategy Workshop for Improving Medical Knowledge Retention",
+  "context": {
+    "prior_knowledge": "Knowledge of basic medical principles and clinical practice experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized medical education program for in-service professionals, measuring learning effectiveness through project-based assessment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can achieve a retention rate of over 80% for medical knowledge using spaced learning strategies",
+    "Learners can convert core clinical knowledge into long-term memory through three or more repetitions of learning",
+    "Learners can reduce cognitive load by 30% using summary materials provided at 5-minute intervals"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Medical Core Concept Summary Handout",
+      "Interval Timer",
+      "Offline activity worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

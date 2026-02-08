@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0071",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Workshop on Analyzing Secondary Mathematics Learning Complexity Based on Cognitive Load Theory",
+  "context": {
+    "prior_knowledge": "Middle school-level mathematical concepts (e.g., fraction operations)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-time interactive workshops conducted in smartphone-based limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can distinguish between knowledge complexity (intrinsic interaction elements) and task complexity (extraneous interaction elements) in fraction operations with 80% accuracy.",
+    "Learners can classify the complexity of given math problems into three levels (low/medium/high) by applying the Cognitive Load Theory framework.",
+    "Learners can propose three strategies to reduce cognitive load encountered during math problem-solving based on analytical results."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Zoom Platform",
+      "Mobile-Optimized PDF Worksheet",
+      "Google Forms Survey Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

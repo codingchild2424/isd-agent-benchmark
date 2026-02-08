@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8713-V",
+  "variant_type": "context_variant",
+  "title": "Concept Map-Based Customized Science Learning Course",
+  "context": {
+    "prior_knowledge": "Basic scientific concepts and understanding of research methodologies",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners can access simple digital resources using smartphones, and learning outcomes are measured through project-based assessments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design personalized science learning pathways using Educational Concept Maps (ECMs).",
+    "Learners can select core concepts and diagnose prior knowledge gaps based on self-assessment.",
+    "Learners can organize a learning material system considering interconnections between concepts and apply it to project tasks."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science concept map template",
+      "Learning resource library (PDF/images)",
+      "Mobile-compatible assessment tool",
+      "Offline collaboration activity kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

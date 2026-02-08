@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7950-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Simulation Course for Adaptive Mathematics Learning Environments and Identity Formation",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts (functions, calculus, statistics)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhancing self-directed learning competencies by reducing social distance between learners and instructors through collaboration in smartphone-based VR simulations for mathematical problem-solving",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve real-world problems through mathematical modeling in VR environments.",
+    "Learners will solve at least three given mathematical problems (e.g., optimization, differential equation modeling) in project-based collaboration within four-member teams, and write/report presentations meeting at least four of five team adaptation strategy checklist items (problem decomposition, resource allocation, feedback incorporation).",
+    "Learners develop their identity as mathematics learners through iterative feedback in a simulated environment",
+    "Learners continuously monitor their learning outcomes through formative assessments (quizzes, peer assessment, self-assessment)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR Devices (30+ units)",
+      "Cloud-Based Simulation Platform",
+      "Small-Group Mentoring Sessions (Once Per Semester)",
+      "Learning Management System (LMS) Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1239",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Learner-Centered E-Learning System Design: Short-Term Intensive Course for Practical Application",
+  "context": {
+    "prior_knowledge": "Basic LMS (Learning Management System) usage skills and online learning experience, foundational knowledge in science",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhancing competency in designing customized e-learning systems to improve workplace efficiency for practicing professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design e-learning content structures based on learner needs analysis",
+    "Learners can evaluate LMS interfaces containing interactive elements according to user experience (UX) principles",
+    "Learners can analyze formative assessment data to develop content improvement plans"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform Core Features",
+      "Interaction Design Template",
+      "Formative Assessment Tool",
+      "BYOD Environment Testing Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

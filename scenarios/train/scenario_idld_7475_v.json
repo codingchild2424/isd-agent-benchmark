@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7475-V",
+  "variant_type": "context_variant",
+  "title": "Foundational Collaborative Programming Workshop for Pre-Service Elementary Teachers",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for pre-service teachers to strengthen collaborative competencies in developing simple math education programs.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners improve communication efficiency by 80% or more through role rotation (driver/navigator) in pair programming",
+    "Learners correct logical errors occurring during collaborative work with a partner at least three times using collaborative problem-solving strategies",
+    "Learners complete a math modeling project through ≥3 iterative feedback cycles (e.g., daily scrums) within a goal-oriented collaboration process (e.g., Kanban board), submitting a report meeting ≥4 of 5 peer-evaluation rubric items (≥80%)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online IDE (e.g., Replit)",
+      "Collaborative worksheet",
+      "Screen Sharing Tools",
+      "Digital Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

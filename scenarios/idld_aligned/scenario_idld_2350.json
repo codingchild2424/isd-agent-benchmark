@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2350",
+  "variant_type": "idld_aligned",
+  "title": "Systematic Game-Based Intervention Program for Students with Mathematical Learning Disabilities",
+  "context": {
+    "prior_knowledge": "Basic computational skills and foundational elementary mathematics concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Targeting students diagnosed with learning disabilities or learners with math foundational skills at 10-16th percentile, featuring intensive 5-day weekly sessions",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners demonstrate a 25% or greater improvement in understanding fraction/decimal concepts within two weeks.",
+    "Learners maintain 80% operational accuracy through daily 10-minute math games over four weeks.",
+    "Learners achieve scores at or above the 25th percentile on standardized math assessments upon program completion."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account, Digital Whiteboard Tool",
+      "Customizable Math Game Platform (e.g., Prodigy Math Game)",
+      "Math Assessment Tool for Research Developers",
+      "Weekly Progress Tracking Sheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

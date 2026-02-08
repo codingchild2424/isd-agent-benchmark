@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3268-V",
+  "variant_type": "context_variant",
+  "title": "Computer-Assisted Scientific Vocabulary Acquisition Program Design",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized scientific vocabulary learning for office/administrative professionals, emphasizing workplace relevance",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can acquire over 300 specialized science vocabulary terms with 80% accuracy within 12 weeks using CAVA software.",
+    "Learners achieve a 90% or higher matching rate in vocabulary meaning-linking activities (word-definition-image).",
+    "Learners score 85 or higher on weekly vocabulary quizzes for three consecutive attempts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS-Integratable CAVA Software Prototype",
+      "Science Vocabulary Database",
+      "Responsive Web Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

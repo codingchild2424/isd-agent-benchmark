@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4577-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Medical Practice Competencies: Wireless Network Security Fundamentals—Simulation-Based Detection Training",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain three or more types of attacks that can occur in Wi-Fi networks",
+    "Students can identify anomalous traffic with 80% accuracy using packet analysis tools in a simulated environment",
+    "Students can complete a project applying security enhancement measures (encryption, MAC filtering, etc.) in a VR-based scenario"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Records (EMR) System",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

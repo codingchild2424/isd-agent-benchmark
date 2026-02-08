@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0499",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] University Educational Activity Internal Evaluation System Development Project",
+  "context": {
+    "prior_knowledge": "Fundamental assessment methodologies and understanding of curriculum design",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Team-based project execution in constrained environments using smartphone-based collaboration tools",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners, in 4-member teams, design a draft evaluation indicator system for vocational training programs through PBL (Problem-Based Learning) activities. They submit a result meeting ≥4 of 5 rubric criteria (clarity, measurability, feasibility, relevance, time constraints) within 5 days.",
+    "Learners design a process to collect and analyze ≥3 types of indoor/outdoor environmental data (temperature, humidity, illuminance) ≥5 times within a week using Google Forms, SensorLog app, and a basic sensor kit. They generate two visualization types (bar graphs, tables) and write a report applying ≥3 data error verification criteria (e.g., time consistency, unit uniformity, outlier checks).",
+    "Learners complete an educational activity evaluation system prototype using Figma or low-code tools (e.g., Bubble, Adalo) within a week. The prototype includes data input, automated scoring (≥90% accuracy), and visualization report generation, passing ≥2 of 3 predefined user scenarios. Evaluation uses a rubric: functionality (40%), scenario pass rate (40%), UI/UX suitability (20%)."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "One Smartphone per Learner",
+      "Collaboration Apps (e.g., Google Workspace)",
+      "Basic Statistical Analysis Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

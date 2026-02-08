@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3501-V",
+  "variant_type": "context_variant",
+  "title": "Language Acquisition Simulation Course Applying a Systematic Training Model",
+  "context": {
+    "prior_knowledge": "Basic Language Comprehension Skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A process of experiencing language use scenarios similar to real-life situations in a VR environment, applying a step-by-step designed training model to systematically develop learners' language proficiency.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can use over 500 basic vocabulary items required for daily life with 80% or higher accuracy through VR simulation.",
+    "Learners apply conversational strategies suitable for over 10 real-life scenarios (shopping, travel, work, etc.) in a simulated environment with a success rate of over 70%.",
+    "Learners reduce grammatical errors by over 50% and implement appropriate intonation/stress patterns by over 60% when using the language."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Devices",
+      "LMS platform",
+      "Interactive Simulation Software",
+      "Language Assessment Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

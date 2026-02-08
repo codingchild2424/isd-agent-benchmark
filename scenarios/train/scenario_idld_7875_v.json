@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7875-V",
+  "variant_type": "context_variant",
+  "title": "Analysis of the Effectiveness of Free-Viewing-Based Multimedia Mathematics Learning Materials Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic math concepts and ability to solve secondary-level math problems",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Analysis of learning effects based on the combination of visual and text elements in a smartphone-based learning environment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the optimal combination of visual elements and text in multimedia materials they freely access",
+    "Learners can understand and apply cognitive load measurement methods using EEG brainwave and eye-tracking data",
+    "Learners can propose improvement strategies considering learners' emotional responses (interest/fatigue) when designing multimedia learning materials"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible multimedia materials",
+      "Eye-Tracking Software",
+      "Portable EEG Measurement Device (Optional)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

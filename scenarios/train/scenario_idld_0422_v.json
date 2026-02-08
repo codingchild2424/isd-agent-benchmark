@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0422-V",
+  "variant_type": "context_variant",
+  "title": "Self-Regulated Learning-Based Online Asynchronous Education for Enhancing Secondary Statistics and Data Science Teaching Competencies",
+  "context": {
+    "prior_knowledge": "Basic Statistical Concepts and General Understanding of Data Science",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners explore statistics and data science teaching methods applicable in secondary education, developing pedagogical competencies based on self-directed learning experiences. Combines real-time feedback and flexible learning experiences through blended online asynchronous environments and face-to-face sessions",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design effective instructional materials using data visualization tools (e.g., Tableau, Python) in secondary statistics education.",
+    "Learners can apply self-regulated learning strategies to analyze the educational context of statistical concepts (e.g., standard deviation, regression analysis) and apply them to classroom activities.",
+    "Learners can evaluate peers' instructional designs through a peer feedback system and improve their own teaching methods based on feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Data Visualization Software",
+      "Open-Source Statistical Dataset",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

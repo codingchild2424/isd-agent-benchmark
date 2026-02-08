@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8259-V",
+  "variant_type": "context_variant",
+  "title": "SDG Learning Program for Collaborative Mathematics Terminology and Concept Acquisition",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Collaborative activities centered on mathematical terms and concepts in a single-display groupware (SDG) environment using smartphone apps. Groups of 4–6 use tablet/smartphone mirroring systems.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can collaboratively explain over 50 intermediate-level mathematical terms in context with peers in an SDG (Sustainable Development Goals) environment.",
+    "Learners can visually model over 10 mathematical concepts (e.g., functions, equations, geometric properties) through group collaboration.",
+    "Learners can systematically document mathematical problem-solving processes collaboratively with peers via project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet mirroring equipment",
+      "SDG-dedicated app license",
+      "Mathematics Concept Card Set",
+      "Whiteboard Markers"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

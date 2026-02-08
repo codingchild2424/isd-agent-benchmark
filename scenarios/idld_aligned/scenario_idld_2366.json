@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2366",
+  "variant_type": "idld_aligned",
+  "title": "Digital Literacy-Integrated University Language Program Design",
+  "context": {
+    "prior_knowledge": "Basic language skills (reading, writing, speaking) and general digital tool usage experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Language-digital integrated education applying a competency-based approach in a limited smartphone-centric technological environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can demonstrate intermediate-level academic writing and communication skills using digital platforms (blogs, SNS, etc.).",
+    "Learners can select credible language materials by applying online information evaluation and critical analysis techniques.",
+    "Learners can perform small-group projects using digital collaboration tools (cloud documents, real-time translation apps, etc.)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile device-compatible LMS platform",
+      "Offline-Online Hybrid Materials (PDF, Audio Files)",
+      "Mobile-Friendly Language Learning Apps (Quizlet, Memrise, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

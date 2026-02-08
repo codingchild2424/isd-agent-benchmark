@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4888",
+  "variant_type": "idld_aligned",
+  "title": "Hyper-Content-Based Independent Learning Material Development: Expert Master Guide Training Course",
+  "context": {
+    "prior_knowledge": "Basic grasp of instructional design principles and experience utilizing digital learning environments",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Social role reinforcement training for professionals in medical, legal, and technical fields.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can produce hypermedia content using a combined design framework based on the Derek Rowntree model and the Borg & Gall model.",
+    "Learners can execute a material development process validated by experts (content, media, language, design) with 85% accuracy.",
+    "Learners can verify the effectiveness of materials through three-stage evaluation group testing (individual → small group → large group)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital authoring tools (HTML5, Articulate 360)",
+      "Module evaluation checklist (expert/learner version)",
+      "Readability measurement tool (Fog Index)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

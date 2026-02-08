@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7134-V",
+  "variant_type": "context_variant",
+  "title": "Purpose-Driven Microlearning to Strengthen Online Interpersonal Interaction Competencies",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A language training program for novice professionals in healthcare, legal, or technical fields, conducted in smartphone-based constrained environments. It focuses on practical training for job scenarios requiring interactive communication and collaboration.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners achieve over 80% participation by utilizing goal-oriented interaction strategies (questioning/feedback/empathy) in online discussion forums.",
+    "Through role-playing activities via mobile messengers, learners perform expert-peer-supporter roles and execute three types of PII (pedagogical, social, and supportive interactions).",
+    "Learners earn an average of 4+ points (on a 5-point scale) in clarity/appropriateness/effectiveness categories through peer evaluation of interaction messages."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Friendly LMS",
+      "Text/audio-based communication tools",
+      "Interactive Assessment Rubric",
+      "Pre-produced 5-minute video case examples"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

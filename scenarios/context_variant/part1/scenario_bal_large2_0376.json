@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0376",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Personalized Online Language Education Design Based on Learning Analytics: Strengthening Workplace Communication Competencies",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and intermediate language proficiency (grammar, vocabulary, basic writing)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Targeting administrators/leaders, this program aims to enhance language competencies required in work environments (formal presentations, negotiations, report writing). Applies a customized content recommendation system based on individual learning patterns and achievement data (participation rates, assessment results).",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can improve workplace language communication skills (speaking, listening, writing) by 30% within 6 months",
+    "Learners can receive weekly recommendations for at least two customized microlearning contents (vocabulary, grammar, expressions) through personalized learning data analysis",
+    "Learning gaps (reading comprehension, writing, pronunciation) can be diagnosed and supplemented every two weeks through formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Learning Analytics Tools",
+      "Custom Content Creation Template",
+      "Real-time feedback feature"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0861",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Enhancing Collaborative Learning Competencies Through Interaction Analysis in Online Learning Communities",
+  "context": {
+    "prior_knowledge": "Basic mathematical knowledge and mobile device usage proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Analyzing interaction patterns and facilitating collaborative learning among large-scale learners in smartphone-based learning environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can distinguish and explain three interaction types—content creation, consumption, and organization—in online community discussions",
+    "Learners can visualize and interpret collaborative learning patterns by utilizing network analysis metrics (distance, reciprocity, influence).",
+    "Learners can propose at least three strategies to facilitate effective interaction with peer learners when solving math problems in a mobile environment."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Network Analysis Visualization Tool (Mobile-Compatible Version)",
+      "Interactive Content for Mathematical Problem-Solving"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Business/HR/Admin Support"
+}

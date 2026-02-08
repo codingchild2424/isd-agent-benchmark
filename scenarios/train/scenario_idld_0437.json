@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0437",
+  "variant_type": "idld_aligned",
+  "title": "Advanced Cardiovascular Life Support (ACLS) Maintenance Course",
+  "context": {
+    "prior_knowledge": "Basic BLS (Basic Life Support) knowledge and intermediate-level medical understanding",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practice-centered education utilizing high-fidelity manikin simulations on a regular basis; microlearning modules combining theory and practice are delivered via mobile platforms",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners maintain 75% or higher accuracy in performing ACLS core skills (medication administration, ECG interpretation, compression rate maintenance) after 120 days.",
+    "Within 120 days of high-fidelity simulation training, learners achieve superior performance in six or more out of eight ACLS skills compared to untrained teams.",
+    "Learners achieve an average score of 3 or higher on a 4-point scale (1–4) for team collaboration ability assessments during emergency scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-fidelity manikins and simulation equipment",
+      "Mobile Learning Platform",
+      "ACLS standard protocol manual",
+      "Practical Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

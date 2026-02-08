@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2091-V",
+  "variant_type": "context_variant",
+  "title": "Discussion-Based Learning Skill Enhancement Program",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A collaborative learning environment fostered through learner interaction, conducted in a smartphone-centric, technology-constrained setting.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can improve their ability to analyze discussion topics and construct logical arguments by at least 80%",
+    "Learners can improve communication skills by at least 70% by incorporating peer feedback",
+    "Learners can strengthen self-directed learning motivation by at least 60% through discussion processes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Discussion Topic Packages",
+      "Streamlined Feedback Tools",
+      "Learning Management System (LMS) Application"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

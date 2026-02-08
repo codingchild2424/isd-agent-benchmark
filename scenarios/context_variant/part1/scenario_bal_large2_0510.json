@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-0510",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Enhancing Scientific Inquiry Skills in Malaysian Primary Science Education Using ChatGPT: Variable Analysis and Evidence-Based Conclusion Drawing",
+  "context": {
+    "prior_knowledge": "Foundational digital literacy, smartphone proficiency, understanding of elementary science basics (experimental design, variable control, observational recording, hypothesis formulation, data analysis, etc.), basic comprehension of the scientific inquiry process, and experience with basic measurement tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Foundational course focusing on designing science lessons using ChatGPT in Malaysian public education. Emphasis on practical approaches implementable in smartphone-based limited environments. Exploration of integrating AI tools into the scientific inquiry process (problem recognition, hypothesis formulation, experimental design, data analysis, conclusion drawing), with a focus on improving the scientific validity of AI-generated content and evidence-based reasoning. Includes low-cost experimental tools and field observation methods tailored to local educational contexts.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners demonstrate how to generate responses with ≥80% accuracy, incorporating ≥3 scientific evidences (e.g., experimental data, observational records, control experiment results) for elementary science questions (e.g., \"What are the variables in photosynthesis?\"). This objective is measured by an end-of-week assessment (correctly answering ≥4 out of 5 questions).",
+    "Identify ≥3 educational applications of generative AI (e.g., personalized learning path design, experimental design support, variable control suggestions) and ≥3 ethical considerations (e.g., data privacy protection, information reliability assessment, scientific validity verification of AI-generated content).",
+    "Plan science inquiry activities using ChatGPT in smartphone environments (e.g., hypothesis formulation, observational data analysis, experimental outcome prediction) and explain how to integrate AI tools into the scientific inquiry process (problem recognition → hypothesis establishment → experimental design → data analysis → conclusion drawing), emphasizing measurement tool selection and data visualization methods.",
+    "Propose ≥2 strategies for maintaining academic integrity when using AI tools (e.g., citation referencing, scientific evidence verification of AI-generated content, peer review process application), considering experimental reproducibility and data recording accuracy."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Zoom Platform",
+      "ChatGPT Web Interface",
+      "Digital Education Guidelines PDF"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

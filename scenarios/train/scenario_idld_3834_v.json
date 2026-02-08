@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3834-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Systems Design Practical Competencies: Scientific Inquiry Through Film Production: Blended Project-Based Learning",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can produce a 2-minute short film explaining scientific principles using smartphones.",
+    "Learners can apply the scientific inquiry method (observation, hypothesis formulation, experiment design) during the filmmaking process.",
+    "Learners can improve the narrative and visual aesthetics of their science films three or more times through peer feedback."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

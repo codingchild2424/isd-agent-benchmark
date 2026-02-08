@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7966",
+  "variant_type": "idld_aligned",
+  "title": "Short-Intensive Team Training Course Based on Medical Simulation",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and patient safety concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Team-based learning environments emphasizing simulation experiences and debriefing using digital devices",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners perform team decision-making processes in high-risk disease simulations with 80% accuracy.",
+    "Through simulation-based debriefing, learners derive at least three strategies to improve team collaboration.",
+    "Using digital simulation tools, learners apply patient safety management procedures with a 90% completion rate."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile simulation application",
+      "Virtual Patient Scenario Database",
+      "Team Debriefing Guide Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

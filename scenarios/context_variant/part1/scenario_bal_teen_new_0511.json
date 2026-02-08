@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0511",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Consciousness Level Assessment App Development Program Through Problem-Based Learning",
+  "context": {
+    "prior_knowledge": "Basic Mobile App Usage Experience and Intermediate-Level Mathematical Concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A process for pre-service teachers to develop mathematical problem-solving skills while experiencing an educational app development process applicable to real-world medical education contexts",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design two or more core features of a consciousness-level assessment app by applying problem-based learning (PBL) methodologies.",
+    "Learners will be able to utilize mathematical modeling techniques to convert consciousness level measurement scales (e.g., Glasgow Coma Scale) into a digital assessment system.",
+    "Learners will gain experience in collaboratively solving instructional design problems (e.g., user interface optimization) that arise during the development process."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Tools (e.g., Figma, Jamboard)",
+      "Low-Code App Development Platform (e.g., MIT App Inventor)",
+      "Medical Assessment Scale Reference Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

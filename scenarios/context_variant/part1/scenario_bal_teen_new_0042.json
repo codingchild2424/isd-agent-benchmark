@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0042",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Digital-Integrated Microlearning Course for Telemedicine Education and Clinical Skill Development",
+  "context": {
+    "prior_knowledge": "Basic Medical Terminology and Basic Understanding of Digital Learning Platforms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A practice-oriented online course for healthcare job seekers and novice learners, emphasizing situation-based clinical skills training using mobile devices",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain and demonstrate three or more remote diagnosis protocols using digital simulation tools",
+    "Apply five core elements of patient communication skills to real-world cases through mobile-based microlearning modules",
+    "Develop a remote clinical skills assessment framework through project-based assignments incorporating peer evaluation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "3D Clinical Simulation Software",
+      "Virtual Patient Database",
+      "Real-Time Video Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

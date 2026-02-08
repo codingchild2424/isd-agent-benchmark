@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3128-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design Based on Postpartum Hemorrhage (PPH) Management Simulation",
+  "context": {
+    "prior_knowledge": "Fundamental obstetrics and gynecology knowledge and understanding of emergency response",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A practice-centered educational environment using smartphone-based VR simulation tools",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can select and administer appropriate pharmacological treatment (uterotonic agents) within 5 minutes during postpartum hemorrhage (PPH)",
+    "Learners can assess patient status and collaborate with team members according to step-by-step protocols (Stages 1–3) in PPH scenarios",
+    "Through post-simulation self-assessment, learners can recognize potential errors in PPH management and develop improvement plans"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Simulation Kit",
+      "PPH Protocol Video Materials",
+      "Step-by-Step Scenario Worksheets",
+      "Feedback Questionnaire"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

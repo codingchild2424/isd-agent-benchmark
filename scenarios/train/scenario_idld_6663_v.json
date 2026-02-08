@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6663-V",
+  "variant_type": "context_variant",
+  "title": "LMS-Integrated Simulation-Based Social Sector Job Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A social sector job training course using VR simulations in a smartphone-centric LMS environment. Operates as an employment-linked program.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can complete over 85% of four or more social field simulation scenarios via the LMS.",
+    "Learners can demonstrate team project execution capabilities through peer and self-evaluation in VR-based collaborative activities.",
+    "Learners can substantiate three or more job-related competencies using the portfolio system within the LMS."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS System",
+      "VR Headset Rental Kit",
+      "Social Field Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

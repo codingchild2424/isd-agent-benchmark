@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6441-V",
+  "variant_type": "context_variant",
+  "title": "Software Development Competency Enhancement: Machine Learning Design Strategies for Improving TWIP Steel Properties",
+  "context": {
+    "prior_knowledge": "Basic metallurgy and engineering materials knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can interpret microstructure-mechanical property relationship patterns in TWIP steel using SHAP analysis techniques.",
+    "Learners can build predictive models for yield strength, tensile strength, and elongation using machine learning models.",
+    "Learners can propose alloy designs that simultaneously satisfy two performance metrics (yield strength ≥ 550 MPa, strength-ductility product ≥ 50,000 MPa%) using multi-objective optimization strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

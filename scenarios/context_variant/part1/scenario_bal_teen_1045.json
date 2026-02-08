@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-1045",
+  "variant_type": "balance_teen_k12",
+  "title": "Online Design of Science Experiential Learning for [K-12] Special Education",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and general understanding of special education",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Students engage in web-based experiential learning using individual devices, while in-person sessions focus on project feedback and collaborative learning. They explore online content design methods reflecting the needs of special education students with diverse cognitive styles",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners design a web-based experiential learning module considering the cognitive styles (visual, auditory, kinesthetic) of special education students and verify its functional validity through peer evaluation and a checklist (meeting at least 4 out of 5 criteria).",
+    "Learners input scientific experiment data (temperature, mass, time, etc.) into a spreadsheet, analyze patterns in experimental results by calculating averages/deviations and generating graphs (bar/line charts), and write a report meeting at least 2 out of 3 teacher-provided checklist criteria (data accuracy, logical analysis, clarity of visualization).",
+    "Learners apply at least three visual supports (magnifiers, high-contrast materials) and auditory supports (voice descriptions, subtitles) during science-linked experiential activities (plant observation, chemistry experiments) and achieve satisfaction survey scores of 4+ (on a 5-point scale) from over 80% of participating students.",
+    "In a 3-week project-based assessment, learners build a simple solar-powered car and submit a result meeting three evaluation criteria: functionality (driving distance ≥5m), creativity (≥2 unique design elements), and completeness (no structural defects). They also incorporate ≥3 peer feedbacks and propose ≥2 improvement plans (e.g., battery efficiency, lightweight chassis) in a 1-page proposal."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web-Based Experiential Learning Platform",
+      "Multimedia Production Tool",
+      "Learning Analytics Software",
+      "Science Experiment Simulator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

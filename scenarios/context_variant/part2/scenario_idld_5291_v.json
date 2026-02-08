@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5291-V",
+  "variant_type": "context_variant",
+  "title": "Foundations of Mathematical Modeling for Understanding the Interaction Between Organizational Learning and Technological Innovation",
+  "context": {
+    "prior_knowledge": "Basic statistics and understanding of linear regression analysis",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Focuses on case analysis and mathematical modeling using real corporate data",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can interpret mathematical models explaining relationships between organizational learning curves and technological innovation",
+    "Learners can apply nonlinear regression analysis results, including inverted U-shaped curves, to real-world cases",
+    "Learners can quantify the impact of technological innovation levels relative to competitors on organizational learning"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "European Corporate Survey Data Samples",
+      "Statistical Software (R/Python) Installation Device",
+      "Learning Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

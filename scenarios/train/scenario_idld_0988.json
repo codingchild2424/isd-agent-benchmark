@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0988",
+  "variant_type": "idld_aligned",
+  "title": "Network Design Simulation Process Utilizing Iterative Learning Control",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental network concepts and general comprehension of control systems",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Network control design training for office/administrative professionals to strengthen language-domain job competencies",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Within four repeated simulations, learners can explain the principles of utilizing static/dynamic segments in the FlexRay protocol",
+    "Through at least three practical assessments in VR environments, learners can design control systems applying communication bandwidth optimization",
+    "In project-based assignments, learners can quantitatively compare performance improvements (over 20%) of periodic ILC strategies versus traditional ILC"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "FlexRay Protocol Simulator",
+      "Network-Controlled VR Module",
+      "Iterative Learning Algorithm Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

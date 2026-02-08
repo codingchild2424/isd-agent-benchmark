@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4431-V",
+  "variant_type": "context_variant",
+  "title": "Mechanical Engineering Vocational Experience Learning: Practice-Centered Online Short-Term Course",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Asynchronous classes operated on smartphone-based LMS platforms, where learners connect theory with practice by analyzing mechanical systems encountered in daily life",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles of mechanical systems by connecting them to three real-world examples (e.g., bicycle gears, automatic door mechanisms).",
+    "Learners must complete and submit a worksheet utilizing Kolb’s Experiential Learning Model (Concrete Experience–Reflective Observation–Conceptualization–Active Experimentation) with at least 80% accuracy.",
+    "Learners collaboratively propose and exchange feedback on mechanical design problem-solving strategies with peers in online discussion forums at least twice."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "PDF worksheets",
+      "Video Simulation Materials",
+      "Mobile-Optimized LMS Platform",
+      "Simple Mechanical Assembly Kit (Optional)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1423",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Blended Collaborative Learning Course to Improve Engagement in [Large-Scale] Non-IT Subjects",
+  "context": {
+    "prior_knowledge": "Foundational science knowledge and managerial-level leadership experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended instruction based on the ELIS (eLearning Integrated System) and practice-linked collaborative learning environments utilizing digital devices",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain core concepts of non-IT science subjects with 80% or higher accuracy using ELIS.",
+    "Through collaborative learning activities (group projects/discussions), learners propose three or more problem-solving strategies applicable to real-world work scenarios.",
+    "Learners establish self-directed learning habits, securing five or more hours per week for non-IT subject learning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ELIS Platform Access Permissions",
+      "Digital Learning Resource Set",
+      "Collaborative Tools for Group Activities (e.g., Slack, Notion)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

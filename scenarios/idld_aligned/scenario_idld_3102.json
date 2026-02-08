@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3102",
+  "variant_type": "idld_aligned",
+  "title": "Game-Based VR Simulation Education for STEAM Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Understanding of basic science and mathematics concepts, along with digital device proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "VR environment construction utilizing personal devices (BYOD), with performance measurement through project-based assessment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can apply convergent thinking (STEAM) in the scientific problem-solving process through game mechanics.",
+    "Learners can create innovative prototypes using engineering design principles in a VR simulation environment.",
+    "Participants can generate communication outputs combining data analysis and artistic expression in game-based projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "STEAM VR content packages for education",
+      "Multiplatform game development tools",
+      "3D Modeling Software",
+      "Collaborative Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

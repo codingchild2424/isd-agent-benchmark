@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8294-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Artificial Intelligence Practical Competencies: Comparative Analysis of Attitude Learning Assessment Strategies for Mathematics Learning Effectiveness",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the differences between cognitive learning assessments (quizzes) and behavioral learning assessments (individual projects).",
+    "Learners can accurately diagnose their own attitude changes using a self-assessment scale with over 75% accuracy.",
+    "Learners can compare the strengths and weaknesses of the two assessment methods and select strategies appropriate to their learning context."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

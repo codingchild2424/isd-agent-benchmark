@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-1051",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Simulation-Based Science Education Design Project",
+  "context": {
+    "prior_knowledge": "Understanding Basic Scientific Theories and Experimental Methodologies",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "VR technology-based science education content development and evaluation project implementation.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design and implement science experiment simulations in VR environments to produce content aligned with educational objectives",
+    "Iteratively improve their instructional design projects through peer evaluation",
+    "Analyze senior peers' educational artifacts using web-based collaborative platforms and incorporate findings into their own designs"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR development software licenses",
+      "Science lab simulation template",
+      "Online Collaboration Platform Account",
+      "Instructional Design Guidelines Document"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

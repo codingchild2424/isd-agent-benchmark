@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2842",
+  "variant_type": "idld_aligned",
+  "title": "Improving Mathematics Project-Based Education Through MOOC Design Quality and Learner Assessment Evaluation",
+  "context": {
+    "prior_knowledge": "Understanding of elementary mathematical concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A mathematics education course for professionals conducted in smartphone-centric, limited-technology environments, requiring practical project design to enhance workplace applicability.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design and evaluate a mathematics PBL (Project-Based Learning) process by applying ten instructional design principles",
+    "Learners can identify positive/negative elements in peer assessment feedback with 80% accuracy using sentiment analysis tools",
+    "Learners can independently develop mathematics problem-solving projects reflecting collaborative, differentiated, and collective knowledge design elements"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Sentiment Analysis Software",
+      "Open-Source Tools for Mathematics Education"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6161",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Course for Agricultural R&D Innovation",
+  "context": {
+    "prior_knowledge": "Basic agricultural techniques and understanding of research methodologies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course for learners in managerial/leadership roles to learn immediately applicable agricultural technology innovations in the field",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain three or more problem-solving strategies using digital technologies in agricultural R&D fields",
+    "Learners can complete over 80% of microlearning content provided through mobile platforms and pass formative assessments",
+    "Learners can perform knowledge-sharing activities with peer learners using digital collaboration tools at least once weekly"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Moodle Learning Management System (LMS)",
+      "Agricultural R&D expert video lecture",
+      "Interactive Quiz Template",
+      "BYOD-compatible content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

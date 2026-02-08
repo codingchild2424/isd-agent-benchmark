@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7264",
+  "variant_type": "idld_aligned",
+  "title": "Learning Design Incorporating Math Education Video Captioning",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Mathematics Concepts and Secondary-Level Science Knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Flexible learning schedules and guaranteed smartphone-based accessibility for working adult learners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately understand at least 80% of specialized terminology and complex explanations using math video subtitles",
+    "Learners can effectively link visual explanations and audio narration through subtitles at least 70% of the time",
+    "Learners can self-directively review difficult math concepts at least 90% of the time using the pause/repeat functions of subtitles"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Math Video Tutorials",
+      "Automated Caption Generation Tool",
+      "Subtitle Editing Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

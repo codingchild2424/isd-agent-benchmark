@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0395",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Customized Mathematics Education Design Based on Learning Analytics: Optimization Using Equations, Statistics, and Graphs",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts (algebra, geometry, statistics) and experience using online learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Case-driven instructional design to strengthen workplace relevance for current professionals: utilizes real classroom mathematics problem-solving cases (student-specific error pattern analysis, graph interpretation skill enhancement strategies).",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Identify individual math learning patterns (e.g., equation-solving time, accuracy in statistics problems) with over 80% accuracy using learning analytics tools.",
+    "Design and apply a personalized feedback system based on learning data (problem-solving records, error pattern analysis) at least three times.",
+    "Analyze formative assessment results (e.g., function graph interpretation, probability calculation error patterns) and implement learning path adjustments with over 90% participation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Learning Analytics Dashboard Template",
+      "Zoom Video Conferencing System",
+      "Google Forms-Based Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

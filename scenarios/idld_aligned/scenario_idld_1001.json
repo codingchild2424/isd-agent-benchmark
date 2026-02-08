@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1001",
+  "variant_type": "idld_aligned",
+  "title": "Digital Music Education for Ethnic Instruments: Developing Creative Performance Techniques Using an Automated Composition Model",
+  "context": {
+    "prior_knowledge": "Basic proficiency in traditional musical instruments, foundational music theory, and computer literacy",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Collaboration project-centered instruction considering learner roles (leader/manager)",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can convert ethnic instrument audio into MIDI data and analyze timbre characteristics by applying signal filtering techniques.",
+    "A deep learning-based automatic composition model can generate creative scores tailored to ethnic instrument performances",
+    "Students can collaborate with team members to complete a creative music project combining ethnic instrument performances and digital technology"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Ethnic Musical Instrument Set (Gayageum, Haegum, Daegeum, etc.)",
+      "MIDI Interface Equipment",
+      "Python-Based Music Processing Libraries (Librosa, Magenta, etc.)",
+      "Offline Collaboration Tools (Shared Whiteboard, Presentation Equipment)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

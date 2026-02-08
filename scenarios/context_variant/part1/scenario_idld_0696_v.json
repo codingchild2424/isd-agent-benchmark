@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0696-V",
+  "variant_type": "context_variant",
+  "title": "FPGA-Based Deep Learning System Implementation Project",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "FPGA hands-on training program conducted via smartphone-based mobile learning platforms and limited PC resources. Designed for teachers, requiring integration of theory and practice",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Implementation of deep learning layers (Convolution, Max-Pooling, etc.) using High-Level Synthesis (HLS) on FPGA platforms",
+    "Learners compare three core differences (parallel processing efficiency, resource utilization, latency) between N-Fold and Flow architectures and propose two optimization strategies (pipeline optimization, resource allocation planning) under given hardware constraints (CPU/GPU specs, memory capacity).",
+    "Learners design lightweight deep learning models for image classification or speech recognition using TensorFlow Lite or ONNX Runtime on resource-constrained devices (e.g., Raspberry Pi 4, Jetson Nano: 4-core CPU, ≤4GB RAM) and validate a system achieving real-time performance (>30FPS) with inference latency <100ms.",
+    "Learners will develop an FPGA-based deep learning system prototype through a team project consisting of four members and submit deliverables meeting the following criteria at the end of the six-month course: 1) Achieve inference accuracy of 85% or higher on the MNIST or CIFAR-10 dataset, 2) Utilize FPGA resources at 70% or higher efficiency, 3) Prepare a 15-page technical report (including methodology, experimental results, and limitations)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "FPGA simulator software license",
+      "Mobile-compatible Development Tools",
+      "Open-source deep learning frameworks (Caffe/TensorFlow Lite)",
+      "Shared FPGA board equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

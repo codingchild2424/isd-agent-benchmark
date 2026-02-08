@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7739-V",
+  "variant_type": "context_variant",
+  "title": "Epistemic Network Analysis-Based Mathematical Learning Design for Online Collaborative Problem Solving",
+  "context": {
+    "prior_knowledge": "Basic Mathematics Knowledge and Experience with Online Collaboration Tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based assessment for office/administrative professionals in a BYOD environment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze social and cognitive interactions required for solving math problems in online collaboration tools and improve collaboration strategies.",
+    "Learners can visualize and interpret idea-exchange patterns occurring during collaborative processes using ENA (Epistemic Network Analysis).",
+    "Learners can demonstrate collaboration problem-solving competencies over time through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Platform (e.g., Slack/Padlet)",
+      "ENA Analysis Tool (e.g., ENA Web App)",
+      "Math problem-solving scenario templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5176-V",
+  "variant_type": "context_variant",
+  "title": "Financial Risk Prediction Modeling Using Nonverbal Voice Analysis",
+  "context": {
+    "prior_knowledge": "Machine Learning Fundamentals, Financial Risk Management Concepts, and Python Programming",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "For advanced graduate-level learners, non-real-time learning in a smartphone-based LMS environment, focusing on financial engineering and data science convergence education.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design a hybrid analysis model combining three or more non-verbal speech characteristics (pitch, tone, speed) and text data (morpheme analysis results) using Python-based libraries (Librosa, TensorFlow, etc.) within one week, and produce a report demonstrating at least 75% accuracy on a test dataset.",
+    "Cultivating the ability to implement a two-stage deep learning architecture (Seq2Seq + Attention mechanism) for financial risk prediction",
+    "Capable of extracting and quantitatively evaluating risk indicators from S&P 500 corporate earnings call voice data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Kaggle Financial Speech Dataset Sample",
+      "Google Colab Pro (Limited Free Access)",
+      "Mobile-Friendly Jupyter Notebook Viewer"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

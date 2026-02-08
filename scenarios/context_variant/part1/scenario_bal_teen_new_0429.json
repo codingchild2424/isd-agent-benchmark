@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0429",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] AI-Driven Connectionist Foreign Language Learning Design",
+  "context": {
+    "prior_knowledge": "Basic foreign language communication skills and fundamental smartphone utilization abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhanced networked learning using AI tools in smartphone-centric limited technological environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners improve writing proficiency by 20% by receiving personalized feedback (grammar/vocabulary) via AI chatbots at least once weekly",
+    "Learners document over 10 peer language exchange cases while participating twice weekly in collaborative networks within the LMS",
+    "Learners establish monthly learning plans and revise them three or more times using AI recommendation systems and self-assessment tools",
+    "Learners generate five or more context-specific dialogues for real-life problem-solving using smartphone-based AI translation tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Learning Management System (LMS)",
+      "AI Chatbot API",
+      "Mobile Language Learning App",
+      "Open-Source AI Translator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

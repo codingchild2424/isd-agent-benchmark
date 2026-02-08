@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0927",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Customized Information Literacy Workshop for Nutrition Researchers",
+  "context": {
+    "prior_knowledge": "Elementary nutrition knowledge and academic research proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course to strengthen information evaluation and utilization skills required for mathematics-based nutritional science research.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can evaluate the credibility of nutrition-related academic materials with over 80% accuracy.",
+    "Learners can independently search and select statistical data relevant to their research topics from three or more reliable sources.",
+    "Learners enhance their ability to systematically organize and analyze information retrieval results according to the ACM standard format."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Academic Database Access Authorization",
+      "Nutrition-Related Statistics Portal",
+      "Information Evaluation Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

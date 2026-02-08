@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE3-0093",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Chatbot-Based Intensive Short-Term Autonomous Learning Course for Japanese Grammar",
+  "context": {
+    "prior_knowledge": "Basic Japanese grammar knowledge at JLPT N4–N5 level",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A combined program of real-time online classes and self-directed learning conducted in a limited technological environment centered on smartphones, optimized for working professionals' post-work time management.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately analyze and utilize 20 intermediate Japanese grammar patterns via a chatbot interface.",
+    "Learners can autonomously correct over 80% of grammar errors using a real-time feedback system.",
+    "Learners can improve their understanding of Japanese grammar structures by over 75% through interactive practice exercises."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Chatbot Application",
+      "Likert Scale-Based Satisfaction Survey",
+      "JLPT N3 or Lower Grammar Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

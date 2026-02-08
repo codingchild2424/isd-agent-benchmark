@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3728",
+  "variant_type": "idld_aligned",
+  "title": "Instructional Design for Clinical Practice and Skills Assessment in Dental Treatment for Undergraduate Dental Students",
+  "context": {
+    "prior_knowledge": "Basic dental science knowledge and preliminary clinical practice experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Clinical practice simulation and project-based assessment environment utilizing digital devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Independently diagnose and create treatment plans for dental cases ranging from minimal to moderate complexity",
+    "Achieve practical skills to accurately perform root canal therapy and retreatment using 3D simulation equipment",
+    "Standardize and apply processes for informed consent documentation and case difficulty assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Dental Simulation Equipment",
+      "Digital Medical Record System",
+      "Clinical Case Database",
+      "Assessment checklist template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

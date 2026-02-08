@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0305",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Special Education Animation Technology Utilization: Game-Based VR Simulation Design",
+  "context": {
+    "prior_knowledge": "Basic language education knowledge and digital device usage experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Strengthening competencies in animation production and educational application using VR-based game elements in smartphone-centric, resource-constrained technical environments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design 2D animation game scenarios to enhance language skills for special education recipients.",
+    "Learners can evaluate social interaction educational modules with 80% accuracy using animations created in a VR simulation environment.",
+    "Learners can develop an implementation plan to apply educational animations—produced via smartphone-based tools—to real-world special education cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR equipment rental system",
+      "Mobile Animation Production Software",
+      "Special Education Simulation Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

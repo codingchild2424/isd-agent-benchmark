@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6129",
+  "variant_type": "idld_aligned",
+  "title": "Customized Language Education Course Design Based on Academic Achievement Prediction",
+  "context": {
+    "prior_knowledge": "Basic Language Learning Experience and Digital Device Utilization Skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Provision of situation-based learning content to strengthen job relevance for current professionals.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze their language proficiency improvement trends with 80% or higher accuracy through diagnostic assessments provided every two weeks.",
+    "Learners can achieve their target language proficiency (e.g., TOPIK Level 4) within six months by utilizing a personalized learning path based on predictive modeling.",
+    "Learners can maintain a learning consistency rate of over 90% by completing 15-minute microlearning modules three times a week in a mobile environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based predictive analytics tool",
+      "Mobile LMS Platform",
+      "Customized Learning Content Template",
+      "Learning data collection system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

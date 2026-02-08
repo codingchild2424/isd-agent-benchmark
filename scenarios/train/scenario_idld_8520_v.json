@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8520-V",
+  "variant_type": "context_variant",
+  "title": "Introduction to Cryptocurrency Sentiment Analysis: Machine Learning-Based Twitter Data Exploration",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A 30-hour intensive course combining practical training with digital devices (e.g., laptops) and theoretical instruction, designed for accessibility by beginners in social sciences with a focus on hands-on learning",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Collect 1,000+ cryptocurrency-related tweets via web scraping using RStudio.",
+    "Quantitatively assess eight basic emotions (anger, anticipation, disgust, etc.) in tweet data using machine learning-based sentiment analysis tools.",
+    "The analysis results can be visualized to explain social perception patterns toward cryptocurrency"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "RStudio-Installed Notebook",
+      "Python-Based Sentiment Analysis Library",
+      "Sample Tweet Dataset",
+      "Visualization Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

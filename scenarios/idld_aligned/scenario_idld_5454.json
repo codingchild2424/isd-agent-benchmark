@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5454",
+  "variant_type": "idld_aligned",
+  "title": "Gamification-Based Short-Intensive Financial Literacy Course",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Financial Management Concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Corporate training environments where professionals learn via mobile devices outside work hours. Practical application skills are verified through project-based assessments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can utilize core financial calculation formulas (e.g., budgeting, investment analysis) with over 85% accuracy.",
+    "Learners can complete five or more weekly financial concept quizzes through gamification elements.",
+    "Learners can submit capital management plans tailored to real corporate financial scenarios via team-based project evaluations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile App-Based Gamification System",
+      "Interactive Video Lecture Materials",
+      "Real-Time Feedback Quiz Engine",
+      "Collaborative Platform Integration Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0795",
+  "variant_type": "balance_teen_filtered",
+  "title": "Language Education Course Leveraging Synergy Between Learning Design and Analytics (K-12)",
+  "context": {
+    "prior_knowledge": "Proficiency in fundamental language skills (reading, writing, listening, speaking)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Need for content structured optimally for smartphone-based learning environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain at least three educational strategies combining learning design (LD) principles and data analysis techniques (LA)",
+    "Learners can interpret individual language learning patterns with over 80% accuracy using learning analytics tools",
+    "Learners can improve language proficiency by over 20% through personalized learning plans informed by analysis results",
+    "Learners achieve 90% project completion rates utilizing peer feedback in collaborative learning environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Open-Source Learning Analytics Tool",
+      "Text and Speech Analysis Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

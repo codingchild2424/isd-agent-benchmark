@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-2890-V",
+  "variant_type": "context_variant",
+  "title": "Optimizing Electrical Cable Design: Problem-Based Learning (PBL) Project",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Utilization of team collaboration tools (bulletin board/chat) in a smartphone-based LMS environment, with weekly live Q&A sessions",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Derive cable design solutions that meet specified engineering requirements (insulator utilization rate, maximum load current, minimum outer diameter).",
+    "Explain a design process applying core engineering principles, including insulation coordination, current capacity, and cable loss calculations.",
+    "Apply cost-efficiency analysis and power loss minimization criteria when selecting materials and optimizing designs."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "PBL Project Guideline Document",
+      "Simple Calculator/Simulation Tool (Mobile-Compatible)",
+      "Team Collaboration Board",
+      "Standard Cable Design Specification Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

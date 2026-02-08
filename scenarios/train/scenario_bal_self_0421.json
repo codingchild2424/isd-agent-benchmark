@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0421",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Short-Intensive Course Based on Gagné’s Model for Improving Pharmaceutical Calculation Skills",
+  "context": {
+    "prior_knowledge": "Proficiency in basic pharmaceutical terminology and mathematical operations",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Classroom-based training environment to enhance job application capabilities for in-service professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners solve pharmaceutical calculation problems (dosage, concentration conversion, etc.) with over 90% accuracy",
+    "Learners maintain over 80% retention of calculation skills acquired through Gagné’s instructional model in a 6-month follow-up assessment",
+    "Learners pass clinical scenario-based calculation problems with an 85% or higher pass rate"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Computational Practice Workbook",
+      "Digital Learning Platform Access Device",
+      "Simulation Case Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

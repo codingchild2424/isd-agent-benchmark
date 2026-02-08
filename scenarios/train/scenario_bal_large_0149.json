@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0149",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Federated Learning Design and Functional In-Depth Analysis",
+  "context": {
+    "prior_knowledge": "Basic machine learning concepts, understanding of distributed systems, and foundational data privacy knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course for specialized learners in medical/legal/technical fields to analyze practical applications of federated learning in VR-based simulation environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain and apply the core functions of federated learning (client selection, aggregation, knowledge transfer) in real-world scenarios",
+    "Identify potential issues in federated learning design under non-IID data environments and propose solutions",
+    "Implement federated learning architectures reflecting privacy requirements in medical/legal/technical domains within simulation environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based Federated Learning Framework",
+      "Medical/Legal/Technical Domain Simulation Datasets",
+      "VR Learning Module",
+      "Research Literature Database Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

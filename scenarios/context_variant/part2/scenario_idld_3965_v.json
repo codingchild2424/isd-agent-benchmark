@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3965-V",
+  "variant_type": "context_variant",
+  "title": "Game-Based Learning Program for Understanding Bioaccumulation and Biomagnification",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Program to Strengthen Social Responsibility and Sustainability Competencies for Current Practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately explain the mechanisms of bioaccumulation and biomagnification through game simulations.",
+    "Learners can apply the analogical teaching method to analyze the movement of pollutants using real-life examples (e.g., heavy metal contamination).",
+    "Learners can generate conceptual models (e.g., food chain diagrams) of bioaccumulation phenomena during post-game discussions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Game Platform",
+      "Scientific simulation tools",
+      "Digital worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

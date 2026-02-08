@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3872-V",
+  "variant_type": "context_variant",
+  "title": "Competency Enhancement Program Utilizing Mobile-Based Language Learning Technology Recommendation Systems",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course supporting effective utilization of mobile educational technology recommendation systems for language learning in smartphone-centric limited technological environments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can select technologies suitable for language learning goals (reading/writing/speaking) with over 80% accuracy using a mobile-based recommendation system.",
+    "Learners can propose over three technology-instructional method mapping strategies based on the recommendation system’s analytical results.",
+    "Learners can improve initial instructional design drafts over two times using the real-time feedback feature of the recommendation system in a smartphone environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Recommendation System App",
+      "Language Learning Content Sample",
+      "Instructional Strategy Mapping Guidelines (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

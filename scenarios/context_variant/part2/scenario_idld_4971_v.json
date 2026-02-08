@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4971-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Elementary Education Software Through Problem-Based Animation Learning",
+  "context": {
+    "prior_knowledge": "Elementary computer skills and primary mathematics education experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Design of five or more problem-based animated learning modules suitable for elementary mathematics education",
+    "Development of instructional strategies that induce cognitive skill improvement through animation-based task-solving processes",
+    "Prototyping and evaluation of educational software implementable in smartphone environments",
+    "Learners Perform Three Project-Based Assessments During a Six-Month Course, Analyze AI Model Performance Metrics (Accuracy, F1-Score, etc.) in Each Project, Write a Three-Page A4 Educational Effectiveness Analysis Report, and Achieve Over 4 Points (Out of 5) in at Least Four of the Five Report Evaluation Rubric Items"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

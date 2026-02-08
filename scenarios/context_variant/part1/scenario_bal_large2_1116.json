@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1116",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] AR/VR Integration Training Program Design for Science Teachers",
+  "context": {
+    "prior_knowledge": "Science Subject Content Knowledge and Basic Digital Tool Proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Development and Application of Teaching Methods Utilizing AR/VR in Smartphone-Centric Restricted Technology Environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design and execute science experiment simulations using AR/VR-based TSED (Technology-Enhanced Science Education Design) models.",
+    "Learners can explain the process of creating smartphone-based AR content to enhance accessibility of digital tools.",
+    "Learners can apply AR/VR instructional materials developed through project-based assessment to actual classes and analyze their effectiveness."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR/VR Authoring Tool (Smartphone-Compatible)",
+      "Open-Source 3D Modeling Kit",
+      "Science Experiment Simulator Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

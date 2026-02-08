@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0122",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Augmented Reality-Based Clinical Skills Microlearning Program",
+  "context": {
+    "prior_knowledge": "Elementary nursing knowledge and experience with basic patient care skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for learning augmented reality content in mobile environments to acquire skills immediately applicable in medical settings",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform blood pressure measurement and intravenous injection techniques with 90% accuracy through AR simulations",
+    "Learners can access AR content via mobile devices to establish and execute self-directed learning plans.",
+    "Learners can integrate and apply clinical skills across patient scenarios through team-based project assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR-Compatible Smartphones",
+      "3D Clinical Model Library",
+      "Interactive Scenario Template",
+      "Cloud-Based Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

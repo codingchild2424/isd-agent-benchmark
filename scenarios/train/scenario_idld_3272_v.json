@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3272-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Scaffolding for Pre-Service Science Teachers’ Integrated Mathematics and Science Learning Design and TPACK Competency Strengthening Program",
+  "context": {
+    "prior_knowledge": "Foundational knowledge of science education theory and experience with ICT-integrated instruction, basic understanding of secondary mathematics curriculum (functions, geometry, statistics, etc.), and experience using digital tools for formula calculations and graph generation",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for current science teachers emphasizing the development of technology-integrated lesson design skills in BYOD environments. Particularly highlights elements such as measurement data analysis, scientific variable control, and mathematical modeling when designing STEM-integrated lessons.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners design a science learning plan with over 80% completeness using project-based scaffolding, integrating scientific inquiry processes through data analysis and graph interpretation.",
+    "Learners identify at least two components each of TPACK’s Technological (T), Pedagogical (P), and Content Knowledge (C), then develop a 12-session lesson plan reflecting three interaction scenarios (e.g., digital tools for math concepts, equation visualization, probability simulation).",
+    "Learners develop one 21st-century math lesson model using digital tools (GeoGebra, Desmos, etc.), create presentation materials scoring ≥12/15 on a peer-evaluation rubric (creativity, tech integration, educational effectiveness), and incorporate core math concepts (function graph modeling, statistical analysis, geometric proofs)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Platforms (e.g., Google Workspace)",
+      "Educational Apps/Software (GeoGebra, PhET Simulations, etc.)",
+      "Learning Management System (LMS)",
+      "Digital Assessment Tools (e.g., Rubistar)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

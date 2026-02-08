@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8582",
+  "variant_type": "idld_aligned",
+  "title": "Introduction to Literate Programming for Earth Observation Data Analysis",
+  "context": {
+    "prior_knowledge": "Foundational mathematical knowledge and basic Python programming skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Cultivating Problem-Solving Abilities Using Earth Observation Data for Career Preparers in Medical/Legal/Technical Fields",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Write and execute Python code for atmospheric composition data analysis using Jupyter Notebook",
+    "Generate documentation with a 3:1 text:code ratio following literate programming principles",
+    "Perform preprocessing and visualization of satellite observation data using modularized functions",
+    "Apply Earth Observation (EO) data to real-world environmental issues (e.g., air pollution analysis) through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LTPy-Based Jupyter Notebook Template",
+      "Atmospheric Observation Open-Source Dataset",
+      "Code Reuse Guidelines PDF",
+      "Auto-Grading Jupyter Notebook Extension Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

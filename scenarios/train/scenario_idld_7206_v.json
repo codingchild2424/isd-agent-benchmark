@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-7206-V",
+  "variant_type": "context_variant",
+  "title": "Understanding Keystroke Dynamics-Based Language Pattern Analysis and User Authentication Systems",
+  "context": {
+    "prior_knowledge": "Mastery of advanced theories and high-level application techniques, particularly foundational understanding of natural language processing and text analysis",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are professionals aware of security certification importance in work environments but lacking technical implementation understanding. Flexible learning via personal devices. Focuses on linguistic analysis methods for keystroke data (typing patterns, word frequency, sentence structures)",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the concept of keystroke dynamics and its user authentication applications from a linguistic pattern analysis perspective",
+    "Learners analyze the step-by-step design process of authentication systems using various machine learning frameworks and understand text input data feature extraction methods",
+    "Learners compare the impact of feature selection techniques (filter/wrapper-based) on authentication accuracy and analyze their correlation with lexical and syntactic characteristics of keystroke data",
+    "Learners analyze given experimental data (e.g., accuracy, processing speed, error rate) to create a comparison table of three or more authentication algorithms (AES, RSA, SHA-256, etc.) and select the optimal algorithm based on presented evaluation criteria (security: 40%, efficiency: 30%, implementation ease: 30%). Additionally, they can interpret the analysis results from a linguistic perspective"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Keystroke Data Sample",
+      "Machine Learning Visualization Tool",
+      "Collaborative Learning Forum"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

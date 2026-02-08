@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8646",
+  "variant_type": "idld_aligned",
+  "title": "Virtual Classroom Simulation-Based Teaching Practice Course for Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Understanding of secondary mathematics fundamentals and general classroom management methods",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A process of refining teaching skills in a virtual classroom simulation platform accessed via personal devices, in an environment similar to real classes, with project-based assessment measuring final performance capabilities.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Preservice teachers can design and implement mathematical discussion lessons in a virtual classroom environment.",
+    "Preservice teachers can effectively manage various situations that may arise during lessons through interactions with student avatars.",
+    "Preservice teachers can evaluate their teaching performance and establish improvement plans based on simulation feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual classroom simulation software",
+      "BYOD Devices (Laptops/Tablets)",
+      "Math Discussion Class Material Template",
+      "Feedback Analysis Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

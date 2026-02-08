@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8272",
+  "variant_type": "idld_aligned",
+  "title": "Workshop on Leveraging Recommendation Systems for Learning Design Reuse",
+  "context": {
+    "prior_knowledge": "Basic experience with digital educational tools and understanding of fundamental language education concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Project-based course on reusing existing learning designs and applying recommendation systems when designing language education for general citizens",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explanation of the educational value of learning design reuse (e.g., dissemination of best practices, enhancement of educational effectiveness).",
+    "Selection and application of suitable learning designs using explanatory features based on a recommendation system.",
+    "Development of two or more reusable language education designs through project-based activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access to recommendation system platform",
+      "Learning Design Template Library",
+      "BYOD-Supported Infrastructure"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

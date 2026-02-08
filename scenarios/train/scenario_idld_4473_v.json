@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4473-V",
+  "variant_type": "context_variant",
+  "title": "Technology-Enhanced Mathematics Learning Design: Context-Based Deep Project Learning",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are office/administrative professionals with beginner-level expertise in mathematics, aiming to enhance real-life problem-solving skills through digital device-enabled project execution",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can systematically analyze complex mathematical problems and design solutions using technological tools",
+    "Learners can complete projects that solve real-world workplace problems by applying mathematical principles in contextual situations",
+    "Learners can communicate and collaborate effectively in large-scale team project environments using digital collaboration tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Learning Management System (LMS)",
+      "Interactive Math Simulation Tool",
+      "Online Collaboration Platform",
+      "Project Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

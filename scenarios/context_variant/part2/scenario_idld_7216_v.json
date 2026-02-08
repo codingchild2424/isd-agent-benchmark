@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7216-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Mobile Learning-Supported Library Utilization: Learning with Smart Devices",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can explore library digital resources (e-books, audiobooks) and utilize them for language learning via mobile devices",
+    "Students can autonomously complete language learning courses within the school library using location-based technologies (QR codes, etc.)",
+    "Students can analyze digital library materials and complete language projects collaboratively with peers using mobile collaboration tools (Padlet, etc.)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

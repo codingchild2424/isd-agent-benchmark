@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0292",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Proportional Reasoning Learning Design Using Cognitive Tutors",
+  "context": {
+    "prior_knowledge": "Elementary arithmetic operations and understanding of fractional concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course aligned with vocational institutions' demand for practical math education, enhancing proportional reasoning skills through Cognitive Tutors (CTs) with personalized interaction considering individual learning pace differences.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students demonstrate the ability to solve real-world problems (e.g., discount rates, ratio calculations) using proportional relationships (ratio=quantity/quantity) with over 85% accuracy.",
+    "Learners can identify and correct at least three error patterns based on real-time feedback provided by the CT system.",
+    "Post-training evaluation results show a 40% or greater improvement in learners' conceptual understanding of proportional reasoning compared to pre-assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cognitive Tutor (CT) Platform License",
+      "Zoom Account",
+      "Proportional Reasoning Workbook (PDF)",
+      "Real-Time Collaboration Tools (e.g., Miro)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

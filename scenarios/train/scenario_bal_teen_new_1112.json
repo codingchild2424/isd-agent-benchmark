@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1112",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Gamified Problem-based Learning Program to Enhance Scientific Inquiry Skills",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental scientific theories and experimental methods",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Large-scale collaborative learning environment utilizing smartphone-based VR simulations",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can independently perform science problem-solving processes in a gamified environment with over 80% proficiency",
+    "Learners can replicate actual science experiment design and analysis processes with 90% accuracy through VR simulations",
+    "Learners improve collaborative skills by engaging in peer assessment and providing feedback at least three times during the problem-solving process."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR Equipment",
+      "Gamification platform license",
+      "Science Simulation Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

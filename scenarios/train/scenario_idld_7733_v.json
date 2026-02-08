@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7733-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing AI Practical Competencies: Personalized Instructional Design to Strengthen Mathematics Learning Motivation",
+  "context": {
+    "prior_knowledge": "Core Middle School Mathematics Concepts and Practical Application Experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify three or more personal/professional factors that motivate their mathematics learning",
+    "Learners can implement two or more motivation-enhancing strategies tailored to their needs based on individualized lesson design",
+    "Learners can explain how to recognize changes in motivation during mathematical problem-solving and incorporate them into learning plans"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

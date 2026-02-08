@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5581-V",
+  "variant_type": "context_variant",
+  "title": "Federated Learning Data Privacy Attack Defense Strategies",
+  "context": {
+    "prior_knowledge": "Fundamental machine learning concepts, federated learning architecture overview, and basic data security principles",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Recreating real attack scenarios and developing defense techniques in a practice-centered simulation environment",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can describe three types of data privacy attacks that may occur in federated learning environments.",
+    "Learners can simulate the principles of gradient matching-based attribute reconstruction attacks (cos-matching) and develop defense strategies.",
+    "Learners can analyze real-world attack scenarios using local training data from one or more epochs and propose countermeasures."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Security-Enhanced Federated Learning Simulator",
+      "VR-Based Attack Scenario Kit",
+      "Real-World Medical/Legal Dataset Samples"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

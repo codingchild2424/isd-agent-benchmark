@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4231-V",
+  "variant_type": "context_variant",
+  "title": "Online Competency-Based Science Education Design and Assessment Process",
+  "context": {
+    "prior_knowledge": "Basic knowledge of secondary science education and practical experience in current teaching",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Designing and operating competency-based online education for in-service professionals, optimizing learning activities in smartphone-centric limited-technology environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can define scientific problem-solving competencies and establish evaluation criteria using rubrics.",
+    "Students can implement competency-based instructional design that systematically provides learner feedback in blended (online/offline) environments.",
+    "Students can design summative assessments to measure the growth of learners' scientific thinking using smartphone-based evaluation tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Digital Rubric Templates",
+      "Science Experiment Simulation App",
+      "Offline Workshop Space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

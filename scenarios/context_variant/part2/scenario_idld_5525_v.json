@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-5525-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Programming Competencies: Collaborative Learning Strategy Design in Blended Learning Environments",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners achieve 80% or higher proficiency by applying self-regulated learning (SRL) strategies in blended learning environments.",
+    "Maintain at least three weekly interactions with peer learners through collaborative task performance.",
+    "Achieve 90% or higher participation in learning activities (assignments, discussion engagement, etc.) via digital platforms.",
+    "Maintain emotional engagement (self-reported) at 4 points or higher on a 5-point scale during the learning process.",
+    "Achieve a 20% or higher improvement rate in learning outcomes through feedback implementation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

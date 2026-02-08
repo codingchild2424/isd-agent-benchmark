@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4968",
+  "variant_type": "idld_aligned",
+  "title": "Introduction to Statistics for Educational Research and Evaluation",
+  "context": {
+    "prior_knowledge": "Basic statistical concepts (mean, standard deviation, etc.) and high school-level mathematics proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Blended environment combining personalized feedback and small-group discussion sessions to supplement self-directed learning",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Apply basic statistical techniques used in educational research (descriptive statistics, inferential statistics, hypothesis testing) to perform data analysis",
+    "Visualize and interpret real educational data using statistical software (R/Python, etc.)",
+    "Develop the ability to select appropriate statistical methods for research questions and report results"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Introductory Statistics Textbook",
+      "Open-Source Statistical Software Tools",
+      "Public Datasets for Educational Research"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

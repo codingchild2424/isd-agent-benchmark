@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0657",
+  "variant_type": "balance_medium_scale",
+  "title": "Design of Mobile-Based Science Learning Communication",
+  "context": {
+    "prior_knowledge": "High school-level basic science theory understanding",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducted in a digitally enabled environment, integrating synchronous/asynchronous communication tools.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will be able to participate in communication activities for at least 150 minutes per week in a VLE (Virtual Learning Environment).",
+    "Learners will be able to improve scientific problem-solving skills by 20% through peer feedback-based task performance.",
+    "Learners will be able to create video content explaining scientific concepts using collaboration tools on a mobile platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Real-Time Video Conferencing Tool",
+      "Asynchronous discussion board",
+      "Science Experiment Simulation App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

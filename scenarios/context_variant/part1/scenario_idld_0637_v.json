@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0637-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Practical AI Competencies: Tensor-Based Regression Learning with Applied Projects",
+  "context": {
+    "prior_knowledge": "Linear Algebra, Regression Analysis Fundamentals, and Programming (Python/R) Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain mathematical principles (matrix operations, loss functions, gradient descent) of tensor-based linear/nonlinear regression models (1st/2nd order), implementing models with ≤0.15 MAE on housing price prediction datasets using TensorFlow/Keras",
+    "Apply procedures for deriving regression results using Moore-Penrose inverse tensor operations",
+    "Learners can explain the hierarchical structure of a Type-2 fuzzy system (inference engine, fuzzification interface, defuzzification method) and implement a fuzzy rule-based classification model on three sets of real industrial data (e.g., manufacturing process data), achieving an accuracy of 85% or higher.",
+    "Learners can implement ELM, Online Sequential ELM (OS-ELM), and Incremental ELM (I-ELM) models on datasets ranging from 1,000 to 50,000 samples over a 1–6 month course and write a performance comparison analysis report based on accuracy, precision, recall, and F1-score."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

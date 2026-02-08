@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2508-V",
+  "variant_type": "context_variant",
+  "title": "Reinforcement Learning-Based Control Policy Design: Homotopy Initialization Strategy",
+  "context": {
+    "prior_knowledge": "Basic Control Theory, Linear Algebra, Calculus, and Fundamental Programming Skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced corporate trainees with experience in mathematical modeling and algorithm design, utilizing self-directed learning materials in a non-real-time environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design stabilization control policies using homotopy-based initialization strategies in continuous-time systems",
+    "Explain the principles of placing system poles into stable regions by comparing model-based and data-based homotopic policy iteration techniques",
+    "A reinforcement learning-based control policy design procedure can be implemented using simulation tools in environments with unknown system dynamics"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Control System Simulation Tool",
+      "LMS platform",
+      "Theoretical Whitepapers and Example Datasets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Business/HR/Admin Support"
+}

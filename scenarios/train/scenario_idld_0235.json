@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0235",
+  "variant_type": "idld_aligned",
+  "title": "Mobile LMS-Based Foundational Islamic Worship Education Program",
+  "context": {
+    "prior_knowledge": "Basic understanding of Islamic culture and proficiency in basic digital device usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Providing customized content considering learners' religious backgrounds, integrated with real-time interaction and mobile learning systems",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the correct procedures for performing the five obligatory prayers (Salat) with 80% accuracy.",
+    "Learners can practice pre-worship preparations (e.g., Wudu, Tayammum) with 90% accuracy.",
+    "Learners can use a mobile LMS to record and manage weekly prayer performance with 100% completion."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile LMS Platform",
+      "Real-Time Video Conferencing Tool",
+      "Islamic prayer video materials",
+      "Worship Performance Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0243",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] STEM-based Science Education Design Competency Development Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific theories and educational principles, LMS (Learning Management System) experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Process for pre-service teachers to cultivate science education design and implementation competencies through STEM activities, with digital device integration and resource-sharing via LMS",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participants can design and implement five STEM activity modules applying the DIY, Tinker, Maker framework",
+    "Participants enhance lesson design capabilities reflecting all six HIPs domains (structured teaching, project-based learning, reflection, learning progression frameworks, student-centered approaches, TPACK)",
+    "Participants can apply Technological Pedagogical Content Knowledge (TPACK) required for science education design to actual classroom instruction"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "UVC Box Experiment Kit",
+      "Arduino Sensor Kit",
+      "Board Game Development Set",
+      "Tutorial Video/Slide Materials",
+      "Google Classroom/LMS Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

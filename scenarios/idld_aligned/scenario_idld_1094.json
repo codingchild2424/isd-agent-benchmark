@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1094",
+  "variant_type": "idld_aligned",
+  "title": "Data-Driven Personalized E-Learning Feedback Design for Learners",
+  "context": {
+    "prior_knowledge": "Work experience in social fields and basic digital literacy",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Need for Real-Time Feedback Emphasizing Workplace Applicability for Practicing Professionals, Microlearning Environment via Digital Devices (Smartphones/Tablets)",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Analyze learning behavior data to design three or more feedback strategies tailored to learner types",
+    "Operate a system that classifies real-time learner behavior patterns in mobile environments with over 65% accuracy",
+    "Conceptualize feedback loops based on knowledge acquisition, learning experience, and social presence metrics"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "SKEP Dataset Sample",
+      "Learning Analytics Tool Template",
+      "Conversational Agent Prototype"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

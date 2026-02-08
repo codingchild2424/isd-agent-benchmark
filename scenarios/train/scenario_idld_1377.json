@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1377",
+  "variant_type": "idld_aligned",
+  "title": "Behaviorist Programmed Language Learning Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic language grammar and vocabulary",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short-term course focused on strengthening practical language skills for job seekers",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can complete programmed, step-by-step language quizzes with 90% accuracy.",
+    "Learners can acquire over 150 vocabulary items per week through an immediate feedback system.",
+    "Learners can progressively apply grammatical structures with over 80% mastery."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Automated Assessment Algorithm",
+      "Interactive Content Template",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

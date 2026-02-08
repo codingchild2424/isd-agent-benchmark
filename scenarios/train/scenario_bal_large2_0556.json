@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0556",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Development Process for an Electronic Performance Support System (EPSS) to Support Language Learning for Novice Instructional Designers",
+  "context": {
+    "prior_knowledge": "Basic instructional design theory and language education experience (grammar analysis, text interpretation, vocabulary application)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized EPSS development training for language education practitioners. Centers on system design to enhance learners' reading comprehension, expressive abilities, and communication skills.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze functional requirements of EPSS components (tutorials, examples, resources, tools, wizards) and design optimizations tailored to language learning content (text, vocabulary, grammar).",
+    "Learners can develop and implement an EPSS prototype specialized for language education activities (integrated reading, writing, listening, speaking) to enhance the work efficiency of novice instructional designers (NIDs).",
+    "Learners can establish an EPSS evaluation system specialized for language education domains (grammatical accuracy, lexical diversity, expressive fluency) and derive improvement plans through formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "EPSS (Electronic Performance Support System) development template",
+      "Language Education Content Sample",
+      "User experience (UX) design guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

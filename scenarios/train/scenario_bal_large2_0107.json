@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0107",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Adaptive Numerical Analysis Education Design Based on Flipped Learning",
+  "context": {
+    "prior_knowledge": "Foundational engineering mathematics (calculus, linear algebra) and basic programming concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Flexible progress management reflecting working learners' characteristics, structured around real-world case studies",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply core numerical analysis algorithms (e.g., Newton-Raphson, finite difference methods) to real-world engineering problems.",
+    "Complete ≥80% of personalized pre-learning content tailored to individual proficiency levels using an adaptive learning platform.",
+    "Submit numerical analysis-based data analysis results as reports and presentation materials through team-based projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Open-Source Numerical Analysis Tool (e.g., Octave)",
+      "Case-Based PBL Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

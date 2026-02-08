@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8732-V",
+  "variant_type": "context_variant",
+  "title": "Advanced Multimedia-Based Operating System Memory Management Course",
+  "context": {
+    "prior_knowledge": "Basic Knowledge of Computer Architecture and Programming",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "In a smartphone-centric limited technological environment, a student-centered learning environment utilizing 2D/3D animations and mobile-compatible content. Conducting PBL assignments per module followed by summative assessments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Visualize and explain memory allocation and garbage collection mechanisms using 3D animation",
+    "Write a PBL report comparing paging and segmentation techniques and analyze real-world case studies",
+    "Use virtual memory management simulation tools to propose system performance optimization strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible 2D/3D Animation",
+      "Mobile Learning Management System (LMS)",
+      "Offline PBL (Project-Based Learning) Workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

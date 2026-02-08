@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-3243-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Clinical Practical Skills: MEMS Gyroscope Control System Design and Optimization",
+  "context": {
+    "prior_knowledge": "Foundations of Control Theory, Understanding of Differential Equations, Proficiency in MATLAB/Python, and Basic Concepts of Linear Algebra",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can mathematically model the dynamics of MEMS gyroscopes using equations and implement simulations",
+    "Learners can design hybrid learning control algorithms combining sliding mode control (SMC) and neural networks (NN) and analyze their performance",
+    "Learners can develop controllers achieving finite-time system convergence performance by applying non-singular terminal sliding mode control (NTSMC)",
+    "Learners can define performance limits based on time-varying barrier Lyapunov functions (BLF) and integrate them into control systems",
+    "Learners can quantitatively evaluate and improve tracking precision of MEMS gyroscopes under various uncertainty conditions through project-based learning"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

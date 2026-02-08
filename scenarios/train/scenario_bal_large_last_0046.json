@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0046",
+  "variant_type": "balance_large_last",
+  "title": "Medical Communication Competency Enhancement Program Utilizing Virtual Patient Simulation",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and patient counseling experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Virtual patient simulation education conducted in smartphone-centric limited-technology environments. Targets mid-level medical professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply standardized communication protocols (e.g., SBAR) with over 80% accuracy in a virtual patient simulation environment.",
+    "Learners successfully identify key symptoms and set diagnostic priorities in interactions with virtual patients at least twice out of three attempts.",
+    "Learners can distinguish and explain at least four appropriate response strategies for different types of patient reactions through a selection interface-based simulation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Web-Based Virtual Patient Platform",
+      "Zoom Account",
+      "Mobile-Optimized Simulation Tools",
+      "Communication Checklist Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

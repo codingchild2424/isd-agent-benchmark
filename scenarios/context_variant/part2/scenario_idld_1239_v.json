@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1239-V",
+  "variant_type": "context_variant",
+  "title": "Online Information Literacy Situated Learning-Based Special Lecture",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Information evaluation skills development courses for elementary school teachers to enhance practical science competencies",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can evaluate science-related online information based on source credibility, data objectivity, and recency criteria",
+    "Learners can select materials required for designing actual science lessons through a three-stage (search → analysis → application) process",
+    "Learners can refine information utilization strategies through peer assessment and incorporate feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Scientific information evaluation checklist template",
+      "Contextual case simulation videos (5 videos, ~10 minutes each)",
+      "Peer Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

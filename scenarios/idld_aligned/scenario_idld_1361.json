@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1361",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Blended Science Learning Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and proficiency in fundamental digital device usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A flipped learning course operating in a smartphone-centric limited-technology environment. Learning progresses via LMS and mobile app integration without real-time video classes.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Independently perform the scientific inquiry process three or more times using mobile learning tools.",
+    "Improve understanding of scientific concepts by utilizing at least 80% of multimedia resources provided in the mobile app integrated with the LMS.",
+    "Enhance collaborative problem-solving skills by conducting five or more peer evaluations and feedback sessions in a blended learning environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Mobile-Friendly Science Simulation App",
+      "Offline-Synchronizable Learning Resources"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

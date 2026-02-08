@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5580-V",
+  "variant_type": "context_variant",
+  "title": "Financial Literacy Improvement Course through Real-Life Financial Analysis",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Activity-based education combining simple smartphone app usage with offline case studies",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Students can create personal budget sheets and analyze monthly spending patterns",
+    "Students can calculate returns/costs of simple financial products (deposits, savings, loans)",
+    "Students can explain financial decision-making processes tailored to real-life scenarios (household debt, children’s education planning, etc.)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Financial Calculator App",
+      "Offline Worksheet Set",
+      "Case Study Resource Compilation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

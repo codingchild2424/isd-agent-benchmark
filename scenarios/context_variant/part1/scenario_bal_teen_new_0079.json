@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0079",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Strengthening Competencies in Inclusive Educational Technology",
+  "context": {
+    "prior_knowledge": "Foundations of Educational Technology and Understanding Disabilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Aims to develop inclusive educational design competencies in smartphone-based limited technological environments, requiring practical approaches considering legal and technological infrastructure gaps.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will be able to design customized educational content for specific disability types using smartphone-based tools.",
+    "Learners will be able to analyze legal requirements (e.g., India’s Rights of Persons with Disabilities Act) when applying inclusive educational technologies.",
+    "Learners will be able to propose methods for integrating Universal Design for Learning (UDL) principles into technology-supported learning."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible open-source software",
+      "Inclusive education guideline document",
+      "Case analysis worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

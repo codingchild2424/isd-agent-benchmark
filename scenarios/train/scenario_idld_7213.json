@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7213",
+  "variant_type": "idld_aligned",
+  "title": "Designing a Mobile Learning (M-Learning) Application: Development of a Language Education Program Based on an Integrated Instructional Model",
+  "context": {
+    "prior_knowledge": "Basic software development knowledge (UI/UX, application development processes) and understanding of language learning theories",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Digital devices (tablets, smartphones) provided, with offline workshops and online practice conducted in parallel. Emphasizes an integrated approach to language learning content design.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the entire process from requirements analysis to deployment of mobile learning applications.",
+    "Learners can integrate instructional design models and software architecture for M-Learning applications in language learning.",
+    "Learners can apply UI/UX design principles for M-Learning prototypes optimized for blended learning environments.",
+    "Learners can continuously improve educational effectiveness and technical completeness of applications through formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Development Tools (Android Studio/Xcode)",
+      "Prototyping Tools (Figma/Adobe XD)",
+      "Learning Management System (LMS) Testing Environment",
+      "Language learning content template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

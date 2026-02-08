@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-0963",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Digital Learning Design for Occupational Therapy: Flipped, Blended, and Gamification-Integrated Education (Strengthening Mathematical Problem-Solving Competencies)",
+  "context": {
+    "prior_knowledge": "Foundational occupational therapy theories, basic clinical skills, and introductory mathematical competencies (ratio calculations, basic statistics, graph interpretation)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based learning to enhance occupational therapy practical skills in digital environments using personal devices. Emphasizes systematic resolution of clinical cases through mathematical modeling (equations, probability, data analysis) during the learning process.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Through flipped learning, learners will self-directively master at least 80% of core occupational therapy theories (professional reasoning, procedural knowledge) and apply mathematical calculations (e.g., medication dosage calculation, statistical analysis of treatment effects) in problem-solving processes.",
+    "In a blended learning environment, learners will analyze three real clinical cases using PBL, apply a five-step problem-solving process (problem definition → data collection → mathematical modeling → calculation verification → result interpretation) to each case, submit a 10–15-page project report by the deadline, and achieve an \"excellent\" grade in at least four of the five rubric criteria.",
+    "Perform at least three occupational therapy simulation tasks (e.g., patient data pattern analysis, probability calculation of treatment effects) utilizing gamification elements (quests, badges, leaderboards).",
+    "Write and incorporate peer evaluations and feedback at least five times using digital tools (apps, online platforms) and share analysis results utilizing data visualization (graphs, tables)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Occupational Therapy Simulation Software",
+      "LMS (Learning Management System)",
+      "Digital Assessment Tools",
+      "Clinical Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

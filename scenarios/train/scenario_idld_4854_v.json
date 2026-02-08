@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4854-V",
+  "variant_type": "context_variant",
+  "title": "Social Mathematics Learning Strategies in Technology-Enhanced Environments",
+  "context": {
+    "prior_knowledge": "Foundational secondary-level mathematics knowledge and basic digital device utilization skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Strengthening social learning through Web 2.0 tools (forums, collaborative documents, mobile quizzes) in smartphone-centric limited-technology environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve an 80%+ interaction participation rate by sharing mathematical problem-solving processes with peers using LMS collaboration tools",
+    "Learners form a 75%+ understanding of weekly learning content through a mobile-optimized quiz system",
+    "Learners complete math project reports with at least three peer feedback iterations using web-based collaborative documents (e.g., Google Docs)"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Collaborative tools (forums, document sharing)",
+      "Responsive web design quiz system",
+      "Offline Learning Material Package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

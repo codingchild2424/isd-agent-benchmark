@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2464",
+  "variant_type": "idld_aligned",
+  "title": "Capstone Course for Leadership and Management Competency Development for Pharmacy Students",
+  "context": {
+    "prior_knowledge": "Foundational pharmacy knowledge and basic team project experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based learning environment reflecting actual pharmacy/medical settings. Collaboration via personal devices through BYOD",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students design and execute a team project to solve real-world pharmaceutical problems within 8 weeks, demonstrating leadership competencies.",
+    "Students achieve over 70% proficiency in evaluating management skills such as time management, resource allocation, and conflict resolution during the project process.",
+    "Learners improve collaborative competencies by at least 3 levels through peer assessment and mentor feedback (based on a 5-point Likert scale)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Case Study Module",
+      "Online Collaboration Tools (Slack/Miro)",
+      "Mentoring Manual",
+      "Project Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

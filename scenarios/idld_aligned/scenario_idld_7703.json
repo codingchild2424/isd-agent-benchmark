@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7703",
+  "variant_type": "idld_aligned",
+  "title": "Reinforcement Learning-Based HVAC Energy Optimization Design",
+  "context": {
+    "prior_knowledge": "Basic HVAC system principles, energy management concepts, and foundational Python/machine learning skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Focuses on practical HVAC control optimization using EnergyPlus simulation and Deep Q-Networks (DQN), including climate-specific energy-saving strategy analysis and real-world applications.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Optimal HVAC system operation strategies can be designed using a reinforcement learning-based DQN model.",
+    "Energy savings of over 5% can be achieved through efficient partial load ratio range operation in multi-chiller systems.",
+    "Trade-offs between energy efficiency and computational costs can be analyzed by adjusting control cycles (10/60 minutes) based on climate conditions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "EnergyPlus Simulation Tool",
+      "Python Library for DQN Implementation",
+      "HVAC Control Dataset",
+      "Jupyter Notebook Environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

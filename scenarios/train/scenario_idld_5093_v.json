@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5093-V",
+  "variant_type": "context_variant",
+  "title": "Designing Interactive Video Learning for STEM Education",
+  "context": {
+    "prior_knowledge": "Elementary STEM concepts and digital device operation proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Operating 15-minute microlearning sessions using mobile devices for graduate students enrolled in secondary education programs",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain STEM concepts over 80% of the time using quiz-embedded interactive videos",
+    "Learners can analyze complex physical phenomena step-by-step by replaying/looping segments using in-video navigation features",
+    "Learners improve their ability to interpret experimental data by over 70% through microlearning activities that include a feedback system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive video creation software",
+      "Mobile Learning Management System (LMS)",
+      "Physics simulation tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0692",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Blended Case-Based Clinical Competency Enhancement Course",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge and understanding of foundational instructional design concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "For pre-service and in-service teachers, emphasizing clinical case analysis and educational design competencies applicable to medical education settings.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Assessing the ability to design blended education based on actual clinical cases",
+    "Applying a case-based approach at least 80% when developing medical education scenarios",
+    "Achieving at least 85 points in formative assessments utilizing peer feedback and LMS tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Case Database",
+      "Rain Classroom-Like Tool",
+      "Online Collaboration Platform",
+      "Standardized Clinical Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

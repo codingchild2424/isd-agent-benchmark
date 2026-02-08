@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-1049",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Strengthening Medical History-Taking Competencies Using Virtual Patient Simulation",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and patient interview procedures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Educational environment where students access a virtual patient simulation platform via personal devices, engage in self-directed learning, and gain experiences similar to real clinical settings.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform core history-taking skills with over 80% accuracy through interactions with virtual patients across diverse fields",
+    "Learners achieve a score improvement of over 70% based on standard OSCE evaluation criteria in medical/surgical domains",
+    "Learners report confidence levels of 4 or higher (on a 5-point scale) in applying skills acquired in simulation environments to real clinical situations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual patient simulation platform (similar to Klark-cases.com)",
+      "Mobile devices and internet access environment",
+      "OSCE assessment standard checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

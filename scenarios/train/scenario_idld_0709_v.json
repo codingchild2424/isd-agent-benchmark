@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0709-V",
+  "variant_type": "context_variant",
+  "title": "ScratchJr Integrated Programming Workshop for Enhancing Computational Thinking",
+  "context": {
+    "prior_knowledge": "Basic logical reasoning skills and foundational mathematical concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducted in a BYOD environment, including assignments that encourage parental participation at home.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students implement three or more projects applying sequential, event-driven, and parallelism concepts using ScratchJr",
+    "Learners enhance logical error correction skills by over 80% through debugging and code reuse",
+    "Maintenance of over 70% computational thinking indicators in a formative assessment one month post-training"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ScratchJr Installation for Tablet/PC",
+      "Online whiteboard tool",
+      "Digital Worksheet Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

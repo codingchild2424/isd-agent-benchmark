@@ -1,0 +1,214 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://upstage.ai/isd-benchmark/trajectory-schema.json",
+  "title": "Agent 궤적 스키마",
+  "description": "교수설계 Agent의 도구 사용 및 추론 과정을 기록하는 JSON 스키마",
+  "type": "object",
+  "properties": {
+    "tool_calls": {
+      "type": "array",
+      "description": "도구 호출 기록",
+      "items": {
+        "$ref": "#/definitions/tool_call"
+      }
+    },
+    "reasoning_steps": {
+      "type": "array",
+      "description": "추론 단계 기록",
+      "items": {
+        "type": "string"
+      }
+    },
+    "agent_interactions": {
+      "type": "array",
+      "description": "다중 에이전트 상호작용 기록 (EduPlanner의 경우)",
+      "items": {
+        "$ref": "#/definitions/agent_interaction"
+      }
+    },
+    "summary": {
+      "$ref": "#/definitions/trajectory_summary"
+    }
+  },
+  "definitions": {
+    "tool_call": {
+      "type": "object",
+      "description": "단일 도구 호출",
+      "required": ["step", "tool", "timestamp"],
+      "properties": {
+        "step": {
+          "type": "integer",
+          "description": "호출 순서",
+          "minimum": 1
+        },
+        "tool": {
+          "type": "string",
+          "description": "도구 이름",
+          "enum": [
+            "analyze_learners",
+            "analyze_context",
+            "analyze_task",
+            "design_objectives",
+            "design_strategy",
+            "design_assessment",
+            "create_lesson_plan",
+            "create_materials",
+            "create_assessment",
+            "evaluate_design",
+            "optimize_design",
+            "analyze_errors"
+          ]
+        },
+        "args": {
+          "type": "object",
+          "description": "도구 인자"
+        },
+        "result": {
+          "type": "string",
+          "description": "도구 실행 결과 요약"
+        },
+        "result_detail": {
+          "type": "object",
+          "description": "도구 실행 결과 상세"
+        },
+        "timestamp": {
+          "type": "string",
+          "format": "date-time",
+          "description": "호출 시각"
+        },
+        "duration_ms": {
+          "type": "integer",
+          "description": "실행 시간 (밀리초)"
+        },
+        "tokens_used": {
+          "type": "integer",
+          "description": "사용된 토큰 수"
+        },
+        "success": {
+          "type": "boolean",
+          "description": "성공 여부",
+          "default": true
+        },
+        "error": {
+          "type": "string",
+          "description": "오류 메시지 (실패 시)"
+        }
+      }
+    },
+    "agent_interaction": {
+      "type": "object",
+      "description": "다중 에이전트 상호작용 기록",
+      "required": ["iteration", "agent", "action", "timestamp"],
+      "properties": {
+        "iteration": {
+          "type": "integer",
+          "description": "반복 회차",
+          "minimum": 1
+        },
+        "agent": {
+          "type": "string",
+          "description": "에이전트 이름",
+          "enum": ["evaluator", "optimizer", "analyst", "main"]
+        },
+        "action": {
+          "type": "string",
+          "description": "수행한 작업",
+          "enum": ["evaluate", "optimize", "analyze", "coordinate"]
+        },
+        "input": {
+          "type": "object",
+          "description": "입력 데이터"
+        },
+        "output": {
+          "type": "object",
+          "description": "출력 데이터"
+        },
+        "feedback": {
+          "type": "object",
+          "description": "피드백 (평가 에이전트의 경우)",
+          "properties": {
+            "score": {
+              "type": "number",
+              "description": "점수",
+              "minimum": 0,
+              "maximum": 100
+            },
+            "strengths": {
+              "type": "array",
+              "description": "강점",
+              "items": { "type": "string" }
+            },
+            "weaknesses": {
+              "type": "array",
+              "description": "약점",
+              "items": { "type": "string" }
+            },
+            "suggestions": {
+              "type": "array",
+              "description": "개선 제안",
+              "items": { "type": "string" }
+            }
+          }
+        },
+        "timestamp": {
+          "type": "string",
+          "format": "date-time",
+          "description": "실행 시각"
+        },
+        "duration_ms": {
+          "type": "integer",
+          "description": "실행 시간 (밀리초)"
+        }
+      }
+    },
+    "trajectory_summary": {
+      "type": "object",
+      "description": "궤적 요약 통계",
+      "properties": {
+        "total_tool_calls": {
+          "type": "integer",
+          "description": "총 도구 호출 수"
+        },
+        "unique_tools_used": {
+          "type": "integer",
+          "description": "사용된 고유 도구 수"
+        },
+        "tools_used": {
+          "type": "array",
+          "description": "사용된 도구 목록",
+          "items": { "type": "string" }
+        },
+        "addie_phases_covered": {
+          "type": "array",
+          "description": "수행된 ADDIE 단계",
+          "items": {
+            "type": "string",
+            "enum": ["analysis", "design", "development", "implementation", "evaluation"]
+          }
+        },
+        "total_reasoning_steps": {
+          "type": "integer",
+          "description": "총 추론 단계 수"
+        },
+        "total_iterations": {
+          "type": "integer",
+          "description": "총 반복 횟수 (다중 에이전트의 경우)"
+        },
+        "total_duration_ms": {
+          "type": "integer",
+          "description": "총 실행 시간 (밀리초)"
+        },
+        "total_tokens": {
+          "type": "integer",
+          "description": "총 사용 토큰"
+        },
+        "success_rate": {
+          "type": "number",
+          "description": "도구 호출 성공률",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3290",
+  "variant_type": "idld_aligned",
+  "title": "Mixed Reality-Based Social Studies Virtual Learning Environment Design",
+  "context": {
+    "prior_knowledge": "Basic understanding of elementary social studies content and pedagogical methods, mobile device usage experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Process for pre-service teachers to develop creative lesson design competencies using mixed reality (MR) technology through field-immersive educational simulations.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Design three or more situational learning scenarios utilizing Mixed Reality (MR) technology",
+    "Operate MR learning modules in a mobile device-based microlearning environment",
+    "Propose a class model that achieves at least 85% learner engagement through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MR authoring tool (e.g., Unity MARS)",
+      "AR/VR-compatible mobile devices",
+      "3D Modeling Templates",
+      "LMS platform integration system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1616-V",
+  "variant_type": "context_variant",
+  "title": "Hospitality Competency Enhancement: IMS Learning Design Runtime Change Management via Hierarchical Petri Nets",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Service/Customer Engagement Role-Specific Competency Development Program",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Hierarchical Petri net models can restructure workflows without data loss when modifying learning activities during runtime",
+    "Appropriately select safe modification mode (no participant impact) or risk mode (requires safety checkpoint relocation) based on situational needs",
+    "Real-time page replacement mechanisms are implemented in IMS LD-based social problem-solving scenarios",
+    "Learners analyze formative assessment results (quiz scores, task performance) to select one of three learning pathways (basic/advanced/supplementary), and establish personalized learning plans on a biweekly basis"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Customer Relationship Management (CRM) System",
+      "Customer Interaction Simulator",
+      "Service Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

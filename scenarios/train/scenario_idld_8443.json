@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8443",
+  "variant_type": "idld_aligned",
+  "title": "Language Learning MOOC Through Network-Based Collaboration: Collective Intelligence Building Project",
+  "context": {
+    "prior_knowledge": "Basic digital device utilization skills and language learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Environment promoting social interaction and self-directed learning for adult learners over 40. Provision of real-time language use scenarios via VR simulation and BYOD (Bring Your Own Device)-based access",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners improve problem-solving skills using collective intelligence by performing three or more language collaboration tasks in VR-based simulation environments.",
+    "Learners form social learning communities through feedback exchanges, including peer evaluations, at least twice weekly in open online discussion forums.",
+    "Learners submit creative outputs based on collective intelligence by completing team-based language projects (cultural comparison presentations) within one week."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset Rental Equipment (Limited Quantity)",
+      "Online Collaboration Tools (Slack/Miro)",
+      "Language Learning Content Database",
+      "Automated Translation Plugin"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

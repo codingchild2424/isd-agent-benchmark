@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0867",
+  "variant_type": "balance_teen_k12",
+  "title": "Mobile-Based Medical Simulation Language Education Course for K-12 Students",
+  "context": {
+    "prior_knowledge": "Comprehension of basic medical terminology and clinical protocols",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Simulation-based training for language proficiency required in medical settings, with content accessible via smartphones",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately listen to patient symptom descriptions in a medical simulation environment and document three key pieces of information",
+    "Learners can use specialized medical terminology with over 80% accuracy in mock clinical scenarios",
+    "Learners can perform verbal communication protocols within five steps in emergency situation simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile simulation application",
+      "Voice Recognition Practice Module",
+      "Virtual Patient Scenario Database",
+      "Weekly Feedback Report Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

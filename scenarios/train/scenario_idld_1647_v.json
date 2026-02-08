@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1647-V",
+  "variant_type": "context_variant",
+  "title": "Virtual Simulation Course for Pulmonary Rehabilitation Education",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Non-face-to-face education environment utilizing smartphone-based VR simulations and video content",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately perform three types of pulmonary rehabilitation exercises (breathing training, muscle strengthening, aerobic exercise)",
+    "Learners can identify and propose responses to 80% or more of symptom exacerbation signals in pulmonary rehabilitation patients",
+    "Learners can create personalized rehabilitation plans for patients in VR simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Offline Video Package",
+      "Patient Scenario Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

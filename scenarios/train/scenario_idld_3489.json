@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3489",
+  "variant_type": "idld_aligned",
+  "title": "Gamification-Enhanced Intensive Short-Term Course for University-Level Mathematical Competency",
+  "context": {
+    "prior_knowledge": "Completion of college-level foundational mathematics (linear algebra, calculus)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-time online course conducted in a digital device-supported environment. Focuses on improving mathematical problem-solving skills using game elements. Parallels practical math application cases for job seekers.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "In game-based learning environments, 85% or more of learners can independently complete 70% or more of assigned math quests",
+    "Can develop three or more customized learning scenarios according to gamification design principles",
+    "Can apply math problem-solving strategies utilizing game mechanics (experience points, leveling up, reward systems) five or more times"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online game platform license",
+      "Real-Time Collaboration Tool",
+      "Digital mathematics workbook",
+      "Virtual reward system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

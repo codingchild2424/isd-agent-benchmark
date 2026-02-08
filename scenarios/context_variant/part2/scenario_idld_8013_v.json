@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8013-V",
+  "variant_type": "context_variant",
+  "title": "VR-Based Adaptive Mathematics Learning System: Personalized Feedback via Eye-Tracking and Deep Learning",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning environment combining smartphone-based VR viewers with offline workbooks, structured with biweekly VR practical sessions and three offline workshops",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can improve problem-solving concentration by over 30% using eye-tracking technology in a VR environment",
+    "Learners can apply mathematics problem-solving strategies tailored to individual cognitive load via a deep learning-based adaptive feedback system with 80% accuracy",
+    "Learners can achieve a correlation of 0.7 or higher between visual attention metrics and conceptual understanding measured in formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "30 Sets of Smartphone-Compatible VR Viewers",
+      "Eye-Tracking Software License",
+      "300 Offline Math Workbooks",
+      "Cloud-Based Learning Analytics Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

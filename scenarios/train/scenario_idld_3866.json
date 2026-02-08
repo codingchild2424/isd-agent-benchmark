@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3866",
+  "variant_type": "idld_aligned",
+  "title": "Self-Directed Mathematics Learning Design Through MOOC-Based Self-Monitoring Strategies",
+  "context": {
+    "prior_knowledge": "High school-level mathematics fundamentals and experience using online learning platforms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Asynchronous learning environments using digital devices, establishment of personalized feedback systems for individual learners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can achieve ≥80% of weekly learning objectives using quizzes and problem-solving tutorials provided in MOOCs",
+    "Learners can record and analyze their cognitive and metacognitive processes via reflective questioning once weekly",
+    "Learners can revise learning strategies ≥2 times by synthesizing peer evaluations and instructor feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MOOC platform (LMS-integrated)",
+      "Digital learning tools (quiz generator, progress chart)",
+      "Online Discussion Forum"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

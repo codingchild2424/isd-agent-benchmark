@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5710",
+  "variant_type": "idld_aligned",
+  "title": "Strengthening Long-Term Memory in Antimicrobial Pharmacology: Active Learning-Based Online Course",
+  "context": {
+    "prior_knowledge": "Basic pharmacology concepts and understanding of microbiology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners review pre-learning materials through the LMS platform, participate in asynchronous discussions, and engage in active learning tasks. Using personal devices (BYOD), they create and share flower diagrams for collaborative assessment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately represent the spectrum of action of antimicrobial agents using a flower diagram.",
+    "Learners achieve a correct answer rate that is 5% higher than traditional lecture-based education in an assessment test after 10 weeks.",
+    "Learners successfully store core concepts of antimicrobial pharmacology in long-term memory through active learning methods."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Flower diagram template",
+      "Digital whiteboard tool",
+      "Formative assessment quiz bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

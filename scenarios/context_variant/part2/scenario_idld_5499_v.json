@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5499-V",
+  "variant_type": "context_variant",
+  "title": "Web Development Practical Competency Enhancement: Dynamic Dual Learning Model Design Based on Image Denoising",
+  "context": {
+    "prior_knowledge": "Linear Algebra, Probability Theory, Basic Deep Learning Concepts, and Python Programming",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Comparative analysis and application of residual/non-residual learning methods for image restoration under various noise levels.",
+    "Implementation and optimization of attention mechanisms for dynamic feature map learning.",
+    "Design and evaluation of a fusion model capable of handling multiple noise levels with a single network.",
+    "Learners can compare and analyze three or more denoising techniques (e.g., Non-local Means, BM3D, deep learning-based methods) on real image datasets (e.g., noisy CIFAR-10 version) during a 2–4-week mid-term course, propose optimal solutions through project reports, and achieve over 70 points on the evaluation rubric (40% technical accuracy, 30% implementation completeness, 30% creativity)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

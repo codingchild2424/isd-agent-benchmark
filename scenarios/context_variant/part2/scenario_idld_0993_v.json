@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-0993-V",
+  "variant_type": "context_variant",
+  "title": "Surfboard Design and Production Technology Education: Supervisor-Guided and Video-Enhanced Learning-Based Project",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "The learner is an intermediate professional in administrative/management roles, aiming to enhance technical problem-solving skills in a blended learning environment utilizing personal devices (BYOD). Evaluation is based on the functional quality of the final surfboard prototype and the team collaboration process.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can optimize the shape and material performance of a surfboard by applying fluid dynamics principles.",
+    "Learners can create blueprints using 3D modeling software and produce mock-ups via CNC machining processes.",
+    "Learners can improve design errors by over 80% by referencing supervisor feedback and instructional videos."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CAD/CAM Software License",
+      "CNC Machining Equipment (Shared Resource)",
+      "Surfboard Fabrication Materials (Foam, Fiberglass, etc.)",
+      "Learning Management System (LMS) and Video Conferencing Tools",
+      "Step-by-Step Fabrication Guide Video Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

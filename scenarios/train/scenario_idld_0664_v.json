@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0664-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Earth Science Microlearning Design Utilizing the 5E Model",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Content optimized for smartphone-based educational environments, emphasizing work integration for professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles of plate tectonics through mobile activities aligned with each phase of the 5E Model.",
+    "Learners can analyze earthquake generation mechanisms using smartphone-based simulation tools.",
+    "Learners can apply earth science concepts linked to social issues (e.g., disaster response) in project deliverables."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Geoscience AR App",
+      "PDF Worksheet Template",
+      "Chatbot-based Interactive Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

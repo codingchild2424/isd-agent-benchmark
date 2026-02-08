@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN3-0043",
+  "variant_type": "balance_teen_v3",
+  "title": "Collaborative Design and Iterative Testing Workshop for Educational Game Development",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and proficiency in digital tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners are general citizens with intermediate expertise in science, strengthening collaborative problem-solving skills through educational game development projects.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learning objectives for educational games can be clearly defined in three or more ways linked to scientific content.",
+    "Game design prototypes are iteratively improved at least twice using a collaborative design process.",
+    "User feedback is incorporated through repeated testing, achieving at least 80% on game effectiveness evaluation metrics."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Game Development Tools (Unity/Unreal Engine)",
+      "Science Education Content Library",
+      "Digital Devices (Tablet/Laptop)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

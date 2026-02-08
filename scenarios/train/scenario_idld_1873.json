@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1873",
+  "variant_type": "idld_aligned",
+  "title": "Development of On-Demand Hint Utilization Strategies in Online Mathematics Learning",
+  "context": {
+    "prior_knowledge": "Foundational mathematics comprehension and basic digital device manipulation",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Problem-solving activities conducted using digital devices in the classroom. Implementation of an on-demand hint system tailored to individual learning levels.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can select and utilize on-demand hints at appropriate stages during the mathematical problem-solving process",
+    "Students can improve error correction and concept application skills by over 80% after utilizing hints",
+    "Students can develop self-directed learning strategies based on their hint usage patterns"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PCs (30 Units)",
+      "Online math learning platform license",
+      "Hint-providing algorithm template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

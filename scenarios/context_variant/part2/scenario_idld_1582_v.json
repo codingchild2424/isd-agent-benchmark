@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1582-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Foundations of Gaussian Wiretap Channel Security Code Design",
+  "context": {
+    "prior_knowledge": "Foundational knowledge of communication theory and basic understanding of information security",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain the fundamental principles and security requirements of Gaussian wiretap channels",
+    "Learners can implement step-by-step a secure code design process using autoencoders and hash functions.",
+    "The error probability and information leakage measurement method at short block lengths (≤128) can be verified through simulation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0500",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Information Theory and Optimization Problems: Core Concepts and Applications",
+  "context": {
+    "prior_knowledge": "Foundational Probability Theory and Linear Algebra Knowledge, Programming Basics",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short intensive course on applying core information theory concepts and optimization techniques to real-world problems, combining lectures with practical case analyses",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles of Information Bottleneck (IB) and Privacy Funnel (PF) theories.",
+    "Learners can define optimization problems using mutual information measurement methods and derive solutions.",
+    "Learners can explain how to apply information-theoretic approaches to real-world problems (e.g., hypothesis testing, data compression, privacy protection)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Information Theory Calculation Library",
+      "Online Collaboration Tools",
+      "Lecture Material PDF"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

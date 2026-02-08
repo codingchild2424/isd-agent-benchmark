@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6545",
+  "variant_type": "idld_aligned",
+  "title": "Impact of Cultural Conditioning on Mathematical Problem-Solving Learning: Comparative Experimental Instructional Design",
+  "context": {
+    "prior_knowledge": "Proficiency in fundamental accounting concepts and mathematical problem-solving skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are adult college students in their 30s with diverse cultural backgrounds, undergoing accounting education based on elementary-level math knowledge. They engage in asynchronous learning via an online platform with continuous feedback through formative assessments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze graph/text-based learning material preferences according to cultural conditioning levels with 80% accuracy.",
+    "Propose at least three effective instructional design strategies for low-power distance (PD) and high-power distance cultural environments.",
+    "Explain the influence of cultural factors by linking learning outcomes (problem-solving scores) and cognitive load (survey ratings) data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Experimental Graph/Text Data Sets",
+      "Online Survey Tool",
+      "Learning Analytics Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

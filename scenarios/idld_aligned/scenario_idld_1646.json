@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1646",
+  "variant_type": "idld_aligned",
+  "title": "Personalized Game-Based Learning Course for Strengthening Scientific Knowledge",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental scientific concepts and experimental methodologies",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized science education course for working professionals, implementing VR-based experimental simulations applicable to job tasks",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform experimental procedures with over 85% accuracy in VR-based science simulation games",
+    "Learners can revise and supplement science concepts aligned with their cognitive level three or more times through in-game feedback systems",
+    "Learners can design two or more personalized learning pathways using adaptive game mechanisms (e.g., difficulty adjustment, content recommendations)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IMS-LD Compliant LMS Platform",
+      "e-Adventure-Based Interactive Science Game",
+      "VR Headset and Motion Tracking Equipment",
+      "Learner Progress Tracking Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

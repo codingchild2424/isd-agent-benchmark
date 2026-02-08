@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8288-V",
+  "variant_type": "context_variant",
+  "title": "Development and Application of E-Learning Modules for Improving Healthcare Quality",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "E-learning program for administrative/managerial staff in healthcare institutions. Aims to enhance medical quality management competencies related to their duties through computer-based learning modules.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain hand hygiene protocols through e-learning modules and apply them with 80% accuracy",
+    "Learners can list key steps of the Community-Acquired Pneumonia (CAP) management protocol and apply them to cases with 90% accuracy",
+    "Learners can submit feedback on usability and content suitability of e-learning systems via module evaluation surveys"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Healthcare quality management guidelines (PDF)",
+      "CAP diagnosis/treatment standard protocol video",
+      "Hand hygiene checklist template",
+      "Learning Management System (LMS) Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

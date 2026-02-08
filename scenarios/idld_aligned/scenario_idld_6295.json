@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6295",
+  "variant_type": "idld_aligned",
+  "title": "Implementation and Evaluation of Emergency Remote Teaching (ERT): A Mathematics Vocational Training Course",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and workplace problem-solving experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Need to strengthen remote education response capabilities in emergency situations similar to COVID-19. Potential constraints may include internet connectivity and time limitations for learning",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "The ability to utilize three or more digital tools for solving math problems in emergency remote teaching environments is assessed",
+    "Work-integrated math tasks reflecting blended learning design principles (simplicity, flexibility, empathy) are completed with over 80% accuracy",
+    "Technical and learning challenges encountered during ERT can be analyzed, and improvement plans can be proposed"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS (Learning Management System)",
+      "Video Conferencing Tool",
+      "Mobile-Optimized Learning Materials",
+      "Offline Activity Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8028",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Advanced Training for Integrating Human Resource Management and Informal Workplace Learning",
+  "context": {
+    "prior_knowledge": "Organizational behavior theory, basic human resource management, and adult learning theories",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Recreates real organizational environments through learner role-playing and VR simulations, utilizing collaboration tools in BYOD environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze and apply eight HRM strategies to enhance organizational members' affective commitment in a simulated environment.",
+    "Propose a design plan for an organizational support system (based on Organizational Support Theory) to promote informal learning through VR scenario-based team projects.",
+    "Implement a mathematical modeling process for building workplace learning communities by applying Lave & Wenger's Situated Learning Theory."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "HRM case database",
+      "VR scenario templates",
+      "Collaboration platform license"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

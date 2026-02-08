@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4531-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practice Competencies: Deliberate Practice for High-Quality CPR Training",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can maintain a chest compression depth of at least 5 cm and the correct rate of 100–120 compressions per minute during CPR performance.",
+    "Learners can improve quality metrics—such as compression depth, rate, and recoil—by over 80% using a real-time feedback system.",
+    "Learners can reproduce high-quality CPR skills with over 90% accuracy after a 6-month course."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

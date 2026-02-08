@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8833-V",
+  "variant_type": "context_variant",
+  "title": "Science Education Design and Feedback Strategies Utilizing Generative Artificial Intelligence (GenAI)",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Most Learners Are Prospective Elementary Teachers or Job Seekers in Related Fields, Highly Interested in Practical Tools Applicable to Science Education Settings",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners generate three or more science education design frameworks using generative AI tools (LLMs)",
+    "Learners critically analyze and improve GenAI-based feedback according to evaluation criteria",
+    "Learners propose five or more ethical usage principles for GenAI in science education content development"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ChatGPT 3.5/4.0 API Access",
+      "AI-Integrated Module within LMS",
+      "Science Instructional Design Template Database",
+      "Case analysis worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

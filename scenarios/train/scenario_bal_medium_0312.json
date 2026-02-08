@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0312",
+  "variant_type": "balance_medium_scale",
+  "title": "Integrated Education for Evidence-Based Medicine Clinical Application",
+  "context": {
+    "prior_knowledge": "Possession of basic medical knowledge and clinical practice experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Training for practicing medical professionals to strengthen competencies in applying Evidence-Based Medicine (EBM) principles to clinical scenarios. Scenario-based learning is enhanced via VR simulations in a BYOD environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Apply the PICO framework to evaluate evidence levels with 80% accuracy during clinical case analysis",
+    "Successfully develop evidence-based treatment plans according to EBM principles in a VR simulation environment three times consecutively",
+    "Perform patient-tailored decision-making based on actual clinical data analysis with over 90% participation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Case Database",
+      "Evidence-Based Medicine (EBM) guideline documents",
+      "VR Simulation Equipment",
+      "Mobile Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

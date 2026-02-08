@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0920-V",
+  "variant_type": "context_variant",
+  "title": "Simulation-Based Instructional Design for Strengthening Engineering Students' Mathematical Competencies",
+  "context": {
+    "prior_knowledge": "Basic mathematics (calculus, linear algebra) and foundational engineering theories (understanding of circuit elements)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized education for pre-service/in-service teachers to improve engineering mathematics application skills, providing practical learning environments through smartphone-based VR simulations",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Achieve at least 80% proficiency in modeling and solving differential equations for engineering problem-solving",
+    "Improve accuracy in complex number operations and matrix analysis for circuit theory applications by 75%",
+    "Complete a project applying mathematical approaches to real-world engineering problems using simulation tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Simulation Software",
+      "Mobile-Optimized Mathematics Learning Content",
+      "Offline activity worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

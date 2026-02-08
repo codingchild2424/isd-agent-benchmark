@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7807-V",
+  "variant_type": "context_variant",
+  "title": "Data-Driven Project Learning for Tinnitus Diagnosis and Treatment Monitoring",
+  "context": {
+    "prior_knowledge": "Basic mathematics and statistics knowledge, fundamental smartphone/tablet utilization skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners analyze tinnitus diagnostic data using simplified machine learning models for real-life problem-solving. Actual experimental data is not provided; reconstructed sample datasets for educational purposes are used.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can mathematically interpret data distributions by frequency bands (central frequency, skewness, etc.).",
+    "Learners can design a project to classify tinnitus conditions by applying the fundamental principles of machine learning models.",
+    "Learners can explain the key predictive factors of a diagnostic model by interpreting SHAP analysis results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Educational machine learning toolkit (e.g., Orange3)",
+      "Reconstructed tinnitus research dataset",
+      "PBL (Project-Based Learning) Guide Documents",
+      "Smartphone/tablet-compatible app"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

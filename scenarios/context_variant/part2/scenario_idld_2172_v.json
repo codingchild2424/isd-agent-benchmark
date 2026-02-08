@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2172-V",
+  "variant_type": "context_variant",
+  "title": "VR Video Podcasts with Worked Examples for Pre-Calculus Learning",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A short-term program for corporate managers/leaders to systematically acquire foundational calculus concepts through VR environments and video podcasts.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply differentiation and integration methods of linear functions to solve practical problems.",
+    "Learners can interpret and explain rate-of-change patterns of functions through graph visualization.",
+    "Learners can perform calculus problem-solving processes using task examples in a VR simulation environment with over 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR equipment rental system",
+      "BYOD (Bring Your Own Device) mobile learning app",
+      "3D graph visualization tool",
+      "Interactive question bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

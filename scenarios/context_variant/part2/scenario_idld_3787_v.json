@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3787-V",
+  "variant_type": "context_variant",
+  "title": "Computer-Supported Learning Design for Improving Argumentative Mathematical Writing Skills",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Aims to strengthen argumentative writing skills in smartphone-centric limited-technology environments, focusing on logically structuring explanations of mathematical concepts",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can clearly articulate the process of solving mathematical problems in a structured argumentative form.",
+    "Learners can compose mathematical arguments incorporating logical reasoning with three or more levels of justification (assumptions-proofs-conclusions).",
+    "Learners can improve their argumentative writing proficiency by 20% or more based on peer assessment feedback."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized Argumentation Support Tool",
+      "Mathematical Argumentation Case Database",
+      "Mobile-Compatible Feedback Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

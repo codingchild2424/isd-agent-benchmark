@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN2-0012",
+  "variant_type": "balance_teen_v2",
+  "title": "Humanized Pedagogical Design for Online Science Classes: Critical Reflection and Inclusive Practices for K-12",
+  "context": {
+    "prior_knowledge": "Understanding basic scientific concepts and experience using digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Need to establish individualized feedback systems for project-based activities linked to science curricula",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can critically analyze peers' opinions on online discussion boards and propose three or more improvement strategies",
+    "Learners can use mobile devices to document the scientific experiment process and then write a reflective journal entry of at least 500 characters.",
+    "Learners can collaboratively produce science project outcomes and complete presentation materials with peers from multicultural backgrounds using digital collaboration tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PC",
+      "Educational App Licenses",
+      "Digital Whiteboard",
+      "Reflective journal template",
+      "Science Experiment Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

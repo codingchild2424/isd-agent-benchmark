@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8273",
+  "variant_type": "idld_aligned",
+  "title": "PBL Problem Design Simulation Course for Medical/Legal/Technical Professionals",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and foundational understanding of field-specific (medical/legal/technical) concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Providing real-time feedback focused on problem-solving using VR simulations and collaborative tools in a BYOD environment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design PBL problems based on the 3C3R model through a 9-step process",
+    "Learners diagnose language problems matching real-world professional scenarios (medical/legal/technical) in simulated environments with ≥80% accuracy",
+    "Learners validate the validity of problem designs through peer evaluation at least three times"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment",
+      "Collaboration platform license",
+      "PBL Problem Template",
+      "Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

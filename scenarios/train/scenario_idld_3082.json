@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3082",
+  "variant_type": "idld_aligned",
+  "title": "Online Mathematics Learning Design for EHEA Competency-Based Assessment",
+  "context": {
+    "prior_knowledge": "Basic mathematics knowledge at the secondary school level",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Competency-based math curriculum integrating self-directed learning and formative assessment in smartphone-centric constrained technology environments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can document weekly mathematics problem-solving processes and self-assess using a blog-based platform.",
+    "Learners can improve final outputs by revising problem-solving strategies based on peer and instructor feedback.",
+    "Learners can demonstrate EHEA core competencies (analytical thinking, self-direction, digital literacy) with over 80% proficiency."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Competency Assessment Rubric",
+      "Smart Device-Compatible Mathematics Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6630-V",
+  "variant_type": "context_variant",
+  "title": "Collaborative Learning Process for Domotics Design Simulation",
+  "context": {
+    "prior_knowledge": "Basic programming comprehension and general familiarity with home automation systems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Large-scale remote classroom environments utilizing real-time video conferencing tools and cloud-based simulation platforms",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify the basic components of a domotics system and explain their functions.",
+    "Learners can collaborate on designing home automation scenarios using simulation tools.",
+    "Learners can improve design prototypes through real-time collaboration with peers during problem-solving processes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cloud-Based Simulation Tool (Similar to DomoSim-TPC System)",
+      "Real-Time Collaborative Whiteboard (e.g., Miro)",
+      "Pre-Designed Domotics Design Templates",
+      "Automated Design Evaluation Script"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

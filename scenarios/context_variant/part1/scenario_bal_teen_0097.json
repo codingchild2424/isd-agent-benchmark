@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0097",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Web-Based Computer-Assisted Learning Design for Middle School English Education",
+  "context": {
+    "prior_knowledge": "Basic English vocabulary and grammar comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Web-based learning system operating in smartphone-centric limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can acquire and utilize 500 intermediate-level English vocabulary items within six months through a web-based system",
+    "Learners can self-correct over 80% of grammatical errors using real-time feedback functionality",
+    "Students submit deliverables applying ≥3 English reading/writing skills (requirements analysis, user story writing, bug report writing) to real-world software development projects (e.g., app proposal drafting, technical document translation) and achieve ≥4 points (out of 5) on the teacher’s evaluation rubric."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Web-Based Learning Platform",
+      "Online Assessment Tool",
+      "Digital Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

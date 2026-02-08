@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5844",
+  "variant_type": "idld_aligned",
+  "title": "Selective Decentralization Design for Enhancing Reinforcement Learning Performance",
+  "context": {
+    "prior_knowledge": "Feedforward neural networks, basic control systems, and foundational concepts of reinforcement learning",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Reinforcement learning model design course for medical/legal/technical professionals, focusing on workplace applicability. Collaborative learning environment utilizing personal devices",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can construct unknown environmental models using system identification techniques in model-based reinforcement learning",
+    "Learners can design optimal control strategies by deriving approximate solutions to the Hamilton-Jacobi-Bellman (HJB) equation",
+    "Learners can compare and evaluate selective decentralization strategies based on linear/nonlinear system characteristics and determine optimal communication policies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based reinforcement learning framework (e.g., Stable Baselines3)",
+      "Jupyter Notebook Environment",
+      "Distributed systems simulation tools",
+      "Control Theory Textbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

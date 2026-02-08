@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0271",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Responsibility-Based Science Learning Experience Design: Enhancing Job Competencies Through Simulation/VR",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific theories and experimental procedures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Simulation/VR learning environments for students targeting science careers (research assistant/quality control, etc.) to strengthen self-directedness and accountability",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can responsibly design decision-making processes to solve scientific problems in VR simulation environments.",
+    "Learners can perform root cause analysis and corrective procedures for experimental errors with over 80% accuracy.",
+    "Learners can reflectively document and improve their learning outcomes at least three times based on peer assessments and instructor feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR science lab kit",
+      "BYOD-Compatible Learning Management System (LMS)",
+      "Science Simulation Content Library",
+      "Real-time collaboration tools (Miro, Jamboard, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

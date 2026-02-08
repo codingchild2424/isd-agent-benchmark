@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3745-V",
+  "variant_type": "context_variant",
+  "title": "Blended Learning for Enhancing Core Competencies in Pharmacology",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Pharmacology education program combining mobile-accessible micro-content with intensive offline workshops, targeting professionals in medical translation and international clinical research support roles",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately describe the pharmacokinetic properties of neurotransmitters and major disease treatments with at least 80% accuracy",
+    "Learners can perform drug interaction simulations using digital tools and identify at least three risk factors",
+    "Learners can develop and present drug therapy protocols applicable to real clinical scenarios in team-based projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "3D molecular modeling applications",
+      "Real-time video collaboration tools",
+      "Clinical Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2364",
+  "variant_type": "idld_aligned",
+  "title": "Blended Learning-Based Advanced Mathematics Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "College-level foundational mathematics knowledge and practical experience in professional fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Asynchronous blended learning environment optimized for smartphone-based learning, requiring flexible design considering professionals' work schedules",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can plan and execute self-directed learning sessions of at least 60 minutes, three or more times per week",
+    "Learners can engage in meaningful academic exchanges with peers and instructors at least twice monthly using synchronous/asynchronous interaction tools",
+    "Learners can apply advanced mathematical concepts to real-world work scenarios through module-specific competency assessments (scoring 80% or higher)",
+    "Learners can achieve target competencies within 12 weeks by combining system-recommended learning pathways with self-selected learning activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Interactive Mathematics Simulation Tool",
+      "Automated Adaptive Assessment System",
+      "Peer Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6162-V",
+  "variant_type": "context_variant",
+  "title": "Liver Surgery Training Scenario-Based Education Curriculum",
+  "context": {
+    "prior_knowledge": "Elementary-level understanding of basic human anatomy and surgical procedures",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducted in a smartphone-centric limited technological environment, this program strengthens decision-making and procedural training through scenarios based on actual surgical cases",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can determine resectable areas with 80% accuracy by analyzing pre-operative liver surgery imaging data.",
+    "Learners can explain the process of establishing surgical plans through virtual resection simulations using 3D models.",
+    "Learners can identify at least three core elements of the surgical decision-making process by analyzing real surgical cases (videos, reports, etc.)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Scenario-Based Educational Software",
+      "3D Model Dataset of Liver Anatomy",
+      "Radiological Imaging Materials and Surgical Case Archive",
+      "Expert Feedback Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

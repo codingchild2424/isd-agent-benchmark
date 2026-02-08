@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2474-V",
+  "variant_type": "context_variant",
+  "title": "Online Mathematics Learning Effectiveness Improvement Strategies Using the Advance Organizer Model",
+  "context": {
+    "prior_knowledge": "Basic Mathematical Concepts and Experience with Online Learning Tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced mathematics application course for professionals in medical/legal/technical fields, emphasizing real-time interaction and project-based assessment in a BYOD environment",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Complex mathematical concepts can be explained with over 80% accuracy using the advance organizer model",
+    "Collaborative learning activities with peers utilizing Zoom tools (polls, screen sharing, etc.) can be completed with over 90% success",
+    "Learners can select one job-related problem (e.g., inventory optimization, budget allocation) in a week-long PBL assessment, apply at least two mathematical theories (linear programming, statistical modeling, etc.) to design a solution, and achieve a B grade or higher in four of five rubric items (problem definition, theory application, feasibility, creativity, presentation effectiveness)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account",
+      "Digital Whiteboard",
+      "Real-Time Survey Tools",
+      "Assignment submission platforms"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

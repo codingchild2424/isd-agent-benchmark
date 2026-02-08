@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-FINAL-0110",
+  "variant_type": "balance_medium_final",
+  "title": "Database Modeling Education Utilizing Visual Abstraction Layers",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental database concepts (tables, relationships, etc.)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Centered on smartphone-based learning activities, with practical feedback provided in face-to-face sessions",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can generate conceptual database models by applying the four-level abstraction hierarchy (Task-Semantics-Syntax-Lexical).",
+    "Learners can explain the visual transition process between ER diagrams and relational schemas and perform error-free mapping.",
+    "Learners can recognize cognitive load during database modeling and evaluate problem-solving skills using visualization strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Diagram Tool",
+      "Hierarchical Modeling Worksheet (PDF)",
+      "Step-by-Step Video Tutorials (5-Minute Segments)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

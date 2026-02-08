@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2175",
+  "variant_type": "idld_aligned",
+  "title": "Project-Based Science Learning Design to Improve the Effectiveness of Online Tutoring and E-Moderation",
+  "context": {
+    "prior_knowledge": "Foundational science knowledge and online learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Science project-based learning design for non-degree adult learners in smartphone-centric limited-technology environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can facilitate structured discussions on scientific topics in online discussion platforms.",
+    "Learners improve project deliverables based on peer feedback and e-moderator guidance.",
+    "Learners can build effective online learning communities using tools accessible in smartphone environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Science-Related Open-Source Datasets",
+      "Simplified Survey Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

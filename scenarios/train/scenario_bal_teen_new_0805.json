@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0805",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Bayesian Reasoning Competency Enhancement Project Through Conceptual Learning Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic probability theory, statistical concepts, and experience in analyzing social data",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners apply Bayesian inference to solve real-world social problems, with emphasis on collaboration and self-directed learning using personal devices",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can model complex social data using Bayesian inference to derive prediction results with over 80% accuracy",
+    "Learners can explicitly correct their misconceptions identified during problem-solving and incorporate at least three improvements into the final report",
+    "Learners can compare the PS-I and I-PS approaches, explaining the strengths and weaknesses of each strategy with situational examples"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "R/Python Statistical Package License",
+      "Social Data Set (Public Institution Open Data)",
+      "Online Collaboration Tools (Notion, Miro)",
+      "Bayesian Inference Simulation Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

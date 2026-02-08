@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7078",
+  "variant_type": "idld_aligned",
+  "title": "Impact of Learning Styles and Sensory Modalities: Optimized Microlearning Strategies for Mathematical Thinking",
+  "context": {
+    "prior_knowledge": "Understanding of Elementary Mathematical Concepts (Middle School Level)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "10-minute modular learning via mobile devices. Structured around mathematical application cases for solving real-world problems",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can compare and explain information-processing characteristics across sensory modalities (visual/auditory/tactile)",
+    "Learners can design optimal sensory modality strategies based on mathematical problem types",
+    "Learners can accurately select learning materials (e.g., graphs/audio/interactive exercises) considering sensory modalities in microlearning environments with ≥80% accuracy"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible interactive content authoring tool",
+      "Modality-specific mathematics problem database",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

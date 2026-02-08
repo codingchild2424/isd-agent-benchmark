@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8810",
+  "variant_type": "idld_aligned",
+  "title": "Simulation/VR-Based University Science Teaching Method Design",
+  "context": {
+    "prior_knowledge": "Basic scientific domain theories and understanding of experimental procedures",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducting project-based assessments in a digital device-provided environment for office/administrative professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the scientific experiment design and analysis process using simulation/VR tools",
+    "Learners apply experimental problem-solving strategies with over 80% accuracy through peer feedback and instructor coaching",
+    "Learners write and present a project report explaining scientific principles based on data collected in a VR environment within 4 weeks"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment",
+      "Simulation Software License",
+      "Scientific Experiment Dataset",
+      "Online Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

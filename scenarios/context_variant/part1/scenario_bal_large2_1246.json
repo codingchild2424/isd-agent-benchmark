@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1246",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Distance Education Design and Operational Strategies Utilizing Hypermedia",
+  "context": {
+    "prior_knowledge": "Foundational educational technology theories and experience with digital teaching tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for pre-service teachers to develop hypermedia-based lesson design skills applicable in actual elementary and secondary school settings.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners analyze hypermedia content types (text, images, videos, interactive elements) and effectively integrate them into language education.",
+    "When designing mobile-optimized microlearning modules, learners apply principles of hyperlinking, multitasking, and nonlinear learning pathways.",
+    "In BYOD (Bring Your Own Device) environments, learners develop and operate hypermedia-based assessment tools (quizzes, feedback systems) to enhance engagement."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Hypermedia Authoring Tool",
+      "Open Educational Resources (OER) Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

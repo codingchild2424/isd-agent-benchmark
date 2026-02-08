@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0054",
+  "variant_type": "balance_teen_k12",
+  "title": "Error Analysis and Improvement Strategies for Predictive Learning Analytics (PLA) Models in K-12 Education",
+  "context": {
+    "prior_knowledge": "Foundational statistics, understanding of machine learning models, and basic learning analytics concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-oriented course analyzing error cases of the PLA model and deriving improvement strategies in a project-based assessment environment using digital devices.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Classify PLA model's False Negative (FN) and False Positive (FP) errors by context and explain their causes",
+    "Identify external factors (health, home environment, etc.) hindering learner behavior prediction and propose data source expansion plans",
+    "Error analysis can derive and implement improvement points for learning design (e.g., introducing prior knowledge assessment tools)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "PLA model simulation tool",
+      "Learner interview dataset",
+      "Learning Management System (LMS) log samples"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

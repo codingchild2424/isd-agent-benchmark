@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1061",
+  "variant_type": "balance_teen_filtered",
+  "title": "Game-Based Experiential Learning Program for AI Applications and Computational Thinking (K-12)",
+  "context": {
+    "prior_knowledge": "Basic digital device usage skills and elementary-level language comprehension",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A process design that integrates self-regulated learning strategies into a game-based learning environment using VR devices, simultaneously reducing initial learner anxiety and enhancing long-term memory retention",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply the three elements of computational thinking (decomposition, pattern recognition, abstraction) to solve real-life problems through AI-based simulation games.",
+    "Learners demonstrate an 80% or higher achievement rate in AI concept comprehension assessments using self-regulated learning strategies.",
+    "Learners can develop a plan for creating language education content using AI application cases in a VR simulation environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headsets (10 units)",
+      "AI 2 Robot City board game digital version",
+      "Learning progress analytics LMS system",
+      "Customized learning guidebook (Korean)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

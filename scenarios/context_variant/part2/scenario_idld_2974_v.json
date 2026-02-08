@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2974-V",
+  "variant_type": "context_variant",
+  "title": "Cognitive Achievement and Technological Presence Enhancement in Online Project-Based Science Learning",
+  "context": {
+    "prior_knowledge": "Foundational science knowledge (biology/chemistry/physics)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Environment where early-career professionals in medical/legal/technical fields collaborate using digital devices to solve real-life problem-solving projects",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply scientific concepts with over 80% accuracy through real-time interactions with peers/instructors on an online discussion platform.",
+    "Learners can submit project deliverables reflecting peer feedback at least twice a week using digital collaboration tools (e.g., Google Workspace).",
+    "Learners can explain, through analysis of online learning activity logs, how their digital presence (login frequency, interaction count) correlates with cognitive achievement."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS (Learning Management System)",
+      "Video Conferencing Tool",
+      "Digital Collaboration Platforms",
+      "Science experiment simulation software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

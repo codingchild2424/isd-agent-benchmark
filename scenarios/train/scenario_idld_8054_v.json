@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8054-V",
+  "variant_type": "context_variant",
+  "title": "Three Worlds of Instructional Design (ID): Real-World Problem-Based Strategies for Integrating Knowledge, Learning, and Practice",
+  "context": {
+    "prior_knowledge": "Basic instructional design theory and professional work experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course focused on solving real-world job-related problems in smartphone-centric, technology-constrained environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can systematically design learning outcomes for professional fields through knowledge structure analysis.",
+    "Learners apply five optimization strategies (e.g., chunking, visual cues) based on Cognitive Load Theory (CLT) to three or more real-world problem scenarios (e.g., code refactoring, system bottleneck analysis) and propose solutions improving task efficiency by 20% or more.",
+    "Learners develop a certified assessment tool (e.g., Python/Django or Node.js) applicable to job environments, implement a real-time text feedback system based on user responses, and meet internal standards (80% functionality, 70% usability)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Real-World Job Case Database",
+      "Interactive Simulation Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

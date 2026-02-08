@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0029-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Learning for Educational Research Utilizing Public Data Mining",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasizing collaborative learning and self-directed research capabilities for large-scale learners in smartphone-centric limited-technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can identify open data sources and systematically collect data relevant to research questions.",
+    "Learners can perform quantitative/qualitative analysis using smartphone-based tools and interpret the results.",
+    "Learners can design research that reflects ethical considerations in educational contexts (e.g., privacy protection, data bias).",
+    "Learners can propose practical solutions by connecting educational issues with open data through team-based projects."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Public Data Portal API",
+      "Mobile Data Analysis Tool (Google Data Studio, etc.)",
+      "Open-Source Collaboration Platform (Notion, Padlet)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

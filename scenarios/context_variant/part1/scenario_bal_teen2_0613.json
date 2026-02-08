@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0613",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Understanding Semiconductor Exhaust System Powder Accumulation Monitoring Technology",
+  "context": {
+    "prior_knowledge": "Basic Engineering Knowledge and Understanding of Semiconductor Manufacturing Processes",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners experience a real semiconductor manufacturing environment through VR simulation, understanding ultrasound sensors and machine learning-based monitoring systems. Practical sessions are conducted on personal devices in a BYOD environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the causes and impacts of powder accumulation in semiconductor exhaust systems.",
+    "Learners can understand and apply the principles of powder thickness measurement using ultrasonic sensors and machine learning.",
+    "Learners can analyze monitoring system data in a simulated environment and propose preventive maintenance strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Equipment",
+      "Ultrasonic Sensor Data Samples",
+      "Machine Learning Model Visualization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

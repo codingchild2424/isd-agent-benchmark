@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4805",
+  "variant_type": "idld_aligned",
+  "title": "Workshop on Building a Digital Repository for Summer Internship Project Reports",
+  "context": {
+    "prior_knowledge": "Basic Digital Document Management Experience and Smartphone Utilization Skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners study methods to build digital repositories using open-source tools in smartphone-centric limited-technology environments. Focus is on improving scientific report management processes based on practical field experience.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Using open-source software (Greenstone), learners can systematically collect summer internship project reports.",
+    "Learners can apply methods to enhance report search efficiency according to metadata input standards.",
+    "Learners acquire practical skills to operate and maintain a digital repository using only smartphones in limited technological environments."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Greenstone Software",
+      "Metadata Template",
+      "Mobile-compatible LMS platform",
+      "Document Editing Tool for Smartphones"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

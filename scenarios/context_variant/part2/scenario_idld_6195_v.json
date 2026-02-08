@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-6195-V",
+  "variant_type": "context_variant",
+  "title": "Engineering Practical Competency Enhancement Course Utilizing Virtual Design Studio",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A socially constructivist educational environment where practicing professionals collaborate on design projects in virtual settings, using personal devices to access VR/simulation platforms for peer observation and feedback.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can complete three or more engineering design projects using collaborative tools in a virtual design studio.",
+    "Learners can observe and analyze (listening-in) peers' design work and apply two or more improvements to their own design process.",
+    "Learners can communicate in real-time with peers and instructors via online feedback mechanisms and correct over 80% of design errors.",
+    "Learners can develop five or more creative problem-solving strategies through social comparison and community-based learning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR/Simulation Software Licenses",
+      "Cloud-based Collaboration Platform",
+      "Design templates and 3D modeling resources",
+      "Automated project evaluation system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

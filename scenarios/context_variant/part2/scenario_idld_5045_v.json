@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5045-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Medical Practical Competencies: Gesture-Based Instructional Design Scenarios for Understanding Statistical Concepts",
+  "context": {
+    "prior_knowledge": "Understanding of basic statistical terminology (mean, variance, etc.)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can provide explanations that simultaneously consider the mean and standard deviation in real data scenarios.",
+    "Learners can physically embody and explain statistical concepts by mimicking a teacher's gestures.",
+    "Learners can accurately predict data distributions by interpreting statistical graphs through gestures."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Records (EMR) System",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

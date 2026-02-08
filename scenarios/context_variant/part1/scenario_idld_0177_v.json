@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0177-V",
+  "variant_type": "context_variant",
+  "title": "Electronic Learning in Nephrology: Case-Based Simulation Education",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Training aimed at strengthening the diagnostic and assessment capabilities of field practitioners for kidney diseases, implementing a case-based e-learning environment reflecting post-COVID-19 demand for non-face-to-face learning.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Identify and explain at least three major clinical symptoms of nephrotic syndrome patients",
+    "Perform kidney-related physical examination procedures in a VR simulation environment with 80% accuracy",
+    "Analyze the pathophysiological mechanisms and clinical correlations of kidney diseases using case-based learning materials"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Nephrotic syndrome case database",
+      "VR physical examination simulator",
+      "Interactive e-learning platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0954-V",
+  "variant_type": "context_variant",
+  "title": "Mathematical Modeling and Evaluation Framework Design for FPGA High-Level Synthesis (HLS) Optimization Techniques: Nonlinear Optimization and Multi-Fidelity Metric-Based Approaches",
+  "context": {
+    "prior_knowledge": "Understanding of FPGA basic architecture, hardware design principles, Python/MATLAB programming experience, foundational optimization theory (linear/nonlinear programming, stochastic optimization), comprehension of Gaussian processes and reinforcement learning concepts, basic matrix operations and calculus, and understanding of probability distributions and statistical estimation methods",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducting a project applying mathematics-based FPGA optimization techniques for professionals in medical, legal, and technical fields. Focuses on developing FPGA design optimization technologies specialized for medical image processing (convolution operation optimization), legal document analysis (regular expression acceleration), and technical system control (real-time control algorithm implementation), with emphasis on numerical analysis and approximation techniques tailored to domain-specific characteristics.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Correlation analysis modeling and mathematical optimization implementation between FPGA design stages using nonlinear Gaussian Process (GP): Kernel function-based nonlinear regression analysis and variational inference technique application",
+    "Learners can develop a Pareto optimal solution search algorithm based on Correlated Gaussian Process (CGP) considering correlations among multiple design objectives within six months and submit experimental results demonstrating at least 15% performance improvement over existing algorithms in three or more benchmark problems: Application of stochastic gradient descent (SGD) and Monte Carlo simulation in multi-objective optimization problems",
+    "Deep CGP (DCGP) model design using deep neural network-based kernel functions and feature representation learning capability evaluation: Convolutional Neural Network (CNN)-based feature extraction and backpropagation-based optimization implementation",
+    "Learners can design five multi-fidelity performance metrics (latency, throughput, power efficiency, resource utilization, accuracy error rate) for three HLS (directive optimization) tools (Xilinx Vitis, Intel OpenCL, NVIDIA NSight) within six months and implement an evaluation framework based on mathematical modeling to measure each metric under three experimental conditions (clock frequency 1.0GHz/1.5GHz/2.0GHz, memory bandwidth 25GB/s/50GB/s/100GB/s, workload 30%/60%/90%). Implementation results must achieve a fit score of at least 80% through peer review and instructor evaluation: Application of analysis of variance (ANOVA) and multiple regression analysis techniques in experimental design"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "FPGA Development Board (Cloud-Accessible)",
+      "Xilinx/Vivado HLS License",
+      "Jupyter Notebook Environment",
+      "GitLab Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

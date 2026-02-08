@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7900",
+  "variant_type": "idld_aligned",
+  "title": "Smart Game-Based Learning System Design: Expert Course on Ontology Utilization",
+  "context": {
+    "prior_knowledge": "Basic game design and understanding of educational systems, experience in mathematical modeling",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "An online intensive workshop for professionals in medical/legal/technical fields to acquire the competency to design smart game systems applicable to mathematical problem-solving",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Extracting three or more SGBLS design requirements using ontology-based knowledge representation tools",
+    "Completing at least one game mechanism blueprint reflecting mathematical problem-solving scenarios",
+    "Applying semantic annotation techniques for learning data linkage to real-world cases"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Protégé Ontology Editor License",
+      "Math Educational Game Template Package",
+      "Real-Time Collaborative Whiteboard Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

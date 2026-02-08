@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3364-V",
+  "variant_type": "context_variant",
+  "title": "Ethnographic Case Study for Improving Online Science Course Design Quality",
+  "context": {
+    "prior_knowledge": "Advanced knowledge in scientific disciplines",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course improving online course quality through daily design activities in smartphone-based learning environments. Emphasis is placed on iterative content improvement and establishing normative quality standards through peer collaboration.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain a systematic process for iteratively improving science content optimized for mobile environments.",
+    "Learners can apply a 3-tier evaluation criterion to assess online course design quality using peer feedback.",
+    "Learners can achieve over 80% improvement in content accessibility through routine design activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible authoring tool",
+      "Collaborative Platform Account",
+      "Case Study Video Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

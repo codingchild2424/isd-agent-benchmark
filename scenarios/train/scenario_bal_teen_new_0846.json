@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0846",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Immersive Learning Design in Social Studies Based on Virtual Reality",
+  "context": {
+    "prior_knowledge": "Basic VR device operation skills and foundational knowledge in social sciences",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners periodically study VR content using personal mobile devices and participate in historical simulations and social interaction activities",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the social context of historical events with ≥80% accuracy via VR simulations",
+    "Learners can present and incorporate feedback on social problem-solving solutions ≥2 times through VR-based collaborative activities",
+    "Learners can produce analytical reports on user experience (immersion, interaction efficiency) in VR learning environments based on evaluation criteria"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR headset (mobile-compatible)",
+      "360° video production software",
+      "Learning management system (LMS) integration tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

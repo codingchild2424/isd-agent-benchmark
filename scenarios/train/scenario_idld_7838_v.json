@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7838-V",
+  "variant_type": "context_variant",
+  "title": "Leadership Competency Development: Long-Term Safety Capacity Building for International Aid Workers",
+  "context": {
+    "prior_knowledge": "Basic Concepts of International Development Cooperation and Fieldwork Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for Corporate Management/HR Professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify site-specific risk factors and explain safety planning procedures",
+    "Learners can perform decision-making and response processes during emergencies using VR simulations",
+    "Learners draft a team safety protocol manual reflecting industrial safety standards (e.g., KOSHA) within six months, conduct at least three training sessions based on the manual, and achieve participant satisfaction rates of 80% or higher.",
+    "Learners, by the end of a six-month course, analyze security event logs at least once monthly using SIEM (e.g., Splunk, QRadar) and EDR tools, and identify/report anomalies according to a predefined 5-step monitoring checklist."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Business Simulation Tool",
+      "HR Management System",
+      "Business Analytics Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1834-V",
+  "variant_type": "context_variant",
+  "title": "Hybrid Blended Learning Design to Improve Engineering Education Satisfaction and Reduce Dropout Rates",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts (middle school education level)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Most learners are general citizens with high interest in science but no prior experience in engineering, provided with an online learning environment utilizing personal devices (BYOD)",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply foundational scientific principles for engineering problem-solving with over 80% accuracy",
+    "Learners achieve weekly interaction frequency of two or more times with peer learners through online discussions and collaborative activities",
+    "Learners maintain learning satisfaction at 4.0/5.0 or higher through weekly 1:1 feedback sessions with instructors"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Interactive simulation tool",
+      "Video Production Equipment",
+      "Quizful Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

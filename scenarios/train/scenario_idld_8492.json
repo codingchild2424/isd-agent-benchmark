@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8492",
+  "variant_type": "idld_aligned",
+  "title": "Blended Learning-Based Civic Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic awareness of social issues and experience using digital devices (smartphones)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Implements project-based blended learning in smartphone-centered limited technical environments while fostering collaborative learning environments leveraging learners' social experiences and expertise",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Design and execute social projects by combining digital and face-to-face activities in a 3:7 ratio in a blended learning environment.",
+    "Apply technology tool selection strategies (traditional-technology spectrum) according to learner characteristics with over 80% situational appropriateness.",
+    "Develop three or more solutions for local community issues using PBL methods and create implementation plans."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS) App",
+      "Offline Workshop Space",
+      "Social issue analysis template",
+      "Smartphone-Compatible Collaboration Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

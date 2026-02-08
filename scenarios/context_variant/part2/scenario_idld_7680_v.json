@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7680-V",
+  "variant_type": "context_variant",
+  "title": "Foundations of Delirium Prediction Modeling in ICU Patients",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based science education program for 30-something professionals conducted in digital device-provided settings",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Core algorithms (e.g., RNN/GRU) of the ICU delirium prediction model can be explained",
+    "Performance metrics (sensitivity, specificity, etc.) of time-series forecasting models using clinical data can be interpreted",
+    "A predictive model based on actual ICU datasets can be designed and presented as a project deliverable"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Data Analysis Tool",
+      "Public Clinical Dataset Samples",
+      "GRU Model Tutorial Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

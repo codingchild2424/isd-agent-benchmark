@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7104",
+  "variant_type": "idld_aligned",
+  "title": "Micro-Suturing Skill Training Module Utilizing Self-Regulated Learning",
+  "context": {
+    "prior_knowledge": "Proficiency in fundamental surgical techniques and anatomical knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Hybrid online-offline learning environment using digital devices, combining low-cost glove models for practical training with mental practice in self-directed systems",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Perform 2mm interval micro-suturing on a rubber glove model with 90% accuracy within 8 weeks",
+    "Plan and execute mental practice sessions at least twice weekly using self-regulated learning strategies",
+    "Analyze three core elements of suturing performance (accuracy, speed, stability) and propose improvements through peer evaluation in PBL team projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Rubber Glove Practical Kit",
+      "3D Suturing Simulation Software",
+      "Online Learning Management System (LMS)",
+      "Mobile Learning App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

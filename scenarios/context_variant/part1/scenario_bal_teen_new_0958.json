@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0958",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Instructional Design Workshop for Tablet Integration in Elementary Education",
+  "context": {
+    "prior_knowledge": "Basic digital device usage skills, understanding of elementary education environments",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Simulating real constraints in tablet-based lesson design within a virtual environment to explore solutions",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify three or more ecological and technological constraints that arise when introducing tablets.",
+    "Learners can design and share a management plan for student work data in a simulation environment.",
+    "Learners can create social studies activity scenarios considering constraints using VR-based lesson design tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet device",
+      "Educational Application Sample",
+      "Learning Management System (LMS)",
+      "VR Simulation Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

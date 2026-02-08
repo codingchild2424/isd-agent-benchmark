@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1884",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Mobile ELearning Design Tool Development for Technology-Enhanced Learning",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and ability to use mobile devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A microlearning environment accessed via personal devices to enhance social sector job competencies for current practitioners, with project-based assessments to validate real-world applicability.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can execute the ADDIE model-based eLearning content design process step-by-step",
+    "Learners can develop mobile-optimized microlearning modules with over 80% completion fidelity",
+    "Learners can develop at least three educational materials incorporating interactive elements based on technology-enhanced learning principles"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE Design Template",
+      "Mobile Authoring Tool License",
+      "LMS Integration System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

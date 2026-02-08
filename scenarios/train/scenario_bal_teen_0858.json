@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0858",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] COVID-19 Diagnosis and AI Image Analysis: Deep Learning-Based Medical Imaging Education",
+  "context": {
+    "prior_knowledge": "Basic statistics, programming (Python), and medical imaging comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Experiencing the COVID-19 diagnostic process through analysis of real medical imaging data and simulations in a VR environment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will explain the deep learning model structure for identifying COVID-19 features in CT/X-ray images.",
+    "By applying medical image dataset preprocessing and augmentation techniques, learners will improve model training accuracy by at least 85%.",
+    "Learners will analyze ethical/legal issues of AI-based diagnostic systems and propose improvement strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Public Medical Imaging Dataset",
+      "Google Colab GPU",
+      "VR simulation license"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

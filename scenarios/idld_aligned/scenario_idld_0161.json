@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0161",
+  "variant_type": "idld_aligned",
+  "title": "ICT Readiness and BYOD Implementation Competency Enhancement Program for Mathematics Education",
+  "context": {
+    "prior_knowledge": "Basic mathematics knowledge and fundamental smartphone utilization skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Aiming to enhance ICT readiness in math education within smartphone-centric limited-technology environments. Providing simulation/VR learning environments to develop personal device utilization skills through BYOD practices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain practical strategies for each of the six ICT readiness indicators in math education: understanding, curriculum, pedagogy, technical infrastructure, organizational management, and teacher learning.",
+    "Learners can present math lesson design and implementation plans using Android-based educational apps (GuideLinks, LDSoft) in BYOD environments.",
+    "Learners can create and share math educational materials and implement collaborative learning scenarios in limited-technology environments (primarily smartphone-based)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Android Smartphone",
+      "GuideLinks App",
+      "LDSoft App",
+      "VR Simulation Platform",
+      "Internet-Connected Environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

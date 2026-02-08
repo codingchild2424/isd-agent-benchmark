@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0065",
+  "variant_type": "balance_medium_last",
+  "title": "Self-directed Learning Program for Small Vessel Operations in Fisheries High Schools",
+  "context": {
+    "prior_knowledge": "Basic maritime terminology and foundational knowledge of the fisheries industry",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A program utilizing personalized video lectures considering individual learning pace differences and an integrated Microsoft Teams/LMS system",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain small vessel navigation procedures with 80% or higher accuracy.",
+    "Learners can apply core content from 70% or more of the standard ship maintenance manual.",
+    "Learners achieve 90 points or higher (out of 100) in safety navigation simulation assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Customized Video Lecture Materials",
+      "Microsoft Teams Account",
+      "LMS platform",
+      "Assessment Item Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

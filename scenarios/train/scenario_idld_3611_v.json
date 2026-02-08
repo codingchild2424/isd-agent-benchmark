@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-3611-V",
+  "variant_type": "context_variant",
+  "title": "Design and Utilization of Augmented Reality-Based Narrative Educational Games",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A project-based learning environment integrating augmented reality technology into social domain education courses for enhancing workplace competencies among employees.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain fundamental design principles of augmented reality-based educational games",
+    "Learners can draft game scenarios based on narrative structures",
+    "Learners can develop prototypes of augmented reality educational games using mobile devices (BYOD)",
+    "Learners can plan educational game content combining historical/social themes with augmented reality technology",
+    "Learners can evaluate the effectiveness of augmented reality educational games through team-based projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Development Tools (Unity/ARKit/ARCore)",
+      "3D Modeling Basic Template",
+      "Educational AR Game Case Study Database",
+      "Team Development Tablets/Smartphones (Learner BYOD Integration)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

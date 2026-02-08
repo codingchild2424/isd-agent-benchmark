@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4708-V",
+  "variant_type": "context_variant",
+  "title": "Workshop-Based Instructional Design Requirements Planning Course",
+  "context": {
+    "prior_knowledge": "Foundational instructional design concepts and practical experience in relevant scientific fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Collaborative Design Workshop Conducted in Smartphone-Centric Limited Technology Environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners write global user requirement specifications for technology-based educational products through workshop collaboration.",
+    "Learners explain the process of systematically deriving educational requirements by collaborating with stakeholders according to the SLIM methodology.",
+    "Learners develop measurable instructional design specifications based on practical experience in science fields."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Collaborative worksheet template",
+      "Mobile-based collaboration tools",
+      "Science domain case materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

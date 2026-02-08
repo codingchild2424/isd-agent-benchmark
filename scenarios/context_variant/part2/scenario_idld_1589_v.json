@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1589-V",
+  "variant_type": "context_variant",
+  "title": "Formative Feedback Design Based on Video Podcasts for Pharmaceutical Calculations",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning environments utilizing personal devices (BYOD) for current practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can achieve over 90% accuracy in solving complex pharmaceutical calculation problems",
+    "Learners can correct error causes within three retries using formative feedback provided in video podcasts",
+    "Learners can selectively utilize the strengths of text solutions and video podcast feedback depending on the situation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Pharmaceutical calculation problem bank",
+      "Video Recording Equipment",
+      "LMS (Learning Management System) access rights",
+      "Feedback Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0896-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Tactical Learning Design Using Dynamic Visualization",
+  "context": {
+    "prior_knowledge": "Ability to comprehend fundamental tactical concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners identify three or more dynamic elements of tactical situations using dynamic visualization tools.",
+    "Learners interpret complex tactical scenes with over 80% accuracy by applying cognitive load management strategies.",
+    "Learners collaboratively complete and submit dynamic visualization-based tactical analysis projects in teams."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

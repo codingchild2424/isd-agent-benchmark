@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0298",
+  "variant_type": "idld_aligned",
+  "title": "Foundational Legal Competency Microlearning Program",
+  "context": {
+    "prior_knowledge": "Lack of foundational legal concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Online supplementary learning to bridge foundational knowledge gaps for law degree program entrants. Learners, primarily pre-service or in-service teachers, need to acquire legal literacy applicable to science subject areas",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain 12 foundational legal terms and concepts within one week.",
+    "Learners can pass quizzes with an 80% or higher accuracy rate after each microlearning session.",
+    "Over 70% of learners rate their confidence in enrolling in advanced legal modules on a 5-point scale as 4 or higher after completing the course."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "12 Mobile-Optimized Lecture Videos",
+      "Moodle-based quiz system",
+      "Learning progress tracking dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

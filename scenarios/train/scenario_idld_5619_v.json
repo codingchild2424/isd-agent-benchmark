@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5619-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Practical App Development Competencies: Hybrid Inquiry-Based IT Experimental Instructional Design",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can set experimental objectives by analyzing real-world problem scenarios.",
+    "Learners can perform data collection and analysis processes using smartphone-based tools in a limited-technology environment.",
+    "Learners can implement and evaluate information technology application cases through team-based inquiry.",
+    "Learners can identify ethical issues arising during experiments and propose solutions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

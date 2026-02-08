@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0589",
+  "variant_type": "idld_aligned",
+  "title": "Data-Driven Learning Design to Strengthen Hotel Managers' Job Competencies",
+  "context": {
+    "prior_knowledge": "Experience in hotel management tasks and basic statistical analysis knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners' individual smart device utilization and team project execution based on collaborative tools",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply regression analysis techniques to solve problems occurring in hotel operational environments.",
+    "Learners can establish self-directed learning strategies by analyzing the correlation between risk-taking ability and learning attitudes.",
+    "Learners can derive job characteristic factors of hotel management through survey design and data collection processes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Survey Platform",
+      "Statistical Analysis Software (SPSS/R/Python)",
+      "Hotel Industry Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

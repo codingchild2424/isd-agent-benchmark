@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0698",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Online Intensive Course Based on Textbook Analysis for Enhancing Advanced English Reading Competency",
+  "context": {
+    "prior_knowledge": "Understanding of basic English grammar and vocabulary, with simple sentence comprehension skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "College entrance exam preparation reading training focused on social studies terminology in a BYOD environment.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can read academic and professional English texts at a speed of 150 words per minute.",
+    "Learners can analyze the relationship between topic sentences and supporting sentences in complex sentence structures with 80% accuracy.",
+    "Learners can apply a five-step academic text summarization process: identifying the main idea → extracting keywords → analyzing structure → reconstructing core logic → paraphrasing."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Social studies English academic text database",
+      "Text analysis tools",
+      "Automated grading system",
+      "Interactive online workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

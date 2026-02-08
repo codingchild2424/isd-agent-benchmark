@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-1252",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Constraint-Based Approach for Intensive Swimming Skill Learning Programs",
+  "context": {
+    "prior_knowledge": "Basic swimming techniques (breathing, kicking, and primary strokes)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Utilizes smartphone-based real-time video classes and video feedback.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners increase swimming stroke length by 15% through exploratory training strategies utilizing constraints",
+    "Learners enhance rhythm regulation skills using metaphoric tools (metronome)",
+    "Learners demonstrate the ability to identify functional movement domains related to tasks (e.g., optimizing torso tilt while swimming)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Metronome App",
+      "Swimming Pool Video Recording Equipment",
+      "Swimming posture analysis software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

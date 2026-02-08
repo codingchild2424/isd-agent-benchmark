@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1430",
+  "variant_type": "idld_aligned",
+  "title": "Bayesian Network-Based Personalized Problem Recommendation System Design",
+  "context": {
+    "prior_knowledge": "Elementary social studies curriculum basics and experience with online learning platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course for current practitioners to strengthen job competencies in developing/managing elementary social studies education content",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Problem sets tailored to learners’ proficiency levels can be designed using a Bayesian network-based recommendation algorithm",
+    "Learners can diagnose knowledge gaps by analyzing real-time response data in an LMS environment",
+    "A system can be developed to propose personalized learning pathways based on formative assessment results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Intelligent Tutoring System (ITS) Development Toolkit",
+      "Learning Data Sample Set",
+      "LMS API Integration Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6609",
+  "variant_type": "idld_aligned",
+  "title": "Virtual Simulation Training for Basic Life Support (BLS) Professional Development",
+  "context": {
+    "prior_knowledge": "Understanding basic principles of cardiopulmonary resuscitation (CPR) and experience in handling emergency situations",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Non-degree professional training program combining practice-oriented virtual learning environments with on-site training",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform immediate emergency actions within 10 seconds upon cardiac arrest in virtual simulation environments.",
+    "They apply the CPR standard protocol (30:2 compression-ventilation ratio) with over 80% accuracy.",
+    "They demonstrate AED (automated external defibrillator) usage procedures without errors in three consecutive attempts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual Reality Simulator Equipment",
+      "High-Fidelity Manikin Set (5 Units)",
+      "Online Learning Management System (LMS)",
+      "Practical Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

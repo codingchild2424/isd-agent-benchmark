@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3119",
+  "variant_type": "idld_aligned",
+  "title": "Behaviorally Objective Online Education Design for Strengthening Medical Information Literacy",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and research methodologies, with experience in digital information retrieval",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Training on utilizing medical library resources for healthcare professionals",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will be able to search for the latest research papers related to specific diseases in the MEDLINE® database within 15 minutes",
+    "Learners will systematically categorize search results according to the PICO (Patient-Intervention-Comparison-Outcome) framework",
+    "Learners will apply the JAMA levels of evidence hierarchy to assess the credibility of medical literature"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "MEDLINE® Access Authorization",
+      "Educational video resources",
+      "Interactive Quiz Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

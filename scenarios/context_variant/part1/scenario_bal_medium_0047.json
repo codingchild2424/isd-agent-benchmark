@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0047",
+  "variant_type": "balance_medium_scale",
+  "title": "Game Culture and Play-Based Science Education Design",
+  "context": {
+    "prior_knowledge": "Foundational science theories and general understanding of gaming culture",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Need for mobile-optimized content and gamified educational design integrated with smartphone accessibility considerations",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply game mechanics (e.g., quests, reward systems) to explain scientific concepts.",
+    "Learners can experiment with and analyze complex scientific principles through play-based activities (digital/analog).",
+    "Learners can propose three or more engagement strategies for instructional design based on game culture research."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Gamification tools (Kahoot!, Quizizz, etc.)",
+      "Interactive content for low-spec mobile devices",
+      "Offline play kits (optional)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

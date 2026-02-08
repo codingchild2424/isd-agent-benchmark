@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7874",
+  "variant_type": "idld_aligned",
+  "title": "Hybrid Science Education Curriculum for Information Literacy Enhancement",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and experience with digital device usage",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Majority of learners are working professionals requiring flexible scheduling, with a focus on developing science-informed problem-solving skills for real-life applications",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify reliable scientific information sources with 80% accuracy",
+    "Learners can demonstrate the process of effectively searching, evaluating, and integrating scientific information using digital tools",
+    "Learners can explain how to utilize open educational resources (OER) in compliance with CC license regulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "OER Materials",
+      "CC License Guide",
+      "Scientific Information Evaluation Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

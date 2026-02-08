@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0225",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Mobile-Based Integrated Learning Design for Mathematical Literacy",
+  "context": {
+    "prior_knowledge": "Basic Mathematical Knowledge and Basic Mobile Device Utilization Skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "BYOD-based math literacy enhancement classes using mobile applications. Cultivating real-world problem-solving skills through project-based assessments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain mathematical concepts using multimedia elements (text, sound, images) of a mobile application.",
+    "Learners can analyze real-life data collected via mobile devices to derive mathematical conclusions.",
+    "Learners can exchange peer evaluations and feedback in a collaborative learning environment through a mobile application."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet/smartphone",
+      "Mobile Learning Application Prototype",
+      "Interactive Digital Whiteboard",
+      "Offline activity worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

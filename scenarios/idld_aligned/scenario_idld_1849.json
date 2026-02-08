@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1849",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Based on Anatomy and Physiology Laboratory Manuals",
+  "context": {
+    "prior_knowledge": "Understanding of basic biology and medical terminology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Acquisition of core anatomy and physiology concepts through lab manual access using personal devices, with practical competency reinforcement via project-based assessments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "The structure and functions of major human organ systems can be accurately explained using visual materials from laboratory manuals",
+    "Physiological experimental procedures can be independently performed at least 80% through mobile device-provided protocols",
+    "Experimental result analysis reports can be written by referencing feedback manuals, and at least three improvement points can be derived through peer evaluation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Laboratory Manual (Mobile-Compatible)",
+      "Offline Printed Manual",
+      "Virtual Lab Simulation Tool",
+      "Video Feedback Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8393",
+  "variant_type": "idld_aligned",
+  "title": "Machine Learning-Based Learning Process for Polymer Gas Separation Membrane Design",
+  "context": {
+    "prior_knowledge": "Elementary chemistry and physics knowledge, basic understanding of data science",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Course conducted in smartphone-limited technology environments, prioritizing conceptual understanding and application over complex computational tools",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the relationship between the chemical structure of polymers and gas permeability.",
+    "Learners understand the process of predicting polymer performance using machine learning models.",
+    "Learners identify the fundamental principles and application cases of Bayesian-based molecular design algorithms.",
+    "Learners learn methods to verify gas separation performance through molecular dynamics simulations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Learning App",
+      "Simplified Simulation Tool",
+      "Open-Source Machine Learning Library Access Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

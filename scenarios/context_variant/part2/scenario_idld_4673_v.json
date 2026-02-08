@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4673-V",
+  "variant_type": "context_variant",
+  "title": "E-Learning Design for Complex Language Subjects: Web-Based Learning Simplification Strategies",
+  "context": {
+    "prior_knowledge": "Comprehension of basic language structures and experience with digital learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Supports language learning via simulations/VR in a BYOD environment, integrating diverse e-books and materials to facilitate step-by-step mastery of complex linguistic concepts.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze complex linguistic structures with over 80% accuracy through web-based interactive simulations",
+    "Successfully perform language-use scenarios reflecting cultural contexts in VR environments at least three times",
+    "Learners curate portfolios with 10 video lectures, 5 quizzes, and 3 practical assignments from e-learning platforms (Google Classroom, Khan Academy), then develop one software project (simple webpage/app prototype) over three weeks and submit results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Standardized E-Learning Authoring Tool",
+      "Open Language Learning e-Book Library",
+      "VR Learning Module Template",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

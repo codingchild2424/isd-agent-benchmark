@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE3-0228",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Whole-Task-Oriented Programming Learning Course for Real-World Problem Solving",
+  "context": {
+    "prior_knowledge": "Basic computer literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A Process Focused on Programming Learning for Solving Science-Related Problems in Digital Device-Provided Environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve problems using basic Python programming syntax (variables, conditionals, loops) through real scientific data analysis projects",
+    "Learners can decompose and integrate entire assignments (task-based learning strategy) step-by-step to develop practical programs",
+    "Learners can collaboratively design algorithms and perform debugging processes for scientific problem-solving with peers"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python Installation USB Drive",
+      "Science Data Sample Set",
+      "Assignment Template Document"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

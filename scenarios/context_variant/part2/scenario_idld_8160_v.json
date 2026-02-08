@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8160-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Web Development Practical Competencies: Short-Term Intensive Digital Literacy Development Course for Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Basic experience with digital tools and understanding of foundational educational theories",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participants can integrate at least three types of digital tools applicable to educational settings (e.g., quiz platforms, collaboration tools) into actual lesson designs",
+    "Participants can submit digital lesson designs that apply the TPACK framework’s principles of integrating technology, content, and pedagogy",
+    "Participants can write reports evaluating the usefulness and ease of use of digital tool adoption based on the Technology Acceptance Model (TAM)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

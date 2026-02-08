@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0909",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Science Job Competency Enhancement Program Utilizing Mobile-Based Flipped Learning",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental scientific theories and experimental methods",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Pre-learning via individual mobile devices followed by collaborative in-person sessions to solve scientific practical problems.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners autonomously acquire three or more science theories per week using mobile microlearning materials in a flipped learning environment.",
+    "Learners collaborate with peers during face-to-face sessions to complete one practical science project (e.g., experimental design analysis).",
+    "Learners demonstrate science problem-solving skills with an achievement rate of over 80% through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Theory Video (5–10 Minute Segments)",
+      "Mobile-Compatible Quiz Platform",
+      "Virtual Lab Simulation Tool",
+      "Collaborative Digital Whiteboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

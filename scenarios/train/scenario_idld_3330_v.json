@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3330-V",
+  "variant_type": "context_variant",
+  "title": "Machine Learning Practical Competency Enhancement: English Learning Strategies for Chinese Professionals Studying Abroad",
+  "context": {
+    "prior_knowledge": "Intermediate English proficiency and overseas living experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify three or more factors hindering their English learning by analyzing their home environment.",
+    "Learners can establish an English learning implementation plan utilizing a family support system",
+    "Learners can develop English learning strategies that balance cultural values and personal needs"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

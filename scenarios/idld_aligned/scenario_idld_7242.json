@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7242",
+  "variant_type": "idld_aligned",
+  "title": "4-C/ID Model-Based Training Course for Enhancing Medical Case Presentation Competencies",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and understanding of patient care processes",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-centered education utilizing VR simulations in smartphone-dominant limited-technology environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can present structured medical cases by applying the four phases of the 4-C/ID model: learning tasks, supportive information, just-in-time information, and part-task practice",
+    "Learners can present patient symptom-diagnosis-treatment processes with over 80% accuracy in VR simulations mimicking real clinical environments",
+    "Learners can revise case presentation content at least twice based on peer feedback and achieve a grade of B or higher in final project evaluations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Equipment",
+      "Mobile-Optimized LMS",
+      "Medical Case Database",
+      "Feedback Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

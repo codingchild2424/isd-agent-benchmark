@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN3-0052",
+  "variant_type": "balance_teen_v3",
+  "title": "Wearable Technology-Enhanced Language MOOC Learning Experience Program",
+  "context": {
+    "prior_knowledge": "Basic smartphone usage skills and intermediate-level language learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-real-time language learning environment using smartphone-based wearable technology (e.g., smartwatches), designed for learners without PC access.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can achieve over 80% of weekly language learning goals using wearable technology.",
+    "Learners can double their learning engagement based on data collected via wearable devices.",
+    "Learners can enhance language application skills by over 30% through context-based learning (contextual learning) via wearable technology."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible wearable devices",
+      "Mobile LMS Platform",
+      "Customized learning apps",
+      "Asynchronous video lectures",
+      "Automated Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

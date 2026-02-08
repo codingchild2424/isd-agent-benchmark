@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0679",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] MOOC-Based Self-Regulated Learning and Social Mirroring Course for Enhancing Language Expression, Reading, and Writing Competencies",
+  "context": {
+    "prior_knowledge": "Basic language proficiency (reading, writing, speaking, listening), foundational grammar understanding, and digital device experience. Additionally requires basic text analysis skills (word-level error identification, sentence structure comprehension) and social interaction experience (feedback exchange, collaborative learning)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Configuring a VR Environment to Promote Social Interaction Among Learners (Virtual Classrooms, Role-Playing Spaces) and Providing Visualization Tools for Individual Learning Progress (Grammar Error Tracking, Vocabulary Usage Frequency Analysis). Automatically generating text-mining-based lexical diversity indices (lexical density) and grammar error pattern analysis reports for tracking language development. Provides three core evaluation criteria—'Grammatical Accuracy,' 'Discourse Structure,' and 'Lexical Appropriateness'—for peer feedback",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "In VR simulation environments, learners must monitor peer learners’ language task progress while applying self-regulated learning strategies (e.g., time management, goal setting) at least once weekly, then establish speaking fluency and writing structure improvement plans. This specifically includes text structuring strategies to enhance discourse cohesion and coherence.",
+    "Through social mirroring scaffolding activities (role-plays, feedback sessions), learners must collect at least four peer feedback sessions over eight weeks, then submit specific revision plans for three or more strategies (lexical diversity, syntactic accuracy, discourse organization) in language task (speaking/writing) performance.",
+    "By the end of the 6-month course, learners will demonstrate social awareness behaviors (active listening ≥3 times, proposing role distribution ≥2 times, accepting feedback ≥2 times) during collaborative processes with peers in team language presentation projects. They will achieve a rating of \"Average\" or higher in 4 out of 5 peer evaluation rubric categories: pronunciation, lexical diversity, grammatical accuracy, discourse coherence, and nonverbal expression. Additionally, text-based assessments (writing) will evaluate logical connectivity and contextual appropriateness."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "Learning Progress Dashboard",
+      "Peer Feedback System",
+      "Language Simulation Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

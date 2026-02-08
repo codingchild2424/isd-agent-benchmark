@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0579",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] System-Based Anatomy Education Design: Peripheral Nervous System Education Using Interactive Learning Objects",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental anatomy and physiological concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Personalized learning environment construction using digital devices, enabling real-time interaction via VR simulations",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately identify and explain the peripheral nervous system structure using 3D VR simulation",
+    "Learners can analyze 10 interactive patient case studies (IPCs) to derive associations between neurological disease symptoms and structural abnormalities with over 80% accuracy and produce a report meeting at least four of five standardized evaluation checklist criteria.",
+    "Functional associations between body systems can be derived with over 80% accuracy using system-based lecture notes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "10 Sets of VR Devices",
+      "Interactive Learning Object Platform License",
+      "Digital Lecture Note Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8521-V",
+  "variant_type": "context_variant",
+  "title": "PVT-Based Online Science Learning Satisfaction Improvement Program",
+  "context": {
+    "prior_knowledge": "Elementary science concept comprehension and basic digital device operation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "VR simulation-centered education using smartphones, enabling virtual experiences of real scientific phenomena",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve ≥80% understanding of science concepts by utilizing sensory requirement elements (reproducibility, scalability) based on PVT theory.",
+    "Learners achieve ≥75% completion rates for science problem-solving projects through VR simulations applying relational requirement elements (interaction, collaboration).",
+    "Learners record ≥4.0 in online learning satisfaction and ≥4.2 in continued use intention on a 5-point Likert scale evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR Equipment Rental",
+      "Smartphone-Compatible Simulation Software",
+      "Offline Supplementary Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

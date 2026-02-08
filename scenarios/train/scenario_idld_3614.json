@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3614",
+  "variant_type": "idld_aligned",
+  "title": "Design-Based Instructional Design Research for Understanding Linear Algebra Concepts",
+  "context": {
+    "prior_knowledge": "Understanding of basic arithmetic operations and fundamental algebraic concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Targeting pre-researchers requiring foundational linear algebra concepts for social system analysis in engineering. Blended learning integrating online/offline activities in BYOD environments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain linear combinations, generating sets, and generating spaces with over 80% accuracy through mathematical definitions and examples.",
+    "Learners can generate three or more case studies applying concepts using visualization tools for spanning sets in 2D/3D vector spaces",
+    "Through team-based project execution, learners can produce analytical reports applying linear algebra concepts to real-world engineering problems"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Visualization Tools (e.g., GeoGebra)",
+      "Online Collaboration Platform",
+      "Linear Algebra Fundamentals Textbook",
+      "3D Printed Vector Models"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

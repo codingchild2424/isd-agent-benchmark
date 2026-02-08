@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0987",
+  "variant_type": "idld_aligned",
+  "title": "Resident learning competency enhancement program through emergency simulation",
+  "context": {
+    "prior_knowledge": "Basic first-aid knowledge and mathematical problem-solving skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Simulation learning environment that recreates actual emergency situations through mathematical modeling",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze the decision-making process in emergency situations through mathematical modeling and develop optimal resource allocation strategies",
+    "Prioritize and mathematically design treatment protocols for multiple patient emergency cases within a limited timeframe",
+    "Learners can collaboratively solve 2 mathematical modeling problems in a simulation environment (e.g., MATLAB/Simulink) with a 3-4 person team within 1 week, document the 5-stage problem-solving process (problem definition, modeling, simulation, analysis, conclusion) in a personal learning portfolio, and achieve ≥12/15 points on the portfolio rubric (clarity, logic, creativity)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Emergency Simulation Software",
+      "Responsive Web-Based Collaboration Tools",
+      "Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

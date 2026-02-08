@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4183-V",
+  "variant_type": "context_variant",
+  "title": "Causal Reasoning in Complex Systems: Connecting Making and Analogical Reasoning Strategies",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific theories and statistical concepts, including fundamental principles of causal analysis",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced adult learners with prior experience in complex systems (e.g., ecology, social systems, machine learning) but struggling with interpreting non-deterministic causal relationships, in a real-time collaborative environment using digital devices (tablets/laptops)",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify probabilistic causal relationships in complex systems and represent them as network diagrams",
+    "Learners can connect causal mechanisms across different domains (e.g., biology ↔ game systems) through analogical reasoning",
+    "Learners can generate causal hypotheses based on statistical patterns under limited data conditions (e.g., time delays, spatial dispersion)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Probabilistic Causal Relationship Case Database",
+      "Interactive Visualization Tools (e.g., GeoGebra)",
+      "Analogical Reasoning Worksheets",
+      "Real-Time Collaboration Platform (e.g., Miro)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

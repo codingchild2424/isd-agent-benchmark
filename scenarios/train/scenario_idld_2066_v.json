@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2066-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Analyzing and Applying the Effects of Emotional Design in Multimedia Learning",
+  "context": {
+    "prior_knowledge": "Foundational Knowledge of Social Studies Curriculum at the Secondary Education Level",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners understand principles of emotional design (color, form, anthropomorphism, etc.) and can apply them to actual educational materials",
+    "Learners can analyze the impact of positive design on knowledge transfer in multimedia learning environments with 80% or higher accuracy",
+    "Learners can select and evaluate appropriate emotional design strategies based on prior knowledge levels (high/low)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

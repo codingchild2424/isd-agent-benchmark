@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0593",
+  "variant_type": "balance_medium_scale",
+  "title": "Research Skills Development Simulation Training for Adult Learners",
+  "context": {
+    "prior_knowledge": "Basic computer and smartphone usage skills, along with general understanding of social phenomena",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducted in smartphone-based constrained technical environments, focusing on internalizing research skills through simulation cases linked to real-life contexts",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze given social issues to formulate specific research questions.",
+    "Learners can systematically organize and interpret data collected in simulation environments.",
+    "Learners can effectively communicate research findings in multiple formats (text, audio, images)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR Device Rental System",
+      "Offline Activity Workbook",
+      "Voice-based feedback tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

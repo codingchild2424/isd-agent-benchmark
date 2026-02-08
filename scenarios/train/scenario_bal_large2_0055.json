@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0055",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Neonatal Resuscitation Simulation Training Program",
+  "context": {
+    "prior_knowledge": "Fundamental neonatal life support (NLS) theory and clinical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Simulation-based training for practicing medical professionals to enhance practical competencies, utilizing Bring Your Own Device (BYOD) for data recording and analysis",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners perform standard protocols (initial assessment, airway maintenance, breathing support) with 90% accuracy in a neonatal resuscitation simulation scenario.",
+    "In team-based emergency situations, learners reduce decision-making time by 30% and clarify role distribution.",
+    "During a two-week CPR training course, learners self-assess their responsibility (5-point scale) and emotional regulation (5-point scale) weekly. In a final three-page report, they analyze how personality traits affected CPR performance using three specific examples (e.g., maintaining compression depth, team communication)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Newborn Manikin",
+      "Simulation Scenario Kit",
+      "Mobile Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1819",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Analysis of Factors Influencing Intention to Use Large-Scale E-Learning: Simulation Education Based on the UTAUT2 Model",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and corporate training experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Hybrid education combining VR simulation with mobile learning in smartphone-centric limited-technology environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will apply the seven core variables of the UTAUT2 model (performance expectancy, effort expectancy, social influence, facilitating conditions, hedonic motivation, habit, and personal innovativeness) to e-learning adoption intention analysis",
+    "Learners will empirically evaluate e-learning adoption influencing factors (financial cost, technological innovativeness, etc.) in smartphone-based VR simulation environments",
+    "Learners will propose organizational e-learning implementation strategies through project-based assessment and analyze differences in team members' adoption intentions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR Device Rental Set",
+      "Offline-Online Hybrid Learning Management System",
+      "E-Learning Simulation Content Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

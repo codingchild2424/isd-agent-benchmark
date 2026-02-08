@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4831",
+  "variant_type": "idld_aligned",
+  "title": "Deep Learning Fundamentals and Practice for Tax Administration Innovation",
+  "context": {
+    "prior_knowledge": "Fundamental computer literacy and experience with simple Excel usage",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practice-oriented education utilizing simplified simulation data based on real tax-processing cases.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain at least three potential applications of deep learning technology in tax administration tasks.",
+    "Compare and explain classification models based on Neural Networks and Self-Organizing Maps (SOM).",
+    "Implement a classification model with over 75% performance using a simulated dataset of real tax data.",
+    "Identify at least two legal/ethical issues that may arise when applying AI technology."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based Deep Learning Library (Colab Lite Version)",
+      "Tax Processing Simulation Dataset",
+      "Action Design Research Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

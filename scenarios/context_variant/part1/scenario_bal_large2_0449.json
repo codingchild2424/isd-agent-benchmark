@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0449",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Iterative Learning Control (ILC) Simulation Education for Periodic Noise Removal in Language Processing Systems",
+  "context": {
+    "prior_knowledge": "Basic control system theory, understanding of feedback control principles, and foundational knowledge of language processing systems",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical training for administrators on removing periodic noise in speech recognition and natural language processing systems. Trainees learn to optimize system performance using language data analysis and signal processing techniques.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze characteristics of periodic disturbances in audio/text data and conduct repeated experiments (3+ times) using simulation tools.",
+    "Learners can design a reference signal that reduces measurement errors in language processing systems by 30% or more using the ILC algorithm.",
+    "Learners can verbally explain step-by-step processes of eliminating periodic disturbances in feedback control systems in a VR environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible simulation tool",
+      "VR equipment rental system",
+      "Periodic disturbance sample dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

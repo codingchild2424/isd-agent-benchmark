@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0532",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-directed] Learning Theory-Based Pedagogical Approaches to Enhance e-Learning Course Design Quality",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and fundamental proficiency in digital device usage",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized Science Curriculum Design for Professionals in Smartphone-Only Environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain e-learning content design principles based on learning theories (e.g., constructivism, behaviorism).",
+    "Learners can design educational activity sequences to achieve learning objectives in simulation/VR environments.",
+    "Learners can develop feedback mechanisms suitable for project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized VR Tool",
+      "Open-Source Interactive Design Template",
+      "Smartphone-Compatible Simulation Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

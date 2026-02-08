@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2499",
+  "variant_type": "idld_aligned",
+  "title": "Predictive Strategy Design for Mathematics Achievement Using Learning Analytics",
+  "context": {
+    "prior_knowledge": "Basic statistics knowledge and experience using online learning platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course investigating personalized math curriculum design for working professionals, applying learning analytics to predict individual academic achievement",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can build an academic achievement prediction model by analyzing learning activity data (online task engagement, discussion forum activity).",
+    "Learners can identify and evaluate effective learning prediction indicators in a blended problem-based learning environment.",
+    "Learners can establish personalized instructional strategies by visualizing individual engagement patterns in the mathematics learning process."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Analytics Dashboard",
+      "Online Collaboration Tools",
+      "Zoom Recording Materials",
+      "Basic Statistical Analysis Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-0929",
+  "variant_type": "idld_aligned",
+  "title": "AI-Enhanced Heart Disease Prediction Modeling Strategies",
+  "context": {
+    "prior_knowledge": "Fundamental computer literacy and understanding of basic statistical concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "For managers with healthcare decision-making authority: a self-directed learning environment utilizing personal devices",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Understand the core principles of a cardiac disease prediction model and explain data-driven decision-making processes",
+    "Replicate the operational mechanism of a hybrid model combining CNNs and optimization algorithms using visualization tools",
+    "Build a predictive model with classification accuracy exceeding 85% using a real-world medical dataset (similar to the Cleveland Dataset)",
+    "Interpret model performance metrics (accuracy, precision, recall, F1-score) and apply them to outcome reports",
+    "Formulate an implementation plan to integrate AI-based prediction systems into organizational health management strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Jupyter Notebook Environment",
+      "Medical Dataset Sample",
+      "Visualization Templates",
+      "AI Model Construction Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

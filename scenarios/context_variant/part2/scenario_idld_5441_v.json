@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5441-V",
+  "variant_type": "context_variant",
+  "title": "UIDOL + UDL-Based Project Design for Supporting Students with Disabilities in Online Higher Education",
+  "context": {
+    "prior_knowledge": "Basic Digital Literacy and Online Learning Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Support for practical learning through language-focused project execution in a BYOD (Bring Your Own Device) environment",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design accessibility improvements for online learning materials by applying UIDOL and UDL principles",
+    "Learners can analyze learning barriers by disability type and propose customized support strategies",
+    "Learners develop inclusive language learning content reflecting peer feedback using PBL methodologies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "UDL Guidelines (Universal Design for Learning)",
+      "Online Accessibility Inspection Tool",
+      "Collaborative platforms (e.g., Notion, Padlet)",
+      "Assistive technology simulation tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

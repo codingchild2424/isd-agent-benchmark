@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0010",
+  "variant_type": "balance_large_last",
+  "title": "Instructional Design Program for Pre-Service Teachers: Strengthening Disaster Response Competencies for Heavy Rainfall",
+  "context": {
+    "prior_knowledge": "Basic disaster management knowledge, understanding of educational methodologies, and fundamental concepts of meteorological phenomena",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Designed based on experiences developing disaster response education programs referencing Senju Elementary School in Nagaoka City, damaged by Typhoon Hagibis in 2019. Implements blended learning environments combining digital devices with offline practical training",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain and demonstrate at least three safety action procedures for protecting students during heavy rainfall.",
+    "Learners can analyze children’s psychological responses in disaster situations and develop educational intervention strategies.",
+    "Learners can design disaster response education programs by applying the ADDIE model.",
+    "Learners can perform decision-making to optimize evacuation routes during heavy rainfall using virtual simulation tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Meteorological Agency-Provided Heavy Rainfall Dataset",
+      "School Safety Manual",
+      "Disaster Response Training VR Simulation Software",
+      "Typhoon Damage Report for Case Analysis"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

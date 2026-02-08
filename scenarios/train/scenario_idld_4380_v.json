@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4380-V",
+  "variant_type": "context_variant",
+  "title": "Game-Based Maritime Safety Training: Practitioner Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic maritime safety regulations and ship operation procedures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Game-based learning environment utilizing mathematical modeling and simulation for in-service professionals, including real-time collaborative activities via personal devices (BYOD)",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Enhance risk assessment and decision-making capabilities to over 80% accuracy through a game-based maritime accident scenario simulation",
+    "Learners formulate response strategies for three real emergency scenarios using wave coefficient calculations and collision avoidance angle analysis modeling, submitting reports meeting ≥4 of 5 expert review criteria.",
+    "Execute maritime accident prevention protocols with over 90% participation through team-based game activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Maritime Safety Simulation Software",
+      "VR Device (Optional)",
+      "Physical Ship Model Kit",
+      "Game-Based Learning Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

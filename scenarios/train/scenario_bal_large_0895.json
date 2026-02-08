@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-0895",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Virtual Laboratory-Based Project Learning Design for Engineering Education",
+  "context": {
+    "prior_knowledge": "Understanding Basic Engineering Principles and Experimental Methods",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Focus on cultivating real-life problem-solving skills through team-based projects in BYOD (Bring Your Own Device) environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners perform three engineering projects (e.g., circuit design, structural analysis) in both virtual and physical labs, then analyze participation differences between environments at an 80% confidence level using a participation survey (5-point Likert scale) and observation checklist (frequency, number of questions, collaboration time).",
+    "They derive at least three learner motivation factors when designing virtual lab-based projects.",
+    "Learners develop ≥3 measurement indicators (e.g., number of idea proposals, completeness of material preparation, collaborative attitude) to evaluate individual contributions in a 4-member team project, create an assessment checklist applying these indicators, and obtain agreement from ≥80% of team members.",
+    "Over 80% of learners achieve the ability to apply engineering theory knowledge to virtual lab projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual Laboratory Simulation Software",
+      "Physical Experiment Kit",
+      "Team-Based Project Documentation Sheet",
+      "BYOD-compatible learning management system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

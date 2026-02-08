@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0568",
+  "variant_type": "idld_aligned",
+  "title": "Principles and Applications of Near-Infrared Multispectral Imaging Technology",
+  "context": {
+    "prior_knowledge": "Foundational optical theory, understanding of spectroscopy, and metasurface technology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced technical training for working professionals, structured around real-time interaction and hands-on practice",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the core principles of near-infrared multispectral imaging technology and compare its advantages over existing systems.",
+    "Learners can understand the design process of metasurface-based multi-wavelength separation devices and analyze the application methods of deep learning models.",
+    "Learners can simulate the operation of an imaging system utilizing resonance modes occurring in the 1150nm, 1350nm, and 1550nm wavelength bands."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Simulation software (COMSOL, etc.)",
+      "Metasurface design dataset",
+      "Spectroscopic imaging experiment video"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

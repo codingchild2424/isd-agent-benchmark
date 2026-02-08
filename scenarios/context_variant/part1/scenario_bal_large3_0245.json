@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE3-0245",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Opioid Overdose Response Competency Strengthening Education Program",
+  "context": {
+    "prior_knowledge": "Basic first-aid knowledge and understanding of medication administration procedures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended learning course combining online pre-learning and post-assessment, centered on a 3-hour practical session.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately identify five symptoms of opioid overdose.",
+    "Learners can explain and demonstrate at least three steps of naloxone administration procedures.",
+    "Learners can perform emergency response protocols with over 80% accuracy in patient simulation scenarios.",
+    "Learners can achieve a 20% or higher score improvement in pre-post knowledge assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Simulation Patient Manikin",
+      "Training Naloxone Kit",
+      "Digital assessment platform",
+      "Case Study Workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

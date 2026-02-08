@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8429",
+  "variant_type": "idld_aligned",
+  "title": "Accessibility Design Strategies for Mobile-Friendly Mathematics Learning",
+  "context": {
+    "prior_knowledge": "Comprehension of elementary and secondary mathematics fundamentals",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Implementing accessibility design accommodating diverse learner needs in smartphone-based learning environments.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can access and utilize mobile-optimized math content (images, formulas, videos) with 80% or higher accuracy.",
+    "Learners complete 90% or more of weekly microlearning modules designed according to Universal Design for Learning (UDL) principles.",
+    "Learners participate 100% in formative assessments using assistive technology-compatible evaluation tools (e.g., screen readers, high-contrast mode)."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Responsive Web-Based LMS (Learning Management System)",
+      "Accessibility-Verified Mathematical Symbol Fonts",
+      "Smartphone Compatibility Testing Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0224-V",
+  "variant_type": "context_variant",
+  "title": "PRECEDE-PROCEED Model-Based Education Program for Improving Cause-of-Death Documentation",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasizing the accuracy of death record-keeping and the importance of public health policy data during the COVID-19 pandemic",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can plan education design for mortality cause coding (MCCOD) by applying the 9 phases of the PRECEDE-PROCEED model",
+    "Learners can recognize \"garbage code\" issues and apply death cause recording methods compliant with WHO standards",
+    "Learners can analyze real cases using eLearning modules and propose strategies to improve public health data quality"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MCCOD guideline document (WHO standards)",
+      "eLearning platform access permissions",
+      "Sample death certificate database (real cases)",
+      "PRECEDE-PROCEED model worksheet template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

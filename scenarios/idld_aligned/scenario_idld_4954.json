@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4954",
+  "variant_type": "idld_aligned",
+  "title": "Social Connectedness Enhancement Program for Adult Learners in Online Mathematics Learning",
+  "context": {
+    "prior_knowledge": "Understanding of elementary mathematical concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A university-corporate linked program in an asynchronous online environment that strengthens foundational math competencies while fostering peer relationships among learners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners share mathematical problem-solving processes by participating in meaningful discussions at least three times weekly on online discussion boards.",
+    "Learners execute collaborative learning facilitation techniques via peer assessment during group tasks with over 80% accuracy.",
+    "Learners voluntarily engage in informal peer interactions at least twice monthly using asynchronous communication tools.",
+    "Learners achieve a score of 4.0/5.0 or higher on a social connectedness survey upon course completion."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS System",
+      "Asynchronous Discussion Forum",
+      "Collaboration Tools (e.g., Padlet)",
+      "Automated Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

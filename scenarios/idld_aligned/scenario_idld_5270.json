@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5270",
+  "variant_type": "idld_aligned",
+  "title": "VR-Based Real-World Learning Project for Strengthening Social Work Field Competencies",
+  "context": {
+    "prior_knowledge": "Basic knowledge at an introductory social welfare level and fundamental field practicum experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learning environment configuration using low-cost VR tools (such as cardboard viewers) in smartphone-centric limited-technology settings, emphasizing reuse of existing virtual reality materials and development of field-case-based scenarios",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "VR simulations can be used to analyze three or more situations that may occur in social welfare settings (e.g., client conflicts, crisis interventions) and develop response strategies.",
+    "Two or more immersive learning scenarios can be designed and implemented by repurposing existing virtual reality materials.",
+    "Communication and problem-solving skills can be improved by 20% or more through PBL activities that combine peer and self-assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Reusable Public VR Content",
+      "Smartphone-Compatible Cardboard VR Device",
+      "Low-cost 360-degree camera",
+      "Open-source VR authoring tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

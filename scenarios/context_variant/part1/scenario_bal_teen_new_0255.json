@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0255",
+  "variant_type": "balance_teen_filtered",
+  "title": "Instructional Design Competency Enhancement Course for Elementary AI Education",
+  "context": {
+    "prior_knowledge": "Foundational mathematics education knowledge and experience using educational technology tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasis on designing elementary AI education based on mathematics, utilizing VR simulations in BYOD environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will apply at least three competency elements based on the TPACK framework when designing AI education.",
+    "Learners will design personalized AI education scenarios by analyzing survey and interview data.",
+    "Learners will develop at least two types of AI education modules linked to elementary mathematics in a VR simulation environment.",
+    "Learners will identify potential ethical issues in AI education and incorporate them into teaching and learning processes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software",
+      "AI instructional design template",
+      "Online Collaboration Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

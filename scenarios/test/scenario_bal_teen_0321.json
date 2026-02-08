@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0321",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Technology-Mediated Social Studies Tutoring Using Smart Pens",
+  "context": {
+    "prior_knowledge": "Understanding of basic social concepts and fundamental smartphone usage skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Sharing visual explanatory materials and supporting asynchronous learning using smartphones and smart pens",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze tutorial materials written with smart pens in mobile environments with over 80% comprehension",
+    "Learners can explain relationships between social concepts in three or more ways using graphic materials provided in online tutoring sessions",
+    "Learners can review tutoring feedback materials at least twice weekly via mobile devices and improve learning outcomes by over 70%"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "5 Smart Pens",
+      "2 Tablet Devices",
+      "Mobile Learning Management System (LMS) Account",
+      "Social Studies Standard Textbook (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

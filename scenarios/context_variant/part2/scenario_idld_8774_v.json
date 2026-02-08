@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8774-V",
+  "variant_type": "context_variant",
+  "title": "Patient Care Practical Skill Enhancement: Simulation-Based Collaborative Learning Through a Pharmaceutical Learning Community",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can form collaborative learning communities with peers to solve pharmaceutical problems in simulation/VR environments",
+    "Learners can achieve over 80% accuracy in applying pharmaceutical knowledge through peer feedback",
+    "Learners will complete VR simulation-based projects (prescription review, drug interaction analysis, medication error response scenarios) during a 1-week intensive course and demonstrate pharmaceutical practice competencies by achieving ≥80/100 points on a predefined evaluation rubric (accuracy 40%, speed 30%, problem-solving ability 30%)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

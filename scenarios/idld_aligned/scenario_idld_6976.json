@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6976",
+  "variant_type": "idld_aligned",
+  "title": "Chemical Engineering Operator Training: XR-Based Experiential Learning Program",
+  "context": {
+    "prior_knowledge": "Foundational chemical engineering concepts and general understanding of industrial settings",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Chemistry process simulation learning environment utilizing smartphone-based extended reality (XR) content.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can manipulate 3D models of chemical process equipment in XR environments while explaining key components and functions",
+    "Learners can respond to abnormal situations in chemical processes according to safety protocols through virtual scenario-based training",
+    "Learners improve communication skills by sharing real-time problem-solving strategies with peer learners through XR-based collaborative activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible XR Learning Module",
+      "Basic VR Headset (Optional)",
+      "Offline-Synchronizable Learning Management System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

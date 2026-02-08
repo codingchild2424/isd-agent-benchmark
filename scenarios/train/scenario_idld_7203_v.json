@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-7203-V",
+  "variant_type": "context_variant",
+  "title": "Graph Theory-Based Adaptive Mathematics Learning Design System",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners access online platforms via personal devices to complete mathematics projects addressing real-world problems",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze the interconnectedness of three or more mathematical concepts using graph theory.",
+    "Learners can design two personalized learning pathways via a recommendation system and establish execution plans.",
+    "Learners can apply mathematical concepts with over 80% accuracy in project-based assignments.",
+    "Learners can periodically assess their learning outcomes through formative assessments and achieve at least 70% proficiency."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Management System (LMS)",
+      "Interactive Mathematics Learning Content",
+      "Learning Analytics Tools",
+      "Cloud-based Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

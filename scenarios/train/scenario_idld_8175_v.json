@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8175-V",
+  "variant_type": "context_variant",
+  "title": "Nursing Simulation Education Curriculum Utilizing Smart Classrooms and Virtual Simulations",
+  "context": {
+    "prior_knowledge": "Basic nursing knowledge and fundamental patient care skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conduct blended education combining virtual simulations and hands-on training in smart classrooms utilizing personal devices (BYOD)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Perform patient status assessments and nursing intervention procedures with 90% accuracy in virtual simulation environments",
+    "Propose three or more nursing skill improvement strategies based on peer feedback through smart classroom collaboration activities",
+    "Integrate theoretical knowledge and simulation training results to present problem-solving solutions applicable to real clinical situations with over 70% success rate"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual Simulation Software License",
+      "Smart Classroom Equipment (Interactive Whiteboard, Wireless Presentation Tools)",
+      "Nursing Practice Equipment (Manikin Patients, Medical Device Simulators)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

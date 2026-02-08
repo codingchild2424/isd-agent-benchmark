@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7598",
+  "variant_type": "idld_aligned",
+  "title": "Big Data-Based Physical Education Platform Utilization Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic physical education instruction experience and fundamental digital device utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A capacity-building program for elementary school administrators to operate data-driven platforms for physical education innovation",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "It can design learner-customized physical activity programs using big data analytics tools within the platform.",
+    "It can improve engagement in online physical education classes by over 20% by applying multimedia network pedagogy.",
+    "It can provide posture correction feedback for individual learners using an exercise posture analysis system based on the OpenPose algorithm."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Big Data Analytics Platform Access",
+      "OpenPose Sample Dataset",
+      "Multimedia Production Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

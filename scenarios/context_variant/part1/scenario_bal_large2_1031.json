@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1031",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Learning Analytics-Based Elementary Social Studies Curriculum Design Strategies",
+  "context": {
+    "prior_knowledge": "Basic digital literacy (smartphone utilization skills)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Utilizes a smartphone-based Learning Management System (LMS), with two weekly face-to-face sessions (2 hours each) + asynchronous online activities.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Interpret learning analytics data and utilize it to improve instructional design.",
+    "Identify at least three learning patterns of students through formative assessments.",
+    "Improve the standard achievement rate of courses by 15% based on normative analysis results.",
+    "Learners will visualize at least three sets of public data using bar/pie charts via Google Data Studio or Tableau Mobile apps on smartphones during a 4-week mid-term course, save the generated charts as PDFs, and submit them."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile LMS Platform",
+      "Simplified Data Visualization Tool",
+      "Offline Activity Workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

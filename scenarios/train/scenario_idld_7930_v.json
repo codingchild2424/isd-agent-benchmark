@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7930-V",
+  "variant_type": "context_variant",
+  "title": "MakerSpace-Based Scientific Inquiry Project",
+  "context": {
+    "prior_knowledge": "Understanding of foundational science concepts and digital tool proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhanced science inquiry activities linked to social studies, with maker projects conducted in a non-real-time online environment.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design and execute scientific problem-solving processes using makerspace tools",
+    "Through collaborative learning, learners can simulate scientific phenomena by applying creative modeling techniques",
+    "Learners can systematically record and analyze project processes/outcomes in digital portfolios to produce reflective reports"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Modeling Software",
+      "Virtual circuit design tool",
+      "Arduino simulation platform",
+      "LMS-integrated collaboration tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

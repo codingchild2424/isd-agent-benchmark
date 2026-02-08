@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0079",
+  "variant_type": "balance_large_last",
+  "title": "Fundamentals of Electric Bus Battery State Prediction Modeling",
+  "context": {
+    "prior_knowledge": "Fundamental understanding of electric bus systems and introductory statistical analysis",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in smartphone-based limited-technology environments, focusing on conceptual understanding and practical application skills rather than complex mathematical modeling",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Can explain key factors in predicting electric bus battery status (state of charge, drivable distance)",
+    "Can understand the multi-task learning framework of the LSTM-Transformer hybrid model",
+    "Can explain step-by-step procedures for implementing predictive models using vehicle, battery, and weather data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible lecture materials",
+      "Simplified visualization tool",
+      "Real-Time Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

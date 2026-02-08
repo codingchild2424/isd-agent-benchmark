@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2876",
+  "variant_type": "idld_aligned",
+  "title": "Analysis of Chemistry Learning Communication Patterns: TBLA-Based Mobile Microlearning Design",
+  "context": {
+    "prior_knowledge": "Basic understanding of chemical terminology and chemical bonding",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners analyze chemistry learning communication patterns using mobile devices in a BYOD environment, receiving real-time feedback via formative assessment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze teacher-student interaction patterns in chemistry classes with 80% accuracy using the TBLA (Teacher Behavior and Language Analysis) methodology.",
+    "Learners can visualize key concepts discussed during chemistry learning through Excel-based keyword frequency analysis.",
+    "Learners can transcribe voice data collected in mobile environments into text and write reports evaluating classroom communication quality based on this data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone/Tablet Devices",
+      "Speech-to-Text Conversion Software",
+      "Excel Analysis Tool",
+      "Chemistry Learning Microcontent Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

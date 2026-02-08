@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6909-V",
+  "variant_type": "context_variant",
+  "title": "Integrated Problem-Based Learning (PBL) Curriculum in Dentistry",
+  "context": {
+    "prior_knowledge": "Basic Dental Science Knowledge (Anatomy, Pathology, etc.) and Fundamental Clinical Techniques",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning environment aimed at strengthening vertical/horizontal integrated education and patient-centered clinical competencies, combining digital learning materials with real clinical case simulations",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Participants can analyze real dental patient cases and apply dental caries diagnostic protocols.",
+    "Based on diagnostic results, participants can design and explain personalized preventive programs.",
+    "Participants can integrate foundational dental knowledge and clinical skills to propose patient management strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Case Database",
+      "3D dental modeling software",
+      "Virtual patient simulation system",
+      "Collaborative learning platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0509-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Practical App Development Competencies: Inquiry-Based Mathematics Instructional Design and Scientific Evaluation Capability",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and inquiry-based learning experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically design inquiry-based mathematical problem-solving scenarios in three or more stages (problem definition → hypothesis formulation → verification)",
+    "Learners can provide peer feedback on inquiry processes by applying scientific competency evaluation criteria (observation, inference, experimental design, etc.)",
+    "Learners can improve their inquiry scenarios at least twice based on formative assessment results and finalize deliverables"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

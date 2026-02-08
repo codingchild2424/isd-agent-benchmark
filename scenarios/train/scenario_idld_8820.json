@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8820",
+  "variant_type": "idld_aligned",
+  "title": "Design and Optimization of Remote Education Delivery Methods",
+  "context": {
+    "prior_knowledge": "Online learning platform experience and fundamental digital literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires flexible learning design for working professionals, considering accessibility across diverse device environments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically analyze technological and policy factors to consider when selecting remote education delivery methods",
+    "Learners can design at least three effective knowledge delivery strategies in LMS-based asynchronous learning environments",
+    "Learners can propose practical solutions for problem situations occurring in large-scale online learning environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Learning Management Resource Template",
+      "Case Analysis Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

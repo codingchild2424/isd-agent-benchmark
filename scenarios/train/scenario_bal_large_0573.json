@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0573",
+  "variant_type": "balance_large_scale",
+  "title": "[Massive] Japanese Video Game Localization Workshop",
+  "context": {
+    "prior_knowledge": "JLPT N3 or higher in Japanese, understanding of basic translation theory",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A collaborative learning environment emphasizing translation practice and feedback processes through simulation of an actual video game localization project",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply at least three translation strategies considering the context of Japanese video game dialogues (text) and UI elements.",
+    "Learners will produce 3 game translations adhering to constraints (≤15 characters, 3-second voice sync) and meet ≥4 of 5 quality verification checklist items (accuracy, technical suitability, creativity).",
+    "Learners can achieve a final translation quality of over 80% through iterative translation based on peer and instructor feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Japanese Video Game Sample (Console/Emulator)",
+      "Translation Memory Tool (e.g., Trados)",
+      "Game Development Team Collaboration Scenario Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Business/HR/Admin Support"
+}

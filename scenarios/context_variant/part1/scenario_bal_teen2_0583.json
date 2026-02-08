@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0583",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Card-Based Microlearning for Strengthening Literature Quality Evaluation Competencies",
+  "context": {
+    "prior_knowledge": "Basic academic research skills, understanding of research paper structure",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Modular learning using mobile apps in a BYOD environment. Emphasizes peer assessment and discussion activities.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can evaluate the credibility of a given abstract based on five quality criteria: plagiarism status, methodological clarity, data sources, conclusion validity, and academic contribution",
+    "Learners can present three or more justifications to refute or supplement peer evaluations during card-based discussion activities",
+    "Learners can calculate real-time literature quality scores and propose improvement strategies using 20+ case studies provided by a mobile app"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Flashcard Learning App",
+      "Literature Quality Assessment Criteria Card Set",
+      "Digital Evaluation Template",
+      "Abstract Samples Database Across Disciplines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

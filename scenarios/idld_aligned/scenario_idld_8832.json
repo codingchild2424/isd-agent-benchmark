@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8832",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Short-Term Intensive Rhythmic Gymnastics Training Program",
+  "context": {
+    "prior_knowledge": "Basic calisthenics movements and experience with mobile device usage",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Utilization of mobile learning content to establish safe contactless learning environments during the COVID-19 pandemic",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform basic rhythmic gymnastics movements (jump, rotation, balance maintenance) with 80% accuracy via a mobile platform.",
+    "Learners practice self-directed learning by filming and submitting rhythmic gymnastics practice videos at least three times a week using an LMS system.",
+    "Learners improve the precision of gymnastics movements (arm movement accuracy) by 75% or more in real time using interactive features of mobile devices."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Rhythmic Gymnastics Mobile Application",
+      "Video Recording Equipment",
+      "LMS platform",
+      "Motion Analysis Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

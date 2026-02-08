@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0349",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Constructivist-Based Embedded Systems Practical Education: Language-Integrated Control Programming",
+  "context": {
+    "prior_knowledge": "Basic C programming, digital logic circuit understanding, introductory experience with embedded platforms (e.g., Arduino), and ability to interpret technical documents and grasp fundamental programming language structures",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasizes a constructivist approach where learners define problems and implement solutions in a practice-oriented environment. Accumulates real-world system development experience through project-based assessments. Focuses on designing command systems for embedded system control and cultivating technical communication skills.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners design algorithmic representations and command structures for peripheral device control programs using embedded system development toolchains.",
+    "Learners implement IoT prototypes solving real-world problems via constructivist approaches and develop protocol languages (communication conventions) for system interoperability.",
+    "Learners debug and optimize system integration issues in collaborative environments, enhancing technical language proficiency for documentation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Arduino/Raspberry Pi Development Kit",
+      "Sensor and Actuator Set",
+      "Integrated Development Environment (IDE) Installation PC",
+      "3D Printing Support Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1925",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Enhancing Social Domain Expertise Through Online Interactive Microlearning",
+  "context": {
+    "prior_knowledge": "Core digital literacy and intermediate-level expertise in social sciences",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Interaction-centered education conducted in smartphone-based limited technological environments. Composed of 10-minute modules for professionals to engage in short-duration learning during work.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can propose at least three social problem-solving strategies through peer interactions in online discussion forums.",
+    "Learners achieve over 80% accuracy in learning content using the mobile quiz feature.",
+    "Learners develop and submit at least one real-world applicable social sector solution through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Mobile Learning Management System (LMS)",
+      "Visual-Centric PDF Materials",
+      "Voice recording tool",
+      "Text-Based Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

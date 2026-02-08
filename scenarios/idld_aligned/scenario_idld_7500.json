@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7500",
+  "variant_type": "idld_aligned",
+  "title": "XR Technology-Based Experiential Learning Design: Enhancing Mathematical Problem-Solving Competencies",
+  "context": {
+    "prior_knowledge": "Foundational mathematical concepts (functions, geometry) and basic digital device proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Immersive math learning environment using AR/VR equipment, providing real-time feedback through formative assessments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can solve 3D geometric problems presented in an XR environment with 80% accuracy.",
+    "Through an XR module applying experiential learning theory, students can explain at least three cases of mathematical concept application.",
+    "Students can diagnose two or more individual learning weaknesses by analyzing learning data collected from interactive XR content."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR/VR headset 5-pack",
+      "3D modeling software (Blender)",
+      "XR content authoring tool (Unity 3D)",
+      "Learning analytics dashboard system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

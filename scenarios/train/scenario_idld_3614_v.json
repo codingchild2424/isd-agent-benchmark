@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3614-V",
+  "variant_type": "context_variant",
+  "title": "Linear Algebra Concept Design-Based Curriculum for University Engineering Students",
+  "context": {
+    "prior_knowledge": "Basic matrix operations and understanding of vector space concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "For pre-service/in-service teachers, emphasizing advanced mathematics concept teaching competencies. Establishing visual modeling and collaborative learning environments using digital tools",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain geometric structures in three-dimensional space using concepts of linear combinations and spanning sets.",
+    "Learners can design abstract models applicable to real-world engineering problems based on the mathematical definition of span.",
+    "Learners can improve conceptual teaching strategies and develop validated educational materials through iterative Design-Based Research (DBR) cycles (three or more)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D visualization software (e.g., GeoGebra)",
+      "Online Collaboration Platforms (Google Workspace, Notion)",
+      "Linear Algebra Concept Assessment Rubric",
+      "Interactive Digital Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

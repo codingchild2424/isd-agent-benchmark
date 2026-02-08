@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0415",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Analysis of Frustration Factors in Collaborative Learning and Learner-Tailored Design Strategies",
+  "context": {
+    "prior_knowledge": "Basic Digital Device Usage Skills and Language Learning Experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Requires collaborative learning design using simulation/VR tools in a limited technological environment centered on smartphones. Learner diversity is categorized into five personas: goal-oriented collaborators, fairness-oriented independent learners, learning-oriented collaborators, instruction-dependent learners, and adaptive collaborators.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners analyze at least three major frustration factors in collaborative learning using Q methodology-based surveys and discussions.",
+    "Learners design and apply at least two customized collaborative strategies in a simulated environment based on learner types.",
+    "Learners propose at least one solution to address role distribution and communication issues among learners in VR-based project assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Q Methodology Survey Template",
+      "Learner Persona Profile",
+      "VR Simulation Scenario",
+      "Mobile-Optimized Collaboration Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7611",
+  "variant_type": "idld_aligned",
+  "title": "Exploring Hybrid Deep Learning Models for Understanding Early Alzheimer’s Disease Diagnosis Technology",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge and understanding of machine learning concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A smartphone-based learning environment with accessible educational materials",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately describe the four diagnostic stages of Alzheimer’s disease.",
+    "Learners can understand the spatiotemporal analysis principles of the combined EfficientNet-B6 and LSTM model.",
+    "Learners can apply medical image preprocessing procedures (normalization, augmentation, etc.) to real-world cases.",
+    "Learners can design a logical framework connecting MRI data classification results to clinical settings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MRI Image Sample Resources",
+      "Hybrid Model Concept Diagram",
+      "Manual Calculation Workbook",
+      "Smartphone-Compatible Visualization Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

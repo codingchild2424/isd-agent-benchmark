@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3857-V",
+  "variant_type": "context_variant",
+  "title": "Social Learning Instructional Design Scenarios to Improve MOOC Completion Rates in Technical Subjects Using Wearable Technology",
+  "context": {
+    "prior_knowledge": "Foundational technical subject knowledge, online learning experience, and basic understanding of social interaction and teamwork",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "For working professionals aiming to strengthen technical competencies. Establishes hands-on learning environments using wearable technologies (e.g., smartwatches, fitness trackers). Integrates social contexts like citizen participation, rights awareness, and institutional support mechanisms into the learning process.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners complete over 80% of practical assignments using wearable technology to enhance technical application skills and collaborative competencies.",
+    "Learners maintain over 90% weekly learning participation through a real-time feedback system and strengthen relationships with peer learners.",
+    "Through project-based assessments, learners propose ways to apply MOOC-learned technical subject content to real work environments and develop implementation strategies considering social impact."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Wearable technology equipment rental system",
+      "Practice-oriented software licenses",
+      "Real-time interactive platform (e.g., Zoom)",
+      "Project Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1941-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Microlearning-Based Short-Intensive Adult Information Literacy Course",
+  "context": {
+    "prior_knowledge": "Basic smartphone usage skills and mathematics learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course focused on cultivating information evaluation and application skills linked to mathematics, accessible exclusively via smartphones in environments without PC access",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify three or more reliable sources of information required for mathematical problem-solving and select credible materials.",
+    "Learners can apply and explain five or more criteria for evaluating the reliability of information collected via smartphones.",
+    "Learners are assessed on their ability to process digital information related to mathematical concepts through a three-stage process: search, analysis, and integration."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Information Evaluation Checklist App",
+      "Mathematics OER (Open Educational Resources) Links",
+      "Asynchronous Discussion Forum"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

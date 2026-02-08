@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6906-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Healthcare Practical Competencies: Deformation Design of Soft Self-Responsive Materials: Machine Learning and Evolution",
+  "context": {
+    "prior_knowledge": "Linear algebra, basic physics concepts, and foundational programming skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the deformation mechanism of Soft Magnetorheological Materials (SMRM) through physical modeling and mathematical approaches.",
+    "Learners can apply a design methodology combining machine learning (FCNN) and evolutionary algorithms to practical problems.",
+    "Learners can perform inverse design processes for magnetization profiles to achieve target deformations under given magnetic field conditions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

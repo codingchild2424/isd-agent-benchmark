@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM2-0017",
+  "variant_type": "balance_medium_final",
+  "title": "Microlearning Course for Cloud Network Management and Green Technology Awareness Enhancement",
+  "context": {
+    "prior_knowledge": "Basic understanding of computer networks and cloud computing concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended learning environment combining Azure AI platform-based practice and green technology case studies for preservice/in-service teachers",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Applying cloud network configuration and monitoring techniques using the Azure AI platform",
+    "Explaining methods to integrate core principles of green technology and sustainability goals into educational settings",
+    "Designing and evaluating energy-efficient cloud resource management strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Azure AI Platform Hands-on Practice Account",
+      "Chamilo-based E-Learning System",
+      "Mobile-Optimized Interactive Content",
+      "Cloud Management Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

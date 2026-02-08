@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0301",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Self-directed Mathematics Inquiry Program for Gifted and Advanced Students",
+  "context": {
+    "prior_knowledge": "Fundamental arithmetic operations and comprehension of basic mathematical concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Utilizes smartphone-based simple content, with periodic feedback sessions between teachers and students",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can independently select an inquiry topic within two weeks and develop a step-by-step learning plan",
+    "Learners enhance their ability to revise strategies during problem-solving through at least three self-assessments",
+    "Learners prioritize intrinsic curiosity over external motivation as the primary driver when performing project-based tasks"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible Learning App",
+      "Offline Inquiry Kit",
+      "Weekly learning checklist template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

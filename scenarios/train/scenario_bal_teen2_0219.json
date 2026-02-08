@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0219",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Language Proficiency Enhancement Program through Distributed Learning",
+  "context": {
+    "prior_knowledge": "Elementary Foreign Language Vocabulary and Grammar Proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners use mobile devices (smartphones/tablets) to study anytime/anywhere over a flexible 3-month period, with digital platform-delivered materials.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately recall over 80% of vocabulary learned through distributed practice during a 6-month post-assessment.",
+    "Learners can explain the mechanisms of long-term memory reinforcement using spaced repetition learning strategies.",
+    "Learners can autonomously establish self-directed study plans by setting personalized optimal review cycles."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Vocabulary Learning App",
+      "Weekly Learning Progress Tracking Dashboard",
+      "Customized Review Notification System",
+      "Speech Recognition Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

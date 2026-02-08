@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1393-V",
+  "variant_type": "context_variant",
+  "title": "Climate Change Education Design Through Understanding Climate Systems",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge (Earth science, physics) and general understanding of environmental issues",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Novice-level learners who recognize basic climate change concepts but struggle with systemic understanding and analyzing human activity impacts. Capable of using real-time collaboration tools (Google Jamboard, Padlet) in BYOD environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the key components of the climate system (atmosphere, hydrosphere, cryosphere, biosphere) and analyze their interactions systematically.",
+    "Describe the causes of climate change (natural factors/human activities) and environmental feedback mechanisms using scientific data.",
+    "Present practical response strategies based on regional climate change impact scenarios in the form of project reports."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IPCC Report Summary Materials",
+      "Climate Modeling Simulation Tool (e.g., EdGCM)",
+      "Access to NASA Climate Data Visualization Platform",
+      "Subscription to Online Collaborative Whiteboard Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

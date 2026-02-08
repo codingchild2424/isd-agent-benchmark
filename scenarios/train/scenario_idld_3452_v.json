@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-3452-V",
+  "variant_type": "context_variant",
+  "title": "Advanced Dental Morphology Practitioner Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended Learning Environment Utilizing Smartphone-Based Computer-Assisted Instruction (CAI) Tools",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify dental morphological features (nodules, fissures, cusps) with 90% accuracy using digital 3D models.",
+    "Learners can reproduce 3D dental structures with 80% accuracy using tablet-based drawing software.",
+    "Learners can achieve 20% higher precision in digital simulation assessments compared to traditional wax carving techniques."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PC Rental System",
+      "3D Dental Modeling Software License",
+      "Augmented Reality (AR) Marker Set",
+      "Practical Wax Blocks for Hands-on Practice",
+      "Digital Assessment Rubric Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5727-V",
+  "variant_type": "context_variant",
+  "title": "Blended Learning-Based Mobile Science Education Design",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized blended learning design for office workers (administrative/managerial), reflecting organizational culture and learning preferences",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain three core principles of blended learning using 5-minute mobile content",
+    "Learners can apply a blended learning design framework suitable for organizational culture to case analyses",
+    "Learners effectively integrate mobile-face-to-face learning strategies with over 80% proficiency through formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-Friendly Video Editing Tool",
+      "Simplified Quiz Generator",
+      "Real-Time Collaboration Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

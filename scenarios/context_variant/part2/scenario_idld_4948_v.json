@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4948-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Organizational Development Practical Competencies: AHP-PSO-Based Music Education Goal System Design and Instruction",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for corporate management/HR/administrative staff",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze a 4-dimensional 18-indicator music education objective system and calculate weights using AHP methodology",
+    "Learners can verify consistency (CR<0.05) between music education objectives using PSO algorithm",
+    "Learners can develop educational content plans reflecting the top 3 cognitive processes (reasoning, reproduction, discrimination)",
+    "Learners can design smartphone-compatible music education activities and develop evaluation tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Business Simulation Tool",
+      "HR Management System",
+      "Business Analytics Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

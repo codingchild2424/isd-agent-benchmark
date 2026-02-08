@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-7331-V",
+  "variant_type": "context_variant",
+  "title": "Fundamentals of VOF-ML Techniques for Compressible Flow Simulation",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Training course for technical professionals to master compressible flow analysis techniques in a simulated environment. Enhances visual learning through VR integration",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Explain and apply at least three operating principles of the VOF-ML algorithm",
+    "A step-by-step procedure can be established to address interface tracking issues in compressible flow simulations",
+    "Verification methods for machine learning-based numerical analysis techniques (accuracy, symmetry preservation, etc.) can be applied to real-world cases",
+    "Simulation results of dual-material systems containing shock waves can be quantitatively evaluated"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "HPC Cluster Access Permissions",
+      "VR Simulation Equipment",
+      "VOF-ML Open-Source Library",
+      "3D CAD Modeling Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

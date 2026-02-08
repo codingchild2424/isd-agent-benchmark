@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0167",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Patient Handoff (Handover) Education: Mobile Microlearning Based on Cognitive Load Theory",
+  "context": {
+    "prior_knowledge": "Basic medical communication skills and understanding of patient care protocols",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile learning optimized for smartphone-based environments, focusing on cognitive load management strategies in complex work settings. Composed of 15-minute daily modular content with formative assessment systems enabling real-time feedback",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify and manage at least three types of intrinsic cognitive load occurring during the handoff process.",
+    "Learners can perform efficient patient handoffs within 10 minutes using structured communication tools (e.g., SBAR).",
+    "Learners achieve over 90% accuracy in microlearning modules based on real clinical scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "SBAR Template",
+      "Virtual Patient Scenario Database",
+      "Cognitive Load Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

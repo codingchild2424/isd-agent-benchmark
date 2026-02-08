@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0780-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Developing Strategies for Communicating Biochemistry and Molecular Biology Concepts to the Public",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Develop ≥2 communication strategies to effectively convey biochemistry and molecular biology concepts to diverse audiences",
+    "Within one week, learners can analyze one scientific paper related to a designated AI project type (natural language processing or computer vision), extract core content (research purpose, methodology, results, limitations), and reconstruct it into a 500±50-character news release or educational material. The submission must meet two or more of the three rubric criteria (clarity, accuracy, readability).",
+    "Explain core principles of scientific communication through iterative improvement of communication outputs based on feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

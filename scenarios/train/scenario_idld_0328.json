@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0328",
+  "variant_type": "idld_aligned",
+  "title": "Collaborative Problem-Solving Pattern Analysis: Online Collaborative Learning for Social Issue Resolution",
+  "context": {
+    "prior_knowledge": "Basic digital communication skills and interest in understanding social issues",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducted through a combination of online synchronous collaborative learning and offline discussion sessions in a limited technological environment centered on smartphones.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "By participating three or more times in collaborative problem-solving (CPS) processes for social issues using online chat tools, learners analyze cognitive, metacognitive, and socio-communicative patterns.",
+    "Learners classify conflict situations in CPS into two types (e.g., time-lag/asynchronous conflict, spatial/role conflict) and propose one or more suitable resolution strategies per type.",
+    "Learners understand the principles of Dynamic Time Warping (DTW) and apply its simplified form (e.g., similarity calculations on time/space axes) to visualize collaborative patterns."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Online Chat Tool (e.g., KakaoTalk Open Chat)",
+      "Collaborative Learning Guidelines (PDF)",
+      "Paper Worksheet for Simple Graph Construction",
+      "Social Issue Case Database (Text-Based)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

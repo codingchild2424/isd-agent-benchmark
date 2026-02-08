@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4385-V",
+  "variant_type": "context_variant",
+  "title": "Web Development Practical Competency Enhancement: Fundamentals of Phytoplankton Community Analysis Using Satellite Remote Sensing",
+  "context": {
+    "prior_knowledge": "Basic Oceanography and Optical Measurement Principles, Along with Fundamental Statistical Analysis Skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can interpret satellite remote sensing data to explain phytoplankton community distribution patterns.",
+    "Learners can understand the measurement principles of hyperspectral sensors (EMIT/PACE) and apply them to real-world cases.",
+    "Learners can estimate phytoplankton absorption coefficients (a_phy) and chlorophyll-a (Chl-a) concentrations using variational autoencoder (VAE)-based algorithms."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

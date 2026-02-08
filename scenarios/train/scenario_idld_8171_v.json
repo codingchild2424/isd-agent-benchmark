@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-8171-V",
+  "variant_type": "context_variant",
+  "title": "Short-Intensive Course for Enhancing Cultural Proficiency (CP) for Healthcare Professionals",
+  "context": {
+    "prior_knowledge": "Basic knowledge in medical/healthcare fields and foundational understanding of multicultural environments",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Small-scale real-time online sessions in a BYOD environment, offering personalized feedback through formative assessments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain at least three core components of cultural proficiency (CP)",
+    "Learners can recognize and reflect on their unconscious biases through the Implicit Association Test (IAT).",
+    "Learners can propose two or more patient-centered cultural communication strategies using the Ethnocultural Empathy Inventory (EEI).",
+    "Learners can apply three or more practical skills for effectively interacting with patients from diverse cultural backgrounds."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Survey Instrument",
+      "Implicit Association Test (IAT) Platform Access",
+      "Ethnic-Emotional Empathy Inventory (EEI) Questionnaire",
+      "Multicultural Case Scenario Database",
+      "Real-Time Video Conferencing Tool (Zoom)",
+      "Learning Management System (LMS) Core Features"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

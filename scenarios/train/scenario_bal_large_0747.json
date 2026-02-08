@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0747",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Online Microlearning Course for Strengthening Healthcare Professionals' Educational Competencies",
+  "context": {
+    "prior_knowledge": "Completion of basic medical training or relevant work experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-centric education in a BYOD environment, combining real-time video lectures with asynchronous learning materials.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain three or more effective teaching methods applicable in medical education settings",
+    "Learners can design a 5-minute microlearning module for mobile environments and receive peer feedback",
+    "Learners can establish and execute peer-to-peer (P2P) learning support strategies using social media such as WhatsApp"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Zoom Account",
+      "WhatsApp group",
+      "LMS (Learning Management System) Mobile Version",
+      "5-Minute Microlearning Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

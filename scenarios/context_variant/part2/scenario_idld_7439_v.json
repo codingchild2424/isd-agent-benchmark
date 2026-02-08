@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7439-V",
+  "variant_type": "context_variant",
+  "title": "SSRL Strategy Design Program for Collaborative Learning among Science Teachers",
+  "context": {
+    "prior_knowledge": "Science Subject Matter Knowledge and Basic Digital Literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Acquisition of group collaborative learning strategies using AI tools and adaptive prompts in a smartphone-based learning environment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learning groups can diagnose three or more collaboration issues occurring during SSRL processes using AI-enhanced group awareness tools.",
+    "Learners can establish SSRL strategy execution plans with over 80% accuracy by applying adaptive prompts.",
+    "Participants can design feedback strategies to enhance SSRL levels by analyzing AI tool data in mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible AI Collaboration Tool",
+      "Adaptive Prompt Template",
+      "Mobile Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

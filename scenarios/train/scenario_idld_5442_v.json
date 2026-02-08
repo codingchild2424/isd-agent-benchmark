@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5442-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI practical competencies: Role awareness and learning design simulation for pre-service teachers",
+  "context": {
+    "prior_knowledge": "Fundamental understanding of the teacher role and anticipated experience in educational settings",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze and reflect on dilemmas arising during teacher role decision-making processes using simulation tools",
+    "Learners can reconstruct their role awareness and develop concrete action plans through peer mentoring feedback",
+    "Learners complete educational decision-making simulations with over 80% accuracy and demonstrate growth through reflective journals (3 entries) and peer evaluations (2 rounds)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5763",
+  "variant_type": "idld_aligned",
+  "title": "Medical Education Curriculum Improvement Program Applying Learner-Centered PLHET Model",
+  "context": {
+    "prior_knowledge": "Foundational knowledge in basic medicine and anatomy",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Classroom enabling team-based learning in BYOD environments, with activity designs customized to Kolb's learning styles",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply prepared medical content according to the PLHET model to real clinical situations.",
+    "Learners achieve an integrated understanding of complex medical concepts through collaborative activities tailored to Kolb’s four learning styles (Accommodating, Diverging, Converging, Assimilating).",
+    "Learners strengthen self-directed learning competencies through team-based problem-solving activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Medical simulation kit",
+      "Digital anatomy software license",
+      "Learning style diagnostic tool",
+      "BYOD-supported wireless network"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

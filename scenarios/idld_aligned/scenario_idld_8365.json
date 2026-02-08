@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8365",
+  "variant_type": "idld_aligned",
+  "title": "In-Depth Mathematics Concept Education Course Utilizing Rapid E-Learning",
+  "context": {
+    "prior_knowledge": "Basic Mathematical Operations and Understanding of Fundamental Mathematical Concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Education focused on improving real-life problem-solving skills through Bloom’s taxonomy-based activities in smartphone-centered limited technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve real-life math problems step-by-step according to Bloom’s Taxonomy six-level framework.",
+    "Learners can visually and interactively reconstruct math concepts using smartphone-based e-learning tools.",
+    "Learners can produce outcomes that apply acquired math knowledge to real-world situations through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible e-learning authoring tool",
+      "Printed Learning Materials with QR Codes",
+      "Offline collaborative learning kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

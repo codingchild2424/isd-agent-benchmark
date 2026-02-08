@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2841",
+  "variant_type": "idld_aligned",
+  "title": "Virtual World-Based Medical Professional Training Program",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge (anatomy, physiology, etc.)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A simulation-based learning environment using virtual world platforms (e.g., Second Life), emphasizing real medical scenario replication and collaborative learning.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Enhancing diagnostic and treatment planning skills through a type 2 diabetes patient management simulation in a virtual environment",
+    "Cultivate the ability to apply interdisciplinary medical approaches while communicating in real-time with peer learners in a virtual collaborative space",
+    "Develop the capacity to critically evaluate the educational utility of virtual reality-based learning tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual World Platform License",
+      "Medical Scenario Development Specialist",
+      "3D Modeling Equipment",
+      "Basic Medical Textbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

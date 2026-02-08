@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8283",
+  "variant_type": "idld_aligned",
+  "title": "Team-Based e-Learning Content Development: Collaborative Learning Using Shared Mental Models (SMM)",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and experience using digital tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based learning where teams design/develop math e-learning content in VR/simulation environments, enhancing collaboration through role distribution",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Establish a Shared Mental Model (SMM) necessary for the math education content development process through effective communication among team members.",
+    "Design and implement team-based e-Learning content that visually represents mathematical concepts using VR/simulation tools.",
+    "Analyze collaboration issues (e.g., role differentiation, reduced communication across progress stages) that arose during the content development process and propose improvements through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment (Available for Loan)",
+      "BYOD-Compatible Collaboration Tools (e.g., Google Workspace)",
+      "3D Modeling Templates for Mathematics Education"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

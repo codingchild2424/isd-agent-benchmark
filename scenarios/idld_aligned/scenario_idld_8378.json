@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8378",
+  "variant_type": "idld_aligned",
+  "title": "Job Competency Enhancement Program Utilizing Intelligent Personalized Mathematics Learning Systems",
+  "context": {
+    "prior_knowledge": "Comprehension of elementary mathematical concepts and basic proficiency in mobile device usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Targeting current elementary teachers, aims to develop personalized math education competencies in smart learning environments, providing adaptive content via individual learning data and conducting project-based assessments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can diagnose individual math learning deficiencies and develop personalized improvement plans using intelligent systems",
+    "Learners can achieve over 85% learning objective attainment rates using microlearning content in mobile environments",
+    "Learners can design and execute over three individualized math education projects through data-driven learning path recommendation systems"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "BYOD-Compatible LMS System",
+      "AI-Based Learning Analytics Tool",
+      "Mobile-Optimized Mathematics Content Library",
+      "Real-Time Collaboration Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

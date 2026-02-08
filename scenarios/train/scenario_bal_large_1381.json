@@ -1,0 +1,39 @@
+{
+  "scenario_id": "BAL-LARGE-1381",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Gamification Strategies to Enhance MOOC Engagement and Prevent Dropout",
+  "context": {
+    "prior_knowledge": "Elementary knowledge in scientific disciplines",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A non-degree online program for in-service professionals to strengthen scientific job competencies. Operates a formative assessment-centered feedback system.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve over 70% learning continuity by participating in real-time sessions at least three times weekly by the fourth week.",
+    "Learners earn a cumulative total of 15 or more badges through gamification tasks by the end of the course",
+    "Learners achieve an 80% or higher completion rate in formative assessments linked to the reward system",
+    "Learners enhance social interaction by collaborating with peer learners on three or more collaborative tasks during the course"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Gamification platform license",
+      "Digital Badging System",
+      "Reward-Exchange Educational Content Package",
+      "Real-Time Video Conferencing Tool",
+      "LMS (Learning Management System)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

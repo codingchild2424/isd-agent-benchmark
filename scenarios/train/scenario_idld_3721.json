@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3721",
+  "variant_type": "idld_aligned",
+  "title": "Workshop on Augmented Reality-Based Immersive Science Education Design",
+  "context": {
+    "prior_knowledge": "Foundational science theories and experience utilizing digital tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based learning environment where pre-service teachers directly design and evaluate science education content using augmented reality technology",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "The educational effectiveness of three case studies applying augmented reality applications to science education can be analyzed.",
+    "Immersive learning modules for science experiment simulations can be designed using AR development tools (e.g., Unity + AR Foundation).",
+    "AR-based project deliverables (3D models, quiz systems, etc.) for assessing learning outcomes can be created, and peer evaluations can be conducted."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Development Software License",
+      "Tablet PC/Smart Glasses",
+      "Science Experiment 3D Modeling Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

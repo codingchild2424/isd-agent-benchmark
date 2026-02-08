@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2588",
+  "variant_type": "idld_aligned",
+  "title": "Digital Interaction-based Intensive Short Course for Mathematics Education Content Design",
+  "context": {
+    "prior_knowledge": "Basic mathematical knowledge and proficiency in using digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners participate in real-time online classes via personal devices and undertake digital interactive content creation projects in a blended learning environment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Digital interactive content for math education can be designed by applying the four stages (planning, design, production, evaluation) of the ADIC model.",
+    "Learners can collaboratively create interactive content with up to 5 team members using Zoom-based real-time collaboration tools.",
+    "Learners can implement gamified mathematical concept visualization content using HTML5/CANVA tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CANVA free account",
+      "Google Workspace for Education",
+      "Padlet",
+      "Kahoot! basic features"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

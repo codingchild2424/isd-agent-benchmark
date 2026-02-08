@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1405-V",
+  "variant_type": "context_variant",
+  "title": "Gamification-Based Instructional Design for Elementary English Numeracy Education",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Providing personalized learning environments using individual mobile devices.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately pronounce and spell English numbers from 1 to 100.",
+    "Learners can complete number-related quizzes in a gamification environment with an 80% or higher accuracy rate.",
+    "Learners can participate in motivation activities (challenge tasks, reward systems) based on the ARCS model at a rate of 90% or higher."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR/Simulation Platform",
+      "Gamification content creation tool",
+      "Speech Recognition Module",
+      "Mobile-Compatible LMS (Learning Management System)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

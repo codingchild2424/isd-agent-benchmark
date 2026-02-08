@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0877",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Computational Fluid Dynamics Module Redesign: Cognitive Apprenticeship-Based Instruction",
+  "context": {
+    "prior_knowledge": "Grasp of fundamental fluid mechanics theory and numerical analysis",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-time interactive educational environment using digital devices for advanced domain-expert citizens",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the mathematical modeling process of CFD (Computational Fluid Dynamics) simulations with 80% accuracy.",
+    "Learners can set boundary conditions by applying discretization methods of the Navier-Stokes equations with a 90% success rate over three practical sessions.",
+    "Learners can configure fluid dynamics analysis cases using OpenFOAM or ANSYS Fluent and evaluate the physical validity of results with 85% accuracy in two assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CFD Software License",
+      "Real-Time Video Conferencing Equipment",
+      "Code Samples and Datasets",
+      "Interactive Whiteboard Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

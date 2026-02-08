@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0780",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Science Inquiry Simulation Education in Online Remote Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic science theories and comprehension of experimental procedures",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners participate in online learning via computer-mediated communication across diverse physical settings (home/training institutions) and utilize VR-based science experiment simulations",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can independently design procedures for at least three science experiments using VR-based simulations.",
+    "Learners can analyze experimental results based on real-time communication with peers via online collaboration tools.",
+    "Learners can establish effective remote learning strategies considering physical conditions of the learning environment (e.g., lighting, spatial arrangement)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "Science experiment simulation software",
+      "Real-time video conferencing tools",
+      "Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0696",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Performance Optimization of Wireless Communication Systems: Deep Learning-Based Instructional Design",
+  "context": {
+    "prior_knowledge": "Wireless communication fundamentals (signal processing, channel modeling), basic machine learning concepts, curriculum design experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Competency development in optimizing wireless communication systems for specialized language pedagogy",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain communication system performance evaluation models utilizing RIS (Reconfigurable Intelligent Surface) and MRT (Maximum Ratio Transmission) beamforming principles",
+    "Learners can apply deep learning-based optimization methods to determine the optimal number of RIS components for minimizing BLER (Block Error Rate)",
+    "Learners can interpret wireless communication performance optimization experiment results using smartphone-based simulation tools in resource-constrained technical environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Fundamentals of Wireless Communication Theory Textbook",
+      "Smartphone-compatible simulation app",
+      "RIS Component Visualization Model",
+      "BLER Performance Comparison Casebook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

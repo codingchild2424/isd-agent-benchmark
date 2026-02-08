@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0161",
+  "variant_type": "balance_self_directed",
+  "title": "Self-Directed Learning: LMS Personalization Support Strategies Workshop for Science Teachers",
+  "context": {
+    "prior_knowledge": "Basic LMS (Learning Management System) usage experience and ability to instruct elementary science curricula",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Enhancing lesson design capabilities for current elementary science teachers using personalized learning support tools within an LMS",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain methods to operate a science education content recommendation system tailored to learner characteristics based on learning data analysis",
+    "Develop personalized learning path plans according to individual learners’ progress rates using adaptive navigation support features",
+    "Propose improvements to science curriculum LMS interfaces following user-centered design principles"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS test environment",
+      "Recommender Algorithm Simulation Tool",
+      "Educational Science Content Samples"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

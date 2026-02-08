@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6314",
+  "variant_type": "idld_aligned",
+  "title": "Fault Diagnosis Technology Inquiry Learning Course Utilizing Computer Simulation",
+  "context": {
+    "prior_knowledge": "Foundational grasp of system principles and problem-solving experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducted in a smartphone-centric limited-technology environment, involving project-based learning linked to real-life contexts.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can diagnose various fault types with 80% or higher accuracy using simulation tools",
+    "Learners can demonstrate a cognitive schema explaining fault symptoms from a system principle violation perspective in three or more project deliverables",
+    "Learners show adaptive problem-solving abilities of 70% or higher when encountering new fault situations through random fault-type exercises (HCI conditions)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible simulation app",
+      "Fault Diagnosis Case Database",
+      "Team Collaboration Tools (e.g., Google Drive)",
+      "Offline Workshop Material Package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

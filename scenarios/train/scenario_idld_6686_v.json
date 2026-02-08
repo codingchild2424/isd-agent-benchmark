@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6686-V",
+  "variant_type": "context_variant",
+  "title": "Blended Learning Design and Knowledge-Based Learning Analytics Strategies",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aims to strengthen blended learning design competencies in social studies for in-service professionals. Requires mobile-based microlearning content creation and analytical tool utilization in BYOD environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can select optimal learning activities by utilizing knowledge-based visualization tools when designing activities for blended learning environments.",
+    "Learners can interpret learner interaction data through learning analytics tools and apply insights to improve instructional design.",
+    "Learners can develop a weekly learning plan integrating social interaction and knowledge-construction activities on a mobile microlearning platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Design Automation Tool",
+      "Mobile Learning Management System (LMS)",
+      "Learning Analytics Visualization Dashboard Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

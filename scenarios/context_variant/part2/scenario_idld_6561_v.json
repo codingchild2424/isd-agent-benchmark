@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6561-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Deep Learning Practical Competencies: Residential Building Design Optimization Techniques for Climate Change Response",
+  "context": {
+    "prior_knowledge": "Basic architectural design and thermodynamics concepts, foundational data analysis skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform simulations to improve the Energy Use Intensity (EUI) of residential buildings by 20% or more, reflecting climate change scenarios.",
+    "Application of optimization techniques for architectural elements (shading, ventilation, insulation) to maintain the thermal comfort index (HI, Humidex) range",
+    "Derivation of a plan to reduce the indoor overheating index (IOhD) by 20% using a machine learning-based design optimization process"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0596",
+  "variant_type": "balance_teen_k12",
+  "title": "Social-Emotional Learning Competency Enhancement Program Using Robotics and Coding in K-12 Education",
+  "context": {
+    "prior_knowledge": "Elementary digital competence and experience solving simple problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course that develops social-emotional learning (SEL) competencies through robotics simulations and coding activities in a smartphone-based learning environment. Aims to enhance collaborative abilities and self-awareness through team-based problem-solving tasks",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can solve over 80% of assigned tasks through collaborative robot control coding with teammates",
+    "Learners achieve 20%+ score improvement in self-awareness and relationship management on SEL competency assessments",
+    "Learners implement at least three types of robot operation logic using mobile platform-based simulation tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible robotics simulation app",
+      "SEL competency diagnostic online tool",
+      "Collaborative Learning Management System (LMS)",
+      "Open-source educational materials (Project RAISE)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

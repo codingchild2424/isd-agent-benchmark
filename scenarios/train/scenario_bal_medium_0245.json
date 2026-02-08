@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0245",
+  "variant_type": "balance_medium_scale",
+  "title": "Educational Technology and Instructional Design Analysis Using Text Mining",
+  "context": {
+    "prior_knowledge": "Elementary statistics, understanding of educational technology concepts, and academic paper comprehension skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Data collection and analysis activities enabled via smartphones in resource-limited technological settings.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can classify research trends in educational technology into three or more keyword clusters via text mining.",
+    "Learners can summarize core themes of academic papers in three sentences or fewer by analyzing instructional design principles and technology integration cases.",
+    "Learners can derive five major issues in educational technology based on text mining results and suggest practical implications."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone applications (e.g., Google Sheets, TxtMiner)",
+      "Academic paper PDF materials",
+      "Whiteboard Markers",
+      "Printed workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

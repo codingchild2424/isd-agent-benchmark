@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2906-V",
+  "variant_type": "context_variant",
+  "title": "Physical Assessment Skills Training for Pharmacy Professional Competency Enhancement: Activity-Based Learning Design",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "An in-house training program for medical device manufacturers focusing on acquiring physical assessment skills applicable in real clinical settings",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately understand the proper use of a stethoscope and perform manual blood pressure measurement procedures with over 80% accuracy.",
+    "Learners can correct blood pressure measurement errors within three attempts through virtual simulations and peer feedback.",
+    "Learners can explain the principles of activity-based learning design grounded in Gagné’s Nine Events of Instruction."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Sphygmomanometer, Stethoscope, and Blood Pressure Measurement Simulation App",
+      "Gagné’s Nine-Events of Instruction Workbook",
+      "Peer Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

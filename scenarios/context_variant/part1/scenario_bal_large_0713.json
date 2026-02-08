@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-0713",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Discord-Based Peer Learning Project for University Computer Graphics",
+  "context": {
+    "prior_knowledge": "Basic 3D modeling, experience with graphic software (Blender/Maya), foundational linear algebra concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-time collaborative environment using mobile devices, with an immediate peer feedback system operational after project completion.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners must engage in technical discussions with peers via Discord channels at least three times weekly to resolve over 80% of project issues",
+    "Learners exchange three or more rounds of specific feedback (technical/aesthetic) through peer evaluation",
+    "Learners achieve a 25% improvement in project completion by utilizing a senior-junior mentoring system",
+    "Learners perform knowledge dissemination activities by sharing micro-content (5-minute videos/images) five or more times weekly in mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Discord server",
+      "3D Modeling Software License",
+      "Mobile-Compatible LMS System",
+      "Project template provision"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

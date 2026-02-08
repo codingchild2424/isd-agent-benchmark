@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2678-V",
+  "variant_type": "context_variant",
+  "title": "Workshop on Designing Computer-Based Scientific Inquiry Educational Tools",
+  "context": {
+    "prior_knowledge": "Basic computer literacy, secondary-level science foundational knowledge (including experimental design and data analysis methods), and understanding of the scientific inquiry process",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners use personal devices (BYOD) to design and apply computer-based educational tools integrated into science curricula, producing inquiry-centered deliverables applicable to real classrooms (experiment observation logs, data analysis templates) through project-based assessment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Designing a digital content production process for science curricula and implementing variable-controlled experiment simulations using XML-based open-source tools.",
+    "Building an educational resource distribution system in a JAVA-based cross-platform environment and integrating scientific data visualization functionalities.",
+    "Developing inquiry-based instructional materials that decouple content from delivery methods for flexible application across diverse educational contexts.",
+    "Learners collaborate in teams of 3–4 to design two primary/secondary science education scenarios (including hypothesis setting, experimentation, analysis, and conclusion derivation), produce project-based assessment materials (with rubrics), and receive expert panel feedback averaging ≥4/5 on a 5-point scale."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-Source Software Tools",
+      "Science Education Standards-Based Content Template",
+      "Cross-Platform Compatibility Testing Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

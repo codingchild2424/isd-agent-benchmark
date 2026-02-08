@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3388-V",
+  "variant_type": "context_variant",
+  "title": "Adaptive Social Studies Curriculum Design for Personalized Learning Support",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized content recommendation and navigation support system reflecting adult learners' learning patterns",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can identify social studies materials required for personalized learning paths with over 80% accuracy using recommendation systems within the LMS (Learning Management System)",
+    "Learners can achieve self-set learning goals within four weeks with over 90% success through adaptive navigation support",
+    "Learners can submit project-based assessment tasks with 95% completion rates using personalized feedback mechanisms"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Standardized Learning Content Repository",
+      "User Modeling Tool",
+      "Recommendation Algorithm API",
+      "User Experience Evaluation Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

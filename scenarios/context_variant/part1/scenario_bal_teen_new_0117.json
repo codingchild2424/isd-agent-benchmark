@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0117",
+  "variant_type": "balance_teen_filtered",
+  "title": "University Science Education Program for Enhancing Collaborative Skills Through MOOCs [K-12]",
+  "context": {
+    "prior_knowledge": "Foundational Science Knowledge and Experience in Using Online Learning Platforms",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Project-based learning program to strengthen collaborative competencies in science fields within smartphone-centric limited-technology environments, applicable in educational settings similar to the Al Akhawayn University Fez School of Business case",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners enhance scientific problem-solving skills by completing three or more online collaborative projects with peers via a MOOC platform over four weeks.",
+    "Learners develop efficient communication strategies with team members during science data collection and analysis using digital tools (smartphone apps, collaboration platforms).",
+    "Learners demonstrate collaborative competencies (achieving over 80% based on self/peer assessment criteria) in solving real-world science problems through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MOOC Platform Access Permissions",
+      "Smartphone-compatible collaboration app",
+      "Whiteboard/Marker Set for Offline Group Activities",
+      "Science Experiment Kit Model"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

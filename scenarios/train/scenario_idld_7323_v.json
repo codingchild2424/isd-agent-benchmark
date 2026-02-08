@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7323-V",
+  "variant_type": "context_variant",
+  "title": "AI Practical Competency Enhancement: Opioid Overdose Response Training Based on the 5-E Learning Cycle",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately identify opioid overdose symptoms and risk factors with over 80% accuracy",
+    "Learners perform naloxone (Naloxone) administration procedures at or above Level 3 of the 4-level simulation evaluation criteria",
+    "Learners apply overdose patient response protocols with 90% accuracy in virtual scenarios",
+    "Learners mathematically design community overdose prevention strategies through statistical data analysis"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

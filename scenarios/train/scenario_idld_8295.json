@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8295",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Integrated Curriculum for Accounting Beginners",
+  "context": {
+    "prior_knowledge": "Basic mathematics (sufficient to understand fundamental financial statement structures)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Team-based project emphasis through VR simulation environments accessible via personal devices",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Through VR simulation, learners will explain the interrelationships of assets, liabilities, and equity in creating financial statements for a virtual company.",
+    "Through storytelling-based case analysis, learners can present at least three ways accounting information impacts managerial decision-making.",
+    "Learners can evaluate the social responsibility aspects of accounting practices by analyzing compliance with legal regulations and prepare a report."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Platform",
+      "Virtual Enterprise Case Database",
+      "Collaborative Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

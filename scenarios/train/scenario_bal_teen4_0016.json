@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN4-0016",
+  "variant_type": "balance_teen_final",
+  "title": "Mathematics Skill Expertise Development Course Based on the 4C/ID Model",
+  "context": {
+    "prior_knowledge": "Elementary-level mathematics knowledge and problem-solving experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A mathematics skill enhancement program applying the 4C/ID model (learning tasks, supportive information, part-task practice, coaching) in simulation/VR environments, providing continuous feedback through formative assessment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze complex mathematical problems using the 4C/ID model’s learning task structure to solve them with 80% or higher accuracy.",
+    "In a VR simulation environment (e.g., Unity-based physics simulation), learners will solve three real-world problems (e.g., bridge design, population growth prediction) through mathematical modeling. They will demonstrate the modeling process (variable definition, equation setup, validation) step-by-step and submit deliverables meeting peer and instructor evaluation criteria (4+ out of 5).",
+    "Learners can document a process of improving their problem-solving strategies three or more times based on peer coaching feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR equipment set",
+      "4C/ID Model Template",
+      "Digital Workbook",
+      "Simulation Scenario Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

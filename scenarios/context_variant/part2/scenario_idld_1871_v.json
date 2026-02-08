@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1871-V",
+  "variant_type": "context_variant",
+  "title": "Self-Regulated Learning Strategies Workshop for Engineering Problem-Solving Competency",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental engineering principles and experience in solving social issues",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners perform projects applying an engineering approach to solve social issues, using web-based learning materials as supplementary resources in a limited technological environment utilizing smartphones.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can complete over 90% of engineering problem-solving projects within three months using self-regulated learning strategies",
+    "Learners can achieve a score of 3.5 or higher on a 4-level evaluation scale for smartphone-based tool utilization during the learning planning-execution-evaluation process",
+    "Learning outcomes can be improved by over 20% through peer feedback and reflective journaling"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible web platform",
+      "Offline learning workbook",
+      "Social Issues Case Database",
+      "Self-Regulated Learning Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

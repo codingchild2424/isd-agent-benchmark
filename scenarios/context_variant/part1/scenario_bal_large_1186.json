@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-1186",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Integrated Course on Functional Modeling and GeoGebra Simulation for Conceptual and Procedural Understanding of Differentiation",
+  "context": {
+    "prior_knowledge": "Fundamental function concepts (linear, polynomial, trigonometric), interpretation of graph slopes, and basic understanding of differential notation",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasis on real-time collaboration and simulation activities using personal devices (BYOD). Project-based assessments evaluate the ability to connect multiple representations (symbols, graphs, applied problems).",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can explain the conceptual meaning of derivatives through slope analysis for various function types (linear, polynomial, trigonometric)",
+    "Students can visually analyze and explain the relationship between derivative coefficients and derivative graphs of functions using GeoGebra simulations",
+    "Students can perform mathematical modeling by applying derivative concepts to real-life problems (e.g., velocity, acceleration, optimization)",
+    "Students can achieve over 85% procedural fluency in derivatives through tasks integrating symbolic computation and graphical interpretation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GeoGebra Software License",
+      "Tablet/Laptop (Student Personal Devices)",
+      "Worksheet on Application of Derivative Concepts",
+      "Graph Sketching Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

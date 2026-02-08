@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0650-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Skills: Strategies for Developing Elementary Math Educational Materials and Personalized Learning Applications",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can independently develop and modify elementary mathematics digital resources aligned with curriculum standards",
+    "Learners analyze three image classification model educational materials suitable for 5th–6th graders, propose ≥3 adaptation methods (e.g., offline activities, simplified code, alternative tools) considering classroom environments (device availability, internet speed), and submit a report meeting ≥4/5 peer evaluation rubric items.",
+    "Teachers use design resources from AI-based educational platforms (e.g., ChatGPT, Google Teachable Machine) to develop ≥3 differentiated instructional strategies (individualized learning, project-based learning, gamification), implement them in ≥2 classes, and achieve ≥80% student engagement satisfaction in surveys."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

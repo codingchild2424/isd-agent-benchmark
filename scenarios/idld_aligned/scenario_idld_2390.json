@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-2390",
+  "variant_type": "idld_aligned",
+  "title": "E-portfolio design for competency-based language education",
+  "context": {
+    "prior_knowledge": "Basic language skills (reading/writing/speaking)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-synchronous learning environments using digital devices, reflecting the need for job integration among adult learners",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Achieve language competencies required in real work environments with a performance accuracy of 80% or higher.",
+    "Systematically collect and organize 15 or more pieces of evidence in an e-portfolio.",
+    "Successfully complete three or more certification tasks under variable assessment conditions.",
+    "Write a self-reflection report based on five or more feedbacks through peer evaluation.",
+    "Develop an action plan to apply competencies acquired during the learning process to professional settings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital Assessment Portfolio Templates",
+      "Job-Connected Task Scenarios",
+      "Automated Grading Tools",
+      "Peer Assessment Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5617",
+  "variant_type": "idld_aligned",
+  "title": "Foundational Information Literacy Training for Vocational Trainees",
+  "context": {
+    "prior_knowledge": "Basic smartphone usage and online search experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "One-time educational sessions conducted in smartphone-centered limited technological environments. Emphasizing information collection and analysis skills for project-based assessments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can evaluate credible information from libraries and online sources using three or more criteria.",
+    "Students can apply at least two information retrieval strategies using smartphones.",
+    "Students can distinguish and identify three or more primary/secondary sources relevant to project topics."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Information evaluation checklist",
+      "Simplified Search Guide PDF"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0505",
+  "variant_type": "idld_aligned",
+  "title": "Active Learning-Based Online Education Course for Engineering Design Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Foundational engineering design processes and project management experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based learning environment design considering workplace integration for working adult learners.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can establish project plans to solve real-world workplace problems by applying systemic design methodologies",
+    "Learners experience iterative improvement of design solutions through peer feedback and collaboration at least twice",
+    "Learners engage in expert mentoring and peer evaluations at least once weekly in LMS-based discussion forums"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Industry Case Database",
+      "CAD Software Trial Version",
+      "Collaboration tools (Slack/Notion)",
+      "Design Template Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

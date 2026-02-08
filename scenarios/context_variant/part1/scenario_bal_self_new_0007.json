@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0007",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Self-Directed Instructional Design for Improving Basic Mathematical Concepts",
+  "context": {
+    "prior_knowledge": "Understanding of elementary arithmetic operations",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized instructional design for professional adult learners to systematically acquire language-integrated numeracy concepts.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve at least 80% proficiency in solving daily problems using the principles of number partitioning and combination within three months.",
+    "Learners can produce visualizations of numerical relationships using digital tools with 90% accuracy.",
+    "Learners improve their ability to verbally explain mathematical thinking processes through project-based assessments by at least 75%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Workbook",
+      "Interactive apps",
+      "Offline Activity Kit",
+      "Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

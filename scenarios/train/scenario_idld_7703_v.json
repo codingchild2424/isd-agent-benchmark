@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7703-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening E-Learning Practical Competencies: Reinforcement Learning-Based HVAC Energy Control Optimization",
+  "context": {
+    "prior_knowledge": "Basic physics and mathematics knowledge, foundational programming understanding, and introduction to energy systems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Instructional design competency enhancement program for professionals in education/teaching/learning fields",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Understand reinforcement learning fundamentals and build simulation models applicable to HVAC control systems",
+    "Solve energy consumption optimization problems by tuning DQN hyperparameters (learning rate, discount factor, etc.)",
+    "Analyze simulation results under various climate conditions to calculate system efficiency (COP) and energy savings rates",
+    "Formulate control strategies using real building energy data and visualize results through project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Authoring Tool",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Education (Teaching & Learning)"
+}

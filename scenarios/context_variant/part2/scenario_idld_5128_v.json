@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5128-V",
+  "variant_type": "context_variant",
+  "title": "Adult Learner Mathematics Competency Strengthening Project in Blended Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic Mathematics (Functions, Equations, Statistics, etc.) and Work-Related Data Interpretation Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A customized mathematics learning environment for office/administrative professionals to solve practical workplace problems, considering smartphone-centric limited-technology settings",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply mathematical modeling skills with over 80% accuracy through project-based tasks in a blended learning environment.",
+    "Learners achieve over 90% self-directed learning participation within three months by establishing learning plans based on Self-Determination Theory.",
+    "Learners achieve an average score of 4.5 or higher (on a 5-point scale) in engagement surveys by employing situational interest strategies during PBL processes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized LMS (Learning Management System)",
+      "Mathematical Concept Visualization Tools (e.g., GeoGebra)",
+      "Real-time Collaboration Platform (Google Workspace)",
+      "Offline Workbook and Calculator Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

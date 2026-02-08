@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0405-V",
+  "variant_type": "context_variant",
+  "title": "Network-Based Online Collaborative Science Learning",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Working professionals with time constraints but possessing digital device skills, aiming to enhance science subject expertise",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can build knowledge networks for scientific problem-solving using online collaboration tools.",
+    "Learners can evaluate three peer scientific argumentation posts in an asynchronous discussion forum using a rubric (clarity, logical coherence, sufficiency of evidence), and write a peer assessment report including at least two constructive feedbacks.",
+    "Learners can collaboratively create digital content explaining scientific concepts in LMS collaborative spaces (wikis, Google Docs, etc.)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Experiment Simulation Tool",
+      "Collaboration Platforms (Padlet, Miro, etc.)",
+      "LMS-Integrated Assessment System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

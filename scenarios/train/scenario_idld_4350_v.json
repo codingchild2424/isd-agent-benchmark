@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4350-V",
+  "variant_type": "context_variant",
+  "title": "Experimental Instructional Design Course Based on Mobile Microlearning for Computer Education",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and administrative work experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Intermediate professional learners in managerial/leadership roles completing computer education courses using mobile devices. Emphasis on real-world application skills through experiment-centered pedagogy.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can write three or more task automation scripts applying foundational computer science concepts in a mobile environment.",
+    "Learners can design and present two or more improved digital solutions through peer evaluation and feedback.",
+    "Learners can develop one computer-based strategy to solve real-world workplace problems through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Interactive Simulation Tool",
+      "Real-Time Collaboration Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

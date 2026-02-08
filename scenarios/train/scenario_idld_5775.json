@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5775",
+  "variant_type": "idld_aligned",
+  "title": "VR-Based Mathematics Online Lecture Design and Operational Practice",
+  "context": {
+    "prior_knowledge": "Proficiency in basic online learning platforms and foundational theories of mathematics education",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Enhancing competencies in designing and operating visualization of mathematical concepts using simulation tools in VR environments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can describe instructional design principles for effectively delivering math concepts (simulations/3D modeling) in VR environments.",
+    "Learners can develop one or more VR-based math lecture modules integrating formative assessments (quizzes, feedback loops).",
+    "Learners can apply technical optimization strategies to ensure VR content accessibility in BYOD environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR development tools (Unity/Unreal Engine)",
+      "Online Lecture Platform (LMS)",
+      "3D modeling sample dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

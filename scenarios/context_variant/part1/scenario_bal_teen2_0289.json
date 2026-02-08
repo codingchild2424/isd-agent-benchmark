@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0289",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Language Competency (Reading, Writing, Expression, Grammar) Enhancement Course Using MOOC-Based Self-Regulated Learning and Social Mirroring",
+  "context": {
+    "prior_knowledge": "Foundational language proficiency (reading/writing/speaking) and digital device experience, with comprehension of basic grammatical rules and writing structures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "VR environment configuration to promote social interaction among learners and visualization tools for individual learning progress (task completion rate, feedback incorporation rate). Provides model texts and expression dictionaries to foster a peer feedback culture. Integrates automatic grammar error detection and vocabulary diversity analysis tools.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners monitor peer language task progress (vocabulary usage, sentence structure, grammatical accuracy) in VR simulation environments, applying self-regulated learning strategies (e.g., time management, goal setting, error analysis) at least once weekly.",
+    "Through social mirroring scaffolding activities (e.g., peer modeling, feedback sessions), learners establish strategy revision plans reflecting at least three types of peer feedback (grammatical accuracy, lexical diversity, clarity of expression, textual coherence) in weekly language tasks (writing/speaking) over 8 weeks, submitting these as checklists with assignments.",
+    "By the end of the 6-month course, learners demonstrate at least three social awareness behaviors (e.g., active listening, role distribution, feedback acceptance) during collaborative processes in project-based assessments (e.g., team language learning content creation) and achieve scores of 4/5 or higher on teacher evaluation rubrics (grammar, fluency, creativity, vocabulary usage)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "Learning Progress Dashboard",
+      "Peer Feedback System",
+      "Language Simulation Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

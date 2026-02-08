@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1510",
+  "variant_type": "idld_aligned",
+  "title": "CAPs-Based Instructional Workshop for Pre-Service Mathematics Teachers",
+  "context": {
+    "prior_knowledge": "Foundational mathematics education theory and classroom management experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "VR simulation replicating real classroom scenarios, enabling repeated CAPs content listening via personal mobile devices.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Preservice teachers can design instructional strategies using CAPs to enhance math concept comprehension by 20%+ for students with special needs.",
+    "Learners can apply CAPs-acquired knowledge in VR simulations to execute 3+ differentiated math teaching methods.",
+    "Participants can suggest 2+ ways to improve student engagement in their CAPs-based lessons through peer assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Educational VR Equipment",
+      "Podcast Production Software",
+      "Mathematics Education Scenario Database (DB)",
+      "Individual Smartphone/Tablet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

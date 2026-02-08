@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5517",
+  "variant_type": "idld_aligned",
+  "title": "Australian Rules Football Game-Based Training Design: Intermediate Elementary Course",
+  "context": {
+    "prior_knowledge": "Basic Australian rules football rules comprehension and simple dribbling/passing techniques",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Game simulation training utilizing mobile devices and BYOD environments, focusing on recreating game conditions similar to actual competitions",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can make effective pass decisions within 5 seconds and with 90% accuracy when entering the attack zone (inside-50).",
+    "Learners can select passes under pressure scenarios (similar to real matches) with over 85% probability in game-based training.",
+    "Learners can complete over 20 simulation training sessions via a mobile app within a week and pass team project evaluations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Football Simulation App",
+      "Game Analysis Video Library",
+      "Mobile-Compatible Training Manual (PDF)",
+      "Team-Specific Virtual Game Record Sheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6570",
+  "variant_type": "idld_aligned",
+  "title": "AED Training Implementation and Impact Analysis",
+  "context": {
+    "prior_knowledge": "Basic Knowledge of Cardiopulmonary Resuscitation (CPR) and Fundamental Principles of First Aid",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Parallel implementation of simulation training using digital devices (tablets/smartphones) and hands-on practice with actual AED models",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify structural differences among various AED models and explain the functions of each component (cover, electrodes, buttons)",
+    "Learners can perform defibrillation within 40 seconds using an unfamiliar AED model in a simulated environment",
+    "Learners can analyze psychological barriers (confusion, anxiety) that occur during AED use and propose strategies to overcome them"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Three Types of AED Training Models",
+      "Simulation Software License",
+      "Fifteen Tablet Devices",
+      "Fifteen CPR Manikins"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

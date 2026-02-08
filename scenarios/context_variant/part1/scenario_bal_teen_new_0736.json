@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0736",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Language Learning Projects with Generative AI: Theory and Practice",
+  "context": {
+    "prior_knowledge": "Basic smartphone usage and digital literacy",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners primarily use smartphones as learning tools and participate in language-learning projects utilizing generative AI. The educational institution is a nonprofit community education center, with learners aiming to improve language skills necessary for daily life.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the basic functionalities of generative AI tools and their application methods in language learning.",
+    "Produce at least three personalized language learning contents using generative AI.",
+    "Compare AI-generated feedback with peer assessments to propose effective language learning strategies."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Free generative AI tools (chatbots, translators, etc.)",
+      "Offline activity worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

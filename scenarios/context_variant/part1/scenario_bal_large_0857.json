@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-0857",
+  "variant_type": "balance_large_scale",
+  "title": "Information Technology-Integrated Secondary Music Education Design",
+  "context": {
+    "prior_knowledge": "Basic Music Theory and Proficiency in Personal Smart Device Usage",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Utilizing Digital Tools for Music Creation and Analysis in BYOD (Bring Your Own Device) Environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can complete compositions combining tones from three or more digital instruments using music production software",
+    "Learners can visually interpret chord structures of five or more classical/contemporary pieces using AI-based music analysis tools",
+    "Students can edit recordings captured on personal devices for submission as project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet/Laptop",
+      "Music Production Software (FL Studio, GarageBand, etc.)",
+      "AI Music Analysis Tool",
+      "Headphones",
+      "Digital Sheet Music"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

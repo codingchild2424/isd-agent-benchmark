@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6900",
+  "variant_type": "idld_aligned",
+  "title": "Middle School Spatial Vector Concept Learning Using Virtual Robot Systems",
+  "context": {
+    "prior_knowledge": "Understanding of basic algebraic operations and 2D geometry concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Parallel use of laboratory and online platforms for real-time interaction and self-directed learning",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can visualize and explain vector composition and decomposition in 3D space through virtual robots",
+    "Learners develop the ability to quantitatively calculate vector magnitude and direction through virtual robot control simulations",
+    "Learners demonstrate a project-based assessment applying spatial vector concepts to robot path design tasks with over 80% completeness."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Unity-based virtual robotics system",
+      "3D visualization tool",
+      "Robot control simulation kit",
+      "Online Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

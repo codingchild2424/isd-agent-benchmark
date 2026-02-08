@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1569-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening data science practical competencies: Translation education program design to enhance gender equality awareness",
+  "context": {
+    "prior_knowledge": "Basic translation techniques and scientific text comprehension ability",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify three types of gender-biased language in scientific translation texts and propose gender-equal alternatives with 80% accuracy",
+    "Learners can complete translation projects (5 iterative revisions) reflecting peer feedback according to formative research methodologies",
+    "Learners can evaluate their own and peers' translation outputs with 85% agreement using gender-sensitivity assessment rubrics"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

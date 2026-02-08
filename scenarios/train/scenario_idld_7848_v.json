@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7848-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Nursing Practice Competencies: Designing Computational Thinking Learning Through Data-Driven Problem Solving",
+  "context": {
+    "prior_knowledge": "Basic data literacy and comprehension of programming concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyzing patterns in diverse language datasets to extract meaningful insights",
+    "Developing data-driven problem-solving models applicable to real-world professional scenarios (medical/legal/technical)",
+    "Learners will implement a dashboard visualizing medical data (e.g., patient records, vaccination rates) using Python-based programming tools (e.g., Matplotlib, Seaborn) and design a simple decision-support system (e.g., patient risk classification) with ≥80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

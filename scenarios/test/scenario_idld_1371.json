@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1371",
+  "variant_type": "idld_aligned",
+  "title": "Analysis of Instructional Design Failure Phenomena and Response Strategies",
+  "context": {
+    "prior_knowledge": "Understanding of basic instructional design concepts and practical experience in mathematics education",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-centered education using smartphone-based VR simulations, providing immediate feedback through formative assessment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can classify instructional design failure cases into three types: process failure, outcome failure, and reflective opportunity.",
+    "Learners can analyze instructional design failure scenarios in VR simulation environments and propose response strategies.",
+    "Learners can derive at least two effective instructional design improvement plans in constrained technological environments (e.g., smartphones)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR content",
+      "Instructional design failure case database",
+      "Collaborative Learning Worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

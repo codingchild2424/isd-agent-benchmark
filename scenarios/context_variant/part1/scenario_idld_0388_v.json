@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-0388-V",
+  "variant_type": "context_variant",
+  "title": "Design of Diagnostic and Assessment Tools for Calculus Foundational Competencies for Engineering Students",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Workshop for developing assessment tools to evaluate calculus readiness among engineering freshmen. Establishes a diagnostic evaluation system covering geometry (straight lines, circles, surface area/volume calculations of 3D shapes) and algebra/trigonometry domains",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Development of 20 assessment items evaluating core geometric concepts (straight lines, circles, and solid figure calculations) necessary for engineering calculus",
+    "Learners perform Item Response Theory (IRT) analysis on medium-difficulty and high-discriminatory items (≥10 items) using SPSS/R over 2–4 weeks and write a validation report meeting the item-fit index (Infit/MnSq) range of 0.7–1.3.",
+    "Protocol Design for Validation of Diagnostic Assessment Tools in Algebra and Trigonometry Domains",
+    "Guidelines for establishing a customized learning roadmap reflecting measurement tool results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Geometry/Algebra Assessment Item Sample Database",
+      "Item Analysis Software (SPSS/R)",
+      "Online assessment platform",
+      "Engineering Education Standard Curriculum Document"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Education (Teaching & Learning)"
+}

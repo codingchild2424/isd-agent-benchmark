@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3759-V",
+  "variant_type": "context_variant",
+  "title": "Personality Trait-Based Learning Design to Enhance e-Learning Platform Sustainability",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires designing personalized online learning environments reflecting learners' personality traits and analyzing learning persistence. Applied to LMS-based language education programs for large-scale learner groups",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain personality traits (Big Five) that influence e-learning platform persistence.",
+    "Learners can analyze causal relationships between personality traits and platform persistence using structural equation modeling (SEM).",
+    "Learners can design learning strategies optimized for their personality type based on analysis results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS System",
+      "Structural Equation Modeling Software",
+      "Big Five Personality Assessment Tool",
+      "Learning Engagement Data Logging System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

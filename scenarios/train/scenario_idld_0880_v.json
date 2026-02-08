@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0880-V",
+  "variant_type": "context_variant",
+  "title": "AI Practical Competency Enhancement: VR-Based Sepsis Management Practical Training Program",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Accurately identify five initial symptoms of sepsis and perform severity assessment",
+    "Apply SIRS criteria and execute antibiotic protocols with 90% accuracy in a VR simulation environment",
+    "Achieve an 80%+ success rate in completing treatment decision-making processes within 30 minutes in team-based virtual emergency scenarios"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

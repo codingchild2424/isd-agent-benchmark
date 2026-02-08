@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0109",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Collaborative Learning Design in Social Studies Through MOOC Peer Assessment",
+  "context": {
+    "prior_knowledge": "Basic social studies comprehension and smartphone utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Collaborative learning program conducted in smartphone-centric limited-technology environments, aiming to progressively enhance learning effectiveness through formative assessments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately evaluate the qualitative level of social topic summaries at 80% or higher using peer assessment rubrics.",
+    "Learners can revise and improve their social topic summaries at least twice by reflecting on peer feedback.",
+    "Learners can write evaluation reports utilizing three or more constructive feedback techniques during the peer assessment process."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-friendly LMS platform",
+      "Peer Assessment Guidelines Video (3 Minutes)",
+      "Assessment Rubric Templates",
+      "Social Studies Learning Materials (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

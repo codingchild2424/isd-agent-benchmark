@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7361",
+  "variant_type": "idld_aligned",
+  "title": "Comparative Instructional Design in Experimental Task Environments for Enhancing Problem-Solving Skills",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and foundational problem-solving experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducted in smartphone-centric limited-technology environments, exploring problem-solving strategies through parallel VR simulations and real-world task execution",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform experimental tasks in diverse problem-solving environments and explain strategies for managing working memory load.",
+    "Learners can compare differences in problem-solving time and strategies across three task environments (virtual simulation, mental reasoning, and physical manipulation).",
+    "Learners can analyze the impact of experience level and environmental conditions on performance during the Tower of Hanoi problem-solving process."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Simulation Tool",
+      "Physical Tower of Hanoi manipulative",
+      "Task performance record sheet",
+      "Collaborative Learning Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

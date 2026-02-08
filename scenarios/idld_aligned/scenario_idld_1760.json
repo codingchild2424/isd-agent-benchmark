@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1760",
+  "variant_type": "idld_aligned",
+  "title": "Hypermedia-Based Language Learning Design: Discovery and Incidental Learning Strategies",
+  "context": {
+    "prior_knowledge": "Fundamental computer literacy and intermediate-level language proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Self-directed learning environment configuration for language proficiency improvement targeting current practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can infer language rules with over 80% accuracy while navigating unstructured content in hypermedia environments",
+    "Learners acquire over 50 context-specific vocabulary items using multimodal resources (text, images, audio) within hypermedia",
+    "Learners can independently diagnose and resolve language problems without peer collaboration through discovery learning activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Hypermedia Authoring Tool",
+      "Multimodal Language Content Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

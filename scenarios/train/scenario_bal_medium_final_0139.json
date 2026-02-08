@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-MEDIUM-FINAL-0139",
+  "variant_type": "balance_medium_final",
+  "title": "STEAM-Integrated E-Textile Computing Workshop",
+  "context": {
+    "prior_knowledge": "Understanding of basic electrical circuits and simple programming",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Arts-technology integrated education linked to language curricula, aiming to strengthen foundational wearable computing competencies in a BYOD (Bring Your Own Device) environment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply fundamental electrical circuit design principles in the process of creating e-textiles.",
+    "Learners can create innovative works utilizing Arduino-based sensor control technology for wearable projects.",
+    "Learners can design integrated educational scenarios linking computational thinking to language curriculum topics (e.g., literary analysis)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Arduino Microcontroller Kit",
+      "Conductive Thread/Fabric",
+      "LED/Sensor Module",
+      "Mobile Learning App",
+      "STEAM Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

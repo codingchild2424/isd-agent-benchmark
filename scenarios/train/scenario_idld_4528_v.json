@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4528-V",
+  "variant_type": "context_variant",
+  "title": "Integrated Multimodal Learning Course for Temporal Information Acquisition",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Requires content structured for smartphone-based learning, emphasizing connectivity to professionals' work contexts",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will be able to analyze cases involving temporal information (sequence, duration, simultaneity) with 80% or higher accuracy.",
+    "Learners will be able to reconstruct temporal situations with 70% or higher accuracy by integrating auditory explanations and visual arrow representations.",
+    "Learners will be able to explain effective strategies for utilizing both representational modes when processing temporal information."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Voice Recording Files",
+      "Arrow Animation",
+      "Timeline Template",
+      "Quiz Platform API"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

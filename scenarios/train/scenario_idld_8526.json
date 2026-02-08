@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8526",
+  "variant_type": "idld_aligned",
+  "title": "Online Discussion-Based Science Project Course for Self-Directed MOOC Design",
+  "context": {
+    "prior_knowledge": "Competency in grasping fundamental science concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "MOOC design for practitioners to autonomously conduct science projects in smartphone-based limited environments, with asynchronous discussion boards as the core rather than real-time interaction",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Complete science-themed PBL assignments with over 80% completion rate through discussion board collaboration in smartphone environments within four weeks",
+    "Achieve at least Level 2 on a three-tier evaluation scale for science theory application skills based on video lectures and discussion feedback provided in MOOCs",
+    "Learners can write at least three constructive feedbacks and derive one project improvement plan through the peer assessment system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Modular video materials (30 minutes per module, 2 per week)",
+      "Template-based PBL worksheet",
+      "Discussion board moderation guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

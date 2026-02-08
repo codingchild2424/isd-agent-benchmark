@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4064-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening App Development Practical Competencies: Time Management and Academic Persistence Enhancement for Remote Learners",
+  "context": {
+    "prior_knowledge": "Basic scientific literacy and digital device usage skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can create a daily 2-hour learning plan for five days a week and adhere to it at least 80% of the time.",
+    "Learners can revise assignments by incorporating feedback from an automated feedback system at least three times before finalizing.",
+    "Learners can submit science-related tasks within 24 hours by applying time management strategies (e.g., prioritization, task segmentation)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

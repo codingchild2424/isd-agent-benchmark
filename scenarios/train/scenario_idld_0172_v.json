@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0172-V",
+  "variant_type": "context_variant",
+  "title": "Anatomy Education Curriculum Using AI-Based Virtual Manipulative Tools",
+  "context": {
+    "prior_knowledge": "Understanding of basic biology and medical terminology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical anatomy education course for in-service professionals, emphasizing interactive learning through VR/simulation environments and AI tools",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify and explain 3D structures of over 20 human organs using AI-based virtual manipulation tools.",
+    "Learners can solve 10 practical anatomy-related problems using a ChatGPT-based Q&A system.",
+    "Learners achieve over 80% anatomical understanding by virtually manipulating five major surgical procedures in a simulation environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web-based AI virtual manipulation tool",
+      "VR anatomy simulator",
+      "ChatGPT API-integrated learning module",
+      "Personal learning devices (tablet/smartphone)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

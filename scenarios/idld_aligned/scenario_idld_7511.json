@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7511",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Learning (m-Learning) Architecture Design and Utilization Strategy",
+  "context": {
+    "prior_knowledge": "Basic experience operating an LMS (Learning Management System), experience in mobile application development or management, and foundational understanding of network architecture",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized corporate training course for strengthening science-related vocational competencies. Implements real-time data integration and context-based learning via pervasive learning management systems",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze and explain core components of mobile learning architecture (pervasive LMS components/services).",
+    "Learners can design context-aware m-learning systems linked to science-related educational content.",
+    "Learners can build distributed mobile learning environments optimized for large-scale learners.",
+    "Learners can derive evaluation metrics for m-learning architectures applicable in real corporate settings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Device Simulator",
+      "Pervasive LMS Development Toolkit",
+      "Standard Science Learning Datasets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

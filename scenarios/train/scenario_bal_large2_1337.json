@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1337",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Advanced Financial Literacy Education Program for University Students Aged 40+",
+  "context": {
+    "prior_knowledge": "Foundational financial knowledge and financial management experience based on social experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Self-Directed Learning Structure Using Digital Devices, Providing Real-Life Application-Centered Educational Content",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze the structure and risk factors of complex financial products (e.g., derivatives, pension products)",
+    "Learners can comprehensively diagnose their personal financial status and establish long-term financial plans of five years or more",
+    "Learners can apply advanced financial strategies such as tax optimization and credit management to real-world situations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Video Lecture Module",
+      "Interactive Simulation Tool",
+      "Case Study Materials",
+      "Automated Grading Quiz System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

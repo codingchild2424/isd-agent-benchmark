@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3277-V",
+  "variant_type": "context_variant",
+  "title": "Blended Instructional Design Course for Strengthening Public School Teachers’ Job Competencies",
+  "context": {
+    "prior_knowledge": "Basic understanding of secondary education curricula and possession of a teaching license",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Hybrid course combining mobile-based learning (smartphone-centric) with monthly offline workshops. Focused on job competency development based on mathematics subject-matter expertise",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Within six months, learners can execute learner development competencies (individual learning needs analysis and personalized guidance strategy development) with over 80% accuracy",
+    "During team projects, learners can demonstrate collaboration competencies to propose educational problem-solving solutions at least three times",
+    "Based on service mindset competencies, learners can manage conflicts among parents, students, and teachers with over 85% satisfaction"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Offline Workshop Space and Equipment",
+      "Mathematics curriculum case database",
+      "Competency assessment rubric set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

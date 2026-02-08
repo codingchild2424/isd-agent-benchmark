@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0287",
+  "variant_type": "idld_aligned",
+  "title": "Interaction Design for Online Learning Objects: Science Education Based on HCI Framework",
+  "context": {
+    "prior_knowledge": "Understanding of foundational science concepts and basic digital device usage skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A science education program for youth within corporations, combining online platforms and offline workshops in a Bring Your Own Device (BYOD) environment, utilizing science experiment simulations and data analysis tools.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze the interaction levels of online learning objects by applying the 'Window of Interaction (WoI)' framework from Human-Computer Interaction (HCI).",
+    "Learners can identify and explain at least three interaction design principles aligned with science learning objectives.",
+    "Learners can improve the interaction characteristics of self-designed online learning objects based on peer feedback through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "HCI Framework Guide",
+      "Online Learning Authoring Tool",
+      "Science experiment simulation software",
+      "Collaborative Platform Account"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

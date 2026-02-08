@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8677",
+  "variant_type": "idld_aligned",
+  "title": "Pathological Classification of Oligodendroglioma: Digital Image Analysis and Machine Learning Application",
+  "context": {
+    "prior_knowledge": "Basic Knowledge of Pathology and Digital Image Analysis",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-oriented training using smartphone-based VR simulations in constrained technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Classify three types of gliomas (diffuse astrocytoma, anaplastic astrocytoma, glioblastoma) in digital pathology images with over 85% accuracy.",
+    "Interpret patch-level analysis results from the ResNet-50 model to quantify tumor characteristics (cell density, nuclear morphological features).",
+    "Compare nuclear morphological indicators (axis ratio, circularity, entropy, etc.) extracted via the HTC framework to evaluate diagnostic reliability."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Headset",
+      "Digital pathology image dataset",
+      "Lightweight ResNet-50 model simulation tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

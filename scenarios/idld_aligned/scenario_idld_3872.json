@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3872",
+  "variant_type": "idld_aligned",
+  "title": "Design and Implementation of a Mobile-Based Language Education Technology Recommendation System",
+  "context": {
+    "prior_knowledge": "Basic instructional design knowledge and mobile technology proficiency at the secondary level",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course supporting in-service professionals in effectively integrating mobile technology in language education settings, developing practical solutions through team-based projects in digitally equipped environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will identify at least three mobile technologies appropriate for language education objectives and connect them to instructional strategies",
+    "Learners will apply a recommendation algorithm similar to the Tech Select system to design project-based assignments",
+    "Learners will develop criteria to evaluate the pedagogical utility of mobile technologies and analyze field cases with over 80% accuracy"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Device Loan System",
+      "Educational Technology Database",
+      "Collaborative Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5122",
+  "variant_type": "idld_aligned",
+  "title": "Multi-Domain Optical Network Collaborative Fault Management: Self-Directed and Federated Learning Approaches",
+  "context": {
+    "prior_knowledge": "Basic principles of optical networking, foundational machine learning, and practical experience in network management",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course designed for practitioners to acquire data-driven fault management competencies in multi-domain optical network environments, with theory-practice parallel learning via LMS",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "They can design a self-supervised learning model that identifies normal/abnormal patterns by analyzing optical network performance monitoring data",
+    "They can implement a cross-domain collaborative fault detection model using a federated learning framework while complying with privacy constraints",
+    "By applying uncertainty estimation techniques, they can achieve over 95% fault detection accuracy even in environments with insufficient anomaly data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Optical Network Monitoring Dataset",
+      "Python-Based Machine Learning Toolkit",
+      "Federated Learning Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

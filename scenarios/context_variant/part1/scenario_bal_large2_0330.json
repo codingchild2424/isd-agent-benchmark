@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0330",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Large-Scale Remote Language Learning Design Using the CAFE Model: Integrated Reading-Writing Strategy",
+  "context": {
+    "prior_knowledge": "Basic experience with digital learning tools and foundational understanding of language learning (reading, writing, listening)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized microlearning design for job seekers to improve language skills (grammar, vocabulary, writing, reading comprehension), targeting application in real business communication scenarios.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain inquiry procedures for designing remote language education using the four CAFE model elements (Content, Activity, Facilitation, Evaluation).",
+    "Learners can design a 15-minute language learning micro-content in mobile environments, integrating text-based vocabulary and grammar elements.",
+    "Learners can implement formative assessment activities using real-time feedback tools (quizzes, discussion boards) and provide feedback considering learners' expressive and reading abilities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Interactive quiz tool",
+      "Video conferencing platform",
+      "Digital Content Production Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

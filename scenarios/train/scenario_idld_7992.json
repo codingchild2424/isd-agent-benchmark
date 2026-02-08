@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7992",
+  "variant_type": "idld_aligned",
+  "title": "PBL-Based Mathematics Education Program for Engineering Practical Skills Development",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematics and engineering concepts (high school level)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Constructs real-world engineering problem-solving environments using VR simulations, facilitating collaboration and assessments via personal devices (BYOD)",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Mathematically model real engineering problems and propose solutions in a VR simulation environment.",
+    "Demonstrate collaborative communication skills during the problem-solving process through team-based PBL activities.",
+    "Perform mathematical calculations required in engineering practice (e.g., circuit analysis, biosignal processing) with 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Engineering Simulation VR Content",
+      "PBL Problem Scenario Database",
+      "Collaboration tools (e.g., Google Workspace)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

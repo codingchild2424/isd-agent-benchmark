@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6795-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Innovative Science Teacher Education Program Based on Generative AI",
+  "context": {
+    "prior_knowledge": "Science curriculum instruction experience and basic digital literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Develop at least three types of science subject-specific customized assessment items using generative AI tools (e.g., ChatGPT)",
+    "Enhance physics/chemistry concept explanation capabilities by 20% through AI-based experimental simulation design",
+    "Learners can incorporate five core items from generative AI ethics guidelines (e.g., OECD AI Principles) to create a lesson operation plan for a corporate science education program (10+ sessions), achieving over 80% suitability in peer reviews and expert evaluations.",
+    "Design a learner feedback system using AI analysis tools in mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

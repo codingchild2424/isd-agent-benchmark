@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2746-V",
+  "variant_type": "context_variant",
+  "title": "Systems Dynamics-Based Engineering Education Design Workshop",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A customized course for corporate training managers to strengthen engineering thinking competencies. The program focuses on developing instructional design capabilities by applying system dynamics models to real workplace cases",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply an integrated instructional design framework covering cognitive, psychomotor, social, and affective domains using the 4DDD Model.",
+    "The interaction between learner development elements can be analyzed using a Causal Loop Diagram (CLD) based on system dynamics.",
+    "A comprehensive learning experience design can be performed by applying the 4DDD guidelines to real-world corporate training scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "System Dynamics Simulation Tool",
+      "4DDD Template",
+      "Case analysis worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

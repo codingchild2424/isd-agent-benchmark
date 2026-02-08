@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3833",
+  "variant_type": "idld_aligned",
+  "title": "Computer-Based Scientific Inquiry Learning for Solving Social Issues",
+  "context": {
+    "prior_knowledge": "Basic science concepts and understanding of data analysis methods",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Focuses on solving socially contextualized science problems through smartphone-based inquiry activities. Utilizes mobile-friendly tools in environments without PC access.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can generate five structured questions to explore three science topics connected to social issues.",
+    "Learners can design experiments and perform result analysis with 80% accuracy using smartphone-based data collection tools.",
+    "Learners can present three scientific justifications for solving social problems based on inquiry results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Sensor Kit (Temperature/Light/Noise Measurement)",
+      "Mobile Data Analysis App (Web-Based Tool)",
+      "Social Issue Casebook (Climate Change/Public Health/Resource Management, etc.)",
+      "Inquiry Activity Worksheet (Mobile-Optimized PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

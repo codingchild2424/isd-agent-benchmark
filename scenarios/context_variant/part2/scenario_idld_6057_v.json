@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6057-V",
+  "variant_type": "context_variant",
+  "title": "Understanding and Practicing Single Image Super-Resolution (SISR) Technology",
+  "context": {
+    "prior_knowledge": "Basic deep learning concepts, fundamental principles of image processing, and understanding of CNN/RNN architectures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-optimized LMS accessible via smartphones, without real-time video conferencing tools",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain super-resolution model performance evaluation methods using PSNR/SSIM metrics.",
+    "Learners can comparatively analyze structural differences and application cases of GAN/CNN-based SISR models.",
+    "Learners can propose lightweight SISR model design strategies optimized for mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Mobile-optimized visualization tool",
+      "Public SISR dataset sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

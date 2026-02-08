@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0527",
+  "variant_type": "balance_medium_scale",
+  "title": "Evidence-Based Instructional Design to Enhance Biochemistry MOOC Learning Experiences",
+  "context": {
+    "prior_knowledge": "Basic biochemistry knowledge and college-level understanding of life sciences",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended learning course optimized for smartphone-based learning environments, emphasizing continuous feedback through formative assessments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain biochemical concepts and experimental principles with over 80% precision through evidence-based learning strategies",
+    "Learners can present three or more problem-solving processes for complex biochemical problems through online discussions and collaborative learning",
+    "Learners can identify individual learning gaps through periodic formative assessments and develop improvement plans within two weeks"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Interactive Simulation Tools",
+      "Automated Grading Quiz System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

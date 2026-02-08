@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0763",
+  "variant_type": "balance_teen_v2",
+  "title": "K-12 Online Education Based on Sound Simulation for Improving Cardiac Auscultation Skills",
+  "context": {
+    "prior_knowledge": "Basic understanding of cardiac anatomy and circulatory system, experience using a stethoscope",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Training for medical device sales company employees, aiming to enhance customer education capabilities. Content must be accessible via smartphone-based platforms.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Identify seven major abnormal heart sounds (third heart sound, double gallop, aortic stenosis/regurgitation, mitral stenosis/regurgitation, pericardial friction rub) with 80% accuracy.",
+    "Improve clinical judgment skills based on patient conditions when applying auscultation techniques.",
+    "Achieve an average improvement of at least 60% in diagnostic accuracy in post-training evaluations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Heart Sound Simulation Software",
+      "Mobile-Compatible Quiz-Based Assessment Tool",
+      "Auscultation Skill Video Materials",
+      "Heart Sound Pattern Handbook (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

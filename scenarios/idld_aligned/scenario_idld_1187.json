@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1187",
+  "variant_type": "idld_aligned",
+  "title": "Structured Learning of Electrical Concepts: Integrated Theory and Practice Course",
+  "context": {
+    "prior_knowledge": "Basic physics knowledge and understanding of electrical circuit components",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Case-based education considering the work/life relevance for adult learners.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can quantitatively explain the interaction of electrical circuit components (resistance, voltage, current)",
+    "Learners can perform circuit analysis by applying Ohm’s Law and Kirchhoff’s Laws",
+    "Learners can analyze electrical phenomena and predict experimental results using simulation tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "NetLogo Simulation Tool",
+      "Virtual lab kit",
+      "Digital Textbook (PDF)",
+      "Real-Time Video Conferencing Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

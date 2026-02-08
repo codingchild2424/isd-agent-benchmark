@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8353",
+  "variant_type": "idld_aligned",
+  "title": "Comparative Process of Generative vs. Completion Strategies for Enhancing Programming Learning Outcomes",
+  "context": {
+    "prior_knowledge": "Basic programming syntax and algorithm comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A customized course for in-service elementary education practitioners to improve programming skills linked to mathematics curricula, conducted in a mobile learning environment utilizing personal devices (BYOD).",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze the strengths and weaknesses of generative and completion strategies in programming problem-solving processes.",
+    "Learners can select programming learning strategies suited to their cognitive style (impulsive/reflective) and achieve over 80% task accuracy.",
+    "Learners can complete one math-education programming solution through PBL assessment and suggest improvements via peer evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Programming Practice Platform",
+      "Sample Code Library for Mathematics Education"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

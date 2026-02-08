@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0558",
+  "variant_type": "balance_teen_filtered",
+  "title": "Blended Mobile Microlearning Program for K-12 Nursing Students: Scientific Inquiry-Based Learning",
+  "context": {
+    "prior_knowledge": "Foundational nursing theory and clinical practice experience, basic understanding of scientific methodologies (observation, hypothesis formulation, experimental design, data analysis, variable control)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "In a blended asynchronous/synchronous learning environment utilizing mobile devices and LMS, emphasizes data-driven patient assessment (physiological indicator measurement, symptom pattern analysis) and evidence-based nursing practice (clinical guideline application, research result interpretation).",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "In a blended learning environment applying the scientific inquiry method (hypothesis–design–analysis–conclusion), learners perform eight core nursing competencies (e.g., medication management variable analysis, patient symptom evaluation, emergency response protocols) with ≥80% accuracy",
+    "Learners engage in self-directed learning ≥2 times per week via mobile microlearning modules and record observations and evidence-based analyses (measured data, variable control methods, conclusion processes) in learning journals",
+    "Over six months, learners participate in biweekly online discussions and monthly virtual simulations, achieving ≥4 average points (5-point scale) on a 5-level rubric (analysis, inference, application, evaluation, creation) based on peer evaluations (3 reviewers) and self-evaluation (1 session), thereby demonstrating critical thinking and clinical judgment skills"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Virtual Simulation Software",
+      "Video lecture production kit",
+      "Nurse competency assessment rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

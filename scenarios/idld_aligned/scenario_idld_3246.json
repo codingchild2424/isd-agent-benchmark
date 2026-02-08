@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3246",
+  "variant_type": "idld_aligned",
+  "title": "Gamification-Based Programming Education Design for Beginners",
+  "context": {
+    "prior_knowledge": "Requires understanding of basic programming concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based learning environment for pre-service teachers to enhance digital literacy, incorporating gamification elements to motivate learning and develop foundational programming competencies",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve an 80% or higher correctness rate in programming problem-solving processes",
+    "Learners establish self-reflective feedback strategies upon consecutive errors in a gamification system",
+    "Learners can generate personalized problem-solving log analysis reports at the end of a 6-month course"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Programming Learning Platform",
+      "Gamification Design Template",
+      "Learner analytics dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

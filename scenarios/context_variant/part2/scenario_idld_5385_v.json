@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5385-V",
+  "variant_type": "context_variant",
+  "title": "Mathematical Inquiry Competency Strengthening Through Social Media Data Science",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A process for pre-service teachers to explore data science practices and mathematical problem-solving using social media data in smartphone environments, featuring an open sandbox approach that allows learners to autonomously select topics and conduct projects.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform mathematical analyses (hypothesis testing, trend analysis, etc.) based on data collected from social media platforms",
+    "Learners can design and execute all stages of data-driven problem definition → analysis → interpretation through open-ended inquiry processes",
+    "Learners can develop analysis protocols using data collection and visualization tools (e.g., Google Sheets, OpenRefine Mobile) even in limited technological environments (smartphone-centric)"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Free Data Analysis Tools (Google Sheets, OpenRefine Mobile)",
+      "Social Media Data Collection Guide",
+      "Peer Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-0234-V",
+  "variant_type": "context_variant",
+  "title": "Teacher Training Program in Educational Robotics Linked to Mathematics",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aims to acquire robotics pedagogy linked to mathematics courses in LMS-based asynchronous learning environments. Designed for beginners and conducted in environments with provided digital devices",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain fundamental robotics theory in connection with mathematical modeling",
+    "Learners can develop robotics lesson design plans by applying Learning-by-Design (LBD) instructional methods",
+    "Students can complete open-ended robotics projects by utilizing collaboration and problem-solving strategies.",
+    "Students can understand the fundamental principles of educational robot control systems and implement simple algorithms.",
+    "Students can critically analyze the limitations and improvement strategies of robotics education in online environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Educational robotics kit",
+      "LMS platform",
+      "Robot Simulation Software",
+      "Mathematics-Robotics Integrated Activity Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

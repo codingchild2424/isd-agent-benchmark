@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0082",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Exploring New Educational Cultures for Science Education Innovation Based on Blended Learning",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and experience with online learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Experimental approach applying theological education theories to scientific fields and implementing blended learning in smartphone-centric, limited-technology environments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain at least three collaborative strategies for scientific problem-solving in blended learning environments.",
+    "Learners can improve their understanding of scientific concepts by over 80% by integrating digital platforms with face-to-face sessions.",
+    "Learners can perform at least two analyses of science ethics case studies applying theological thinking using online discussion tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Open-Source Scientific Simulation Tools",
+      "QR Code-Based Offline Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

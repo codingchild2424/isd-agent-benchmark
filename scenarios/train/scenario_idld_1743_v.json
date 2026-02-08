@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1743-V",
+  "variant_type": "context_variant",
+  "title": "Expert-Oriented Science Learning Motivation Enhancement Course Using Fully Immersive Virtual Reality (FIVR)",
+  "context": {
+    "prior_knowledge": "Foundational Scientific Theories and Domain-Specific Professional Knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Strengthening practical application skills through project-based assessment utilizing FIVR content in a smartphone-based, limited-technology environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners actively engage in the scientific problem-solving process, achieving over 85% participation in the FIVR environment.",
+    "Learners improve their ability to apply scientific principles by over 30% through FIVR simulations.",
+    "Learners’ science learning self-efficacy increases by over 25% compared to pre-assessment by the end of the course.",
+    "Learners complete over 90% of practical solutions applying scientific reasoning in project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible FIVR Platform",
+      "LMS-Integrated Virtual Lab Kit",
+      "Digital Whiteboard for Collaborative Learning",
+      "3D Scientific Modeling Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7675",
+  "variant_type": "idld_aligned",
+  "title": "Hypothetical Learning Trajectory (HLT) Design Project for Elementary Geometry",
+  "context": {
+    "prior_knowledge": "Basic geometric shape recognition (line segments, circles, triangles, quadrilaterals, etc.) and spatial awareness",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Students perform culture-based geometry inquiry activities using personal devices in a BYOD environment, with continuous monitoring of the learning process through formative assessment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can explain components of three-dimensional shapes by connecting them to cultural examples (e.g., traditional architecture)",
+    "Students can apply the hypothesis-testing-revision cycle for geometric problem-solving with 80% or higher accuracy",
+    "Learners can revise their geometric concept maps three or more times based on peer feedback and formative assessment results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cross-Cultural Geometry Case Database",
+      "3D Shape Manipulation Software",
+      "AR-Based Spatial Visualization Tool",
+      "Formative Assessment Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

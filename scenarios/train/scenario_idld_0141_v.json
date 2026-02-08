@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0141-V",
+  "variant_type": "context_variant",
+  "title": "Foundational Numerical Analysis Education Design Utilizing Flipped Learning and Adaptive Learning",
+  "context": {
+    "prior_knowledge": "Basic arithmetic skills and problem-solving reasoning abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A blended learning course for pre-service and in-service teachers using VR simulations and LMS, structured around case studies of numerical analysis applications in social contexts.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain fundamental concepts of numerical analysis with 80% or higher accuracy using adaptive content in a flipped learning environment",
+    "Learners can simulate the application of numerical analysis techniques to real-world social issues (e.g., population distribution analysis) using VR simulation tools",
+    "Learners identify individual learning gaps through formative assessments and implement 90% or more of the personalized learning paths suggested by adaptive feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Commercial Adaptive Learning Platform",
+      "VR Simulation Equipment",
+      "LMS System",
+      "Smart devices (tablets/Chromebooks)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

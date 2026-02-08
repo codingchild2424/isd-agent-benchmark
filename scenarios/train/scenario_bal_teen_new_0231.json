@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0231",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Modified Jigsaw-based Basic Physics Inquiry Course",
+  "context": {
+    "prior_knowledge": "Comprehension of high school-level physics concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners collect and analyze field experiment data using personal devices, conducting projects that connect natural phenomena with theoretical concepts",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain three or more physics laws (e.g., Newton’s laws of motion, law of conservation of energy) with experimental data through modified jigsaw collaboration.",
+    "Learners can present two observational cases applying physics concepts from daily life and natural phenomena in project report format.",
+    "Learners can identify three or more experimental design errors and propose improvements through peer assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smart device sensor kit",
+      "Basic physics laboratory equipment",
+      "Nature observation field guide",
+      "Collaborative Learning Worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

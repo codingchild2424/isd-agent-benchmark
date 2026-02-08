@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6024-V",
+  "variant_type": "context_variant",
+  "title": "Iterative Instance-Based Remote Education Course Design and Operation",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and intermediate competency in specialized fields (medical/legal/technical)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized scheduling for learners and flexible learning support in a BYOD environment",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain how to distinguish abstract structures from concrete implementation instances in distance education courses.",
+    "Learners can apply the process of designing reusable modular instructional materials.",
+    "Learners can adjust individualized learning paths by analyzing formative assessment results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Cloud-based collaboration tool",
+      "Open Educational Resources (OER)",
+      "Customizable Assessment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

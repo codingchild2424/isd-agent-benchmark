@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0306",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Short-Term Intensive Course for TTS-Based Mathematics Lecture Delivery Innovation",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and proficiency in fundamental online learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Acquiring methods for delivering math lectures using TTS technology in smartphone-centric environments and applying them to real-time online classes",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Voice explanations for math lecture slides can be produced with over 90% accuracy using TTS technology",
+    "Three or more instructional methods can be applied by combining TTS-based materials with videos/animations in real-time online sessions",
+    "Two or more strategies to address accessibility issues of TTS lecture materials in smartphone environments can be designed and implemented"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Text-to-Speech (TTS) Software",
+      "Video/Animation Production Tools",
+      "Smartphone-compatible LMS platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

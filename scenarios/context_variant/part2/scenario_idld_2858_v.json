@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2858-V",
+  "variant_type": "context_variant",
+  "title": "Automated Tutoring-Based Intensive Short-Term Reading Strategy Enhancement Program",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Implementation of an interactive learning environment in smartphone-centric limited-tech settings. Provides personalized tutoring accounting for reading ability differences",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply text analysis strategies (e.g., key sentence extraction, inferential question generation) with 80% accuracy using an automated tutoring system",
+    "Learners can revise reading strategies according to feedback provided in interactive learning environments and improve final learning outcomes by 25%",
+    "Learners achieve 70% or higher comprehension across various text types (explanatory, argumentative) based on system-recommended strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Automated Tutoring System",
+      "Interactive Learning Content",
+      "Weekly Performance Analysis Report Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0523",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Course for Enhancing Mathematical Application Competencies Based on Medical Simulation",
+  "context": {
+    "prior_knowledge": "Foundational understanding of statistics and ratio calculations, basic medical data interpretation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Composed of 15-minute daily microlearning modules using mobile devices, linking real-life medical simulations with mathematical problem-solving",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply mathematical procedures to accurately analyze medical data (e.g., drug dosage calculations, diagnostic value interpretations)",
+    "In simulation environments, learners can address three emergency scenarios (hypertensive crisis, hypoglycemic shock, hyperglycemic crisis) by utilizing mathematical reasoning (mean/standard deviation calculations, ratio conversions, trend analysis) to present oral and checklist-based solutions meeting four or more of five decision-making criteria (1. risk level classification, 2. emergency action priority, 3. medication dosage calculation, 4. patient monitoring frequency, 5. follow-up plan) within 10 minutes.",
+    "Learners effectively select mathematical tools (ratios, percentages, graph interpretations, etc.) to simplify complex medical information"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App",
+      "Medical Simulation Scenario Database",
+      "Interactive Math Problem Generator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

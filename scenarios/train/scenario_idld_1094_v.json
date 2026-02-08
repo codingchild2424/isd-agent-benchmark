@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1094-V",
+  "variant_type": "context_variant",
+  "title": "Elementary Language E-Learning Feedback Design Using Data-Driven Learner Persona Analysis",
+  "context": {
+    "prior_knowledge": "Basic instructional design principles, LMS usage experience, and foundational knowledge of elementary language education (reading, writing, speaking, listening). Particularly, experience in grammatical structure analysis and text-based expression evaluation",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aims to enhance e-learning feedback design capabilities for pre-service/elementary school teachers in language education. Focuses on implementing vocabulary, grammar, and writing feedback using asynchronous LMS in environments with provided digital devices (laptops/tablets). Centers on developing personalized feedback strategies to improve reading comprehension and expressive skills.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "By analyzing learner behavioral data (vocabulary acquisition, grammar comprehension, text interpretation skills, etc.), three types of language learning feedback personas can be identified: Basic Vocabulary Reinforcement, Grammar Structure Exploration, and Integrated Text Interpretation.",
+    "Clustering techniques can classify language learning characteristics (e.g., reading speed, writing patterns, lexical diversity) and design personalized language feedback strategies (grammar error diagnosis, expression diversification suggestions, text restructuring support).",
+    "In actual language e-learning environments, time-based sampling data (e.g., quiz response time, text interaction frequency) can predict learner personas (Basic/Intermediate/Advanced) with over 65% accuracy.",
+    "Through project-based assessment, learners propose at least three real-time language feedback loop designs using conversational agents (e.g., ChatGPT, Grammarly) and create prototype implementation documents meeting criteria: grammar error correction accuracy over 85% and at least five expression diversification suggestions per proposal."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "SKEP Dataset Sample",
+      "Python-based analysis tool (Scikit-learn, etc.)",
+      "LMS interface prototype"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

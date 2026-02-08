@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1964-V",
+  "variant_type": "context_variant",
+  "title": "Modeling and Simulation-Integrated Inquiry Learning Curriculum for Engineering Education",
+  "context": {
+    "prior_knowledge": "Fundamental engineering concepts and computer literacy",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Professional development course for pre-service/in-service teachers emphasizing inquiry-based learning through modeling/simulation tools for real engineering problems. Hybrid environment combining online platforms and offline practice",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner",
+    "learner_education": "University"
+  },
+  "learning_goals": [
+    "Learners can design mathematical models suitable for engineering problems and explain verification procedures.",
+    "Learners can interpret and analyze model results using simulation tools.",
+    "Learners can apply modeling and simulation outcomes to engineering decision-making.",
+    "Learners can document the modeling process and present results in team-based projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Computer Simulation Software License",
+      "Engineering Case Database",
+      "Online Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0750-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening App Development Practical Skills: Enhancing Critical Interpretation of Data Visualization Misinformation",
+  "context": {
+    "prior_knowledge": "Basic statistical concepts and experience with fundamental data visualization tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately identify and explain 14 types of misinformation visualization cases",
+    "Learners achieve over 80% accuracy in detecting key misinformation techniques, including axis manipulation (inverted y-axis, uneven x-axis intervals) and multi-axis usage",
+    "Regardless of data literacy level, learners can derive correct statistical interpretations from misinformation visualizations",
+    "Learners can apply critical review processes to real-world workplace data visualizations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1331-V",
+  "variant_type": "context_variant",
+  "title": "Context-Based Mathematics Problem-Solving Course Utilizing Real-Life Contexts",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Aims to strengthen data-driven decision-making skills for social sector roles within organizations.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can convert real-world problems in the workplace (sales analysis, budget planning, etc.) into mathematical models.",
+    "Learners can apply linear equations, ratios, and function concepts while solving context-based problems.",
+    "Learners can interpret real-life data using digital tools and convert it into visual representations (graphs/charts)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Corporate internal data samples",
+      "Interactive Mathematical Simulation Tool",
+      "Teacher Guide Documentation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

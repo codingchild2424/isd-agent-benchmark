@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2324-V",
+  "variant_type": "context_variant",
+  "title": "Authentic Learning Design Workshop for Online Science Education",
+  "context": {
+    "prior_knowledge": "Foundational science knowledge and ability to interpret work-related data",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Implementing science data analysis and problem-solving tasks reflecting real workplace contexts in a microlearning environment accessible via mobile devices for office/administrative professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze scientific data collected from real-world work environments to derive key insights.",
+    "Learners can collaborate with peers and stakeholders to design practical solutions for scientific problem-solving.",
+    "Learners can structure scientific decision-making processes into three stages (problem definition–analysis–proposal) using mobile-based microlearning tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Authentic Scientific Data Sample Set",
+      "Collaborative Digital Whiteboard Tool",
+      "Mobile-Compatible Simulation App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

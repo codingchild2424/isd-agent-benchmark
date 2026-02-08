@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3943",
+  "variant_type": "idld_aligned",
+  "title": "Project-Based Instructional Design for Acquiring Portuguese Gender System",
+  "context": {
+    "prior_knowledge": "Basic Portuguese grammar and fundamental conversational skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A collaborative learning environment using digital devices, structured around project-based tasks applicable to real-world work",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will classify grammatical gender (masculine/feminine) of Portuguese nouns with over 90% accuracy.",
+    "Learners will apply gender agreement rules to adjectives, articles, and verbs with 85% accuracy.",
+    "Learners will naturally use gender expressions appropriate to context at least three times in real-life scenario-based projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Portuguese Gender System Database",
+      "Digital Collaboration Tools (Google Workspace, etc.)",
+      "Custom Language Analysis Software",
+      "Multimedia Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

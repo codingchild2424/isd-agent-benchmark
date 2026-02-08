@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-0048",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Ethical Design Education Course Based on Sensitive Design Situations",
+  "context": {
+    "prior_knowledge": "Basic principles of design, understanding of science education methodologies, and fundamental proficiency in digital tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Educational design incorporating real-life problems to cultivate ethical design thinking among pre-service teachers",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze ethical dilemma scenarios and evaluate their impact on design decisions.",
+    "Learners can propose prototype designs and improvements that reflect sensitive user needs.",
+    "Learners will apply five ethical principles (transparency, fairness, accountability, respect, sustainability) at each stage of the scientific research design process (problem definition, method design, result interpretation), identify three or more ethical issues, and write a 1,500-character critical reflection report proposing improvement strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-optimized text materials",
+      "Digital collaboration tools (Google Jamboard, etc.)",
+      "Case database (medical/educational fields)",
+      "Asynchronous feedback system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

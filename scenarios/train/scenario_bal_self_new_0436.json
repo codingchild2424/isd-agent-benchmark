@@ -1,0 +1,39 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0436",
+  "variant_type": "balance_self_filtered",
+  "title": "Cybersecurity Response Strategy Knowledge Graph Construction and Utilization (Self-Directed)",
+  "context": {
+    "prior_knowledge": "Fundamental cybersecurity concepts, RDF data representation, basic understanding of graph theory",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners have experience responding to cybersecurity threats in real work environments and aim to establish efficient threat detection and response strategies using knowledge graph-based analysis tools.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify core components of a knowledge graph—entities, relationships, and semantic connections—with 80% accuracy.",
+    "Learners can preprocess cybersecurity data in RDF format and perform the conversion to SPO triplets with 90% accuracy.",
+    "Learners can predict missing security response facts with 75% accuracy using embedding-based representation learning models (e.g., TransE, DistMult).",
+    "Learners can analyze complex cybersecurity threat scenarios within five steps using knowledge graph visualization tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "D3FEND sample dataset",
+      "Apache Jena/RDF4J toolkit",
+      "PyTorch/GeoGL-based embedding library",
+      "Neo4j visualization tool",
+      "LMS-integrated Jupyter Notebook environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0582",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Inquiry-Based Genetic Modeling: Understanding Molecular-Cellular-Genotypic-Phenotypic Connections",
+  "context": {
+    "prior_knowledge": "Basic life science concepts (cell structure, DNA structure) and high school-level genetics knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Some educational participants are completing teaching credentials, while others are prospective graduates preparing for careers in life sciences.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Constructing a schema that integrates the three tiers of genetic models (inheritance, meiosis, and molecular mechanisms)",
+    "Using virtual lab tools to quantitatively analyze and predict genetic phenomena (Punnett squares, gene frequency calculations)",
+    "Over a 6-month course, learners simulate basic gene expression mechanisms (transcription, translation) with digital modeling tools (e.g., BioCAD), deconstruct the CRISPR-Cas9 system’s operation into ≥3 steps, and create explanatory materials scoring ≥80% on a peer-evaluation rubric (accuracy, clarity, creativity)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "PhET Simulation (Genetics Module)",
+      "Bioinformatics Toolkit (NCBI Database Access)",
+      "3D DNA Modeling Software",
+      "Online Collaborative Whiteboard (Miro)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

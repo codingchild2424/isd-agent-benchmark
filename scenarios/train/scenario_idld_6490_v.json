@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6490-V",
+  "variant_type": "context_variant",
+  "title": "Designing Customized Educational Strategies Through Analysis of Perceived Learning Environment Differences",
+  "context": {
+    "prior_knowledge": "Basic comprehension of learning environment components",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Analyzing perception gaps between learners and instructors to maximize educational effectiveness, requiring the use of smartphone-based surveys.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can quantitatively analyze differences in perceptions of the learning environment between learners and instructors",
+    "Based on survey results, learners can classify learner profiles (Closest match/Intermediate/Distal) and instructor types (Idealistic/Adaptive)",
+    "Learners can design customized educational strategies based on types of perceptual differences"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IPSEE Survey Tool (Korean Version)",
+      "Learning Style Inventory",
+      "Teaching Methods Analysis Questionnaire",
+      "Offline Workshop Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

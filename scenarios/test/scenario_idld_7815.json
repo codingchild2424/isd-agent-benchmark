@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7815",
+  "variant_type": "idld_aligned",
+  "title": "Problem-Based Learning-Enhanced Dental Education Simulation: Program Linking Mathematical Thinking",
+  "context": {
+    "prior_knowledge": "Comprehension of elementary mathematical concepts and general interest in medical simulations",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "In limited-technology settings, using smartphones as the primary medium, emphasizing activities that transform dental case studies into mathematical problem-solving tasks.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can restructure dental treatment scenarios into mathematical problems and solve them with over 80% accuracy.",
+    "Learners can share problem-solving strategies in small online collaborative groups (4-person teams) and enhance self-directed learning abilities by 20%.",
+    "Participants can analyze patient diagnostic data using probability and statistics concepts to prioritize treatments with a 75%+ success rate."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Zoom Video Conferencing System",
+      "Mobile-Compatible Scenario Presentation (PPT)",
+      "Google Forms Assessment Tool",
+      "PDF Problem-Solving Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

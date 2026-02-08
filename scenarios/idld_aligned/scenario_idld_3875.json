@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3875",
+  "variant_type": "idld_aligned",
+  "title": "Advanced Online Computer Science Education Program via Smartphone Platforms",
+  "context": {
+    "prior_knowledge": "Proficiency in fundamental programming concepts and problem-solving abilities",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Course for advanced learners capable of self-directed learning in smartphone-centric environments. Provides flexible and accessible education via non-real-time LMS.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design algorithms to solve real-world problems by applying modular programming concepts",
+    "Learners can effectively communicate with peer learners and tutors using asynchronous collaboration tools",
+    "Learners can establish and execute self-directed learning plans using LMS-based materials even in resource-constrained environments"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Offline Learning Material Package",
+      "Asynchronous Collaboration Tools (Forum, Q&A Board)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

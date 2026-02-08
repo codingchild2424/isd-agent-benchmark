@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8288",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Program for Healthcare Quality Improvement",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge and clinical practice experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Providing e-learning modules accessible via smartphones for practicing healthcare professionals, with formative assessments to monitor learning effectiveness",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply hand hygiene management protocols with 90% accuracy within four weeks",
+    "Learners can comply with Community-Acquired Pneumonia (CAP) treatment guidelines in practice at an 80% or higher rate",
+    "Learners engage in self-directed learning activities at least twice weekly through mobile-based e-learning modules"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Animation Content Creation Tool",
+      "Mobile Survey System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

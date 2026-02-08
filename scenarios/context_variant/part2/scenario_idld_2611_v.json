@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2611-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Serious Game-Based Mathematics Application Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic arithmetic operations and statistical concept comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Using a serious game platform (e.g., PhET simulations), learners model three real-life problems (traffic flow optimization, resource distribution) with mathematical models (differential equations, graph theory) and propose solutions with 80% or higher accuracy in the game’s evaluation system.",
+    "In an AI-based game simulation environment, learners collaborate with teammates to complete three or more problem-solving tasks. They achieve an \"excellent\" rating in at least three of four team evaluation checklist items (communication, role distribution, strategy development, execution efficiency).",
+    "Learners can visualize and interpret data analysis results through project deliverables"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

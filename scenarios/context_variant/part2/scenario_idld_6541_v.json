@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6541-V",
+  "variant_type": "context_variant",
+  "title": "Cognitive Apprenticeship-Based Redesign of Computational Fluid Dynamics Online Education Modules",
+  "context": {
+    "prior_knowledge": "Core fluid dynamics theory and advanced comprehension of numerical analysis",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-Based Learning Environment Emphasizing Practical Application Skills, Utilizing Personal Devices (BYOD)",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Explain three or more procedures for solving complex fluid dynamics problems using CFD (Computational Fluid Dynamics) simulation software (OpenFOAM/ANSYS Fluent)",
+    "Learners analyze three fluid dynamics case studies from real industrial settings through cognitive apprenticeship activities (2 modeling demonstrations, 3 scaffolding sessions, 1 reflective practice) within one week, propose at least two solutions per problem, and write reports meeting at least four of five evaluation criteria",
+    "Apply two or more CFD interpretation result verification protocols through peer feedback and instructor coaching, and write improvement reports"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Real-Time Collaboration Tools (Miro, Jamboard)",
+      "CFD Simulation License (OpenFOAM/ANSYS)",
+      "Video Conferencing System (Zoom)",
+      "LMS-Based Resource Sharing Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

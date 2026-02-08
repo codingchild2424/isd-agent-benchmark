@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0655",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Intentional Practice and Real-Time Feedback Integrated Pedagogy for High-Quality CPR Education",
+  "context": {
+    "prior_knowledge": "Basic Understanding of Cardiopulmonary Resuscitation (CPR) Procedures",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Emergency response skill development linked to language curricula, targeting pre-service and in-service teachers",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners must perform high-quality CPR at an accurate compression rate of 100-120 per minute for 1 minute",
+    "Learners must perform chest compressions while maintaining accurate compression depth of 5-6 cm",
+    "Learners must self-diagnose and correct compression depth and rate using a real-time feedback system"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CPR Manikin",
+      "Smartphone-Based Real-Time Feedback App",
+      "Popular Music Tracks (Utilizing Metaphors)",
+      "Compression Depth Measuring Device"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

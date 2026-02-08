@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8179-V",
+  "variant_type": "context_variant",
+  "title": "Science Education Competency Enhancement Program Using Game-Based Learning (GBL)",
+  "context": {
+    "prior_knowledge": "Advanced Expertise in Science and Basic Digital Literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Focused on developing competencies in designing and operating GBL (Game-Based Learning) pedagogies using mobile apps and microlearning content in smartphone-based constrained technological environments.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can define and explain the five core competencies of GBL (basic/advanced game literacy, GBL design, operational management, and evaluation).",
+    "Learners can design and prototype three or more GBL scenarios suitable for mobile environments in the science domain.",
+    "Learners can develop science education modules applying five game mechanics to enhance learner engagement through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Game-Based Learning (GBL) Authoring Tool",
+      "Science content library",
+      "Teacher Collaborative Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

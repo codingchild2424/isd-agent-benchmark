@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0546",
+  "variant_type": "idld_aligned",
+  "title": "Augmented Reality (AR)-Based Secondary School History/Geography Microlearning Design",
+  "context": {
+    "prior_knowledge": "Comprehension of basic history/geography concepts and fundamental smartphone operation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended learning combining AR-based content with formative assessments in a BYOD environment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze the spatial-temporal context of historical events with over 80% accuracy using AR applications.",
+    "Visualize geographic information as a 3D augmented model and explain at least three terrain characteristics.",
+    "Perform decision-making processes at four or more levels in collaborative learning scenarios through AR simulation activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "History/Geography AR Content Platform License",
+      "Mobile-compatible AR authoring tool",
+      "Formative assessment quiz generator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

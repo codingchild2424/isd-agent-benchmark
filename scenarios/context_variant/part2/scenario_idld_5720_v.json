@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5720-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Healthcare Practical Competencies: Digital Logic Design Practical Skills Enhancement Program",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental electronics and logic circuit theory",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the operational principles of five basic logic gates (AND, OR, NOT, NAND, NOR) and draw circuit diagrams.",
+    "Learners can implement and simulate a 4-bit adder circuit in HDL code based on given design requirements.",
+    "Learners can evaluate the applicability of actual digital systems by completing a sequential circuit design project utilizing flip-flops and registers"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Records (EMR) System",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

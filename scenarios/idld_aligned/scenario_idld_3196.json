@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3196",
+  "variant_type": "idld_aligned",
+  "title": "Distance Education Program Based on Creative Instructional Design for Strengthening Veterinary Technician Competencies",
+  "context": {
+    "prior_knowledge": "Foundational knowledge of veterinary medicine and animal care",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-focused education program for current veterinary technicians. Combines simulations using digital devices with offline practical training",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately perform mathematical calculations (e.g., medication dosage, diagnostic value interpretation) for solving veterinary problems.",
+    "Learners can logically explain data-driven clinical judgments through analysis of animal patient cases.",
+    "Learners can systematically diagnose mathematical errors occurring during veterinary skill applications in team-based projects and propose improvement strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Veterinary Practice Equipment",
+      "3D Anatomical Model",
+      "Tablet PC",
+      "Simulated Medical Record Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

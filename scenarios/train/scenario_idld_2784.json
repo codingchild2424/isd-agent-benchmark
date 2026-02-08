@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2784",
+  "variant_type": "idld_aligned",
+  "title": "Intensive Short-Term Course on Reinforcement Learning-Based H∞ Controller Design",
+  "context": {
+    "prior_knowledge": "Foundational control theory and linear systems understanding, with basic Python programming skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course delivering core concepts of H∞ control theory and reinforcement learning-based design methods to practitioners, enhancing real-world system application skills through project-based assessments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the mathematical principles of GARE (Game Algebraic Riccati Equation) and their connection to H∞ control.",
+    "Understand and implement the operational principles of minimax Q-learning based on offline policy iteration algorithms.",
+    "Perform simple H∞ controller design simulations using only smartphone-based tools in limited technological environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Open-Source Reinforcement Learning Library (TensorFlow Lite, etc.)",
+      "PDF Lecture Materials",
+      "Simulation Example Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

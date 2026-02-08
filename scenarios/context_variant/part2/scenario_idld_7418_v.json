@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7418-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Beginner English Communication Skills via Chatbot-Assisted Flipped Learning",
+  "context": {
+    "prior_knowledge": "Understanding of basic English vocabulary and sentence structures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Through 6 weeks of flipped learning, learners can fluently demonstrate 2 new math-related English conversation scenarios weekly",
+    "Learners can achieve ≥80% accuracy in dialogue assessments after interacting with chatbots",
+    "By project completion, learners can achieve ≥90% task completion rates using English communication skills in collaborative projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

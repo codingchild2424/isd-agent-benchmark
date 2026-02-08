@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6611-V",
+  "variant_type": "context_variant",
+  "title": "Personalized Science Learning Pathway Design: Simulation/VR-Based Self-Directed Learning Courses",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental science theories and research methodologies",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended methodology course aimed at enhancing self-directed learning competencies in a smartphone-based constrained technology environment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can reconstruct science experiment procedures with 80% accuracy using VR simulations",
+    "Learners can generate three or more learning scenarios by designing task combinations from a personal learning path catalog",
+    "Learners perform two or more knowledge-sharing activities while exchanging learning path feedback using collaborative tools with peers"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR Device Rental System",
+      "Cloud-based Learning Management Platform",
+      "Science Experiment Simulation Content Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4601-V",
+  "variant_type": "context_variant",
+  "title": "Web-Based Educational Application Management: SCM-Based Approach",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Course for Strengthening Graduate-Level Mathematics Education Application Development and Management Competencies. Practicum-focused structure using digital devices (tablets/laptops)",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design a version control system for a web-based math education application using SCM (Source Code Management) tools",
+    "Learners can track change histories of educational content and system infrastructure and perform conflict resolution procedures",
+    "Learners can propose configuration management processes to address changes in educational requirements in deployment environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GitLab/GitHub educational accounts",
+      "Educational WbEA (Web-Based Educational Application) sample project",
+      "SCM (Supply Chain Management) practical manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

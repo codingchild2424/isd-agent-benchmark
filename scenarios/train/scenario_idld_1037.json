@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1037",
+  "variant_type": "idld_aligned",
+  "title": "Educational Integration of Immersive Web Environments (IWE): Instructional Design Based on Bloom's Taxonomy",
+  "context": {
+    "prior_knowledge": "Basic educational technology skills and experience with digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Focused on developing IWE (Integrated Web-based Environment) strategies specialized for social studies, targeting pre-service/in-service teachers. Considers smartphone accessibility and limited-technology conditions",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can propose three or more lesson plans aligned with Bloom’s Taxonomy (6 levels: Remember-Understand-Apply-Analyze-Evaluate-Create) using IWE.",
+    "Learners can create two or more activity materials utilizing IWE tools (e.g., 360-degree virtual field trips, augmented reality quizzes) in social studies contexts.",
+    "Learners can propose three practical solutions for issues (accessibility, interaction limitations, etc.) arising when applying IWE in limited technological environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible IWE platform (web-based 3D/VR tools)",
+      "Bloom’s Taxonomy Mapping Guide",
+      "Social studies IWE case database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

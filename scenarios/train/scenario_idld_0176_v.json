@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0176-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Systems Design Practical Competencies: Higher Social Education Course Design Using Visual Language",
+  "context": {
+    "prior_knowledge": "Basic social concepts and fundamental digital device utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can structure social phenomena using visual modeling tools.",
+    "Learners can visually represent over 80% of educational design documents using E2ML (Education to Modeling Language)-based diagrams.",
+    "Learners can collaboratively design educational scenarios to solve complex social problems with team members."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

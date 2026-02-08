@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0417",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Blended Learning-Based Short-Intensive Course for Self-Management Support (SMS) Education",
+  "context": {
+    "prior_knowledge": "Elementary health management knowledge and secondary-level science comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Combining real-time online classes with asynchronous activities conducted in smartphone-centric, limited-technology environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain at least three collaborative strategies for patient goal-setting.",
+    "Learners can practice core communication skills required in self-management support (SMS) education with 80% accuracy.",
+    "Learners can master SMS theoretical knowledge by over 70% through asynchronous learning modules and reflect it in pre-assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom account",
+      "Mobile-Optimized LMS",
+      "PDF Learning Materials",
+      "Interactive scenario application"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

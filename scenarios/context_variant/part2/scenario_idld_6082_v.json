@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6082-V",
+  "variant_type": "context_variant",
+  "title": "VR-Based Technical Training Design: Applying a Blended Learning Framework",
+  "context": {
+    "prior_knowledge": "Basic comprehension of technical processes and leadership experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A VR technology training course for managers/leaders to enhance social sector job competencies, operated in a digitally supported environment with summative assessment-centered design",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners design strategies to apply step-by-step analysis of complex technical processes in real-world tasks using VR simulations.",
+    "Within six months, learners select three VR training modules in blended learning environments (online+offline) and design an educational scenario reducing cognitive load by 20% for 10 team members using cognitive load measurement tools (e.g., NASA-TLX survey)",
+    "Learners quantitatively measure learning outcomes of VR-based training through project-based assessments and propose improvement strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset (15 Sets)",
+      "CNC Simulation Software",
+      "LMS platform",
+      "Cognitive Load Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-0272",
+  "variant_type": "idld_aligned",
+  "title": "Workshop on Electronic Portfolio (E-Portfolio) Design for Reflective Learning",
+  "context": {
+    "prior_knowledge": "Experience with basic e-learning tools, foundational knowledge in teacher education, and understanding of language education methodologies",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course for pre-/in-service teachers learning to design and manage E-Portfolios integrating reflective learning and formative assessments in smartphone-centric limited environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically organize three or more reflective learning artifacts on a Moodle-based E-Portfolio platform.",
+    "Learners can create formative assessment portfolios using text/image/media materials in a smartphone environment.",
+    "Learners can write reflective journals through peer feedback and produce two or more self-assessment reports.",
+    "Learners can develop one or more E-Portfolio evaluation rubrics applicable to language education settings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Moodle Mobile App",
+      "Cloud Storage Repository",
+      "Multimedia Production Tool",
+      "Feedback Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

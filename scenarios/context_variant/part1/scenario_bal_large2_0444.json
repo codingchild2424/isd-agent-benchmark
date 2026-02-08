@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0444",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Online Health Information Digital Literacy Enhancement Course: Developing Civic Health Decision-making Competencies",
+  "context": {
+    "prior_knowledge": "Basic internet search abilities and digital device usage experience, and awareness of health information accessibility as a community member",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Designed for learners in administrative/leadership roles, the program aims to enhance their ability to evaluate and utilize health information in workplace settings. Conducted in a BYOD (Bring Your Own Device) environment, it measures learning outcomes through project-based assessments, with a focus on information literacy skills for promoting community health and advancing civic rights.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can classify online health information with over 80% accuracy by applying five core criteria for evaluating credibility (source, evidence, recency, objectivity, expert verification), thereby cultivating critical evaluation skills as informed citizens.",
+    "Learners revise their health information analysis reports at least three times based on peer feedback in a digital literacy discussion forum and include a plan for applying their findings to real-world work environments when submitting their final projects, strengthening their capacity to share health information within social networks.",
+    "Within four weeks after training, learners submit two case studies of health information-based decision-making from actual work settings that meet evaluation criteria, contributing to institutional health policy improvements and the design of community health promotion projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access to reliable health information database",
+      "Digital literacy assessment checklist template",
+      "API for MOOC platform integration"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4860",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Workshop on Advanced PubMed Search Strategies for Medical Students",
+  "context": {
+    "prior_knowledge": "Basic Medical Literature Search Experience and Scholarly Database Concept Comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-based learning environment, group collaboration-centered, with a project-based assessment system.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Medical students can search for clinical research papers with 90% accuracy using MeSH terms and Boolean operators in the PubMed interface.",
+    "Learners develop literature evaluation criteria through group discussions and improve their search strategies at least twice based on peer feedback.",
+    "Participants curate and manage PubMed search results in mobile environments and cite at least five eligible papers in their final academic project report."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "PubMed Mobile Interface",
+      "Google Drive Collaborative Document",
+      "Medical Search Strategy Guide (PDF)",
+      "Mobile-Friendly Quiz Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0419",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] ICT-Based Active Learning Program to Enhance Elementary Science Critical Thinking",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental scientific concepts and basic digital device operation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in a mobile learning environment using digital devices (tablets/smartphones), with a structure that enables formative assessment-based monitoring of the learning process",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students generate at least three hypotheses about a given scientific phenomenon (e.g., light refraction, plant photosynthesis) and apply logical analysis skills to write a report through a verification process meeting four or more of the five experimental design checklist items.",
+    "Students use digital collaboration tools (Padlet/Google Docs) to receive feedback from three or more peers, then write a 500+ character argumentative essay that clearly includes the scientific argumentation structure (problem definition, hypothesis, evidence, conclusion).",
+    "Over two weeks, students propose three solutions per scenario from three provided PBL scenarios (e.g., climate change response, water pollution analysis) and demonstrate critical decision-making processes achieving 10+ points out of 15 based on the teacher’s evaluation rubric (problem recognition, evidence presentation, alternative comparison)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science inquiry kit",
+      "Mobile Learning Management System (LMS)",
+      "Digital Collaboration Tools",
+      "Scientific argumentation template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

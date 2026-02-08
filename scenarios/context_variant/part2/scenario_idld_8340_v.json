@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8340-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Skills: Data-Driven Interaction Design Strategies in Online Learning Environments",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners design strategies to improve learner engagement by over 20% by analyzing interaction data (e.g., link clicks, zoom features) within online modules.",
+    "Learners will draft a design guide analyzing correlations between click-level behavioral metrics (CTR, dwell time) and assessment outcomes (test scores, completion rates) within one week. They will obtain peer review feedback scoring ≥4 on a 5-point scale.",
+    "Learners will develop a prototype of an interaction-based assessment tool executable on smartphones within one week. They will demonstrate a functional demo meeting ≥2 of 3 predefined functional requirements: user input processing, real-time feedback, and result storage."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

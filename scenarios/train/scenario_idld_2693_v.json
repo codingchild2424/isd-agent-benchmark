@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2693-V",
+  "variant_type": "context_variant",
+  "title": "Data Science Practical Competency Enhancement: Evolution and Application Strategies of Competency-Based Educational Approaches",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the core components and historical development of competency-based education models.",
+    "Learners can diagnose the current status of competency application in educational settings using document analysis and survey methods.",
+    "Learners can propose strategies to address potential issues (e.g., lack of teacher expertise, inadequate assessment systems) in designing competency-based curricula specialized for language education."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

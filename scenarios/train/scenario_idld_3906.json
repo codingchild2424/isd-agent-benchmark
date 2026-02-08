@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3906",
+  "variant_type": "idld_aligned",
+  "title": "Real-World Task-Based MOOC Participation Enhancement and Reward System Design",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and experience using online learning platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthens real-world problem-solving skills via task designs optimized for smartphone-based learning and small-group collaboration",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify and complete three or more real-life tasks linked to MOOC platforms",
+    "Learners can propose ways to apply skills acquired through project-based assessments to real-world work environments.",
+    "Learners can develop strategies to sustain learning motivation by utilizing a digital reward system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible MOOC platform",
+      "Real-Time Video Conferencing Tool (e.g., Zoom)",
+      "Online marketplace integration system prototype",
+      "Basic digital tools for task performance (document editors, survey platforms, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

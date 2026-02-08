@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1614-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Skills: Social Inquiry Projects Applying Digital Bloom’s Taxonomy",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design social problem-solving projects by utilizing the six levels of digital Bloom’s taxonomy (remembering-understanding-applying-analyzing-evaluating-creating).",
+    "Learners can collect and reorganize learning materials aligned with each stage of the digital Bloom’s taxonomy using smartphone-based tools.",
+    "Learners can demonstrate higher-order thinking skills in the analysis-evaluation-creation stages through project outcomes."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

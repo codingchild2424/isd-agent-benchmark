@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1580",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Self-Regulated Learning Strategy Development for Online Mathematics Education",
+  "context": {
+    "prior_knowledge": "Understanding of elementary mathematical concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-based microlearning environment for current practitioners, utilizing personal devices via BYOD, with daily 15-20 minute learning sessions over one week",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can establish and execute weekly learning plans using digital resources.",
+    "Learners can self-assess daily learning outcomes through mobile quizzes.",
+    "Learners can improve time management and motivation strategies by maintaining a learning journal."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App",
+      "Digital Quiz Platform",
+      "Learning Management System (LMS)",
+      "Template-Based Learning Journal"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

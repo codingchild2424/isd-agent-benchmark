@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6848-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing AI Practical Competencies: Inquiry-Based Introduction to Relativity Theory—Online Self-Directed Learning",
+  "context": {
+    "prior_knowledge": "High school-level foundational physics and math knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can explain fundamental principles of relativity theory (light speed invariance, relativity of simultaneity, etc.) and connect them to experimental cases",
+    "Students develop critical thinking skills to analyze the relativity of spacetime using thought experiments (e.g., twin paradox)",
+    "Students can solve simple relativity problems by applying mathematical tools (Lorentz transformations, etc.)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

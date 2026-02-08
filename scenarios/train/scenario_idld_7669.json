@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7669",
+  "variant_type": "idld_aligned",
+  "title": "Autonomous Driving Radar Target Detection Defense Project Using Adversarial Deep Learning",
+  "context": {
+    "prior_knowledge": "Basic Statistics, Calculus, Matrix Operations, Python Programming, and Neural Network Fundamentals",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Hands-on classes using digital devices (tablets/laptops), combining mathematical principles of radar signal processing with machine learning application examples in project-based learning",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can mathematically interpret Range-Doppler maps generated during the signal processing of FMCW radar.",
+    "Learners can identify three or more vulnerabilities in deep learning models by analyzing adversarial attack cases.",
+    "Learners can build a hybrid deep learning model applying PSO optimization techniques and achieve target detection accuracy of 85% or higher."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook Installation Device",
+      "TensorFlow/Keras Library",
+      "FMCW Radar Simulation Dataset",
+      "Attack Scenario Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

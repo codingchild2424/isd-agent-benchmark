@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7852",
+  "variant_type": "idld_aligned",
+  "title": "Self-Directed Online Science Learning Strategies Using Mobile Devices",
+  "context": {
+    "prior_knowledge": "Basic usage of online learning platforms and understanding of foundational scientific concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Work-integrated learning for professionals, smartphone-centric learning environment, project-based assessment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can independently navigate science lecture materials (annotated PDFs, videos) using mobile devices",
+    "Learners can perform real-time academic communication (Q&A, feedback) with peers and instructors via mobile apps",
+    "Learners can propose three or more practical strategies to overcome technical constraints (small screens, input limitations, etc.) in mobile learning"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS System",
+      "PDF/Video-Compatible Apps (Adobe Acrobat, YouTube)",
+      "Real-Time Collaboration Tools (Slack/KakaoTalk)",
+      "Offline-Accessible Science Terminology Dictionary App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

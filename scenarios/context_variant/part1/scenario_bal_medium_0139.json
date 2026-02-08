@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0139",
+  "variant_type": "balance_medium_scale",
+  "title": "Online Discussion-Based Mathematical Problem-Solving Course Utilizing Gamification",
+  "context": {
+    "prior_knowledge": "College-level foundational mathematics knowledge (functions, calculus, statistics, etc.) and experience using online discussion platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended classes integrating gamification platforms and Zoom in BYOD environments. Discussion topics focus on real-life application problems.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners improve real-world application of mathematical concepts by over 80% through discussion-based problem-solving processes in a gamification environment",
+    "Learners increase discussion participation rates by over 50% utilizing competitive elements and leaderboard systems",
+    "Learners, working in teams of 3–4, will write a project proposal within one week applying calculus (e.g., optimization problems) or linear algebra (e.g., data modeling) concepts to real-world issues (e.g., logistics route optimization, machine learning model design) and achieve a total score of 70 or higher (out of 100) based on evaluation criteria: creativity (30%), mathematical accuracy (40%), and collaboration efficiency (30%)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Gamification Discussion Platform",
+      "Real-Time Video Conferencing Tool",
+      "Digital Leaderboard System",
+      "Mathematics Case Problem Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1221",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Digital Systems Foundations Education: Integrated Active and Flipped Learning Course",
+  "context": {
+    "prior_knowledge": "Foundational understanding of electronics and computer architecture",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners access online course materials via personal devices (BYOD) and engage in active learning during in-person sessions, with project-based assessments emphasizing real-world problem-solving skills",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the basic components and operational principles of digital logic circuits.",
+    "Learners autonomously acquire digital system design concepts using flipped learning video materials.",
+    "Learners analyze real-world applications of digital systems through team-based problem-solving activities during face-to-face sessions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "YouTube Educational Videos",
+      "Digital Logic Simulation Software",
+      "Offline Practice Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

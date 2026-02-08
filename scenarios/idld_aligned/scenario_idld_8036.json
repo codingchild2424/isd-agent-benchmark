@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8036",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Peer-Assisted Radiography Education Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic radiation physics and imaging equipment terminology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Safe practical training environment using educational simulators and digital devices (tablets/VR headsets) instead of actual radiation equipment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform equipment setup according to radiographic imaging protocols in a simulation environment with 80% accuracy.",
+    "Learners can produce diagnostic-quality images three times consecutively by adjusting shooting angles based on peer feedback.",
+    "Learners can analyze imaging error cases in PBL team projects and propose two or more improvement strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Radiation simulator software",
+      "Virtual reality equipment",
+      "3D human anatomy models",
+      "PBL (Project-Based Learning) guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

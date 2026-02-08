@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8380",
+  "variant_type": "idld_aligned",
+  "title": "Split-Attention Learning and Self-Explanation Video Design Course for Scientific Thinking",
+  "context": {
+    "prior_knowledge": "Ability to comprehend foundational scientific concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-based learning environment, enhanced real-time interaction, and project-based assessment application.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain complex scientific concepts with over 80% accuracy using segmented 5-minute videos",
+    "Learners can connect video content to three or more real-world cases by applying self-explanation strategies (using questionnaires)",
+    "Learners can self-assess their conceptual understanding by writing a 500-character reflective journal after video learning"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized Video Production Tools",
+      "Zoom Account",
+      "PDF-Based Self-Explanation Questionnaire",
+      "Google Drive (for Assignment Submission)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

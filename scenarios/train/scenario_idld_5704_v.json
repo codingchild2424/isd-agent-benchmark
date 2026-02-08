@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5704-V",
+  "variant_type": "context_variant",
+  "title": "Telemedicine Collaboration Design and Practice-Based Learning Curriculum",
+  "context": {
+    "prior_knowledge": "Basic Medical Terminology and Understanding of Digital Device Usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course for high school and university students to strengthen foundational telemedicine competencies, with considerations for smartphone-based accessibility",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the basic operational procedures and ethical guidelines of telemedicine systems.",
+    "Learners can design and implement collaboration strategies in telemedicine scenarios based on real-world cases.",
+    "Learners can complete projects by applying patient data protection and communication skills in digital environments."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible learning platform",
+      "Open-Access Telemedicine Case Materials",
+      "Collaborative Tools (e.g., Google Docs)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0310",
+  "variant_type": "balance_teen_filtered",
+  "title": "Evolution of Online Learning and Language Education Application Strategies for K-12",
+  "context": {
+    "prior_knowledge": "Experience using basic online learning platforms (LMS) and intermediate+ language proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Requires content design optimized for smartphone-based learning. Aims to enhance practical language use through project-based assessments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can explain three strategies to enhance language acquisition efficiency in online learning environments.",
+    "Utilizing mobile-accessible digital resources (e.g., two podcasts, one translation app), learners can establish a self-directed learning plan executable at least three times weekly and record execution results over two weeks using a learning journal template.",
+    "Over 2–4 weeks, learners can form teams of two peer learners using online collaboration tools like GitHub Classroom, complete a web-based language learning app with three core features (login, data storage, API integration) using a project management board (Kanban board), and achieve over 4 points (out of 5) in at least two of three peer evaluation rubric items (feature completeness, collaboration engagement, code quality)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Offline-capable video materials",
+      "Free Language Learning App Integration System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

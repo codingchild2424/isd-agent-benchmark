@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0867-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design Strategies to Prevent Student Dropout in Flexible Online Learning Environments",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental science theories and research methodologies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners, comprising medical/legal/technical professionals, study in a limited-technology environment (primarily smartphones) on flexible schedules and must demonstrate competencies through project-based assessments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve 80% or higher weekly learning plan implementation rate using the online Learning Management System (LMS)",
+    "Students submit three consecutive improvement reports based on formative assessment feedback",
+    "Learners derive three or more learning strategy improvements through peer and self-assessment"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Offline Learning Kit",
+      "Weekly learning checklist template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

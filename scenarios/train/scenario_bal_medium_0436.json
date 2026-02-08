@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0436",
+  "variant_type": "balance_medium_scale",
+  "title": "Digital Game-Based Learning Course for Historical Exploration",
+  "context": {
+    "prior_knowledge": "Comprehension of elementary historical concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Utilization of digital games for history education linked to science-related job roles",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze causal relationships between historical events and figures through game simulations",
+    "Arrange at least five major historical events in chronological order by completing in-game quests",
+    "Evaluate historical decision-making processes with over 80% accuracy using feedback systems within digital games"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Web-Based DGBL (Digital Game-Based Learning) Software",
+      "LMS Integration System",
+      "Multimedia Historical Resources Database",
+      "Automated Scoring Feedback Engine"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

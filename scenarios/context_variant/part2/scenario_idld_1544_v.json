@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1544-V",
+  "variant_type": "context_variant",
+  "title": "Automated Text Classification for Analyzing MOOC Learner Experiences",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhancing practical application skills through large-scale learner engagement in mobile environments using personal devices and project-based assessments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "A DNN-based text classification model can automatically categorize MOOC learner reviews into semantic categories with over 80% accuracy",
+    "Learners can explain how to understand the characteristics of RCNN models and apply them to learner experience analysis",
+    "Based on analysis results, learners can propose specific design interventions for improving MOOCs"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python Programming Environment",
+      "TensorFlow/Keras Library",
+      "Class Central Sample Dataset (For Learning Purposes)",
+      "Jupyter Notebook",
+      "Google Colab Cloud Environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

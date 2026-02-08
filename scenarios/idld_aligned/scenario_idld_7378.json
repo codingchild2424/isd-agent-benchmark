@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7378",
+  "variant_type": "idld_aligned",
+  "title": "Gamification-Enhanced Mathematics Vocabulary Learning Course",
+  "context": {
+    "prior_knowledge": "Basic mathematical terminology comprehension and fundamental smartphone operation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Real-time competitive vocabulary learning via Zoom and mobile game apps (e.g., Quizlet Live), combining group and individual activities to boost learning motivation.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can define 50 basic math terms at ≥80% accuracy over two weeks",
+    "Through gamification activities, learners solve ≥70% of math terminology application problems while maintaining learning motivation",
+    "Learners enhance communication skills by collaborating in group competitions and exchanging peer feedback"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Quizlet Live account",
+      "Zoom Platform",
+      "Printable vocabulary handouts (optional)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

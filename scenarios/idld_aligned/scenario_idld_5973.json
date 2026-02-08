@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5973",
+  "variant_type": "idld_aligned",
+  "title": "Blended Microlearning Design for Business Mathematics Instruction",
+  "context": {
+    "prior_knowledge": "Elementary arithmetic operations and understanding of basic business-related terminology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Combines mobile environments with offline workshops using digital devices. Requires content design to minimize learners’ cognitive load.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain core concepts of managerial mathematics (probability, statistics, optimization) with over 80% accuracy in mobile modules.",
+    "Learners can practice applying decision-making modeling techniques three or more times through real-time quizzes in blended learning environments.",
+    "Learners can write analytical reports on real business cases using digital tools (Excel, simulation apps) in offline workshops."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Excel template",
+      "Business simulation app",
+      "Offline Workshop Space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

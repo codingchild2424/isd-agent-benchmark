@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0073",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Cognitive Load Theory-Based Mobile Language Learning Design",
+  "context": {
+    "prior_knowledge": "Basic Language Learning Experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Language education course for workplace efficiency improvement. Microlearning content delivery via mobile apps in BYOD environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners achieve over 70% accuracy in effectively processing learning content by applying cognitive load theory",
+    "Learners improve vocabulary retention rates by over 40% through spaced learning sessions five times weekly",
+    "Learners apply self-regulated learning strategies with over 85% participation rates on mobile platforms"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App",
+      "Spaced Learning Algorithm",
+      "Cognitive Load Measurement Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

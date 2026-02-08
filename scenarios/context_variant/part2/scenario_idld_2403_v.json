@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2403-V",
+  "variant_type": "context_variant",
+  "title": "Connectivist-Based Mobile Microlearning for GNSS Education Competency Development",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental Global Navigation Satellite System (GNSS) principles and surveying techniques",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for current practitioners to strengthen GNSS technology application capabilities. Real-time collaboration and field data analysis are emphasized in a BYOD environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can demonstrate competency in spatial information analysis through the operation of GNSS (Global Navigation Satellite System) hardware/software.",
+    "Learners can share GNSS problem-solving strategies with peers using mobile-based collaboration tools.",
+    "Learners can explain GNSS data interpretation and decision-making processes through real-world case studies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GNSS simulation app",
+      "Collaborative learning platform",
+      "Field data sets",
+      "Microlearning Content Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5363-V",
+  "variant_type": "context_variant",
+  "title": "Distributed Learning Design Based on Communities of Inquiry to Overcome Educational Limitations of MOOCs",
+  "context": {
+    "prior_knowledge": "Three or more years of practical experience in the field or foundational theoretical understanding",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Small-scale inquiry group operations and asynchronous discussion systems to promote collaborative learning and self-directed learning among learners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can enhance collaborative competencies by providing and incorporating peer feedback three or more times during the project period",
+    "Establishing and implementing self-directed learning plans at least twice weekly in distributed learning environments",
+    "Maintaining MOOC participation rates above 80% and establishing social presence through learning community activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Collaboration Tools (Slack/Discord)",
+      "Role Distribution Template",
+      "Microlearning Content Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

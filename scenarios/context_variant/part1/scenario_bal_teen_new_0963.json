@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0963",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Comparative Study and Platform Design Project for Computer-Based Learning (CBL) Methodologies in Medical Education",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge and computer literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners focus on comparing CBL methodologies and developing software platforms in medical education, using personal devices (BYOD) for project execution",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can compare and analyze the strengths and weaknesses of various CBL methodologies (e.g., gamification, simulation, VR).",
+    "Learners can derive functional requirements when designing software platforms suitable for medical education.",
+    "Learners can write case study reports on CBL applications through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CBL Research Materials for Medical Education",
+      "Prototyping Tools (Figma, Unity, etc.)",
+      "Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

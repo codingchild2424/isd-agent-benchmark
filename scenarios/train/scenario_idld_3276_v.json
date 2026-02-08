@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-3276-V",
+  "variant_type": "context_variant",
+  "title": "MOOC Design Strategies for Strengthening Scientific Inquiry Competencies of Large-Scale Elementary Science Learners",
+  "context": {
+    "prior_knowledge": "Advanced-level expertise in the field (science education theory, experimental design methodologies) and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducting asynchronous learning in digital device (tablet/PC)-provided environments. Utilizes LMS-based videos (virtual lab demonstrations), quizzes (variable analysis problems), and discussion boards (scientific argumentation activities)",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Explain three or more strategies for building assessment systems linked to the scientific inquiry process (observation-hypothesis-experiment-analysis-conclusion) in MOOC design",
+    "Discuss experimental designs for controlling variables tailored to large learner groups and apply two or more peer assessment techniques",
+    "Develop scientific data visualization content plans considering technical limitations of LMS platforms",
+    "Cultivate the ability to design modular content that organizes beginner-level science concepts (basic physics, chemistry, biology) in a stepwise and non-linear manner",
+    "Propose personalized learning path improvements using formative assessment data (experiment result analysis, hypothesis verification accuracy, etc.)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Video Production Tools",
+      "Digital Textbook Template",
+      "Peer Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

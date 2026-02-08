@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4707-V",
+  "variant_type": "context_variant",
+  "title": "Data Analysis Education Based on Corporate Financial Risk Warning Models",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Optimized Content Delivery for Smartphone-Based Learning Environments, Featuring Visual Aids and Case-Centered Instructional Design",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles of a knowledge graph-based financial risk prediction model.",
+    "Learners can apply methods to enhance financial risk prediction accuracy through the optimization process of the STDE-FG model.",
+    "Learners can identify risk signals by analyzing real corporate financial data provided in a mobile environment."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Compatible Learning Module",
+      "Corporate Finance Sample Dataset",
+      "Interactive simulation tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

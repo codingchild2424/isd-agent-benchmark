@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4029-V",
+  "variant_type": "context_variant",
+  "title": "Customized Competency Enhancement Project for Digitally Marginalized Elderly Women",
+  "context": {
+    "prior_knowledge": "Basic smartphone operation experience (optional)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Field-immersive education for learners with geographical and economic accessibility constraints.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Learners can independently utilize at least three mobile applications for solving everyday problems",
+    "Learners can explain basic digital security principles (password settings, personal information management, etc.) with 90% accuracy",
+    "Learners can plan and execute digital literacy expansion projects in collaboration with local communities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Android/iOS-Based Smartphone",
+      "Offline Activity Kit",
+      "Locally Translated Digital Manual"
+    ],
+    "accessibility": "저시력자용 고대비 디스플레이, 청각 장애인을 위한 시각적 안내 자료",
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0157",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Gamified Learning Program for Enhancing VR-Based Spatial Visualization Skills",
+  "context": {
+    "prior_knowledge": "Basic digital device proficiency and foundational spatial awareness understanding",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Due to managerial roles requiring multidimensional problem-solving, spatial reasoning training linked to language domains is necessary",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve a 30% improvement in Spatial Visualization Ability Test (SVAT) scores through a 6-week VR gamified training program",
+    "Learners can perform real-time rotation, symmetry, and decomposition tasks of 3D objects with over 80% accuracy",
+    "Learners demonstrate cognitive load management skills, evidenced by a 15% increase in prefrontal hemoglobin oxygenation (HbO) in fNIRS-based neurocognitive measurements"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset (Oculus Quest 2 or Higher)",
+      "Spatial Visualization Game Application (Unity3D-Based)",
+      "Portable fNIRS Brain Activity Measurement Device",
+      "LMS (Learning Management System) Integration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

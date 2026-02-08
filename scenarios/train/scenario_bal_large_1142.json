@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1142",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Mobile Social Education Design Using Blended Learning and Person-Centered Approaches",
+  "context": {
+    "prior_knowledge": "Basic Digital Device Usage Skills and Fundamental Social Studies Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Focused on providing personalized learning experiences in smartphone-centric limited technological environments, with continuous monitoring of learning processes through formative assessment",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can establish and execute a self-directed learning plan using mobile devices at least three times per week in a blended learning environment",
+    "Through a learner-centered feedback system, learners can write reflective reports linking their career goals and learning outcomes every four weeks",
+    "In small-group collaborative activities, learners can achieve at least 80% proficiency in social interaction skills (communication, conflict management) through peer assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-friendly LMS platform",
+      "Social Studies-Based Open Educational Resources (OER)",
+      "Low-Spec Mobile-Optimized Quiz App",
+      "Audio Podcast Production Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

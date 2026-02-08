@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4664-V",
+  "variant_type": "context_variant",
+  "title": "Reliability-Based Machine Learning: Practical Implementation Using Ensemble Techniques",
+  "context": {
+    "prior_knowledge": "Basic machine learning concepts (classification, regression), Python programming, and foundational statistics",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-centered design for working learners. Utilizing Jupyter Notebook in BYOD environments. Applying medical data cases (heart disease, diabetes)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design a confidence-based prediction model for binary classification problems using an ensemble learning structure",
+    "Learners can implement an algorithm that calculates sample-specific confidence levels by combining One-Class Classifiers in a multi-layered structure",
+    "Learners can explain practical evaluation methods for classification systems incorporating a reject option"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python Libraries (scikit-learn, NumPy, Pandas)",
+      "Public Medical Datasets (Heart Disease, Diabetes)",
+      "Jupyter Notebook Template",
+      "Whiteboard/projector"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

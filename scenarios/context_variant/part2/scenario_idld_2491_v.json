@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2491-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Service-Learning-Based Real Estate Consulting Project Design",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Analyze real estate cases using mathematical models and prepare investment feasibility reports",
+    "In 4-person teams, learners write a 5-page real estate strategy consulting report for local small businesses, propose ≥3 actionable strategies using AI tools (Google Trends, Naver Data Lab), and submit results meeting ≥4 of 5 evaluation criteria through 15-minute presentations/Q&A",
+    "Learners collect feedback from ≥3 project stakeholders via LMS collaboration tools (e.g., Moodle Workshops, Microsoft Teams), develop a feedback implementation plan within 7 days, and submit execution results per 5-item rubric"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

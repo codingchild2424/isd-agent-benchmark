@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0608",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Web-Based Flipped Learning Model Design to Address Higher Education Inequality",
+  "context": {
+    "prior_knowledge": "Experience with digital learning tools and foundational knowledge in specialized fields (medical/legal/technical)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Implementation of online lecture models to provide flexible learning environments using personal devices and reduce regional educational disparities",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can autonomously analyze web-based materials in a flipped learning environment and apply them to discussion topics.",
+    "Learners can complete a collaborative project proposing solutions to educational inequality through a peer feedback system.",
+    "Learners can complete 15-minute microlearning modules in a mobile environment and achieve an average score of at least 80% on real-time quizzes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS (Learning Management System) platform",
+      "Mobile-Optimized Video Lecture",
+      "Automated Grading Quiz System",
+      "Real-Time Video Conferencing Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

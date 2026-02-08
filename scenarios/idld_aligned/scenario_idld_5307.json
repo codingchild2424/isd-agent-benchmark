@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5307",
+  "variant_type": "idld_aligned",
+  "title": "Multi-Agent System Tracking and Estimation: Iterative Learning Design",
+  "context": {
+    "prior_knowledge": "Foundational understanding of linear systems, basic concepts of graph theory, and introductory knowledge of control theory",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Students analyze virtual agent systems using simulation tools and solve complex control problems through collaborative peer learning. They share learning content and exchange feedback on discussion boards within the LMS.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Using iterative learning control approaches, students can model distributed control systems that track dynamic leaders",
+    "Students implement algorithms estimating unknown leader inputs based on relative state information from neighboring agents",
+    "Students apply Lyapunov-Krasovskii theory to analyze stability and convergence of control systems"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Simulation Software",
+      "LMS platform",
+      "Control Theory Textbook (PDF)",
+      "Distributed Learning Activity Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

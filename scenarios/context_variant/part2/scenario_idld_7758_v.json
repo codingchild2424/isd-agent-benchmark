@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7758-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Patient Care Practical Competencies: Software-Enhanced Mathematics Courses for Supporting Inquiry-Based Learning",
+  "context": {
+    "prior_knowledge": "Comprehension of elementary mathematical concepts and basic proficiency in mobile device usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners enhance data analysis and visualization skills by utilizing software tools during mathematical problem-solving processes.",
+    "Over six months, learners select 3 complex mathematical concepts in medical/nursing fields (e.g., medication dosage calculation, statistical analysis) using digital scaffolding tools (e.g., concept map generators, step-by-step problem-solving templates). They complete 3-tier inquiry learning processes (basic-application-integration) per concept, achieving ≥80% accuracy in final assessments",
+    "Learners share inquiry results with peers via collaborative features in mobile environments and propose improvements reflecting feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Records (EMR) System",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

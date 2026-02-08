@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0454-V",
+  "variant_type": "context_variant",
+  "title": "Deep Learning Practice Competency Enhancement: Human-Machine Collaboration Learning Design Workshop Based on Metaverse",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Designing three or more math problem-solving scenarios using metaverse platforms",
+    "Proposing two or more implementation plans for learner-AI avatar collaboration systems",
+    "Learners will develop one rubric evaluating creative math activities (problem-solving, modeling, visualization) in virtual environments (e.g., Minecraft Education Edition, GeoGebra 3D) based on five criteria (e.g., creativity, logical consistency, technical implementation) within six months and secure validity scores of 4.0 or higher (5-point scale) from a three-member expert review panel."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

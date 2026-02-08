@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0243",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Scientific Pedagogical Methods and Experimental Anxiety Reduction Strategies for Enhancing Statistical Inquiry Competencies",
+  "context": {
+    "prior_knowledge": "Understanding of basic statistical concepts (mean, variance, standard deviation) and fundamental principles of experimental design (observation, hypothesis formulation, variable control). Basic awareness of the scientific inquiry process (problem definition-hypothesis formulation-experimental design-data analysis-conclusion drawing)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile app-based learning modules in BYOD environments with real-time formative assessment. Provides virtual lab environments simulating the full data cycle (collection→measurement→analysis). Learners systematically experience scientific inquiry, reducing experimental anxiety and enhancing evidence-based conclusion skills",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will improve self-efficacy in statistical calculations and hypothesis testing by 20%, reducing anxiety related to experimental design through systematic practice in variable control and evidence-based conclusion drawing.",
+    "Learners will set three statistical inquiry goals within a week following SMART principles (identifying independent/dependent variables, selecting measurement tools, establishing correlation analysis criteria), create a weekly study plan (including time allocation, experimental design methods, analysis criteria), and verify ≥80% execution via a checklist.",
+    "Learners will improve accuracy in applying statistical concepts (sample selection, ANOVA, Pearson correlation coefficient calculation) by 35% through formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Interactive statistics simulation tool",
+      "Real-time feedback system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-0074",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Participatory Design-Based Software Engineering Education: Human-Centered Problem-Solving Projects",
+  "context": {
+    "prior_knowledge": "Basic programming knowledge and experience in mathematical modeling",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Participatory project-based learning conducted in a smartphone-based LMS environment. Learners solve software design problems in administrative/managerial work settings to enhance practical competencies.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Based on real-world work scenarios, learners can define software design problems and propose at least three solutions following an analytical framework.",
+    "In a participatory design environment, learners complete collaborative projects utilizing domain knowledge (mathematics) and iteratively improve prototypes at least twice using an evolutionary approach.",
+    "Referencing open-source community cases, learners establish team collaboration strategies in distributed environments and share outcomes on digital platforms."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Web-Based LMS (Learning Management System)",
+      "Mobile-Optimized Design Tool",
+      "Collaborative Bulletin Board",
+      "Case Analysis Video",
+      "Template-Based Document Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

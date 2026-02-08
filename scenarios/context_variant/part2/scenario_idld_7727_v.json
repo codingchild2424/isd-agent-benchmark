@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7727-V",
+  "variant_type": "context_variant",
+  "title": "Classroom Space Utilization and Data-Driven Scientific Inquiry Design",
+  "context": {
+    "prior_knowledge": "Elementary scientific experimental methods and experience with data visualization tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Application of Space Utilization Analysis and Feedback System Using Indoor Position Tracking Data in BYOD Environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze indoor location data to explain their class participation patterns and classroom space utilization efficiency",
+    "Learners can use data visualization tools to evaluate the impact of spatial arrangements in the experimental design process",
+    "Learners can compare their space utilization patterns with peers and propose improvements for collaborative learning environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Indoor Position Tracking System",
+      "Data Visualization Software (Tableau/Python)",
+      "Science Experiment Kit",
+      "BYOD-Compatible Mobile App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

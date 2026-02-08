@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-3526-V",
+  "variant_type": "context_variant",
+  "title": "Design Thinking-Based Medical Education Innovation Project",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based learning environment for pre-service teachers to creatively address modern challenges in medical education. Learning spaces enabling digital resource access via personal devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Enhance the ability to systematically resolve complex problems in medical education settings by applying the design thinking process.",
+    "Strengthen the competency to design student-centered, problem-solving-oriented medical education curricula.",
+    "Learners, organized into teams of four, can select one real-world medical problem (e.g., patient data classification, diagnostic assistance systems), develop a Python-based AI prototype (with at least three functions) within 12 weeks, and obtain an average score of 3.5 or higher on a 5-point scale from an expert evaluation panel.",
+    "Learners can develop educational materials (three or more lecture slide sets, ten or more quiz items) using generative AI tools (e.g., ChatGPT, MidJourney), document AI-driven problem-solving strategies as a five-step process, and achieve a score of 4 or higher (out of 5) in at least two of three rubric criteria (clarity, practicality, innovativeness) through peer evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Medical education field case database",
+      "Design Thinking Toolkit",
+      "Generative AI educational platform",
+      "Medical Simulation Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5840-V",
+  "variant_type": "context_variant",
+  "title": "Cognitive Load Theory-Based Instructional Design for Virtual Physics Laboratory",
+  "context": {
+    "prior_knowledge": "Advanced physics theory and basic experimental knowledge, with digital tool proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasizes the design capability of virtual laboratories applicable to real-world tasks for current practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Explain the design principles of virtual physics laboratories based on cognitive load theory",
+    "Propose interface design solutions that consider learners' working memory capacity when designing various physics experiment modules",
+    "Learners develop a virtual laboratory prototype reflecting real vocational training environments (e.g., electrical/electronics labs) with at least three core functions (experiment simulation, data logging, error diagnosis), achieving over 80% suitability scores in peer and expert reviews to pass project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Computer Laboratory",
+      "3D Modeling Software",
+      "Physics simulation tool",
+      "VR Equipment Rental System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

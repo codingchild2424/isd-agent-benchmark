@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4327",
+  "variant_type": "idld_aligned",
+  "title": "Learning-by-Confusion (LbC)-Based Simulation Education for Strengthening ECG Interpretation Competency",
+  "context": {
+    "prior_knowledge": "Fundamental Electrocardiography (ECG) Concepts and Medical Knowledge of Cardiovascular Diseases",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Prospective teachers experience complex ECG interpretation scenarios in simulated clinical environments via simulation/VR, gaining critical thinking and iterative learning through learning-transfer approaches",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners accurately classify ECG patterns in 18 clinical scenarios and identify ≥80% of associated cardiovascular conditions.",
+    "Learners achieve ≥75% concordance in interpretations through peer consultation under conditions of diagnostic uncertainty.",
+    "Learners systematically analyze their diagnostic processes via reflective journaling and identify ≥3 error patterns."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ECG Interpretation Simulation Software",
+      "VR Headset",
+      "Clinical Scenario Database",
+      "Online Collaboration Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

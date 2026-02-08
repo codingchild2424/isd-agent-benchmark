@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1540-V",
+  "variant_type": "context_variant",
+  "title": "Advanced Music Education Design Project Utilizing Mobile Technology",
+  "context": {
+    "prior_knowledge": "Music theory, sheet music reading proficiency, and basic digital tool usage experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "An environment for graduate music education majors to conduct creative music production and analysis projects using mobile technology.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Independently complete music composition/arrangement projects using mobile applications at least three times",
+    "Produce two reports using mobile technology-based music analysis tools (e.g., Spectrogram, Tuner) through inquiry-based learning methods",
+    "Learners use supervised learning AI music generation tools (Soundraw, Amper Music, etc.) to comparatively analyze 3+ personal music styles (tempo, timbre, genre), create 10+ generated sample tracks, and write a 5-page comparative analysis report (including visual charts)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PC",
+      "Music Production Software (e.g., FL Studio Mobile)",
+      "Cloud Collaboration Tools (Google Workspace)",
+      "Music Theory Reference Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

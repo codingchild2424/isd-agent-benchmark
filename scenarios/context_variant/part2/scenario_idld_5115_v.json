@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5115-V",
+  "variant_type": "context_variant",
+  "title": "Online Progressive Peer Assessment-Based Project-Based Learning (PBL) Design",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Focused on project execution for solving social issues and peer feedback exchange, ensuring accessibility via smartphone-based online assessment tools.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can design and execute a project on real local community issues within six months using the PBL (Project-Based Learning) approach",
+    "Learners can provide structured feedback at three stages (planning/interim/final) for peers' project outcomes using peer assessment tools",
+    "Learners can iteratively improve their project outcomes three or more times by reflecting on peer assessment results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based Online Assessment Platform",
+      "Community Issue Case Database",
+      "PBL Worksheet Template",
+      "Peer Evaluation Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

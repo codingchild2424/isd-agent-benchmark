@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0269",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Gamification-Based Advanced Science Field Chinese Vocabulary Education Design",
+  "context": {
+    "prior_knowledge": "Comprehension of basic scientific terminology and vocabulary proficiency at HSK Level 4 or above",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Strengthening specialized science vocabulary learning through a Unity3D-based educational game platform in BYOD environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "They can analyze and utilize 500 advanced scientific Sino-Korean vocabulary items through decomposition/combination techniques.",
+    "Achieve over 85% engagement in gamified learning environments and cultivate self-directed vocabulary expansion skills.",
+    "Through project-based assessment over six months, learners can perform science paper translation simulation tasks, reflect on feedback three or more times, and achieve accuracy (over 90% correct terminology), readability (4 or higher out of 5 based on teacher evaluation), and scientific logic (over 80% compliance with the assessment checklist) in the final translation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Vocabulary Adventure game platform license",
+      "Domain-specific science vocabulary database",
+      "Zoom/Unity3D-compatible device"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

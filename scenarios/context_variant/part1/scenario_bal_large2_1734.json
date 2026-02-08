@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1734",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Data-Driven Reverse Design System for Large-Scale Copper Alloy Design",
+  "context": {
+    "prior_knowledge": "Foundational metallurgy and materials science knowledge, along with basic machine learning concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners Perform Projects Solving Actual Copper Alloy Design Problems Using Personal Devices, Submitting Design Reports and Presentations as Final Outputs",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze the correlation between copper alloy composition and performance using machine learning models",
+    "Learners can achieve over 80% prediction accuracy for P2C models by applying parameter optimization techniques using the GOOSE algorithm",
+    "Learners can reverse-engineer copper alloy compositions meeting given performance requirements using the IMLDS system"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Copper Alloy Dataset (1800+ Samples)",
+      "CNN/GOOSE Algorithm Practice Environment",
+      "Performance Evaluation Metrics Template (MAE, MSE, R²)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0011",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Design and Implementation of MOOC Lecture Video Styles",
+  "context": {
+    "prior_knowledge": "Basic learning theories and digital content development experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learner roles (students/job seekers), language domain expertise (intermediate), digital device-provided environment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can classify seven core styles of MOOC videos (speaker-centered/board-centered) and explain the educational effectiveness of each style.",
+    "Learners can select video styles tailored to learner characteristics (arts/humanities: speaker-centered, engineering/sciences: board-centered).",
+    "Learners can complete the actual MOOC lecture video production process through PBL (Project-Based Learning) collaborative projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Video production equipment",
+      "MOOC Platform Sample Data",
+      "Statistical Analysis Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

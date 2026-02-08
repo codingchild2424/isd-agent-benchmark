@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0336",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Data-Driven Persuasive Support System for Learning Habit Formation",
+  "context": {
+    "prior_knowledge": "Basic digital device proficiency and understanding of core social studies concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Environment providing visual feedback via a PSD model-based LA dashboard by tracking habit patterns through learning log analysis. Learners perform repetitive training in VR simulations resembling real learning contexts",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify their habit types (regular/irregular) with 80% accuracy through learning log data analysis after six months.",
+    "Learners can improve weekly learning plan adherence by 40% or more using persuasive elements (goal tracking, comparison features, etc.) of the LA dashboard.",
+    "Learners can recognize three or more inefficient habit patterns and develop correction plans through feedback based on the PSD model."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning behavior log collection system",
+      "PSD model-applied LA dashboard prototype",
+      "VR-based social studies simulation content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

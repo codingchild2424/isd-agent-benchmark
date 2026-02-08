@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6431-V",
+  "variant_type": "context_variant",
+  "title": "Foundations of Iterative Learning Control (ILC) for Linear Time-Varying System Tracking Control",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Foundational education for transitioning into mechanical engineering applications, including robotics control",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain fundamental principles of solving tracking problems in linear time-varying systems using ILC techniques",
+    "Learners can implement iterative learning controllers applying the Dα-type update law in MATLAB/Simulink environments",
+    "Learners can analyze ILC design conditions applicable to real systems through initial state learning techniques"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "MATLAB Simulation Tool",
+      "PDF Lecture Materials",
+      "Online Assessment System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

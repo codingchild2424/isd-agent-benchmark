@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3558",
+  "variant_type": "idld_aligned",
+  "title": "Workshop on Integrated Design of H∞ Tracking Control and Model-Free Q-Learning",
+  "context": {
+    "prior_knowledge": "Foundational knowledge of linear system control theory, understanding of discrete-time control concepts, and basic programming skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A blended learning environment combining smartphone-based VR simulations with offline workshops, emphasizing real-world industry case-based learning.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "The mathematical structures of H∞ control theory and Q-learning algorithms can be explained without system modeling",
+    "A step-by-step process is designed to implement the GARE (Game Algebraic Riccati Equation) solution using Q-learning",
+    "Control systems are optimized in a simulation environment under sustained engagement (PE) conditions",
+    "Control strategies applicable to real industrial problems are developed by adapting the F-16 short-period dynamics case"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR headset",
+      "Offline Calculator",
+      "Printed Algorithm Flowchart",
+      "Low-Spec Smartphone-Compatible Simulation App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

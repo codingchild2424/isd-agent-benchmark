@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5513",
+  "variant_type": "idld_aligned",
+  "title": "IoT Engineering Practical Leadership Education Based on OBE-CDIO Framework",
+  "context": {
+    "prior_knowledge": "Fundamental engineering concepts and understanding of IT systems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Establishment of a digital device-based practical learning environment, team IoT project execution, and operation of a feedback loop system",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Over 85% of learners can independently explain the IoT system design process according to the OBE-CDIO model",
+    "Teams iteratively develop and evaluate IoT solution prototypes reflecting real-world industry problems from participating companies at least three times",
+    "By the end of training, over 90% of learners demonstrate practical competency in connecting IoT technology applications to industrial contexts"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Raspberry Pi Kit",
+      "Sensor Module Set",
+      "Cloud Platform License",
+      "Industrial IoT Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

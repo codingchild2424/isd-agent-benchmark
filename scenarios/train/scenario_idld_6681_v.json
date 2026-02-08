@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6681-V",
+  "variant_type": "context_variant",
+  "title": "Collaborative Learning Design Utilizing Laptops in 1:1 Classroom Environments",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Designing collaborative language learning activities in a BYOD (bring-your-own-device) laptop environment. Conducting project-based learning utilizing diverse group formations (1:1, 1:2, 2:2)",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Complete language tasks through laptop-based collaborative activities in various group configurations (1:1, 1:2, 2:2)",
+    "Perform real-time peer feedback and collaborative document editing using digital tools",
+    "Creatively resolve technical and collaborative issues arising in 1:1 classroom environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Google Workspace (Docs, Slides), Collaborative Platforms (Miro, Padlet)",
+      "Offline Collaborative Worksheet Template",
+      "Language Learning Content Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

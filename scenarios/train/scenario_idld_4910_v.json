@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4910-V",
+  "variant_type": "context_variant",
+  "title": "Science Learning Competency Enhancement Program Using Generative AI",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Applying a blended learning environment (including two face-to-face workshops) for current practitioners.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the scientific experiment design process with over 80% accuracy using generative AI tools.",
+    "Learners can create and interpret scientific data analysis models using generative AI tools such as ChatGPT and MidJourney.",
+    "Learners can identify and manage the scope of AI utilization in scientific report writing with over 90% accuracy while adhering to generative AI ethics guidelines.",
+    "Learners can perform generative AI-based collaborative projects in blended learning environments and suggest improvements through peer evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AI-Driven Experimental Simulation Software",
+      "Access to Generative AI Platform API",
+      "Sample Scientific Data Analysis Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

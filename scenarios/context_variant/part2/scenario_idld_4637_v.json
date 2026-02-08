@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4637-V",
+  "variant_type": "context_variant",
+  "title": "Situated Design Model-Based Mathematics Education for Strengthening Practical Problem-Solving Competencies",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project implementing mathematical modeling solutions for real workplace problems, collaborative learning environment using personal devices (BYOD)",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design mathematical problem-solving strategies with over 80% accuracy by analyzing real-world work scenarios",
+    "Learners can present creative solutions for non-repetitive problems (e.g., budget optimization, risk analysis) at least three times according to situational design models",
+    "Learners can revise project deliverables at least twice incorporating peer feedback and achieve over 90% completion in final outputs"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "BYOD Devices (Laptop/Tablet)",
+      "LMS (Learning Management System)",
+      "Data Analysis Tools (Excel, Python, etc.)",
+      "Real-World Work Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

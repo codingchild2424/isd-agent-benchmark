@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0852",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Design-Based Research for Blended Engineering Laboratory Learning Curriculum",
+  "context": {
+    "prior_knowledge": "Familiarity with basic engineering concepts and experience using laboratory equipment",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Hybrid learning course combining e-learning materials and actual laboratory sessions for nanotechnology field experiments. Construction of blended learning environments using learners' personal devices (BYOD).",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain nanotechnology laboratory safety protocols and standard operating procedures (SOPs) with 90% accuracy.",
+    "Learners can develop prototypes to solve laboratory problems using the Design-Based Research (DBR) methodology at least twice.",
+    "Learners can analyze e-learning content and experimental data to write engineering problem-solving reports in APA format."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Laboratory equipment",
+      "E-learning platform",
+      "Multimedia Authoring Tool",
+      "Nanotechnology simulation software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

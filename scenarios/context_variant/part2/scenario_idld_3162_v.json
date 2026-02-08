@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3162-V",
+  "variant_type": "context_variant",
+  "title": "Business Practical Skill Enhancement: Building Explainable AI Models for Predicting Traffic Accident Severity",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for Corporate Management/HR Professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Development of a model classifying severity of fatalities/injuries/property damage into three levels using a multi-task deep learning framework",
+    "Extraction and visualization of core risk factors from prediction results by applying Layer-wise Relevance Propagation (LRP) techniques",
+    "Within one week, learners can identify three traffic accident risk factors in corporate field settings (e.g., warehouses, construction sites), establish one prevention strategy using an AI model (e.g., Vision AI), and write an interpretation report of approximately 500 characters."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Business Simulation Tool",
+      "HR Management System",
+      "Business Analytics Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Business/HR/Admin Support"
+}

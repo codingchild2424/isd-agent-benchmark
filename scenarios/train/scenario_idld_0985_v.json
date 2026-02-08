@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0985-V",
+  "variant_type": "context_variant",
+  "title": "TPACK-Integrated Instructional Design for Mobile-Based Research Methodology Education",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for enhancing language research competencies of professionals in medical, legal, and technical fields, conducted in smartphone-centric limited-technology environments. Applies project-based assessment and peer mentoring systems.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain core elements of qualitative research methodologies (sampling, data collection) with over 80% accuracy via a mobile platform within two weeks.",
+    "Learners can complete research design projects incorporating peer feedback, improving self-efficacy by over 30%.",
+    "Learners engage in critical-thinking-based research discussions at least twice weekly in mobile discussion forums."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Short video lecture (under 5 minutes)",
+      "Interactive quiz template",
+      "Peer Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

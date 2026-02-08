@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3841-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Competencies: MOOC Design and Classification Short-Term Programs Applying Diverse Teaching Methods",
+  "context": {
+    "prior_knowledge": "Fundamental digital literacy and language learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "A MOOC design framework based on five major instructional theories (connectivism, situativism, constructivism, cognitivism, behaviorism) can be explained",
+    "MOOC content can be systematically analyzed using a 12-dimensional classification system",
+    "A language education MOOC prototype can be developed by applying the 7Cs learning design model",
+    "Strategies can be proposed to reduce dropout rates in medium-scale MOOCs by over 20% through high-density learner support strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

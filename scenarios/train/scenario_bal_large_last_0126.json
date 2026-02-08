@@ -1,0 +1,39 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0126",
+  "variant_type": "balance_large_last",
+  "title": "Machine Learning-Based VOF Algorithm Design for Compressible Flow Simulation",
+  "context": {
+    "prior_knowledge": "Elementary fluid mechanics and numerical analysis knowledge, programming experience (Python/C++), and machine learning concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-oriented project-based learning in BYOD environments, utilizing personal devices for simulation development.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "They can explain the fundamental principles of the VOF-ML algorithm for solving compressible fluid dynamics problems.",
+    "They can implement a VOF-ML scheme for compressible Euler calculations using multi-material machine learning datasets.",
+    "They can design a compressible solver with symmetry-preserving techniques on orthogonal grids.",
+    "They can evaluate the accuracy of the VOF-ML scheme for various interfaces (sharp/Leapfrog/triple-point).",
+    "They can analyze the performance of the VOF-ML algorithm by comparing it with SLIC/Downwind methods."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Performance Computing Resources",
+      "VR Simulation Software",
+      "CFD Open-Source Tools (e.g., OpenFOAM)",
+      "Machine Learning Libraries (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

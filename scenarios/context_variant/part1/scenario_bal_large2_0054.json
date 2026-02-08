@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-0054",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Fundamentals of TWR-NOMA-Based IoT Network Performance Analysis: Technical Document Interpretation and Professional Report Writing (Language-Centric)",
+  "context": {
+    "prior_knowledge": "Basic wireless communication theory, overview of IoT systems, foundational statistics, technical document reading proficiency, basic report writing experience, comprehension and application of specialized terminology, academic writing principles (introduction-body-conclusion structure), and ability to identify logical flow in technical documents",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A practice-oriented educational course for corporate technology managers, focusing on improving report writing and presentation skills to clearly and professionally convey complex technical concepts (specialized terminology, objective descriptions, logical structures). Particularly emphasizes structured reading of technical documents and specialized terminology usage, with the goal of improving learners' writing abilities (accurate terminology, sentence structure, logical development)",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Based on technical documentation, clearly explain the basic components and operational principles of the TWR-NOMA system model using specialized terminology and systematically organize core terms.",
+    "Apply a mathematical model to analyze NOMA users’ error probability and transmission rates and present results in structured text (introduction-body-conclusion format).",
+    "Utilize power allocation and time-switching optimization strategies in system performance evaluations and write an analysis report with specialized terminology and precise expressions.",
+    "Within one week, learners will accurately describe the hierarchical parameter counts (e.g., weights per 4 gates in LSTM) and sequence processing methods (e.g., GRU’s reset/update gates) of three model architectures (LSTM, GRU, CNN) using technical terms. They will calculate MAPE (%) and RMSE values to compare prediction accuracy and write a 3-page expert report meeting the following criteria: 1) explicit parameter count formulas per model, 2) schematic representation of sequence processing mechanisms, 3) inclusion of MAPE/RMSE calculation processes, and 4) definition and application of specialized terminology.",
+    "Analyze the impact of co-channel interference on IoT network performance and write a report using specialized terminology and clear expressions (comparative/contrastive, cause-effect structures)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Simulation Software",
+      "Technical White Paper",
+      "Case Study Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0127",
+  "variant_type": "balance_teen_k12",
+  "title": "Personalized Learning-Based Nutrition Simulation Curriculum for [K-12]",
+  "context": {
+    "prior_knowledge": "Basic Knowledge of Biology and Chemistry",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Personalized nutrition content delivery using personal devices integrated with real-time feedback systems",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design personalized nutrition plans based on individual health data with 80% accuracy",
+    "Analyze and explain nutrient metabolism processes in 3D using VR simulations",
+    "Reduce nutrition concept application errors by 50% through real-time formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Nutritionist Collaboration System",
+      "Personal Health Data Collection Tool",
+      "VR Simulator",
+      "Personalized Learning Algorithm"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

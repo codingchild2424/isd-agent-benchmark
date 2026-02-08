@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2786",
+  "variant_type": "idld_aligned",
+  "title": "Instructional Design Workshop for Analyzing University Learning Media Usage Patterns",
+  "context": {
+    "prior_knowledge": "Introductory statistical analysis and experience with e-learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Research-focused course analyzing digital media utilization patterns in smartphone-based learning environments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can classify learner media usage data using latent class analysis (LCA) techniques.",
+    "Learners can explain differences in media utilization strategies between traditional and non-traditional learner types.",
+    "Learners can propose context-specific personalized instructional designs based on analytical results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LCA Analysis Software (Mobile-Compatible Version)",
+      "Learning Media Usage Survey Template",
+      "Case Study Dataset Sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4046-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Machine Learning Practice Competencies: Elementary Mathematics Problem-Solving Skills Using Flip Character Manipulatives",
+  "context": {
+    "prior_knowledge": "Basic computational skills and experience with simple problem-solving",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply a step-by-step problem-solving strategy (analysis-planning-execution-review) with 80% accuracy through flap-based tasks within four weeks.",
+    "Learners can independently solve real-world job-linked math problems (e.g., medical calculations, technical drawing interpretation) presented in VR simulations with 75% accuracy.",
+    "Learners demonstrate a two-level or higher improvement in critical thinking skills through formative assessment analysis of problem-solving logs (flap activity logs)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

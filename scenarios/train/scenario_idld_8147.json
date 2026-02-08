@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8147",
+  "variant_type": "idld_aligned",
+  "title": "Analysis of Virtual Classroom Effectiveness and Development of Improvement Strategies",
+  "context": {
+    "prior_knowledge": "Experience with fundamental online learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Analyzes learning effectiveness in virtual classroom environments for in-service practitioners and develops project-based solutions for real-world challenges.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "They can quantitatively analyze the gap between expected and actual educational outcomes in virtual classroom settings.",
+    "They can identify and prioritize key challenges such as network connectivity, learning environments, and resource shortages.",
+    "They can present virtual classroom improvement strategies feasible in smartphone-centric, resource-constrained environments as project deliverables."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Survey Tool",
+      "Open-Source Data Analysis Software",
+      "Online Collaboration Platform (Mobile-Compatible)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

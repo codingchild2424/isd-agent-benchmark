@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0770",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Mobile Media-Integrated Instructional Design: Blended Learning-Based Simulation/VR Courses",
+  "context": {
+    "prior_knowledge": "Foundational digital literacy and basic social studies concepts comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A blended learning environment utilizing learners' personal devices (BYOD). VR simulations implement social problem-solving scenarios.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can autonomously operate educational content by integrating mobile devices with cloud-based Learning Management Systems (LMS)",
+    "Learners can analyze real-world social scenarios through VR simulations and perform data-driven decision-making",
+    "Learners can improve project outcomes through real-time interaction with peers and instructors via mobile feedback systems"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Device-Compatible VR Software",
+      "Cloud-Based LMS Account",
+      "Wireless Network Infrastructure",
+      "Project Production Tools (e.g., Canva, Prezi)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

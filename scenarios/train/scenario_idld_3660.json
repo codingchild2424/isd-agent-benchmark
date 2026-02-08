@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3660",
+  "variant_type": "idld_aligned",
+  "title": "EEG (Electroencephalography) Practice-Based Professional Training Program",
+  "context": {
+    "prior_knowledge": "Basic Neuroscience and Medical Terminology Comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-centered education using real clinical cases with real-time data interpretation exercises via digital devices (EEG analysis software)",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify basic EEG waveform patterns with 80% accuracy",
+    "Learners can accurately report three or more key abnormal findings (e.g., seizure waves, slow waves) by analyzing real EEG recordings",
+    "Learners can appropriately apply 20 standard medical terms used in EEG interpretation to clinical contexts"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "EEG Simulator Equipment",
+      "Real-World Clinical Case Database",
+      "EEG Analysis Software License",
+      "Practical Electrode Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

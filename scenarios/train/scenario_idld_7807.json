@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7807",
+  "variant_type": "idld_aligned",
+  "title": "Diagnosis and Monitoring of Tinnitus Treatment: Machine Learning-Enhanced Science Project-Based Learning Course",
+  "context": {
+    "prior_knowledge": "Fundamental statistics, basic data analysis concepts, and Python programming experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Experimental data analysis and team-based project implementation using digital devices (tablets/laptops)",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can describe preprocessing techniques for applying ESA data collected from animal models to machine learning models.",
+    "Learners can identify frequency band characteristics related to tinnitus and visually analyze the effectiveness of EES treatment.",
+    "Learners can design and validate a tinnitus diagnostic classification system using SVM and SHAP models."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Jupyter Notebook",
+      "ESA Simulation Dataset",
+      "Gap-PPI Behavioral Experiment Video Materials",
+      "Collaboration Tools (Miro/Notion)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

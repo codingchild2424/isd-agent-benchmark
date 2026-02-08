@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3108-V",
+  "variant_type": "context_variant",
+  "title": "K-12 Artificial Intelligence Education: Role-Playing Game-Based Project Learning for Language Domains",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Experiential process of developing language-processing AI models through individual device utilization and team-based collaborative projects.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can recreate the data collection-representation-reasoning-optimization process of NLP-based AI models through a role-playing game.",
+    "Learners can explain the optimization principles of machine learning models through a graph-based loss function minimization simulation.",
+    "Based on an understanding of AI decision-making processes, learners can develop language domain application cases (e.g., chatbots, translators)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ML-RPG Educational Gaming Platform",
+      "NLP Dataset (Movie Reviews, News Articles, etc.)",
+      "Graph Visualization Tool (Google Colab, Matplotlib)",
+      "Collaborative Project Management Template (Notion, Trello)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

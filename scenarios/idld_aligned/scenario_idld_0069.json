@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0069",
+  "variant_type": "idld_aligned",
+  "title": "MOOC-based Java Programming Learning Engagement Enhancement Project",
+  "context": {
+    "prior_knowledge": "Basic programming knowledge and understanding of Java language syntax",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended learning environment combining face-to-face workshops and online MOOCs, emphasizing project-based learning with hands-on practice using personal devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners demonstrate learning-execution competencies by completing over 80% of practical assignments using a web-based IDE.",
+    "Learners complete and submit five or more real-world programming projects as a portfolio over a six-month course.",
+    "Learners participate in online discussion forums at least twice weekly, exchanging peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Codeboard web-based IDE",
+      "Java programming MOOC content",
+      "Online Collaboration Tool",
+      "Project Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

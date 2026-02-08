@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3794",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Remote Power System Experimentation Education",
+  "context": {
+    "prior_knowledge": "Grasp of basic electrical engineering theory and understanding of power system components",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Simulation-based remote lab education to overcome limitations of in-person experiments post-COVID-19. Strengthening practical power system experimentation competencies applicable to workplace settings for learners in managerial/leadership roles within enterprises.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Independently perform power flow analysis experiments using the PowerWorld simulator",
+    "Explain power system fault conditions and protection coordination concepts based on simulation results",
+    "Analyze experimental data and write field-applicable reports through team-based PBL (Problem-Based Learning)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "PowerWorld Simulator License",
+      "Pre-built Experiment Scenario Package",
+      "Online Collaboration Tools (MS Teams/Zoom)",
+      "Digital Instructional Manual (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1033",
+  "variant_type": "idld_aligned",
+  "title": "Project-Based Education for Practical Nonlinear System Observer Design",
+  "context": {
+    "prior_knowledge": "Basic control theory and linear systems comprehension, differential equations fundamentals, and simple programming experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Designs practical case-focused projects implementable in smartphone-centric environments. Includes hands-on experience with observer design using neural network-based approaches.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the design principles of a KKL observer that accounts for time-delay measurement impacts.",
+    "Learners can implement a state-transition-based observer chain design process as a project.",
+    "Learners can apply neural network-based observer parameter estimation methods in experimental settings.",
+    "Learners can validate observer robustness against measurement noise and approximation errors using evaluation methodologies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible simulator",
+      "Open-source neural network library",
+      "Nonlinear system modeling example dataset",
+      "Delayed measurement effect educational animation materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

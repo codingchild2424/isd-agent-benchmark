@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-5429-V",
+  "variant_type": "context_variant",
+  "title": "Integrated Design-Analysis Strategy for Language Learning to Mitigate Self-Directed Online Learning (SPOL) Barriers",
+  "context": {
+    "prior_knowledge": "Advanced language domain expertise (grammar systems, discourse analysis), practical application experience (project-based language task execution)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Language education for practitioners in limited-technology environments, conducted via smartphones, with project-based assessments (job-related text analysis, workplace communication simulations).",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners will diagnose weekly language learning patterns (reading/writing frequency, vocabulary acquisition trends) with 80% accuracy using learning analytics tools.",
+    "Learners will establish and execute self-directed language practice plans (pronunciation training, situational conversation exercises) in a VR simulation environment.",
+    "Learners will experience a process of improving their learning strategies twice or more based on real-time language learning feedback (grammar error analysis, expression diversity evaluation).",
+    "Learners will collect and analyze interaction data (meeting minutes, chat logs, feedback surveys) with peer learners during a team project, derive three collaboration improvement strategies (communication efficiency, feedback system, role distribution), and apply at least two of them in the next project cycle."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Learning Analytics Dashboard",
+      "Offline VR content packaging system",
+      "Smartphone-Based Collaboration Tool",
+      "Mini-project template for tracking learning outcomes"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4481",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Short-Intensive Course for Strengthening Elementary Mathematics Concepts",
+  "context": {
+    "prior_knowledge": "Basic computational skills and understanding of elementary mathematics concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended education program for corporate managers/leaders aged 40+ to reinforce mobile device-based math concept review and practical application competencies in BYOD environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will accurately understand core concepts of elementary mathematics (fractions, decimals, ratios, etc.) with over 90% accuracy through mobile learning materials.",
+    "Learners demonstrate concept application skills by achieving an average score of 80 or higher on mobile quiz systems in a blended environment.",
+    "By the end of the course, learners will be able to apply at least three real-world problem-solving cases provided by the mobile platform to practical scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Application",
+      "Offline workbooks",
+      "LMS-Integrated Data Analytics Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

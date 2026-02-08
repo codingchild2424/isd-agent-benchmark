@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4397-V",
+  "variant_type": "context_variant",
+  "title": "Language Learning Process Design in Remote PBL Environments",
+  "context": {
+    "prior_knowledge": "Basic Language Proficiency and Experience with Online Learning",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Short-term language project course in a smartphone-centric, limited-technology environment. Most learners are job seekers requiring practical language proficiency for real-life applications",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can complete language project deliverables using mobile-based collaboration tools",
+    "Learners can fulfill peer evaluation and feedback processes in a PBL environment at over 80% compliance",
+    "Learners can produce communication scenarios in the target language using digital media (audio/video) at least three times"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Open-source collaboration tools",
+      "Digital Content Production Template",
+      "Voice/video capture app"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

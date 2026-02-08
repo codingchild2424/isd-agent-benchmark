@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6027-V",
+  "variant_type": "context_variant",
+  "title": "Failing Forward: Attitude Improvement Program for Science Learners",
+  "context": {
+    "prior_knowledge": "Foundational science knowledge and understanding of experimental processes",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Primarily utilizing smartphone-based learning activities for office/administrative working students",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can write reflective essays applying a growth mindset perspective by analyzing failure cases.",
+    "Learners enhance their ability to reinterpret failure as a learning opportunity through peer assessment activities.",
+    "Learners develop response strategies for errors occurring in the scientific experimental process using the predict-explain cycle model."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Peer Citation Evaluation Template",
+      "Growth Mindset Myth Casebook",
+      "Science Experiment Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

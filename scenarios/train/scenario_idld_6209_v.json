@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6209-V",
+  "variant_type": "context_variant",
+  "title": "Foundational Analysis of Learning Environment Awareness and Preference Alignment",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A teaching competency enhancement program for pre-service or in-service teachers. Foundational training to analyze student-centered environments when designing language learning processes for career preparers in medical/legal/technical fields",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate",
+    "learner_education": "University"
+  },
+  "learning_goals": [
+    "Perception levels of learning environment characteristics (visual materials, interaction modes, assessment types, etc.) can be measured on a 4-point Likert scale.",
+    "Preferences for each learning environment characteristic can be derived with over 70% response accuracy through survey items.",
+    "Based on the analysis of the alignment between awareness and preferences, learners can propose at least three improvements for the learning environment."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized Survey Tool",
+      "Basic Statistical Analysis Templates",
+      "Zoom Screen Sharing Feature"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

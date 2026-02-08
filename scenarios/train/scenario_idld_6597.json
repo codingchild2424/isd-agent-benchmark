@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6597",
+  "variant_type": "idld_aligned",
+  "title": "Demand Forecasting Simulation-Based Learning for Urban Railway Systems",
+  "context": {
+    "prior_knowledge": "Understanding of basic statistics and data analysis concepts, along with general knowledge of urban transportation systems",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-oriented education using VR simulations in smartphone-centric limited-technology environments, with learning effectiveness monitored via formative assessments.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze and explain temporal and spatial influencing factors in urban rail demand forecasting.",
+    "Learners can visualize passenger inflow/outflow patterns in virtual rail networks using simulation tools.",
+    "Learners can build a basic demand forecasting model by applying multidimensional data analysis techniques."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software",
+      "Smartphone-compatible analysis tool",
+      "Spatiotemporal data visualization materials",
+      "Introductory machine learning tutorial"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

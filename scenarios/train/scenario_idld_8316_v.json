@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8316-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Online-Based Mathematics Education Leadership Development Program",
+  "context": {
+    "prior_knowledge": "Basic Mathematics Education Theory and Foundational Digital Tool Application",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design and facilitate team activities for mathematics education projects using online collaboration tools (e.g., Padlet, Zoom breakout rooms).",
+    "Learners can create creative digital content (animations, simulations) to explain mathematical concepts in interactive online learning environments.",
+    "Learners can improve teaching competencies through peer assessment and self-reflection on PBL-based online mathematics education modules."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

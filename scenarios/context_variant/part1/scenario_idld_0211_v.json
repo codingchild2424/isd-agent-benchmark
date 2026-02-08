@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-0211-V",
+  "variant_type": "context_variant",
+  "title": "Systematic Instructional Design Program for Strengthening Library Information Literacy",
+  "context": {
+    "prior_knowledge": "Possession of basic academic information search experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Situation requiring advanced information retrieval skills for professionals in medical/legal/technical fields to perform research and tasks. Need for blended learning design conducted in a BYOD environment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can extract target materials with 90% accuracy using advanced search strategies in discipline-specific academic databases.",
+    "Learners can evaluate the credibility of academic materials with 85% accuracy by applying information critique criteria",
+    "Learners can construct reference lists matching research project topics in MLA/APA format with 95% accuracy",
+    "Learners can produce research reports free from academic misconduct by leveraging digital literacy competencies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Library-Subscribed Academic Database Access",
+      "Online collaboration tools (Google Workspace)",
+      "Information Evaluation Checklist Template",
+      "Digital Reference Management Software (e.g., Zotero)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

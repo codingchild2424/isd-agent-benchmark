@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1386",
+  "variant_type": "idld_aligned",
+  "title": "First-Person Perspective Emergency Medical Technician Simulation Training",
+  "context": {
+    "prior_knowledge": "Fundamental life support skills and emergency equipment operation",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Mobile learning support via QR codes and formative assessment-centered feedback system operation",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify core symptoms with 85% accuracy using first-person perspective videos during emergency patient assessments.",
+    "Learners can perform airway maintenance and CPR procedures in a VR simulation environment with three consecutive successful attempts.",
+    "Learners can self-directly learn complex equipment operations within 10 minutes using a QR code-based access system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "First-person perspective VR equipment",
+      "Mobile Devices",
+      "QR code markers",
+      "Emergency Response Simulation Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

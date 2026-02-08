@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0788",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] IMS LD-Based Social Studies E-Course Automatic Generation Design Workshop: Exploring Citizenship, Systems, and Relationships",
+  "context": {
+    "prior_knowledge": "Basic concepts of IMS LD, ELIDL language structure, comprehension of content packaging standards, and foundational social studies concepts (citizenship, institutions, relationships, historical events, geographic spaces, political-economic systems)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening customized curriculum design capabilities linked to social studies for professionals in medical, legal, and technological fields: Developing educational content reflecting the social impact of each field (medical ethics, legal systems, technological networks).",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design and implement a social studies pedagogy template (history, geography, economics) using ELIDL language, integrating inquiry activities for citizenship development and institutional analysis.",
+    "Within one week, learners can implement three social inquiry learning scenarios (historical event analysis, geographical spatial relationship exploration, economic system comparison) compliant with IMS LD standards via an automated system (e.g., OpenAI API) and achieve ≥80% suitability scores in peer and expert evaluations.",
+    "Learners can map social studies ontologies (citizenship, institutions, relationships) with content packages (text, multimedia) and design/prototype ≥3 E-Course modules (including objectives, activities, assessments) within one week, each incorporating sociocultural context analysis."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ELIDL editor",
+      "IMS LD validation tool",
+      "Learning resource repository",
+      "Web programming sample content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

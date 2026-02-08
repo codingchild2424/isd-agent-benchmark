@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5749-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Systems Design Competencies: Reinforcement Learning-Based Personalized Cancer Treatment Strategy Workshop",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Explain the decision-making processes of reinforcement learning models using clinical data",
+    "Analyze case studies demonstrating how Q-learning-based algorithms are applied to personalized cancer treatment",
+    "Within one week, learners implement treatment strategy simulations for three medical scenarios using mobile tools (e.g., MIT App Inventor) in limited-tech environments (Android Go, low-spec tablets), submitting deliverables that meet ≥4/5 rubric criteria (e.g., functionality, realism, usability)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

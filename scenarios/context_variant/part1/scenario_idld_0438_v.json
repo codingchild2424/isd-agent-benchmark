@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0438-V",
+  "variant_type": "context_variant",
+  "title": "Self-Cognitive Health Analysis for the Elderly: Data-Driven Project-Based Learning",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Application of mathematical modeling to elderly health management through analysis of actual health datasets.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can build a senior health status classification system using a machine learning model (XGBoost).",
+    "Learners can quantitatively evaluate the importance of factors influencing health awareness through SHAP value analysis.",
+    "Learners can interpret nonlinear relationships between symptom intensity and health awareness using data visualization tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Public Health Dataset",
+      "Jupyter Notebook Environment",
+      "Collaboration tools (Slack/Notion)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

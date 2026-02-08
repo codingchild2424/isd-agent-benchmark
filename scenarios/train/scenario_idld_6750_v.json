@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6750-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Instructional Design Practical Competencies: Blended Mathematics Instruction Design Based on Digital Learning and Assessment",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Competency enhancement program for professionals in education/teaching/learning fields",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Participants can design real-time formative assessment activities using digital platforms (Google Classroom, KakaoTalk Open Chat).",
+    "Participants can develop two or more instructional material sets combining 5–10-minute explanatory videos on three or more math concepts (e.g., fractions, equations, geometry) and interactive Google Form worksheets (with five+ items) in a blended learning environment (online+offline) within a six-month course, achieving an 80%+ suitability score in peer and expert reviews.",
+    "Participants can build a mobile-accessible (smartphone/tablet) auto-grading system using Python/Django within six months, grade three question types (multiple-choice, short-answer, true/false) with 90%+ accuracy, and develop a three-tier personalized feedback routine (immediate feedback → weekly report → supplementary material recommendation) based on learner-specific error pattern analysis.",
+    "Participants analyze digital learning data to provide customized supplementary materials (math problem banks) for individual learners."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "LMS platform",
+      "Authoring Tool",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Education (Teaching & Learning)"
+}

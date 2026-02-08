@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0790",
+  "variant_type": "idld_aligned",
+  "title": "ChatGPT-Enhanced Programming Problem-Solving Workshop: Strengthening Technical Text Analysis and Logical Expression",
+  "context": {
+    "prior_knowledge": "Understanding of basic programming concepts (variables, conditionals, loops) and experience with Python or JavaScript, ability to analyze technical texts, grammatical structures, and specialized terminology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A practice-centered course where professionals acquire programming skills necessary for task automation, solving diagnostic problems through collaboration with ChatGPT. Emphasis is placed on interpreting code error messages, technical writing, logical expression, and the use of specialized terminology.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Cultivate the ability to resolve code errors with ≥80% accuracy through ChatGPT interaction and enhance technical text interpretation skills.",
+    "Correct logical errors in generated code within ≤3 debugging attempts and document the problem-solving process using structured language.",
+    "Improve technical report writing and specialized terminology communication skills based on ChatGPT interaction records (console messages, feedback)."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "ChatGPT API Access Permissions",
+      "VS Code or Jupyter Notebook Installation Guide",
+      "Diagnostic Problem Set PDF",
+      "Code Template Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

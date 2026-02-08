@@ -1,0 +1,44 @@
+{
+  "scenario_id": "BAL-TEEN-1031",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Organic Chemistry Foundational Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Foundational general chemistry knowledge (atomic structure, chemical bonding, intermolecular interactions)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Program for non-majors to systematically master core organic chemistry concepts, combining online theory with offline lab sessions and emphasizing structural similarities and conceptual connections",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can observe functional similarities in molecular structures and classify them with 80% accuracy",
+    "Learners can explain and diagram reaction mechanisms of organic compounds in three or more steps",
+    "Learners can analyze how molecular structural differences affect reactivity with 70%+ explanatory power",
+    "Learners can infer functional groups by interpreting IR/UV spectral data",
+    "Learners can explain acid-base reactions in relation to pKa values",
+    "Learners can predict stereochemical configurations of reaction products by applying stereochemical concepts",
+    "Learners can comparatively analyze how reaction conditions (temperature, solvent) influence reaction pathways",
+    "Learners can design organic synthesis routes as logical workflows of three or more steps",
+    "Learners can critically evaluate reaction mechanisms based on experimental results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D molecular modeling software",
+      "Virtual Laboratory Platform",
+      "Response Simulation Tool",
+      "Organic Chemistry Reaction Card Set",
+      "Spectral Analysis Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

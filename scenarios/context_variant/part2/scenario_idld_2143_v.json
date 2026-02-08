@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2143-V",
+  "variant_type": "context_variant",
+  "title": "Structural Equation Modeling-Based Instructional Design for Enhancing Learning Approaches and Self-Efficacy in Design Education",
+  "context": {
+    "prior_knowledge": "Basic design theory and practical experience, foundational statistics knowledge (optional)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Establishment of digital tool-based environments and operation of project-based feedback systems",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze their learning approaches (ALD) using survey-based partial least squares structural equation modeling (PLS-SEM)",
+    "Learners can diagnose strengths/weaknesses and develop improvement plans through Self-Efficacy in Learning Design (SELD) scale assessments",
+    "Learners can enhance self-efficacy by over 20% when applying deep learning strategies to design projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Validated ALD/SELD Questionnaire",
+      "PLS-SEM Analysis Software License",
+      "Design Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

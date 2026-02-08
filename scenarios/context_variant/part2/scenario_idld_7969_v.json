@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7969-V",
+  "variant_type": "context_variant",
+  "title": "IoT-Based Mechatronics Design and Applications",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Provides practical solutions for hands-on training in smartphone-centric, limited-technology environments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "One can explain the design process of IoT mechatronics systems using the MECF framework.",
+    "One can build a measurement system for eight weather variables based on the MEIoT weather station case.",
+    "One can perform real-time data visualization and analysis using the GUI-MEIoT platform.",
+    "One can propose smart environmental applications by leveraging cloud-based data integration technologies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Low-Cost IoT Sensor Kit",
+      "Cloud Data Visualization Tool",
+      "Virtual Simulation Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

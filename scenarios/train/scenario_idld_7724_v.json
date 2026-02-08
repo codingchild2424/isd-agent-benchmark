@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7724-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Mini-Case Learning for Drug Therapy Interactions",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Interactive case-based learning program conducted in a smartphone-centric limited-technology environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain treatment principles for major diseases (degenerative arthritis/gout) with 90% accuracy.",
+    "Through interactive mini-cases, learners consider patient-specific factors (age, medical history) in drug selection with over 80% accuracy.",
+    "Via project-based assessments, learners can propose strategies for managing drug interactions in real clinical scenarios."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible Mobile Learning Platform",
+      "Interactive Mini-Case Database",
+      "Weekly Learning Progress Tracking Sheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0647-V",
+  "variant_type": "context_variant",
+  "title": "Student-Centered Mobile Mathematics Microlearning Course Design",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A mathematics application course for undergraduate professionals in medical, legal, and technical fields. Involves participatory design to develop mobile-optimized content reflecting learner needs and conducts project-based assessments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can propose educational requirements by participating in participatory design processes at over 80% engagement in mobile environments.",
+    "Learners can derive three or more mathematical problem-solving strategies through peer feedback and teacher collaboration.",
+    "Learners can develop one or more applicable mathematical models for real-world tasks (e.g., medical data analysis, technical calculation problems) via project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Interactive Mathematics Simulation Tool",
+      "Real-Time Collaboration Platform (e.g., Padlet)",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

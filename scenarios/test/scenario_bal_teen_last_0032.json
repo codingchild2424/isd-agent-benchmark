@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-LAST-0032",
+  "variant_type": "balance_teen_last",
+  "title": "Simulation-Based Training for Boredom Management Strategies in Second Language Learning",
+  "context": {
+    "prior_knowledge": "Basic English communication skills and fundamental understanding of learning motivation management",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Interactive learning environment using smartphone-based VR simulations, providing real-time feedback via formative assessments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify three or more situations that induce boredom in simulation environments and implement coping strategies.",
+    "Learners can explain how boredom affects language acquisition (e.g., reduced concentration, impaired memory retention) through VR scenarios.",
+    "Learners can analyze causes and impacts of boredom experienced during learning using self-assessment tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Equipment",
+      "Boredom measurement survey template",
+      "Interactive language learning scenario database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

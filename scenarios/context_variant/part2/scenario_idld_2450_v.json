@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2450-V",
+  "variant_type": "context_variant",
+  "title": "Online Intensive Education Course in Restorative Dentistry",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended process combining real-time video lectures and asynchronous learning conducted in a smartphone-centric, limited-technology environment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Understand and apply the latest clinical techniques in restorative dentistry to practical cases",
+    "Explain key elements to consider when developing a comprehensive restorative treatment plan",
+    "Describe step-by-step the restorative design process using digital dentistry technologies"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Zoom Account",
+      "Digital textbook (PDF)",
+      "3D dental model image library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

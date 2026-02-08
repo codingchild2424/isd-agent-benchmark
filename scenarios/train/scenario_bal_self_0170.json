@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-0170",
+  "variant_type": "balance_self_directed",
+  "title": "Function Learning Design Through Visual Representation (Self-Directed)",
+  "context": {
+    "prior_knowledge": "Basic algebra and graph interpretation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course for professionals in medical, legal, and technical fields, strengthening real-world problem-solving abilities through enhanced visual representation of functions.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can convert between graphical, tabular, and contextual representations of functions.",
+    "Learners can visually analyze and predict changes in functions using dynamic geometry software",
+    "Learners can explain core concepts of functions (domain, codomain, and mapping relationships) through visual representations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Desmos or GeoGebra Licenses",
+      "Zoom Account",
+      "Online collaboration tools (e.g., Google Jamboard)",
+      "Pre-Built Function Visualization Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3875-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Learner-Centered Instructional Design for Online Computer Science Education",
+  "context": {
+    "prior_knowledge": "Introductory programming concepts and classroom-based educational experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners Create a Four-Week Lesson Plan Systematically Explaining at Least Three Computer Science Foundational Concepts (Algorithms, Data Structures, etc.) Using Online Educational Tools (Google Classroom, Moodle, etc.) and Deliver a Lesson Demonstration Meeting at Least Four of the Five Peer Evaluation Rubric Criteria",
+    "Learners develop problem-based educational modules through collaborative projects with peer teachers and mentors",
+    "Learners establish self-directed learning plans and maintain ≥90% participation rates on the LMS platform"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

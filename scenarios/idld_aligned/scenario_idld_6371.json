@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6371",
+  "variant_type": "idld_aligned",
+  "title": "Machine Learning-Based Prediction Project for Fracture Toughness of Aluminum Alloys",
+  "context": {
+    "prior_knowledge": "Foundational materials science, intermediate programming comprehension, and basic machine learning concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-centered course for pre-service teachers to cultivate real-world industrial problem-solving skills. Utilizes digital devices and open-source ML tools.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Can build an aluminum alloy fracture toughness prediction system using SVR, KNN, XGBoost, and ANN models",
+    "Can evaluate model generalization performance by applying k-fold cross-validation techniques",
+    "Can analyze and improve prediction model accuracy using R², RMSE, and MAPE metrics"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based machine learning libraries (scikit-learn, TensorFlow/Keras)",
+      "Aluminum alloy dataset (composition-property mapping materials)",
+      "Jupyter Notebook Environment",
+      "Google Colab or similar cloud platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

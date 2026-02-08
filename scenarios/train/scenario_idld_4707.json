@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4707",
+  "variant_type": "idld_aligned",
+  "title": "Corporate Financial Risk Warning Model Design and Application Project",
+  "context": {
+    "prior_knowledge": "Basic statistical analysis, fundamental financial concepts, and experience in programming (Python)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Establishes data analysis environments using digital devices, providing real corporate financial data samples",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Analysis of corporate financial status by applying knowledge graph-based financial risk factor extraction methods.",
+    "Understanding the STDE-FG model structure and implementing a basic prediction system using Python libraries.",
+    "Reduction of prediction error rates by 20% or more by applying accuracy improvement techniques during model validation.",
+    "Preparation of a proposal for corporate financial risk management strategies based on project outcomes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Corporate Financial Database Sample",
+      "Python Development Environment",
+      "Jupyter Notebook",
+      "TensorFlow/PyTorch libraries"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0391",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Simulation-Based Language Mastery Learning: Short-Intensive Course Applying Distributed Practice",
+  "context": {
+    "prior_knowledge": "Fundamental language proficiency and experience with digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners participate in simulation activities using personal devices and receive scenario-based training similar to real language use situations. Must meet proficiency standards through formative assessments with immediate feedback to advance to the next stage",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can use appropriate linguistic expressions for daily conversational contexts with over 80% accuracy in a simulated environment",
+    "Learners engage in repeated spaced practice sessions until achieving at least 85% proficiency in target language functions",
+    "Over 90% of learners report increased confidence in language use through self-assessment at course completion"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Simulation Software License",
+      "Voice Recording Equipment",
+      "Conversational Scenario Card Set",
+      "Tablet for Feedback Provision"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

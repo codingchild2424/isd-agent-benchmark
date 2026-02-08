@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0979",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Digital Science Education Design Workshop: Smartphone-Based Collaborative Projects",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and fundamental smartphone usage skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course aiming to strengthen digital science education design capabilities in smartphone-centric restricted technology environments. Cultivates collaborative e-learning tool competencies applicable to authentic science education scenarios",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Using smartphone-based collaboration tools (Google Docs, Padlet, etc.), learners design one digital science education content piece (3-minute video or infographic) and complete a production process meeting ≥3 of 5 peer evaluation rubric criteria",
+    "Cultivation of the ability to establish project improvement plans through peer feedback systems.",
+    "Within one week, learners develop a prototype web platform for science experiment simulations executable in limited technical environments (low-spec PCs, unstable internet), meeting the following standards: 1) implementation of ≥3 basic science experiments (density, electric circuits, photosynthesis), 2) passing usability tests by ≥5 peer evaluators, 3) inclusion of offline mode support"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Mobile Cloud Storage",
+      "Collaborative Messenger App",
+      "Free Digital Tool Tutorial"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

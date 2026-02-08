@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0944",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Mobile Microlearning Course for Strengthening Critical Information Literacy Competencies",
+  "context": {
+    "prior_knowledge": "Foundational information retrieval skills and adaptability to digital environments",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Systematic information literacy development program for science job seekers, featuring self-directed mobile learning and formative assessment feedback systems",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners apply judgment criteria to evaluate the credibility of scientific information with over 80% accuracy",
+    "Learners generate at least three or more critical questions while analyzing the credibility of information sources",
+    "Learners can present three or more counterexamples to a given scientific claim (e.g., climate change cause debates) and write an argument structure (introduction-body-conclusion) of approximately 500 characters including alternative interpretations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Scientific Domain Information Source Database",
+      "Interactive Quiz Template",
+      "Case analysis worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

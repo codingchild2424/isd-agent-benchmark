@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0387",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Mathematics Learning Design Through a Socio-Ecological Approach: An Integrated HRD and ISD Process",
+  "context": {
+    "prior_knowledge": "Basic mathematical concepts (high school level)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Content optimized for smartphone-based learning environments, emphasizing learning experiences through social interaction",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply a socio-ecological model to design mathematical problem-solving strategies",
+    "Learners perform three or more code review cycles using peer feedback systems (e.g., GitHub Pull Request, Peergrade) and achieve ≥80% scores in feedback incorporation evaluation rubrics (clarity, feasibility, creativity) to improve a math-learning software prototype",
+    "Learners enhance mathematical thinking skills through individual-group interactions in online learning environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Friendly LMS",
+      "Collaborative Learning Tools",
+      "Asynchronous discussion board",
+      "AR-based Geometry Learning App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

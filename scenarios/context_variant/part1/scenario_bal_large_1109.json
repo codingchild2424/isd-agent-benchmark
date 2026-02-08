@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1109",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Development of Techniques for Measuring Student Engagement and Motivation in Online Mathematics Microlearning",
+  "context": {
+    "prior_knowledge": "Foundational mathematics knowledge (calculus-level) and experience using online learning platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short-term intensive applied calculus course conducted through 15-minute mobile device-based modular learning",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can measure online learning engagement metrics with 85% accuracy using the EDLI (Emergence, Duration, Latency, Interval) framework",
+    "Learners can improve learning persistence rates by 20% by designing at least three motivation strategies in mobile learning environments",
+    "Learners can visualize individual participation patterns using learning data analysis tools and propose customized feedback solutions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Analytics Tool",
+      "Mobile learning content authoring tool",
+      "EDLI Evaluation Manual",
+      "Learning Data Collection Script"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0528",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Rural University Virtual Synchronous Continuous Professional Development (CPD) Science Inquiry Webinar Course: Virtual Experiments and Evidence-Based Analysis",
+  "context": {
+    "prior_knowledge": "Basic science knowledge (experimental design, data interpretation, variable control) and entry-level expertise in relevant fields (medical/legal/technical). Fundamental understanding of the scientific inquiry process (hypothesis-experiment-analysis-conclusion) and experience using experimental measurement tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-degree adult learners in rural areas with low-spec internet/BYOD conditions. Webinar-based short-term intensive courses addressing post-COVID remote education needs. Includes virtual lab simulations (variable manipulation, result prediction) and evidence-based discussions (data comparison, peer verification) to strengthen scientific inquiry. Learners solve real-world cases using scientific analysis tools (graph generators, statistical calculators)",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Participants can systematically explain three latest research trends in science (e.g., climate change modeling, gene-editing technology, nanomaterial development) alongside scientific inquiry methodologies (hypothesis setting, controlling independent/dependent variables, optimizing experimental design) through webinar participation.",
+    "Participants utilize real-time interaction features (chat, polls, etc.) of webinars via mobile devices with over 90% engagement and actively participate in data collection processes for scientific hypothesis verification (quantitative observation recording, digital measurement tools).",
+    "Within one week, participants complete a project-based assessment, submitting a 3-page case report applying scientific knowledge acquired from webinars (experimental design, statistical data analysis, evidence-based conclusions) to one of their professional fields (medical/legal/technical). The report must include three or more evidence materials (experiment records, data visualization graphs, field application photos, etc.)."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Free online webinar platform",
+      "Social media-based streaming system",
+      "Low-bandwidth optimized content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

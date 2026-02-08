@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8526-V",
+  "variant_type": "context_variant",
+  "title": "Self-Directed Mathematics MOOC: Advanced Learning Design Utilizing Online Discussions",
+  "context": {
+    "prior_knowledge": "High school-level mathematics basics and intermediate applied mathematics knowledge in vocational fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Asynchronous learning environment for strengthening practical mathematics competencies for professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can independently analyze job-related mathematical problems and solve them by utilizing peer feedback from discussion boards at least 80% of the time",
+    "Perform meaningful interactions (replies, questions, comments) at least twice weekly on online discussion boards to enhance collaborative learning skills",
+    "Plan and manage self-directed learning schedules to complete at least 90% of all learning modules (12 theory videos, 15 quizzes, 6 discussion assignments) within the 4-week course"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform (with built-in discussion board functionality)",
+      "Occupation-Specific Mathematics Case Database",
+      "Video Production Tools (e.g., Camtasia)",
+      "Automated Grading Quiz System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

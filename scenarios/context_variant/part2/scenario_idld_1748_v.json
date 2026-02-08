@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1748-V",
+  "variant_type": "context_variant",
+  "title": "Programming Practical Competency Enhancement: Reinforcement Q-Learning-Based H∞ Control Problem-Solving Workshop",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "One can calculate the optimal disturbance attenuation level in H∞ controllers for DLMJSs using reinforcement Q-learning algorithms.",
+    "When designing data-driven control policies, one can analyze system stability by applying the Linear Matrix Inequality (LMI) approach.",
+    "One can implement and evaluate the performance of a Q-learning-based controller targeting real industrial system models (e.g., DC motors)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

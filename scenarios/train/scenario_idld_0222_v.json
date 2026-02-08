@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0222-V",
+  "variant_type": "context_variant",
+  "title": "Robot-Assisted Project-Based English Learning Design",
+  "context": {
+    "prior_knowledge": "Basic English Communication Skills and Understanding of Middle School-Level Mathematics Concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Project involving explaining mathematical problem-solving processes in English through interaction with robots. Blended learning environment utilizing personal devices (BYOD).",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "The learner creates a 3-minute presentation explaining the mathematical problem-solving process in English.",
+    "The learner performs a role-play using 20 math-related terms in context-specific scenarios through dialogue with a robot.",
+    "Through group projects, the learner produces and presents one video explaining math concepts (with English subtitles)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "English learning support robot (1 unit)",
+      "Robot control software",
+      "English Mathematics Glossary",
+      "PBL Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

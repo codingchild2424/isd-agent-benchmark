@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3524",
+  "variant_type": "idld_aligned",
+  "title": "MOOC-Based Advanced Mathematics Learning Environment Design",
+  "context": {
+    "prior_knowledge": "College-level foundational mathematics knowledge and practical application experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Project-Based Learning Emphasizing Work Relevance for Current Practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can enhance mathematical problem-solving skills by over 80% through systematic instructor feedback (weekly video comments) on a MOOC platform.",
+    "Learners cultivate the ability to explain complex mathematical concepts through collaborative problem-solving activities with peer learners (participating in discussion forums twice a week).",
+    "Learners develop and apply strategies (utilizing peer assessment systems) to maintain social connectedness in non-face-to-face environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Collaboration Tools (Discussion Boards, Wikis)",
+      "Interactive Math Simulation Tool",
+      "Automated grading system",
+      "Asynchronous Video Lecture Production Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

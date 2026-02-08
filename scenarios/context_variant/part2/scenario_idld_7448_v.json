@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7448-V",
+  "variant_type": "context_variant",
+  "title": "Optimizing Online Learning via Affect-Based Pedagogical Agents and Metacognitive Promotion",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short-Term Training Program for In-Service Professionals to Enhance Beginner-Level Scientific Expertise in BYOD Settings, Featuring Emotion-Based Teaching Agent Interactions and Metacognitive Strategy Application via Personal Devices",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can recognize and regulate positive/negative emotions experienced during learning through feedback from emotion-based instructional agents",
+    "Learners can establish and implement self-directed learning strategies through metacognitive prompting questions (e.g., \"How can this concept be applied to your work?\").",
+    "Learners can understand 10 scientific concepts with over 80% accuracy by combining emotional regulation and metacognitive strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Affect-aware instructional agent platform",
+      "Metacognition-promoting question template",
+      "Physiology data collection equipment (optional)",
+      "Learning Outcome Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

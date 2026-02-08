@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5482-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Software Development Practical Competencies: EML-Based Science Learning Design Masterclass",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can visually design the learning flow of a science experiment module using IMS LD",
+    "Learners implement three or more interaction types (task submission/feedback/collaborative discussion) in mobile environments",
+    "Within one week, learners design an EML (Edge Machine Learning) model according to given requirements (image classification), convert it to TensorFlow Lite, and complete a project evaluable for execution on a Raspberry Pi 4 with 85% or higher accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

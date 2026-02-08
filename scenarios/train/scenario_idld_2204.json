@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2204",
+  "variant_type": "idld_aligned",
+  "title": "Foundations of Video Analysis for Predicting Online Education Outcomes",
+  "context": {
+    "prior_knowledge": "Experience with basic online learning platforms and foundational statistical concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Course developing foundational predictive modeling competencies for pre-service and in-service teachers through online learning data analysis in social studies",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain predictive models of learning outcomes by analyzing interaction data (play/pause/rewind) collected from online lecture videos",
+    "Learners can implement simple predictive models using Random Forest and logistic regression algorithms",
+    "Learners can refine video interaction data collected in smartphone environments and analyze it using visualization tools."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Google Colab (Web-Based Coding Environment)",
+      "Kaggle Open Dataset",
+      "Google Sheets",
+      "Simple Data Visualization Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

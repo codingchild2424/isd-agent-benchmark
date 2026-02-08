@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0343",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] AI-Based Real-Time Classroom Interaction Analysis and Optimization Strategies: Mathematical Modeling Approach",
+  "context": {
+    "prior_knowledge": "Mathematics education theories and project-based learning (PBL) experience, basic AI technology comprehension, and foundational probability/statistics and data analysis skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-time interactive data analysis and instructional strategy improvement using AI tools in BYOD environments, focusing on interaction network modeling via graph theory and matrix operations",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners classify classroom interaction patterns (student-teacher, student-student, student-object, no interaction) with ≥ 90% accuracy using AI-based interaction tracking systems and mathematical classification algorithms.",
+    "Learners adjust in-class teaching strategies ≥ 3 times by processing real-time interaction data with probability distributions and statistical analysis.",
+    "Learners propose ≥ 1 PBL activity design improvement plan applying mathematical optimization techniques based on one-week interaction logs."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "YOLOv8-based Interactive Detection Model",
+      "Real-time Data Visualization Tool",
+      "Anonymized Interaction Dataset",
+      "PBL (Project-Based Learning) Activity Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

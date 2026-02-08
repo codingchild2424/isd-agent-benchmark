@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1868",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Resident Learning Competency Enhancement Program Through Emergency Simulation",
+  "context": {
+    "prior_knowledge": "Basic first-aid knowledge and mathematical problem-solving skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Simulation learning environment that recreates actual emergency situations through mathematical modeling",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze the decision-making process in emergency situations through mathematical modeling and develop optimal resource allocation strategies",
+    "Prioritize and mathematically design treatment protocols for multiple patient emergency cases within a limited timeframe",
+    "Within one week, learners will complete ≥3 team-based problem-solving sessions in a simulation environment. They will record activity logs and performance analysis data from each session in a portfolio template and compile a personal learning portfolio achieving ≥70 points on an evaluation rubric: participation (20%), problem-solving effectiveness (40%), and collaboration skills (40%)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Emergency Simulation Software",
+      "Responsive Web-Based Collaboration Tools",
+      "Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Business/HR/Admin Support"
+}

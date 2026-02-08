@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5880-V",
+  "variant_type": "context_variant",
+  "title": "Action-Based Mathematical Leadership Program for Adult Managers",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course focused on helping learners acquire practical math approaches immediately applicable in workplace settings. Utilizes collaboration tools in BYOD environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply three or more mathematical analysis techniques when making data-driven decisions to solve workplace problems",
+    "Learners can design and execute budget allocation simulations for organizational performance improvement",
+    "Learners can develop metrics to quantify team members' work efficiency and write project-based assessment reports"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Practical Case Database",
+      "Collaborative Whiteboard",
+      "Mathematical Modeling Template",
+      "Mobile learning support application"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

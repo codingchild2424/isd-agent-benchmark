@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2061-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design Scenarios for an Online Master’s Degree Program in Computer Science",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced computer science education course based on online learning, focusing on acquiring practical skills through job-linked applications. Aims to deepen learner expertise via project-based assessments in blended environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners master theoretical knowledge in core computer science domains (cloud computing, machine learning, cybersecurity) with over 80% comprehension",
+    "Learners design and implement team-based software projects solving real industrial problems, achieving at least 70 points on evaluation criteria",
+    "Learners perform real-time/asynchronous communication with peers and instructors using online collaboration tools (Slack, Microsoft Teams) at least twice weekly and achieve over 80% completion rates in learning community activities (e.g., assignment feedback, discussion initiations)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Management System (LMS)",
+      "Virtual Laboratory Infrastructure",
+      "Industry-Linked Project Case Database",
+      "Video Lecture Materials and Interactive Simulation Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

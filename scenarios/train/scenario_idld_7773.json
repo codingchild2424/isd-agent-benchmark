@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7773",
+  "variant_type": "idld_aligned",
+  "title": "Science Learning Optimization Through Efficient Auditory Lecture Pace Design",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental scientific theories and specialized terminology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Provides 15-minute microlearning modules via mobile devices, with pacing designed based on EEG research findings.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners achieve over 90% comprehension when listening to 1.5x-speed auditory lectures.",
+    "Learners retain over 80% of knowledge in delayed assessments one week later under both 1.0x and 1.5x playback speeds.",
+    "Learners cultivate the ability to self-diagnose individual cognitive load levels and select optimal learning speeds."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Specialized Audio Content for Science Subjects",
+      "Mobile Learning Management System (LMS)",
+      "Cognitive Load Measurement Questionnaire",
+      "Project Evaluation Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1394-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Programming Practical Competencies: Computer Literacy Education in Science for Digital Immigrants",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Over 80% of learners acquire basic computer operation skills (file management, internet search, document editing) as assessed by evaluation criteria.",
+    "Learners will visualize ≥3 types of scientific data (e.g., experimental results, observational data) using chart/graph tools (bar, line, scatter plots) in Excel or Google Sheets. They will draft a 5-page report based on these visualizations.",
+    "Learners will plan and track learning activities ≥3 times weekly on an LMS (e.g., Google Classroom, Moodle) for one month. They will demonstrate self-directed learning management by achieving ≥80% progress and scoring ≥70 points on platform assessments (quizzes/assignments)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

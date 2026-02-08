@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8689",
+  "variant_type": "idld_aligned",
+  "title": "Metacognition-Based Blended Learning Design for Science Practitioners",
+  "context": {
+    "prior_knowledge": "Science curriculum content knowledge and basic proficiency in using digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Metacognitive strategy training course combining digital devices and offline activities, aimed at strengthening lesson design capabilities for in-service elementary science teachers.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply three or more metacognitive strategies (planning-monitoring-evaluation) to science lesson design.",
+    "Learners can utilize two or more tools for self-directed recording and analysis of learning processes using digital platforms (LMS).",
+    "Learners can revise and optimize their lesson designs two or more times based on peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PC",
+      "LMS account",
+      "Metacognitive Checklist Template",
+      "Science education case database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6700-V",
+  "variant_type": "context_variant",
+  "title": "Learner-Generated Virtual Patient Curriculum Development and Implementation Program for Surgical Residents",
+  "context": {
+    "prior_knowledge": "Understanding of basic surgical diagnostics and procedures, with 1–2 years of clinical practice experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning environment combining virtual patient simulation platforms with real clinical settings. Applies a constructivist model emphasizing peer assessment and self-directed learning.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participants can establish diagnostic and treatment plans for major surgical conditions with 85% accuracy by analyzing virtual patient cases created by peers.",
+    "Learners can produce content that fully reflects standard clinical guidelines and medical evidence during the development of virtual patient cases.",
+    "After training, participants can demonstrate mastery of at least 70% of core learning objectives for in-training exams and prove case-solving competencies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual patient simulation software license",
+      "Surgical internship exam study guidelines",
+      "Cloud-based Collaboration Platform",
+      "3D anatomical modeling tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

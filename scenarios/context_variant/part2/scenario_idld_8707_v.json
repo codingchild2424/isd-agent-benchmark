@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8707-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Machine Learning Practical Skills: Social Studies Integrated Education Design with Augmented Reality (VR/AR)",
+  "context": {
+    "prior_knowledge": "Basic Digital Tool Proficiency and Foundational Knowledge in Social Studies",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Following the TSED learning model (Explain-Show-Do-Create), learners can design social studies lesson plans using VR/AR content.",
+    "Through collaboration, learners can complete project outcomes utilizing VR simulations for historical site exploration or AR tools for social phenomenon analysis.",
+    "Learners can conduct peer and self-assessments according to a digital literacy evaluation rubric."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

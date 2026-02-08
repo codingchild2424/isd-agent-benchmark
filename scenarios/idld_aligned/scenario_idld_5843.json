@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5843",
+  "variant_type": "idld_aligned",
+  "title": "Learner-Centered Video-Based Education Design to Strengthen Lumbar Puncture Practical Competency",
+  "context": {
+    "prior_knowledge": "Completion of foundational anatomy and clinical skills theory",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Establishing a practice environment using standardized patients and models, with video viewing capabilities via tablets and projectors",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain lumbar puncture procedures step-by-step with over 90% accuracy.",
+    "Learners achieve over 80% on the LumPAT assessment criteria when performing lumbar punctures in simulation environments.",
+    "Learners can list and execute at least four stages of patient safety management procedures before and after a procedure."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Standardized Patient Model",
+      "LumPAT Assessment Tool",
+      "Objective and Learner-Centered Video (2 Types)",
+      "Procedure Kit Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

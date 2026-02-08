@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2386",
+  "variant_type": "idld_aligned",
+  "title": "Autonomous Driving Multi-Tasking and Transfer Learning Practitioner Course",
+  "context": {
+    "prior_knowledge": "Basic understanding of deep learning concepts, foundational Python programming skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Curriculum enabling smartphone-based practical training for current practitioners, prioritizing the production of project deliverables.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design and experiment with an LSTM-CNN hybrid model architecture for multi-task learning.",
+    "Transfer learning techniques can be applied in practice for the implementation of new scenarios",
+    "Model performance can be measured based on evaluation metrics for autonomous driving tasks (lane keeping, obstacle avoidance, etc.)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Google Colab Integration Guide",
+      "Mobile-compatible simulation tool",
+      "Open-Source Autonomous Driving Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

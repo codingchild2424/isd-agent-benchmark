@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0546",
+  "variant_type": "balance_large_scale",
+  "title": "Designing [Large-Scale] Social Education Through Learning Analytics-Enhanced Project-Based Learning",
+  "context": {
+    "prior_knowledge": "Fundamental data interpretation skills and social studies knowledge at the secondary education level",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Evening/weekend intensive operations for working learners, with data collection and analysis using personal devices (BYOD)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Individual progress and participation rates can be predicted with over 80% accuracy by analyzing learners' project performance data.",
+    "At least three actionable strategies can be derived from learning analytics results to improve instructional design.",
+    "Learner interaction patterns in team project environments can be analyzed, visualized, and documented in a report."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Management System (LMS) Data Access Permissions",
+      "Google Analytics or Similar Web Analytics Tools",
+      "Learning Activity Log Collection Software",
+      "Learning Analytics Visualization Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

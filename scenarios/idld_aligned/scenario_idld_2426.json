@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2426",
+  "variant_type": "idld_aligned",
+  "title": "Online Language Learning Design Applying Transactional Distance Theory",
+  "context": {
+    "prior_knowledge": "Fundamental digital device proficiency (e.g., smartphone app execution, messaging)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners primarily access online learning via smartphones, with face-to-face sessions held weekly at local community centers. Language instruction focuses on improving basic communication skills for daily life",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can participate in weekly learning activities at a rate of 90% or higher on a smartphone-based platform.",
+    "Learners can use simple daily expressions (greetings, shopping, navigation, etc.) in the target language within two weeks.",
+    "Learners can engage in interactions with peer learners on an online discussion board at least twice weekly.",
+    "Learners can achieve a score of 70% or higher in the comprehensive evaluation at the end of the course."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Voice-recording-enabled app",
+      "Offline Activity Workbook",
+      "Space rental for weekly face-to-face sessions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

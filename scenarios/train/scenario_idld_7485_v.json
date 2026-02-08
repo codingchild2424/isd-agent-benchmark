@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7485-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Microlearning Course Utilizing Interactive H5P Resources",
+  "context": {
+    "prior_knowledge": "Basic knowledge in social studies and understanding of foundational theories related to job responsibilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Flexible mobile learning facilitated by BYOD (Bring Your Own Device), with summative assessments measuring outcomes. Learners possess advanced domain expertise as professionals in medical, legal, or technical fields",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain core concepts in social studies with over 80% accuracy using H5P interactive resources.",
+    "Learners complete at least 90% of their weekly learning targets (15 minutes/day × 5 days) in a mobile environment.",
+    "Learners rate their satisfaction with interactive learning methods at 4 points or higher (on a 5-point scale) via post-H5P activity surveys."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "H5P Authoring Tool",
+      "Mobile Learning Management System (LMS)",
+      "Customizable Interactive Content Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8649",
+  "variant_type": "idld_aligned",
+  "title": "Metaverse-Based Informal Science Learning Design",
+  "context": {
+    "prior_knowledge": "Knowledge of fundamental science theories and practical field experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Implements informal learning environments using metaverse tools in smartphone-centric limited-tech settings",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Perform at least one collaborative project for scientific problem-solving in a metaverse environment",
+    "Analyze the potential of three or more non-formal learning tools based on the metaverse",
+    "Submit five or more interaction records with peer learners using a mobile-optimized metaverse platform",
+    "Design one metaverse learning scenario reflecting practical experience in the science field"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible metaverse platform (e.g., Zepeto, ifland)",
+      "LMS system (assignment submission and feedback management)",
+      "Metaverse learning guide PDF",
+      "Web-based editor for 3D modeling tool alternatives"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

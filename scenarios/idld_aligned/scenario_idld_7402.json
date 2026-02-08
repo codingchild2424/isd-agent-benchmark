@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7402",
+  "variant_type": "idld_aligned",
+  "title": "GIS Fundamentals and Application Course for Practitioners",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and general understanding of geographic information systems (GIS)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Flexible curriculum utilizing learning-object-based content modules. Blended learning environment combining online content (theory/simulation) with offline practicals (spatial analysis projects).",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Apply fundamental GIS tools and workflows for spatial data collection, analysis, and visualization with 80% accuracy.",
+    "Create three or more thematic maps (e.g., population distribution maps) using QGIS/ArcGIS software.",
+    "Propose GIS solutions to real-world work problems based on scenario-based practical assignments provided in learning object modules."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Author-it CCMS-Based Learning Object Library",
+      "QGIS/ArcGIS Educational Licenses",
+      "Practice-Oriented Spatial Database Sample Set",
+      "LMS (Learning Management System) Integration Environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

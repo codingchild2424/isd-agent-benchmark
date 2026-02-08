@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2338",
+  "variant_type": "idld_aligned",
+  "title": "Practical Project on Computer Networks and Data Communication",
+  "context": {
+    "prior_knowledge": "IP Addressing System, OSI 7-Layer Model, and Basic LAN/WAN Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Course focusing on strengthening network problem-solving competencies applicable in real-world tasks for office/administrative professionals. Learners conduct hands-on practice on personal devices and perform real-case-based projects through team collaboration",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can collaborate with team members to derive problem-solving strategies during the design and configuration of network topologies.",
+    "Learners can identify causes of data transmission errors three or more times using packet analysis tools and write reports.",
+    "Learners can simulate real-world scenarios such as Wi-Fi interference and bandwidth limitations in a virtual environment and propose optimization solutions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Wireshark Packet Analysis Software",
+      "Virtual Network Simulator (Cisco Packet Tracer, etc.)",
+      "Collaboration Tools (Slack, Notion, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

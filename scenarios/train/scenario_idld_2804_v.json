@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2804-V",
+  "variant_type": "context_variant",
+  "title": "AI Practical Competency Enhancement: Cultural Heritage Data Augmentation: Machine Learning-Based Framework Utilization",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain methods to improve the accuracy and completeness of cultural heritage metadata by over 80% using hierarchical multimodal classifiers.",
+    "Learners can implement digital restoration models for damaged cultural heritage by applying image reconstruction techniques based on supervised/unsupervised learning.",
+    "Learners can longitudinally design a data augmentation framework and conduct project-based evaluations on real cultural heritage datasets."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

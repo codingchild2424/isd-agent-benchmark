@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0284",
+  "variant_type": "balance_medium_scale",
+  "title": "Technology-Mediated Self-Directed Learning Design for Pharmaceutical Chemistry Education",
+  "context": {
+    "prior_knowledge": "Understanding of general chemistry fundamentals and pharmaceutical principles",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Online Platform-Based Learning Environment Utilizing Personal Devices",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Visually analyze intermolecular interactions and drug reaction mechanisms using PhET simulations",
+    "Complete automated personalized learning content via the Smart Sender platform with over 80% participation rates",
+    "Solve chemistry calculation problems with 70% accuracy in a Moodle e-course integrated with a Dialogflow chatbot"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "PhET Simulation License",
+      "Smart Sender Platform Account",
+      "Dialogflow API-Integrated Moodle Server",
+      "BYOD-compatible learning management system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

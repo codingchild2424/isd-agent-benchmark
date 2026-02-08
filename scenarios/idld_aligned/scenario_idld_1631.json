@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1631",
+  "variant_type": "idld_aligned",
+  "title": "Practical Competency Development Course for Digital Encoder-Decoder Design",
+  "context": {
+    "prior_knowledge": "Basic concepts of digital logic circuits, understanding of Verilog/VHDL hardware description languages, and experience with Xilinx/Cadence tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practice-Centric Training for Current Professionals, Prioritizing Immediate Applicability of Encoder-Decoder Optimization Techniques in Digital System Design",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "One can design reversible gate-based error correction circuits using 8x3 encoder-decoder and Hamming code",
+    "One can measure power consumption of digital modules designed with Xilinx tools and derive optimization strategies",
+    "One can implement efficient prediction models for real industrial applications through encoder-decoder architecture analysis"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Xilinx Vivado Simulation License",
+      "Cadence Verification Tool Access Permissions",
+      "FPGA Lab Kit (Shared Equipment)",
+      "Digital Design Reference Guide (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

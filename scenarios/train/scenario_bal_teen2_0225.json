@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0225",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] AR-based Biomechanical Knee Load Analysis Simulation Education: Socio-physical Education Integration Approach",
+  "context": {
+    "prior_knowledge": "Basic knowledge of biomechanics and human anatomy, understanding of exercise mechanics in physical education settings, and foundational concepts of school sports safety management",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Training for professionals in medical device development companies, aiming to enhance knee load analysis capabilities through AR simulations reflecting visual elements of real sports environments (volleyball courts). Focuses on developing educational curricula for injury prevention in adolescent athletes, with expectations of creating social value linked to community health promotion programs.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Interpreting knee moment and patellar tendon load measurement data during three types of jump movements (drop landing, hop jump, spike jump) in AR simulation environments to enhance sports injury prevention strategy development skills",
+    "After two weeks of training, learners compare simulation tools (e.g., OpenSim) with actual motion data (joint angles, EMG signals) to produce an analysis report achieving ≥80% consistency in three biomechanical indicators (joint torque, energy efficiency, impact absorption rate), including recommendations applicable to physical education settings",
+    "Conducting an AR-based clinical assessment protocol design and validation project: reviewing applicability in school sports facilities (volleyball courts) and proposing linkage strategies with community health promotion programs"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR smart glasses",
+      "Motion Capture Sensor",
+      "Biomechanical Analysis Software",
+      "Jump motion visualization template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

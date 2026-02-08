@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5067-V",
+  "variant_type": "context_variant",
+  "title": "Mastering Controlled Variable Strategy (CVS): Experimental Design Simulation Training",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for middle school students preparing for medical/legal/technical careers to strengthen experimental design skills in a simulation environment, integrating VR-based virtual labs and LMS-based collaboration tools",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can distinguish between independent, dependent, and controlled variables in single-variable experimental designs with 80% accuracy.",
+    "Learners can identify and propose corrective measures for variable control errors in virtual experimental environments with 90% probability.",
+    "Learners can complete three consecutive successful variable-controlled experimental scenarios by applying an experimental design algorithm."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Experiment Simulator",
+      "LMS Learning Management System",
+      "Smart Tablet",
+      "Digital Lab Report Template",
+      "Collaborative Learning Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

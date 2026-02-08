@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1301",
+  "variant_type": "idld_aligned",
+  "title": "AI-Powered Chat Tool-Based Program for Enhancing Advanced Mathematics Problem-Solving Competencies",
+  "context": {
+    "prior_knowledge": "College-level foundational mathematics knowledge (vectors, calculus, probability theory, etc.)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Implementation of a personalized learning support structure using AI tools in individual BYOD (Bring Your Own Device) environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply strategies to decompose complex mathematical problems step-by-step using AI chat tools.",
+    "Learners can solve three-dimensional geometry problems based on AI feedback in a VR simulation environment.",
+    "Learners can write reports analyzing and evaluating real-world applications of mathematical concepts using generative AI."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ChatGPT-4o API Integration System",
+      "Mathematics-Specific AI Tutoring Plugin",
+      "VR Geometry Simulation Kit",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7568",
+  "variant_type": "idld_aligned",
+  "title": "Science Competency Enhancement Program Using Ontology-Based Personalized e-Learning Systems",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and experience using e-learning systems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A short-term training program for in-service professionals to enhance practical competencies in science through an ontology-based personalized learning system. Primarily consists of offline activities implementable in resource-constrained technology environments centered on smartphones.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain core science concepts with over 80% accuracy using personalized learning paths provided by an ontology-based system.",
+    "Learners can identify and apply at least three science case studies aligned with their learning style and job requirements via system recommendations.",
+    "Learners can establish customized learning plans that reduce individual learning gaps by 50% or more by analyzing formative assessment results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science domain ontology database",
+      "Smartphone-compatible LMS platform",
+      "Offline Worksheet Templates",
+      "QR code-based assessment system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

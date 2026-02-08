@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0037",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Strategies for Enhancing E-Learning Service Quality Based on Customer Requirements",
+  "context": {
+    "prior_knowledge": "Fundamental IT skills and job-related scientific knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for working professionals to efficiently learn science content with high job relevance in mobile environments and strengthen practical skills for improving service quality.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can derive at least three core customer requirements (CRs) for evaluating e-learning service quality.",
+    "Learners can set quality improvement priorities in mobile microlearning environments based on a QFD matrix.",
+    "Learners can analyze collected survey data using RST techniques to derive key influencing factors by reducing them by 20%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Quality Assessment Survey Template",
+      "Data Analysis Tools (Excel or Open-Source R/Python Libraries)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

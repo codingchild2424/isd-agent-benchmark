@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3145-V",
+  "variant_type": "context_variant",
+  "title": "TPACK-Based Teacher Digital Competency Enhancement Training Program",
+  "context": {
+    "prior_knowledge": "Basic experience in using digital tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended training program for mathematics teachers in an online university setting. Operating project-based assessments based on a BYOD environment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners achieve over 80% proficiency in designing digital lessons utilizing all seven knowledge domains of the TPACK framework.",
+    "Learners can explain effective integration methods for incorporating generative AI and digital tools into mathematics instruction.",
+    "Develop at least two types of digital learning materials incorporating active learning strategies (discussion, collaboration, problem-solving)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Learning Management System)",
+      "Digital Teaching Material Sample Package",
+      "Generative AI Tool Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

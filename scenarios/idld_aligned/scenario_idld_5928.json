@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5928",
+  "variant_type": "idld_aligned",
+  "title": "Activity-Based Technology Education Design for Urban Youth",
+  "context": {
+    "prior_knowledge": "Basic computer application skills and general understanding of scientific fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "After-school technology education program for office/administrative working learners, offering project-based learning environments using digital devices.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design at least one technology-based prototype solving everyday problems within 8 weeks",
+    "Collaborate with peers using collaboration tools to plan and execute technology projects at least three times",
+    "Analyze ethical issues arising during technology utilization and submit at least one report proposing alternatives"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Printer",
+      "Microcontroller Kit",
+      "Open-Source Development Platform",
+      "Online Collaboration Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

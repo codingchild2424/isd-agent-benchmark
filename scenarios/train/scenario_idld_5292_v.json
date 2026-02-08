@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5292-V",
+  "variant_type": "context_variant",
+  "title": "Data-Driven Scientific Leadership Course for Formative Assessment and Learning Outcome Prediction",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A leadership competency development program analyzing formative assessment data from VR simulations and BYOD environments to predict learning outcomes",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Using learning analytics models, correlations can be analyzed between formative assessment results (quizzes, assignments) and learning activity data (simulation participation rates, VR resource usage frequency)",
+    "A predictive model applying the Random Forest algorithm can forecast learners' final performance (comprehensive evaluation) with over 80% accuracy",
+    "The three core predictive factors most strongly correlated with learning outcomes can be identified: formative assessment completion rates, prior assessment results, and VR interaction frequency"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Equipment",
+      "Learning Analytics Platform License",
+      "Personal Tablet/Smartphone",
+      "Science Leadership Case Study Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

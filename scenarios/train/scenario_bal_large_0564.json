@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0564",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Simulation-Based Control Techniques for Nonlinear Systems",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental control theory and mathematical modeling",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A short-term intensive course accessible in mobile environments for practicing professionals, requiring learning design centered on smartphones considering PC-free settings",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can understand state constraints in nonlinear systems and explain BLF (Barrier Lyapunov Function)-based control strategies",
+    "Design and implement a controller to stabilize nonlinear systems under uncertainty using simulation tools",
+    "Apply adaptive neural network control techniques to maintain system output error within acceptable limits"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible simulation tool",
+      "Nonlinear control theory summary materials",
+      "Case-based practical problem sets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

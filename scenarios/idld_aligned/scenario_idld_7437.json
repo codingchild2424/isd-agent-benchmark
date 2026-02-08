@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7437",
+  "variant_type": "idld_aligned",
+  "title": "Practical Work-Centered Vocational Mathematics Education Model Development for Citizens Aged 40+",
+  "context": {
+    "prior_knowledge": "Basic arithmetic operations and experience applying mathematics in daily life",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners aim for career transitions or skill enhancement, requiring customized education to address practical mathematical demands in industrial settings. Access to advanced technologies like VR is limited.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can solve basic statistical problems occurring in workplace environments with 80% accuracy.",
+    "Learners can simulate job-specific mathematical application cases (e.g., budget planning, measurement calculations) and successfully perform them at least twice out of three attempts.",
+    "Learners can verbally explain mathematical problem-solving processes to peers and meet 70% or more items on the evaluator’s checklist."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Occupation-Specific Practical Casebook",
+      "Low-Specification Tablets (5 units)",
+      "Offline Calculator",
+      "Field Expert Network"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0473",
+  "variant_type": "balance_teen_k12",
+  "title": "Mobile Game-Based Educational Program to Improve Adolescent Sleep Hygiene (K-12)",
+  "context": {
+    "prior_knowledge": "Fundamental hygiene management knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical sleep management education tailored for job-seeking individuals.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze sleep pattern data within 7 days to improve sleep efficiency by over 15%.",
+    "Establish and share a sleep hygiene practice plan at least three times weekly through cooperative-competitive game activities.",
+    "Learners can write sleep improvement project reports while receiving peer feedback in a socially interactive environment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Sleep Tracker Application",
+      "Cooperative-Competitive Gamification Platform",
+      "LMS-Integrated Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

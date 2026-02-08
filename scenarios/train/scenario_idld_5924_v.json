@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5924-V",
+  "variant_type": "context_variant",
+  "title": "Mastering Chemical Reaction Conditions: Gamification-Based Microlearning",
+  "context": {
+    "prior_knowledge": "Foundational chemical reaction theory and ability to interpret chemical formulas",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "5-10 minute micro-lessons in smartphone-based mobile environments, aiming to help professional workers understand chemistry concepts applicable to their duties",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the difference between stoichiometric and non-stoichiometric conditions in chemical reactions with 80% accuracy",
+    "Learners can generate three or more analogical examples metaphorically representing response conditions.",
+    "Learners can share created examples with peer learners via a mobile platform and provide feedback at least twice."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Response Simulation Mobile App",
+      "Gamification Leaderboard System",
+      "Comparative Response Condition Video (3-Minute)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

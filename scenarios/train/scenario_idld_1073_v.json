@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1073-V",
+  "variant_type": "context_variant",
+  "title": "SAM-Based E-Learning Content Development Workshop",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening practical e-learning development process experiences using the SAM model for graduate students and working professionals.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "By applying the SAM model’s three-stage (Prepare-Design-Develop) process, e-learning prototypes (Alpha/Beta/Gold) can be developed.",
+    "In iterative design phases, strategies for collecting learner feedback and improving content can be established.",
+    "In an LMS environment, a SAM-based development process can be applied to complete e-learning content on social themes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Authoring tools (e.g., Articulate Storyline)",
+      "SME and learner feedback channel"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

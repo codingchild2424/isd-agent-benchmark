@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-0191",
+  "variant_type": "idld_aligned",
+  "title": "Expert Course on Developing Blended Online Learning Materials in Science Fields",
+  "context": {
+    "prior_knowledge": "Basic online learning experience and understanding of fundamental science concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Provides a blended learning environment for in-service professionals to participate without time/space constraints. Continuous feedback and improvement through formative assessments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will apply 3+ effective instructional strategies when designing online science education materials",
+    "Learners will create interactive learning modules using simulation/VR technologies",
+    "Learners will develop science content utilizing Open Educational Resources (OER) while complying with copyright guidelines",
+    "Learners will enhance the quality of developed educational materials through peer review systems"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS (Learning Management System) platform",
+      "VR Development Tools (Unity, Unreal Engine)",
+      "Video Conferencing Systems (Zoom, Microsoft Teams)",
+      "Copyright Education Materials",
+      "Science domain standard content templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

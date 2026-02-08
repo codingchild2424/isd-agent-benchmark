@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8396-V",
+  "variant_type": "context_variant",
+  "title": "Collaborative Mathematical Problem-Solving Simulation in Virtual Learning Environments",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Role-based collaborative activities in a VR environment based on IMS Learning Design standards.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can solve complex problems using at least three mathematical interactions (discussions, role-playing, resource sharing) in VR environments",
+    "Learners can monitor peers' real-time activity status in an IMS LD-based interface and engage in collaborative simulations.",
+    "Learners can perform the roles of medical/legal/technical experts and solve context-specific mathematical application problems (e.g., hospital budget calculations, legal evidence analysis, engineering design) with 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Equipment",
+      "IMS LD-Compliant LMS",
+      "Collaborative learning scenario template",
+      "3D Mathematical Modeling Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

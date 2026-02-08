@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0913-V",
+  "variant_type": "context_variant",
+  "title": "Integrated Practice Blended Mathematics e-Learning Course: Manufacturing Field Simulation-Based",
+  "context": {
+    "prior_knowledge": "Mastery of foundational math concepts (quadratic equations, functions, statistics)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "VR simulations of manufacturing case studies (milling, turning processes) optimized for smartphone-based access.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can convert manufacturing process data into mathematical models and apply them to VR simulations.",
+    "Learners can present solutions to process optimization problems by utilizing trigonometric functions and differentiation concepts.",
+    "Learners can analyze workplace safety standard data as probability distributions to build risk-prediction models."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible VR Simulation Tool",
+      "Manufacturing Field Dataset",
+      "Interactive E-Workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

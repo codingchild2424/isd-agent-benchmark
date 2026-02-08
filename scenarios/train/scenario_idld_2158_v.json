@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2158-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Comparative Analysis of Science Textbook Design: Simulation-Based Instructional Design",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can identify and explain at least three structural differences (activity distribution, thematic organization) between Egyptian/Chinese science textbooks",
+    "Learners can propose at least one strategy for linking learning objectives-activities-assessments when designing textbook units using VR simulation tools",
+    "By applying horizontal analysis methodology, learners can derive at least two ideas for improving the design of other subject (mathematics) textbooks"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

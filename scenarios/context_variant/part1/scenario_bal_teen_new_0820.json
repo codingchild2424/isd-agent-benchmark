@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0820",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Short-Term Course for Strengthening Learning Competencies Using Generative AI",
+  "context": {
+    "prior_knowledge": "Basic computer application skills and experience using LMS systems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Focuses on self-directed learning strategies using generative AI in blended learning environments, cultivating practical application skills through social domain case analyses. Learning outcomes are measured through summative assessments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Develop the competency to analyze and summarize social science assignments using generative AI tools (e.g., ChatGPT, Gemini).",
+    "Learners will understand three ethical principles for generative AI use in blended learning environments (face-to-face/remote/flexible learning), such as source attribution, bias review, and personal information protection. They will create a checklist to evaluate the application of these principles in two real-world cases.",
+    "Apply a process for critically evaluating and improving AI-generated content on LMS platforms."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AI-Powered LMS Platform Access Permissions",
+      "Generative AI Tool Free Trial Account",
+      "Open Social Science Datasets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

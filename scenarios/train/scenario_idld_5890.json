@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5890",
+  "variant_type": "idld_aligned",
+  "title": "Radar Electronic Warfare Response Strategies: Simulation-Based Learning",
+  "context": {
+    "prior_knowledge": "Fundamental understanding of radar principles and basic signal processing knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students learn real-time electronic warfare response scenarios using mobile devices and simulation software, with project-based assessments evaluating practical skills",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the vulnerabilities of LFM pulse radar and the principles of electronic warfare jamming",
+    "Learners can implement jamming detection based on RPIP signals and the PPLFM signal design process in a simulation environment",
+    "Learners can analyze jamming signal separation and target identification results using sparse decomposition techniques"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Simulation Platform",
+      "Signal Processing Software",
+      "Electronic Warfare Simulation Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

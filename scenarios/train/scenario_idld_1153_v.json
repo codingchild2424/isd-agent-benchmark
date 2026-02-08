@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1153-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Integrated Business Skills Learning: New Literacy-Centered Design",
+  "context": {
+    "prior_knowledge": "Fundamental digital device usage skills and understanding of basic social concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized content delivery reflecting individual learner levels and group learning needs, with VR/simulation-based situational business scenario experiences.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners enhance their business document writing skills by utilizing content that integrates text, images, and audio within a mobile application.",
+    "Learners can perform roles meeting evaluation criteria by applying communication strategies (active listening, context-specific language selection, nonverbal expression) with ≥80% accuracy across 3 VR simulation scenarios (meetings, customer consultations, team collaboration).",
+    "Learners acquire 100 essential business terms by accessing learning materials available anytime via mobile devices.",
+    "Learners can collaborate with 3–4 peers using digital tools (Miro, Trello, Slack) to design (proposal writing, role allocation) and execute a 4-week project addressing a real business problem (e.g., customer acquisition strategy), including 2 interim checkpoints and a final presentation, submitting deliverables that meet ≥4 of 5 evaluation criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Application",
+      "VR Headset",
+      "Interactive Simulation Module",
+      "Cloud-based collaboration tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

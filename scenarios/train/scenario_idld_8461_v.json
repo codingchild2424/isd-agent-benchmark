@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8461-V",
+  "variant_type": "context_variant",
+  "title": "Leadership Practical Competency Enhancement: Robot Control System Design and Optimization Practice",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for Corporate Management/HR Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify and explain three or more external factors that degrade dynamic/static performance of robots",
+    "Learners can design a control system combining sliding mode control (SMC) and extended state observer (ESO)",
+    "Learners can improve robot controllers by applying machine learning-based parameter optimization techniques",
+    "Learners can verify tracking accuracy over 90% and disturbance suppression performance through 6-axis robot experiments",
+    "Learners can implement control algorithms using mobile-based simulation tools in constrained computing environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Business Simulation Tool",
+      "HR Management System",
+      "Business Analytics Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

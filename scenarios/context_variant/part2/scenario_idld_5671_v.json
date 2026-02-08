@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5671-V",
+  "variant_type": "context_variant",
+  "title": "Virtual Education Model Development for Designing Inclusive Science Learning Environments",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Focused on designing inclusive virtual learning environments for diverse learners, including integrating accessibility elements for students with visual/hearing impairments to strengthen science career education",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify at least three accessibility elements considering various disability types (visual, auditory, motor) when designing virtual environments",
+    "Learners can design and apply at least two multi-channel (text/audio/visual feedback) communication strategies for inclusive interactions in Zoom-based real-time classes",
+    "Learners can submit project outcomes demonstrating science experiment simulations implemented in a BYOD environment, incorporating alternative activities tailored to different types of disabilities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Screen Sharing Feature",
+      "Google Jamboard",
+      "Microsoft Accessibility Checker",
+      "Science experiment simulation software"
+    ],
+    "accessibility": "WCAG 2.1 AA 기준 준수",
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

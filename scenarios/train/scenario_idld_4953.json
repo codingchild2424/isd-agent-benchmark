@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4953",
+  "variant_type": "idld_aligned",
+  "title": "Augmented Reality-Based Mathematical Experiential Learning: Exploration of Solids of Revolution",
+  "context": {
+    "prior_knowledge": "Calculus fundamentals (integration methods) and understanding of spatial geometry",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Hybrid learning environment simultaneously utilizing AR devices (tablets/smartphones) and Zoom interfaces",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "The process of generating 3D modeling of solids of revolution in an augmented reality environment can be explained.",
+    "Through AR visualization, integral formulas for calculating the volume and surface area of solids of revolution can be derived and applied.",
+    "Dynamic AR interactions can be utilized to analyze the geometric properties of solids of revolution (axis, cross-sectional area)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Development Platform (Unity/ARKit)",
+      "3D Modeling Software",
+      "Zoom Screen-Sharing System",
+      "AR Experience Workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

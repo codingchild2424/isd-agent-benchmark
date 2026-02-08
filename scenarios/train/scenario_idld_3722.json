@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-3722",
+  "variant_type": "idld_aligned",
+  "title": "Astronomy Simulation-Based Collaborative Learning Course: Enhancing Multimodal Problem-Solving Competencies",
+  "context": {
+    "prior_knowledge": "Elementary astronomy concepts and competency in online learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners collaborate in a virtual astronomy simulation environment using personal devices, engaging in open-ended problem-solving activities that explore diverse learning pathways. The initial phase encourages individual inquiry, gradually shifting focus to collective knowledge construction.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the motion principles of solar system celestial bodies with over 80% accuracy using astronomical simulation tools.",
+    "Learners maintain joint attention with peers during three or more collaborative tasks while discussing concepts.",
+    "Learners present group problem-solving strategies in a logical structure of three or more stages through multimodal (text/audio/gesture) interactions.",
+    "At the end of the six-month course, learners achieve a rubric-based competency level of four or higher in deriving scientific conclusions from simulation data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web-Based Astronomy Simulation Platform (e.g., PhET)",
+      "LMS-Integrated Collaboration Tools (Microsoft Teams/Slack)",
+      "Multimodal Interaction Logging and Analysis System",
+      "Learner BYOD (Bring Your Own Device) Guide Document",
+      "Collaborative Learning Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

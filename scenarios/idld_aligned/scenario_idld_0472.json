@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0472",
+  "variant_type": "idld_aligned",
+  "title": "Hypermedia-Enhanced Short-Intensive Course for Wushu Fundamental Techniques",
+  "context": {
+    "prior_knowledge": "Basic physical fitness and mobile device usage experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A microlearning environment accessible anytime/anywhere via digital devices, offering personalized content based on learner diagnostic assessments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform Wushu basic postures (Ma Bu, Yong Tui, and Horse-Riding Stance) with over 80% accuracy within one week.",
+    "Learners can explain key movement principles of Wushu techniques through video tutorials and interactive quizzes.",
+    "Learners can self-diagnose skill proficiency by scoring over 75 points in formative assessments within a mobile app."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Wushu Expert Video Lecture Materials",
+      "3D Animation Technical Simulation",
+      "Mobile Learning Management System (LMS)",
+      "Interactive Content with Real-Time Feedback",
+      "Learner Diagnostic Assessment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

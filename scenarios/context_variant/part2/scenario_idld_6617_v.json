@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6617-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Competencies: Flipped Learning-Based Workshop for Advanced Mathematics Learning Skills",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "In a flipped learning environment, students autonomously perform the mathematical problem-solving process at least 80% of the time.",
+    "Through collaborative learning activities with peers, students propose at least three multidimensional approaches to complex mathematical problems.",
+    "Students achieve at least 75 points (out of 100) on formative assessments that apply learning content in digital platform-based interactions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0895",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Personalized Science Inquiry Process Using Augmented Reality Learning Analytics",
+  "context": {
+    "prior_knowledge": "Basic understanding of physics/chemistry concepts and fundamental smartphone operation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "All learners possess smartphones but lack PC environments; virtual simulations are necessary due to limited experimental equipment.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can visualize three molecular structures (water, carbon dioxide, methane) using an AR application (e.g., MERGE Cube), measure each molecule’s bond angles with ≤5° error, and implement interactions (rotation, zoom) to write a lab report.",
+    "Provide personalized feedback based on individual learning pattern data at least three times",
+    "Based on a one-week learning analytics report, learners can specifically outline ≥3 self-directed learning strategies (e.g., time management, goal setting, feedback utilization) and develop an action plan meeting ≥4 of 5 teacher-verified checklist items."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR-Compatible Smartphones (30+ Units)",
+      "Low-Spec AR Educational App License",
+      "Wi-Fi Infrastructure",
+      "Learning Data Visualization Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0609",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Intensive Workshop on Engineering Design and Manufacturing Project-Based Learning",
+  "context": {
+    "prior_knowledge": "Basic Engineering Principles and Mathematical Problem-Solving Skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Strengthening practical competencies through team-based design-prototyping-testing processes in smartphone-centric restricted technology environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can define design problems reflecting industrial constraints and derive solutions.",
+    "Learners collaborate with team members in resource-limited environments to establish plans for physical prototype fabrication and testing.",
+    "Learners apply core manufacturing process principles (strength calculations, material selection, etc.) to actual tasks and evaluate the performance of final outputs."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Basic Toolkit Set",
+      "Low-Cost Material Kit",
+      "Printable Design Blueprint Template",
+      "Mobile-Compatible Collaboration Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

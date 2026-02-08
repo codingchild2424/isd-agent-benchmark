@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0603",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Flipped Learning Design and Implementation for Higher Education Science Disciplines",
+  "context": {
+    "prior_knowledge": "Understanding of foundational scientific theories and experimental methodologies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Focused on enhancing self-directed learning competencies for adult learners including job seekers in smartphone-centric limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Using the flipped learning model, learners can pre-learn theoretical content on science topics and participate in discussion and practical activities for over 80% of class time.",
+    "Through interaction activities with peers and instructors, learners can improve their science problem-solving skills by at least two levels (based on a 5-point scale).",
+    "Learners can create and execute a self-directed learning plan to complete over 70% of a science-related employment competency portfolio within three months."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Video Lecture Platform",
+      "Offline Discussion Guide (PDF)",
+      "Science Experiment Simulation App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

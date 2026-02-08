@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6222",
+  "variant_type": "idld_aligned",
+  "title": "Advanced ECMO Nursing Board Game-Based Training Course",
+  "context": {
+    "prior_knowledge": "Basic Critical Care Nursing and Understanding of ECMO Equipment",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Establishment of interactive learning environments using digital devices. Team-based project implementation for applying actual ICU scenarios",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the physiological principles and clinical application procedures of ECMO equipment with 90% accuracy",
+    "Learners can accurately diagnose and respond to high-risk ECMO complication cases in board game simulations with over 85% accuracy",
+    "Through team-based PBL projects, learners develop ECMO patient management protocols applicable to real clinical settings"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ECMO educational board game kit",
+      "High-fidelity simulator",
+      "ICU equipment virtual model software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

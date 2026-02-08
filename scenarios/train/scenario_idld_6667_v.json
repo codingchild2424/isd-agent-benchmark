@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6667-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Artificial Intelligence Practical Competencies: Self-Care Education Program After Breast Cancer Surgery",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can describe five or more physical changes that may occur after breast cancer surgery.",
+    "Learners can practice post-operative wound management methods (wound care, lymphedema prevention, etc.) with 80% accuracy.",
+    "Learners can establish and implement personalized self-management plans using a smartphone app."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

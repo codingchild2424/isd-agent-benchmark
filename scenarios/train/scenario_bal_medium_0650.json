@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0650",
+  "variant_type": "balance_medium_scale",
+  "title": "Collaborative Learning Design Based on a Pharmacy Learning Community",
+  "context": {
+    "prior_knowledge": "Basic pharmaceutical theory and data analysis skills grounded in mathematics",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A process where pharmacy major students form learning communities and perform collaborative learning based on mathematical thinking in a blended online-offline environment utilizing digital devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve collaborative communication skills for solving pharmacy-related mathematical problems with over 80% participation in a learning community.",
+    "Learners improve their ability to analyze and interpret pharmaceutical learning materials by 30% compared to pre-assessment through a peer mentoring system.",
+    "Learners submit individual and team-based learning outcomes with over 90% completion rate via weekly formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Platform",
+      "Learning Management System (LMS)",
+      "Pharmaceutical Statistics Dataset",
+      "Collaborative Learning Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

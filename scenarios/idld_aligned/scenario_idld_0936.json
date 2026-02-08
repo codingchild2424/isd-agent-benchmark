@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0936",
+  "variant_type": "idld_aligned",
+  "title": "Academic Literacy-Integrated Mobile Microlearning",
+  "context": {
+    "prior_knowledge": "Basic digital device proficiency and intermediate-level job-specific expertise",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Integration of academic writing, data analysis, and critical thinking training optimized for mobile environments, implementing blended learning via online platforms (Moodle-based) and smartphone apps.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can utilize three core strategies for analyzing academic texts",
+    "Learners can compose academic summaries of approximately 500 characters in mobile environments",
+    "Learners can revise and enhance drafts of job-related reports by incorporating peer feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible learning management system (Moodle-based)",
+      "Access to academic databases",
+      "Peer Assessment Template",
+      "Mobile-compatible authoring tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

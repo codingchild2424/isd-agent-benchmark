@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3882",
+  "variant_type": "idld_aligned",
+  "title": "Personalized Feedback Design and Implementation in Large-Scale Language Learning",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and experience with self-directed learning",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized feedback strategy development and implementation using learning analytics tools in language education for working professionals aged 40+",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically collect and analyze performance data for individual learners using learning analytics tools",
+    "Learners can design personalized feedback messages tailored to learner characteristics and performance levels",
+    "Learners can cultivate the ability to interpret learning analytics metrics for determining feedback frequency and topic selection",
+    "Learners can build feedback-action improvement linkage systems in small-scale digital environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Analytics Software (e.g., OnTask)",
+      "Digital Devices (Tablet/Laptop)",
+      "Learning Activity Log Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

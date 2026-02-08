@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4956-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing AI Practical Skills: Science Project-Based Education Using Blended Learning Design",
+  "context": {
+    "prior_knowledge": "Intermediate-level theoretical and practical knowledge in scientific disciplines",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can self-design a balanced integration of online and offline activities in a blended learning environment.",
+    "Learners can solve practical problems in science through Project-Based Learning (PBL).",
+    "During AI project development, learners conduct weekly feedback sessions with peers and instructors, and submit an action plan that improves at least three of the four formative assessment checklist items (code efficiency, model accuracy, collaborative attitude) over four or more iterations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

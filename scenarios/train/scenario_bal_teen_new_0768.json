@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0768",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Structural Equation Modeling (SEM)-Based Methodology for Analyzing Language Proficiency Improvement Effects in Educational Technology Experimental Research",
+  "context": {
+    "prior_knowledge": "Basic statistical analysis and research methodology understanding, foundational knowledge of educational technology concepts, experience in designing language assessments (reading/writing/listening/speaking), and basic text analysis capabilities",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "An environment enabling access to smartphone-based language learning materials and simple practice tools (e.g., text analysis software, vocabulary frequency analyzers). It considers K-12 learners' language development stages (grammar system formation, expanded expressive diversity).",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze and explain the relationship between measurement errors and latent variables (e.g., reading comprehension, expressive ability, vocabulary acquisition) in language learning technology experiments using SEM.",
+    "Learners develop research design capabilities to verify through SEM the mediating processes by which educational interventions (e.g., digital reading/writing training) enhance language proficiency (grammar structure understanding, text interpretation skills).",
+    "Learners can compare the differences between traditional experimental design (MANCOVA) and SEM-based approaches to select appropriate methods for analyzing language education data (speaking fluency, listening comprehension)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "SEM Software Trial Version (Smartphone-Compatible Web Version)",
+      "Educational Technology Experiment Case Dataset",
+      "Statistical Analysis Handout (Mobile-Optimized PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

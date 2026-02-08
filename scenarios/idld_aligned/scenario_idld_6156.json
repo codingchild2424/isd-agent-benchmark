@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6156",
+  "variant_type": "idld_aligned",
+  "title": "Hybrid Science Education Design Based on Learning Preferences of Generation Z and Alpha",
+  "context": {
+    "prior_knowledge": "Comprehension of fundamental scientific theories and experimental methods",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Environment enabling real-time collaboration and multimedia content creation using personal devices (BYOD)",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners collaborate on science projects from planning to execution using digital tools (video conferencing, collaboration platforms) in hybrid environments.",
+    "Learners strengthen data analysis competencies by solving real-world science problems using simulation software and virtual lab tools.",
+    "Learners produce video/infographic portfolios incorporating peer feedback to visually and practically communicate science concepts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Video conferencing platforms (Zoom, Teams)",
+      "Collaboration tools (Google Workspace, Miro)",
+      "Virtual lab simulation software (Labster)",
+      "Multimedia authoring tools (Canva, Adobe Spark)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

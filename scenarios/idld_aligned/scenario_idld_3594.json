@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3594",
+  "variant_type": "idld_aligned",
+  "title": "Deep Learning-Based Pupil Tracking Design for Visible Light Wearable Eye Trackers",
+  "context": {
+    "prior_knowledge": "Foundational understanding of machine learning, linear algebra, probability theory, and Python programming experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Theory-practice parallel course including smartphone-based practical training in limited-technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can understand the YOLOv3-tiny model architecture and apply it to pupil tracking",
+    "Learners can explain hyperparameter optimization methods for achieving over 80% accuracy in visible light environments",
+    "Learners can design data preprocessing and postprocessing workflows to achieve tracking errors within two pixels"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based Image Dataset",
+      "Open-Source YOLO Model",
+      "Simplified GPU Emulator",
+      "Practice Eye Pupil Sample Videos"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2681",
+  "variant_type": "idld_aligned",
+  "title": "Simulation Education for Wilcoxon Rank-Sum Test Based on the MACH Model",
+  "context": {
+    "prior_knowledge": "Understanding of basic statistical concepts (mean, median, standard deviation) and hypothesis testing principles",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Training for language domain data analysts, recreating real workplace scenarios in a VR environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the principles of the Wilcoxon rank-sum test using the four components of the MACH model (Methods, Analogies, Context, How).",
+    "Learners can apply the Wilcoxon rank-sum test to language data samples in simulation/VR environments to determine statistical significance.",
+    "Learners can explain the necessity of non-parametric tests to peers by connecting them to real-world cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Educational Equipment",
+      "Statistical Software License",
+      "Language Domain Sample Dataset",
+      "MACH Model Worksheet Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

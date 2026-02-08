@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-0953-V",
+  "variant_type": "context_variant",
+  "title": "Design and Utilization of an Online Learning Satisfaction Prediction Model",
+  "context": {
+    "prior_knowledge": "Basic statistics, machine learning concepts, and Python programming",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners have basic online learning experience but limited artificial neural network model design experience. Blended classes combine theoretical lectures with practical sessions, focusing on model implementation using real datasets",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the structure of an artificial neural network (ANN)-based predictive model and apply it to training data.",
+    "Learners can identify factors influencing online learning satisfaction (e.g., self-efficacy, instructional quality) and map them to a dataset.",
+    "Learners can design an ANN model achieving over 90% prediction accuracy through data preprocessing, feature selection, and model optimization.",
+    "Learners can quantitatively evaluate model performance by interpreting the confusion matrix and TPR/TNR metrics."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook Environment",
+      "Google Colaboratory",
+      "Keras/TensorFlow Libraries",
+      "Open-Source Educational Dataset",
+      "LMS (Learning Management System) access rights"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Education (Teaching & Learning)"
+}

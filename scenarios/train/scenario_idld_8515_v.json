@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8515-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Programming Practical Competencies: Changes in Learner Engagement in Workplace e-Learning: Branching Scenarios",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental concepts in the job field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can perform decision-making processes reflecting real job scenarios with over 80% accuracy through quarterly scenario-based tasks.",
+    "Learners can analyze errors and propose at least three improvement strategies based on feedback after scenario-based learning.",
+    "Learners can evaluate their learning engagement and cognitive load levels at 4 points or higher on a 5-point scale through a survey at the end of the course."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

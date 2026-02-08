@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0652",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Video-Based Self-Directed Learning Program for Improving English and Digital Literacy",
+  "context": {
+    "prior_knowledge": "Basic English communication skills and fundamental smartphone operation proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical science education program for general citizens. Participants primarily access content via smartphones, with collaborative learning emphasized through in-class group activities",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can produce a 3-minute simple video presentation using English video content related to scientific topics",
+    "Learners can effectively organize audiovisual materials using digital tools (e.g., smartphone editing apps) during video production",
+    "Learners can analyze learning outcomes through peer and self-assessment and suggest at least three improvement directions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Simple video editing application",
+      "Science topic learning materials (PDF/print)",
+      "Wi-Fi-enabled learning space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

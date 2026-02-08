@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5641",
+  "variant_type": "idld_aligned",
+  "title": "Context-Aware Ontology-Based Customized E-Learning Design",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and general understanding of social studies domains",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Social studies education requiring customized learning content delivery in smartphone-centric limited-technology environments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify personalized learning pathways reflecting individual contexts (learning styles, career goals, etc.) with over 80% accuracy",
+    "Learners are assessed on their ability to apply core social studies concepts (e.g., cultural change, social structure, policy analysis) to real cases through ontology-based recommendation systems",
+    "Learners complete at least two personalized assignments per week using context-aware learning modules in mobile environments and incorporate peer feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Social Domain Ontology Database",
+      "Context-Aware Algorithm",
+      "Real-Time Video Conferencing Tool (e.g., Zoom)",
+      "Smartphone-Compatible Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

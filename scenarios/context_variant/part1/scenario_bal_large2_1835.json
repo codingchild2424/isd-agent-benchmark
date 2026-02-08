@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1835",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Development of an Integrated Instructional Design System for Science Learning Environments [Large-Scale]",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and proficiency in fundamental digital device usage",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learning a science curriculum-based instructional design system through practice-oriented activities, including digital device utilization",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can create an instructional design matrix by analyzing four educational issues: training scope, training location, transfer performance characteristics, and learning difficulty.",
+    "Learners can apply eight design elements—such as feedback delivery methods, practice structure, and modeling strategies—based on analysis results.",
+    "Learners can establish a data collection plan supporting instructional design elements through organizational and individual analyses."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Experiment Kit",
+      "Tablet PC",
+      "LMS account",
+      "ITDM Template Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

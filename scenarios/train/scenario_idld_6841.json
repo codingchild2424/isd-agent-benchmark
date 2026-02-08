@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6841",
+  "variant_type": "idld_aligned",
+  "title": "Accredited Continuing Medical Education Model Design Workshop: An Assessment-Based Approach",
+  "context": {
+    "prior_knowledge": "Experience in medical education planning or evaluation, with basic statistical interpretation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Blended course combining smartphone-based mobile learning with offline workshops, emphasizing practical application through collaborative activities among learners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "A tool can be developed to measure the effectiveness of medical education programs using an assessment design framework.",
+    "The level of educational activity evaluation can be diagnosed, and an improvement plan can be established according to a four-stage certification model.",
+    "Learner performance can be analyzed by applying mobile-friendly assessment methods in limited technological environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Offline Workshop Space",
+      "Printable Assessment Guidelines",
+      "Case Study Resource Compilation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7935",
+  "variant_type": "idld_aligned",
+  "title": "Learning Analytics-Based Course Design Support Strategies in Blended Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and experience with digital learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Experience in operating blended learning environments for language proficiency improvement in corporate settings. Capable of collecting learning data using digital devices.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can optimize the online-offline activity ratio in blended learning courses using learning analytics data.",
+    "Learners can improve learning engagement by 20% through checkpoint analysis, including student login frequency and content interaction patterns.",
+    "Based on weekly learning process visualizations, learners can shorten the teacher-student feedback cycle to within one week."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Management System (LMS) and Analytics Tools",
+      "Online Content Production Templates",
+      "Learner Behavior Pattern Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

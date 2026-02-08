@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0938",
+  "variant_type": "idld_aligned",
+  "title": "Survey Method Design for Analyzing Awareness and Impact of AI Tools",
+  "context": {
+    "prior_knowledge": "Understanding Basic Statistics and Research Methodology",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A survey design and implementation learning program for graduate students in science, analyzing the current status of AI tool utilization",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Within two weeks, learners validate content validity (CVI ≥ 0.78) and internal consistency reliability (Cronbach’s α ≥ 0.70) for one questionnaire on AI tool utilization targeting graduate students and propose at least three item improvement plans reflecting expert feedback.",
+    "Learners analyze the social impact of AI tools using quantitative data (experimental results, numerical statistics) and qualitative data (user feedback, case studies), and write a 5-page report (introduction-methodology-results-discussion-references structure) including at least three data visualizations (graphs/tables) and five or more references.",
+    "Learners collect AI tool utilization data by gender (male/female) and major (engineering/humanities-social sciences), generate at least three visualization charts (bar graphs, heatmaps, box plots) using Python’s Pandas and Matplotlib libraries, and analyze pattern differences."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Survey Response Data Sample (175 Cases)",
+      "JASP Statistical Analysis Tool",
+      "MAXQDA Qualitative Analysis Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0273-V",
+  "variant_type": "context_variant",
+  "title": "Machine Learning-Based High-Strength Aluminum Alloy Design Project",
+  "context": {
+    "prior_knowledge": "Foundations of Materials Science, Principles of Alloy Design, and Basic Understanding of Machine Learning Algorithms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Operating data analysis and collaborative platforms using digital devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain key performance indicators of high-strength aluminum alloys (tensile strength, fracture toughness, and stress corrosion resistance).",
+    "Learners can analyze the correlation between alloy elemental composition and performance using machine learning models.",
+    "The predictive performance of the designed alloy combinations can be evaluated by comparing them with experimental data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Aluminum Alloy Database",
+      "Python-Based Machine Learning Tool",
+      "Simulation Software",
+      "Experimental Data Samples"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

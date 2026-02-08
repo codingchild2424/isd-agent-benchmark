@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8111",
+  "variant_type": "idld_aligned",
+  "title": "Scaffolding-Based Dental Simulation Practical Training",
+  "context": {
+    "prior_knowledge": "Basic dental procedure protocols and anatomical knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended education using digital simulation equipment and phantom head models, aimed at enhancing the proficiency of current practitioners. Evaluation results are utilized as a progression condition for patient care practicums.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Understand the fundamental principles of vortex formation and apply them step-by-step.",
+    "Perform simple caries treatment procedures with 80% accuracy using simulation equipment.",
+    "Develop treatment plans for complex proximal caries based on feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Haptics Simulator",
+      "Phantom Head Model",
+      "Digital Assessment System",
+      "3D Tooth Model"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

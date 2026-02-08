@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4240-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Physical Therapy Simulation Practice: Self-Directed Online Training Program",
+  "context": {
+    "prior_knowledge": "Basic physical therapy theories and practical skills knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply patient assessment protocols with 80% accuracy in simulation environments",
+    "Learners can utilize three core assessment tools during treatment planning processes based on virtual patient cases",
+    "Learners can write self-reflection reports and derive at least three improvement points through feedback sessions after simulation practices"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

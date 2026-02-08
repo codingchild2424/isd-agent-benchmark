@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-0179",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Scratch-Geogebra Language-Mathematics Instructional Design for Integrating Computational Thinking and Mathematics: Algorithmic Problem-Solving and Structured Text Representation",
+  "context": {
+    "prior_knowledge": "Foundational programming concepts, high school-level mathematics knowledge, basic ability to interpret mathematical texts and construct logical expressions, linguistic analysis skills (sentence structure comprehension, vocabulary utilization)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasizes collaborative problem-solving activities using Scratch and GeoGebra in BYOD environments. Develops multidisciplinary thinking through linguistics-mathematics integration. Focuses on training learners to convert mathematical concepts into linguistic expressions (written explanations, oral presentations) and cultivate clear communication skills during algorithm design. Learners simultaneously advance reading comprehension, expression, and critical thinking by integrating text-based explanations with visual representations.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Designing Scratch block-based algorithms, learners can logically solve mathematical problems (e.g., sequences, geometry) and explain the problem-solving process in structured text (grammatical accuracy, logical coherence, discipline-specific vocabulary).",
+    "By integrating GeoGebra-generated visualizations with Scratch projects, learners can clearly explain mathematical concepts in linguistic expressions (descriptive explanations, comparative analysis, cause-effect structures).",
+    "Applying computational thinking elements (decomposition, pattern recognition, abstraction, algorithmization), learners can model given math problems (sequence pattern analysis or shape division) in four stages (problem decomposition → pattern recognition → abstraction → algorithm design) and achieve ‘Excellent’ in ≥3 of 5 teacher-rubric criteria (clarity, logic, creativity, accuracy, completeness). Additionally, in oral presentations, learners can demonstrate communication skills using ≥3 technical terms (e.g., ‘variable’, ‘loop’, ‘conditional statement’) and complex sentence structures (≥2 sentences with conjunctions, relative clauses)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Laptop/Tablet Devices",
+      "Scratch Offline Editor",
+      "GeoGebra Classic 6",
+      "LMS account",
+      "Collaborative worksheet template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2882-V",
+  "variant_type": "context_variant",
+  "title": "E-Learning Quality Evaluation Competency Enhancement Program for Korean Adult Language Learners",
+  "context": {
+    "prior_knowledge": "Online language learning experience, basic statistical analysis comprehension, and foundational knowledge of language curriculum evaluation",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course for adult learners pursuing non-degree language programs in a BYOD environment, developing competencies to evaluate the quality of language learning content and platforms. Prioritizes designing customized assessment tools considering learners' reading comprehension and expressive abilities.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Korean adult language learners can explain the seven dimensions of e-learning quality they perceive (interaction, staff support, institutional quality assurance, institutional credibility, learner support, information & promotion, learning tasks) in the context of language education.",
+    "Learners perform exploratory factor analysis (EFA) using survey data to construct an e-learning quality evaluation model for language learning.",
+    "Learners validate the fit of the seven-dimension model through confirmatory factor analysis (CFA) and apply procedures to derive language learning content evaluation criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Statistical Analysis Software",
+      "LMS platform",
+      "Survey Questionnaire Template",
+      "Korean Adult Learner Sample Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

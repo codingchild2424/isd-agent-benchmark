@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0584",
+  "variant_type": "balance_medium_scale",
+  "title": "Science Education Curriculum Through Open and Distance Learning (ODL)",
+  "context": {
+    "prior_knowledge": "Middle school-level foundational science knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducted in an asynchronous learning environment using digital devices, learning outcomes are measured through project-based assessments. Designed to enable learners from diverse socioeconomic backgrounds to access science education via an ODL (Open and Distance Learning) system.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain scientific inquiry methods using Open and Distance Learning (ODL) platforms.",
+    "Learners can complete projects that solve real-life problems by analyzing science materials provided within the LMS.",
+    "Learners can enhance collaboration skills with peers through online discussion and feedback systems."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital Science Textbook",
+      "Online Lab Simulation Tool",
+      "Automated grading system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

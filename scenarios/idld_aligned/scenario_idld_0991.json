@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0991",
+  "variant_type": "idld_aligned",
+  "title": "Mathematical Optimization Training Program Based on Port Crane Operator Simulation",
+  "context": {
+    "prior_knowledge": "Basic crane operation theory, understanding of port workflow procedures, and high school-level mathematics knowledge (equations, graphs, basic statistics, introductory linear programming).",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "In a virtual simulation environment mimicking real port operations, learners acquire operating techniques for various crane types and solve actual work scenarios in project units. This includes Monte Carlo simulations considering probabilistic variables (weather conditions, equipment failures) and integer programming (IP) for optimizing work sequences.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "By the end of the six-month course, learners will model operational parameters (work speed, movement paths, energy consumption) of Quay-Side Gantry and Rubber Tired Gantry cranes using simulation tools (e.g., AnyLogic). Applying linear programming and optimization algorithms, they will achieve at least a 15% improvement in operational efficiency.",
+    "Enhance proficiency in linear programming (LP) modeling for efficient container loading/unloading operations and deriving optimal solutions under constraints.",
+    "Analyze real-time performance data (probability distributions, statistical significance testing) using simulation-based auto-evaluation systems and improve work processes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Simulation Software",
+      "Virtual Reality (VR) Headset Rental System",
+      "Crane Control Interface Simulator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3985",
+  "variant_type": "idld_aligned",
+  "title": "Adaptive Connectionism-Based MOOC for Strengthening Social Job Competencies",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and intermediate understanding of social studies",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-based learning environments with flexible scheduling for working professionals.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can construct personalized knowledge networks by applying connectionist learning principles",
+    "Learners can select optimal learning pathways based on data analysis to solve job-related problems in social fields",
+    "Learners can complete two or more practical tasks per week using multimedia content optimized for mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Classification-Based Recommendation System",
+      "IMS Standards-Compliant Content",
+      "Formative Assessment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

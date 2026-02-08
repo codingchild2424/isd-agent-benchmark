@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0264",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Adaptive Scientific Inquiry: Learner-Tailored VR Simulation Project",
+  "context": {
+    "prior_knowledge": "Knowledge of basic scientific principles and experience with digital device usage",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Environment dynamically adjusting VR simulation tasks based on individual learning style analysis; students develop self-directed learning abilities by solving real-world problems through scientific inquiry processes",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can complete VR simulation tasks tailored to their learning styles with over 80% accuracy.",
+    "Learners can systematically apply the scientific inquiry stages (hypothesis-experiment-analysis-conclusion) in dynamically adjusted personalized learning paths based on formative assessment results.",
+    "Learners can correct and supplement experimental design errors within three attempts by reflecting on personalized feedback suggested by an adaptive system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset (15 Sets)",
+      "30 Tablet Devices",
+      "Science experiment simulation software",
+      "Learning style diagnostic tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

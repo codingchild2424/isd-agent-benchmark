@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1642-V",
+  "variant_type": "context_variant",
+  "title": "Mathematics Education Design to Bridge e-Learning Competency Gaps in Developing Countries",
+  "context": {
+    "prior_knowledge": "Elementary mathematics knowledge and experience using digital devices",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Math education design applying an e-learning competency gap analysis framework in smartphone-centric limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze and explain the four types of e-learning competency gaps (design, production, tutorial, and community).",
+    "Learners can design math problem-solving strategies using smartphone-based simulation/VR tools.",
+    "Learners can demonstrate collaborative problem-solving skills in e-learning environments through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "VR headset shared equipment",
+      "Low-Capacity VR Content",
+      "Offline-Synchronizable LMS"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

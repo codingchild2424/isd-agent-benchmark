@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1050",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Cognitive Load Monitoring-Based Adaptive Language Education Design",
+  "context": {
+    "prior_knowledge": "Elementary cognitive science theories and foundational language education knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening language education design competencies based on real-time cognitive load monitoring and analysis using wearable devices (EEG equipment)",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the operational principles of EEG-based cognitive load monitoring systems",
+    "Learners can design learner-customized language education strategies by analyzing cognitive load data",
+    "Learners can apply efficient data processing strategies in environments with limited system resources (memory, battery, etc.)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "4-Channel Wearable EEG Device",
+      "Edge Computing Platform",
+      "Real-Time Data Analysis Software",
+      "ML Model Optimization Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

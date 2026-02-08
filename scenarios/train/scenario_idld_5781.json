@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5781",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Design for Science-Based e-Learning Implementation",
+  "context": {
+    "prior_knowledge": "Foundational science and mathematics knowledge at the secondary education level",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires interactive learning design using LMS platforms like Edmodo in smartphone-centric limited-technology environments. Focuses on implementing social presence through learner collaboration and educator feedback.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can create a 3-minute microlearning content explaining basic concepts of optics and light on the Edmodo platform.",
+    "Learners improve science problem-solving skills by 20% through peer evaluation and feedback exchange in mobile environments.",
+    "Learners achieve 4 or higher (out of 5) in usability and satisfaction with e-learning systems based on the USE questionnaire criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Edmodo LMS Account",
+      "Wi-Fi-Enabled Environment",
+      "Science Experiment Simulation App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

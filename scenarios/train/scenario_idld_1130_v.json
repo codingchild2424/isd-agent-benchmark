@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1130-V",
+  "variant_type": "context_variant",
+  "title": "Workshop on Developing Learning Design Engines Based on IMS LD",
+  "context": {
+    "prior_knowledge": "Intermediate-level instructional design theories and basic programming knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course strengthening learning design engine development capabilities for medical/legal/technical experts through team-based projects. Provides practice-oriented education with digital devices",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply Petri Net techniques for learning flow modeling based on IMS LD specifications",
+    "Learners can construct flexible learning design engines by referencing the OPENET4LD architecture",
+    "Learners can define interaction rules for learning flow components through ontology-based semantic design",
+    "Learners can implement Units of Learning (learning scenarios) compliant with IMS LD Level A/B standards",
+    "Learners can verify the structural validity of learning design engines through formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Petri Net simulation tool",
+      "IMS Learning Design (LD) Editor",
+      "Learning design ontology library",
+      "PBL Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

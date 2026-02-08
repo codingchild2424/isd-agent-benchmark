@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7560",
+  "variant_type": "idld_aligned",
+  "title": "Cognitive Load Measurement and Optimization Design in Mathematics Learning",
+  "context": {
+    "prior_knowledge": "Basic mathematical computation skills and foundational understanding of cognitive load theory",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Real-time cognitive load data collection and analysis utilizing learners' personal mobile devices (BYOD). Measurement and comparative evaluation of cognitive load during project teams' mathematical problem-solving processes.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can distinguish and explain the differences between intrinsic, extraneous, and germane cognitive load with 80% accuracy.",
+    "Learners can collect and interpret data using EEG-based cognitive load measurement tools (N1/P2 component analysis) when performing PBL tasks.",
+    "Learners can compare cognitive load patterns based on math problem types (carryover operations/digit representation methods) and propose effective learning design strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile EEG measurement device",
+      "Cognitive load analysis software",
+      "Mathematical operations problem set",
+      "Project portfolio template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

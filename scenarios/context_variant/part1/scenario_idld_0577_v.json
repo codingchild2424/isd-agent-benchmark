@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0577-V",
+  "variant_type": "context_variant",
+  "title": "Blended Learning Course Based on Mathematical Modeling for Strengthening IoT Adult Educators' Competencies",
+  "context": {
+    "prior_knowledge": "Advanced mastery of mathematical theories (statistics, probability, equations, calculus) and high-level application techniques",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A blended learning environment combining MOOCs and offline workshops, utilizing Open Educational Resources (OERs) with a focus on quantitative analysis of IoT data and mathematical reasoning. It particularly emphasizes graph interpretation for identifying data patterns and the ability to draw evidence-based conclusions.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners will explain the basic principles and application cases of IoT technology using mathematical modeling, equations, and formulas.",
+    "Learners will design and implement time-series data analysis and probability distribution graph visualization content for IoT-based educational materials via MOOC platforms.",
+    "Through project-based learning (PBL), learners will develop statistical inference scenarios using IoT sensor data and build probabilistic evaluation models."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MOODLE-Based Platform",
+      "IoT Practice Kit",
+      "Digital educational resources",
+      "Open Educational Resources (OERs)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

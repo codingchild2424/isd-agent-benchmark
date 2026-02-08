@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7041-V",
+  "variant_type": "context_variant",
+  "title": "Augmented Reality-Based Operational Amplifier Practical Training",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "AR-based intensive training for current practitioners to bridge theory-practice gaps",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze input-output signals of operational amplifier circuits implemented on an actual breadboard in real-time using an AR application.",
+    "Learners can simulate output voltage changes when modifying resistor/capacitor values via an AR interface and record experimental data.",
+    "Learners can explain the operational principles of operational amplifiers by integrating 3D circuit models with theoretical explanations in an augmented reality environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Application (Smartphone-Compatible)",
+      "Personal Breadboard and Basic Electronic Components",
+      "Zoom/Wi-Fi Environment Setup Guide",
+      "AR marker printouts"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

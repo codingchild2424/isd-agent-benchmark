@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-0292",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Computer-Based Learning Simulation for Critical Literacy Development",
+  "context": {
+    "prior_knowledge": "Basic reading comprehension skills and experience analyzing college-level texts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "VR simulation-based project learning feasible in smartphone-centric, limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Identify logical fallacies, biases, and rhetorical strategies in diverse text genres with 80% accuracy",
+    "Select and apply five or more context-appropriate reading comprehension strategies based on text type",
+    "Using collaborative tools like Google Docs or Padlet, learners can receive feedback from three or more peers, incorporate it into a 500-character critical analysis report, and meet two or more of the three evaluation criteria (clarity, logical coherence, creativity).",
+    "Visualize argument structures for simulated social issue texts in VR environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR device",
+      "Text Analysis Web Tool",
+      "Collaborative Platform Account",
+      "Open-Source VR Content Creation Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

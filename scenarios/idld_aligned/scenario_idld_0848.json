@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0848",
+  "variant_type": "idld_aligned",
+  "title": "Image Super-Resolution Restoration: Multimodal Deep Learning Design and Applications",
+  "context": {
+    "prior_knowledge": "Python programming, foundational deep learning, and image processing theory",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Course focused on acquiring image restoration skills for solving real-world social issues",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design and implement a super-resolution reconstruction neural network structure utilizing multimodal data (near-infrared, RGB, etc.)",
+    "Explain methods for applying sparse coding and iterative algorithm principles to deep learning architectures",
+    "Submit project-based assessment outcomes applying super-resolution technology to real-world domain problems (medical, environmental monitoring, etc.)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GPU Server",
+      "Multimodal Image Dataset",
+      "PyTorch/TensorFlow Development Environment",
+      "Jupyter Notebook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

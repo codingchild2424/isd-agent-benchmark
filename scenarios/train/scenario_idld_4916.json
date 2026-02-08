@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4916",
+  "variant_type": "idld_aligned",
+  "title": "Practitioner Competency Enhancement Course for Improving Learner Satisfaction in Blended Learning Environments",
+  "context": {
+    "prior_knowledge": "Experience with online learning tools and basic language education knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Targets current practitioners (language educators, etc.) focusing on satisfaction analysis based on learner characteristics and improvement strategies in blended learning environments using personal devices",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Analyze and explain three or more differences in adaptation to blended learning environments between new/existing learners.",
+    "Design and apply a learner satisfaction prediction model using real-time log data.",
+    "Propose personalized educational design strategies based on learner characteristics through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS System",
+      "Learning Analytics Software",
+      "Survey Questionnaire Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

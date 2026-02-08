@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0426",
+  "variant_type": "idld_aligned",
+  "title": "Project-Based Education for Improving Information Literacy for Adult Citizens",
+  "context": {
+    "prior_knowledge": "Basic digital device usage skills and routine information retrieval experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening information evaluation and application skills through real-life problem-solving in science fields.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners accurately identify credible information from scientific digital sources (websites, papers, statistics, etc.) with over 80% precision",
+    "Learners systematically apply information gathered through PBL activities to solve scientific problems and produce concrete outcomes",
+    "Learners can ethically reconstruct/share information in scientifically valid ways while considering information ethics and copyright issues"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access to scientific information databases",
+      "Digital Collaboration Tools (e.g., Google Workspace)",
+      "Science Experiment Kit",
+      "Information Evaluation Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

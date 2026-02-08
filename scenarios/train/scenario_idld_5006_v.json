@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5006-V",
+  "variant_type": "context_variant",
+  "title": "Collaborative Microlearning Design for Preparing General Education Mathematics Curriculum",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Collaborative lesson design for adapting general education math curricula. Blended learning environment linking preteaching by special education experts with mainstream classroom instruction",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain core concepts of a general educational mathematics curriculum (statistics, calculus, linear algebra, etc.) with over 80% accuracy.",
+    "Learners complete collaborative problem-solving tasks (twice weekly) on a mobile microlearning platform with over 90% completion and develop self-directed learning habits.",
+    "Learners apply mathematical and collaborative skills (problem analysis, logical explanation, peer feedback) acquired during preteaching with over 75% frequency during regular classes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform (LMS)",
+      "Interactive math simulation tool",
+      "Collaborative Digital Whiteboard",
+      "Weekly Learning Progress Monitoring System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

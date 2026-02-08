@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1025-V",
+  "variant_type": "context_variant",
+  "title": "Web-based HTML Coding Expert Training Program Utilizing Visual Models",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for pre-service or in-service teachers to strengthen HTML coding instructional competencies, conducted in a large-scale online learning environment with BYOD.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately identify HTML structures by analyzing visual models and implement them with 90% accuracy.",
+    "Learners can debug with over 80% efficiency by comparing error codes with visual models.",
+    "Learners can design complex web layouts with over 70% completion rates using step-by-step visual guides."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Conversational HTML Visual Editor",
+      "Step-by-Step Diagram Library",
+      "Automated Code Verification System",
+      "LMS-Integrated Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

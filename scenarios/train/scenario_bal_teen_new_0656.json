@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0656",
+  "variant_type": "balance_teen_filtered",
+  "title": "Data-Driven Optimized Learning for Multi-Agent Collaboration in [K-12] Education",
+  "context": {
+    "prior_knowledge": "Foundational mathematics skills, computer literacy, and comprehension of simple algorithms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Performing team-based simulation tasks using smartphone-based collaboration tools",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design collaborative scenarios involving three or more agents using data-driven control principles",
+    "I/O learning algorithms that derive optimal consensus values by analyzing real measurement data can be applied",
+    "A control system demonstrating over 85% goal achievement can be constructed through team collaboration in limited information environments"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile collaboration apps",
+      "Virtual agent simulation kit",
+      "Open-Source Data Analysis Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

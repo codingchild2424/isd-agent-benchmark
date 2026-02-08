@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1777-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Learning Design Practical Competencies: Augmented Reality-Based Electro-Pneumatic Practical Learning Course",
+  "context": {
+    "prior_knowledge": "Understanding of basic electrical circuits and simple pneumatic systems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Competency enhancement program for professionals in education/teaching/learning fields",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the components and operating principles of electro-pneumatic systems through 3D augmented reality models.",
+    "Learners can design and simulate electro-pneumatic circuits using augmented reality markers in a virtual laboratory.",
+    "Learners can propose electro-pneumatic systems applicable to real industrial settings through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Authoring Tool",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-8374-V",
+  "variant_type": "context_variant",
+  "title": "Dual-Task Training Design Based on Medical Simulation",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Training program for pre-service teachers to enhance multitasking abilities in medical simulation environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze training effectiveness using cognitive load measurement tools (SRME, SDR, RRT) in dual-task simulation environments",
+    "Learners can compare and explain cognitive load patterns observed during the transition from novice to expert",
+    "Learners can quantitatively evaluate improvements in cognitive efficiency during dual-task performance through repeated training",
+    "Learners can establish optimal difficulty-adjustment strategies applying cognitive load theory when designing simulation-based training"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual patient simulation software",
+      "Surgical Skills Training Kit",
+      "Cognitive Load Measurement Tool",
+      "Data Analytics Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

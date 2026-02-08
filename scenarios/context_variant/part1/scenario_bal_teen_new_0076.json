@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0076",
+  "variant_type": "balance_teen_filtered",
+  "title": "Analysis of MOOC Learning Engagement Patterns and Design Improvements (K-12)",
+  "context": {
+    "prior_knowledge": "Experience with online learning, and understanding of basic math concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A smartphone-based learning environment with formative assessment-centered asynchronous education",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can classify MOOC participation patterns into three types using educational process mining techniques.",
+    "Learners can suggest improvements to instructional design considering learning activity types (e.g., video viewing, quizzes, discussions) and temporal sequencing.",
+    "Learners can develop customized learning strategies by analyzing key engagement pathways for learner clusters."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Educational Data Analysis Tools",
+      "Learning Activity Classification Framework",
+      "Learning Engagement Visualization Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

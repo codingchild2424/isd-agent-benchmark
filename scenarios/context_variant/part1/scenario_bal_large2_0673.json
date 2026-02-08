@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-0673",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Field-Based Geospatial Science Project Learning",
+  "context": {
+    "prior_knowledge": "Grasp of introductory GIS concepts and personal device (smartphone/tablet) utilization skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learner group comprising professionals in medical/legal/technical fields, focusing on acquiring practical GIS skills through field data collection and analysis",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can systematically collect spatial data using mobile devices in local survey areas.",
+    "Learners can analyze collected data with GIS software to generate maps and statistical reports.",
+    "Learners can perform shared data management and collaborative processes through team-based projects.",
+    "Learners can propose practical solutions to real-world problems based on analytical results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GIS Software Licenses (e.g., QGIS)",
+      "Mobile Data Collection App (GIS-Enabled)",
+      "Field Survey Equipment (e.g., Measurement Devices)",
+      "Sample Datasets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

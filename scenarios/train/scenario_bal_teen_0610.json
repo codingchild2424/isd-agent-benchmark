@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0610",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Digital Game-Based Language Learning Design Using Constructive Alignment",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Game Design and Language Education Theories",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires designing educational activities accessible via smartphones",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design at least three types of game mechanics aligned with language education objectives",
+    "Learners can utilize rubrics to evaluate consistency between game design and learning objectives",
+    "Learners can integrate formative assessment mechanisms suitable for mobile environments into game design"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Game Development Tool",
+      "Online Collaboration Platform",
+      "Digital Evaluation Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

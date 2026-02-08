@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1935-V",
+  "variant_type": "context_variant",
+  "title": "Virtual Environment-Based Science Assessment and Language Proficiency Enhancement Workshop",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Scientific Concepts and Digital Device Utilization Skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Utilization of virtual assessment tools and application of language-science integrated pedagogical approaches in BYOD environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can descriptively document the process of designing science experiments and verifying hypotheses in a virtual laboratory.",
+    "In a virtual environment-based assessment simulation (e.g., Labster, VR science labs), learners perform three scientific inquiry activities (observation, hypothesis formation, experimental design). They achieve an average of 4 or higher on a 5-point rubric per activity and write a quantitative results report (including data visualization).",
+    "Learners can enhance academic language proficiency in accurately explaining scientific terminology and experimental procedures."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR device 5-pack",
+      "Interactive virtual laboratory software",
+      "Science assessment rubric template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

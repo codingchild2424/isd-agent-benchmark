@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-FINAL-0006",
+  "variant_type": "balance_large_final",
+  "title": "Technology-Enhanced Pedagogical Design for Understanding Probability Distributions and Random Variables",
+  "context": {
+    "prior_knowledge": "Foundational statistics (distributions, expected values, variance, etc.) and mathematical problem-solving skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "For pre-service/in-service teachers, where most learners operate in PC-unavailable environments with smartphone-centric learning",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "They can accurately explain the mathematical definitions of random variables and discrete/continuous probability distributions.",
+    "They can model probabilistic phenomena using smartphone-based simulation tools.",
+    "They can design technology-enhanced teaching methods applicable in real educational settings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Open-Source Statistical Software (Mobile Version)",
+      "Interactive Probability Simulation App",
+      "PDF-based learning materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

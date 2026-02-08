@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0396",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Short-Intensive Course on Engineering Communication Integrating Sustainability",
+  "context": {
+    "prior_knowledge": "Elementary engineering knowledge and college-level mathematical competency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A non-real-time blended learning course optimized for smartphone-based environments. Strengthening self-directed learning competencies through flipped learning and developing sustainable communication skills applicable to real-life contexts.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners understand and apply the environmental, social, and cultural dimensions of sustainability to engineering problems.",
+    "Learners can express solutions to real-life problems as mathematical models based on sustainability literacy.",
+    "Learners complete sustainability project reports through asynchronous discussions and LMS-based collaboration in a flipped learning environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Video Lecture Materials (MP4)",
+      "PDF Workbook",
+      "Case-Based Workshop Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

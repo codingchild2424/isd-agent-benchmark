@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1022-V",
+  "variant_type": "context_variant",
+  "title": "Modeling-Based Interdisciplinary Learning: Integrated Understanding Through Hydraulic Arm Simulation",
+  "context": {
+    "prior_knowledge": "Basic geometry (angle, distance measurement) and understanding of simple scientific principles",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Hybrid learning environment using VR equipment and LMS, incorporating a low-cost prototype (virtual hydraulic arm) to ensure participation for all learners, including those with learning disabilities.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the operating mechanism of hydraulic arms in three or more representational forms (diagrams, formulas, simulations) through modeling",
+    "Learners can accurately calculate joint angles of hydraulic arms within a 5° error margin using angle-measurement tools",
+    "In VR simulations, learners can predict object movement distances by applying the concept of linear change and compare/analyze experimental results"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "VR Headset",
+      "LMS Access Permissions",
+      "Digital Protractor Application",
+      "3D Modeling Software",
+      "Low-Cost Prototype Design Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

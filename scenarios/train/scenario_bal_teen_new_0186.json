@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0186",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Teacher Facilitation Competency Enhancement Program for Inquiry-Based Language Learning (IBL): Integrated Text and Speech Analysis Approach",
+  "context": {
+    "prior_knowledge": "Basic language instruction experience, understanding of Inquiry-Based Learning (IBL) concepts, foundational knowledge of learner language development stages, and experience using digital text analysis tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A language learning environment using digital devices (tablets/laptops) and speech recognition software. Emphasizes real-time learner-teacher interaction (writing feedback, oral presentation evaluation, pronunciation correction). Integrates text analysis tools (lexical frequency analysis, grammar error detection) with speech recognition software (pronunciation assessment, fluency measurement).",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "When designing IBL lessons, learners can establish plans to use text/speech analysis tools that predict learners’ language inquiry pathways (reading, writing, speaking, listening).",
+    "Learners can execute ≥3 strategies for flexible language class adjustments via real-time learning data monitoring (e.g., vocabulary expansion, grammatical feedback, expression diversification, pronunciation correction).",
+    "When designing IBL activities, learners achieve ≥80% on assessments evaluating their ability to map language learning objectives (grammatical accuracy, lexical diversity, text comprehension, discourse competence) to analytical metrics."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Go-Lab Platform Sample Data",
+      "Learning Analytics Visualization Template",
+      "Inquiry-Based Learning (IBL) Activity Design Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

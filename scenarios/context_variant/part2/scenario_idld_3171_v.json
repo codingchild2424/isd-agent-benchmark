@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3171-V",
+  "variant_type": "context_variant",
+  "title": "Workshop on Designing and Implementing Medical Education Innovation Strategies",
+  "context": {
+    "prior_knowledge": "Practical experience in the medical field and basic educational design principles understanding",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Blended education for current healthcare practitioners in a smartphone-based, limited technological environment. A program enhancing educational innovation capabilities by applying instructional design theories and completing practical project-based tasks.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze the theoretical foundations of educational strategies and apply them to medical education design.",
+    "Learners can develop innovative instructional methods that are implementable in limited technological environments.",
+    "Learners can create educational materials applicable to real-world educational settings through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based Learning Management System",
+      "Open-Source Instructional Design Template",
+      "Online Collaboration Tools (Google Workspace, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

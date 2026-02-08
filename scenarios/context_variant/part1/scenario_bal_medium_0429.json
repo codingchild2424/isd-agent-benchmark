@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0429",
+  "variant_type": "balance_medium_scale",
+  "title": "Constructivist-based mobile microlearning program for mathematical operations and linguistic expression",
+  "context": {
+    "prior_knowledge": "Basic arithmetic operations (addition, subtraction, multiplication, division) and integer comprehension, ability to construct foundational vocabulary and grammatical structures for explaining mathematical concepts, experience in composing simple textual explanations",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A personalized learning environment using individual devices, offering customized computational problem generation and real-time text feedback. Focuses on integrating language expression (speaking/writing) with mathematical thinking through oral explanation activities and writing practice. Strengthens communication skills via peer assessment and feedback exchange.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners solve complex arithmetic problems (mixed operations) with ≥80% accuracy within four weeks and explain the problem-solving process using systematic grammatical structures and specialized vocabulary.",
+    "Learners analyze and correct error patterns during problem-solving, writing logical textual feedback explaining the root causes of errors.",
+    "Learners participate in discussion activities comparing diverse computational strategies through collaboration with peers, improving their ability to articulate their thought processes clearly."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App",
+      "Online Practice Question Database",
+      "Personalized Learning Report System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

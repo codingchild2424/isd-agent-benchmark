@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2393-V",
+  "variant_type": "context_variant",
+  "title": "E-Learning Security Design Course Utilizing Hybrid Encryption",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course aiming to integrate linguistics and computer science education, conducting project-based assessments in BYOD (Bring Your Own Device) environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the components of hybrid encryption systems (RSA+AES) and analyze practical implementation cases",
+    "Learners can design processes to protect educational content using BCIE compression algorithms and SCELL encryption techniques",
+    "Learners can develop systems to safeguard language learning content from unauthorized access by implementing a two-stage compression-encryption process"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Encryption Software Toolkit",
+      "LMS platform",
+      "Sample Language Learning Content",
+      "Secure Testing Environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

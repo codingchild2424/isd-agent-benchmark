@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1973",
+  "variant_type": "idld_aligned",
+  "title": "Intelligent context-aware foreign language vocabulary deep learning",
+  "context": {
+    "prior_knowledge": "Elementary foreign language grammar and mastery of over 1,500 basic vocabulary words",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A personalized learning environment utilizing digital devices. The system applies AI to automatically generate learning contexts based on images captured by learners in their daily lives.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can acquire 50 new vocabulary items per week with 80% accuracy by utilizing context generated in the target language within VR simulation environments",
+    "Learners can achieve long-term retention rates of over 70% after three or more repetitions of connecting system-generated contexts with existing vocabulary networks",
+    "Learners can improve vocabulary utilization skills by 40% after a 4-week course through a spaced notification system based on AI-analyzed individual satisfaction and interaction data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smart Devices (Built-in Camera/AR Functionality)",
+      "Customizable LMS Platform",
+      "VR Headset Rental System",
+      "AI Image Analysis Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

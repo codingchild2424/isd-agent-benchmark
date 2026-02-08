@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0088",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Metaverse-Based Human-Machine Collaborative Learning Design",
+  "context": {
+    "prior_knowledge": "Basic digital device operation skills and online learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Metaverse-based learning program for non-degree-seeking adult learners in social sciences, operated in mobile environments. Focuses on project-based learning combining peer collaboration and AI tool utilization",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can collaborate with AI assistants in metaverse environments to design social problem-solving projects.",
+    "Learners perform at least three real-time collaborative scenarios with peer learners using digital avatars.",
+    "Learners create at least one piece of creative content (e.g., 3D models, virtual posters) using metaverse tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Metaverse platform license",
+      "AI Collaboration Toolkit",
+      "Mobile-Compatible 3D Authoring Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

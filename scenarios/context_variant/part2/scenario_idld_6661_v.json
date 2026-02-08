@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6661-V",
+  "variant_type": "context_variant",
+  "title": "Social Integration Simulation-Based MOOC Design for Citizens Aged 40+",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Virtual social problem-solving activities using VR devices, with content structured according to age-specific cognitive characteristics",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Analyze community conflict cases and propose collaborative solutions in a virtual simulation environment",
+    "After performing 3 VR-based role-play scenarios (generational conflict, cultural differences, disability understanding), learners achieve 4+ points (5-point scale) in 4 of 5 empathic communication skills (active listening, nonviolent communication, situation-appropriate responses) from 2 peer evaluators and 2 observer evaluators",
+    "Demonstrate social problem-solving competencies by performing at least three project-based assessments using digital tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset and Motion Controller",
+      "Simulation Development Platform License",
+      "Social Issues Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

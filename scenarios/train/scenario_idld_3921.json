@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3921",
+  "variant_type": "idld_aligned",
+  "title": "Pioneer Story-Based Curriculum for Text-Based Programming Learning",
+  "context": {
+    "prior_knowledge": "Elementary Computational Thinking and Block-Based Programming Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-based learning environment with offline activities utilizing school computer labs.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can independently write a text-based program of 50+ lines using Python syntax.",
+    "Learners can apply creative problem-solving approaches in programming and present original solutions in 80% or more of assignments.",
+    "Learners can improve self-efficacy by 70% or more during the programming learning process and apply at least three self-directed problem-solving strategies in the final project."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Offline textbook",
+      "School computer lab (weekly 1 session)",
+      "Online Learning Platform (Mobile-Optimized)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

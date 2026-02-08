@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-FINAL-0082",
+  "variant_type": "balance_medium_final",
+  "title": "Virtual Reality-based Language Learning Environment Design for Students with Disabilities: Development of Customized Instructional Strategies and Multi-modal Representation Support",
+  "context": {
+    "prior_knowledge": "Basic knowledge of speech-language pathology and special education, over three years of special education field experience, experience in language assessment and intervention for students with disabilities, and VR technology-based educational tool development experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Focuses on developing customized language learning solutions using low-cost VR technology on smartphones. Highlights differentiated support for disabilities (text: subtitles/Braille conversion; audio: speed adjustment/speech synthesis; visual: 3D modeling/color contrast) and applies UDL (Universal Design for Learning) principles.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Design an assessment framework in a virtual reality environment that considers the language development stages (listening, speaking, reading, writing) of students with disabilities, and develop a comprehensive diagnostic tool through text, speech, and visual expression analysis.",
+    "Develop three or more adaptive language teaching materials, including vocabulary expansion (categorized by semantic fields), grammar training (visualization of sentence structures), and communication simulations (context-based role-playing) using smartphone-compatible VR tools.",
+    "Implement a VR learning scenario based on Universal Design for Learning (UDL) principles and apply standardized pre- and post-assessment procedures to verify effectiveness in improving language skills (pronunciation, grammar, reading comprehension, and expressive abilities)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR development platform (Unity/Unreal Engine)",
+      "Mobile VR headset",
+      "Learning dataset by disability type"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

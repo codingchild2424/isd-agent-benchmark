@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3977",
+  "variant_type": "idld_aligned",
+  "title": "Image Analysis Project via Object Detection and Spatial Consistency Learning",
+  "context": {
+    "prior_knowledge": "Understanding of basic programming and image processing concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Emphasizes acquiring object detection skills applicable in medical/legal/technical fields. Provides hands-on training environments using digital devices (laptops, GPU servers, etc.).",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the principles of the Spatial Consistency Loss function (SCLoss) for object detection in diverse environments (medical imaging, surveillance footage, etc.)",
+    "Learners can accurately identify boundaries of ambiguous object regions by applying SCLoss-based models to real-world datasets",
+    "Learners can quantitatively evaluate performance improvements (over 15% accuracy enhancement) in object detection models through project deliverables"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GPU-Accelerated Computing Resources",
+      "Public Medical/Surveillance Datasets (e.g., COCO, CAMO)",
+      "Python and Deep Learning Framework Installation Packages (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

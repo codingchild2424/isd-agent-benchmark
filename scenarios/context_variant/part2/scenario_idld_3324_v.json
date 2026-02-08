@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3324-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Designing Digital Youth Learning Experiences Based on Constructivism",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and proficiency in digital tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can autonomously design and execute science projects using digital tools, exploring a wide range of STEAM topics.",
+    "In a constructivist, choice-driven learning environment, learners identify their areas of interest and enhance collaborative problem-solving skills.",
+    "In large-class settings, apply an assessment system reflecting individual learners' choice and interests to derive summative performance outcomes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

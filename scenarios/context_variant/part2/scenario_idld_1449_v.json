@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1449-V",
+  "variant_type": "context_variant",
+  "title": "E-Learning Quality Improvement Course Through Application of Software Engineering Design Principles",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for practicing elementary educators to enhance e-learning design capabilities in a smartphone-centric, limited-technology environment, including training in applying software engineering principles to complex educational content development.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can optimize content structures by applying software engineering design principles (abstraction, modularization, etc.) to e-learning design",
+    "Learners can design reusable e-learning modules in PBL environments and apply them to real-world projects",
+    "Learners can plan and evaluate scalable e-learning solutions even in constrained technological environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Open-Source Design Tool",
+      "Case-Based Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

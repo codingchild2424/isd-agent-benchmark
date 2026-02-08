@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-0800",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Project to Enhance Learner Agency in Smart Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic digital tool proficiency and general understanding of elementary social studies curriculum",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Current elementary teachers explore methods for designing and operating smart learning environments to enhance learner autonomy, developing practical classroom implementation plans through project execution",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design a learner-customized feedback system utilizing an adaptive learning platform",
+    "Within one week, learners develop one project-based learning scenario for social studies history/geography using virtual/augmented reality tools (CoSpaces, Unity, etc.), and submit a result that meets four or more of the five evaluation criteria provided in peer reviews and expert evaluations.",
+    "At the end of the one-week course, learners analyze three provided learning data samples to create a five-level rubric (four criteria, each rated on a 1–5 scale) for assessing learner autonomy, and receive validity recognition of an average of 4 points or higher from two peer evaluators.",
+    "Within one week, learners design strategies for managing large learner groups of 100+ using digital collaboration tools like Google Workspace and Microsoft Teams (including task allocation, progress monitoring, feedback systems), and demonstrate feasibility through peer evaluation and instructor verification."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PC Set",
+      "AI-Based Learning Analytics Tool",
+      "VR/AR Content Creation Software",
+      "Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

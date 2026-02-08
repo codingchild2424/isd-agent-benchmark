@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6737",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Distance Education Course Design Using the ADDIE Model",
+  "context": {
+    "prior_knowledge": "Basic educational technology skills and experience in social studies education",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requirement for smartphone-optimized content design considering environments without PC access. Practice-oriented design immediately applicable for pre-service/in-service teachers",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Design educational programs by applying ADDIE model’s five phases (Analysis-Design-Development-Implementation-Evaluation) to mobile environments",
+    "Propose ≥3 content development strategies suitable for smartphone-based microlearning",
+    "Utilize ≥2 types of formative assessment tools executable in resource-constrained technological environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Interactive video creation tool",
+      "Quizmaker application"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

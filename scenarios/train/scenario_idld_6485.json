@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-6485",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Supported Arabic Learning: Practitioner-Tailored Intensive Short-Term Course",
+  "context": {
+    "prior_knowledge": "Basic Arabic literacy and fundamental mobile device usage skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical language course assuming Arabic communication needs in workplace settings for medical/legal/technical professionals. Emphasis on mobile learning via smartphones and tablets",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Within one week, learners will utilize 200 essential Arabic vocabulary words for workplace contexts, categorized by situational contexts, with at least 80% accuracy.",
+    "Using a mobile app, learners will construct 50 simple sentences applying basic Arabic grammatical structures.",
+    "Utilizing mobile-based speech recognition, learners will achieve at least 70% accuracy in Arabic pronunciation.",
+    "In real workplace scenarios (e.g., patient consultations, contract drafting, technical explanations), learners will perform basic communication (greetings, questions, explanations) in Arabic."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Android-based mobile language learning app",
+      "Smartphone/Tablet Devices",
+      "Real-Time Video Conferencing Tool (e.g., Zoom)",
+      "Contextual Arabic conversation scenario database",
+      "Speech recognition module for pronunciation assessment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

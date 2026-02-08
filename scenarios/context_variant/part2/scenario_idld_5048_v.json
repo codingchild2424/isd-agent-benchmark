@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5048-V",
+  "variant_type": "context_variant",
+  "title": "Online Education Barrier Overcoming and Teaching Competency Enhancement Course",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A teaching competency development program optimized for smartphone-based microlearning environments, targeting workplace science education professionals (medical/legal/technical practitioners).",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can diagnose technical barriers (internet access, security, etc.) occurring during online education execution with over 80% accuracy",
+    "Learners can design 5-minute microlearning content applying student engagement strategies",
+    "Learners can develop and apply at least three project-based assessment tools suitable for mobile environments in practical settings"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Survey Tool",
+      "PDF-Based Instructional Materials",
+      "Open-Source LMS Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

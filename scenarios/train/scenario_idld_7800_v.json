@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7800-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Instructional Design MOOC for Improving Human Trafficking Awareness: For Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Basic Understanding of Secondary Education Curriculum and Human Rights Education Experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain human trafficking realities and legal definitions with ≥90% accuracy",
+    "Incorporate ≥3 human rights sensitivity elements when designing anti-trafficking education activities",
+    "Propose two discussion topics for improving human trafficking awareness in a learning community and receive peer feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

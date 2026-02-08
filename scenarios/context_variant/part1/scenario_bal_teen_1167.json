@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-1167",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Mobile-Based Music Technology Utilization Just-in-Time Learning Course",
+  "context": {
+    "prior_knowledge": "Basic music theory knowledge and familiarity with smartphone usage",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Popular music education course conducted primarily via smartphones in limited-technology environments; intermediate learners regularly use recording studio facilities but struggle with complex music technology acquisition",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will perform basic audio editing and mixing techniques using smartphone apps with at least 85% accuracy.",
+    "Learners will resolve at least 70% of technical issues encountered in recording studios by referencing real-time mobile learning materials.",
+    "Learners will be able to independently utilize three or more plugins in the DAW (Digital Audio Workstation) mobile interface upon completion of the 4-week course"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible DAW App",
+      "Mobile-Friendly Music Technology Tutorial Videos",
+      "Recording Studio Practical Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

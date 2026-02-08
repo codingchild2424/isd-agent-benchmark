@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4094",
+  "variant_type": "idld_aligned",
+  "title": "Applied Mathematics Learning Through H-Infinity Optimal Control Projects",
+  "context": {
+    "prior_knowledge": "Introductory linear algebra, basic calculus concepts, and foundational control theory knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based learning environment designed for pre-service teachers to apply mathematical optimization concepts to real educational settings. Collaboration using personal devices and integration of online tools",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the fundamental principles of H-infinity optimal control problems and represent them with mathematical models",
+    "Implement game theory-based optimization strategies using adaptive critic methods through simulations",
+    "Understand the concept of GARE (Game Algebraic Riccati Equation) and possess the ability to design algorithms for solving simple problems",
+    "Explain the application of H-infinity control theory to real-world cases (e.g., aircraft autopilot systems) through team-based projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based Optimization Libraries (NumPy, TensorFlow)",
+      "Online Collaboration Tools (Google Workspace, Notion)",
+      "Educational Simulation Software",
+      "H-Infinity Control Theory Textbooks and Video Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

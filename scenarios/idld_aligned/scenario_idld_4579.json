@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4579",
+  "variant_type": "idld_aligned",
+  "title": "Kinematic Analysis of Cricket Batters: A Scientific Inquiry",
+  "context": {
+    "prior_knowledge": "Basic physics concepts (motion, velocity, angles) and sports observation experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students understand basic cricket rules and have access to video analysis and simple experimental tools",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain at least three differences in batter movement patterns under experimental conditions (live pitching, machine pitching, video simulation).",
+    "Learners can graphically represent the correlation between movement initiation delay time and reduction in ball exit velocity.",
+    "Learners can compare differences in information utilization between video simulation and actual game conditions and write an explanatory report."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cricket Experiment Video Resource",
+      "Online Motion Analysis Simulation Tool",
+      "LMS-Integrated Quiz Generator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1917",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Short-Intensive Computer-Assisted Learning (CAL) Course for Dermatological Diagnosis",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge and dermatology clinical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized Computer-Assisted Learning (CAL) tools for advanced learners, incorporating diagnostic case-based problem-solving training.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify clinical features of over 20 major skin diseases with 90% accuracy via a Computer-Assisted Learning (CAL) program.",
+    "Learners can analyze complex cases presented in CAL simulations and establish appropriate diagnostic and treatment plans with over 80% accuracy.",
+    "Learners demonstrate a 15% or greater improvement in knowledge application skills in post-course online formative assessments compared to baseline."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account",
+      "Dermatology CAL (Computer-Assisted Learning) Dedicated Software License",
+      "Diagnostic Imaging Database",
+      "Real-Time Interactive Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

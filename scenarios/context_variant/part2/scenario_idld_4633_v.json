@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4633-V",
+  "variant_type": "context_variant",
+  "title": "Intentional Reflective Education Program for Reducing Diagnostic Errors",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening reflective practice through digital tools and developing problem-solving skills via real-world case analysis",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically reflect on and document their cognitive processes while solving complex scientific problems.",
+    "Learners can apply at least three reflective questioning frameworks to identify potential diagnostic errors.",
+    "Learners can submit improved decision-making proposals incorporating peer feedback through PBL team activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Reflection Journal Template",
+      "Science Case Database",
+      "Real-Time Collaboration Tool",
+      "Reflective Thinking Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

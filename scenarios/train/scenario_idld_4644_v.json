@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4644-V",
+  "variant_type": "context_variant",
+  "title": "Digital Badge Program Design and Operation Workshop",
+  "context": {
+    "prior_knowledge": "Fundamental digital literacy and foundational instructional design concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A process of practicing digital badge design in blended environments, completing the program through peer feedback and iterative improvement",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain at least three educational purposes and utilization strategies for digital badges.",
+    "Learners can execute draft-feedback-revision stages of a badge program using an iterative design process.",
+    "Learners can validate the effectiveness of badge programs through peer assessment with 80% or higher accuracy.",
+    "Learners can create one prototype integrating visible/technical elements of badges (e.g., metadata, design)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Badge Platform (Open Badges Compatible)",
+      "Feedback Template",
+      "Badge Design Tool",
+      "LMS System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Education (Teaching & Learning)"
+}

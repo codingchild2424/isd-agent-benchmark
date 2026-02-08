@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-7255-V",
+  "variant_type": "context_variant",
+  "title": "English Reading Proficiency Improvement Program for University Students Using the CBI Model",
+  "context": {
+    "prior_knowledge": "Basic English Reading Comprehension and Fundamental Understanding of Language Learning",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Application of the CBI (Content-Based Instruction) model via VR simulations in a smartphone-centric, limited-technology environment. Operated with a focus on formative assessment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can improve explicit information comprehension skills by 40% after six months.",
+    "Learners can enhance implicit information inference skills by 30% after six months.",
+    "Learners can improve linguistic feature utilization skills by 35% after six months.",
+    "Learners can compare theme-based CBI (Content-Based Instruction) models with other models and explain their effectiveness."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Digital Textbooks by CBI Model",
+      "Formative Assessment Template",
+      "Online Collaboration Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

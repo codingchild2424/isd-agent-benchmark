@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-0644",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Flipped Learning-Based Engineering Education Design Workshop",
+  "context": {
+    "prior_knowledge": "Foundational theories of engineering education and basic instructional design knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An intensive short-term course for pre-service and in-service teachers to strengthen instructional design competencies by applying flipped learning to engineering education.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners must apply the 5-stage flipped learning design model (goal setting, material development, activity design, feedback system, assessment method) to a mechanical engineering project, develop an instructional design framework meeting ≥8 of 10 instructor checklist items within one week (5 days), and achieve ≥80% suitability in peer and expert reviews.",
+    "Data-driven learning design strategies for analyzing learner engagement can be conceptualized",
+    "Graduate students must design a one-week learning activity using mobile-optimized microlearning content (3×5-minute videos + 5 quiz questions), including pre-learning (correct ≥7 of 10 diagnostic quiz questions) and post-learning (solve ≥2 of 3 scenario-based tasks). The design must meet rubric criteria (5-point scale, ≥4 points).",
+    "Within one week, learners must use formative assessment tools (5-question quiz + concept map) to collect understanding data (≥80% response rate, 10-sample) on molecular structures, analyze results (misconception frequency, correct answer distribution), and propose ≥3 personalized feedback strategies (e.g., misconception correction, advanced material recommendations, peer learning groups). They must submit a system design plan (≤5 pages) meeting ≥3 of 4 rubric criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS (Learning Management System) platform",
+      "Learning Analytics Tools",
+      "Digital Content Repository for Engineering Education",
+      "Mobile-compatible authoring tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

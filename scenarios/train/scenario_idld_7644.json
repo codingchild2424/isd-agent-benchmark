@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7644",
+  "variant_type": "idld_aligned",
+  "title": "Deep Learning-Based Approach for Single-Image Rain Removal",
+  "context": {
+    "prior_knowledge": "Basic understanding of machine learning and image processing concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Requires designing smartphone-centered learning activities in limited-technology environments, with continuous feedback through formative assessment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "One can describe the core challenges of rain removal models (rain/background separation, texture preservation)",
+    "One can analyze rain patterns and detail loss regions using a dual-stream pipeline architecture",
+    "One can propose implementation strategies for mobile-friendly rain removal models in resource-constrained environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-Source Rainfall Removal Dataset",
+      "Mobile-Compatible Deep Learning Framework",
+      "Image Processing Tutorial Video"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

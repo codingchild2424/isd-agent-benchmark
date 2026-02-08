@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8139",
+  "variant_type": "idld_aligned",
+  "title": "Augmented Reality-Based UDL (Universal Design for Learning) Design for Integrated Mathematics Education",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts (coordinate systems, spatial perception)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Inclusive educational environment for students with and without disabilities, utilizing digital devices (tablets/smartphones)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain geometric transformations (translation, rotation, scaling) in a 3D coordinate system using augmented reality tools with 80% accuracy",
+    "Learners achieve over 70% collaboration with peer learners in mathematical problem-solving processes using digital learning materials based on UDL principles",
+    "Over 85% of learners demonstrate creative solutions utilizing spatial reasoning skills in augmented reality assignments submitted on the LMS platform"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR content authoring tools",
+      "Responsive Web-Based LMS (Learning Management System)",
+      "Accessibility-Supported Templates",
+      "Collaborative learning guides"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

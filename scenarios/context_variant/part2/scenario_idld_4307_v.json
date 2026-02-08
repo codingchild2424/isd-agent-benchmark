@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4307-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Workshop on Language Proficiency Enhancement through Maker Education and Innovation",
+  "context": {
+    "prior_knowledge": "Basic digital tool usage experience and interest in creative problem-solving",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design and execute cross-cultural collaboration projects through maker activities.",
+    "Learners can produce prototypes that solve language-related problems by applying the design thinking process.",
+    "Learners can develop creative language learning materials using digital fabrication tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

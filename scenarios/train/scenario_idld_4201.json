@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4201",
+  "variant_type": "idld_aligned",
+  "title": "Purposeful Digital Science Learning Design: Game and Challenge-Based Pedagogy",
+  "context": {
+    "prior_knowledge": "Basic science education theory and experience with digital tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Exploring methods for integrating gamification elements into science curriculum design for pre-service and in-service teachers, while conducting collaborative projects in a BYOD environment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design science education modules using a game-based learning design framework (knowledge activation, learning space configuration, learning support systems, etc.).",
+    "Design and implement PBL scenarios that enhance learner engagement by over 30% through challenge-based interaction.",
+    "Diagnose and analyze educational and technical issues arising during digital tool integration in real-time, proposing improvement strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Education Game Authoring Tools (Unity, Unreal Engine)",
+      "Collaboration Platforms (Google Workspace, Notion)",
+      "Learning Analytics Software (LMS Plugin)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

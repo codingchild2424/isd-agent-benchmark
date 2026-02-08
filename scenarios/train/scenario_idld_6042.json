@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6042",
+  "variant_type": "idld_aligned",
+  "title": "Explosive Demolition Engineering Laboratory Education Design Using Virtual Simulation",
+  "context": {
+    "prior_knowledge": "Elementary engineering mechanics, mathematics (calculus, basic statistics), and fundamental theories of blasting engineering",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Targeting mid-level professionals with field experience, this educational environment focuses on virtual simulations to mitigate risks and high costs of actual blasting experiments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain and apply conduction method selection and cutting design principles through virtual simulation platforms",
+    "Learners can calculate ultimate stress on cross-sections and apply strength conditions by utilizing concepts of tensile/compressive zones and the neutral axis in the inelastic region.",
+    "Learners can implement and optimize blast coefficient, blasthole parameters, and ignition network design processes in a simulated environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual Simulation Software License",
+      "3D Structural Modeling Tool",
+      "Experimental Dataset",
+      "Blasting Engineering Textbook and Reference Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

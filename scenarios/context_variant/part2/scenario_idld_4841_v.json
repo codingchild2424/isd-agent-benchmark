@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4841-V",
+  "variant_type": "context_variant",
+  "title": "Smart City Infrastructure Management: Practical Construction of a Water Meter Failure Prediction System",
+  "context": {
+    "prior_knowledge": "Foundational urban infrastructure management knowledge, intermediate-level data analysis experience, and practical experience in public service data processing",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended education supporting smartphone-based learning in local government settings with limited real-time data access. Project-based learning focused on solving community issues and improving public services.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Execute data quality verification procedures for fault prediction model construction in urban infrastructure maintenance with 80% accuracy.",
+    "Over a six-month course, learners can optimize 5 hyperparameters (batch size, learning rate, hidden layer size, etc.) of RNN-based classification models (e.g., LSTM, GRU) by applying them to real industrial data (e.g., smart meter time-series forecasting, urban service data processing) and build models achieving ≥85% accuracy on validation datasets.",
+    "Apply time-series data analysis methodologies for identifying water meter fault patterns to improve urban resource management efficiency.",
+    "Conduct model performance evaluations on mobile devices in limited technical environments and analyze field applicability."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible analysis tool",
+      "Open-source machine learning library",
+      "Offline Educational Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

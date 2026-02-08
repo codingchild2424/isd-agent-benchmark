@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0993",
+  "variant_type": "balance_large_scale",
+  "title": "Large-Scale Mobile-Based Integrated Mathematics Literacy Learning Design",
+  "context": {
+    "prior_knowledge": "Basic Mathematical Knowledge and Basic Mobile Device Utilization Skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "BYOD-based math literacy enhancement classes using mobile applications. Cultivating real-world problem-solving skills through project-based assessments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain mathematical concepts using multimedia elements (text, sound, images) of a mobile application.",
+    "Learners can analyze real-life data collected via mobile devices to derive mathematical conclusions.",
+    "Learners can exchange peer evaluations and feedback in a collaborative learning environment through a mobile application."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet/smartphone",
+      "Mobile Learning Application Prototype",
+      "Interactive Digital Whiteboard",
+      "Offline activity worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

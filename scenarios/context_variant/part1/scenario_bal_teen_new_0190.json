@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0190",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Teacher Technology Integration in Technology-Rich Classrooms: Mathematics Project-Based Learning Design",
+  "context": {
+    "prior_knowledge": "Basic mathematical concepts comprehension and smart device utilization experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Emphasis on technology integration strategies for math problem-solving and project execution in smartphone-centric limited-technology environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Technology tools suitable for math classes can be evaluated by analyzing elements of the Technology Acceptance Model (TAM).",
+    "Smartphone-based math learning activities can be designed by considering Technology-Task Fit (TTF).",
+    "Formative assessment tools can be used to measure the effectiveness of technology-integrated lessons and suggest improvements."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Collaboration Tool App (e.g., Google Drive)",
+      "Mathematics Education Mobile App (e.g., GeoGebra)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

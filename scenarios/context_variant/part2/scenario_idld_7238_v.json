@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-7238-V",
+  "variant_type": "context_variant",
+  "title": "Flipped Learning-Based Science Project Design: Customized Learning Models for Working Professionals",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A customized course for small groups of working professionals in a smartphone-centric, limited-technology environment. Emphasis on practical, work-applicable content",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can master over 80% of scientific theories through video lectures provided in a flipped learning environment.",
+    "Learners can perform three or more project improvements through peer feedback and instructor coaching.",
+    "Learners can demonstrate scientific problem-solving skills by achieving an average of 85+ on formative assessments.",
+    "Learners can complete one science project deliverable applicable to real-world tasks through offline collaboration activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Video Lecture",
+      "Google Workspace for Collaboration",
+      "Science Experiment Simulation App",
+      "PBL (Project-Based Learning) Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

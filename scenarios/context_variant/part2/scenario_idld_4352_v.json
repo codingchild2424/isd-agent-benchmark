@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4352-V",
+  "variant_type": "context_variant",
+  "title": "Intermediate-Level Chinese Vocabulary Education Program Utilizing Gamification",
+  "context": {
+    "prior_knowledge": "Basic Chinese vocabulary and grammar proficiency at HSK Level 3 or higher",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for enhancing workplace-linked language proficiency for current practitioners. Game-based learning on personal devices followed by collaborative projects.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners acquire 1,200 essential HSK Level 5 vocabulary items with 90% accuracy within 6 months",
+    "Learners infer over 80% of new vocabulary using word decomposition/combination strategies",
+    "Learners apply vocabulary to 10+ work-related scenarios through collaborative PBL projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Vocabulary Adventure Game Platform (Unity3D-Based)",
+      "Mobile-Compatible LMS System",
+      "15 Types of Job Scenario Templates",
+      "Automated Scoring Vocabulary Quiz Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

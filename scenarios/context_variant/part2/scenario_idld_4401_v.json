@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4401-V",
+  "variant_type": "context_variant",
+  "title": "Mathematics Learning Design Utilizing Adaptive Hypermedia",
+  "context": {
+    "prior_knowledge": "Fundamental arithmetic operations and algebraic basics",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Collaboration learning utilizing personal devices in a BYOD environment for office/administrative professionals.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve math problems tailored to their proficiency level with over 80% accuracy via an adaptive hypermedia system.",
+    "Learners can complete a project expressing real-life problems as mathematical models through social constructivist discussions.",
+    "Learners can diagnose learning gaps based on system feedback and revise personalized learning paths at least three times."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Personal Laptop/Tablet",
+      "Adaptive Learning Platform (e.g., Moodle/Edmodo)",
+      "Mathematics Education Software (GeoGebra, etc.)",
+      "Online Collaboration Tools (Google Workspace, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7196",
+  "variant_type": "idld_aligned",
+  "title": "Prior Assessment and Feedback Strategies in MOOC-Based Climate Change Learning",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental climate change concepts and scientific data interpretation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Climate change MOOC conducted in a smartphone-based learning environment, targeting high school students preparing for professional careers",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain core concepts related to climate change by over 80% in post-assessments",
+    "Learners can develop personalized learning plans based on pre-assessment results",
+    "Learners show a 70% or higher improvement in intention to continue learning after completing the course"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Short Video Clip (3–5 Minutes)",
+      "Interactive Quiz",
+      "Automated Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0243",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Community of Practice (CoP)-Based Online Learning Program for Pre-service Teacher Professional Development",
+  "context": {
+    "prior_knowledge": "Understanding of basic teaching-learning theories and elementary educational environments",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasis on practical educational experiences based on sociocultural learning theory. Construction of collaborative learning environments using digital devices.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Enhance collaborative problem-solving competencies among pre-service teachers through community of practice activities",
+    "Through biweekly feedback sessions with mentor teachers, learners establish 3 practical strategies (code review methods, collaboration tool utilization, or problem-solving processes) to enhance adaptability in software development, apply at least 2 strategies to real projects (team or individual) within 3 months, and meet baseline standards in 2 of 3 project evaluation rubric categories (code quality ≥70%, collaboration efficiency ≥80%, problem-solving completeness ≥85%).",
+    "Preservice teachers complete 3 project-based assessments (web/app prototype development, coding instructional material creation, IT problem-solving scenario writing) over 1–6 months, fulfill ≥4 of 5 rubric criteria (e.g., functionality, creativity, pedagogical effectiveness) per project, and include ≥2 improvements based on peer/mentor feedback in their final portfolio."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital Collaboration Tools",
+      "Teacher Mentoring Support System",
+      "Case Study Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

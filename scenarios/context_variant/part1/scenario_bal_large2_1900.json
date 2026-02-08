@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1900",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Project-Based Learning to Enhance Ethnomedical and Scientific Literacy Using Augmented Reality (AR)",
+  "context": {
+    "prior_knowledge": "Understanding of basic biology and medical terminology (cell structure, metabolic processes, etc.), basic smartphone proficiency, foundational grasp of the scientific inquiry process (observation-hypothesis-experiment-analysis-conclusion), and ability to interpret specialized texts and infer vocabulary",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners access AR content via smartphones to conduct community-based projects. Team projects proceed using online collaboration tools (Google Workspace) without face-to-face interaction. Language learning emphasizes reading ethnomedicine literature (specialized terms, historical context) and terminology acquisition (definitions, contextual usage). Parallel training in interpreting experimental data and evidence-based conclusions strengthens scientific literacy.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can critically analyze the textual structure and specialized vocabulary (e.g., medicinal plant names, treatment principles) of ethnic medicine literature and explain the utilization principles of key medicinal plants using scientific terminology (e.g., antimicrobial mechanisms, biochemical reactions).",
+    "Learners can design experiments to virtually verify the antimicrobial effects of medicinal plants using AR simulations and derive scientific conclusions based on measured data (e.g., microbial culture results, concentration changes).",
+    "Learners can investigate the cultural characteristics (e.g., traditional medical practices, language habits) of a local community (specify location name), derive three or more ethnic medicine product ideas, analyze evidence from five or more academic papers (e.g., literature analysis, clinical data) to develop prototypes, and receive an average score of 4 or higher on a 5-point scale from an expert evaluation panel (three medical/cultural experts)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible AR Application",
+      "Access to Ethnomedicine Database",
+      "Online Collaboration Platform License",
+      "Digital Herbarium of Medicinal Plants"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

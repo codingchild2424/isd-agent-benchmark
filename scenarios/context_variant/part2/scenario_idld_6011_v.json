@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-6011-V",
+  "variant_type": "context_variant",
+  "title": "Understanding Welding Pool State Recognition Technology",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Targeting individuals interested in welding quality analysis using vision systems in smartphone-based learning environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Explain at least three criteria for judging weld quality when analyzing weld pool micro-images",
+    "Describe step-by-step the image recognition process of a Convolutional Neural Network (CNN)-based model",
+    "Analyze the impact of Transfer Learning techniques on improving weld pool status recognition accuracy with over 80% precision",
+    "Practice data preprocessing using Region of Interest (ROI) image extraction methods in constrained technical environments"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible image dataset",
+      "LMS-Integrated Interactive Simulation Tool",
+      "Open-Source Deep Learning Visualization Tool",
+      "Mobile-Optimized PDF Lecture Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

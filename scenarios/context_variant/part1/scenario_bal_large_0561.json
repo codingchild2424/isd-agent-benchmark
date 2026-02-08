@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0561",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Hurdle-Running Learning Design Based on Task Constraints",
+  "context": {
+    "prior_knowledge": "Foundational track and field skills and physical control abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-based video analysis combined with offline practical training, focusing on individual exercise pattern documentation",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can adjust the takeoff point in a 5-step hurdle race forward by at least 30 cm",
+    "Learners can optimize hurdle clearance movements by increasing horizontal velocity by 0.2 m/s",
+    "Learners can achieve a 15% reduction in stride variability after 18 weeks of training"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone video analysis application",
+      "Portable Huddle Set",
+      "Exercise Pattern Recording Template",
+      "Mobile Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

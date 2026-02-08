@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0530",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Mathematics Self-Directed Learning Video Design: Applying Gagné’s Events of Instruction",
+  "context": {
+    "prior_knowledge": "Understanding basic arithmetic operations and fundamental algebraic concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-based learning environment, strengthening the ability to apply mathematical concepts through project-based assessment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain mathematical concepts (e.g., linear equations, function graphs) with 80% accuracy through videos applying Gagné’s nine events of instruction.",
+    "Learners achieve over 70% problem-solving proficiency in calculation tasks required for real-world job scenarios by utilizing interactive elements (quizzes, problem-solving) within videos.",
+    "Learners can correct misconceptions through feedback mechanisms and apply video learning content to project tasks at a rate of 60% or higher."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible video player",
+      "PDF-based supplementary learning materials",
+      "Simple online quiz tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

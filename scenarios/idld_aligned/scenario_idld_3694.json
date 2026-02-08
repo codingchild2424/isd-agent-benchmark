@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3694",
+  "variant_type": "idld_aligned",
+  "title": "Teacher Professional Development Training Program Based on Integrated Learning Design Environments",
+  "context": {
+    "prior_knowledge": "Fundamental ICT utilization skills and basic concepts of instructional design",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A program enhancing collaborative learning and ICT integration skills through project-based assessment in a smartphone-based, technology-constrained environment.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design a science-integrated collaborative learning scenario in three stages (planning-design-implementation) using the ILDE (Integrated Learning Design Environment) tool.",
+    "Learners can proficiently utilize core features of the learning design tool (template application, activity sequencing, resource integration) in a mobile environment with over 80% mastery.",
+    "Learners can apply their designed learning scenarios to small student groups (1–10 participants) to produce and evaluate project outcomes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized ILDE Platform Access",
+      "Collaborative Learning Design Template Library",
+      "Science Curriculum-Aligned Open Educational Resources (OER) Database",
+      "Mobile-friendly assessment rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0208",
+  "variant_type": "idld_aligned",
+  "title": "Inquiry-Based Genetic Modeling: Understanding Molecular-Cellular-Genotypic-Phenotypic Connections",
+  "context": {
+    "prior_knowledge": "Basic life science concepts (cell structure, DNA structure) and high school-level genetics knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Some educational participants are completing teaching credentials, while others are prospective graduates preparing for careers in life sciences.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Constructing a schema that integrates the three tiers of genetic models (inheritance, meiosis, and molecular mechanisms)",
+    "Using virtual lab tools (e.g., PhET simulations), learners derive quantitative analyses with ≥80% accuracy for 5 genetics problems via Punnett squares and gene frequency calculations and establish predictive models.",
+    "Learners simulate transcription-translation processes in gene expression using digital modeling tools (e.g., CellDesigner, COPASI), link CRISPR-Cas9 mechanisms to these models, and explain ≥3 biological scenarios (e.g., gene knockout, expression regulation)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "PhET Simulation (Genetics Module)",
+      "Bioinformatics Toolkit (NCBI Database Access)",
+      "3D DNA Modeling Software",
+      "Online Collaborative Whiteboard (Miro)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

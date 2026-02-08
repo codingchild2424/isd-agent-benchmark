@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6702-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening App Development Practical Competencies: Cognitive Load Theory-Based Programming Fundamentals Instructional Design",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Within 4 weeks, learners implement 3 types of simple algorithms (linear search, binary search, factorial calculation) using basic Python syntax (variables, conditionals, loops, functions) and achieve 80%+ test case pass rates for each algorithm",
+    "Learners will be able to accurately explain code structure with ≥80% accuracy by analyzing worked examples",
+    "Learners will be able to diagnose program error causes with ≥70% accuracy by applying self-explanation techniques"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

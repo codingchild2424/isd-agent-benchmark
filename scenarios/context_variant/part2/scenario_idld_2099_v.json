@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2099-V",
+  "variant_type": "context_variant",
+  "title": "Innovative Instructional Design for Analyzing Changes in University Student Satisfaction",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Training program where pre-service teachers analyze factors influencing learner satisfaction using university environmental data and design innovative instructional strategies based on findings",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can construct and interpret latent growth models using three years of virtual university satisfaction data.",
+    "Learners can analyze correlations between course characteristics (teaching method types, instructor beliefs, etc.) and satisfaction changes.",
+    "Learners can identify low-satisfaction course characteristics and write reports proposing improvement strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Statistical Analysis Software (R/Python)",
+      "Virtual University Dataset",
+      "Pedagogical Case Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Business/HR/Admin Support"
+}

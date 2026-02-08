@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0199-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Learning for Traffic Safety Utilizing Gamification",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Large-scale project-based learning environment utilizing gamification and reward systems via smartphones",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can identify risk factors with over 80% accuracy by applying mathematical analysis techniques for traffic accident prevention.",
+    "Learners can improve their ability to make safe decisions in real-world road environments by three or more levels through in-game mission resolution.",
+    "Learners can develop and execute traffic safety campaign plans through team-based projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible gamification platform",
+      "Traffic Safety Scenario Database",
+      "Digital Badge Solution for Reward System Management",
+      "Basic Statistical Analysis Tool (Smartphone-Compatible)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0625",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Augmented Reality-Based Bravais Lattice Collaborative Learning Course",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental decision structure concepts and spatial cognition in 3D environments",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Establishing a real-time collaborative learning environment using AR devices, measuring learning outcomes through project-based assessment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "In an AR environment, learners can accurately identify and explain the three-dimensional structures of the 14 Bravais lattices.",
+    "Through collaborative learning activities, learners can analyze the relationship between physical properties of crystal structures and materials science applications.",
+    "Learners can manipulate virtual crystal models using AR simulation tools and enhance spatial reasoning skills."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR-Compatible Tablets (10 Units)",
+      "3D Modeling Software License",
+      "Bravais Lattice AR Content Package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

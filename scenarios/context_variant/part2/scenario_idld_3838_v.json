@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3838-V",
+  "variant_type": "context_variant",
+  "title": "Optimization of Learning-Based Wireless Network Channel State Information Estimation",
+  "context": {
+    "prior_knowledge": "Wireless communication fundamentals, basic deep learning concepts, and matrix operations",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical-focused training program for working professionals emphasizing mathematical modeling and algorithm tuning for workplace application",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the design principles of CNN encoders that analyze wireless channel characteristics.",
+    "Learners can apply hypernetwork parameter adjustment methods via scenario embedding extraction to real-world data.",
+    "Learners can quantitatively interpret performance comparison results of the LACE algorithm in multi-scenario environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python 3.8+ Environment",
+      "Jupyter Notebook",
+      "TensorFlow/Keras",
+      "CSI Sample Dataset",
+      "Real-Time Video Conferencing Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

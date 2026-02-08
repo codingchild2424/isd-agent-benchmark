@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8728-V",
+  "variant_type": "context_variant",
+  "title": "Multimodal Feature Integration for RGB-D Scene Recognition and Scientific Inquiry Education",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the field, along with understanding of the scientific methodology (hypothesis formulation–experimentation–analysis–conclusion)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Cultivating technology integration skills linked to science curricula for pre-service teachers, with a focus on strengthening experimental design and data analysis competencies in physics and engineering fields",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain and visualize the principles of multimodal feature extraction from RGB-D data using scientific inquiry methods.",
+    "Implement a scene recognition model utilizing hierarchical feature integration structures and systematically analyze experimental variables.",
+    "Learners can propose at least three optimized data processing strategies to operate an object recognition model with over 85% accuracy using smartphone RGB-D sensor data in a constrained technical environment (1GB RAM, ARM processor) within one week. They must create a performance comparison table for each strategy and derive evidence-based conclusions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Google Colab Sample Code",
+      "Mobile-Friendly OpenCV Tutorial",
+      "RGB-D Dataset Sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0216",
+  "variant_type": "balance_medium_scale",
+  "title": "Simulation-Based Collaborative Learning for Enhanced Mathematical Problem-Solving Competency",
+  "context": {
+    "prior_knowledge": "Basic mathematical concepts (functions, statistics, geometry, etc.) and ability to use digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners Must Be Familiar with Collaborative Activities in VR Environments and Utilize Personal Tablets or VR Equipment Under a BYOD Policy",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve complex mathematical problems with over 80% accuracy by applying collaborative learning strategies in a VR simulation environment",
+    "Using digital collaboration tools (Google Sheets, Miro, etc.), learners will analyze the mathematics education expertise levels (basic/intermediate/advanced) of 3–5 group members, and create a role allocation plan meeting at least 80% team satisfaction (5-point scale) based on the analysis",
+    "Learners can improve problem-solving solutions through at least two rounds of feedback exchange in 4-person group activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software License",
+      "Collaboration Tools (e.g., Google Workspace)",
+      "Mathematics Problem Bank Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

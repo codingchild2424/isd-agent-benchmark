@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0575",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Cognitive Load Theory-Based Language Learning Environment Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic language structures and experience with digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Application of cognitive load minimization strategies for beginner learners aiming to enter medical/legal/technical fields when acquiring language in BYOD environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners apply three or more cognitive load reduction techniques (e.g., chunking, visual cue utilization) to actual language learning scenarios",
+    "Learners design efficient information processing strategies between working memory and long-term memory with over 80% accuracy in technology-based environments",
+    "Learners create personalized learning pathways that reduce unnecessary cognitive load by over 50% during specific language tasks"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Management System (LMS) Access Permissions",
+      "Digital Language Task Template",
+      "Cognitive Load Analysis Tool",
+      "Customized Feedback Generator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

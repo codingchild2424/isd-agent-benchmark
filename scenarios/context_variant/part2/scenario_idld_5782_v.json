@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5782-V",
+  "variant_type": "context_variant",
+  "title": "Methodologies for Assessing Medical Student Learning Through Structured Clinical Practice",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Measuring learning outcomes using clinical scenario-based assessment tools (written exams, OSCEs, patient simulators) related to critical care medicine.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Students can perform appropriate diagnostic and intervention procedures in critical care scenarios with 80% accuracy",
+    "Students can achieve an average score of 75 or higher across five stations in OSCE (Objective Structured Clinical Examination) assessment items",
+    "Students can reduce data interpretation and decision-making time to within 2 minutes when using patient simulators"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Computer-based patient simulator",
+      "OSCE assessment station",
+      "Critical care treatment scenario dataset",
+      "Video Recording Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Education (Teaching & Learning)"
+}

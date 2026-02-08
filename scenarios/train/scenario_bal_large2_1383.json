@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1383",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Virtual Reality-Based Cell Division Inquiry Learning Program",
+  "context": {
+    "prior_knowledge": "Middle school-level biology fundamentals (cell structure, basic genetics concepts)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Re-education course in life sciences for working professionals, offering immersive learning environments via VR equipment and digital devices.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain the key stages of cell division (chromosome replication, nuclear division, cytokinesis) in a 3D virtual environment.",
+    "Learners can diagnose causes of abnormal cell division cases (non-disjunction, nondisjunction) with 80% accuracy by analyzing VR simulation data.",
+    "Learners can apply cell division principles to solve real-life biotechnology problems (e.g., anticancer drug development cases) presented in a PBL format."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Desktop VR Equipment (1 Unit/5 Users)",
+      "Virtual Cell Division (VCD) Application",
+      "AI-Avatar Learning Guidance System",
+      "3D Cell Model Printouts"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

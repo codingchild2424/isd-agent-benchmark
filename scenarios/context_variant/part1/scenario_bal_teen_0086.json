@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0086",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Animation-Based Exploration of States of Matter and Solubility",
+  "context": {
+    "prior_knowledge": "Familiarity with foundational chemistry terminology (molecules, thermal energy, etc.) and experience in observing simple experiments",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Activity-based instruction using digital devices, operating a feedback system that reflects formative assessment results in real time",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "After observing animations of macroscopic phenomena in the three states of matter (solid/liquid/gas) and phase changes, learners can explain them with 80% accuracy",
+    "Learners can analyze solubility processes at the molecular level through animations and explain the concept of saturated solutions by connecting them to experimental data",
+    "Learners can describe the effects of thermal energy changes on molecular motion in written form, linked to visual materials"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Adobe Flash-Based Animated Content",
+      "10 Tablet PCs",
+      "Small-Scale Chemistry Experiment Kit",
+      "LMS (Learning Management System)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

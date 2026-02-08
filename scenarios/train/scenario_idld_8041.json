@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8041",
+  "variant_type": "idld_aligned",
+  "title": "VR-Based Immersive Learning Course on Local History and Culture",
+  "context": {
+    "prior_knowledge": "Basic Regional History Understanding and Digital Device Proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A local history and culture education course for office/administrative professionals in non-traditional settings, implementing immersive learning via VR devices or smartphones/tablets in a BYOD environment",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can reconstruct the spatiotemporal context of local historical events with 80%+ accuracy through 360° VR experiences",
+    "Learners complete a project analyzing local cultural data collected in VR environments and visualizing it mathematically through graphs/charts",
+    "Learners can produce detailed reports proposing preservation strategies for local historical-cultural heritage using digital archives"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "360° VR Educational Content Library",
+      "LMS-Integrated VR Player System",
+      "Digital Archive with Historical Datasets",
+      "Integrated Math-History Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0132",
+  "variant_type": "balance_teen_k12",
+  "title": "VR-Based Collaborative Engineering Simulation Learning Program [K-12]",
+  "context": {
+    "prior_knowledge": "Foundational math and engineering concepts comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners engage in collaborative simulations using smartphone-based VR devices, with a focus on accumulating practical engineering problem-solving experiences.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain three engineering design principles through collaborative problem-solving in VR environments.",
+    "Learners can perform mathematical calculations (area, angle, distance, etc.) with 90% accuracy via simulation-based projects.",
+    "Learners can present three or more stages of the engineering problem-solving process through real-time collaboration with peers."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Device (e.g., Cardboard)",
+      "Collaborative Simulation Platform License",
+      "Learning Management System (LMS) Access Permissions",
+      "VR Content Creation Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4208-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Skills: MOOC Learning Persistence Management Based on Expectancy-Value Theory",
+  "context": {
+    "prior_knowledge": "Understanding of elementary mathematical concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can improve task value and academic self-efficacy by over 20% in a MOOC environment.",
+    "Learners can sustain learning activities at least three times per week and complete project assignments.",
+    "Learners can propose improved learning strategies reflecting peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

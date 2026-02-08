@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0722",
+  "variant_type": "balance_teen_k12",
+  "title": "Curiosity-Driven Learning Design for Strengthening Digital Literacy Competencies in [K-12]",
+  "context": {
+    "prior_knowledge": "Basic experience in using digital devices (equivalent to smartphone proficiency)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners (Pre-Service/In-Service Teachers) Who Need to Cultivate Digital Educational Tool Utilization Skills. Conducting Project-Based Assessments in Smartphone-Centric Limited Environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain at least three criteria for evaluating the credibility of digital information.",
+    "Learners can design learner-engaged digital education scenarios using curiosity-inducing strategies.",
+    "Learners can create digital literacy educational content using open-source tools accessible via smart devices."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Graphic-Based Survey Tools",
+      "Collaboration Platforms (e.g., Padlet)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

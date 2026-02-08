@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0174",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Wireless Network Channel State Information Estimation: Design of Learning-Based Adaptive Algorithms",
+  "context": {
+    "prior_knowledge": "Basic wireless network concepts and foundational understanding of machine learning",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical training course for corporate wireless network administrators, offering flexible learning environments using personal devices. Evaluates real-world application abilities through project-based assessments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze channel state information (CSI) characteristics in various wireless network scenarios to extract scenario embeddings.",
+    "Learners can design channel estimation methods optimized for specific network environments using learning-based adaptive algorithms.",
+    "Learners can understand and apply a hypernetwork structure combining a CNN-based encoder and an MLP tuning module in practical settings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Python-Based Deep Learning Library",
+      "Simulation Dataset",
+      "Online Collaboration Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

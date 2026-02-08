@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0388",
+  "variant_type": "idld_aligned",
+  "title": "Foundational Mathematics Competency Assessment Design for Engineering Students’ Calculus Preparation",
+  "context": {
+    "prior_knowledge": "High school-level algebra, trigonometry, and basic geometry concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Systematic diagnostic assessment of foundational math competencies required before calculus for engineering freshmen, designed around tool development and validation in blended (online/offline) environments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Acquiring the ability to develop assessment items in algebra, trigonometry, and geometry—essential areas for engineering students learning calculus.",
+    "Cultivating the ability to apply reliability and validity verification procedures for measurement tools (e.g., item difficulty analysis, discrimination evaluation).",
+    "Presenting criteria for constructing assessment items to evaluate geometric problem-solving skills (straight lines, circles, surface area/volume calculations).",
+    "Learners can analyze mid-term assessment results (exams, quizzes, assignment scores) to identify individual areas of weakness and create a learning plan including three or more personalized strategies (e.g., supplementary materials, adjusted study time, tutoring requests) to address them."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mathematics assessment item development guidelines",
+      "Statistical analysis tools (SPSS/R, etc.)",
+      "LMS platform",
+      "Offline test kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Education (Teaching & Learning)"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0750",
+  "variant_type": "idld_aligned",
+  "title": "Workshop on Identifying and Critically Interpreting Data Visualization Misinformation",
+  "context": {
+    "prior_knowledge": "Fundamental data interpretation skills and understanding of basic graph types (bar/line/pie)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Structured around frequent visual error cases encountered by practicing elementary educators when making data-driven decisions in science fields",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately identify distortion elements in over 80% of 14 types of misinformation visualization cases.",
+    "Learners identify axis manipulation cases (inverted y-axis, irregular x-axis intervals, dual axes) with 100% accuracy in three consecutive evaluations.",
+    "Learners can reconstruct incorrect conclusions derived from misinformation visualizations into three or more alternative interpretations using data literacy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Visualization Tools (Desmos/Tableau Shared License)",
+      "Misinformation Visualization Case Database",
+      "Data Interpretation Checklist Template",
+      "Mobile-Friendly LMS Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

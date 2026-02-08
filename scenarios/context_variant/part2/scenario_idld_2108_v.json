@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2108-V",
+  "variant_type": "context_variant",
+  "title": "Multi-label Learning: Techniques for Handling New Class Labels in Dynamic Data Stream Environments",
+  "context": {
+    "prior_knowledge": "Basic Machine Learning Concepts, Python Programming, Data Preprocessing Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Content structuring optimized for smartphone learning environments, breaking down complex algorithm concepts into sequential instructional steps",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Cultivate the ability to design a basic framework for solving multi-label classification problems in data stream environments.",
+    "Apply a methodology for identifying dynamic class label groups using OPTICS clustering.",
+    "Build a system for handling multiple new labels by implementing an incremental classifier update technique.",
+    "Develop lightweight model evaluation metrics executable in smartphone environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Jupyter Lite Environment",
+      "Video Lecture Module in LMS",
+      "Python-Based Open-Source Libraries (Scikit-multilearn, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

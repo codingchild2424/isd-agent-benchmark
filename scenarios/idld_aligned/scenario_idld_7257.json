@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7257",
+  "variant_type": "idld_aligned",
+  "title": "Strengthening Mathematics Problem-Solving Competencies through Personal Learning Environment Design",
+  "context": {
+    "prior_knowledge": "Secondary-level mathematical concepts and problem-solving experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners design personalized mathematics problem-solving strategies using their own devices (BYOD), measuring learning outcomes through project-based assessment; real-time feedback and application store-based resource utilization are available",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can independently design diverse mathematical problem-solving strategies in their personal learning environments.",
+    "Learners perform self-directed microlearning activities at least three times per week using mobile devices.",
+    "Learners demonstrate the ability to apply mathematical modeling to real-world contexts through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-source LMS platform",
+      "Math Problem-Solving App Store",
+      "Real-Time Collaboration Tool",
+      "Personalized Learning Analytics Report"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

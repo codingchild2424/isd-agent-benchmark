@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4204-V",
+  "variant_type": "context_variant",
+  "title": "Game-Based Vocabulary Acquisition Program for Learners with Dyslexia",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Gamified acquisition of specialized vocabulary required for math-integrated project-based learning",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners accurately acquire 55 mathematics-related specialized vocabulary items within one week",
+    "Learners perform spaced repetition at least three times per week using game-based learning tools",
+    "Learners apply vocabulary acquired from project assignments with 80% or higher accuracy"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Game-Based Learning Platform",
+      "Vocabulary Database",
+      "Learning progress tracking sheet",
+      "Simple survey tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

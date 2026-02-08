@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6987-V",
+  "variant_type": "context_variant",
+  "title": "AR/VR-Based Construction Site Safety Training Design",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical skills-focused education using digital devices (AR/VR equipment), emphasizing immediate applicability for field professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners identify the three major risk factors at construction sites (working at heights, heavy equipment accidents, electrical safety) with 90% accuracy in AR/VR simulation environments.",
+    "PBL teams design safety inspection checklists using AR/VR tools and evaluate their feasibility for field application.",
+    "Learners execute emergency response procedures within 20 minutes through VR-based hazard scenario training."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR/VR Equipment Set",
+      "Construction Site 3D Modeling Data",
+      "Safety Regulation Standard Documents",
+      "PBL Team Workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

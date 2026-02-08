@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1117",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Systematic Design of Mobile-Based Math Online Learning Management Structure Using a Structured Approach",
+  "context": {
+    "prior_knowledge": "Possession of basic arithmetic skills and experience using digital devices (required)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Optimized mathematics learning content for smartphone environments, emphasizing practical approaches applicable to everyday problem-solving",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners achieve ≥80% proficiency in weekly learning planning and execution using a smartphone-based LMS within 4 weeks",
+    "Learners improve standard algorithm problem-solving accuracy from 70% to 90% by the 3-month mark",
+    "Learners demonstrate the ability to adjust learning strategies through ≥3 peer/self-evaluations by course completion"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Responsive Mobile Platform",
+      "Offline-Synchronizable Learning Resources",
+      "Text-Based Visualization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4646",
+  "variant_type": "idld_aligned",
+  "title": "Situated Cognition-Based Educational Program for Strengthening Clinical Reasoning Competencies",
+  "context": {
+    "prior_knowledge": "Intermediate-level expertise in medical/life sciences and basic clinical management experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Requires a mobile-optimized learning environment for learners with team-based clinical decision-making experience, targeting managerial roles.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain systematic reasoning processes considering situational factors in various clinical scenarios with 80% accuracy",
+    "Learners can identify error patterns three or more times and propose improvement strategies during team-based clinical problem-solving in digital simulation environments",
+    "Learners can structure and reflect on their clinical decision-making processes in three or more stages using stimulated recall techniques in a smartphone-based LMS"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Clinical simulation video materials",
+      "Context-specific clinical case library",
+      "Digital templates for team collaboration assessment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

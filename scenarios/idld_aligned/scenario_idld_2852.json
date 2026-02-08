@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2852",
+  "variant_type": "idld_aligned",
+  "title": "Foundations of Data-Driven Learning Analytics: Customized Instructional Design for Secondary Learners",
+  "context": {
+    "prior_knowledge": "Basic Digital Device Usage Skills and Understanding of Social Studies Foundational Concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A foundational competency enhancement program in learning analytics for undergraduate students, designed for application in secondary education settings. Combines online platform-based data collection/analysis activities with face-to-face workshops.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Systematically collect and visualize learning activity data.",
+    "Interpret data on learning engagement and achievement to design personalized feedback.",
+    "Apply data-driven instructional design principles to social studies lessons."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Management System (LMS) Access Permissions",
+      "Google Analytics for Education",
+      "Learning Activity Simulation Tool",
+      "Social Studies Standard Curriculum Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0658",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Learning Analytics Dashboard Design and Utilization: Pre-Service Teacher Competency Enhancement Project",
+  "context": {
+    "prior_knowledge": "Understanding online learning environments, basic data interpretation skills, and instructional design fundamentals",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A process for developing preservice teachers' competency in designing and interpreting learning analytics dashboards applicable to real educational settings, emphasizing collaboration and iterative improvement (DBR) from a sociocultural perspective",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Graduate learners can select five core indicators linked to educational goals (critical thinking enhancement, collaboration skills strengthening)—such as participation rate, discussion patterns, content completeness, idea diversity, and feedback incorporation—and visualize them on a learning analytics dashboard. The design must receive ≥80% suitability ratings from peer evaluations (3+ peers) and instructor feedback within six months.",
+    "Learners can iteratively evaluate the educational utility of a dashboard ≥3 times using Design-Based Research (DBR) methodology, collecting ≥10 feedbacks per cycle from teachers/students, deriving improvements, and submitting a final prototype and evaluation report.",
+    "Learners can analyze real-time educational data (attendance, assessment scores) via smartphone-based dashboards (e.g., Power BI Mobile, Google Data Studio) to identify learning gaps with ≥80% accuracy and propose ≥3 personalized instructional strategies.",
+    "Derive actionable insights for qualitative improvement of discussion-based instruction through learning data visualization."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Dashboard Prototype Template",
+      "Educational Scenario Sample Dataset",
+      "Collaborative tools (e.g., online whiteboards)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

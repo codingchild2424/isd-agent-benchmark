@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6379",
+  "variant_type": "idld_aligned",
+  "title": "Situated Learning-Based Online Course for Project Management Competency Development",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental work processes and digital literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An online collaborative learning environment based on project scenarios that may occur in the workplace. Focuses on strengthening practical competencies as professionals share work experiences.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze real-world project cases to derive at least three core risk factors.",
+    "Learners can use the LMS discussion feature to create peer feedback-based project proposals.",
+    "Learners can develop resource allocation and scheduling strategies through context-specific simulation modules."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform (discussion board, document sharing, video lecture functionality)",
+      "Virtual project scenario database",
+      "Real-time collaboration tools (e.g., Google Workspace)",
+      "Mobile-Optimized Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

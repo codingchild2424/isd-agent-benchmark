@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4168-V",
+  "variant_type": "context_variant",
+  "title": "Distance Migrant Education: Social Integration Process Through Universal Instructional Design",
+  "context": {
+    "prior_knowledge": "Basic social studies coursework completion and digital device usage experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized educational courses for migrant students with diverse cultural backgrounds, requiring accessibility assurance in a smartphone-centric, limited-technology environment.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Immigrant students enhance cultural understanding and communication competencies by utilizing both their native language and the local language (Korean)",
+    "Utilize digital learning materials designed according to Universal Design for Learning (UDL) principles to acquire core concepts related to social integration (cultural adaptation, laws, rights, etc.) at a rate of 80% or higher",
+    "Learners will select one community issue (e.g., language barriers, cultural conflicts) in multicultural project teams of 4–5 members, develop solutions in three stages (problem analysis → solution design → implementation planning), and submit final reports reflecting peer evaluation (agreement by ≥2 of 3 peers) and instructor feedback (≥4 of 5 rubric items met)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Multicultural Education Content Library",
+      "Video Conferencing Tools (Zoom, etc.)",
+      "Translation Support Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

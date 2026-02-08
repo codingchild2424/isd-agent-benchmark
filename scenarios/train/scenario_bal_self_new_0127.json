@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0127",
+  "variant_type": "balance_self_filtered",
+  "title": "Experiment-Based Mobile Microlearning for Understanding Assessment Learning (Self-Directed)",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Psychological Learning Theories and Basic Smartphone Usage Skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "An experiment-based learning environment accessible solely via smartphones, enabling simple image recognition and assessment tasks in limited technological settings",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the differences between evaluative learning and classical conditioning through experiment-based assignments.",
+    "Learners can analyze the impact of stimulus competition on evaluative learning using experimental data.",
+    "Learners can assess the association between visual stimuli (geometric shapes) and emotional responses (facial expressions) presented in a mobile environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible image content",
+      "Simple online assessment tool",
+      "PDF worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5531",
+  "variant_type": "idld_aligned",
+  "title": "Middle School Mathematics Blended Learning Intensive Course for the Workplace",
+  "context": {
+    "prior_knowledge": "Understanding of basic math concepts at a 5th-6th grade elementary level",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Designed for working professionals, operating during evening hours outside of work. Requires flexible instructional design to accommodate individual learning progress differences.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain core middle school (grades 1-3) mathematics concepts (equations, functions, geometry) with over 80% accuracy using a blended learning platform",
+    "Learners engage in at least three mathematical communication activities during collaborative problem-solving tasks with peers using real-time collaboration tools",
+    "Learners reduce individual learning gaps by over 50% within one week through formative assessments (quizzes, assignments)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS with Built-In Adaptive Learning Algorithm",
+      "Interactive Digital Mathematics Manipulatives",
+      "Real-Time Peer Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

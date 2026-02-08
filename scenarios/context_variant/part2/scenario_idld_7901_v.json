@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-7901-V",
+  "variant_type": "context_variant",
+  "title": "Programming Skill Development Course Through Educational Robotics",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducts STEM-integrated learning in smartphone-based constrained technical environments, measuring outcomes through project-based assessments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners write programs solving 3+ real-world problems (e.g., automatic door control, traffic light systems) using conditional statements (if-else, switch-case) and loop structures (for, while) in a robot control programming environment, achieving 80%+ functional completeness via peer evaluation and teacher verification.",
+    "Learners can experience algorithm design and debugging processes for real-world problem-solving",
+    "Learners develop practical programming application skills by solving mathematical problems through ER (Error Reduction) methods",
+    "Creative problem-solving skills are enhanced through STEM-integrated tasks"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Educational Robot Kit",
+      "Offline Activity Guide (PDF)",
+      "Low-Spec Programming Application",
+      "STEM-Integrated Workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

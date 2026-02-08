@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8737-V",
+  "variant_type": "context_variant",
+  "title": "Emergency Remote Education Design and Operational Strategies in Pandemic Situations",
+  "context": {
+    "prior_knowledge": "Foundational knowledge in college-level scientific disciplines and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-based learning environment, practice-oriented education for in-service professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain three major technical challenges encountered when applying ERE (Emergency Remote Education) during pandemics",
+    "Learners can present two or more effective online class design strategies in smartphone-based environments",
+    "Learners can propose three learner engagement strategies for large-scale ERE operations based on real-world cases"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Zoom Video Conferencing Tool",
+      "Cloud-based collaboration tool",
+      "Mobile-friendly assessment templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

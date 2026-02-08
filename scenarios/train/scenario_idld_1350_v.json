@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1350-V",
+  "variant_type": "context_variant",
+  "title": "VR-Based Fire Preparedness Simulation Game Design and Operation",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mathematics majors implement fire simulation algorithms and perform real-time data analysis in VR environments through project-based learning",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Apply partial differential equations required for fire spread modeling to VR simulations.",
+    "Execute fire response procedures with 90% accuracy in a CAVE-VR environment.",
+    "Team-based project outcomes can be mathematically verified for compliance with fire safety regulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Unity 3D License",
+      "Fire Dynamics Simulator Toolkit",
+      "15 VR headsets",
+      "Multi-Projection CAVE System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

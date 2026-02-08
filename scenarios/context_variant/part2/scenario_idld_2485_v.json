@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2485-V",
+  "variant_type": "context_variant",
+  "title": "Cognitive Engineering-Based Simultaneous Interpretation Training Program",
+  "context": {
+    "prior_knowledge": "Foundational interpretation skills and ability to interpret mathematical symbols",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Multimodal resource-based training environment specialized in multilingual conversion of mathematical terms and formulas",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can simultaneously interpret a 2-minute mathematical passage into the target language with a delay time of 10 seconds or less.",
+    "Learners can integrate auditory, visual, and textual information to interpret and convey mathematical concepts with 90% accuracy.",
+    "Learners can reduce error rates by 40% by applying cognitive load management strategies during task performance."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Multilingual Mathematics Terminology Database",
+      "Multimedia Lecture Materials",
+      "Real-Time Voice Analysis Tool",
+      "Cognitive Load Measurement Questionnaire"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

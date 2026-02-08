@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1175",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Sustainable Resource Management Decision-Making Improvement Program",
+  "context": {
+    "prior_knowledge": "Basic mathematical modeling and data analysis competencies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for graduate math majors and job-seeking professionals in related fields, cultivating decision-making competencies by applying mathematical approaches to sustainability issues.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can propose decision-making solutions using optimization modeling techniques in sustainable resource management scenarios.",
+    "Learners can conduct resource allocation simulations using statistical analysis tools and interpret the results.",
+    "Learners can derive balanced resource management solutions amid conflicting interests using multi-criteria decision-making frameworks (AHP, TOPSIS, etc.)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "R/Python Analytics Tool",
+      "LMS platform",
+      "Sustainability Case Database",
+      "Interactive Decision-Making Simulation Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

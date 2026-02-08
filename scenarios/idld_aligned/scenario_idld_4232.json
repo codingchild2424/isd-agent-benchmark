@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4232",
+  "variant_type": "idld_aligned",
+  "title": "Gamification-Based Education Program for Decision-Making in Non-Invasive Prenatal Testing (NIPT)",
+  "context": {
+    "prior_knowledge": "Basic Understanding of Genetics and Prenatal Testing",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Social decision-making education for experts in the medical, legal, and technical fields.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the basic principles of genetics and the NIPT (Non-Invasive Prenatal Testing) process.",
+    "Learners can critically analyze NIPT-related information and apply it to decision-making.",
+    "Learners can identify and discuss ethical/social issues that may arise when selecting genetic tests."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ARCS Model-Based Learning Module",
+      "Gamification elements (quizzes/simulations)",
+      "AR/VR Content (Optional)",
+      "Decision-Making Casebook",
+      "Online Discussion Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

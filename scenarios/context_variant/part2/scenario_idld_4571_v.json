@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4571-V",
+  "variant_type": "context_variant",
+  "title": "Dynamic Multimedia Learning Design for Understanding Organic Chemistry",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Structured to enable intuitive understanding of organic chemistry concepts through everyday examples encountered by learners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain and reproduce organic chemistry reaction mechanisms step-by-step through visual animations.",
+    "Learners can explore and explain the relationship between molecular structural formulas and actual molecular motion via VR simulations.",
+    "Learners can analyze representative organic reactions (e.g., aldol reactions) using multimedia tools and investigate real-world application cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D molecular modeling software",
+      "Reaction Mechanism Animation Library",
+      "VR Chemistry Laboratory Simulation Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

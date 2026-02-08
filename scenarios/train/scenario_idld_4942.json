@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4942",
+  "variant_type": "idld_aligned",
+  "title": "Workshop on Graphic-Based EML (Educational Modeling Language) Learning Design",
+  "context": {
+    "prior_knowledge": "Basic experience using online learning platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical training using graphic tools to enable learners in managerial/leadership roles to efficiently design language education content",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can generate at least one learning design using graphic tools based on the IMS LD standard.",
+    "Learners can propose two or more reusable content structures by modifying existing learning designs.",
+    "Learners can analyze dependencies between learning design elements to create an optimal activity sequence."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IMS LD-compatible graphic authoring tool accounts",
+      "Sample Learning Design Template",
+      "Dependency Analysis Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

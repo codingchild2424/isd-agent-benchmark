@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6718-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Programming Practical Skills: Learner-Centered Mobile Programming Education Course—Java Fundamentals",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can autonomously design at least three solution strategies by analyzing given Java project requirements.",
+    "Learners can complete an average of over 80% of learning modules in a mobile environment according to a weekly learning plan.",
+    "Learners can suggest five or more meaningful improvements when evaluating peer code and providing feedback through a peer review system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

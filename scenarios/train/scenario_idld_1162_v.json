@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1162-V",
+  "variant_type": "context_variant",
+  "title": "Augmented Reality-Based Mobile Physics Learning: Advanced High School Course",
+  "context": {
+    "prior_knowledge": "Foundational physics concepts (force, motion, energy, etc.) and basic smartphone operation skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Establishment of experimental environments using AR content and operation of an integrated LMS management system",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Core physics concepts (Newton's laws of motion, waves, electromagnetism, etc.) can be explained through visual simulations in augmented reality environments",
+    "Virtual implementations of real-world physical phenomena (electromagnetic induction, optical refraction, etc.) can be analyzed using AR-based experimental tools, with subsequent report writing",
+    "AR simulation projects can be collaboratively designed and executed with team members on a cooperative learning platform, followed by the creation of presentation videos"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Development Kit",
+      "Physics Experiment 3D Modeling Library",
+      "LMS-Integrated Analytics Tool",
+      "Learner Activity Tracking System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

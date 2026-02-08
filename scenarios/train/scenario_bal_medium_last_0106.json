@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0106",
+  "variant_type": "balance_medium_last",
+  "title": "Construction Site Material Handling Hazard Awareness Improvement Program",
+  "context": {
+    "prior_knowledge": "Understanding basic construction site work processes",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical education focused on smartphone sensor utilization, strengthening safety management competencies in non-face-to-face environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners identify four major risk factors in construction site material handling tasks with 80% accuracy.",
+    "Learners apply machine learning models to classify risk scenarios by analyzing smartphone accelerometer/gyroscope data.",
+    "Learners execute risk prevention measures in real work environments through a three-step process: recognition, analysis, and response."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone (Built-in Sensors)",
+      "LMS platform",
+      "Hazard Simulation Video",
+      "Machine Learning Classification Model Demo"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6301-V",
+  "variant_type": "context_variant",
+  "title": "Web-Based Distance Education Program Design and Operational Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Basic online learning platform (LMS) usage experience and understanding of secondary education curricula",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners participate in asynchronous learning using personal devices, receiving feedback weekly through module-based assignments and formative assessments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain core components of a web-based distance education program (content structure, assessment system, technological infrastructure).",
+    "Learners can design and apply effective interaction strategies in an LMS environment.",
+    "Learners can analyze formative assessment results and propose improvements for educational programs."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Zoom, Google Classroom, etc.)",
+      "Interactive Tools (Padlet, Mentimeter)",
+      "Assessment Templates (Rubrics, Checklists)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

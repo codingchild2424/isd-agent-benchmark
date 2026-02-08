@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7946-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Leveraging Visual and Textual Cues for Effective Video Learning",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can improve their understanding of language concepts by at least 30% using video materials that include visual and textual cues.",
+    "Learners focus on cue-providing areas for an average of at least two seconds while watching videos to acquire information.",
+    "Learners achieve an 80%+ accuracy rate on retention assessments and a 70%+ accuracy rate on transfer assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

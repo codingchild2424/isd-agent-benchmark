@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1763",
+  "variant_type": "idld_aligned",
+  "title": "Online Course Based on the Educational Reconstruction Model (MER) for Solid-State Chemistry Concept Learning",
+  "context": {
+    "prior_knowledge": "Foundational Knowledge of General Chemistry and Understanding of Atomic Structure",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Activity design optimized for smartphone-based learning environments and implementation of formative assessment-centered feedback systems",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain core solid-state chemistry concepts (crystal structures, bonding characteristics, band gaps, etc.) with over 80% accuracy.",
+    "Learners can connect solid-state chemistry principles to real-world examples (e.g., semiconductor materials, ionic conductors) at a conceptual level.",
+    "Learners improve misconception correction rates by over 60% through MER (Model-Evidence-Refinement)-based learning activities (thought experiments, modeling, case analysis)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Simulation Tool",
+      "PDF Learning Materials",
+      "Zoom Screen Sharing Feature",
+      "Google Forms-Based Formative Assessment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4378-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Online Language Learning Design: Customized Strategies for Small-Scale Learners",
+  "context": {
+    "prior_knowledge": "Possession of basic language proficiency (CEFR A2 or higher)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "In a limited technological environment centered on smartphones, flexible learning activities must be designed considering learners' physical spaces (home/café, etc.).",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can complete at least 80% of self-directed learning modules (60 minutes per session, 5 times per week) in a mobile LMS environment.",
+    "Learners can exchange peer feedback and complete two collaborative tasks via text/audio-based computer-mediated communication (CMC) without real-time video sessions.",
+    "Learners can apply three contextually appropriate language learning strategies (e.g., noise mitigation) in real-world scenarios considering physical constraints of learning spaces."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Voice Recording Application",
+      "Text-Based Collaboration Tool",
+      "Offline worksheet PDF"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Business/HR/Admin Support"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0148",
+  "variant_type": "balance_medium_scale",
+  "title": "Tablet-Integrated Mobile Learning Design for Elementary Science Classes",
+  "context": {
+    "prior_knowledge": "Basic scientific terminology understanding and digital device proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Project-based science learning utilizing tablets both inside and outside the classroom, requiring technical support personnel and parental collaboration systems.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can collect and analyze scientific experiment data using tablet-based digital tools.",
+    "Students can complete collaborative problem-solving projects by using tablets as \"engagement activation tools.\"",
+    "Learners can connect scientific knowledge to real-world problems by utilizing tablets as \"connected world\" tools in mobile learning environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Experiment Kit",
+      "Tablet Devices (1 per student)",
+      "Digital Content Platform Subscription",
+      "Wi-Fi-Enabled Classroom Environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

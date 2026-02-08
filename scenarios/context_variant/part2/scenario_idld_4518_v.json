@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-4518-V",
+  "variant_type": "context_variant",
+  "title": "Telehealth Practical Competency Enhancement Course Based on Nursing Simulation: Scientific Inquiry and Patient Safety-Centered Approach",
+  "context": {
+    "prior_knowledge": "Possession of intermediate-level professional knowledge and problem-solving skills, understanding of basic scientific inquiry methods (observation, hypothesis formulation, experimental design), and foundational knowledge of the nursing process (assessment-diagnosis-planning-implementation-evaluation)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners access LMS, perform simulation modules, and participate in asynchronous discussions using personal devices. Learning environment emphasizes patient data analysis based on scientific methodologies and evidence-based practice (EBP) application.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Perform a 5-step scientific process (hypothesis setting-variable control-observation-analysis-conclusion) for systematically evaluating patient symptoms in telehealth environments with 80% accuracy",
+    "Select evidence-based nursing interventions for three types of chronic disease patients through virtual simulation scenarios and measure their effectiveness",
+    "Learners can structure patient information (diagnosis, treatment plan, medication history, etc.) in electronic documents with over 90% accuracy according to KCDC guidelines for telehealth medical record writing and complete documents including at least 8 of 10 required items using provided templates",
+    "Explain four scientific verification items for ensuring patient safety when using digital therapeutic tools: equipment validation, data encryption, emergency protocols, and user education"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Fidelity Virtual Patient Simulation Software",
+      "Telehealth Equipment Training Video Library",
+      "LMS-Integrated Assessment Tool",
+      "Standardized Patient Record Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

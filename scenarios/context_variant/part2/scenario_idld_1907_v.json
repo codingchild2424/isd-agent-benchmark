@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1907-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design for Assessment and Management of Benign Paroxysmal Positional Vertigo",
+  "context": {
+    "prior_knowledge": "Basic knowledge of medical terminology and understanding of neurological symptoms",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aims for pre-service teachers to acquire practical skills in assessing vestibular vertigo patients in speech therapy, emphasizing simulation activities using personal devices (BYOD)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Able to explain the pathophysiology and diagnostic criteria of benign paroxysmal positional vertigo (BPPV).",
+    "Capable of practicing standard assessment/treatment procedures such as the Dix-Hallpike test and Epley maneuver.",
+    "Able to demonstrate the process of developing a BPPV management plan using patient education materials."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "BPPV Assessment/Treatment Video Resources",
+      "Virtual Patient Scenario Cards",
+      "3D Ear Anatomy Model",
+      "Mobile App-Based Diagnostic Quiz Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Business/HR/Admin Support"
+}

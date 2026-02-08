@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3278-V",
+  "variant_type": "context_variant",
+  "title": "Large Language Model Chatbot-Enhanced Social Learning Achievement Program for Middle School Students",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A teaching competency enhancement course for pre-service or in-service teachers. Designing social studies learning activities via VR simulations in a smartphone-centric limited-technology environment, with learning outcomes measured through project-based assessments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Students can achieve over 80% completion of social studies assignments using large language model-based chatbots.",
+    "Learners can improve their knowledge restructuring and application skills by 30% based on chatbot usage experiences.",
+    "Over 70% of participating students record a satisfaction score of 4 or higher (on a 5-point scale) regarding technology-enhanced learning."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible VR learning app",
+      "Chatbot-optimized web platform",
+      "Offline learning guide PDF materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

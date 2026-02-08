@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0190",
+  "variant_type": "balance_medium_scale",
+  "title": "Augmented Reality (AR)-Based Project-Based Education for Higher Education STEM Learning",
+  "context": {
+    "prior_knowledge": "Foundational science theories and experience utilizing digital tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners develop prototypes using AR technology to solve real scientific problems, collaborating and engaging in self-directed learning in a BYOD environment.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Virtual simulation models of physical science laboratory equipment can be designed using AR technology",
+    "AR-based data visualization and interactive systems can be implemented for STEM problem-solving",
+    "In a 1-week intensive PBL (Problem-Based Learning) environment, learners (3–4 per team) develop an AR solution prototype using Unity or Unreal Engine. They achieve ≥70/100 points on a rubric (technical implementation 30%, collaboration 20%, creativity 20%, completeness 30%) after presentation/demonstration. Version control via GitHub/GitLab, ≥2 weekly scrum meetings, and submission of an executable prototype and 10-page report are required."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Development Platform (Unity/ARKit/ARCore)",
+      "3D Modeling Tools (Blender/Tinkercad)",
+      "Hybrid Virtual-Physical Science Experiment Kit",
+      "Collaboration Management Tools (Google Workspace)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

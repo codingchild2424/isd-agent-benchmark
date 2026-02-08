@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6642-V",
+  "variant_type": "context_variant",
+  "title": "Exploring e-Learning Effectiveness for Engineering Education: Utilizing Virtual Environments and Simulations",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course exploring e-learning tool applications in engineering education for pre-service and in-service teachers",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "They can analyze the impact of content provided in a Virtual Learning Environment (VLE) on understanding engineering concepts.",
+    "They can apply multivariate statistical methods to evaluate the effectiveness of simulation-based learning tools.",
+    "They can design an evaluation system to empirically validate the learning effectiveness of digitally designed resources for engineering education."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual environment platform for engineering education",
+      "Simulation Software",
+      "Learning Analytics Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1311",
+  "variant_type": "idld_aligned",
+  "title": "Project-Based Learning for Utilizing Generative AI in Mathematics Education",
+  "context": {
+    "prior_knowledge": "Understanding of foundational mathematics concepts and basic proficiency in digital tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Experimental use of generative AI tools and collaborative project implementation with personal devices",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Generate at least five parameter-based math problems using generative AI tools and explain problem variation strategies.",
+    "Analyze AI-generated visuals to create at least two explanatory materials tailored to learners' proficiency levels.",
+    "Through reflective practice, identify at least three potential educational challenges when designing AI-integrated lessons and propose solutions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access to generative AI tools (MATH41-like systems)",
+      "Digital resource package including math concept visualization templates",
+      "Collaborative platform for PBL (Google Workspace, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

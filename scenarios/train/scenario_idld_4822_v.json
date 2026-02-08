@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4822-V",
+  "variant_type": "context_variant",
+  "title": "Workshop on Improving Science Textbook PPT Design Using Generative AI",
+  "context": {
+    "prior_knowledge": "Basic PowerPoint operation skills and understanding of ChatGPT interface",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Short-term course for in-service elementary science teachers conducted at a corporate-affiliated training institute, with hands-on practice using individual tablets",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Science textbook content can be restructured according to visual hierarchies using generative AI prompt engineering",
+    "Text-heavy slides can be converted into modern designs by integrating Python automation scripts with the ChatGPT API",
+    "A 3-second rule (limiting text to 3 words) can be applied to create PPTs that reduce cognitive load and tested in mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ChatGPT Plus Account",
+      "Python Jupyter Notebook Environment",
+      "PPT Design Template Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

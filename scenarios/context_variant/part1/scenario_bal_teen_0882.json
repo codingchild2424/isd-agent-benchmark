@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0882",
+  "variant_type": "balance_teen_k12",
+  "title": "Video-based instructional design for developing integrated elementary mathematics-language learning media: Integrating geometric properties and linguistic explanations",
+  "context": {
+    "prior_knowledge": "Basic arithmetic operational skills, comprehension of geometric concepts and fundamental mathematical terminology (area, volume, vertices, etc.), ability to construct simple explanatory sentences",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Focuses on developing video-based learning media implementable in smartphone-centric limited-technology environments, emphasizing integrated learning of mathematical concepts (formulas, calculation processes) and linguistic expressions (terminology, explanatory sentences, comparative sentences). Specifically aims to improve learners' reading comprehension (problem understanding) and expression skills (explaining solution processes).",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Using learning videos, learners can accurately describe geometric properties (faces, edges, vertices) and surface area calculation principles of rectangular prisms, cubes, prisms, and pyramids using precise mathematical terminology (area, volume, formulas) and linguistic explanations (comparative/contrastive sentences)",
+    "By following video tutorials, learners can visually and linguistically reconstruct step-by-step problem-solving processes (including geometric terminology, computational terms, and explanatory sentences) and develop the ability to summarize core concepts through writing.",
+    "Learners use mobile learning apps (e.g., Quizlet, Duolingo) to set weekly math-language integrated learning goals (e.g., 20 math terms, 10 problem-solving sentences), record progress on a checklist for four weeks, achieve an 80%+ completion rate, and write a brief report based on their learning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone Filming Equipment",
+      "Video editing software",
+      "Zoom Platform License",
+      "Basic Mathematics Worksheet Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

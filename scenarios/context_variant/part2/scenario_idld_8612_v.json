@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8612-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing AI Practical Competencies: Innovating Online Learning Design—COPLS One-on-One Model vs. Traditional Approaches",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the core differences between the COPLS model and traditional lecture-based approaches",
+    "Learners apply self-directed learning planning and execution strategies with over 80% participation rate",
+    "Learners comparatively analyze the effectiveness of group interaction and personalized feedback in online environments",
+    "Learners self-diagnose learning outcomes at least three times using formative assessment tools based on a learning management system (LMS)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

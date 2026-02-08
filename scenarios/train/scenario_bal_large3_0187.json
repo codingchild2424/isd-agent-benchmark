@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE3-0187",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Interaction-Based Social Studies Learning Design Through Online Learning Analytics",
+  "context": {
+    "prior_knowledge": "Basic experience with online learning tools and understanding of fundamental social studies concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students learn social studies content with interactive elements by combining Zoom-based real-time classes and an LMS (Learning Management System). Learning engagement is assessed, and instructional design is improved through click behavior data analysis.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explore additional resources by utilizing hyperlinks, zoom buttons, expert advice links, etc., provided in online modules at over 80% frequency",
+    "Learners can dwell on each page for at least 120 seconds and achieve over 75% content comprehension",
+    "By scoring over 85% correct on formative assessments (multiple-choice items), learners can demonstrate effective learning engagement"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account & Screen Sharing Feature",
+      "LMS (e.g., Moodle) platform",
+      "Social studies-related digital content (interactive modules)",
+      "Learning analytics tools (e.g., Google Analytics, LMS-built-in analytics)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

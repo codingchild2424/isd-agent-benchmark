@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5461-V",
+  "variant_type": "context_variant",
+  "title": "Dynamic Assessment-Based English Speaking Simulation Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic English vocabulary and sentence structure",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical English Communication Skills Enhancement Program for Job Seekers",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can articulate basic conversational expressions with ≥80% accuracy in a VR environment",
+    "Learners can diagnose and correct their pronunciation in real-time through a speech recognition system",
+    "Learners can reduce English speaking anxiety by ≥30% through dynamic assessment feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "20 VR Headsets",
+      "Speech Recognition Software License",
+      "Customizable Simulation Content",
+      "Mobile Device Charging Station"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

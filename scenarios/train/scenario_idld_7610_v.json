@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-7610-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Software Development Practice Competencies: Design and Implementation of a Customized Science Curriculum Based on CBETC",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the definition and goals of CBETC with over 80% accuracy.",
+    "Learners can write an activity plan for personalized instructional design.",
+    "Learners can develop a science lesson module integrating diverse teaching methods.",
+    "Learners can design an assessment rubric applying a mastery-based progress management system.",
+    "Learners can establish a learner feedback system based on formative assessment results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

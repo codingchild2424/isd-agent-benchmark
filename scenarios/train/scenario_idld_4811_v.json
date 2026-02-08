@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4811-V",
+  "variant_type": "context_variant",
+  "title": "Video Modeling-Based Instructional Design for Probability Calculation Learning",
+  "context": {
+    "prior_knowledge": "Understanding of basic statistical concepts and college-level mathematics",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Case-centered education considering practical applicability for current professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply conditional probability calculation methods with 80% accuracy to solve given probability problems.",
+    "Learners can correctly construct probability distribution models three or more times by analyzing real-life cases.",
+    "Learners can explain complex probabilistic relationships using visualization techniques presented in video modeling."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Whiteboard",
+      "Tablet PCs (1 per learner)",
+      "Real-Time Polling System",
+      "Probability calculation worksheet template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

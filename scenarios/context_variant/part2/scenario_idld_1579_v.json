@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1579-V",
+  "variant_type": "context_variant",
+  "title": "Augmented Reality-Based Campus Plant Learning: A Competency Development Program for Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Basic Smartphone Operation Skills and Fundamental Knowledge of Botany",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners can engage in self-directed learning via mobile devices on weeknights and weekends; field learning is mandatory when utilizing AR content",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the morphological characteristics and ecological roles of 50 campus plant species with over 80% accuracy using AR technology.",
+    "Learners can collect and analyze plant observation data via mobile learning tools and submit weekly reports through the LMS.",
+    "Learners can develop plant learning design plans applicable to local school settings through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR-Compatible Smartphones",
+      "Campus Plant Distribution Map",
+      "Mobile Learning App",
+      "LMS platform",
+      "Plant Observation Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

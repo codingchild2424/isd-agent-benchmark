@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1837",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Intensive Learning Course Based on Language MOOC Discussion Forums",
+  "context": {
+    "prior_knowledge": "Understanding Basic Scientific Terminology and Experience with Online Learning",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An environment requiring smartphone-based access optimization, emphasizing asynchronous discussion participation",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can utilize basic science terminology through discussions of five or more real-world case studies.",
+    "Learners can access and participate in discussion forums in mobile environments with over 90% reliability.",
+    "Learners apply and implement self-directed language learning strategies at least three times based on peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Science Terminology Dictionary Database",
+      "Discussion Analysis Checklist",
+      "Auto-Scoring Quiz Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

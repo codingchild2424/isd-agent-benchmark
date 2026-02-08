@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0254",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Design and Evaluation Methods for Educational Hypermedia in Distance Education",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and foundational concepts of instructional design",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-real-time online course for pre-service/in-service teachers to strengthen hypermedia design competencies in language education, operating with formative assessment and providing digitally supported environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply the six evaluation domains (general impression, technical quality, usability, scenario, multimedia documentation, and educational aspects) when designing educational hypermedia",
+    "Learners can maximize learning effectiveness by designing and integrating multimedia materials (photos, typography, videos, etc.) suitable for remote education environments",
+    "Learners can conduct formative evaluations of educational hypermedia prototypes using assessment tools based on the CEPIAH methodology"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web-based design tools",
+      "Multimedia production resources",
+      "Assessment rubric database",
+      "LMS platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

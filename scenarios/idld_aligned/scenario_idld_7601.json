@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7601",
+  "variant_type": "idld_aligned",
+  "title": "Practical Application Course for Ordinary Differential Equations (ODE) Using Blended Learning",
+  "context": {
+    "prior_knowledge": "Foundational Calculus and Linear Algebra Knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A blended learning environment combining MOOC platforms with offline classes for current practitioners, applying digital device provision and project-based assessment methods.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply analytical/numerical solutions for first- and second-order linear differential equations to practical tasks.",
+    "Learners can solve 80% or more of ODE-related project problems using MOOC platform resources.",
+    "Learners can apply ODE modeling techniques to real engineering problems through team-based PBL activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Prezi Lecture Materials",
+      "MOOC Video Lectures",
+      "Automated Grading Exercise System",
+      "Online Collaboration Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

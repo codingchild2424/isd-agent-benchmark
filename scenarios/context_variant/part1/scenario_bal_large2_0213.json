@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0213",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Integrated Clinical Reasoning Development in Dentistry: Case-Based Simulation Learning (Integrating Sociocultural Contexts and Civic Rights)",
+  "context": {
+    "prior_knowledge": "Basic dental knowledge (oral anatomy, pathology, etc.) and understanding of clinical procedures, foundational awareness of medical ethics, patient rights, and multicultural contexts, and elementary concepts related to community health disparities and healthcare accessibility",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in virtual patient simulation environments using VR equipment, with individual mobile device access and analysis of case materials. Scenarios incorporate sociocultural elements (health disparities, medical accessibility, patient-doctor relationships, cultural sensitivity). Emphasizes education for realizing justice within healthcare systems.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Perform patient information collection → diagnosis → treatment planning with 80% accuracy across three or more complex clinical cases and develop personalized treatment approaches considering patients’ socioeconomic/cultural backgrounds and community health disparities.",
+    "Learners can achieve 1.5x higher decision-making accuracy (75%+) than treatment plans in 10 clinical scenarios within a week and provide decision rationales reflecting five core medical ethics principles (autonomy, beneficence, non-maleficence, justice, fidelity) and civic rights guarantees in over 80% of scenarios.",
+    "Identify and improve at least three clinical errors via peer and self-assessment in VR simulations, apply medical team collaboration and communication protocols, and establish communication strategies in multicultural settings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR dental treatment simulator",
+      "Digital patient case database",
+      "BYOD-Compatible Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

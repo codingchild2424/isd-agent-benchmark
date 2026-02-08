@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6531",
+  "variant_type": "idld_aligned",
+  "title": "Constructivist-Based e-Learning Interaction Design: Language Learning Simulation",
+  "context": {
+    "prior_knowledge": "Basic language learning experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhanced language interaction learning in limited-technology environments using smartphones",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform language interactions reflecting cultural contexts with over 80% accuracy in VR simulation environments",
+    "Learners evaluate their ability to self-construct meaning of language expressions through constructivist problem-solving activities",
+    "Learners share language usage contexts three or more times and provide feedback through mobile platform-based collaborative activities with peer learners"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible VR Simulation Platform",
+      "Language Interaction Analysis Tool",
+      "Online Collaborative Bulletin Board",
+      "Smartphone-optimized LMS system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8562",
+  "variant_type": "idld_aligned",
+  "title": "Health Literacy and Behavior Change Capacity-Building Program",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and foundational understanding of health concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A personalized health education curriculum based on adult learning theory and cognitive psychology, emphasizing learner-led participation and actionable behavior change strategies for real-life application",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can select reliable health information by applying health information evaluation and critical thinking skills.",
+    "Learners can convert health-related knowledge into long-term memory using cognitive psychology-based learning strategies.",
+    "Learners can maintain healthy lifestyle habits (e.g., diet management, physical activity) for over eight weeks through self-directed goal-setting and monitoring skills.",
+    "Learners can improve questioning and decision-making abilities by acquiring effective communication skills with healthcare professionals."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive health simulation tool",
+      "Customized Learning Management System (LMS)",
+      "Health behavior tracking mobile app",
+      "Peer Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

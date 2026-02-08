@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8362",
+  "variant_type": "idld_aligned",
+  "title": "Vocational Hybrid Learning Program for Students with Disabilities",
+  "context": {
+    "prior_knowledge": "Basic Job Competencies and Experience with Online Learning Platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Combining Work-Based Learning (WBL) with blended instructional design to improve vocational skills and social integration for students with disabilities. Project-based assessments measure practical competencies in BYOD environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners with disabilities can perform basic workplace communication skills (email writing, business report writing, etc.) required in vocational settings with over 80% accuracy",
+    "Learners apply collaboration and problem-solving skills to real-world work scenarios through team-based project implementation",
+    "Learners can autonomously complete job-related tasks using digital tools (word processors, video conferencing systems)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Job-Site Simulation Content",
+      "Accessibility-Compliant Learning Materials (Screen Reader-Compatible)",
+      "Video Conferencing Platform",
+      "Collaboration Tools (e.g., Miro, Notion)"
+    ],
+    "accessibility": "화면 읽기 프로그램 호환, 자막 지원, 색상 대비 최적화",
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

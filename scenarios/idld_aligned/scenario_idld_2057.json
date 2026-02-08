@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2057",
+  "variant_type": "idld_aligned",
+  "title": "Game-based Instructional Design for Enhancing Social Problem-Solving Skills",
+  "context": {
+    "prior_knowledge": "Basic Awareness of Social Issues and Digital Tool Utilization Skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Participatory learning through smartphone-based game play and prototype design",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze social problem scenarios within games and derive at least three solution strategies.",
+    "Learners can evaluate game playability (goal-task-feedback connectivity) at over 80% accuracy based on heuristic evaluation criteria.",
+    "Learners can propose at least two game improvement plans through storyboard-based prototype design."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-based game platform",
+      "Low-resolution prototyping tools",
+      "Heuristic evaluation checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

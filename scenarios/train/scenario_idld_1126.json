@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1126",
+  "variant_type": "idld_aligned",
+  "title": "Advanced Cartesian coordinate system learning program for engineering practitioners",
+  "context": {
+    "prior_knowledge": "Foundational engineering mathematics and understanding of mechatronics systems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical skill-focused program for in-service professionals to improve spatial reasoning. Immersive learning combining VR/simulation tools and mechatronics concepts in a BYOD environment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "A robot's position coordinates (X,Y) in a 2D coordinate system can be tracked in real-time and accurately plotted on a graph",
+    "Coordinate transformation (translation/rotation) problems can be solved with over 85% accuracy using experiential simulation tools",
+    "Design documentation applying coordinate system concepts to actual mechatronics systems can be completed through team projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software License",
+      "UWB (Ultra-Wideband) Position Tracking Kit",
+      "AR Application for Tablet/Smartphone",
+      "Mechatronics Experiment Workbench Model"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

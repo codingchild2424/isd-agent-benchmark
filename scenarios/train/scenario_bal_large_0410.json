@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-0410",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] QM Standard-Based Design Strategies for Improving Online Language Course Quality: Enhancing Cultural Inclusivity, Accessibility, and Interactivity",
+  "context": {
+    "prior_knowledge": "Online learning experience and intermediate language education knowledge (including grammar-vocabulary-communication strategies-text analysis), and basic understanding of multicultural environments",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Ensures accessibility in BYOD environments (optimized captions/screen readers) and reflects professional learners’ characteristics (workplace language use, documentation, presentation skills). Aims to enhance cross-cultural communication and idiomatic expression proficiency.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "An online course design framework aligned with QM standards and national language education standards (KSL) can be applied to build an integrated learning environment for reading, writing, and speaking.",
+    "Design at least three multimodal interaction strategies (e.g., discussions, role-playing, feedback activities) to promote learner engagement, incorporating communication strategies and vocabulary expansion elements.",
+    "Learners can develop one language learning content piece (video or document) within a week that reflects at least three criteria each for cultural inclusivity (including multicultural expressions and idioms) and accessibility (captions and audio descriptions for visual/hearing impairments), and submit a final product meeting at least four out of five peer evaluation rubric items.",
+    "Submit project outcomes that demonstrate clear alignment between learning objectives, assessments, and rubrics, incorporating language proficiency evaluation criteria (grammar, vocabulary, communication, expression) and cultural context."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Multimedia Production Tool",
+      "Accessibility Validation Software",
+      "Cultural Inclusivity Audit Checklist"
+    ],
+    "accessibility": "WCAG 2.1 AA 수준 준수",
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

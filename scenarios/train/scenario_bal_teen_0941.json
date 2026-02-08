@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0941",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Workshop on Near-field Massive MIMO Integrated Sensing and Communication System Design",
+  "context": {
+    "prior_knowledge": "Wireless communication systems fundamentals, linear algebra, and experience with deep learning frameworks",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced course for professionals aiming to acquire practical beamforming optimization techniques applicable to real-world tasks",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Design a beamforming algorithm that enhances integrated sensing-communication system performance by over 20% in near-field XL-MIMO environments.",
+    "Secure the ability to perform real-time optimization without channel estimation by utilizing a deep learning-based beamforming network.",
+    "Implement the STJRC framework capable of spatiotemporal beamforming optimization in multi-user mobility environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GPU Server (for Deep Learning Training)",
+      "Communication System Simulation Software",
+      "Actual MIMO Equipment (for Validation)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

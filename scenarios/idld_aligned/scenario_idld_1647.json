@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1647",
+  "variant_type": "idld_aligned",
+  "title": "Virtual Pulmonary Rehabilitation Education Program for COVID-19 Patients",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and understanding of the respiratory system",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Utilization of virtual educational content in a bring-your-own-device (BYOD) environment.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Participants can explain three or more pulmonary rehabilitation exercise protocols for COVID-19 patients",
+    "Participants can analyze patient conditions using respiratory function assessment tools (e.g., Borg Scale)",
+    "Participants can apply methods for producing multimedia materials (videos, PPT) for patient education"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet/laptop (learner’s personal device)",
+      "Video conferencing tools (Zoom/Teams)",
+      "Neonatal respiratory rehabilitation practice video library",
+      "Respiratory rehabilitation equipment model (virtual/physical)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

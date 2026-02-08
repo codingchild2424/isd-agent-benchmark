@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0230",
+  "variant_type": "balance_medium_last",
+  "title": "Intensive Short-Term Cervical Anatomy Course Utilizing 3D Interactive Anatomy",
+  "context": {
+    "prior_knowledge": "Basic anatomy and medical terminology comprehension, experience with digital learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "3D interactive e-learning module-based cervical anatomy education in BYOD settings, applying alternative learning methods to address spatial cognition and psychological discomfort in anatomy labs",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Accurately identify and explain structural features of the cervical spine (vertebrae, nerves, blood vessels) using 3D interactive tools.",
+    "Analyze the three-dimensional spatial relationships of the cervical spine by applying interactive functions (rotation, zoom, layer separation) on a mobile learning platform.",
+    "Logically explain clinical applications of cervical spine anatomy (e.g., spinal stenosis) through summative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D anatomical modeling software license",
+      "Mobile-compatible e-learning platform",
+      "Cervical spine anatomy clinical case database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

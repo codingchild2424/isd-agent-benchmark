@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3219",
+  "variant_type": "idld_aligned",
+  "title": "Assessment and Instructional Improvement Program for Enhancing Maker-Based Mathematical Problem-Solving Skills",
+  "context": {
+    "prior_knowledge": "Grasp of foundational mathematics concepts (functions, geometry, statistics) and basic workplace competencies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Focuses on cultivating mathematical application skills through maker activities in smartphone-centric limited-technology environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can independently perform maker projects that convert real-world job problems into mathematical modeling at least 80% of the time.",
+    "Learners can explain problem-solving processes through structured feedback in three or more stages using maker outputs collaboratively produced with peers.",
+    "Learners can successfully execute decision-making simulations at least twice based on data collected using smartphone-based tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Low-Cost Maker Kits (Paper, Cardboard, etc.)",
+      "Smartphone-Based Data Collection App",
+      "Digital Portfolio Templates",
+      "Offline collaborative worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

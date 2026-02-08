@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6811",
+  "variant_type": "idld_aligned",
+  "title": "Revised Bloom’s Taxonomy-Based Engineering Analysis Distance Learning Design",
+  "context": {
+    "prior_knowledge": "Fundamental engineering concepts and understanding of mathematics (matrices, calculus)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Designs learning activities applying the revised Bloom’s taxonomy in digital offline environments, progressing step-by-step through a case study on bending stress calculations.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can reproduce factual knowledge (formulas, units) required for bending stress calculation problems with 90% accuracy.",
+    "Learners can structure the analytical process (calculation → result interpretation → limitation evaluation) into four or more stages when solving engineering problems.",
+    "Learners can visually represent (graphs/charts) and interpret bending stress calculation results using real-world structural examples."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Engineering Calculator",
+      "Structural Analysis Software Demo Version",
+      "Case Study Workbook",
+      "3D-Printed Structural Model"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

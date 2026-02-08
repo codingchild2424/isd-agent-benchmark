@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4516",
+  "variant_type": "idld_aligned",
+  "title": "Technical Chinese e-Learning: Multimedia-Based Beginner Practical Course",
+  "context": {
+    "prior_knowledge": "Recognition of at least 50 basic Chinese characters and foundational understanding of scientific terminology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A real-time feedback-enabled environment using digital devices, supplemented by weekly online mentoring sessions.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Accurate pronunciation and contextual comprehension of 200 core technical vocabulary items through situational audio/video content",
+    "Cultivation of proficiency in applying 10 types of Chinese templates for explaining scientific experiment procedures",
+    "Analysis of similarities/differences between technical terms using multimedia learning tools to produce comparative reports"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web-Based Learning Platform",
+      "Technical Field Image/Video Database",
+      "Interactive Flash Animation",
+      "Automated Pronunciation Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

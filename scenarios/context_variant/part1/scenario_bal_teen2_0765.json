@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0765",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Online Intensive Course on Core Technologies of Electrical Engineering Simulation",
+  "context": {
+    "prior_knowledge": "Basic electrical theory (voltage, current, resistance, etc.) and experience constructing simple circuits",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Providing mobile-optimized content enabling smartphone-based learning, utilizing mobile-friendly virtual tools as alternatives to simulation hardware",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Actual electrical system operations can be replicated with 80% or higher accuracy using smartphone-based simulation tools",
+    "Circuit problem diagnoses and solutions can be derived with 70% or higher accuracy by interpreting simulation results",
+    "Design methods complying with electrical facility safety standards (e.g., prevention of electric shock) by 90% or more in simulation environments can be explained"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Simulation Application",
+      "PDF-Based Theoretical Materials",
+      "LMS-Integrated Microlearning Video Lectures (Under 5 Minutes)",
+      "Quiz/Assignment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

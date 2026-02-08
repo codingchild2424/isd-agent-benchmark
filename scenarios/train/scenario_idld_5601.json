@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5601",
+  "variant_type": "idld_aligned",
+  "title": "Mastery Learning Program for Aggression Management for Nursing Assistants",
+  "context": {
+    "prior_knowledge": "Basic nursing skills and patient care experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A mobile-based intensive training program designed to help nursing assistants effectively manage patient aggression scenarios.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners identify aggression-inducing situations with 80% accuracy via video modeling and develop response strategies.",
+    "Learners master situational response techniques through mastery learning stages, achieving three consecutive successful demonstrations.",
+    "Learners achieve a self-efficacy score of ≥4.0/5.0 in simulated scenario assessments within 72 hours post-training."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Mobile Learning Platform",
+      "Real-World Scenario-Based 360-Degree Video Content",
+      "AI Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

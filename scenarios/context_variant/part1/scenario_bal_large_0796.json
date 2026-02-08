@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0796",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Instructor Workflow Optimization Strategies in Online Science Education",
+  "context": {
+    "prior_knowledge": "Understanding of basic theories and research methodologies in the field of science",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended science education course applying student-centered pedagogy, combining real-time interaction via digital devices with self-directed learning.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain science education design methods applying student-centered teaching approaches in online/offline environments.",
+    "Learners can establish and operate a formative assessment system using digital tools.",
+    "Learners can analyze instructor workload in blended learning and develop time management strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Asynchronous Collaboration Tool",
+      "Real-Time Video Conferencing System",
+      "Learning Analytics Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

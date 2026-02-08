@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1730",
+  "variant_type": "idld_aligned",
+  "title": "Interactive Multimedia Learning Module for Understanding Electrochemistry",
+  "context": {
+    "prior_knowledge": "High school-level foundational chemistry knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Non-degree program for workplace skill enhancement, featuring offline classroom instruction with digital devices",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can accurately explain concepts connecting macroscopic, microscopic, and symbolic representation levels in electrochemistry with over 80% accuracy",
+    "Students can visually analyze and explain the principles of conductivity changes in electrolyte solutions using interactive simulations",
+    "Guided by a pedagogical agent, students can perform stepwise electrolysis experiment design and interpret current-time graphs"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PCs (30 Units)",
+      "Projection System",
+      "EC Lab Multimedia Module License",
+      "Virtual Electrochemistry Experiment Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

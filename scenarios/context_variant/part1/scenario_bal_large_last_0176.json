@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0176",
+  "variant_type": "balance_large_last",
+  "title": "Web-Based Science Learning Motivation Enhancement Course",
+  "context": {
+    "prior_knowledge": "Science fundamentals and job-related core concept understanding",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A science learning motivation enhancement program conducted in smartphone-centric limited technology environments. Learning outcomes measured through project-based assessments, emphasizing self-directed inquiry using web-based learning tools (Web-LE).",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners enhance learning motivation by more than 20% through scientific inquiry activities in web-based learning environments",
+    "Over a two-week mid-term course, learners solve two challenging tasks weekly (e.g., algorithm optimization problems), engage in three or more curiosity-driven discussions (e.g., emerging technology trend analyses), and participate twice weekly in interactive peer learning activities (e.g., pair programming sessions), creating and executing self-directed learning plans.",
+    "Within four weeks, learners complete one software prototype applying scientific concepts (e.g., physics laws, data analysis) and earn an average creative problem-solving score of 4/5 or higher from a corporate practitioner evaluation panel."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Web-Based Learning Platform",
+      "Mobile-Optimized Science Simulation Tool",
+      "Motivation Survey Questionnaire",
+      "Project Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

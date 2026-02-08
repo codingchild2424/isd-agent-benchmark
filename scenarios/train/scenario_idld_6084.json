@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6084",
+  "variant_type": "idld_aligned",
+  "title": "Adaptive Social Studies Design Workshop Using Distributed Learning Object Economies",
+  "context": {
+    "prior_knowledge": "Foundational instructional design theory and understanding of learning object concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Participants engage in projects reflecting real corporate social studies job scenarios, conducting blended learning with collaboration tools (ZOOM, Miro, Google Workspace, etc.) in a BYOD environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Independently extract three or more social studies-related learning objects using the microcontext-based search tool (LORSE) from the Distributed Learning Object Repository (DLOR).",
+    "Apply the LOOK process to place extracted learning objects into enterprise-tailored adaptive learning designs.",
+    "Achieve over 80% effectiveness (accessibility, reusability, adaptability) in designed learning modules through peer feedback and rubric assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LORSE Search Prototype",
+      "LOOK Placement Simulator",
+      "Corporate Social Studies Curriculum Standard Metadata Template",
+      "SCORM-Compliant LMS Sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

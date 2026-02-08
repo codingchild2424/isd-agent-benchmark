@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0681",
+  "variant_type": "balance_medium_scale",
+  "title": "Learning Object Utilization Strategies for Science Curriculum Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific theories and fundamental instructional design concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners strengthen science curriculum design competencies and acquire efficient curriculum development methods using reusable learning objects (LOs). Integration with collaboration tools in BYOD environments is recommended",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design one customized science curriculum by leveraging metadata provided in the learning design framework.",
+    "Develop three or more learning objects that integrate theoretical knowledge (literature review) with practical cases (best practices).",
+    "Learners can analyze a peer-reviewed HR management curriculum (based on feedback from ≥5 peers) using three modularity metrics (time flexibility, content independence, scope of application) and two scalability metrics (applicability to other departments, industry-specific applicability), then submit a report presenting at least one concrete justification (e.g., case comparison, data analysis) per metric."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Object Repository Prototype",
+      "UML-Based Design Tool",
+      "Video Conferencing Platform (Zoom)",
+      "Collaboration Tools (Google Workspace)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Business/HR/Admin Support"
+}

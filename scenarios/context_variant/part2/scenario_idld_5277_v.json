@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5277-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Game-Based University Library Utilization Mastery Course",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can perform key university library services (e.g., academic resource search, study space reservation) with 80%+ accuracy using mobile game-based learning tools",
+    "Learners can apply academic information literacy strategies to real-world scenarios through in-game quiz resolution",
+    "Learners can propose solutions to job-related problems linked to libraries through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

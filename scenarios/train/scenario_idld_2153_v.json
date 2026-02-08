@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2153-V",
+  "variant_type": "context_variant",
+  "title": "Customized E-Learning Science Exploration for Adult Learners",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Science curriculum reflecting learners' personal life experiences and interests. Utilizes tablets/smartphones in a BYOD environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain scientific principles in everyday life using personalized science content generated from individual profiling",
+    "Through three or more self-directed learning plans, learners can conduct in-depth exploration of science topics in their areas of interest",
+    "Learners can produce individual learning outcomes and present them to peers through project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learner Profiling Survey Instrument",
+      "Customized Content Recommendation Software",
+      "Science Experiment Kit (Utilizing Household Materials)",
+      "BYOD Device Management App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0206-V",
+  "variant_type": "context_variant",
+  "title": "VR-Based Advanced Learning Course on Accounting Equations",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Strengthening accounting competencies applicable to workplaces through smartphone-based VR learning.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain how the asset=liability+equity equation is applied in actual transaction processes through VR simulations.",
+    "Learners can accurately record complex transactions (compound accounting events) using non-traditional learning materials (e.g., visual storytelling, interactive simulations).",
+    "Learners can identify accounting errors and propose corrective measures using VR tools in PBL team projects.",
+    "Learners can write a report comparing cognitive load differences between VR and traditional material learning conditions in summative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Offline-Synchronizable Learning Platform",
+      "Accounting Simulation Software License"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

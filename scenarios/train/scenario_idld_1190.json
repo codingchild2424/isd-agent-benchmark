@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1190",
+  "variant_type": "idld_aligned",
+  "title": "Statistics-Based Predictive Modeling for Success in Pharmacy Education Programs",
+  "context": {
+    "prior_knowledge": "Basic Statistics and Foundational Pharmaceutical Knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-centered course predicting success factors of a pharmacy education program using regression analysis techniques. Composed of microlearning modules utilizing mobile apps in a BYOD environment.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Using a regression analysis model, learners can analyze the correlation between academic performance in pharmaceutical education programs and prerequisite course grades.",
+    "Learners can explain how to calculate the likelihood of success by academic year in pharmaceutical programs (BSP/PharmD) through statistical predictive modeling.",
+    "Learners can quantify the impact of various independent variables (demographic factors, prerequisite course grades) on the dependent variable (program success)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Statistical Analysis Software",
+      "Pharmaceutical Education Data Sample",
+      "Regression Analysis Tutorial Video"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

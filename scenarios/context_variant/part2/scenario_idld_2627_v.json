@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-2627-V",
+  "variant_type": "context_variant",
+  "title": "Marketing MOOC Learning Experience Optimization Course",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course exploring effective online learning strategies through the analysis of marketing MOOC learning experiences based on language domains.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can identify the 'content quality' and 'value perception' elements in MOOC content evaluations with over 80% accuracy.",
+    "Learners can provide at least three types of feedback on instructor communication techniques and content delivery methods.",
+    "Learners can analyze at least two major issues in peer assessment systems and propose improvement measures.",
+    "Learners can construct a design framework that balances 'task load' and 'structured learning experiences' when designing MOOCs.",
+    "Learners can execute digital learning resource utilization strategies divided into three stages: exploration, evaluation, and application."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Marketing MOOC Sample Content (3 Courses)",
+      "MAXQDA Analysis Report Summary",
+      "Real-time interaction tools (Zoom breakout rooms)",
+      "Learning experience survey template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

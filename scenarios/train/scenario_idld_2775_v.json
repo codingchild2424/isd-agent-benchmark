@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2775-V",
+  "variant_type": "context_variant",
+  "title": "Impact of Interactive Learning Environments and Metacognitive Support on Learning Outcomes in Online Education",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for pre-service teachers to develop online instructional design capabilities for elementary mathematics education",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Enhance the ability to design mathematical problem-solving using metacognitive strategies in synchronous/asynchronous environments.",
+    "In an online learning environment (Google Classroom, Zoom Breakout Rooms, etc.), the learner uses interactive tools (discussion boards, real-time feedback systems) to develop at least three instructional design scenarios (e.g., flipped learning, collaborative learning) and achieves an 80%+ suitability score in peer and expert reviews.",
+    "Propose strategies to reduce transactional distance (TD) by applying learner-centered metacognitive support."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS System",
+      "VR Simulation Equipment",
+      "Metacognitive Learning Template",
+      "Mathematics Problem Bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

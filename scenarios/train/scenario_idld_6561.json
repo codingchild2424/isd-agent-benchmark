@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6561",
+  "variant_type": "idld_aligned",
+  "title": "Residential Building Design Project for Climate Change Adaptation",
+  "context": {
+    "prior_knowledge": "Foundational architectural theory, climate change concepts, and basic energy-efficient design principles",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Students learn design optimization through simulation tools utilizing real climate data and perform building design projects reflecting regional characteristics (referencing Tehran case) in teams.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can propose three or more energy-efficient design solutions for residential buildings reflecting climate change scenarios.",
+    "Learners can analyze a building's thermal comfort indices (IOhD, HI, Humidex) using simulation software and derive improvement plans.",
+    "Learners can suggest optimal combinations of building design variables (shading, insulation, natural ventilation, etc.) by applying genetic algorithms and machine learning techniques."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Simulation Software License",
+      "Climate prediction database",
+      "3D modeling tool",
+      "Team-based project workshop space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

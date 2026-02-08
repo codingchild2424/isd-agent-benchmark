@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0307",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Single-Atom Catalyst Design: Computational Optimization Strategies",
+  "context": {
+    "prior_knowledge": "Knowledge of Basic Materials Science and Catalytic Engineering, with an Understanding of Computational Chemistry",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for practitioners to learn single-atom catalyst design methodologies applicable in industrial settings, conducted in smartphone-centric limited-technology environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain computational methodologies for evaluating stability, activity, and selectivity of single-atom catalysts",
+    "Design workflows combining machine learning (gradient boosting) and DFT calculations to predict catalyst performance",
+    "Within one week, learners can analyze NRR performance data for Nx-based single-atom catalysts (V-Nx, Nb-Nx, Ta-Nx, etc.) and prepare a report under five pages comparing three metrics: ammonia production rate (μmol h⁻¹ g⁻¹), Faraday efficiency (%), and reaction stability (hours)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-compatible PDF textbook",
+      "Computational chemistry simulation tool (web-based)",
+      "Open-source machine learning library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

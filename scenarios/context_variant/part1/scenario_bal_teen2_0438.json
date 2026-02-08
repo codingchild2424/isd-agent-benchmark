@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0438",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Blended Education Design for Doctor of Nursing Practice (DNP) Programs",
+  "context": {
+    "prior_knowledge": "Learners with basic nursing knowledge and foundational understanding of research methodologies",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A practical-oriented curriculum implemented in smartphone-centric limited-technology environments, offering continuous feedback via formative assessments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Over 90% of learners apply the evidence-based practice (EBP) process in clinical settings.",
+    "In a blended learning environment, 80% or more of learners actively participate in online discussions using collaborative tools.",
+    "At the course’s conclusion, 95% or more of learners independently access and utilize materials via a mobile-based learning platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Condensed lecture videos (5-minute segments)",
+      "Real-Time Video Conferencing Tool",
+      "Mobile-friendly assessment template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

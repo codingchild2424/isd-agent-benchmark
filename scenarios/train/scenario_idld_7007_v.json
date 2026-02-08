@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7007-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Practice-Based Projects for Enhancing Early Childhood Mathematics Instructional Competencies",
+  "context": {
+    "prior_knowledge": "Basic Early Childhood Education Theory and Understanding of Mathematics Education Theory",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain early childhood mathematics activity design plans that consider family and relational contexts beyond age-segregated education.",
+    "Learners can apply age-appropriate mathematical manipulatives and teaching methods to early childhood developmental stages through project-based practice.",
+    "Learners can produce and evaluate early childhood mathematics education project outcomes using digital tools (tablets, educational apps)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

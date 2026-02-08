@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1667-V",
+  "variant_type": "context_variant",
+  "title": "AI Competency Enhancement: Value-Based Approaches for Inclusive and Sustainable STEM Learning",
+  "context": {
+    "prior_knowledge": "Understanding of elementary math concepts (operations, geometry, measurement) and experience in primary education settings",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners design three or more mathematical problem-solving activities utilizing everyday materials and local culture",
+    "Learners apply AI-driven value-based creative pedagogy (e.g., generative AI-enabled collaborative activities) to design a 4-week learning plan reflecting three inclusive learning environment principles (e.g., accessibility, diversity, feedback systems), achieving at least 4 points on a peer evaluation rubric (5-point scale)",
+    "Learners develop one formative assessment tool implementable in Python or JavaScript within a mobile-based microlearning environment (Android/iOS platforms) over 2–4 weeks, achieving over 80% satisfaction rate from five peer learners"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

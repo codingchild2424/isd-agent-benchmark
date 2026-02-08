@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3082-V",
+  "variant_type": "context_variant",
+  "title": "Online Instructional Design Workshop for Competency-Based Assessment",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and foundational educational theory for prospective teachers",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A pre-service teacher training program aimed at establishing a competency-based assessment system aligned with the European Higher Education Area (EHEA) requirements",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can understand the operational principles of competency-based assessment tools (CAT) and utilize them in mobile environments.",
+    "Learners create a practical report detailing a three-stage self-directed learning design system (learning objectives-activities-feedback-improvement) within one week, achieving 4+ points on a 5-point scale (8+ points out of 10) based on peer and instructor rubric evaluations",
+    "Learners can develop and apply social competency assessment rubrics according to EHEA standards."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CAT Platform Access Permissions",
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Competency Assessment Template",
+      "Feedback Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

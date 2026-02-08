@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4722-V",
+  "variant_type": "context_variant",
+  "title": "Cybersecurity Response Strategy Knowledge Graph Design and Optimization",
+  "context": {
+    "prior_knowledge": "Basic mathematical knowledge (linear algebra, probability theory), programming experience (Python), and understanding of RDF data formats",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Knowledge graph construction and expansion project based on real cybersecurity scenarios, with team-based collaborative learning environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can mathematically represent and analyze entity-relation-entity triple structures in knowledge graphs.",
+    "Learners can design a system to predict missing cybersecurity response strategies using embedding models (e.g., TransE, DistMult).",
+    "Learners can implement methods to improve knowledge graph completeness and accuracy by 20% or more through link prediction tasks."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "D3FEND RDF Dataset Sample",
+      "TensorFlow/PyTorch Learning Environment",
+      "Knowledge Graph Visualization Tool (e.g., Neo4j)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

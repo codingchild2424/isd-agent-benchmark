@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7532-V",
+  "variant_type": "context_variant",
+  "title": "Scenario-Based Online Education for Enhancing Interprofessional Collaboration in Healthcare",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Experiencing real-world medical simulations through learner interaction and role-playing",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze collaboration scenarios among four or more professional roles (physician, nurse, physical therapist, speech-language pathologist) and evaluate each role’s contribution.",
+    "Learners successfully complete 80% or more of interdependent tasks with team members in virtual cases reflecting real medical situations.",
+    "Learners understand other professionals’ workflows and communication methods through online discussions and write three or more improvement proposals."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Video Conferencing, Discussion Board, Assignment Submission Features)",
+      "Medical scenario database",
+      "Virtual Collaboration Tools (e.g., Miro, Padlet)",
+      "Digital Role-Play Resources (Case Cards, Protocol Templates)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

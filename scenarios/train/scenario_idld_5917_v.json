@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5917-V",
+  "variant_type": "context_variant",
+  "title": "Autonomous Driving System Operator Training Design: Customized Training for Advanced Professionals",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "For professionals in healthcare, law, or technical fields with advanced domain expertise, emphasizing hands-on practice through digital tool simulations and real-case analyses.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain core technologies of autonomous driving systems (ADAS/ADS) through mathematical modeling.",
+    "Learners can design project-based safety operation procedures for autonomous driving systems in a simulated environment.",
+    "Learners can present customized educational strategies for diverse driver types (age/experience) using a mathematical framework."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Autonomous Driving Simulator",
+      "Vehicle Data Sets",
+      "Instructional Design Framework Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3535-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Multilingual Resume Writing Mastery: Web-Based Project Learning",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Students can write three standard resume formats (reverse-chronological/chronological) for target languages.",
+    "Learners can use web-based tools to create documents reflecting culture-specific resume requirements (e.g., EU CV, U.S. Resume, Japanese resume).",
+    "Participants can complete multilingual resumes incorporating over 50 job-related keywords accurately, incorporating peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

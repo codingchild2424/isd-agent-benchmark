@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4669-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Document Analysis Research for Higher Education Strategic Planning",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze strategic planning documents of higher education institutions to identify core elements (goals, strategies, implementation programs)",
+    "Within one week, learners analyze internal/external environmental data (e.g., budget reports, regional industry trends) of a given vocational training institution using the SWOT framework. They submit reports deriving ≥1 specific evaluation item per category (2 strengths, 1 weakness, 1 opportunity)",
+    "Learners can explain the strategic planning process using microlearning content in constrained environments (smartphones)"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

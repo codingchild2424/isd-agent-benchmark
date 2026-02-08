@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0547",
+  "variant_type": "balance_teen_v2",
+  "title": "K-12 Mobile-Based Educational Software Evaluation Competency Enhancement Course",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and proficiency in mobile device usage",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Focusing on practical exercises for developing evaluation criteria in smartphone-only limited-technology environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "One can explain the five core criteria for evaluating educational software quality: content accuracy, interactivity, accessibility, technical stability, and educational effectiveness.",
+    "One can create an evaluation checklist for science-based educational software and incorporate peer feedback.",
+    "One can summarize software evaluation results in mobile environments using data visualization tools (graphs/tables) and present them."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible Assessment Template",
+      "5 Types of Sample Software for Science Education",
+      "Mobile-Friendly Collaboration Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8480",
+  "variant_type": "idld_aligned",
+  "title": "Web-Based Problem-Centered Learning for Pharmacological Treatment of Mental Disorders",
+  "context": {
+    "prior_knowledge": "Elementary pharmaceutical knowledge and clinical practice experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Large-Scale Smartphone-Centric Vocational Training in Resource-Limited Settings",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can establish symptom management and pharmacological treatment plans for patients with mental disorders.",
+    "Learners can develop strategies for managing drug interactions and side effects based on real-world cases.",
+    "Learners can revise treatment plans by incorporating peer feedback through web-based discussions and collaboration."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible web platform",
+      "Mental health video lectures and patient interview materials",
+      "Digital medication therapy guidelines and reference links"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

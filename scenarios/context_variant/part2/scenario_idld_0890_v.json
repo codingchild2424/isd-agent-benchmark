@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0890-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Systems Design Practice Competency: eLearning Intensive Course for Nuclear Medicine Image Interpretation for Non-Medical Professionals",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and fundamental radiology concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can distinguish between normal and abnormal patterns in radioactive isotope bone scan images with over 80% accuracy.",
+    "Learners can apply 15 or more internationally standardized nuclear medicine imaging terms contextually during image interpretation.",
+    "Learners can perform a three-stage interpretation protocol (initial reading, suspicious area verification, conclusion derivation) with over 90% accuracy based on real clinical cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

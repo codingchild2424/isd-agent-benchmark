@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8632-V",
+  "variant_type": "context_variant",
+  "title": "Customized Digital Learning Design for Adult Literacy Education",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A university-affiliated lifelong education program supporting multicultural families or literacy-education vulnerable populations",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Read and comprehend basic Korean sentences for one hour, three times weekly, using digital platforms",
+    "Learners can accurately use 50 core vocabulary items related to daily life within 4 weeks through personalized content.",
+    "Learners can complete 1 short writing piece reflecting their experiences through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "10 Tablet PCs",
+      "Customized LMS System",
+      "Multilingual-Supported Textbook PDFs",
+      "Speech-to-Text Conversion Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

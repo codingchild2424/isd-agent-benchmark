@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5314-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Systems Design Competencies: AAC Scientific Inquiry Strategy—Mobile Microlearning",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can express observations from science experiments in three or more sentences using AAC tools.",
+    "Learners can collaborate with learning partners to complete an AAC-based science vocabulary glossary.",
+    "Learners can independently execute AAC science learning modules within 5 minutes in mobile environments."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

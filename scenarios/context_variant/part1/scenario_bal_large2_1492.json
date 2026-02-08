@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1492",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Mobile-Optimized Language Education Design Project",
+  "context": {
+    "prior_knowledge": "Basic digital device utilization skills and foundational job-related language proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for professionals in medical, legal, and technical fields to enhance practical language skills in mobile environments, conducted in a BYOD (Bring Your Own Device) setting with collaborative project execution.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can independently design and produce language content optimized for mobile devices",
+    "Learners can resolve device compatibility issues through project deliverables based on responsive design",
+    "Learners can plan and execute three or more mobile-friendly language learning activities (e.g., speech recognition, augmented reality)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile LMS Platform",
+      "Responsive Web Development Tool",
+      "Collaboration Tool",
+      "Language Learning Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

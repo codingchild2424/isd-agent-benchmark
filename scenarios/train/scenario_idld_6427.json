@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6427",
+  "variant_type": "idld_aligned",
+  "title": "Visual Expertise Development Training for Medical Imaging Interpretation",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and physiological structure comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Structured medical imaging interpretation skill development through digital microlearning modules; corporate training program for entry-level medical/technical professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify basic abnormal patterns in EKG and CXR images with 80% accuracy within three days.",
+    "Learners can shorten image interpretation response times by 20% through five days of visual processing task training.",
+    "Learners can establish criteria to self-assess their diagnostic abilities while recognizing expertise differences across image types."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Diagnostic Imaging Database",
+      "Mobile-Compatible ERP Measurement Tool",
+      "Visual Processing Task Template",
+      "Interactive Quiz Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6205",
+  "variant_type": "idld_aligned",
+  "title": "Formative Assessment and Interaction Design Project for Massive Open Online Courses (MOOCs)",
+  "context": {
+    "prior_knowledge": "Comprehension of Basic Scientific Concepts and Proficiency in Basic Smartphone Usage",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A foundational science education program at vocational training institutions, implementing project-based learning in smartphone-centric limited-technology environments, emphasizing formative assessment and interactive design.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design and apply formative assessments using quizzes, peer evaluations, and simulations in a MOOC environment.",
+    "Learners can develop and implement interaction strategies through project-based activities in small groups.",
+    "Learners can plan smartphone-based educational content and build feedback systems under technological constraints."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Educational Platform",
+      "Open-Source Quiz Tool",
+      "Peer Assessment Guidelines Template",
+      "Simple Science Simulation App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4239-V",
+  "variant_type": "context_variant",
+  "title": "Fundamentals and Practical Applications of Materials Informatics Optimization",
+  "context": {
+    "prior_knowledge": "Knowledge of fundamental machine learning algorithms and introductory materials science",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "An intensive workshop-style program focusing on optimization methodologies through experimental data analysis.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Acquisition of comparative evaluation methods for XGBoost, Random Forest, and SVM models for material property prediction",
+    "Perform preprocessing (cleaning/encoding) and feature importance analysis on a 565×264 experimental dataset",
+    "Cultivation of the ability to apply Bayesian optimization techniques and RDDT (R:M ratio)-based data quality management processes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook Environment",
+      "Python Libraries (scikit-learn, XGBoost)",
+      "Virtual lab dataset",
+      "LMS Interactive Discussion Forum"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Business/HR/Admin Support"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1336",
+  "variant_type": "idld_aligned",
+  "title": "Applying Item Response Theory (IRT) to Improve Online Course Evaluation Quality",
+  "context": {
+    "prior_knowledge": "Basic physics knowledge and online learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An intensive short-term course for beginner science learners to study IRT-based assessment design and quality validation methods",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain core concepts of Item Response Theory (IRT) and assessment quality indicators (validity, reliability, fairness)",
+    "Learners can design IRT-based assessment items in LMS environments and perform procedures to analyze difficulty consistency",
+    "Learners can apply methods to compare item characteristic changes across multiple administrations to verify assessment result stability"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "LMS platform",
+      "IRT (Item Response Theory) Analysis Software (e.g., R, IRTPRO)",
+      "AP Physics Equivalent Assessment Item Sample Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

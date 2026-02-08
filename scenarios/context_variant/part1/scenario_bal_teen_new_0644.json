@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0644",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Cloud and Mobile Computing Practical Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic programming and network concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Constructivist activity design optimized for smartphone-based learning environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze cloud infrastructure components and design mobile environment application cases",
+    "Within four weeks, learners can identify three data synchronization issues in distributed computing environments (e.g., Apache Kafka, RabbitMQ), develop code-based solutions (under 50 lines) for each, and receive a suitability evaluation score of 80% or higher in team code reviews.",
+    "Collaborating in teams of 3–4, learners can develop a cloud-based mobile application prototype within two weeks and prepare an evaluation report achieving a total score of 70 or higher (out of 100) based on functionality completeness (50%), user experience (30%), and innovation (20%)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Cloud-based simulation tool (web-based)",
+      "Collaborative Digital Whiteboard",
+      "Smartphone-optimized learning materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

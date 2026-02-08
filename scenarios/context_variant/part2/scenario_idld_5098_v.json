@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5098-V",
+  "variant_type": "context_variant",
+  "title": "Designing Academic Information Literacy Education Utilizing Generative AI",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in a personal laptop/BYOD environment, with project-based assessments to strengthen practical skills",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design three or more types of prompts for academic information search and analysis using generative AI tools",
+    "Learners can explain the application of mathematical logic structures to information source evaluation and credibility verification processes",
+    "Learners can recognize limitations of AI-generated content and propose human-AI collaboration strategies in mathematical problem-solving processes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-License Academic Database",
+      "Generative AI Prompt Templates",
+      "Mathematics Problem-Solving Casebook",
+      "Customizable Chatbot Samples"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5154",
+  "variant_type": "idld_aligned",
+  "title": "Clinical Case-Based Assessment Tool Development and Effectiveness Analysis Training Program",
+  "context": {
+    "prior_knowledge": "Foundational medical knowledge and clinical case analysis experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhancing clinical case analysis skills through pre-learning preparation using ARS (response systems) and project-based assessments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design assessment questions based on clinical cases at Bloom’s Taxonomy higher levels (analysis, evaluation, creation).",
+    "Learners can analyze the impact of ARS-based pre-learning on assessment outcomes using quantitative data (item difficulty, score distribution).",
+    "Learners can present systematic development guidelines for assessment tools with high clinical relevance."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Case Database",
+      "ARS (Automated Response System) software",
+      "VR Simulation Equipment",
+      "Statistical analysis software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

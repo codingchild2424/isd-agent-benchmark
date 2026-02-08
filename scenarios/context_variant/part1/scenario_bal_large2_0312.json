@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0312",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Digital Transformation Simulation-Based Mathematical Competency Enhancement Program for Corporate Technical Education",
+  "context": {
+    "prior_knowledge": "Fundamental mathematical concepts and experience in analyzing manufacturing field data",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learning design centered on digital transformation case studies reflecting changes in practicing professionals’ work environments. Implements real-time problem-solving scenarios using VR.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply mathematical modeling (statistics, linear algebra) for optimizing manufacturing processes with 85% accuracy in a VR simulation environment.",
+    "Learners can perform regression analysis using simulation tools (e.g., MATLAB VR interface) to address data challenges arising during digital transformation.",
+    "By analyzing episode-based cases, learners can identify at least three organizational resistance factors when introducing digital learning tools and propose improvement strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR headset (10 sets)",
+      "Customizable Mathematics Simulation Software",
+      "Five Types of Manufacturing Field Datasets",
+      "Episodic Narrative Interview Video Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

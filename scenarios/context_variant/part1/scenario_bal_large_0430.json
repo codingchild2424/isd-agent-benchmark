@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0430",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Design of Motivation-Enhanced Online Education Modules for Medical Residents",
+  "context": {
+    "prior_knowledge": "Basic Medical Knowledge and Clinical Practice Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An advanced training program for medical residents, combining online modules with offline clinical practice, with emphasis on sustaining learning motivation.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners achieve a statistically significant improvement of 0.1 points or higher in learning motivation surveys after completing the motivation-enhancement module",
+    "Learners maintain a participation rate of 90% or higher in the motivation-enhancement module compared to the standard module",
+    "Learners achieve a knowledge acquisition level of 70 points or higher on average across all module assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Management System (LMS)",
+      "Self-Assessment Quiz Template",
+      "Clinical Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

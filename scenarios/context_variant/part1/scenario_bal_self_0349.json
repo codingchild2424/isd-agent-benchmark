@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0349",
+  "variant_type": "balance_self_directed",
+  "title": "Understanding Indoor Positioning Systems Based on Transfer Learning in Self-Directed Learning",
+  "context": {
+    "prior_knowledge": "Familiarity with fundamental machine learning concepts and general understanding of indoor positioning systems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course exploring AI technology applications for real-world problem-solving. Focuses on the operating principles of fingerprint-based location recognition systems and transfer learning methodologies.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the basic principles of transfer learning and its application cases in indoor positioning systems.",
+    "Understand the role of metric learning in the indoor positioning estimation process using fingerprint data.",
+    "Apply metric transfer techniques that utilize existing knowledge (source domain) in a new environment (target domain)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Tools (Miro, Jamboard)",
+      "Simulation Dataset Samples",
+      "Open-Source TL Framework Trial Version"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

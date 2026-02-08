@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0840",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Community of Inquiry-Based Programming Fundamentals Project",
+  "context": {
+    "prior_knowledge": "Basic Computational Thinking and Problem-Solving Skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "3D Virtual Environment-Based Collaborative Learning for Pre-Service Teacher Training",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain basic programming concepts (variables, loops, conditionals) through team-based projects in a 3D virtual environment",
+    "Learners can collaboratively design programming problem-solving processes through social interactions with pre-service peer teachers",
+    "Learners can develop programming learning modules applicable to real educational settings using digital fabrication tools based on constructivist theory"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open Sim Platform",
+      "Scratch4OS Tool",
+      "Digital Tablet/Laptop",
+      "3D Virtual Learning Space Design Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

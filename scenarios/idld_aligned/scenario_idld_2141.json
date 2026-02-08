@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2141",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Mathematics Project Learning Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic arithmetic operations and function concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Process for adult learners to complete real-life math projects linked to daily problems in a mobile environment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can complete three or more projects that solve real-life problems through mathematical modeling using mobile apps.",
+    "Learners can utilize learning content provided on various mobile devices (smartphones/tablets) with over 90% accessibility.",
+    "Learners can submit mathematical problem-solving strategies acquired during PBL as oral presentations or digital portfolios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "AR Geometry Tool",
+      "Collaborative Whiteboard App",
+      "PDF-Based Question Bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

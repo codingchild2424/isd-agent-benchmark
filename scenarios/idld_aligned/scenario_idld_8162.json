@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8162",
+  "variant_type": "idld_aligned",
+  "title": "Language Proficiency Improvement Education Using e-Portfolios and Social Networks",
+  "context": {
+    "prior_knowledge": "Basic smartphone utilization skills and proficiency in SNS usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducted in Smartphone-Centric Restricted Technology Environments (Most Learners Lack PCs), Motivating Language Learning and Sustaining Participation Through Social Network-Based E-Portfolio Construction",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Within six months, learners can upload and share at least three language learning materials per week via a social network-based e-portfolio",
+    "Learners can write and incorporate feedback into at least three self-reflection reports using materials collected in their e-portfolios",
+    "Learners can perform language exchange activities with peer learners at least twice monthly using social network collaboration features"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible E-Portfolio Platform",
+      "Social Network-Integrated Learning Management System",
+      "Smartphone-Optimized Learning Content",
+      "Formative Assessment Quiz Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

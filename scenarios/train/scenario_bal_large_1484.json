@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1484",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] VR-Based English Oral Proficiency Development Program",
+  "context": {
+    "prior_knowledge": "Basic English sentence construction skills and intermediate-level vocabulary/grammar knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducting context-specific conversation practice and assessments in virtual reality environments utilizing learners' personal devices (BYOD).",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can maintain natural English conversations for over 5 minutes through VR simulations",
+    "Learners can communicate appropriately using suitable vocabulary and expressions in various social contexts (interviews/travel/meetings)",
+    "Learners can improve pronunciation and grammar errors by over 30% based on VR feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset (Mobile-Compatible)",
+      "VR English Learning Software",
+      "Pre-Configured Contextual Dialogue Scenarios",
+      "Speech Recognition Evaluation System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

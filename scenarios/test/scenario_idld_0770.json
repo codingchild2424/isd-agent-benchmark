@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0770",
+  "variant_type": "idld_aligned",
+  "title": "Social Curriculum Design and Sequencing Based on Graph Theory",
+  "context": {
+    "prior_knowledge": "Understanding of basic social science concepts and foundational digital tool proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners perform projects by leveraging prior knowledge of educational content in a smartphone-centric, limited technological environment. Continuous feedback is provided through formative assessments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "They can visualize and analyze prerequisite relationships between learning contents using graph-based tools",
+    "They can design a curriculum that systematically sequences core concepts in social studies disciplines",
+    "They can diagnose and correct logical errors occurring during curriculum development using network analysis tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible network analysis software",
+      "Social studies curriculum standards framework",
+      "Offline collaborative worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

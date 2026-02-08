@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0029",
+  "variant_type": "idld_aligned",
+  "title": "Language Education Research Methodology Using Public Data Mining: Text·Vocabulary Analysis and Learner Pattern Exploration",
+  "context": {
+    "prior_knowledge": "Understanding of basic research methodologies and data analysis concepts, foundational linguistic analysis (text analysis, lexical frequency, grammatical structures, discourse analysis), and basic programming experience in Python or R",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Aims to cultivate the ability to conduct research using publicly available text data in language education. Focuses on utilizing smartphone-based data collection and analysis tools (language corpus tools, etc.) and developing practical strategies to apply analysis results to language education settings. Explores data-driven approaches to enhance learners' reading comprehension and expressive skills.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Identify public data sources (language corpora, academic paper databases, etc.) and select text/lexical data appropriate for language education research questions.",
+    "Learners collect and refine ≥3 language-related public datasets using smartphone tools (Google Dataset Search, OpenRefine Mobile, etc.). They perform frequency analysis and visualization (word clouds, bar graphs) with Python-based tools (NLTK, KoNLPy, etc.) and write a 5-page analysis report, focusing on grammatical structures and discourse patterns.",
+    "Develop the ability to interpret data mining results in relation to language education issues (language acquisition patterns, text structures, learner error analysis). Strengthen critical interpretation skills using linguistic metrics (vocabulary frequency, sentence complexity, discourse markers)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone data analysis app",
+      "List of open data sources",
+      "Offline collaborative worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

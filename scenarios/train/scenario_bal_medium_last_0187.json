@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0187",
+  "variant_type": "balance_medium_last",
+  "title": "Reinforcement Learning Framework for Patient-Centered Dynamic Treatment Planning: Integrated Medical-Social Context Approach",
+  "context": {
+    "prior_knowledge": "Basic comprehension of healthcare systems, data security concepts, introductory machine learning (including reinforcement learning), and foundational knowledge of medical ethics and patient rights. Additionally requires elementary understanding of social equity, health rights, and citizen participation mechanisms within healthcare systems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Exploring reinforcement learning applications in smartphone-based accessible environments with consideration for medical data security. Seeks technological and social integration strategies to reduce healthcare disparities and promote social equity. Integrates social elements such as community resource utilization, cultural sensitivity, and accessibility for people with disabilities.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the principles of a reinforcement learning framework for establishing dynamic treatment plans while maintaining patient privacy and medical ethics, within a socio-technical context. Particularly, consider strategies to enhance citizen rights and health equity within healthcare systems.",
+    "Analyze security requirements for medical decision-making models using encrypted health data and patient rights protection measures. During this process, propose solutions to address economic, cultural, and institutional barriers to improving healthcare accessibility.",
+    "Learners can design a patient-centered treatment plan simulation tool prototype implementable in limited technical environments (smartphone or basic PC) within a week and write a report reflecting at least four social considerations for improving healthcare accessibility (e.g., economic burden, cultural differences, accessibility for disabilities, community resource integration)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Module",
+      "Encrypted Data Processing Simulation Tool",
+      "Reinforcement Learning Visualization Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

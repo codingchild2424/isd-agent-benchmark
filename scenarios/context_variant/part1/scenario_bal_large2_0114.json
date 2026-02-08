@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0114",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Microlearning Based on an Integrated Instructional and Motivational Design Model for Physicians' Continuing Education",
+  "context": {
+    "prior_knowledge": "Possession of basic medical knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short-term intensive course conducted in a smartphone-centric, technology-constrained environment. Strengthening both theoretical and practical competencies through clinical case-based learning",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the etiology, diagnosis, and clinical management procedures of acute respiratory failure with 80% accuracy.",
+    "Learners can analyze virtual patient cases provided in a mobile environment and develop appropriate treatment plans.",
+    "Learners can achieve a motivation level of 75 points or higher in post-learning motivation surveys."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Mobile Learning Platform",
+      "Flash-based content",
+      "Quiz and assessment tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

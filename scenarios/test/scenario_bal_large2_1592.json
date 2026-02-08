@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1592",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Video-Based Mathematics Learning Design for Students with Autism Spectrum Disorder",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and ability to use digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires personalized approaches considering individual cognitive traits and learning pace differences, utilizing non-real-time video content under teacher supervision",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve fraction/decimal operation problems with 80% accuracy through video-based learning materials.",
+    "Learners can independently explain problem-solving strategies three or more times via interactive quizzes provided after watching videos.",
+    "Learners can access the LMS at least twice weekly, complete video learning materials, and share learning experiences on discussion boards."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ADA-Compliant Video Production Tool",
+      "Responsive LMS Platform",
+      "Screen Reader-Compatible Learning Materials",
+      "Visual Aids Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

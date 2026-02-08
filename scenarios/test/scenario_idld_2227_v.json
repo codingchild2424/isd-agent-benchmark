@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2227-V",
+  "variant_type": "context_variant",
+  "title": "Predicting Biodegradable Zinc Alloy Properties: Machine Learning and Real-Time Visualization Applications",
+  "context": {
+    "prior_knowledge": "Basic materials engineering and understanding of machine learning concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Strengthening practical competency in biodegradable metal material design for real-world applications",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the correlation between mechanical/chemical properties of biodegradable zinc alloys and machine learning models.",
+    "Learners can perform alloy composition design and property prediction processes using provided databases and visualization interfaces.",
+    "Learners can analyze prediction accuracy and propose improvement strategies for real-world cases (Zn-Mn-based alloys) through project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Biodegradable Zinc Alloy Database",
+      "Jupyter Notebook Environment",
+      "Real-Time Visualization Interface (Plotly/Dash-based)",
+      "Machine Learning Model Code Template",
+      "Alloy Property Measurement Experimental Equipment (Virtual Simulation)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

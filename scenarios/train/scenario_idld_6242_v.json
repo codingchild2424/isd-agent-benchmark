@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6242-V",
+  "variant_type": "context_variant",
+  "title": "Soccer Shooting Skill Improvement Program Applying an Ecological Dynamics Training Environment",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasis on designing dynamic environments resembling actual game situations and enhancing analytical competencies.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply shooting timing decision strategies based on defender proximity with 80% accuracy.",
+    "Learners can analyze and predict defender movement patterns in three proximity zones (one-touch/two-touch/three-touch).",
+    "Learners can create three customized training scenarios using dynamic training design simulation tools on an online LMS platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Gameplay Video Analysis Software",
+      "3D Motion Tracking Simulation Tool",
+      "Dynamic Training Design Template",
+      "VR/AR-Based Training Module (Optional)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

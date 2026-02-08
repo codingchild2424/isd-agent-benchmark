@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2273-V",
+  "variant_type": "context_variant",
+  "title": "Attitude Change Education Program Through Animal Behavior and Welfare MOOC",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Intensive education course for job seekers and university students to enhance awareness of animal welfare. Combines video learning and discussions using personal devices.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can demonstrate positive attitude changes in four animal welfare domains (general, cognitive, emotional, behavioral) with over 80% consistency",
+    "Learners can improve animal welfare issue analysis skills by over 70% through instructor video content",
+    "Learners can complete animal welfare action plans with over 90% accuracy after course completion"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Author-developed survey tool",
+      "Animal behavior case study videos",
+      "Discussion guide PDFs",
+      "Action plan template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

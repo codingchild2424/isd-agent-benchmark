@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5249",
+  "variant_type": "idld_aligned",
+  "title": "E-Learning-Based Buttonhole Cannulation Training for Improving Nurses’ Clinical Skills",
+  "context": {
+    "prior_knowledge": "Basic nursing skills and medical terminology comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Hybrid learning environment combining real-time video lectures with simulation tools using personal devices",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Through the e-learning module, learners can explain the theoretical rationale and procedure of buttonhole cannulation with 90% accuracy.",
+    "Learners can fully comply with infection control protocols (100%) when performing cannulation techniques in an online simulation environment.",
+    "Learners can analyze virtual patient cases and propose at least three strategies for preventing complications."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-definition clinical imaging resources",
+      "3D anatomy simulation tool",
+      "Interactive Quiz Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

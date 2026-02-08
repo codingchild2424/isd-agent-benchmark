@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7559",
+  "variant_type": "idld_aligned",
+  "title": "ARCS Motivation-Enhanced Language Advanced Learning Based on Flipped Instruction",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and intermediate or advanced academic literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning utilizing video lectures, discussion boards, and online quizzes in non-real-time environments accessed via personal devices",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners improve critical thinking by 30% when analyzing linguistic materials via flipped learning activities based on the ARCS motivation theory.",
+    "After completing weekly video lectures (attention) and pre-tasks (relevance), learners exchange peer feedback at least twice on discussion boards and achieve learning satisfaction scores of 4/5 or higher.",
+    "Learners demonstrate confidence in learning content by achieving over 80% accuracy rates through staged formative assessments (quizzes, peer evaluations)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "AR/VR content creation tools",
+      "Video editing software",
+      "Automated Grading Quiz System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

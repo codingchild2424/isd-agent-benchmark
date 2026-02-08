@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2151",
+  "variant_type": "idld_aligned",
+  "title": "Modeling Acoustic Properties of Materials and Inquiry-Based Learning",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Physics and Mathematical Modeling, Proficiency in Online Learning Tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners utilize real-time data measurement and analysis tools via personal devices.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Three conceptual models explaining the acoustic transmission properties of materials can be mathematically expressed.",
+    "Sound intensity data can be measured using ICT tools (e.g., smartphone apps), converted into graphs, and interpreted.",
+    "Acoustic attenuation phenomena based on material properties can be modeled, and experimental results can be compared to analyze errors."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Sound Measurement App or Equipment (Smartphone Microphone/External Microphone)",
+      "Samples of Materials with Various Acoustic Properties (e.g., Glass, Wood, Metal, Foam)",
+      "Online Collaboration Tools (Miro, Jamboard)",
+      "Data Visualization Program (Desmos, Excel)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

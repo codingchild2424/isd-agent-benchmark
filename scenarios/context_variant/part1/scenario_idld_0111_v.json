@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0111-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Programming Education Grounded in Subgoal Learning",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-centered learning environment with real job-linked project execution",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can complete three or more programming projects using the Subgoal Learning Framework",
+    "Learners can self-generate subgoal comments with over 80% accuracy during problem-solving processes",
+    "Learners demonstrate a 30%+ improvement in written response rates for AP exam-style practice assignments compared to baseline"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Code.org Platform",
+      "Offline workbooks",
+      "Local Server-Based Collaboration Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7502",
+  "variant_type": "idld_aligned",
+  "title": "Knowledge Management-Based Integration Project for Mathematical Learning Objects",
+  "context": {
+    "prior_knowledge": "Grasp of basic mathematical concepts and experience with digital learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners experience creating, evaluating, and integrating reusable digital learning objects to solve real-world math problems, contributing to an organized knowledge-sharing system through application of knowledge management lifecycle models",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners design and develop three or more reusable learning objects for mathematical problem-solving.",
+    "Learners execute a process to evaluate, classify, and store learning objects according to the knowledge management lifecycle stages.",
+    "Learners acquire methods to structurally share mathematical domain knowledge through collaboration with peer learners."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Learning Authoring Tool",
+      "Cloud-Based Knowledge Repository",
+      "Math Problem-Solving Template Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

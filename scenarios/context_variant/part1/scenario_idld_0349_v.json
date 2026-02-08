@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0349-V",
+  "variant_type": "context_variant",
+  "title": "Swarm Learning-Based Distributed Collaborative Learning Design for Energy System Data Modeling",
+  "context": {
+    "prior_knowledge": "Foundations of machine learning, overview of blockchain technology, and understanding of energy system data structures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are professionals in the energy sector with high demands for data security and privacy protection. Conducting time-divided microlearning in mobile environments using personal devices (BYOD)",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners design distributed data modeling collaborations between two or more virtual organizations using swarm learning architecture",
+    "Learners implement a learning process that ensures the integrity and transparency of energy data by applying blockchain-based smart contracts",
+    "Learners develop a model that improves prediction accuracy by over 15% compared to existing learning methods using real-world energy time-series data (solar power generation/geothermal physics data)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Energy Time-Series Dataset",
+      "Swarm Learning Simulation Tool",
+      "Blockchain Testnet Access Permissions",
+      "Mobile Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

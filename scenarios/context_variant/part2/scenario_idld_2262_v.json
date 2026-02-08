@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2262-V",
+  "variant_type": "context_variant",
+  "title": "Exploring Advanced Mathematical Concepts Using Immersive Virtual Reality (IVR)",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requirement to establish a lightweight IVR environment using smartphones. Hybrid operation combining offline workshops with online learning modules",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Visually interpret and explain 3D vector spaces and multiple integration concepts in IVR environments",
+    "Recreate advanced geometry problem-solving processes (e.g., surface optimization) with over 80% accuracy through immersive simulations",
+    "Collaboratively complete and submit differential equation modeling projects with peers on a collaborative IVR platform"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Google Cardboard-compatible VR device",
+      "Smartphone-based IVR apps (GeoGebra VR, etc.)",
+      "Offline Workshop Space",
+      "IVR learning guide PDF"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

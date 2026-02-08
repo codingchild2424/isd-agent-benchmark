@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2286-V",
+  "variant_type": "context_variant",
+  "title": "Short-Intensive Course on Designing Self-Directed Mathematics Learning Pathways",
+  "context": {
+    "prior_knowledge": "High school-level mathematical knowledge and understanding of introductory college mathematics concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Online environment applying a dual-mode (teacher-led/student-led) approach to establish personalized learning strategies for each learner; aims to improve real-world problem-solving skills through project-based assessment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners select the appropriate instructional path (instructor-led or self-directed) for given math problem scenarios with ≥80% accuracy.",
+    "By the end of the one-week course, learners create a self-directed study plan and solve at least three math problems based on it.",
+    "Through peer interaction, learners share self-directed learning strategies and incorporate feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS (Learning Management System) platform",
+      "Real-Time Video Conferencing Tool (e.g., Zoom)",
+      "Digital Worksheets for Math Problem Solving",
+      "Adaptive Learning Path Selection Algorithm Program"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

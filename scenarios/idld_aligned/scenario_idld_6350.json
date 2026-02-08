@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6350",
+  "variant_type": "idld_aligned",
+  "title": "Needs-Based Programming Fundamentals Mastery Course",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and simple logical reasoning proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Providing in-service elementary school teachers with experiences solving daily work problems through programming",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze problem situations arising in daily work and identify required programming concepts with 80% accuracy",
+    "Learners can write at least three codes solving real-world problems using core programming elements (variables, conditionals, loops)",
+    "Learners can participate 100% in peer review processes by explaining their code to peers and exchanging feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Tools (e.g., Google Colab)",
+      "Educational programming platform (e.g., repl.it)",
+      "Assignment management system (e.g., Notion)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

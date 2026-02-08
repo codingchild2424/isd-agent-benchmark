@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE3-0064",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Corporate Risk Identification Methods Through News Analysis",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and ability to understand social issues",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in smartphone-centric limited-technology environments, enabling learners with professional backgrounds (medical/legal/technical) to acquire risk analysis techniques applicable to social studies contexts",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can classify three or more types of corporate risks (financial, operational, reputational) through news article analysis",
+    "Learners can identify risk signals in news data with 80% accuracy using simple text analysis tools",
+    "Learners can propose two or more corporate response strategies based on identified risk types"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible Web-Based Analytical Tool",
+      "Simplified Text Analysis Worksheet",
+      "Sample News Dataset (50 Cases)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

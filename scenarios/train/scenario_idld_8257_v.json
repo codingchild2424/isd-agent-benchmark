@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8257-V",
+  "variant_type": "context_variant",
+  "title": "Teacher Capacity-Building Program for Technology Adoption and Training Participation",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course for pre-service and in-service teachers focusing on designing training programs and technology adoption strategies in ICT-based educational environments. Provides flexible learning environments using learners' personal devices",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners will be able to analyze technology acceptance factors based on the UTAUT model and apply them to training program design",
+    "Learners will demonstrate the correlation between training participation responses (training reactions) and behavioral intentions through project-based tasks",
+    "Learners will produce project deliverables capable of evaluating the mediating effects of facilitating conditions (technical infrastructure/support systems) on behavioral intentions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital Educational Tool Demonstration Samples",
+      "UTAUT Model Template",
+      "Project Feedback Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

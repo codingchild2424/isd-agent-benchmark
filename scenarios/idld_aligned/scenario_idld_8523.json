@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8523",
+  "variant_type": "idld_aligned",
+  "title": "Inquiry-Based Modeling Course for Branching Diagram Reconstruction",
+  "context": {
+    "prior_knowledge": "Foundations of differential equations, function graph interpretation, and understanding system behavior based on parameter changes",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Small-group collaborative learning environment using digital devices (tablets/laptops). Emphasizes creative problem-solving through project-based assessment",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can reconstruct the mathematical structure of decision diagrams through a three-stage inquiry task",
+    "Learners can visualize system dynamics according to parameter changes and provide analytical explanations",
+    "Teams can submit project deliverables discovering bifurcation points of nonlinear systems through collaborative modeling processes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Graphing software (Desmos, GeoGebra, etc.)",
+      "Nonlinear dynamics case dataset",
+      "Branching diagram workbook",
+      "Collaborative Learning Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4459",
+  "variant_type": "idld_aligned",
+  "title": "LLM Utilization Strategies for Data Science Problem Solving",
+  "context": {
+    "prior_knowledge": "Understanding of foundational machine learning concepts, no programming experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learning practical applications of LLMs for solving real-world data science problems, structured with hands-on activities accessible via smartphone-based environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Cultivation of the ability to generate code and design solutions for diverse data science problems using Large Language Models (LLMs).",
+    "Acquisition of the ability to comparatively analyze the effectiveness of Few-shot Prompting (FSP) and Tree of Thought (ToT) strategies.",
+    "Understanding and application of methods to optimize LLM performance through hyperparameter tuning (HPT).",
+    "Development of the ability to evaluate solutions by comparing LLM-generated results with AutoML framework outcomes."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone or tablet",
+      "Online LLM Platforms (Colab, Hugging Face, etc.)",
+      "Kaggle Sample Datasets",
+      "Simplified Code Evaluation Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

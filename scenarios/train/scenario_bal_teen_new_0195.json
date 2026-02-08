@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0195",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Innovative Mathematics Education Project Utilizing Blended Learning",
+  "context": {
+    "prior_knowledge": "Comprehension of elementary and secondary mathematics fundamentals",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical project-based learning to address post-pandemic mathematics education changes. Learner-centered class design utilizing collaboration tools and personal devices in blended (online/offline) environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can effectively utilize digital collaboration tools (online whiteboards, real-time document editing, etc.) for solving mathematical problems in a blended learning environment.",
+    "Learners can reinterpret real-life problems through mathematical modeling and propose solutions using a PBL (Project-Based Learning) approach.",
+    "Learners can diagnose their learning gaps through formative assessments and revise their learning strategies by synthesizing online/offline feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet/laptop (student-owned)",
+      "Online collaboration platforms (Google Workspace, Miro, etc.)",
+      "Open-Source Software for Mathematics Education (e.g., GeoGebra)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

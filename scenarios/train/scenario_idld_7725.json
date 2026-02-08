@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7725",
+  "variant_type": "idld_aligned",
+  "title": "mHealth Microlearning Program for Prenatal Health Promotion",
+  "context": {
+    "prior_knowledge": "Basic smartphone usage skills and general understanding of prenatal health",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-based microlearning program for women professionals in their 30s to enhance prenatal health management competencies, applying user-friendly design based on the UTAUT model and operating with a formative assessment focus",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain prenatal essential nutrient intake methods with 90% accuracy via a mobile application within one week.",
+    "Learners can specify at least three recommended exercise methods for each trimester of pregnancy upon program completion.",
+    "Learners can consistently record and monitor personalized health data using an mHealth platform with over 80% adherence."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone Application Prototype",
+      "Mobile Learning Content (Video/Quiz)",
+      "Expert-Verified Resources",
+      "User Feedback Collection Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

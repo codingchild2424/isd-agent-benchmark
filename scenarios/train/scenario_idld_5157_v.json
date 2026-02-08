@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5157-V",
+  "variant_type": "context_variant",
+  "title": "Celiac Disease Diagnosis and Treatment Expert Training Program",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized curriculum for aspiring medical professionals (medicine/life sciences majors) to strengthen core competencies in diagnosing and treating celiac disease",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain the etiology, clinical symptoms, and diagnostic criteria (serological tests, biopsy) of celiac disease with 85% accuracy",
+    "Present the principles and practical applications of gluten-free diets with 90% accuracy",
+    "Establish differential diagnostic strategies for patients with atypical symptoms with 80% accuracy"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Evidence-based medicine database access",
+      "Virtual patient case simulation module",
+      "Diagnostic algorithm infographic",
+      "Interactive Quiz Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

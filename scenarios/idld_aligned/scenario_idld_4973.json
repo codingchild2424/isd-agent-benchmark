@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4973",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Visual Display System Design",
+  "context": {
+    "prior_knowledge": "Foundational mathematics (linear algebra, geometry), basic programming concepts, and introduction to computer graphics",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based activity in a digital device-provided environment, involving team-based simulation design and implementation of visual output systems.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners derive simulation requirements by applying a 3-tier visual display classification system reflecting human visual-cognitive characteristics",
+    "Learners utilize a decision-making framework to select optimal display components relative to budget constraints",
+    "Learners develop simulation prototypes incorporating real-world mathematical modeling through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Simulation Design Tool",
+      "Visual Display Specification Database",
+      "Digital Whiteboard",
+      "Online Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

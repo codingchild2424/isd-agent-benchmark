@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7519",
+  "variant_type": "idld_aligned",
+  "title": "Gamification Course for Inflammatory Bowel Disease (IBD) Self-Management",
+  "context": {
+    "prior_knowledge": "Understanding of IBD basic concepts and smartphone app usage proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course strengthening disease management competencies through gamification activities via a mobile app, combining face-to-face instruction and online assignments in a blended learning environment.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will be able to adhere to an IBD symptom management plan for 80% or more within three months using a gamification app.",
+    "Learners will be able to apply dietary and stress management strategies with 90% accuracy through the feedback system provided by the digital platform.",
+    "Learners will be able to create and share a personalized self-management portfolio through project-based assessment at the end of the course."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Android Device",
+      "Gamification Mobile Application",
+      "Symptom Tracking Workbook",
+      "Nutritional Management Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

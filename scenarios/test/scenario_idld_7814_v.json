@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7814-V",
+  "variant_type": "context_variant",
+  "title": "Flexible Learning Design for Orchestrating Collaborative Learning Tools",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Designed for pre-service and in-service teachers, conducted in smartphone-based limited-technology environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners explain the interoperability principles of various digital tools (e.g., forums, pedagogical agents) that support collaborative learning activities.",
+    "Learners implement the role of a mediator component (managing data flow between tools) in a simulated environment.",
+    "Learners execute flexible collaborative learning scenarios in mobile environments through IMS-LD-based activity design."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "VR Simulation Platform",
+      "Collaborative learning tool sample pack",
+      "IMS-LD template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

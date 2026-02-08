@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0760-V",
+  "variant_type": "context_variant",
+  "title": "Online Course Design Process Based on the ADDIE Model",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course developing online lecture design competencies by applying core principles of the ADDIE model in smartphone-dominant limited technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can systematically design online courses by applying the five stages (Analysis, Design, Development, Implementation, Evaluation) of the ADDIE model.",
+    "Learners can specify science lecture objectives and content based on learner needs analysis.",
+    "Learners can design interactive elements (quizzes, discussion boards, etc.) considering smartphone-based learning environments.",
+    "Learners can propose course improvement plans reflecting peer feedback according to project-based assessment criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Standard Lecture Materials for Science Disciplines",
+      "Mobile-Optimized Educational Templates",
+      "Offline Group Activity Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

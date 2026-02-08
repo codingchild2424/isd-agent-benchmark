@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1099",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Simulation-Based Program for Enhancing Understanding and Transfer of Chemical Knowledge",
+  "context": {
+    "prior_knowledge": "General chemistry fundamentals (ionic bonding, covalent bonding, molecular structures, etc.)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Provision of customized simulation environments accounting for learners' spatial ability differences",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can visualize chemical reaction processes in a simulation environment and explain them with over 85% accuracy.",
+    "Learners can transfer and apply knowledge acquired from simulations to new problem-solving scenarios with over 75% effectiveness.",
+    "Regardless of spatial ability level, learners achieve at least a 40% improvement in understanding chemistry concepts compared to pre-assessment scores."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Molecular Modeling Software License",
+      "Chemical Reaction Simulation Tool",
+      "Spatial Ability Diagnostic Test Instrument",
+      "LMS-Integrated Multimedia Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

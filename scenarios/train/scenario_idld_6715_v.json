@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6715-V",
+  "variant_type": "context_variant",
+  "title": "Comparative Analysis of Springboard Diving Training Environments: Strategy Development Through Kinematic Analysis",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners possess expert-level domain knowledge and perform projects analyzing actual diving training data to identify differences between two environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can compare kinematic data from backward-rotation dives performed in two training environments (land/water) and identify at least three key differences (board work, jump height, etc.).",
+    "Learners can mathematically model and propose optimal training strategies based on kinematic analysis results, tailored to different environments.",
+    "Learners can apply statistical methods to verify similarities in joint coordination patterns through pattern recognition in large datasets."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "2D Kinematic Analysis Software",
+      "Diving Training Video Dataset",
+      "Wireless Network Infrastructure for BYOD (Bring Your Own Device) Environment Support",
+      "Collaboration Tools (Jira, Notion, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6842-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Remote Education Competency Enhancement Program: Digital Skill Development for Social Integration",
+  "context": {
+    "prior_knowledge": "Fundamental digital device usage and internet search proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Asynchronous learning using mobile apps and low-bandwidth content in smartphone-centric limited-technology environments, requiring flexible structures compatible with learners' daily routines (e.g., childcare, work)",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can independently complete 15-minute microlearning modules three times per week via a mobile platform",
+    "Learners can collaborate with peers on project assignments using remote collaboration tools (e.g., KakaoTalk Open Chat, Google Docs)",
+    "Learners can plan and execute projects to solve real workplace problems by applying learned digital skills (e.g., remote task management, online communication)"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Offline Learning Guidebook (PDF)",
+      "Data-Saving Video Lectures"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

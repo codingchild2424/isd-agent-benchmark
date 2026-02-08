@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-1153",
+  "variant_type": "balance_teen_k12",
+  "title": "Development and Application of Cognitive Load Assessment Tools for Learning Formal Definitions of Limits in K-12 Education",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental concepts of function continuity and limits",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Research-based curriculum monitoring formal definition learning processes in individual digital device project environments, systematically evaluating cognitive load",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will develop the capacity to self-assess cognitive load levels experienced during proof processes using extreme formal definitions on a 5-point scale",
+    "Learners will revise personalized learning strategies based on cognitive load data collected in PBL environments",
+    "Learners will establish a cognitive framework for understanding the validity and reliability of Rasch model-based assessment tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Survey Platform",
+      "BYOD-compatible learning management system",
+      "Rasch model analysis software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

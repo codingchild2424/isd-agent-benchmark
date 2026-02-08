@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0410",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Computer-Based Medical Language Education Design: Strengthening Patient and Professional Communication Competencies (Large-Scale)",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology, teaching experience, and fundamental digital literacy (text and image editing capabilities)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Participants have no or limited experience in designing medical professional education and possess beginner-level skills in utilizing computer-based educational tools. This course emphasizes clear language expression (simplification of medical terminology, visual aid utilization) and effective patient-doctor communication strategies required in medical settings.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners design patient education text and infographic content using CBT (educational software) based on medical scenarios",
+    "Learners develop interactive quiz modules (including medical terminology explanations) based on adult learning principles and medical communication guidelines",
+    "Learners produce multimedia patient education materials (medical terminology explanation videos/infographics) compatible with mobile devices and PCs"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-Source CBT Authoring Tool",
+      "Free Medical Illustration Library",
+      "Digital Content Production Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

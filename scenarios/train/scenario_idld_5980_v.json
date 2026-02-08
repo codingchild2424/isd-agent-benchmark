@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5980-V",
+  "variant_type": "context_variant",
+  "title": "Foundational Bioinformatics Education for Medicine: Short-Intensive Course Using Blended Instructional Design",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course designed for clinical bioinformatics tool utilization. Applies blended instructional methods combining Gagné's 9 Events and Peyton's 4-Step Approach",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain how to utilize bioinformatics foundational tools (e.g., BLAST, NCBI databases) for clinical data analysis",
+    "Learners can interpret genomic data and logically connect its clinical relevance",
+    "Learners complete microlearning modules simulating bioinformatics workflows in mobile environments with an 80%+ completion rate"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Bioinformatics Simulation Tool",
+      "Open-Source Bioinformatics Dataset",
+      "Gagné/Peyton Integrated Instructional Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

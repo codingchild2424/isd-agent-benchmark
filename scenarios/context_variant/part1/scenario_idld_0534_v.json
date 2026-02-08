@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0534-V",
+  "variant_type": "context_variant",
+  "title": "Online Education Based on Merrill's Instructional Design for Enhancing Statistical Concept Interpretation Competency",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Self-directed learning environment using digital devices (laptops/tablets) for job-seeking students in psychology and social sciences.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can interpret real-world applications of statistical concepts (significance level, p-value, confidence interval) with 80% accuracy through activities designed according to Merrill’s instructional design principles (realism, feedback, etc.)",
+    "Learners can perform hypothesis testing step-by-step using simulation tools provided in the LMS and write result reports",
+    "Learners can submit final deliverables explaining statistical significance with evidence after analyzing real research data through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Statistical Simulation Tool",
+      "Open Dataset (OSF Public Repository)",
+      "Merrill Model-Based Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

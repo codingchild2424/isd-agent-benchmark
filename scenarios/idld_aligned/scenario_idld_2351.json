@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2351",
+  "variant_type": "idld_aligned",
+  "title": "Foundations of Assessment Design in Continuing Medical Education",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical concepts and fundamental principles of curriculum design",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Students progress through personalized microlearning modules on mobile devices, with learning effectiveness measured via real-time feedback and weekly comprehensive assessments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can distinguish between evaluation types (formative/summative) in medical continuing education and select appropriate methods for given contexts.",
+    "Learners can utilize an assessment design tool to analyze the alignment between educational objectives, assessment items, and outcomes.",
+    "Learners can perform multidimensional data collection (multiple-choice quizzes, learning log analysis, self-assessment surveys) applicable in mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Formative Assessment Quiz Template",
+      "Learning objectives-assessment mapping guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

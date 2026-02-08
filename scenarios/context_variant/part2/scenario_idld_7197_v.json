@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7197-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based BLS (Basic Life Support) Training Program",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "BLS Skill Acquisition Program for Pre-Service/In-Service Teachers in a Smartphone-Based Microlearning Environment, Considering Accessibility in Limited Technological Settings",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately determine a cardiac arrest patient’s respiratory status within 10 seconds",
+    "Learners can perform correct chest compression for adults (depth of 5-6 cm, rate of 100-120 per minute) within 2 minutes",
+    "Learners master pad placement and shock procedures through at least three AED (automated external defibrillator) simulation sessions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible educational app",
+      "3D Animation Content",
+      "Weekly 15-minute micro-lesson",
+      "Monthly offline practical session"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

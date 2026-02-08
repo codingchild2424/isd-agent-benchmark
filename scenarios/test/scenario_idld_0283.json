@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0283",
+  "variant_type": "idld_aligned",
+  "title": "TAGL-Based Cognitive Load Management Strategies for Chemistry Learning",
+  "context": {
+    "prior_knowledge": "Understanding of basic chemistry concepts (atoms, molecules, chemical formulas)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Foundational chemistry competency enhancement program for professionals in medical/legal/technical fields. Requires accessible learning environments via smartphone-based platforms",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can calculate quantitative relationships in chemical reactions (stoichiometry) with over 80% accuracy",
+    "Learners can effectively chunk learning materials according to cognitive load theory principles and autonomously develop self-directed study plans",
+    "Learners can achieve equivalent proficiency to advanced knowledge holders using the TAGL tool"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible Web-Based Learning Tool",
+      "Stoichiometry Concept Module",
+      "Step-by-Step Problem-Solving Worksheet",
+      "Cognitive Feedback Mechanism"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

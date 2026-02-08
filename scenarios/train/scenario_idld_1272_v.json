@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1272-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Business Practice Competencies: Personalized Instructional Design for Block-Based Programming Learning Support",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for Corporate Management/HR Professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can implement simple algorithms (sequencing, iteration, conditional statements) using block-based programming tools",
+    "Learners can analyze errors occurring during programming and correct them with over 80% accuracy",
+    "Learners enhance problem-solving skills by utilizing personalized feedback based on individual learning patterns"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Business Simulation Tool",
+      "HR Management System",
+      "Business Analytics Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Business/HR/Admin Support"
+}

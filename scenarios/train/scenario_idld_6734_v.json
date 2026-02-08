@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6734-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Educational Technology-Based Collaborative Learning Design and Open Educational Resources",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and intermediate expertise in the relevant field (medical/legal/technical)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can collaboratively design educational materials with peers and experts using Web 2.0 tools (wikis, blogs, etc.).",
+    "Learners can develop and share Open Educational Resources (OER) within their professional contexts (medical/legal/technical).",
+    "Learners can analyze and improve educational technology application cases through online discussions and feedback mechanisms."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

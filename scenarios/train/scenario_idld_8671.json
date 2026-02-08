@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8671",
+  "variant_type": "idld_aligned",
+  "title": "Example-Based Language Learning to Foster Problem-Solving Skills",
+  "context": {
+    "prior_knowledge": "Fundamental grasp of language structures and experience with simple problem-solving",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-time interactive classes conducted in smartphone-centric limited-technology environments, with learners aiming to develop intermediate language skills for job preparation.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can generate and evaluate at least three possible solution hypotheses to solve given language problems",
+    "Learners can identify correct problem-solving rules with 80% accuracy through example analysis",
+    "Learners can optimize the problem-solving process by revising incorrect hypotheses based on feedback"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Zoom Platform",
+      "Mobile-Optimized Learning Materials",
+      "Real-Time Chat Tool",
+      "Simple Digital Worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

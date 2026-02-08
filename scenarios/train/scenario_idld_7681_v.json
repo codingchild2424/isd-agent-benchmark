@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-7681-V",
+  "variant_type": "context_variant",
+  "title": "Microlearning Program for Nursing Students: Patient Safety and Quality Improvement Competency-Based Training",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A 5-day modular education program conducted in a mobile learning environment utilizing personal devices (BYOD), designed with a blended structure combining real-time interaction and asynchronous learning activities",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Ability to apply standard guidelines (5 items) for preventing patient safety incidents with 80% or higher accuracy",
+    "Analyze and implement three strategies for reducing medical errors in real clinical scenarios",
+    "Develop nursing process improvement plans using quality improvement tools (PDCA cycle, FMEA, etc.)",
+    "Demonstrate over 90% comprehension of items in the Hospital Survey on Patient Safety Culture (HSOPSC)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "3D Virtual Simulation Tool",
+      "Patient Safety Case Database",
+      "Interactive Quiz Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

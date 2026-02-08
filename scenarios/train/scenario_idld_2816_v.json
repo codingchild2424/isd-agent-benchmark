@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2816-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Microlearning Course for Improving Statistical Literacy Based on Cultural Context",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Training for office/administrative professionals using real-world data cases encountered in workplace environments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can visualize region-specific public data (bar graphs, scatter plots, etc.) via mobile devices.",
+    "Learners can interpret culturally contextualized statistical data to develop work-related decision-making scenarios.",
+    "Learners can generate at least three critical questions about data collection methodologies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Regional Public Datasets",
+      "Interactive Mobile Statistics Tool",
+      "Cultural Case Video Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

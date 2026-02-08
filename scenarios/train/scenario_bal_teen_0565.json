@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0565",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Microlearning for Social Competency Development Using Systematic Training Design",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and willingness to engage in societal participation",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Formative Assessment-Based Social Competency Development Program in Smartphone-Centric, Technology-Constrained Settings",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain three or more systematic training models for solving everyday problems.",
+    "Learners can complete over 80% of 10-minute microlearning content provided in a mobile environment",
+    "Learners can improve their social problem-solving competency, identified through formative assessments, by at least 20%"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Text/image-based concise learning materials",
+      "Weekly feedback provision system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

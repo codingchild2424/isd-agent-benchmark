@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1478",
+  "variant_type": "balance_large_scale",
+  "title": "Design of a Large-Scale Integrated E-Learning-Based Distance Mathematics Education System",
+  "context": {
+    "prior_knowledge": "Understanding of college-level foundational mathematics (calculus, linear algebra)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Environment promoting peer collaboration and self-directed learning through simultaneous real-time online lectures and offline discussions using personal devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the interaction of e-learning system components (instructional design, technology, teaching, and learning)",
+    "Learners can apply methods to effectively design and deliver mathematics content in blended environments",
+    "Learners enhance problem-solving skills by conducting peer reviews using online collaboration tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Learning Management System)",
+      "Real-Time Video Conferencing Tool",
+      "Interactive Math Problem Bank",
+      "Collaborative Document Editor"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

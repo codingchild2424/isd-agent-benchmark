@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1694-V",
+  "variant_type": "context_variant",
+  "title": "Interdisciplinary Simulation for Elementary Education Programming Environment Design: Strengthening Algorithm Problem-Solving and Computational Thinking through Mathematics-Engineering Integration",
+  "context": {
+    "prior_knowledge": "Basic programming concepts (loops, conditionals, operations), understanding of mathematics education theories (patterns, functions, variables), mathematical reasoning and problem-solving skills, and foundational graph and statistics concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "VR-based simulation for designing interdisciplinary lessons using elementary programming tools (block coding, visual programming languages). Focuses on integrating mathematical concepts (patterns, functions, variables, equations) with programming elements (loops, conditionals, operations). Learners apply scientific inquiry methods (measurement, analysis, evidence-based conclusions) in algorithmic problem-solving.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analysis of technical and pedagogical characteristics of elementary programming environments, application of mathematical logic structures (functions, variables, patterns) classification systems, and computational thinking assessment",
+    "Learners will design problem-solving processes for three algorithm types (sorting, searching, shortest path) using VR simulation tools (e.g., Unity ML-Agents) and submit reports meeting ≥4 of 5 formative assessment checklist items, including formulaic and graphical analysis",
+    "Designing age-appropriate programming learning environments based on interdisciplinary approaches and evaluating computational thinking through mathematical proofs and engineering implementations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Educational Platform License",
+      "BYOD-compatible learning management system",
+      "Elementary education programming tool dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

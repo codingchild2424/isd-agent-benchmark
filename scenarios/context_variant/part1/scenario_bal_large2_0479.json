@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0479",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] DGS-Based Project Learning for Exploring Similar Triangle Concepts",
+  "context": {
+    "prior_knowledge": "Understanding of basic geometric properties and proportionality concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A learning environment incorporating DGS (Dynamic Geometry Software) tools optimized for smartphones, supported by teacher intervention and worksheets.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the principle of calculating corresponding side ratios in similar triangles using DGS with 80% accuracy",
+    "Learners creatively solve at least three real-life problems applying similar triangle identification criteria",
+    "Learners systematize digital inquiry activity results into portfolios and achieve an average score of 4 or higher (5-point scale) in peer evaluations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible DGS Application",
+      "Similar Triangles Exploration Worksheet",
+      "Online Collaboration Tools",
+      "Formative assessment rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

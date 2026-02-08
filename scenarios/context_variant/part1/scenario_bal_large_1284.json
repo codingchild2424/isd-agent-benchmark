@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-1284",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Course for Strengthening Mathematics Application Competencies Based on Medical Simulation",
+  "context": {
+    "prior_knowledge": "Foundational understanding of statistics and ratio calculations, basic medical data interpretation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Composed of 15-minute daily microlearning modules using mobile devices, linking real-life medical simulations with mathematical problem-solving",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply mathematical procedures to accurately analyze medical data (e.g., drug dosage calculations, diagnostic value interpretations)",
+    "Learners apply at least three mathematical reasoning methods (ratio calculations, trend analysis, threshold comparisons) to emergency scenarios (blood pressure/blood glucose crises) in a simulation environment, proposing solutions that meet ≥4 of 5 decision-making checklist items within 10 minutes.",
+    "Learners effectively select mathematical tools (ratios, percentages, graph interpretations, etc.) to simplify complex medical information"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App",
+      "Medical Simulation Scenario Database",
+      "Interactive Math Problem Generator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0063",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Open Data Newsroom: Game-Based Role-Playing for Data Literacy Development",
+  "context": {
+    "prior_knowledge": "Basic data interpretation skills, experience in analyzing social issues, and fundamental digital tool proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasizing data-driven community problem-solving capabilities for pre-service and in-service teachers, utilizing personal devices in BYOD environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze real-world environmental issues in local communities using open data and propose solutions.",
+    "Learners develop competencies in collecting, verifying, visualizing, and sharing information according to data journalism processes.",
+    "Learners must perform ≥3 collaborative activities in a game-based role-play environment (e.g., urban design simulation) and analyze team-specific data (demographics, resource distribution) to write a decision-making report (5 criteria) with ≥80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Regional Open Data Portal Access Permissions",
+      "Data Visualization Tools (Flourish, RAW, etc.)",
+      "Online Collaboration Platforms (Padlet, Miro, etc.)",
+      "Gamification Element Implementation Plugin for LMS"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

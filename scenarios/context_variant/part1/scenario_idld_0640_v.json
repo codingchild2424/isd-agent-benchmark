@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0640-V",
+  "variant_type": "context_variant",
+  "title": "Utilizing Emotion Analysis in Online Education: Strategies for Evaluating Teaching Effectiveness",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Asynchronous BYOD-based course aimed at enhancing online class quality management competencies for social studies teachers",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can process online lecture evaluation text data with sentiment analysis tools to identify 20 positive/negative keywords",
+    "Learners can propose three improvement strategies for online classes based on analytical results.",
+    "Learners can write instructional effectiveness diagnostic reports using sentiment analysis reports."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform (bulletin board, quiz, assignment submission features)",
+      "Demo Version of Sentiment Analysis Web Tool",
+      "Sample Online Lecture Evaluation Text Dataset",
+      "Teacher Effectiveness Evaluation Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

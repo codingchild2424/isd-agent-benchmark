@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0647",
+  "variant_type": "balance_medium_scale",
+  "title": "Simulation-Based Quality Engineering Experimental Design Education",
+  "context": {
+    "prior_knowledge": "Basic statistical concepts and general comprehension of engineering problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners operate simulation tools in a non-real-time LMS environment using digital devices to engage in project-based learning, focusing on solving quality issues linked to daily life.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply three or more experimental design techniques using simulation software.",
+    "Learners can identify core quality attributes of products/processes with 90% accuracy in a virtual laboratory environment.",
+    "Learners can complete a step-by-step project that solves real-world industrial problems (e.g., minimizing product defects) through simulation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Minitab or JMP simulation software",
+      "Helicopter prototype/cannon launch simulation module",
+      "LMS platform",
+      "Online Discussion Forum"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

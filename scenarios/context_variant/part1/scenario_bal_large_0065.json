@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0065",
+  "variant_type": "balance_large_scale",
+  "title": "Designing Customized Online Science Education Programs for Adult Learners",
+  "context": {
+    "prior_knowledge": "Understanding Basic Scientific Theories and Experimental Methodologies",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An environment requiring smartphone-based access, emphasizing real-time interaction and self-directed learning design",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze real-world scientific field problems and propose solutions through Problem-Based Learning (PBL).",
+    "Learners can apply learning content by utilizing peer feedback and instructor coaching in a Case-Based Learning environment.",
+    "Learners can establish and execute personalized learning plans in online learning environments using self-regulated learning strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Zoom Video Conferencing Tool",
+      "Science Case Database",
+      "Mobile-compatible assessment tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

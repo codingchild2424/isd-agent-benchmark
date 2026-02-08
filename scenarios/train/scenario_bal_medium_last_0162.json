@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0162",
+  "variant_type": "balance_medium_last",
+  "title": "Utilizing Machine Learning and Deep Learning Models for Sarcasm Detection",
+  "context": {
+    "prior_knowledge": "Basic natural language processing (NLP) and Python programming experience, along with understanding of fundamental machine learning concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Most learners are interested in the interdisciplinary field of social sciences and computer science, with limited practical experience in data analysis",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Text preprocessing can be performed on social media datasets, and features required for sarcasm detection can be extracted.",
+    "Sarcasm classification models can be implemented using various machine learning/deep learning models, such as logistic regression and BERT.",
+    "The optimal sarcasm detection method can be proposed by analyzing model performance metrics (precision, recall, F1-score)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Google Colab or Personal Laptop (CPU/GPU)",
+      "Python Libraries (nltk, tensorflow, transformers, etc.)",
+      "Public Social Media Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

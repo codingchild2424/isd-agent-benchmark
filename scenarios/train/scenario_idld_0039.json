@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0039",
+  "variant_type": "idld_aligned",
+  "title": "Context-Based Educational Computing Environment Design: Language Domain Project-Based Learning",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental language structures and proficiency in digital device utilization",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized computing environment design for domain-specific language learning (medical/legal/technical) in a limited technological environment centered on smartphones.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can complete project assignments with over 80% accuracy using tools that analyze conceptual complexity (grammatical structures, specialized terminology systems) in language domains",
+    "Learners can apply contextual analysis frameworks to develop self-directed learning plans in mobile-based learning environments (quiz apps, collaborative platforms) suitable for intermediate proficiency levels",
+    "Through formative assessments (2-week feedback cycle), learners can identify and apply at least three optimal learning strategies within technological constraints (e.g., lack of PC access)"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Mobile Learning App",
+      "Open-source collaboration tools",
+      "Offline Activity Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

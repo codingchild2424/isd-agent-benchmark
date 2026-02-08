@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7954-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based High-Efficiency Mathematical Discussion Strategy Course",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A process for deepening complex mathematical concepts through discussion in a smartphone-only environment, emphasizing applicability to professional practitioners' work.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply cognitive load reduction techniques (e.g., scaffolding, filtering) with over 80% accuracy to shorten discussion participation time by 20%",
+    "Learners can exchange peer feedback at least three times during mathematical problem-solving processes and correct over 70% of logical errors",
+    "Learners improve discussion quality by adhering over 90% to a 5-stage mobile discussion framework: problem presentation → example analysis → solution proposal → feedback → improvement plan drafting"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Mobile Learning Platform",
+      "Mathematical concept visualization tools",
+      "Discussion Template Provision System",
+      "Offline-Storable Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4085-V",
+  "variant_type": "context_variant",
+  "title": "Computer-Based Patient Scenario Design for Nursing Simulation Education",
+  "context": {
+    "prior_knowledge": "Basic nursing skills and clinical judgment experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-based simulation education in constrained technology environments",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Improve the ability to analyze patient conditions and set educational objectives before simulation.",
+    "Perform clinical decision-making processes using computerized patient scenarios with 80% accuracy.",
+    "Practice team-based emergency response protocols in a simulation environment at least three times."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible simulation app",
+      "Scenario Templates",
+      "Mobile Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

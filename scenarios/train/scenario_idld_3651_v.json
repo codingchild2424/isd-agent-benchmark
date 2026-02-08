@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-3651-V",
+  "variant_type": "context_variant",
+  "title": "Attitude Change MOOC for Human Trafficking Prevention",
+  "context": {
+    "prior_knowledge": "Basic understanding of human trafficking concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile learning environment optimized for smartphones, targeting office/administrative professionals, with a focus on formative assessment.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain at least three types and social impacts of human trafficking.",
+    "Learners can suggest two personal action plans for preventing human trafficking.",
+    "Through individual projects in a MOOC, learners can design prevention strategies applicable to local communities.",
+    "By analyzing lecture videos and case studies, learners enhance their critical thinking skills regarding human trafficking issues."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Optimized Lecture Video",
+      "Interactive Quiz",
+      "Individual Project Template",
+      "Mobile-Friendly LMS"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

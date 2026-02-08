@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-1429",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Motivation and Cognitive Load Management Strategies for Remote Math Education",
+  "context": {
+    "prior_knowledge": "Foundational secondary-level mathematics knowledge and basic digital device utilization skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Implementation of project-based assessments utilizing animations/interactive videos in BYOD environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain mathematical concepts by over 80% through animated videos.",
+    "Strategies can be applied to reduce extraneous cognitive load by 30% when using interactive videos.",
+    "Records a self-assessment of an average of 4 points or higher (on a 5-point scale) on 12 or more items of the Instructional Materials Motivation Survey (IMMS-SU)",
+    "Achieves a project completion rate of 90% or higher relative to video learning time in a blended learning environment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Animation Production Tool",
+      "Interactive video platform",
+      "IMMS-SU survey instrument",
+      "Cognitive load measurement survey"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

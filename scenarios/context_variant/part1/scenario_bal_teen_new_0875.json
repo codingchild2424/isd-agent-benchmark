@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0875",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Workshop on IMS LD-Based Social Studies E-Course Automatic Generation Design: Pedagogical Design for Fostering Citizenship",
+  "context": {
+    "prior_knowledge": "Basic IMS LD concepts, ELIDL language structure, content packaging standards, and foundational knowledge of social studies core concepts (history, geography, politics, economics, citizenship) and social issue analysis skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening interdisciplinary curriculum design capabilities based on social studies for professionals in medical/legal/technical fields. Emphasizes content development for fostering learners' citizenship and improving social issue analysis skills. Focuses on cultivating real-world problem-solving abilities using core social studies concepts such as cultural diversity, political systems, and economic structures.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design and implement ≥3 specialized pedagogical templates for core social studies concepts (history, geography, citizenship, political systems, economic systems) using ELIDL language.",
+    "Learners must use three IMS LD-based social studies learning scenario templates to auto-generate a 3-step (design-review-revision) learning scenario for a Grade 5 social studies unit, submit results meeting ≥4 of 5 peer evaluation criteria (citizenship reflection, social issue analysis, cultural diversity consideration, etc.).",
+    "Within one week, learners must use a social studies ontology (1 topic: cultural diversity, political systems, or economic systems) and provided content (3 texts, 5 images, 2 videos) to complete a 3-step E-Course draft (5 lessons) following: (1) E-Course proposal, (2) storyboard design, (3) peer feedback integration. The draft must enhance social problem-solving and civic engagement competencies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ELIDL editor",
+      "IMS LD validation tool",
+      "Learning resource repository",
+      "Web programming sample content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

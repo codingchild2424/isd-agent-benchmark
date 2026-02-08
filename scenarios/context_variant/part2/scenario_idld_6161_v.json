@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6161-V",
+  "variant_type": "context_variant",
+  "title": "Virtual Reality-Based Mathematical Applications E-Learning Course for Agricultural R&D Practitioners",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for agricultural practitioners to learn mathematical modeling in VR environments for data analysis and technology application, conducted with digital device support and designed using the ADDIE model integrated with Moodle LMS",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply basic statistical techniques (mean, standard deviation, correlation) required for agricultural data analysis in VR simulations with 80% accuracy.",
+    "Learners can independently perform predictive simulations using linear regression models for solving on-site agricultural problems three or more times.",
+    "Learners exchange feedback by sharing data interpretation results in a VR environment with peer learners two or more times using collaborative tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Agricultural Data Sample Set",
+      "VR Equipment Rental System",
+      "Moodle LMS Account",
+      "Real-Time Video Conferencing Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

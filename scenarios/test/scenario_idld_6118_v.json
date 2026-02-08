@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6118-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Web Development Practical Competencies: TA (Teachable Agent)-Based Science Hierarchical Reasoning Enhancement",
+  "context": {
+    "prior_knowledge": "Basic biology and ecosystem concepts, along with experience in concept mapping",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students use TA to represent biological classification systems (e.g., Animalia-Kingdom-Phylum-Class-Order-Family-Genus-Species) as concept maps, enhancing hierarchical reasoning skills.",
+    "Learners analyze TA’s visual reasoning pathways to mimic scientific thinking processes and refine conceptual relationships based on error-correction feedback.",
+    "By the end of instruction, over 80% of learners aim to achieve the benchmark score (70+ points) on the researcher-designed test (hierarchical classification problems)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

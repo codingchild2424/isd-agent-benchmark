@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0096",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Experimental Mathematical Design Education in the Era of the Fourth Industrial Revolution",
+  "context": {
+    "prior_knowledge": "Understanding Basic Geometry and Measurement Concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Experiential learning environment using smartphone-based VR tools, emphasizing creative problem-solving in digital-physical convergence systems.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can explain principles of volume and area calculation through 3D geometric manipulation experiments in VR simulation environments",
+    "Learners can design five or more mathematical models to solve real-life problems using digital tools",
+    "Participants can establish mathematical problem-solving strategies applying the design thinking process through small-scale collaborative projects"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Web-based simulation platform",
+      "3D printing model template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

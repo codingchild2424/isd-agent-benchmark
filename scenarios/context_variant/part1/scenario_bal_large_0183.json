@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0183",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Cyber Range-Based Scientific Inquiry-Driven Security Talent Development Program",
+  "context": {
+    "prior_knowledge": "Understanding of network/OS fundamentals, security concepts, and basic scientific inquiry methods (observation-hypothesis-experiment-conclusion), with experience in measuring and analyzing experimental data",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-optimized step-difficulty design and mentoring system application. Tracks individual cybersecurity competency changes through continuous data measurement/statistical analysis. Systematically maps the scientific inquiry process (observation→hypothesis→experiment→analysis→conclusion) to cybersecurity scenarios.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Achieve 80% accuracy in APT attack response processes within 3 hours through CRX training based on real-world incident scenarios (emphasizing scientific analysis and digital evidence collection)",
+    "Achieve over 75% detection rate of OWASP Top 10 vulnerabilities during simulated penetration testing (applying experimental approaches and controlled independent/dependent variables)",
+    "Learners apply the scientific methodology of hypothesis formulation → experimental design → data analysis → conclusion drawing in 4-member team-based cyber incident response scenarios. They divide roles, achieve ≥4 points (on a 5-point scale) in 4 out of 5 collaboration rubric criteria (communication, task distribution, problem-solving efficiency), and pass the final evaluation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Cloud-Based CRX Simulation Tool",
+      "Security Analysis Sample Dataset (20 Types)",
+      "40-Hour Video Lecture Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

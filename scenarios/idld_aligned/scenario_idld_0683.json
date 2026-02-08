@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0683",
+  "variant_type": "idld_aligned",
+  "title": "Narrative-Based Advanced Learning of Natural Science Concepts: Mobile Microlearning Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic natural science concepts and possession of professional practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-based learning environment, verification of concept application skills through project-based assessment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Explain strategies for improving low-prior-knowledge peers' comprehension by analyzing science concepts containing narratives",
+    "Systematically reconstruct advanced scientific theories using historical context-based narrative pretexts (pretexts)",
+    "Learners can design scientifically grounded solutions applicable to real-world work problems using narrative-based learning materials in a mobile environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Microlearning Platform",
+      "Narrative-Based Science Content Database",
+      "Collaboration Tools (Slack, etc.)",
+      "Project Evaluation Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0574",
+  "variant_type": "balance_medium_scale",
+  "title": "Short-Intensive Simulation-Based Electronics Engineering Lab Education",
+  "context": {
+    "prior_knowledge": "Basic electronics theory and circuit analysis knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended learning course conducted in smartphone-centric limited-technology environments, aiming to cultivate practical skills while minimizing physical experiments through virtual lab simulations",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can explain operational principles through electronic circuit design and analysis simulations",
+    "Learners can independently perform at least three electronic experiments (e.g., RC circuits, OP-AMP amplifiers) using mobile-based simulation tools",
+    "Within one week, learners write a physics experiment report following a provided protocol (e.g., gravity acceleration measurement experiment) and demonstrate report-writing proficiency equivalent to physical experiments by scoring over 80% in three of four assessment rubric categories (experimental design, data analysis, conclusion derivation, format compliance)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Simulation Software",
+      "Fundamentals of electronics theory textbook",
+      "Experimental kits (optional use)",
+      "Online Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

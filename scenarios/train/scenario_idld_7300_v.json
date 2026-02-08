@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7300-V",
+  "variant_type": "context_variant",
+  "title": "Mastoidectomy VR Simulation Training: Self-Regulated Learning Program Based on Deliberate Practice",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners requiring improved time management and self-regulation skills through smartphone-based VR simulation tools",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "In a VR environment, learners can accurately identify external anatomical boundaries during a mastoidectomy and prevent drilling errors with over 80% accuracy.",
+    "Learners can reduce the damage rate to critical structures in the temporal bone (e.g., semicircular canals, stapes, facial nerve) by 30% after five training sessions.",
+    "Learners can shorten goal-achievement time by 20% while relying on simulation tutor functions at or below 50%.",
+    "Learners can independently determine the endpoint of surgery and achieve over 70% alignment between self-assessment and expert evaluation in the final assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible VR headset",
+      "Smartphone-Based VR Simulation Software",
+      "3D Anatomy Reference Materials",
+      "Step-by-Step Tutorial Videos"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

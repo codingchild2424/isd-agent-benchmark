@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3085-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Entrepreneurship Competency Development Microlearning Course",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short-Term Microlearning Course for In-Service Professionals in Smartphone-Centric Limited-Tech Environments, Focused on Formative Assessment-Driven Competency Development",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can diagnose their general and professional competencies through an entrepreneurial competency assessment survey.",
+    "Learners complete over 80% of 3-minute microlearning modules designed to strengthen systems thinking competencies.",
+    "Learners create an entrepreneurial idea implementation plan based on peer feedback and achieve over 70% in peer evaluation scores."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Low-capacity (<5MB) micro-content operable in 3G/4G environments",
+      "Offline survey tool (e.g., Google Forms)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

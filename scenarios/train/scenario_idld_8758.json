@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8758",
+  "variant_type": "idld_aligned",
+  "title": "Augmented Reality-Based Mathematics Teaching-Learning Design and Assessment",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and experience in using digital tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course enhancing instructional design capabilities for mathematics education using augmented reality content in a smartphone-centric limited technological environment. Validates practical classroom applicability through project-based assessments.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participants can create a design document for visualizing math concepts using augmented reality tools.",
+    "Participants can provide peer feedback on AR math learning scenarios using the EVAR assessment rubric.",
+    "Participants can produce low-cost AR math educational content executable in smartphone environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "AR authoring tools (e.g., Quiver)",
+      "EVAR evaluation rubric",
+      "Mathematics Textbook Samples"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

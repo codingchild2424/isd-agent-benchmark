@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4671",
+  "variant_type": "idld_aligned",
+  "title": "Training in Recognizing Instructors' Emotional Expression in Mathematics Video Lectures",
+  "context": {
+    "prior_knowledge": "Comprehension of fundamental statistical concepts and proficiency in digital learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A program to enhance corporate educators’/managers’ competencies in creating math education video content.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify instructors' positive (happiness/satisfaction) and negative (boredom/frustration) emotional expressions in educational videos with 80% accuracy",
+    "Learners can distinguish emotional expression differences between virtual (animated) and human instructors to derive insights on learning effectiveness",
+    "Learners can explain the impact of expressed emotions on motivating learning through three or more examples."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Math Lecture Video Samples with Emotional Expression Labeling",
+      "Online Assessment Platform with Real-Time Feedback Functionality",
+      "Sentiment Analysis Report Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

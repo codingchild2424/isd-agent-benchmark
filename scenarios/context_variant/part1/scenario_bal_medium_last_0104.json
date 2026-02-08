@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0104",
+  "variant_type": "balance_medium_last",
+  "title": "Deep Learning Hybrid Model Design for Mulberry Leaf Disease Detection",
+  "context": {
+    "prior_knowledge": "Understanding of basic deep learning theory and CNN architecture, proficiency in Python programming",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Targeting advanced mathematics experts with practical agricultural image analysis experience",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the principles of combining VGG-16 and CapsNet and propose solutions for image rotation/deformation challenges",
+    "Implement the WheCNet hybrid model to achieve over 85% accuracy in wheat leaf disease image classification",
+    "Apply dropout techniques and fully connected layer optimization strategies to prevent overfitting in practical scenarios"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Practical GPU Server",
+      "Wheat Leaf Disease Image Dataset",
+      "Jupyter Notebook Installation Package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5290-V",
+  "variant_type": "context_variant",
+  "title": "Machine Learning Practical Competency Enhancement: Mobile Microlearning for Adolescent Literature-Based Literacy Improvement",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can read youth literature provided through a mobile platform within six months and summarize core content with 80% accuracy",
+    "After completing microlearning modules twice weekly, learners show over 75% participation in critical thinking questions (CTQs) linked to scientific topics",
+    "Self-efficacy scores increase by over 20% in pre-post comparison assessments at the end of the course"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1483",
+  "variant_type": "idld_aligned",
+  "title": "Remote Experimentation and Collaborative Learning Process for IoT Learning and Development",
+  "context": {
+    "prior_knowledge": "Fundamental programming knowledge and understanding of network concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducted in smartphone-based limited-technology environments, aiming to enhance workplace competencies for in-service professionals.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the basic operating principles of IoT sensors and devices and write simple interaction code.",
+    "Learners can implement a communication model that integrates data collected in edge computing environments with cloud management systems.",
+    "Learners can design IoT data processing and visualization models to derive key performance indicators."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web of Things (WoT) Platform",
+      "Mobile-compatible Development Tools",
+      "Virtual IoT Simulation Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

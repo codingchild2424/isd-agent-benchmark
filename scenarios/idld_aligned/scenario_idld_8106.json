@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8106",
+  "variant_type": "idld_aligned",
+  "title": "Video-Based Instructional Design for Science Education in Higher Education",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental scientific theories and experimental procedures",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Science learning course using video content integrated with simulation/VR in a smartphone-centric, limited-technology environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve over 80% improvement in comprehension through educational videos explaining scientific concepts.",
+    "Learners accurately replicate complex scientific experiment procedures more than three times using VR simulation-linked video materials.",
+    "Learners demonstrate the ability to apply over 90% of video-based learning content to real-world tasks through formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Science experiment simulation software",
+      "Mobile-Optimized Video Production Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

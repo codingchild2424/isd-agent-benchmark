@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1089-V",
+  "variant_type": "context_variant",
+  "title": "Simulator-Based Instructional Design for Training Focal Cardiac Ultrasound (FoCUS) Experts",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Self-directed learning environments using simulators and digital devices, emphasizing team-based problem-solving activities",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can independently acquire the four standard views of the heart (parasternal, apical, subcostal, suprasternal) using the FoCUS probe.",
+    "Learners can identify cardiac dysfunctions (e.g., reduced ventricular contractility, pericardial effusion) with over 85% accuracy.",
+    "Learners achieve technical proficiency of 90+ points (out of 100) in three consecutive simulation evaluations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Ultrasound Simulator Equipment",
+      "3D Heart Anatomy Model",
+      "Digital assessment platform",
+      "Standardized Patient Scenario Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

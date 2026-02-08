@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-7777-V",
+  "variant_type": "context_variant",
+  "title": "Practical Implementation of Transfer Learning and Data Augmentation for Medical Image Classification",
+  "context": {
+    "prior_knowledge": "Fundamental Understanding of Machine Learning, Experience in Python Programming, and Basic Concepts of Neural Network Structures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical training on applying image classification technology to medical data. Strengthening model development competencies using transfer learning and data augmentation in limited-data environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "ResNet50 and VGG-16 models can be applied to medical image classification.",
+    "Transfer learning model performance using an SVM classifier can be improved by over 95%.",
+    "Data scarcity issues can be resolved by implementing image preprocessing (noise removal, contrast enhancement) and data augmentation techniques.",
+    "Model performance can be objectively evaluated through k-fold cross-validation.",
+    "The classification system development process using medical image datasets (e.g., ISIC 2017) can be explained."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GPU-Enabled Jupyter Notebook Environment",
+      "Medical Image Datasets (ISIC 2017, HAM10000, etc.)",
+      "PyTorch/TensorFlow Libraries",
+      "OpenCV and scikit-learn Packages"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

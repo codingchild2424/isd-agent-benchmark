@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0048",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Application of Learning Analytics-Based Clustering for Customized E-Learning Design: A Mathematical Modeling Approach",
+  "context": {
+    "prior_knowledge": "Foundational math knowledge (algebra, statistics, geometry) and basic data analysis skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Building a Customized Learning Support Environment for Enhancing Job Competencies of Current Practitioners: Application of Mathematical Modeling and Probabilistic Approaches for Analyzing Learner-Specific Achievement Patterns",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Applying mathematical clustering algorithms (e.g., K-means) to learning behavior data, learners can classify learner types into three categories: slow learners, average learners, and advanced learners.",
+    "Learners can apply clustering results (distance matrices, centroid coordinates) derived from learning analytics to personalized learning path design.",
+    "Learners can utilize a diagnostic and feedback system combining assessment strategies based on Bloom’s revised taxonomy (weighting multiple-choice/constructed-response items) with mathematical statistical analysis."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS System Log Data",
+      "K-Means Clustering Tool",
+      "Learning Progress and Time Data Collection Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7894-V",
+  "variant_type": "context_variant",
+  "title": "Cognitive Load Theory-Based Introduction to Programming: Robot Simulation Curriculum",
+  "context": {
+    "prior_knowledge": "Fundamental computer usage skills and logical thinking abilities",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducts hands-on education using LEGO Mindstorms robot simulation tools in a VR environment. Provides a simplified programming environment to prevent learners from being hindered by complex interface elements.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Implement three or more robot control programs utilizing conditional statements and loop concepts in a simplified VR environment.",
+    "Design problem-solving algorithms by combining ten basic commands provided by the simulation tool.",
+    "Achieve a score of 4 or higher (on a 5-point scale) in a self-efficacy survey after programming learning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Robot simulation VR software",
+      "Tablet PCs (30 Units)",
+      "30 LMS accounts",
+      "Programming tutorial videos"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

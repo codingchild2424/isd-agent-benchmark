@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0213-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design for Enhancing Online Mathematics Class Effectiveness and Digital Well-Being",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Pre-/in-service teachers must develop strategies for online mathematics instruction that simultaneously consider learning effectiveness and digital well-being. Self-directed learning environments provided through LMS",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain how to apply the three elements of Self-Determination Theory (autonomy, competence, relatedness) to online mathematics instruction",
+    "Learners can analyze the impact of social and technical support strategies on online learning satisfaction and digital well-being using a structural equation model.",
+    "Learners can develop mathematics lesson designs incorporating digital well-being elements through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform (bulletin board, quiz, assignment submission features)",
+      "Learning support tools (video conferencing system, collaboration tools)",
+      "Survey template (for measuring learning satisfaction)",
+      "Structural equation modeling software guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3251-V",
+  "variant_type": "context_variant",
+  "title": "Data Science Practice Competency Enhancement: Mobile-Based Online Social Leadership Intensive Short-Term Course",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately explain social leadership theories at 80% or higher accuracy through video lectures based on multimedia learning principles.",
+    "Learners can design solutions for real organizational problems using case analysis tools provided in a mobile environment.",
+    "Learners can submit concrete action plans through project-based assessments, including peer evaluations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

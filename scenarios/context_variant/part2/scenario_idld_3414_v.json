@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3414-V",
+  "variant_type": "context_variant",
+  "title": "Blended Instructional Design for Understanding Climate Change and Complex Systems",
+  "context": {
+    "prior_knowledge": "Basic knowledge of science and social studies subjects, and fundamental digital device proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A teaching competency enhancement course for pre-service or in-service teachers, conducted in a smartphone-centric, limited-technology environment, emphasizing case-based learning aligned with practitioners' work relevance",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Learners can explain core concepts of complex systems (feedback loops, nonlinear interactions, etc.) with over 80% accuracy.",
+    "Learners acquire model-based problem-solving skills to analyze climate change phenomena from a complex systems perspective.",
+    "Learners propose strategies to apply acquired knowledge to real-world cases in the workplace (energy management, sustainability projects, etc.)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Agent-Based Simulation Tool",
+      "Climate Change Case Database",
+      "Offline Group Activity Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Business/HR/Admin Support"
+}

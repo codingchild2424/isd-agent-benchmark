@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-0244",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Mobile Mathematics Module Development Based on Merrill’s First Principles of Instruction",
+  "context": {
+    "prior_knowledge": "Mastery of high school-level mathematics concepts and completion of introductory college mathematics courses",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A project-based assessment-centered mathematics education course conducted in a bring-your-own-device (BYOD) environment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze real-world problem situations presented according to Merrill’s principles of instruction and select appropriate mathematical models.",
+    "Learners can visualize and explain complex mathematical concepts through demonstration materials (animations, simulations) provided in mobile environments.",
+    "Learners can integrate acquired mathematical knowledge into project deliverables (portfolios, reports, etc.) while solving applied problems.",
+    "Learners can iteratively refine their problem-solving processes based on peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Mobile-Optimized)",
+      "Interactive Mathematics Simulation Tool",
+      "Digital Assessment Rubric",
+      "Collaboration tools (e.g., Google Workspace)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

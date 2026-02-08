@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0321",
+  "variant_type": "balance_self_filtered",
+  "title": "Pediatric Emergency Medicine Simulation-Based Skill Training Course (Self-Directed)",
+  "context": {
+    "prior_knowledge": "Basic pediatric emergency medicine theory and clinical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Utilization of virtual environments ensuring patient safety for rare emergency scenario training.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Perform 6 core pediatric emergency skills (endotracheal intubation, intravenous access, etc.) with ≥90% accuracy",
+    "Post-simulation training, confidence in skill performance improves by ≥3.5 points on a 5-point Likert scale",
+    "Through virtual patient scenarios, learners achieve ≥80% proficiency in emergency decision-making per OSCE standards"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Fidelity Pediatric Simulator (1 Set)",
+      "VR Headsets (10 units)",
+      "Pediatric Emergency Medicine Skills Manual",
+      "Pre-Built 15-Scenario Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

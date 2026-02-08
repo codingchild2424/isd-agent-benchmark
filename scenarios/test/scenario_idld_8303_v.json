@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8303-V",
+  "variant_type": "context_variant",
+  "title": "Reflective Systematic Lesson Design Model-Based Teacher Education Simulation Course",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Classroom design and execution simulation assuming multicultural classroom scenarios in a VR environment",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can create a lesson plan with three or more stages according to a reflective systematic instructional design model.",
+    "Learners can derive at least two improvement proposals based on self- and peer-assessment after implementing a lesson in a VR simulation environment.",
+    "Learners can present three or more instructional design strategies that consider technology integration and multicultural educational contexts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment",
+      "LMS System",
+      "Science Curriculum Resource Database",
+      "Lesson Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

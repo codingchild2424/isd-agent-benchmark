@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-SELF-0258",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Mobile Microlearning Course for Retaining and Enhancing Clinical Anatomy Knowledge Recall",
+  "context": {
+    "prior_knowledge": "Basic anatomy and clinical medicine knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning environment for professionals over 40, utilizing mobile devices and laboratory sessions",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify key anatomical structures with 90% accuracy through clinical case-based e-modules",
+    "Learners can perform clinical skills with 80% accuracy based on anatomical knowledge in hands-on laboratory sessions",
+    "Learners achieve a 15% or higher score improvement in pre-post assessments for self-learned anatomical knowledge domains"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Clinical Case Database",
+      "Anatomy Practical Laboratory",
+      "Cadaver Specimen",
+      "Clinical Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

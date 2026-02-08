@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1325-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Intensive Course on Probability Distributions and Random Variables",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Modular learning in 5–10 minute segments via smartphones, structured around case studies linked to administrative/managerial job roles.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can distinguish types of discrete probability distributions (Bernoulli, binomial) and calculate probability mass functions using real-world business cases.",
+    "Learners understand the characteristics of continuous probability distributions (uniform, normal) and interpret probability density function graphs via smartphone apps.",
+    "Learners can calculate the expected value and variance of random variables and use them to conduct business risk assessment simulations."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Compatible Statistical Simulation App",
+      "Interactive Worksheet in PDF Format",
+      "LMS-Integrated Quiz System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

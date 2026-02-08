@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1395",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Science Foundational Competency Enhancement MOOC for Adult Practitioners",
+  "context": {
+    "prior_knowledge": "Awareness of the necessity for foundational understanding in scientific fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical learning design considering real-world task integration for current practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain core scientific concepts with ≥80% accuracy.",
+    "Learners can apply the scientific methodology (problem definition → hypothesis formulation → data collection → analysis → verification) to real-world workplace problems (e.g., manufacturing process optimization, quality control issues) and propose three or more solutions while validating their feasibility through experimental or simulation results.",
+    "Learners improve their learning content by ≥90% based on peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Video Lecture",
+      "Interactive quiz system",
+      "PDF-based learning materials",
+      "Weekly learning report template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

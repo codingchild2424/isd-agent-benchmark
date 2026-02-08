@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-6597-V",
+  "variant_type": "context_variant",
+  "title": "Foundations of Urban Railway Demand Forecasting Modeling",
+  "context": {
+    "prior_knowledge": "Experience in basic statistical analysis and data visualization, and understanding of machine learning concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Optimization of smartphone-based learning environments, emphasizing data analysis skills applicable to real-life contexts",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Identify and explain at least three spatiotemporal factors influencing urban railway demand forecasting",
+    "Understand dynamic graph modeling approaches using tensor decomposition techniques and apply them to real-world data",
+    "Implement a parallel learning-based multi-feature extraction module (temporal/spatial/spatiotemporal) to improve predictive model performance by over 15%",
+    "Effectively visualize demand forecasting results using smartphone-based data visualization tools in an LMS environment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Open-Source Data Analysis Tools (TensorFlow, Keras)",
+      "Mobile-Optimized LMS Platform",
+      "Public Urban Railway Dataset (Boarding/Alighting Passengers, Time-Based Population Flow)",
+      "Spatiotemporal Data Visualization Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

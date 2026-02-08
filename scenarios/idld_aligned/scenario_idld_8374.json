@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8374",
+  "variant_type": "idld_aligned",
+  "title": "Dual-Task Skill Training Course Based on Medical Simulation",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and fundamental patient monitoring concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Blended learning environment combining smartphone-based simulation tools with offline practical training. Measures learning outcomes through project-based assessment",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify abnormal signals (heart rate fluctuations) during virtual patient monitoring with 90% accuracy within 10 seconds",
+    "Learners can reduce cognitive load (SRME score) by 20% after three consecutive practice sessions in a dual-task environment (surgical knot-tying + patient monitoring)",
+    "Learners can improve secondary task performance with a signal detection rate (SDR) of 0.6 or higher and a response time (RRT) within 1.5 seconds"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible simulation app",
+      "Basic surgical training kit",
+      "Virtual patient monitoring system",
+      "Cognitive Load Measurement Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

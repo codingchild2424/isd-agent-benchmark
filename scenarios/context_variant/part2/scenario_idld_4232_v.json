@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4232-V",
+  "variant_type": "context_variant",
+  "title": "Gamification-Based Decision-Making Education Program for Prenatal Screening",
+  "context": {
+    "prior_knowledge": "Foundational genetic concepts and general understanding of prenatal testing",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Gamified educational environment based on the ARCS model for in-service professionals, utilizing digital devices (tablets/smartphones)",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain the basic principles and clinical applications of prenatal testing (especially NIPT) in over 80% of cases.",
+    "Learners complete simulation games interpreting genetic test results and decision-making processes with over 90% accuracy.",
+    "Learners reduce decision-making conflicts related to prenatal testing by over 50% through ARCS model-based activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ARCS Model Worksheet",
+      "Gamification Board Game Kit",
+      "Augmented Reality (AR) Scenario Card Set",
+      "Access to Digital Quiz Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

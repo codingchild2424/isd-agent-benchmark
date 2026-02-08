@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0583",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Student-Centered Science Inquiry Project Using Web-Based Tools",
+  "context": {
+    "prior_knowledge": "Basic science theories and fundamental digital device utilization skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Although learners are non-experts, they possess rich scientific curiosity and engage in both online and offline activities using personal devices (BYOD). Their ability to solve real scientific problems is assessed through project-based evaluations.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can select at least three Web 2.0 tools suitable for scientific inquiry topics and integrate them into a collaborative platform.",
+    "Learners can complete a project that visually represents scientific concepts by creating digital artifacts (content).",
+    "Learners can design feedback cycles using a peer assessment system and improve the efficiency of educational tool utilization by over 20%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "App Inventory Platform Access Permissions",
+      "Collaborative Cloud Storage",
+      "Science Data Visualization Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

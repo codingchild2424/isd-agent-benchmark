@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1956",
+  "variant_type": "idld_aligned",
+  "title": "GPS Model-Based Instructional Design for Enhancing STEM Oral Presentation Competencies",
+  "context": {
+    "prior_knowledge": "Basic STEM knowledge and presentation experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Vocational training curriculum conducting project-based assessments in a smartphone-centric, limited-technology environment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners design logical structures using the GPS model (General-Specific-Concrete structure) in oral presentations on STEM topics",
+    "Learners demonstrate communication skills to translate technical content into language understandable by non-experts",
+    "Learners improve presentation materials at least three times based on peer feedback and instructor evaluation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Presentation Tool (e.g., Google Slides Mobile Version)",
+      "Zoom Screen Sharing Feature",
+      "Online Feedback Form"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

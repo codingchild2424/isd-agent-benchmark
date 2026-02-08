@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0685-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Workshop for Designing and Assessing Mathematical Learning Activities",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Course for acquiring design and evaluation methods of math problem-solving activities using VR simulations.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Design of mathematics learning activities by applying the six pedagogical dimensions (activity type, grouping, resources, interaction, time management, tools) of Conole’s learning object classification system.",
+    "Evaluation of the pedagogical validity of designed activities through inter-rater reliability verification (Cohen’s Kappa ≥ 0.6) among peer evaluators.",
+    "Development of formative assessment tools that measure learner engagement, conceptual understanding, and problem-solving skills in a VR simulation environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset Rental System",
+      "Learning Object Classification Template",
+      "Mathematics Simulation Content Package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

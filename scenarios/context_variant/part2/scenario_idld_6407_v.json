@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6407-V",
+  "variant_type": "context_variant",
+  "title": "Web-Based Histology and Histopathology Self-Directed Learning Program",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An intensive short-term course conducted in a smartphone-centric, limited-technology environment, designed to help medical undergraduates holistically acquire core concepts in histology and histopathology.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately identify the microstructural characteristics of 10 major tissue types (epithelial, connective, muscular, nervous tissues, etc.)",
+    "Learners can describe the microscopic features of 15 common histopathological changes (inflammation, necrosis, atrophy, etc.)",
+    "Learners can analyze histopathology correlations through self-directed learning for 2 hours daily over 5 days a week using a web-based platform"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web-based image library",
+      "Mobile-Optimized Learning Platform",
+      "Interactive quiz system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

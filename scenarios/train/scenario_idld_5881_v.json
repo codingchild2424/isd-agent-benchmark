@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5881-V",
+  "variant_type": "context_variant",
+  "title": "Higher Education Mathematics Remote E-Learning: Text Analysis and Expression Training for Logical Language Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Comprehension of basic mathematical and logical concepts, ability to identify fundamental grammatical structures, experience with simple text analysis",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Supplemental program for computer science master's degree applicants, designed to address deficiencies in logical language comprehension. Participated by students nationwide in Mexico, with a focus on improving mathematical text reading comprehension and logical expression skills",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can accurately interpret the basic structure of logical language (propositions, logical connectives, quantifiers) and apply it to mathematical proofs.",
+    "Through team-based collaborative learning, students analyze the textual structure of complex mathematical problems, apply logical reasoning, and actively participate in the problem-solving process.",
+    "Learners can mathematically model three real-world problems in computer engineering (e.g., algorithms, network optimization), implement the models in Python code to pass over 80% of test cases, and clearly explain the process in logical language."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "PDF Learning Materials",
+      "Video Conferencing Tools",
+      "Collaborative Text Editor"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0303",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Artificial Intelligence and Language Behavior Emergence: Understanding Language Patterns and Analyzing Expressions through Imitation Learning",
+  "context": {
+    "prior_knowledge": "Basic programming concepts, introductory knowledge of artificial intelligence, understanding of fundamental grammatical structures and vocabulary usage, and introductory text analysis skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Collaborative digital device-based learning (laptop/tablet) focusing on language domain applications (conversational systems, text generation) to enhance reading comprehension and expressive skills.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze agent-environment interaction mechanisms to scientifically explain core elements of language behavior generation (e.g., utterance context, lexical selection, grammatical structures)",
+    "Learners implement ≥3 simple language behavior patterns (dialogue tracking, context avoidance, expression memory) using imitation learning-based reservoir computing models, submitting executable models uploaded to code repositories (GitHub, etc.) and 500+ character documentation (including grammatical analysis and vocabulary usage evaluation) as project deliverables",
+    "Interpret experimental data (chatbot simulations, etc.) to evaluate language learning architecture efficiency and derive evidence-based conclusions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Machine Learning Library",
+      "Robot Simulation Software",
+      "Behavioral dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

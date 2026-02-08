@@ -1,0 +1,41 @@
+{
+  "scenario_id": "IDLD-2753-V",
+  "variant_type": "context_variant",
+  "title": "Ophthalmology Basic Science Online Course: Project-Based Learning Based on the ADDIE Model",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A customized online course for medical professionals to strengthen foundational ophthalmology competencies. 15 hours of content is studied in-depth over 3–4 months using a PBL approach.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explore the anatomical structure of the eye via 3D simulation and explain the functions of major tissues.",
+    "Learners can analyze refractive error cases and establish treatment plans according to diagnostic protocols.",
+    "In ocular disease patient scenarios, learners can integrate clinical symptoms and test results to perform differential diagnosis.",
+    "Learners can explain brain-eye interaction mechanisms using a visual pathway model.",
+    "Through case studies on ocular trauma, learners can propose emergency response procedures and prevention strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Storyboard Authoring Software",
+      "Animation Production Tool",
+      "Interactive Simulation Platform",
+      "Online Learning Management System (LMS)",
+      "Medical Illustration Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

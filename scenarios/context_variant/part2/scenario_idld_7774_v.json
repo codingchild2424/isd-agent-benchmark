@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7774-V",
+  "variant_type": "context_variant",
+  "title": "VR-Based Intensive Neuroanatomy Learning Program",
+  "context": {
+    "prior_knowledge": "Foundational medical terminology and human anatomy understanding",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Intensive Course on Core Neuroanatomical Concepts for Training Medical Interpreters in the Fourth Industrial Revolution Era",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify 3D forms of major brain structures (e.g., cerebral cortex, hippocampus, hypothalamus) with 90% accuracy in VR environments",
+    "Learners can explain neuron signal transmission processes in three or more stages using neuroanatomical terminology",
+    "Learners can analyze brain injury cases through VR simulations and describe clinical implications with 70% accuracy"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Multi-User VR Headset Set",
+      "3D Brain Model Digital Library",
+      "Cognitive load measurement questionnaire"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

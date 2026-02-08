@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-1135",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Workshop on Quality Design for Mobile-based Online Mathematics Lectures",
+  "context": {
+    "prior_knowledge": "Basic proficiency in online learning platforms and foundational knowledge of mathematics education theory",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A process for preservice teachers to acquire competencies in designing effective mathematics instruction in smartphone environments, developing quality control strategies through team collaboration and self-directed problem-solving.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can develop three checklists for designing mobile-optimized mathematics lectures",
+    "Learners can apply two or more instructional material creation methods—such as video production and quiz design—in limited-technology environments",
+    "Learners can design a feedback system for quality management in online lectures through team collaboration"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone Filming Equipment",
+      "Open-source video editing tool",
+      "Mobile-compatible LMS platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

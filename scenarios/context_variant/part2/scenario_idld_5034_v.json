@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5034-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening E-Learning Practical Competencies: Personalized Learning Design Based on E-Learning Service Interoperability",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and Learning Management System (LMS) usage",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Competency enhancement program for professionals in education/teaching/learning fields",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can describe the basic structure and metadata standards of learning objects (LOs).",
+    "Learners can design integration strategies for learning objects to resolve interoperability issues.",
+    "Learners can configure environments for personalized language learning content across multiple devices.",
+    "Learners can apply criteria to evaluate data compatibility between e-learning services."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Authoring Tool",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2968-V",
+  "variant_type": "context_variant",
+  "title": "VR-Based Forest Fire Suppression Training Program: Enhancing Real-World Response Capabilities",
+  "context": {
+    "prior_knowledge": "Fundamental fire safety concepts and outdoor activity experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Blended learning using VR equipment and personal devices, combining field training with theoretical instruction. Learners systematically acquire actual wildfire response capabilities through repetitive training in virtual environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Perform initial response procedures (reporting, evacuation guidance, fire suppression equipment use) during wildfire scenarios in a virtual reality environment with 90% accuracy.",
+    "Evaluate the ability to predict wildfire spread patterns and develop suppression strategies via VR simulation (achieve 4 or higher on a 5-point scale).",
+    "Demonstrate theoretical and practical wildfire suppression competencies by scoring 85 or higher (out of 100) on a post-training knowledge test."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "Wildfire Suppression Simulation Software",
+      "Personal Smartphone/Tablet",
+      "Textbooks and Supplementary Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

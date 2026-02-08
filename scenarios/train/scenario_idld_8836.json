@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8836",
+  "variant_type": "idld_aligned",
+  "title": "Flipped Learning-Based Mathematics Education Efficiency Design",
+  "context": {
+    "prior_knowledge": "Comprehension of basic mathematical concepts and practical application experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "For current professionals, improving mastery of job-relevant mathematical concepts and enhancing adaptability to flipped learning.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain core mathematical concepts with over 80% accuracy through pre-class microlearning content.",
+    "Learners achieve over 30% greater self-directed learning efficiency compared to class time by utilizing learning strategies based on cognitive load theory.",
+    "Learners improve their understanding of flipped learning-style lessons to 3.5 or higher on a 4-point scale through formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Interactive Microlearning Module",
+      "Real-time feedback system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

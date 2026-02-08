@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2850",
+  "variant_type": "idld_aligned",
+  "title": "Teacher-Led Project-Based Learning for Adaptive Learning System Design",
+  "context": {
+    "prior_knowledge": "Basic educational technology and understanding of mathematics curriculum content",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening Capabilities for Designing Adaptive Learning Systems in Mathematics Education for Pre-Service/In-Service Teachers",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can derive core requirements for adaptive learning systems using scenario-based needs analysis methods.",
+    "Learners can establish implementation strategies in resource-constrained technological environments following teacher-led design principles.",
+    "Learners develop the ability to improve system prototypes through iterative requirement validation processes.",
+    "Learners can analyze the success factors of adaptive learning systems by linking them to learner expectations."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Low-Specification Tablets",
+      "Offline Collaboration Tool",
+      "Scenario Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

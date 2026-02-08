@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1137",
+  "variant_type": "idld_aligned",
+  "title": "Intensive Chinese Character Learning Course Utilizing Gamification",
+  "context": {
+    "prior_knowledge": "Fundamental Chinese character recognition ability and experience with online learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Meets the intermediate-level Chinese character learning needs required for workplace applications by in-service professionals.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will analyze and explain the components (radicals, stroke order) of 50 essential Chinese characters with 80% accuracy through game-based activities.",
+    "Learners will apply 30 Chinese vocabulary words contextually while performing digital quizzes and collaborative missions.",
+    "Creating practical documents (e.g., reports/proposals) using learned Chinese characters through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS (Learning Management System) platform (built-in gamification features)",
+      "Chinese character structure analysis tool",
+      "Collaborative Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

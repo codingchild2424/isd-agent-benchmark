@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5733-V",
+  "variant_type": "context_variant",
+  "title": "Narrative Learning Design for Science Storytelling",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners access mobile platforms via smartphones to analyze everyday science problems through narrative frameworks",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain scientific concepts aligned with a narrative structure (introduction-development-crisis-resolution)",
+    "Learners select one local community issue (e.g., waste sorting, energy conservation), apply relevant scientific principles (decomposition, thermodynamics, etc.), create a storytelling-based project plan (within 3 pages), and complete final presentation materials incorporating peer evaluation and expert feedback (achieving at least 3 points on a 5-point scale).",
+    "Learners can validate the effectiveness of narrative educational content through peer evaluation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Audio recording tool",
+      "Print-ready learning materials kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE3-0029",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Design Concept Generation Using Machine Learning: Case-Based Learning",
+  "context": {
+    "prior_knowledge": "Basic understanding of machine learning and mathematical modeling, along with engineering design principles",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners utilize pre-produced lecture videos, interactive simulations, and datasets via LMS, with continuous learning through weekly assignments and feedback",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain machine learning problem-definition methods suitable for the design domain.",
+    "Learners can specify a Target Representation based on design examples.",
+    "Learners can implement a concept formation-based design generation model by analyzing bridge design cases.",
+    "Learners can evaluate the impact of training data types and representation methods on design concept generation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook Environment",
+      "Python-Based Machine Learning Libraries (TensorFlow/PyTorch)",
+      "Bridge Design Dataset",
+      "LMS Platform (Video, Quiz Features)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

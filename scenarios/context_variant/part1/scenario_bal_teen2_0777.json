@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0777",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Procedural Scaffolding-Based Intermediate Course for Improving Online English Writing Proficiency",
+  "context": {
+    "prior_knowledge": "Understanding of English grammar and basic writing structures",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducts simulation/VR-based education accessible in smartphone environments for advanced graduate-level learners, emphasizing formative assessment to enhance self-directed writing skills",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design academic English essay structures using a three-stage procedural checklist.",
+    "Learners can correct grammatical errors with over 80% accuracy through real-time feedback in VR-based environments.",
+    "Learners can submit self-assessment reports utilizing metacognition at least four times in weekly formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized VR Platform",
+      "Interactive Checklist Tool",
+      "Speech-to-Text Conversion Software",
+      "Weekly Feedback Report Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1517-V",
+  "variant_type": "context_variant",
+  "title": "Example- and Problem-Based Online Learning Course for Improving Problem-Solving Skills",
+  "context": {
+    "prior_knowledge": "Elementary science knowledge and secondary-level mathematics proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Real-time video lectures conducted in a smartphone-centric, limited-technology environment, with customized learning design for working professionals.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply a three-stage framework (problem definition-strategy development-execution and verification) to systematically analyze given science problems",
+    "Learners can identify problem-solving strategies by type with 80% accuracy through example-based learning",
+    "Learners can improve learning efficiency by 20% by selecting appropriate ratios of examples to problem-solving exercises (e.g., 40:60) in self-directed learning environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Video Example Materials",
+      "Step-by-Step Problem-Solving Guide PDF",
+      "Real-Time Collaborative Google Workspace Tools",
+      "Group Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

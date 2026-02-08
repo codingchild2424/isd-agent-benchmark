@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4344",
+  "variant_type": "idld_aligned",
+  "title": "Virtual Reality-Based Mechanical Tool Process Simulation Design Course",
+  "context": {
+    "prior_knowledge": "Basic mechanical engineering theories, experience with CAD software, and understanding of mathematical modeling concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A practice-centered educational environment utilizing personal devices (BYOD). Integrates VR simulation tools (VIRTOOL-based) and 3D modeling software.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze the operating principles of mechanical tools in a 3D simulation within a virtual reality environment.",
+    "Using simulation tools, learners can mathematically model and optimize process parameters (speed, angle, load, etc.) of machine tools.",
+    "Through team projects, learners can design industry-applicable process simulations and write verification reports."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR headset (corporate partnership rental)",
+      "Simulation Software License",
+      "3D mechanical parts model library",
+      "Collaboration platform (Slack/Notion)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

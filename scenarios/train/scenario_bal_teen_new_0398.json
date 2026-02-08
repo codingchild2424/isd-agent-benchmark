@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0398",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Short-Intensive Course on Service Improvement and Organizational Development Based on Action Learning",
+  "context": {
+    "prior_knowledge": "Basic organizational management and service administration experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical learning utilizing VR simulations in smartphone-centric limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze real service problem scenarios in VR environments to derive improvement plans",
+    "Learners can design team-based projects and establish execution plans by applying action learning methodologies",
+    "Learners can develop concrete implementation strategies and evaluation criteria for improving community services"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR Equipment",
+      "Action Learning Worksheet Template",
+      "Local Service Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

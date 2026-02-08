@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0486",
+  "variant_type": "balance_medium_scale",
+  "title": "Project-Based Elective Course Design for Strengthening Pediatric Pharmacy Expertise",
+  "context": {
+    "prior_knowledge": "Foundational pharmacology and clinical practice experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A customized educational program aimed at healthcare professionals to systematically understand and apply core pediatric pharmacy topics in practice",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners calculate drug dosages in ≥10 virtual clinical scenarios using pharmacokinetic models (1-compartment, 2-compartment) based on pediatric patients’ weight (kg), age, and renal function indicators. They propose dosage adjustments within ±10% error margin of standard doses",
+    "Develop and apply PBL-based therapeutic intervention protocols for pediatric diseases.",
+    "Analyze FDA pediatric drug development guidelines and write an evaluation report on ethical issues."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Pediatric Pharmacy Database",
+      "Clinical Case Simulation Tool",
+      "3D Drug Modeling Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

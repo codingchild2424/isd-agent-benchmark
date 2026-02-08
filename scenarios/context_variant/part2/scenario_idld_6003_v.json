@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6003-V",
+  "variant_type": "context_variant",
+  "title": "Integrated Use of Computer-Based and Face-to-Face Learning: Blended Learning Design Strategies",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Focuses on professionals in medical, legal, and technical fields applying scientific knowledge to practice, operating in smartphone-centric limited-technology environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners achieve over 80% engagement by integrating computer-based learning tools (apps/mobile platforms) with face-to-face discussion sessions in a blended learning environment",
+    "Learners write analytical reports comparing the self-directed nature of computer-based learning with the collaborative characteristics of face-to-face learning through science-career-linked projects",
+    "Learners achieve over 75% proficiency in three or more formative assessments through smartphone-based assignment submissions and face-to-face feedback sessions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Application",
+      "In-Person Workshop Space",
+      "Project template",
+      "Online Collaboration Tool (Smartphone-Compatible)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3602",
+  "variant_type": "idld_aligned",
+  "title": "Digital Game-Based Elementary Mathematics Education Design Workshop",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and general familiarity with game design",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course developing competencies in designing elementary mathematics educational games in smartphone-centric limited-technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can write a game design document aligned with the 2013 elementary mathematics curriculum by applying the DGBL-ID methodology",
+    "Learners can develop one prototype of an interactive math game implementable in smartphone environments",
+    "Learners can explain three or more game interface design principles reflecting learner characteristics (elementary students)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Game Development Tools (Unity/Unreal Engine Mobile)",
+      "Game design template",
+      "Elementary Mathematics Curriculum Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

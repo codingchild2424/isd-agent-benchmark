@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3184",
+  "variant_type": "idld_aligned",
+  "title": "Immersive Education Design Based on Clinical Virtual Reality Simulation",
+  "context": {
+    "prior_knowledge": "Fundamentals of medical terminology and clinical procedures, along with basic digital device operation skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Students use VR devices (headsets/smartphones) via BYOD, conducting scenario-based practical training simulating real clinical environments.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "≥80% proficiency in performing three-stage clinical processes (diagnosis to treatment planning) in VR simulation environments",
+    "≥75% improvement in decision-making accuracy under stress-inducing virtual scenarios (e.g., emergency situations)",
+    "90% enhancement in role distribution and communication efficiency through team-based collaboration simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR headsets (10 units)",
+      "360-degree clinical scenario content",
+      "Biometric signal monitoring simulator",
+      "Real-time feedback software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

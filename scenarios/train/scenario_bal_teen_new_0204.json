@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0204",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Problem-Based Collaborative Learning for Developing Scientific Inquiry and Language Reasoning Abilities",
+  "context": {
+    "prior_knowledge": "Basic science concepts (hypothesis formulation·variable control) and college-level language comprehension skills (grammar·vocabulary·reading·writing)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A graduate-level language course conducting project-based assessments in smartphone-centric, limited technological environments. Focuses on improving learners' text analysis/expression skills and integrating scientific inquiry methods.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners analyze complex linguistic data (text/discourse) to generate scientific hypotheses and derive evidence-based conclusions.",
+    "Learners perform language evidence collection and evaluation processes through collaborative problem-solving with peers, enhancing critical thinking.",
+    "Learners observe real-world linguistic phenomena (conversations/texts), improve problem-definition and question-generation skills, and acquire inquiry-based reading techniques."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone app-based collaboration tools",
+      "Simplified experiment kit",
+      "Online Discussion Forum"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

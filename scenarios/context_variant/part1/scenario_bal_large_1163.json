@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1163",
+  "variant_type": "balance_large_scale",
+  "title": "Open-Source Project Learning for 3D Game Engine Development in Emergency Response Training [Large-Scale]",
+  "context": {
+    "prior_knowledge": "Basic programming comprehension (C++/Python) and foundational game engine/3D graphics concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Corporate job training aimed at strengthening open-source technology utilization skills applicable to practical tasks.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "An open-source 3D game engine specialized for emergency response scenarios can be built by combining open-source components",
+    "The integration process of physics engines, rendering systems, and interaction modules for virtual environment development can be explained",
+    "Learners design interactive 3D simulation content based on fire/rescue scenarios using Unity or Unreal Engine, implementing five or more user interaction features (dialogue choices, real-time feedback, etc.). They achieve an average usability evaluation score of 4.0/5.0 from 30 testers."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-source 3D engine library (Unreal Engine, Godot, etc.)",
+      "Emergency response training scenario template",
+      "GitHub collaboration platform",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

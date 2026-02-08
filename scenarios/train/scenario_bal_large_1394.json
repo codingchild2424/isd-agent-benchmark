@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-1394",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Digital Accessibility-Based Gamification Language Learning Design",
+  "context": {
+    "prior_knowledge": "Basic digital device usage proficiency and foundational understanding of language learning",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A language education course using gamification elements accessible to all learners via smartphones. Requires design considerations for accessibility across disability types",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply basic grammar of the target language (Korean) with 80% accuracy using gamification elements (quests, reward systems).",
+    "Learners understand digital accessibility principles (e.g., screen reading, high-contrast settings) and can apply at least three of them to gamified content.",
+    "Learners improve interaction skills with peer learners by over 70% through collaborative mission performance in gamification-based language learning activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Accessibility-Verified Gamification Template",
+      "Offline Board Game Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

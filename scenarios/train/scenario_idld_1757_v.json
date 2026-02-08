@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1757-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Skills: Embodied Cognition and Mathematics Education: Practical Learning for Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can design three or more educational activities explaining mathematical concepts based on embodied cognition theory.",
+    "Educators can design three math instruction models (e.g., geometric manipulation, graph visualization, problem-solving simulations) that engage learners aged 40+ using iPads and motion sensors (e.g., Leap Motion). Over eight weeks, they develop prototypes applicable to five or more 40-minute lesson scenarios and meet four or more of the five evaluation rubric criteria (technology integration, engagement, effectiveness, creativity, scalability).",
+    "Learners demonstrate an 80%+ achievement in participation rates and a 20% improvement in conceptual understanding through project outcomes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

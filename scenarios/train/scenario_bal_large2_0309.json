@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0309",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Understanding Large-Scale Transfer Learning-Based Indoor Positioning Systems",
+  "context": {
+    "prior_knowledge": "Familiarity with fundamental machine learning concepts and general understanding of indoor positioning systems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course exploring AI technology applications for real-world problem-solving. Focuses on the operating principles of fingerprint-based location recognition systems and transfer learning methodologies.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the basic principles of transfer learning and its application cases in indoor positioning systems.",
+    "Understand the role of metric learning in the indoor positioning estimation process using fingerprint data.",
+    "Within a 1-week course, learners derive performance improvement results of 10% or higher in the target domain using a pre-trained model from the source domain for three provided metric transfer cases (e.g., image classification across domains) and write an experimental report."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Tools (Miro, Jamboard)",
+      "Simulation Dataset Samples",
+      "Open-Source TL Framework Trial Version"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

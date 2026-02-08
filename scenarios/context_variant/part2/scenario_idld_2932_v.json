@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2932-V",
+  "variant_type": "context_variant",
+  "title": "Short-Term Activity-Based Blended Learning Course for Enhancing Game Design Competencies",
+  "context": {
+    "prior_knowledge": "Basic Game Theory and Digital Tool Usage Experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Mobile-optimized learning activity design for PC-unavailable environments, providing continuous feedback through formative assessments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze the game design process step-by-step and explain its core elements (systems, aesthetics, interactivity).",
+    "Learners can design team-based prototypes and provide feedback using mobile collaboration tools.",
+    "Learners can write reflective journals and establish improvement plans through an online feedback system."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible collaboration app",
+      "Mobile assessment platform",
+      "Simple Game Design Template",
+      "Low-Spec VR/AR Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

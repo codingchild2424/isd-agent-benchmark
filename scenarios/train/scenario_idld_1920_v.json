@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1920-V",
+  "variant_type": "context_variant",
+  "title": "Case-Based Learning Process for Developing Clinical Reasoning Skills in Elementary Mathematics",
+  "context": {
+    "prior_knowledge": "Elementary mathematics curriculum content (operations, problem-solving) and basic educational practice experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A process for in-service elementary teachers to develop clinical reasoning skills based on real classroom cases, conducted primarily via smartphones in PC-unavailable settings, structured around asynchronous learning activities via LMS.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can extract key problem-solving elements from actual elementary math class cases with 80% accuracy",
+    "Learners can propose three or more math error diagnosis and correction strategies through case-based learning (CBL)",
+    "Learners can improve their reasoning processes two or more times by reflecting on peer evaluations and feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Case Database (20 Elementary Mathematics Error Cases)",
+      "Mobile-compatible LMS platform",
+      "Interactive quiz tool",
+      "PDF/image-based learning materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

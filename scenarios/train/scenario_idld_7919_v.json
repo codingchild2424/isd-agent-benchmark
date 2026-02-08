@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7919-V",
+  "variant_type": "context_variant",
+  "title": "Computationally Efficient Control Techniques for Optimizing Collaborative Tracking Tasks",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are industry practitioners experienced in multi-subsystem collaborative tasks, aiming to bridge the gap between theoretical knowledge and practical application",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the core principles of NOILC (Norm Optimal Iterative Learning Control) and its application cases in cooperative tracking tasks.",
+    "Learners can design optimization processes that reduce computational complexity using the non-lifting N-NOILC technique.",
+    "Learners can apply practical considerations and parameter-tuning methods when implementing ADMM (Alternating Direction Method of Multipliers)-based distributed solutions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Lecture slides",
+      "MATLAB/Octave code templates for practical exercises",
+      "Distributed computing simulation tools",
+      "Collaborative work scenario case studies"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

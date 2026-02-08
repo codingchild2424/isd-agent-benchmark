@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5943-V",
+  "variant_type": "context_variant",
+  "title": "Blended Education Course Based on Spaced Learning to Improve Medical Knowledge Retention",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning in a digital device-supported environment for current medical professionals, verifying the practicality of learning outcomes through project-based assessments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners will be able to accurately restate over 85% of core medical concepts after six months.",
+    "Learners will achieve a 20% or greater improvement in knowledge retention through spaced retrieval tests administered at three-month intervals.",
+    "Learners will maintain a participation rate of 90% or higher in weekly spaced learning modules delivered via a digital platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Management System (LMS)",
+      "Medical Simulation Software",
+      "Digital Tablet and eBook Materials",
+      "Weekly Spaced Learning Content Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

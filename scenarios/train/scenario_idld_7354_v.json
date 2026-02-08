@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7354-V",
+  "variant_type": "context_variant",
+  "title": "Simulation-Based Language Material Management Training for Digital Library and Repository Construction",
+  "context": {
+    "prior_knowledge": "Advanced digital library theory, advanced metadata techniques, and understanding of basic linguistic classification systems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical training through smartphone-based VR simulations, focusing on enhancing learners’ text analysis and digital resource management competencies.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners explain the basic components and operational processes of a digital library and understand systematic classification and preservation methods for language materials.",
+    "Learners accurately complete ≥90% of digital library standard metadata fields (five mandatory fields: author, title, publication year, subject keywords, language) in a VR simulation environment and complete the procedure of uploading three or more digital language materials to the designated platform.",
+    "Learners establish a plan for building a small-scale digital repository through team projects and propose strategies for integrated management of multilingual materials."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR Device Rental",
+      "Smartphone-compatible simulation app",
+      "Digital Resource Sample Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

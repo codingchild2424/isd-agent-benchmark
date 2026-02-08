@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1686-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Programming Practical Competencies: Task-Based Design Process for Improving Scientific Problem-Solving Abilities",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze causes of ambiguous situations in science experiment design with over 80% accuracy.",
+    "Learners can write step-by-step procedures for solving science problems with over 90% completeness by referencing work examples.",
+    "Learners can revise and improve ambiguities identified in their own experimental designs through peer evaluation at least three times."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

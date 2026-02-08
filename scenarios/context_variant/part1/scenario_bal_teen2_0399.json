@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0399",
+  "variant_type": "balance_teen_v2",
+  "title": "Diagnostic Assessment and Capacity Building for Physicians' E-Learning Readiness in K-12 Education",
+  "context": {
+    "prior_knowledge": "Basic digital device usage skills and experience with online learning",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Participants (pre-service/in-service teachers) engage in project-based learning (PBL) to develop actual diagnostic tools and derive improvement strategies, acquiring core competencies for e-learning system design and operation.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Systematically diagnose learners' e-learning readiness using online surveys and interview techniques",
+    "Based on diagnostic results, improvement plans can be established for each domain, including e-learning infrastructure, technical competencies, and attitudes.",
+    "Through PBL (Project-Based Learning) activities, customized educational strategies can be developed and implemented to enhance e-learning readiness."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online survey platform",
+      "Video Conferencing Tools",
+      "E-Learning Content Authoring Tool",
+      "Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

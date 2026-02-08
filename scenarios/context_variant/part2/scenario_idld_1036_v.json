@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1036-V",
+  "variant_type": "context_variant",
+  "title": "Web-Based Experimental·Theoretical Integrated Curriculum for Supporting Academic Transition of Adult Science Learners",
+  "context": {
+    "prior_knowledge": "High school-level basic science knowledge (use of laboratory equipment, variable control methods, understanding of basic chemical reaction equations) and scientific observation/analysis skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended curriculum combining real-time video lectures (experiment demonstrations and discussions) with web-based self-directed learning (virtual lab simulations, data analysis tools) in smartphone-limited settings. Systematic training from experimental design to evidence-based conclusions, emphasizing scientific reasoning and problem-solving skills.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "By the end of the 1-week course, learners explain five core scientific concepts required in vocational settings (e.g., thermodynamics laws, electrical circuit analysis, chemical reaction calculations) using scientific inquiry methods, design experiments with variables for three work-related scenarios, and demonstrate evidence-based conclusions through a summative exam (70%+ score) and practical assignment (3+ points/5 on rubric)",
+    "Learners conduct self-directed inquiry learning on web-based platforms to perform measurement data analysis, hypothesis verification, experimental procedure review, and advanced research",
+    "Learners collaborate with two peers using real-time tools (Figma/Miro) to complete a 3-phase (proposal-experiment-report) science experiment design project using recycled materials, achieving 4+ points out of 5 on the evaluation rubric"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Web-Based Learning Platform",
+      "Real-Time Video Conferencing Tools (e.g., Zoom)",
+      "Core Science Textbooks (PDF)",
+      "Project Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

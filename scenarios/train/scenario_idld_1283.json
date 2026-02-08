@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1283",
+  "variant_type": "idld_aligned",
+  "title": "Personalized Education and Continuous Assessment Design Using Intelligent Tutoring Systems",
+  "context": {
+    "prior_knowledge": "Foundational Knowledge in Social Studies and Online Learning Experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Requirement for semi-automated assessment tools due to learners' technological environment limitations (BYOD)",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify personalized learning materials tailored to their learning style and prior knowledge with 80% or higher accuracy via an Intelligent Tutoring System (ITS).",
+    "Learners can receive performance analysis at least twice a week using a real-time feedback system to adjust their learning strategies",
+    "Learners can achieve a score of 75 or above (out of 100) in the comprehensive evaluation at the end of the course"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Basic Online Meeting Tools",
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Semi-Automated Assessment Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8462",
+  "variant_type": "idld_aligned",
+  "title": "Learning Analytics-Based Customized Mathematics Learning Design Course",
+  "context": {
+    "prior_knowledge": "Basic mathematical concepts and experience in workplace application",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Mathematics Application Program for Enhancing Work Efficiency of Professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Personalized math learning patterns can be diagnosed with 80% accuracy using learning analytics data.",
+    "Establish analysis-driven math learning strategies by applying the Learning Design Triangle Model.",
+    "Design math learning modules tailored to specific job scenarios using the LA-CCDP framework."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Analytics Tools",
+      "BYOD-Compatible LMS",
+      "STEM case database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2093-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Competencies: Short-Term Program for Medical Students' Learning Competencies: Simulation/VR",
+  "context": {
+    "prior_knowledge": "No foundational medical knowledge, but possesses college-level academic experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participants can plan effective learning time (3-4 hours) per 1-hour lecture",
+    "Participants can apply diverse learning strategies—concept mapping, video utilization, peer teaching—with over 80% accuracy",
+    "Participants can utilize collaborative strategies in over two out of three instances when solving medical-related problems in VR simulation environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

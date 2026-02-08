@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1957-V",
+  "variant_type": "context_variant",
+  "title": "Adult Basic Mathematics Competency Enhancement Program Using Gamification",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Asynchronous online learning environment applying gamification strategies for adult learners struggling with job performance due to weak math foundations",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners achieve ≥80% formative assessment pass rates by utilizing gamification elements (experience points, level-ups, badges).",
+    "Learners form continuous learning habits by accessing the LMS ≥3 times weekly through weekly quest missions.",
+    "Learners complete team assignments with a group average score of ≥75 points through collaborative problem-solving missions.",
+    "Learners demonstrate ≥30% improvement in math concept comprehension compared to pre-assessments after participating in gamified learning activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Quiz/Discussion Board/Assignment Management Features)",
+      "Gamification Design Template",
+      "20 Math Concept Video Lectures",
+      "Automated grading system",
+      "Learner Mobile App (Optional)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

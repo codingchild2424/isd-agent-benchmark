@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4924",
+  "variant_type": "idld_aligned",
+  "title": "Virtual Reality-Based Mathematics Microlearning Design: Short-Term Intensive Workshops",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts, basic proficiency in VR device usage",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Secures accessibility via smartphone-based VR devices, provides real-time feedback through formative assessments",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain geometric concepts (e.g., calculating the volume of 3D shapes) with 80% accuracy using microlearning content under 5 minutes in iVR environments.",
+    "Learners can solve foundational algebraic equations (linear/quadratic) presented in interactive problems within VR simulations with 75% accuracy.",
+    "Learners can identify and select three or more formats optimized for their learning style among microlearning modules (text/video/presentation)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR viewer",
+      "360-degree video production tools",
+      "Cloud-Based Learning Management System (LMS)",
+      "Interactive Quiz Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

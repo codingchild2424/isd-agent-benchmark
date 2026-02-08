@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3651",
+  "variant_type": "idld_aligned",
+  "title": "Blended Learning MOOC for Changing Attitudes Toward Human Trafficking",
+  "context": {
+    "prior_knowledge": "Basic understanding of human trafficking concepts and awareness of social issues",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducted in smartphone-centric limited-technology environments, primarily targeting learners interested in social problem-solving such as students and job seekers",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will systematically explain the social context, causes, and consequences of human trafficking.",
+    "Learners can measure changes in attitudes toward human trafficking prevention through blended teaching methods (lectures/videos + individual projects) and write self-reflection reports.",
+    "After completing the MOOC, learners can develop practical action plans for human trafficking prevention and evaluate their feasibility."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Video Lecture Materials",
+      "Individual Project Template",
+      "Discussion Forum Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

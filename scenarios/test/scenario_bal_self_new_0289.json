@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0289",
+  "variant_type": "balance_self_filtered",
+  "title": "Self-Directed Virtual Learning Object Design for Nursing History Education: ADDIE-Based Online Learning Program",
+  "context": {
+    "prior_knowledge": "Basic nursing theory and understanding of healthcare systems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended Classes (Synchronous/Asynchronous Activities) Based on the MOODLE Platform, Utilizing Personal Devices for Learning Environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can systematically explain key events and figures in nursing history in chronological order.",
+    "Learners can analyze the impact of historical nursing cases on modern nursing practice on a case-by-case basis.",
+    "Learners can establish and implement self-directed learning strategies using virtual learning objects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MOODLE Learning Management System (LMS)",
+      "Multimedia content creation tools",
+      "Interactive Quiz Platform",
+      "Digital archive materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

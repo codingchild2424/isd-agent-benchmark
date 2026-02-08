@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2392",
+  "variant_type": "idld_aligned",
+  "title": "Example-Based Mathematical Problem-Solving Skill Enhancement Program",
+  "context": {
+    "prior_knowledge": "Understanding of middle school-level foundational mathematics concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Targeting entry-level professionals in medical, legal, and technical fields, focusing on cultivating mathematical problem-solving skills necessary for job performance",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve real-world scenario-based math problems by applying the example-problem sequencing model with 85% or higher accuracy",
+    "Learners can reproduce example learning content presented in simulation environments with 90% or higher accuracy",
+    "Learners can explain and revise logical steps in problem-solving processes three or more times in VR-based formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Content for Mathematical Problem Simulation",
+      "Interactive Whiteboard",
+      "Learning Outcome Analysis Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

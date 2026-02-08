@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7147",
+  "variant_type": "idld_aligned",
+  "title": "COVID-19 Critical Care Nursing Education Program",
+  "context": {
+    "prior_knowledge": "Fundamental nursing theory and clinical practice experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning-based education conducted in smartphone-centric limited-technology environments. Strengthened language domain application cases for pre-service/in-service teachers",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the procedures for using respiratory support equipment in COVID-19 critical care with 90% accuracy.",
+    "Learners can effectively write symptom assessments and nursing intervention plans for critically ill patients in case-based scenarios with over 80% accuracy.",
+    "Learners develop strategies to enhance practical skills by utilizing peer assessment and feedback systems in blended learning environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-Optimized Learning Materials",
+      "Virtual simulation tools",
+      "Case-Based Learning Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

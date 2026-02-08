@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5331",
+  "variant_type": "idld_aligned",
+  "title": "Cognitive Load Measurement and Optimization in VR Simulation Training",
+  "context": {
+    "prior_knowledge": "Basic proficiency in VR device operation and foundational health-related knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners participate in VR simulations via personal mobile devices; cognitive load is analyzed through real-time eye-tracking technology. The training gradually increases task difficulty in health management scenarios.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can measure cognitive load changes based on task difficulty in VR simulation environments using TEPRs (pupillary light reflex-corrected values).",
+    "Learners can develop the ability to analyze training effectiveness by comparing measured cognitive load data with self-assessment results.",
+    "Learners can understand the correlation between performance measurement and cognitive load in VR-based training and adjust training strategies accordingly."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Device and Eye-Tracking System",
+      "Optical Sensor Device",
+      "Mobile Learning Platform",
+      "Cognitive Load Survey Instrument"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

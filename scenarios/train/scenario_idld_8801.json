@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8801",
+  "variant_type": "idld_aligned",
+  "title": "IMS LD-Based E-Course Automatic Generation Design Workshop",
+  "context": {
+    "prior_knowledge": "Understanding of IMS LD core concepts, ELIDL language structure, and content packaging standards",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized instructional design competency enhancement for professionals in medical, legal, and technical fields.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design and implement three or more instructional method templates using ELIDL language",
+    "Acquire operational capabilities for an IMS LD-compatible automated learning scenario generation system",
+    "Complete an E-Course creation process combining domain ontologies with content packages"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ELIDL editor",
+      "IMS LD validation tool",
+      "Learning resource repository",
+      "Web programming sample content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3491",
+  "variant_type": "idld_aligned",
+  "title": "Short-Intensive Course on Machine Learning-Based Vibration Neural Network Design",
+  "context": {
+    "prior_knowledge": "Basic electronics, neural network theory, and Python programming experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Supporting smartphone-based mobile learning environments, with enhanced practical training through VR simulations",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "The basic principles of Oscillatory Neural Networks (ONN) can be explained and circuit models can be constructed.",
+    "Practical exercises are conducted to calculate junction resistance values by applying the Backpropagation Through Time (BPTT) algorithm.",
+    "A multilayer ONN classifier can be implemented with machine learning-based design and its performance can be evaluated."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible simulation tool",
+      "VR Learning Content",
+      "Open-source machine learning library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

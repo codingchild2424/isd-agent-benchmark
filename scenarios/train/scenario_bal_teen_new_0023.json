@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0023",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] EMI-Based University STEM Education Instructional Design Scenarios",
+  "context": {
+    "prior_knowledge": "Elementary STEM knowledge and intermediate or higher English proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "STEM education conducted in an EMI (English Medium Instruction) environment combining student-centered strategies and translanguaging. Practical learning environments are established using VR simulations.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can engage in English academic discourse for STEM subjects in EMI (English as a Medium of Instruction) environments",
+    "Learners can understand and express multidisciplinary content using translanguaging strategies",
+    "Learners can collaboratively perform real-world STEM problem-solving processes through VR simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment",
+      "Digital content authoring tool",
+      "EMI-STEM integrated lesson plan template",
+      "Multilingual support software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

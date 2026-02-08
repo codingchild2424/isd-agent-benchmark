@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0579",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] IMS LD-Based Language Learning Design Engine Development Course: Integrated Management of Grammar, Vocabulary, Pronunciation, and Scientific Assessment",
+  "context": {
+    "prior_knowledge": "Foundational language learning experience (basic reading, writing, and speaking skills) and digital device proficiency, along with basic understanding of scientific inquiry methods (observation, hypothesis formulation, variable control)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course focusing on implementing language learning flows using IMS LD standards in smartphone-centric, limited technological environments. It emphasizes personalized learning designs to enhance expressive skills and reading comprehension. Particular attention is given to comprehensive language proficiency development through text analysis, vocabulary expansion, and pronunciation assessment.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the basic principles of IMS LD-based learning design and language learning components (text structure analysis, vocabulary exposure frequency measurement, pronunciation evaluation criteria setting, etc.) using scientific inquiry methods.",
+    "Learners can simulate language learning flows (sequence of reading, writing, and speaking activities) and design evidence-based optimal learning pathways using Petri net models.",
+    "Learners can flexibly modify a learning design engine based on open architecture to apply it to various language learning scenarios (e.g., writing feedback systems, pronunciation correction modules) and implement personalized strategies to enhance individual expressive skills and reading comprehension.",
+    "Learners can analyze formative assessment results provided every four weeks to identify two or more of the three key language learning vulnerabilities (grammar error patterns, vocabulary-deficient areas, pronunciation issue types), collaborate with teachers/peers to establish a customized learning plan for the next four weeks (2 weekly vocabulary tests, 3 pronunciation practices, 1 grammar error analysis session), and achieve over 80% implementation rate of the plan and a 20% improvement in vulnerability areas."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "IMS LD Editor Toolkit",
+      "Open-Source Petri Net Simulator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2227",
+  "variant_type": "idld_aligned",
+  "title": "Workshop on Machine Learning Applications for Predicting Biodegradable Zinc Alloy Properties",
+  "context": {
+    "prior_knowledge": "Understanding of basic materials engineering and statistical analysis, and foundational programming skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Small-group collaborative learning environment aimed at strengthening predictive modeling competencies applicable to real-world tasks",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can build machine learning models to predict mechanical properties (UTS) and corrosion characteristics (CR) of biodegradable zinc alloys.",
+    "Learners can explore optimal compositions of Zn-Mn series alloys using real-time visualization interfaces.",
+    "Learners can quantitatively analyze the impact of characteristic variables (composition, heat treatment conditions, etc.) on UTS and CR."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Biodegradable Zinc Alloy Database",
+      "Python-Based Machine Learning Libraries (Scikit-learn, TensorFlow)",
+      "Jupyter Notebook Environment",
+      "Visualization Tools (Plotly/Dash)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

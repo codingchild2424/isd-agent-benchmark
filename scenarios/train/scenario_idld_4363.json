@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4363",
+  "variant_type": "idld_aligned",
+  "title": "Metacognitive Strategy Application and Academic Achievement Enhancement in Blended Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic language learning experience and ability to use digital learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A program for working professionals aiming to improve language proficiency, where learners access non-real-time modules via LMS on personal devices and attend periodic offline workshops",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can self-assess their learning processes at over 80% accuracy by applying metacognitive monitoring strategies in blended learning environments",
+    "Learners can set weekly learning goals and record their achievement status in a reflective journal at over 90% consistency",
+    "The experimental group achieves scores 15% higher than the control group in academic performance assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Metacognition Measurement Tool",
+      "Digital Learning Materials",
+      "Offline Workshop Space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

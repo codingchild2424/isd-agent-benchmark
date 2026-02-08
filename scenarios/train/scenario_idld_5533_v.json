@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5533-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Medical Practical Skills: Analysis of Online Science Learning Knowledge Structures Based on Flipped Learning",
+  "context": {
+    "prior_knowledge": "Comprehension of fundamental scientific principles and smartphone utilization skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Learners can create concept maps for weekly science topics with at least 80% completeness in a flipped learning environment.",
+    "Learners can diagnose their learning level by analyzing knowledge structure types (hub-and-spoke, small-scale network, large-scale network).",
+    "Learners can derive at least three strategies to enhance knowledge structure complexity by comparing concept maps with peer learners.",
+    "Learners can submit a science problem-solving project report applying knowledge structure analysis techniques in summative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

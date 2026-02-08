@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6865-V",
+  "variant_type": "context_variant",
+  "title": "Teacher Dashboard Design and Utilization Strategies",
+  "context": {
+    "prior_knowledge": "Basic operational experience with online education platforms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Fostering the ability to design and implement data-driven dashboards for decision-making in language education assessment environments that utilize learners' personal devices.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can describe a custom dashboard design framework for visualizing learning activity data in three or more stages.",
+    "Learners can design a dashboard prototype that performs educational effectiveness analysis using real classroom data.",
+    "Through a co-design process, at least two dashboard improvement proposals reflecting teacher requirements can be presented"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Analytics Tool",
+      "Data Visualization Software",
+      "Instructional Design Guidelines Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0910",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Computer-Based Medical Education Design: Enhancing Patient and Professional Competencies",
+  "context": {
+    "prior_knowledge": "Proficiency in basic medical terminology and possession of educational experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Participants have little or no prior experience in designing medical professional education and possess only basic proficiency in using computer-based educational tools.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design one patient education content piece using CBT (educational software) based on medical scenarios",
+    "Learners can develop interactive quiz modules grounded in adult learning principles",
+    "Learners can produce multimedia patient education materials (videos/infographics) compatible with mobile devices and PCs"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-Source CBT Authoring Tool",
+      "Free Medical Illustration Library",
+      "Digital Content Production Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

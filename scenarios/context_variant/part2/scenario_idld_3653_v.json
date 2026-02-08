@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3653-V",
+  "variant_type": "context_variant",
+  "title": "Large-Scale Online Learning Analytics and Effective Adoption Strategies Using LMS Tools",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course supporting advanced mathematics learners in systematically utilizing LMS tools. Learners independently schedule their use of LMS analytics, practice managing educational materials and applying assessment tools, and explore effective teaching strategies in large-scale online learning environments",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can visualize data from three or more lectures using core analytical tools in the LMS",
+    "Learners can diagnose the LMS utilization level of courses they are responsible for by applying the DOU (Depth-of-Use) model",
+    "Learners can design automation systems for attendance, assignments, and assessments in small-scale math lectures using LMS tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access Permissions for LMS (Learning Management System) Platforms",
+      "Virtual math lecture dataset",
+      "DOU measurement guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

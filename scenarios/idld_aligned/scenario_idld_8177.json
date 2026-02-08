@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8177",
+  "variant_type": "idld_aligned",
+  "title": "Workshop on Utilizing Knowledge-Based Architecture for e-Learning Design Support",
+  "context": {
+    "prior_knowledge": "Basic e-Learning Design Experience and Expertise in Scientific Disciplines",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Short-term intensive course for current science practitioners conducted in a smartphone-based real-time online environment, emphasizing evaluation of practical work application through project-based assessment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners will independently operate the e-learning design process at least 80% of the time using knowledge-based architecture components.",
+    "Learners will systematically classify and retrieve science education content using metadata management tools.",
+    "When designing real-time online activities based on collaborative learning theory, educational effectiveness will improve by at least 20%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Template",
+      "Open-Source Metadata Editor",
+      "Access to Science Field OER Repository"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

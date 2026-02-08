@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8008",
+  "variant_type": "idld_aligned",
+  "title": "Augmented Reality-Based Science Learning: Customized Design for Cognitive Load Profiles",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and ability to use smart devices",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Non-degree course for working professionals focusing on scientific concept exploration and problem-solving skills enhancement using AR technology",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify and explain their cognitive load profiles in AR-based science simulations.",
+    "Learners can explain over 70% of science concepts with accuracy using personalized AR learning strategies based on their profiles.",
+    "Learners can analyze differences between profiles through group activities and design collaborative learning scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR authoring software (Unity/ZSpace)",
+      "15 AR-compatible tablets",
+      "Science concept visualization 3D model library",
+      "Cognitive Load Measurement Questionnaire"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

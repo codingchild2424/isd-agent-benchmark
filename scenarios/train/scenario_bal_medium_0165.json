@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0165",
+  "variant_type": "balance_medium_scale",
+  "title": "Real-life Context-Based Mobile Mathematics Learning Design: Strengthening Language Domain Job Competencies",
+  "context": {
+    "prior_knowledge": "Understanding of elementary mathematical concepts and basic job-related data analysis skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Providing a simulation environment applying mathematical thinking within office/administrative contexts familiar to working professionals, with VR/simulations enabling learning in near-authentic workspaces",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze real-world workplace data (document volume, task time, etc.) using mathematical tools and apply findings to decision-making processes.",
+    "Use mobile devices and measurement applications to accurately calculate required metrics in work contexts and compare/verify results.",
+    "Solve work-related mathematical problems (e.g., budget allocation, resource optimization) through collaboration, enhancing social negotiation skills with peers."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PC",
+      "Measurement Application",
+      "VR Simulation Software",
+      "Workplace Context Problem Scenario Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

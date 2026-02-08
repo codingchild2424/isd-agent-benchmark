@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1338",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] VR-Based Digital Literacy-Enhanced Mathematics Education Design",
+  "context": {
+    "prior_knowledge": "Basic mathematical literacy and fundamental digital device operation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Education on visualizing mathematical concepts through VR content creation and collaboration in BYOD environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can recreate real-life problems in a 3D virtual space using mathematical modeling tools in a VR environment",
+    "Learners can improve VR-based math learning content through peer evaluation and feedback by applying digital media literacy",
+    "Learners can reinterpret math artifacts created with collaboration tools in virtual reality spaces according to diverse sociocultural contexts"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR headsets (10 units)",
+      "3D Modeling Software License",
+      "Cloud collaboration platform",
+      "Digital Assessment Rubric Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

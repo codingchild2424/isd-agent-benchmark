@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5429",
+  "variant_type": "idld_aligned",
+  "title": "Strategies for Mitigating Barriers to Self-Directed Online Science Learning (SPOL)",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific terminology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Provision of personalized feedback based on learning analytics and design of microlearning content optimized for mobile environments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can write self-reflection reports using learning analytics with over 80% accuracy within one week.",
+    "Learners can achieve over 70% weekly learning goal completion rates using a learning progress dashboard.",
+    "Learners can improve their learning strategies three or more times through peer feedback systems and AI tutoring."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Analytics Dashboard",
+      "AI-Powered Tutoring System",
+      "Mobile-Compatible Microlearning Modules"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

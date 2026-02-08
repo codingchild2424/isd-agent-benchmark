@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4842",
+  "variant_type": "idld_aligned",
+  "title": "Information Literacy Enhancement Program for Elementary Mathematics Learning",
+  "context": {
+    "prior_knowledge": "Understanding of Elementary Mathematical Concepts and Textbook Utilization Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Textbook-Based Learning in Smartphone-Centric Restricted Technology Environments, with Project-Based Assessment Evaluating Information Search and Utilization Skills",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can utilize diverse information sources (tables, graphs, cases) within textbooks to solve math problems with 80% accuracy.",
+    "Students can select at least three information types suitable for explaining math concepts by comparing digital/analog materials.",
+    "Students can proactively explore and utilize at least two supplementary information sources beyond teachers/textbooks during math projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mathematics Textbooks",
+      "Smartphone-Based Information Retrieval Tools",
+      "Offline Reference Worksheets",
+      "Mathematics Concept Card Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

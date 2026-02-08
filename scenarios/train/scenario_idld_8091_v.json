@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8091-V",
+  "variant_type": "context_variant",
+  "title": "Active Math Learning Design Through Outcomes-Based Education",
+  "context": {
+    "prior_knowledge": "Elementary arithmetic and basic algebraic concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended learning environment optimized for smartphone-based activities, where learners primarily demand practical job-focused education applicable immediately in professional settings",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can understand the core principles of Outcomes-Based Education (OBE) and explain the alignment between learning objectives, outcomes, and assessments.",
+    "Learners can apply mathematical concepts to real-world cases using active learning strategies (problem-solving, collaborative learning, etc.).",
+    "Learners can continuously improve learning outcomes based on formative assessment feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS Platform",
+      "Offline Worksheets (Printable Materials)",
+      "Basic Measurement Tools (Ruler, Protractor, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

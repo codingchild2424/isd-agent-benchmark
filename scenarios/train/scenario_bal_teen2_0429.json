@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0429",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Structural Equation Modeling (SEM) Methodology for Experimental Research in Language Education Technology: Exploring Latent Variables in Reading Comprehension and Expression Skills",
+  "context": {
+    "prior_knowledge": "Basic statistical analysis and research methodology understanding, familiarity with fundamental educational technology concepts, basic comprehension of language assessment tools (reading/writing tests, vocabulary tests, etc.), and text data processing experience.",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "An environment enabling access to smartphone-based language learning materials and simple statistical practice tools, including text analysis (word frequency, grammatical structure) and language data visualization (reading comprehension trends, expressive ability distribution). It supports integration with a database of K-12 learner language intervention cases.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze and explain causal relationships between measurement errors and latent variables (e.g., reading comprehension, expressive ability, lexical fluency) in language education technology experiment data using SEM.",
+    "Learners can structure a research design in three stages (problem definition, variable setting, model verification) to analyze the mediating effects of a language intervention program on vocabulary acquisition and grammatical understanding using SEM within four weeks and write a report receiving an average of 4 or higher on the \"research design validity\" item (5-point scale) from two peer reviewers.",
+    "Learners can compare differences between traditional experimental designs (MANCOVA) and SEM-based approaches to select appropriate analysis methods for language education data (e.g., text analysis results, assessment scores)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "SEM Software Trial Version (Smartphone-Compatible Web Version)",
+      "Educational Technology Experiment Case Dataset",
+      "Statistical Analysis Handout (Mobile-Optimized PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

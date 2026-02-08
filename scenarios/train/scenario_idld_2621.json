@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2621",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Design to Strengthen Medical Imaging Interpretation Competency",
+  "context": {
+    "prior_knowledge": "Fundamental knowledge of medical imaging interpretation and clinical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized curriculum design for in-service professionals, conducted in a BYOD (Bring Your Own Device) environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply video interpretation strategies that combine non-analytical reasoning (intuitive judgment) and analytical reasoning (systematic analysis) to real-world cases.",
+    "Learners can improve their accuracy in recognizing key video patterns by 20% through daily 30-minute learning using 5-minute microlearning content provided via a mobile platform.",
+    "Learners can correct and supplement over 80% of error cases presented in formative assessments through peer feedback and instructor coaching."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Medical Imaging Database",
+      "Mobile Learning Management System (LMS)",
+      "Interactive quiz tool",
+      "Case-Based Simulation Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

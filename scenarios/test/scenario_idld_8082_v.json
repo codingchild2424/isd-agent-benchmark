@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8082-V",
+  "variant_type": "context_variant",
+  "title": "Programming Practical Skill Enhancement: Mobile Microlearning-Based Introductory Programming Course",
+  "context": {
+    "prior_knowledge": "Basic programming concepts comprehension or office automation tool utilization experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain fundamental programming concepts such as variables, conditionals, and loops through 5-minute microlearning content",
+    "Learners demonstrate conceptual application skills by achieving at least 80% accuracy in interactive quizzes delivered in mobile environments",
+    "Learners achieve at least a 30% improvement in programming comprehension compared to pre-course assessments by the end of the course",
+    "Learners can design one work automation script by applying microlearning techniques learned in real-time sessions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

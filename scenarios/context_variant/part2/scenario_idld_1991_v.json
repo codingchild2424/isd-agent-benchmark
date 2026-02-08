@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1991-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design for Innovating Chemistry Education Using Computational Chemistry",
+  "context": {
+    "prior_knowledge": "Understanding of basic chemistry theory and laboratory skills, basic ability to use digital devices",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Computational chemistry training program for professionals in medical, legal, and technical fields. Requires modular design enabling real-time lectures and collaborative learning in smartphone-centric limited-technology environments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Develop the ability to simulate chemical reactions using molecular modeling software and interpret results.",
+    "Cultivate the skill to analyze computational chemistry data with visualization tools and compare it with experimental outcomes.",
+    "In an online assessment system (LMS, Google Classroom, etc.), learners can select ≥three self-directed learning strategies (e.g., weekly study planner, feedback reflection journal, peer assessment), apply them for two weeks, and achieve ≥4 points (5-point scale) in a learning efficiency survey."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Computational Chemistry Simulation Tool",
+      "LMS (Learning Management System) access rights",
+      "Offline Practice Tablet Rental Set",
+      "Server Resources for Educational Data Analysis"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

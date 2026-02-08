@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7596",
+  "variant_type": "idld_aligned",
+  "title": "College Mathematics Proficiency Enhancement Program Using Online Flipped Learning",
+  "context": {
+    "prior_knowledge": "Understanding of high school-level foundational mathematics concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students engage in blended asynchronous/synchronous classes using personal devices (BYOD) and perform math problem-solving activities based on the 5E instructional model.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can generate interest in mathematical topics and explain basic concepts through mobile-based asynchronous learning materials",
+    "Students can present collaborative problem-solving processes for complex mathematical problems with peers via real-time video sessions",
+    "Students can self-directly expand learning content in flipped learning environments and achieve over 80% proficiency in assessment tasks"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Video lecture production tools",
+      "Real-time collaboration tools (Padlet/Miro)",
+      "Mobile-Compatible Quiz System",
+      "AI feedback solutions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

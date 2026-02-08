@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1158",
+  "variant_type": "idld_aligned",
+  "title": "Metaverse-Based Mobile Language Learning Environment Design",
+  "context": {
+    "prior_knowledge": "Basic digital device usage skills and intermediate-level language proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Implementation of metaverse-based language learning in smartphone-centric limited technical environments, focusing on cultivating practical language skills applicable to workplace scenarios by professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "They can apply three or more communication strategies for work-related scenarios through role-playing in a metaverse platform.",
+    "They can complete a language project with peer learners using real-time collaboration tools in a virtual reality environment.",
+    "They can perform situation-based language learning using metaverse space navigation and avatar interaction functions with over 80% participation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Metaverse Platform",
+      "Interactive 3D Language Learning Scenarios",
+      "Smartphone-compatible VR viewer",
+      "Mobile Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

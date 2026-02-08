@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7861-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design for Early Childhood Programming Education: Project-Based Learning Approach",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematics and pedagogy, awareness of programming concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A structured course for pre-service teachers to systematically acquire and practice programming education methodologies for young children.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "One can explain educational strategies for utilizing programming blocks (ScratchJr) tailored to the cognitive characteristics of young learners.",
+    "One can design a programming education curriculum for young children by applying project-based learning (PBL).",
+    "One can apply methods to evaluate educational effectiveness by analyzing patterns of programming blocks selected by young learners."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based ScratchJr Application",
+      "Sample Programming Manipulatives for Early Childhood",
+      "Educational Case Study Video Resources"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

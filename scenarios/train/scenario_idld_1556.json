@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1556",
+  "variant_type": "idld_aligned",
+  "title": "Multimedia-Enhanced Microlearning for Continuing Engineering Education (CEE)",
+  "context": {
+    "prior_knowledge": "Foundational engineering theories and practical experience, proficiency in digital device utilization",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Modular learning, real-time feedback, and collaborative environments via mobile devices.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze text-based multimedia content for engineering problem-solving with 80% or higher accuracy.",
+    "Learners can create dynamic interactive graphics that simulate the engineering design process using drawings and diagrams",
+    "Learners can apply simulation VR in CEE-related practical scenarios to evaluate problem-solving strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "3D Modeling Software",
+      "VR Simulator",
+      "Engineering Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

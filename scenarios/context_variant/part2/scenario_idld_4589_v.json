@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4589-V",
+  "variant_type": "context_variant",
+  "title": "Serious Game-Based Elementary Mathematics Practical Competency Enhancement Course",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Course for elementary school teachers to acquire practical math instruction methods applicable in real classroom settings.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners enhance their ability to apply mathematical concepts by solving problems in a game environment simulating real classroom situations.",
+    "Learners master the process of analyzing mathematical tasks and designing/implementing solutions using an inquiry-based learning model.",
+    "Learners develop and practice learner-customized math instruction strategies through role-based tasks in game scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mathematics Educational Simulation Game Platform",
+      "Online Collaboration Tools",
+      "LMS-based learning management system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

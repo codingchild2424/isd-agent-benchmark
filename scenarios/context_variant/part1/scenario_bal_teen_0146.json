@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0146",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Foundations of Multimodal Feature Learning for RGB-D Scene Recognition",
+  "context": {
+    "prior_knowledge": "Basic understanding of fundamental computer vision concepts and machine learning",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Visual data analysis learning environment utilizing individual smartphones or tablets",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify RGB-D data components and explain camera sensor principles",
+    "Learners can implement a simple scene classification model by applying multi-scale/semantic feature extraction concepts",
+    "Learners can evaluate modality fusion strategies through correlation analysis between RGB-depth data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Machine Learning Framework",
+      "RGB-D Open Dataset Sample",
+      "3D Visualization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0672",
+  "variant_type": "idld_aligned",
+  "title": "Gamification-Based Intensive Short-Term 3D Graphics Software Course",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and experience with digital tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based assessment process in smartphone-centric, technology-constrained environments, with mathematics applied to understanding geometric principles in 3D modeling.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can create simple 3D objects (shapes, basic structures) using basic functions of 3D modeling software within a week.",
+    "Learners maintain learning engagement by completing over 80% of daily missions through gamification elements.",
+    "Learners complete personalized 3D projects by modifying over five templates provided through example-based learning (EBL)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized 3D software apps (Blender Mobile, Tinkercad Mobile)",
+      "Gamification platform mobile versions (e.g., Kahoot! or Classcraft)",
+      "3D example library (STL files and tutorial videos)",
+      "Mobile-Compatible LMS System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

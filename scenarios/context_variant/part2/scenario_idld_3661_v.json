@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3661-V",
+  "variant_type": "context_variant",
+  "title": "Masterclass on Mathematical Regularization Techniques for Neural Network Structure Optimization",
+  "context": {
+    "prior_knowledge": "Completion of in-depth studies and advanced project experience, foundational linear algebra and probability theory, and understanding of gradient descent and loss function optimization",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course for professionals in medical, legal, and technical fields to acquire efficient neural network design methods without complex modeling, emphasizing practical problem-solving skills through mathematical modeling and computational graph analysis.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Achieve over 90% training efficiency (computational optimization) by applying Jumpstart normalization techniques to a simple ReLU network structure.",
+    "Perform quantitative analysis (formula-based evaluation) of model performance using Dead Units and Linear Units metrics.",
+    "Learners can compare three normalization techniques (L1/L2 penalty, dropout probability, batch normalization mean-variance adjustment), implement an optimization strategy to reduce overfitting indicators (training accuracy - validation accuracy gap) to below 10% on a given image classification project, and submit a report with mathematical proof."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook Environment",
+      "TensorFlow/Keras Tutorial Dataset",
+      "ImageNet Benchmark Sample Data",
+      "UCI Tabular Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

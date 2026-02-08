@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8784",
+  "variant_type": "idld_aligned",
+  "title": "Programming Fundamentals Education Utilizing Computational Thinking",
+  "context": {
+    "prior_knowledge": "Comprehension of fundamental mathematics concepts and digital device usage skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Programming fundamentals course to enhance mathematical problem-solving skills for learners in managerial/leadership roles; cultivates practical application abilities via mobile-accessible microlearning content and project-based assessments in a BYOD environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Apply computational thinking processes to decompose real-world problems into algorithmic steps",
+    "Write and debug simple programming code using Python",
+    "Implement software solutions to solve mathematical problems through team-based projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Programming Learning Platform",
+      "Collaboration Tools (e.g., Slack/Notion)",
+      "Practice-Oriented Code Templates",
+      "Video Lecture Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

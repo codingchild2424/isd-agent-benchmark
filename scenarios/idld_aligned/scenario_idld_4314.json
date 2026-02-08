@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4314",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Student-Centered Online Mathematics Learning Course Design",
+  "context": {
+    "prior_knowledge": "High school-level foundational mathematics knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Personalized learner feedback and interactive content compatible with digital devices",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply basic statistical concepts for data analysis with over 80% accuracy.",
+    "Learners can solve calculus concept problems with over 70% accuracy using interactive tools provided in mobile environments.",
+    "Learners can clearly explain mathematical problem-solving processes with over 90% accuracy through peer evaluations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-Optimized Mathematics Simulation Tool",
+      "Automated grading system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

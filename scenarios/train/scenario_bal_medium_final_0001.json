@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-FINAL-0001",
+  "variant_type": "balance_medium_final",
+  "title": "English Listening Proficiency Diagnosis and Learning Support Using Computer-Based Dynamic Assessment",
+  "context": {
+    "prior_knowledge": "Basic English communication skills and foundational educational theory as a teacher",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Focuses on cultivating preservice/in-service teachers' ability to diagnose students' learning needs in English listening assessments and design personalized support strategies. Provides efficient learning experiences in mobile environments using personal devices (BYOD).",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Utilize C-DA (Computer-Based Dynamic Assessment) tools to accurately diagnose learners' English listening weaknesses across three categories: global comprehension, detail comprehension, and inferential comprehension",
+    "Learners must interpret auto-generated assessment results (learning potential score, diagnostic sub-scores) within one week and design at least two personalized feedback strategies (recommendation of additional learning materials or enhanced practice plans) for each of 10 learners. The strategies must meet at least three of the five rubric criteria (clarity, specificity, feasibility, appropriateness, creativity) and receive approval for 80% or more of the strategies during final evaluation.",
+    "Learners must use a mobile-based C-DA system to design a 5-stage instructional plan (needs analysis, content development, assessment tool design, feedback system establishment, effectiveness verification) for improving listening skills among large-scale adolescent learners (50+). They must develop a plan that achieves an \"excellent\" rating in at least two of the three rubric criteria: clarity, feasibility, and innovativeness."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "iSpring Quiz Maker or Similar C-DA Platform",
+      "Mobile Device-Compatible LMS",
+      "English Listening Assessment Item Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

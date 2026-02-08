@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3890-V",
+  "variant_type": "context_variant",
+  "title": "Functional Modeling of Derivative Concepts and Integrated GeoGebra Simulation Education",
+  "context": {
+    "prior_knowledge": "Foundational calculus and engineering mathematics knowledge, including basic differentiation concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhancing procedural and conceptual understanding of differential concepts applicable to workplace tasks for current practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can connect visual changes in functions to differential concepts using GeoGebra simulations.",
+    "Learners can accurately calculate and interpret derivatives across multiple representations (geometric, algebraic, applied).",
+    "Learners can convert real-world problems into mathematical models and propose solutions using differentiation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GeoGebra Mobile Application",
+      "LMS (Learning Management System)",
+      "Microlearning Content Creation Tool",
+      "Formative Assessment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

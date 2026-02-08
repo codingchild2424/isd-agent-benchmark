@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6775",
+  "variant_type": "idld_aligned",
+  "title": "Content and Language Integrated Learning (CLIL)-Based Social Studies Course Design",
+  "context": {
+    "prior_knowledge": "Basic social science knowledge and elementary foreign language proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learner role: student, domain expertise: beginner, technological environment: digital devices provided, assessment method: summative assessment-centered.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain social studies content in a foreign language (English/French) with 80% or higher accuracy.",
+    "Learners can apply 70% or more of language correction feedback provided in reflective sessions to their final presentations.",
+    "Learners can design social problem-solving models in a foreign language (English/French) with peers using digital collaboration tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital Collaboration Tools",
+      "Foreign Language Dictionary/Grammer Guide",
+      "Social Studies Content Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

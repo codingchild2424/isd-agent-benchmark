@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6993-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing AI Practical Competencies: ICT Competency Development for 21st-Century Teachers: Mathematics Subject Integration",
+  "context": {
+    "prior_knowledge": "Basic experience in using digital tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain five core ICT competencies based on the ICT-CFT framework and apply them to math instruction.",
+    "In an LMS environment, it is possible to produce educational materials (quizzes, videos, images) using only mobile devices",
+    "Based on learner analysis, three or more criteria can be presented for selecting digital tools for visualizing mathematical concepts"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

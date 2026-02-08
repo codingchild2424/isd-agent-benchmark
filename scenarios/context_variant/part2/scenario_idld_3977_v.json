@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3977-V",
+  "variant_type": "context_variant",
+  "title": "Spatial Consistency Learning Strategy for Enhancing Object Detection Performance",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Training for practitioners on the application of AI technology within corporate settings.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze spatial characteristics of ambiguous regions (Decoy Objects) that occur in object detection",
+    "Learners can explain the differences between conventional loss functions and spatial consistency loss (SCLoss)",
+    "Learners can simulate SCLoss application cases through microlearning in mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Module",
+      "Object Detection Dataset Sample",
+      "Visual Analysis Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

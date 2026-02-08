@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1706-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Design Pattern-Based Online Language Course Design",
+  "context": {
+    "prior_knowledge": "Intermediate language proficiency and basic digital literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design systematic online language courses using design patterns in a Virtual Learning Environment (VLE).",
+    "Learners can develop three or more mobile-optimized learning activity modules.",
+    "Learners can submit practical language course prototypes through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

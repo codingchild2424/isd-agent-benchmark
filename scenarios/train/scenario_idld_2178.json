@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2178",
+  "variant_type": "idld_aligned",
+  "title": "Foundational E-Learning Course for Clinical Problem Solving",
+  "context": {
+    "prior_knowledge": "Understanding Basic Medical Terminology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-Centered Education Based on Real Clinical Cases",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze various clinical scenarios to identify core problems with 80% accuracy",
+    "Learners can construct and explain diagnostic protocols with at least three steps tailored to given clinical situations",
+    "Learners can perform treatment planning simulations with peer learners using collaboration tools in e-learning platforms"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account",
+      "Clinical Scenario Database",
+      "Virtual patient simulation software",
+      "Online Collaborative Whiteboard Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

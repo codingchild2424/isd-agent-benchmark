@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0066",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Engineering Modeling and Simulation Inquiry-Based Learning Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic engineering principles and physics, along with fundamental computer literacy",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in smartphone-based limited technological environments, verifying learning effectiveness through project-based assessment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners select one appropriate modeling technique from three provided by the PhET simulation tool for a given engineering problem (e.g., bridge structure design), implement the simulation within 10 minutes, and submit problem-solving results as screenshots.",
+    "Analyze simulation results to predict system behavior and compare/contrast differences with real-world phenomena.",
+    "In teams of three, learners complete a bridge or circuit design project within five days, applying all five stages of the engineering design process (problem definition → idea generation → prototype creation → testing → improvement) and write a results report (3+ pages)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Video Lectures, Discussion Board)",
+      "Mobile-Friendly Simulation Tools (PhET, MATLAB Mobile, etc.)",
+      "Open-Source Engineering Datasets",
+      "Collaboration Tools (Google Docs/Slides)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

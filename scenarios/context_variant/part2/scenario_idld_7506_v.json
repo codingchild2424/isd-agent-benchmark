@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7506-V",
+  "variant_type": "context_variant",
+  "title": "Data Science Practical Competency Strengthening: Social Constructivist-Based Approach for Enhancing Core Palliative Care Capabilities",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge and patient counseling experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply three or more core palliative care ethical principles (respect for autonomy, pain relief, fairness, etc.) to VR simulation scenarios.",
+    "Learners can collaborate with interdisciplinary team members to implement patient-family-centered communication strategies in VR environments.",
+    "Learners can achieve over 85% appropriateness scores in palliative care decision-making processes through simulation-based formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

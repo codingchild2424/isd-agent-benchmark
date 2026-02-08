@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0806",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Course for Strengthening Clinical Problem-Solving Competency",
+  "context": {
+    "prior_knowledge": "Basic Medical Knowledge and Clinical Practice Experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A short-term intensive course conducted in a smartphone-based limited technology environment, designed to bridge the gap between clinical practice and theoretical learning.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can derive three or more key problem elements by analyzing real clinical cases.",
+    "Learners can propose appropriate diagnostic and treatment plans for given clinical scenarios with over 80% accuracy.",
+    "Learners can improve their problem-solving process through iterative cycles (2+ times) incorporating peer feedback and tutor evaluation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Case Video",
+      "Mobile Quiz Platform",
+      "PDF Case Study Compilation",
+      "Real-Time Discussion Channel"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

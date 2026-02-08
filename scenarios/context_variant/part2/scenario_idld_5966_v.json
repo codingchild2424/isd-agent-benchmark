@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5966-V",
+  "variant_type": "context_variant",
+  "title": "Blended Learning Design and Application for Corporate Science Education",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A teaching competency enhancement program for pre-service or in-service teachers, aiming to strengthen advanced job skills in science through blended learning with digital devices. Learning outcomes are measured via summative assessments, with a flexible schedule enabling work-life balance.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Learners can accurately analyze and interpret scientific experimental data using a blended learning platform (online modules + offline workshops).",
+    "Learners can apply 80% or more of the theories acquired through self-directed learning to practical projects (scientific tasks within enterprises).",
+    "Learners can design and simulate experimental processes using digital tools (e.g., virtual lab simulators)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science lab simulator software",
+      "Online Learning Management System (LMS)",
+      "Experimental kit for offline workshops"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

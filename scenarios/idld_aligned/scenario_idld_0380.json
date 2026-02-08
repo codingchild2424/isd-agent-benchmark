@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0380",
+  "variant_type": "idld_aligned",
+  "title": "Interactive Information Literacy Education for Practitioners: Mathematical Data Analysis Simulation",
+  "context": {
+    "prior_knowledge": "Basic statistical concepts and experience using data visualization tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners are practitioners required to make data-driven decisions in fieldwork, with a collaborative learning environment utilizing personal devices (BYOD).",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply criteria to evaluate the credibility of information sources with 85% accuracy in simulation environments.",
+    "Learners can explain a multi-step (three or more) process for interpreting mathematical data analysis results through VR-based interactive tutorials.",
+    "Learners can write reports applying misinformation identification strategies to real-world cases (medical/financial fields) through gamified assessment missions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headsets (10 Sets)",
+      "BYOD-Compatible Simulation Software",
+      "Mathematics-Based Data Analysis Sample Datasets (3 Types)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

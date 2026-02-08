@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2603",
+  "variant_type": "idld_aligned",
+  "title": "Online Course for Strengthening Basic Competencies in Refrigeration and Air Conditioning Fundamentals",
+  "context": {
+    "prior_knowledge": "Understanding of basic electrical circuit concepts and operation of simple measurement tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice simulation-centered education via smartphone-based LMS, with formative assessments to monitor step-by-step learning outcomes.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the basic principles of the refrigeration cycle (compression-condensation-expansion-evaporation) with 80% accuracy",
+    "Successfully assemble a simple electrical wiring circuit three consecutive times using smartphone simulation tools",
+    "Operate three preset modes (ON/OFF) of a basic PLC interface with 100% accuracy"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "3D Simulation Module for Refrigeration Systems",
+      "Augmented Reality (AR) Electrical Wiring Content",
+      "PLC Virtual Manipulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4951-V",
+  "variant_type": "context_variant",
+  "title": "Short-Intensive Training for Enhancing VR-Based Spatial Visualization Skills",
+  "context": {
+    "prior_knowledge": "Fundamental understanding of 3D geometry and PC/mobile device operation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "VR gamified learning emphasizing spatial thinking training required in language domains (e.g., translation, writing)",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners reduce task completion time for 3D object rotation/rearrangement in VR environments by 40% within one week.",
+    "Learners improve accuracy in solving language problems (e.g., sentence structure analysis) using spatial visualization skills by 30%.",
+    "Learners achieve an average performance improvement of Cohen’s d ≥ 0.5 in VR-based spatial cognition tests."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset Rental Service",
+      "Spatial Visualization Game App License",
+      "fNIRS-Based Alternative Cognitive Load Measurement Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

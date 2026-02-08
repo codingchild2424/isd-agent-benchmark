@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM2-0027",
+  "variant_type": "balance_medium_final",
+  "title": "Interactive Online Tutorials for Strengthening Foundational Information Literacy Skills",
+  "context": {
+    "prior_knowledge": "Basic reading skills and digital device usage proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Undergraduate social studies education conducted in a smartphone-centric, limited-technology environment. Applies a formative assessment-driven feedback system",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain a three-step verification process for identifying credible information sources",
+    "Learners can use academic search tools to curate at least five key resources relevant to a given topic",
+    "Learners can apply four criteria for analyzing bias in information sources to write an evaluation report"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "QR Code-Based Activity Resources",
+      "Offline worksheet package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

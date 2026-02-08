@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2305-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Software Development Practical Competencies: Project-Based Learning for Optical Planar Waveguide Characterization",
+  "context": {
+    "prior_knowledge": "Basic optical theory and hands-on experience with experimental equipment",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can assemble waveguide-specific experimental systems and explain optical coupling principles",
+    "Students can measure planar waveguide refractive index and mode characteristics with 95% accuracy using an automatic prism coupler system",
+    "Students can document optical system design processes and create presentation materials by analyzing experimental data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

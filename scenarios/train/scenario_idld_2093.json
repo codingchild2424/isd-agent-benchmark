@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2093",
+  "variant_type": "idld_aligned",
+  "title": "Medical Student Learning Preparation Program: Efficient Learning Skill Development",
+  "context": {
+    "prior_knowledge": "Familiarity with basic medical terminology and biology/chemistry concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized learning strategy program for academically vulnerable medical school applicants (geographic/economic/cultural backgrounds)",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can develop realistic study plans of 3–4 hours per 1-hour lecture.",
+    "Learners can apply at least three efficient learning strategies using concept maps, video materials, and peer teaching.",
+    "Learners achieve at least 80% of daily learning goals in a mobile-based microlearning environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Management System (LMS) Access",
+      "Digital Note-Taking Application",
+      "Concept Mapping Software",
+      "Medical Video Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

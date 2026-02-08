@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0477",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Remote Sensing Image Caption Generation: Self-Learning-Based Language Generation Solution Design and Evaluation",
+  "context": {
+    "prior_knowledge": "Fundamental machine learning concepts, experience in processing remote sensing data, understanding of deep learning model architectures, basic natural language processing (NLP) concepts and text generation models, knowledge of English/Korean grammatical structures and basic vocabulary, and foundational vocabulary comprehension related to remote sensing domains (topography, vegetation, artificial structures, etc.)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "In a simulated environment, learners practice high-quality natural language caption generation with limited labeled data and explore methods to improve model performance through self-learning algorithms. They concurrently evaluate linguistic quality (grammar, vocabulary, coherence, expressiveness) of generated captions and analyze semantic consistency between images and text. Special emphasis is placed on caption generation using remote sensing domain-specific vocabulary (e.g., terrain, vegetation, artificial structures). Learners comprehensively assess the accuracy and naturalness of generated captions based on their reading comprehension and text analysis skills.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Applying self-supervised learning (SFRC) to a limited remote sensing image dataset, learners can improve natural language captioning model accuracy by ≥20%, cultivating abilities to evaluate text-image consistency, grammatical correctness, and domain-specific vocabulary appropriateness.",
+    "Learners can design feature extractors using BYOL-based self-supervised learning and evaluate generated captions for lexical diversity, grammatical accuracy, coherence, and expressiveness.",
+    "Within three weeks, learners can implement a teacher-student self-distillation process in a Python-based simulation environment, achieve ≥85% accuracy on validation data, and submit a learning curve analysis report with 3 performance metrics (accuracy, loss, convergence speed). Additionally, they can evaluate 20 generated captions using a 5-point rubric (≥4 per item for coherence, relevance, expressiveness) and assess remote sensing-specific vocabulary use."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Public Remote Sensing Image Dataset",
+      "VR/Simulation Software Licenses",
+      "Distributed Computing Resources"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

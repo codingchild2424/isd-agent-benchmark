@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4908-V",
+  "variant_type": "context_variant",
+  "title": "Graphic Organizer Strategies for Medical Education: Comparative Study of Learning-by-Doing vs. Learning-by-Watching",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires mobile-optimized content enabling workplace learning. Design of smartphone-based learning activities for environments without PC access",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners achieve scores of 80% or higher in knowledge retention tests conducted one month later",
+    "Learners achieve 3 out of 4 points or higher on a structured thinking assessment rubric when creating graphic organizers",
+    "Learners can comparatively analyze preferences and effectiveness between two teaching methods (learning-by-doing vs. learning-by-viewing)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Microlearning Platform",
+      "Medical Concept Visualization Template",
+      "Automated Grading Diagnostic Assessment System",
+      "Collaborative Learning Management Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

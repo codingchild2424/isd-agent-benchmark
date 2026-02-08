@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0858",
+  "variant_type": "idld_aligned",
+  "title": "Project-Based Hybrid Mode Education Program for Simulation Learning and XR Solution Development",
+  "context": {
+    "prior_knowledge": "Basic proficiency in digital tools and foundational knowledge in educational technology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Emphasizes strengthening the ability to understand XR-based educational content production processes in limited technological environments (primarily smartphones) and develop simulation learning modules applicable to language education domains",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can produce one or more language education simulation contents using XR solution development tools (e.g., mobile AR/VR apps).",
+    "Learners can complete the planning-production-evaluation process of educational digital content through collaboration in a project-based blended learning environment.",
+    "Learners can explain how to apply smartphone-based XR technology to language education scenarios and adapt them to actual classroom contexts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible XR Development Platforms (e.g., Unity Reflect, CoSpaces Edu)",
+      "Open-Source 3D Modeling Tools (e.g., Blender)",
+      "Cloud-Based Collaboration Tools (e.g., Google Workspace)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

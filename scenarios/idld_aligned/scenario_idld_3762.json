@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3762",
+  "variant_type": "idld_aligned",
+  "title": "Data Structure Visualization Learning Based on the Split-Attention Effect",
+  "context": {
+    "prior_knowledge": "Understanding of basic programming and data structure concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Microlearning design for working learners, considering utilization of non-working hours and ensuring accessibility via personal devices (BYOD)",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain connected list node diagrams and actual code implementations with over 80% accuracy by synchronizing them.",
+    "Learners can practice pointer manipulation processes with over 90% engagement using visualization tools based on the split-attention effect.",
+    "Learners can improve data structure learning gaps by at least one level on a three-tier scale through formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Visualization Tool",
+      "Step-by-Step Worksheet",
+      "Automated Scoring Formative Assessment System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0932",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Technology-Enhanced Learning Exploration: Elementary Social Studies Field Inquiry Project",
+  "context": {
+    "prior_knowledge": "Basic Digital Tool Proficiency and Fundamental Understanding of Community Structures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A program for elementary teachers to strengthen field-learning competencies in social studies, emphasizing technology-supported outdoor learning within daily living environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can collect and analyze accessibility data for five or more local community facilities using mobile survey tools.",
+    "Learners can create and present augmented reality content for three or more historical sites using an AR map application.",
+    "Learners can collaboratively write and submit one or more field study reports in small groups (5-6 members) using LMS collaboration tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone/tablet devices",
+      "Mobile data collection app (e.g., Google Forms)",
+      "AR content creation tool (e.g., Spark AR)",
+      "Community mapping resources",
+      "LMS collaboration platform (e.g., Google Workspace)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

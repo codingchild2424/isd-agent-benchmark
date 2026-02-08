@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0320",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-directed] Activity-Based Learning Design for Strengthening Programming Fundamentals",
+  "context": {
+    "prior_knowledge": "Basic arithmetic and understanding of logical structures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Need to improve the ability to apply abstract concepts based on practical experience",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can design and implement five or more basic algorithms using sequential logic, conditional statements, and loops.",
+    "Within 24 hours of completing a learning activity, learners receive feedback and achieve an error correction rate of 80% or higher.",
+    "At the end of the course, 85% or more of learners achieve continuous submission of weekly programming assignments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Whiteboard",
+      "Printed sample code",
+      "Smartphone-compatible learning platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

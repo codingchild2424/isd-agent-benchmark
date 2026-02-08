@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3823",
+  "variant_type": "idld_aligned",
+  "title": "Physical Chemistry Equilibrium Constant Measurement: Mobile-Guided Inquiry Learning",
+  "context": {
+    "prior_knowledge": "Basic interpretation of chemical reaction equations, calculation of solution concentrations, and understanding principles of conductivity measurement",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Operation of a digital device-based experimental simulation and mobile platform-supported report writing feedback system",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Conductivity meters can be used to accurately measure conductivity data of acetic acid equilibrium systems.",
+    "Experimental data can be analyzed graphically and equilibrium constants (K) can be calculated scientifically.",
+    "Report improvement points can be derived from peers, teaching assistants, and automated evaluations according to a 360° feedback system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Laboratory Simulation App",
+      "Conductivity Data Analysis Template",
+      "Feedback Rubric",
+      "Acetic Acid Equilibrium Theory Video Tutorial"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

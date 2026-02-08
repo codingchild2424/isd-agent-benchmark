@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0289",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Spatial Ability Training for STEM Education: Restricted vs. Unrestricted Rotation Training",
+  "context": {
+    "prior_knowledge": "Fundamental knowledge of geometry and basic understanding of three-dimensional shapes",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Training program for pre-service/in-service teachers to enhance spatial abilities required in STEM education, featuring lightweight mobile-optimized content and formative assessment-based learning effect monitoring",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can improve spatial cognition ability by at least 20% through restricted rotation training of 3D shapes.",
+    "Learners achieve problem-solving speeds at least 15% faster with restricted rotation training compared to unrestricted rotation training.",
+    "Learners can accurately predict and explain shape deformations under various rotation conditions (restricted/unrestricted)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible 3D Modeling App",
+      "Rotational Training Digital Worksheet",
+      "Spatial Ability Assessment Quiz Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

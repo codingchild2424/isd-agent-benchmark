@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4461-V",
+  "variant_type": "context_variant",
+  "title": "Animation-Based Microlearning for Understanding Pendulum Clock Mechanisms",
+  "context": {
+    "prior_knowledge": "Fundamental physics concepts (force, motion, energy) and mathematical graph interpretation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "10-minute modular learning accessible via personal devices, combining animations and quizzes to enhance concentration.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can explain the interaction of the three core components (weight, pendulum, gears) that constitute the operating principle of a pendulum clock.",
+    "Students can quantitatively analyze temporal changes in physical phenomena by adjusting animation speed.",
+    "Students can connect the concept of pendulum periodicity to mathematical graphs when explaining the timekeeping mechanism of a clock."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Pendulum Clock Animation",
+      "Mobile Learning App with Adjustable Speed Functionality",
+      "Real-Time Feedback Quiz System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

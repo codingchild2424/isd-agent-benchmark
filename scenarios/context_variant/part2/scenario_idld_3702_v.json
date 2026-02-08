@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3702-V",
+  "variant_type": "context_variant",
+  "title": "Design of Customized Learning Management Systems: Development of Adaptive Learning Strategies in Social Education Contexts",
+  "context": {
+    "prior_knowledge": "Advanced educational technology theory and high-level LMS skills, with foundational knowledge of social education curriculum design",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "System design prioritizing personalized content delivery optimized for social education (e.g., civic consciousness, multicultural understanding) by analyzing individual learning patterns and performance data. Reinforces practical Moodle plugin design experience through project-based assessments, considering both pedagogical validity and social applicability",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners Can Explain the Design Process of a Plugin Implementing Adaptive Learning Restrictions Suitable for Social Education Curricula on the Moodle LMS",
+    "Learners Can Set Personalized Activity Restriction Conditions Reflecting Performance Ranges and Learning Styles and Design Rules Applicable to Social Contexts (e.g., Civic Education or Cultural Understanding Modules)",
+    "Learners Can Develop One Prototype of a Plugin Applicable to Real-World Instructional Design Scenarios (e.g., Digital Literacy Education for Adults or Community Problem-Solving Programs) Through a Week-Long Project-Based Assessment and Submit a Functional Output Meeting at Least Four of Five Functional Testing Checklist Items"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Moodle Test Environment",
+      "Learning Data Sample Set",
+      "Plugin Development Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

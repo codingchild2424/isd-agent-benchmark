@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2787",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Course on Laryngeal Anatomy",
+  "context": {
+    "prior_knowledge": "Understanding of basic biology and human anatomy",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Applying customized 3D visualization content and ARCS motivation theory-based CAI design for adult learners aged 40+",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Over 85% of learners can accurately identify the location of vocal cords and thyroid cartilage using a 3D laryngeal structure module",
+    "After CAI learning, an average satisfaction score of 4.0/5.0 or higher is achieved in the IMMS motivation survey",
+    "Over 90% of learners submit creative case reports linking laryngeal structure and function in project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Laryngeal Animation",
+      "Interactive Quiz System",
+      "Mobile-Compatible LMS (Learning Management System)",
+      "ARCS-Based Motivation Enhancement Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

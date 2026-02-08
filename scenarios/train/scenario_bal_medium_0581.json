@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0581",
+  "variant_type": "balance_medium_scale",
+  "title": "Engineering Education Design Utilizing Computer-Supported Collaborative Learning",
+  "context": {
+    "prior_knowledge": "Basic engineering concepts and fundamental computer application skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Corporate in-service training program conducted in smartphone-centric limited-technology environments. Operated through a blended approach combining theoretical learning and practical activities",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can understand basic network management concepts and apply them to real-world cases.",
+    "Learners can effectively perform collaborative activities with peers using CSCL (Computer-Supported Collaborative Learning) tools.",
+    "Learners can experience a collaboration-based problem-solving process through learning design tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-Source-Based Collaborative Learning Tools",
+      "Mobile-Compatible Learning Management System",
+      "Collaborative Activity Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

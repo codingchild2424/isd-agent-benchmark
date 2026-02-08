@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1664",
+  "variant_type": "idld_aligned",
+  "title": "Short-Term Course Using WBVO Videos for Foundational Accounting Understanding",
+  "context": {
+    "prior_knowledge": "Basic mathematical computation skills and experience with basic computer/smartphone usage",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducted in smartphone-centric limited-technology environments, targeting general citizens interested in accounting but lacking systematic learning experience. Utilizes WBVO videos as supplementary materials with real-time sessions as the core",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the principles of double-entry bookkeeping through WBVO videos and accurately prepare five basic journal entries.",
+    "Learners can identify at least three components of financial statements (income statement, balance sheet) using visualization techniques from WBVO videos in online real-time classes.",
+    "Learners can explain the budgeting process step-by-step through case analysis based on WBVO videos in formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible WBVO (White Balance Verification Object) creation tool",
+      "LMS (Learning Management System) Core Features",
+      "Zoom Screen Sharing Feature",
+      "Simple accounting casebook PDF"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

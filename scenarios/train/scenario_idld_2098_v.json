@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2098-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Digital Competency Development Program for Future Science Teachers",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participants can explain six strategies for integrating digital technology into lesson design: role modeling, reflection, instructional design, peer collaboration, authentic technology experiences, and continuous feedback",
+    "Participants can create at least three digital contents (quizzes, simulations, virtual labs) applicable to science classes (chemistry/biology) using smartphone-based tools",
+    "Participants can collaborate with peer teachers to develop digital technology-integrated lesson scenarios and incorporate real-time feedback",
+    "Participants can conduct at least two digital technology-applied teaching practicums per semester in real school settings and maintain reflective journals"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

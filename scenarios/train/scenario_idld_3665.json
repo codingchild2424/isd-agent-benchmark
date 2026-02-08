@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3665",
+  "variant_type": "idld_aligned",
+  "title": "Instructional Design Strategies Based on SWOT Analysis of LMS Adoption in Iranian Medical Schools",
+  "context": {
+    "prior_knowledge": "Basic understanding of educational technology and general concepts of LMS (Learning Management Systems)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A program analyzing LMS implementation cases for pre-service/in-service mathematics teachers in digital device environments to strengthen instructional design capabilities",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify SWOT analysis factors to consider when introducing an LMS with over 80% accuracy.",
+    "Learners can specify at least three concrete strengths and weaknesses of an LMS in a given scenario.",
+    "Based on analysis results, learners can propose at least two applicable strategies for LMS-based math education design."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "SWOT analysis casebook",
+      "LMS feature comparison chart",
+      "Qualitative analysis template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

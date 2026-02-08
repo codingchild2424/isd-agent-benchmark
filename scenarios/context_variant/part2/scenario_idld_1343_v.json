@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1343-V",
+  "variant_type": "context_variant",
+  "title": "IMS Learning Design-Based Online Language Education Operation Simulation",
+  "context": {
+    "prior_knowledge": "Possession of basic language proficiency and practical application experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Experience with structured learning operation processes using IMS LD in smartphone-centric limited-technology environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze IMS LD-based learning scenarios and structure learning activities with 80% or higher accuracy in simulation environments",
+    "Learners can operate progress tracking and messaging systems for learner groups with 90% participation rates through VR simulations",
+    "Learners can fully implement 100% of summative assessment items using smartphone-based learning management tools in resource-constrained technical environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IMS Learning Design (IMS LD) Template",
+      "Mobile-Compatible VR Simulation Platform",
+      "Group Activity Management Tool",
+      "Automated Assessment System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

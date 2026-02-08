@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4990",
+  "variant_type": "idld_aligned",
+  "title": "Learning Analytics-Based Assessment Validity and Mathematics Learning Design Improvement Course",
+  "context": {
+    "prior_knowledge": "Comprehension of elementary mathematics curriculum content and fundamental principles of assessment design",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A program for pre-/in-service elementary teachers, strengthening the capacity to improve assessment tools and design personalized learning by analyzing mathematical learning achievement.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately diagnose the validity of math assessment items with over 80% accuracy using learning analytics tools.",
+    "Learners can optimize assessment item scores (within ±10% deviation) through learning objective (LO) weight analysis.",
+    "Learners can design three or more personalized learning feedback strategies based on student activity tracking data.",
+    "The results of clustering analysis can be interpreted to propose educational interventions necessary for addressing learning gaps."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Learning Analytics Dashboard",
+      "Simplified Learning Outcome (LO) Mapping Template",
+      "Visualization Materials for Zoom Screen Sharing"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

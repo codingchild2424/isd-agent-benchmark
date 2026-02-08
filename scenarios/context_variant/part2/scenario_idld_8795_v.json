@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8795-V",
+  "variant_type": "context_variant",
+  "title": "Evidence-Based STEM Problem-Solving Competency Enhancement Microlearning",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Daily 15-minute modular learning using personal devices, emphasizing STEM problem-solving strategies applicable in elementary education.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can systematically analyze real-world problems following the scientific inquiry process",
+    "Learners can perform evidence-based decision-making processes with at least 80% accuracy",
+    "Learners can collaboratively propose actionable design solutions for STEM problem-solving with peers"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible interactive content",
+      "Virtual Lab Simulation Tool",
+      "Peer Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7606",
+  "variant_type": "idld_aligned",
+  "title": "Learning Style-based Personalized Instructional Design: Social Domain Microlearning Application",
+  "context": {
+    "prior_knowledge": "Understanding of basic social science concepts and experience in diagnosing learning styles",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires tailored pedagogical design to effectively deliver social science theories in smartphone-based limited-technology environments, with formative assessment-driven real-time feedback.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can diagnose and explain their preferred learning styles using the VARK model.",
+    "Learners can select social studies microlearning content tailored to their learning styles and complete it with at least 80% proficiency.",
+    "Learners can analyze the effectiveness of teaching methods by learning style through peer assessment and propose implementation strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "VARK Online Diagnostic Tool",
+      "Microlearning Modules by Learning Style (Text/Audio/Infographic/Simulation)",
+      "Real-Time Survey Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

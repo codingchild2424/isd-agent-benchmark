@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1033-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Nonlinear System Observer Design: KKL Observer and Machine Learning",
+  "context": {
+    "prior_knowledge": "Foundations of control theory, nonlinear system modeling, state-space representation, basic machine learning concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the design principles of KKL observers in nonlinear systems and analyze the impact of time delays",
+    "Describe the design of observer chains using injective state transformations and the process of proving exponential stability",
+    "Implement neural network-based observer transformation coefficient estimation methods in a simulation environment",
+    "Quantitatively evaluate the impact of measurement delays/noise/learning errors on system observability performance"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

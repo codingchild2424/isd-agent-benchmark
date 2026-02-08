@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2009-V",
+  "variant_type": "context_variant",
+  "title": "Remote Simulation-Based Clinical Competency Enhancement Education Program",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducted in an environment where digital devices (tablets/PCs) are provided, learners engage in pre-learning via LMS followed by simulations and debriefings on real-time video platforms",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "In severe patient management scenarios, clinical decision-making can be performed with 80% accuracy using remote simulation.",
+    "Healthcare professionals' emotional competencies can be analyzed on a three-level scale using virtual patient assessment tools.",
+    "Combining asynchronous LMS learning with synchronous debriefing enables the identification and correction of three or more clinical errors."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Fidelity Simulator Software",
+      "Video Conferencing Platform (Zoom/Teams)",
+      "LMS System",
+      "Standardized Patient Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

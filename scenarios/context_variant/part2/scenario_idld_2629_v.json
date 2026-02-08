@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2629-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Competencies: Integrating Emotional Dimensions in Learning: Science and Emotion",
+  "context": {
+    "prior_knowledge": "Elementary science education knowledge and project-based learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify positive/negative emotions arising during science project execution and develop management strategies.",
+    "Learners can propose at least three instructional strategies integrating emotional elements when designing lessons combining student-centered activities and direct instruction.",
+    "Learners can apply methods to maintain learning motivation and enhance performance through peer feedback in PBL processes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0348",
+  "variant_type": "idld_aligned",
+  "title": "Blended e-Learning Course for Evidence-Based Medical Practice Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Foundational Clinical Medicine Knowledge and Basic Research Methodology Concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized course for healthcare professionals primarily using smartphones, combining real-time sessions with mobile-optimized learning materials",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the five-step Evidence-Based Medicine (EBM) process—formulating questions, literature search, critical appraisal, application, and evaluation—with 80% accuracy.",
+    "Learners can construct research questions using the PICO framework (Patient/Population, Intervention, Comparison, Outcome) based on real clinical scenarios.",
+    "Learners pass formative assessments that critically evaluate research papers provided on a smartphone-based platform and determine their applicability to practice with at least 75% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Real-Time Video Conferencing Tool",
+      "Evidence-Based Medicine (EBM) Case Database",
+      "Interactive Quiz Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

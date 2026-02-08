@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1037",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Introductory Java Programming Course Utilizing Visual Output",
+  "context": {
+    "prior_knowledge": "Fundamental computer literacy and logical reasoning skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners use personal devices to engage in both practical and theoretical learning outside the classroom, intuitively understanding programming concepts through visual outputs",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can implement a simple shape-drawing program by applying basic Java syntax using Turtle Graphics.",
+    "Learners can generate visual outputs with animation effects using loops and conditional statements.",
+    "Learners can write and debug programs that design complex patterns using arrays and nested loop structures."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MJava Library",
+      "Turtle Graphics Tool",
+      "Online Coding Platform",
+      "Visual Learning Guide (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0318",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Modality Principle-Based Arabic Learning Simulation Design",
+  "context": {
+    "prior_knowledge": "Foundational understanding of Arabic script and pronunciation, intermediate language learning experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Personalized language learning utilizing VR simulations and multimedia tools in BYOD environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately produce pronunciations of 200 Arabic words in a VR environment combining audio and image modalities",
+    "Learners achieve over 15% higher word recall rates in audio-based simulations compared to text-based methods",
+    "Learners achieve over 80% accuracy in Arabic sentence structure analysis through modality principle-based simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Custom VR Content Creation Tool",
+      "Multimedia Audio-Image Database",
+      "BYOD-compatible learning management system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

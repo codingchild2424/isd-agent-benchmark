@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1500",
+  "variant_type": "idld_aligned",
+  "title": "Ethical Design Education Curriculum Based on Sensitive Design Scenarios",
+  "context": {
+    "prior_knowledge": "Basic principles of design, understanding of science education methodologies, and fundamental proficiency in digital tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Educational design incorporating real-life problems to cultivate ethical design thinking among pre-service teachers",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze ethical dilemma scenarios and evaluate their impact on design decisions.",
+    "Learners can propose prototype designs and improvements that reflect sensitive user needs.",
+    "Learners can apply an ethical framework throughout the design process to produce critical reflection reports."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-optimized text materials",
+      "Digital collaboration tools (Google Jamboard, etc.)",
+      "Case database (medical/educational fields)",
+      "Asynchronous feedback system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

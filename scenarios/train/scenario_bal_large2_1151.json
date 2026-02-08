@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1151",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Pre-Service Teacher Competency Enhancement Program Through Game-Based Science Learning",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental science concepts and foundational pedagogical knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Implementation of a dual learning structure where learners and teachers simultaneously perform dual roles in a digital device-provided environment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design and evaluate game-based learning activities to measure cognitive learning outcomes in science subjects.",
+    "Learners can analyze changes in the affective domain (interest, motivation) by utilizing game elements (levels, rewards, feedback).",
+    "Learners can comprehensively evaluate the effectiveness of game-based instruction by applying the Kirkpatrick evaluation model and the CRESST learning model."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Licensed Science Education Game Platform",
+      "LMS-Integrated Analytics Tool",
+      "Game Development Template",
+      "Digital Content Production Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

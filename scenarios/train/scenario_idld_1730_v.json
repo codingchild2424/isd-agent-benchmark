@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1730-V",
+  "variant_type": "context_variant",
+  "title": "Interactive Multimedia Learning Program for Understanding Electrochemistry",
+  "context": {
+    "prior_knowledge": "High school-level foundational chemistry knowledge (atomic structure, chemical equations, etc.)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Modular design optimized for smartphone-based learning, incorporating work-integrated case studies for professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "One can comprehensively explain oxidation-reduction reactions occurring in electrochemical cells at macroscopic, microscopic, and symbolic levels.",
+    "One can analyze real-time simulations of electrochemical phenomena and predict experimental results using IMMPA.",
+    "Learners can solve calculation problems related to electrolysis and cell reactions with over 80% accuracy through step-by-step guidance provided by a pedagogical agent."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Web-Based IMMPA Content",
+      "Mobile-Optimized Simulation Tool",
+      "LMS-Integrated Quiz System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

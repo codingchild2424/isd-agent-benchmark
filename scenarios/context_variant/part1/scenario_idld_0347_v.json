@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0347-V",
+  "variant_type": "context_variant",
+  "title": "Pharmacy Education Program for Enhancing Clinical Reasoning Skills Using Virtual Reality",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short-term course for adults over 40 to strengthen medication management and patient care competencies through VR-based clinical scenario experiences",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze various clinical scenarios presented in a VR environment and select appropriate medications for patient symptoms.",
+    "Learners can apply three or more communication strategies to improve medication adherence through interactions with virtual patients.",
+    "Learners can perform procedures for managing drug interactions and side effects with an accuracy rate of 80% or higher through VR simulations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset Rental System",
+      "Pre-built clinical scenario database",
+      "Zoom Account & Webinar Tools",
+      "Interactive VR Learning Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

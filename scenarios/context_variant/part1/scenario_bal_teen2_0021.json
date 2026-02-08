@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0021",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Branched Interactive Video-Based Learning of Core Biology Concepts",
+  "context": {
+    "prior_knowledge": "High school-level biology basics and fundamental understanding of protein synthesis processes",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A classroom environment enabling smartphone-based video viewing, with real-time feedback via formative assessments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Through branching video simulations, learners can explain core concepts of each cell division stage with ≥80% accuracy",
+    "Learners correctly select experimental variables in the protein purification process ≥3 times using decision points within videos",
+    "Based on interactive activity outcomes, learners present ≥2 biological problem-solving strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone Charger",
+      "Offline Video Playback USB Drive",
+      "Branching Video Content",
+      "Simple Experimental Tool Model"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

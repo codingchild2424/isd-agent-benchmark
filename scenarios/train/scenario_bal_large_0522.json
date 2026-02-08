@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0522",
+  "variant_type": "balance_large_scale",
+  "title": "Large-Scale Inquiry-Based Genetic Modeling: Understanding Molecular-Cellular-Genotypic-Phenotypic Connections",
+  "context": {
+    "prior_knowledge": "Basic life science concepts (cell structure, DNA structure) and high school-level genetics knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Some educational participants are completing teaching credentials, while others are prospective graduates preparing for careers in life sciences.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Constructing a schema that integrates the three tiers of genetic models (inheritance, meiosis, and molecular mechanisms)",
+    "Using virtual lab tools (e.g., Punnett Square Simulator, Hardy-Weinberg Calculator), learners can analyze five or more genetic phenomena (e.g., Mendelian inheritance, incomplete dominance, codominance) and derive predictive results with over 90% accuracy through Punnett squares and gene frequency calculations.",
+    "Learners can simulate gene expression mechanisms (promoter, transcription, translation) using digital modeling tools (e.g., CellDesigner, COPASI) and write reports explaining the gene-editing principles of the CRISPR-Cas9 system linked to three or more real-world applications (e.g., gene therapy, crop improvement)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "PhET Simulation (Genetics Module)",
+      "Bioinformatics Toolkit (NCBI Database Access)",
+      "3D DNA Modeling Software",
+      "Online Collaborative Whiteboard (Miro)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

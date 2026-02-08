@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1648-V",
+  "variant_type": "context_variant",
+  "title": "Game-Based Mobile Language Training: Utilizing Real-Time Cues and Pre-Learning Videos",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and game interface usage experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Microlearning course for in-service professionals to improve language skills, requiring a design that combines gamification and real-time feedback in smartphone environments, with flexible scheduling considering learners' work commitments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Through game mission performance, learners can appropriately utilize over five specialized language expressions per week in situational contexts.",
+    "By leveraging real-time cues, learners can achieve over 80% accuracy in in-game decision-making.",
+    "Through pre-training videos, learners can reduce core information search time during game-based learning by 30%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Game-Based Learning Platform",
+      "Pre-Training Video Production Tool",
+      "Real-Time Feedback System",
+      "Formative Assessment Item Bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

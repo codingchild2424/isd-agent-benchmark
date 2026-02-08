@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1279-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design Scenarios for a Data Science in Healthcare MOOC",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A competency-enhancement course in medical data analysis conducted in smartphone-centric limited technological environments, designed for learners to acquire practical skills through projects using real medical data.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Conducting a project to analyze patient diagnosis patterns using medical data visualization tools.",
+    "Learners Can Apply Basic Statistical Techniques (Mean, Standard Deviation, Correlation Coefficients) to Medical Datasets (e.g., Patient Diagnosis Records, Treatment Effect Data) to Derive Key Trends (Median, Distribution) and Correlations Between Variables (p-Value ≤ 0.05) and Write Reports Visualizing Results (Histograms, Scatter Plots)",
+    "Proposing solutions to healthcare field problems through data-driven decision-making processes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS System",
+      "Anonymized medical data sample sets",
+      "Open-source data analysis tools (Google Sheets, Datawrapper, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

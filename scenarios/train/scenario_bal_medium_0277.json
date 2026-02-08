@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0277",
+  "variant_type": "balance_medium_scale",
+  "title": "VR-Based Collaborative Engineering Simulation Learning Course",
+  "context": {
+    "prior_knowledge": "Foundational math and engineering concepts comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners engage in collaborative simulations using smartphone-based VR devices, with a focus on accumulating practical engineering problem-solving experiences.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain three engineering design principles through collaborative problem-solving in VR environments.",
+    "Learners can perform mathematical calculations (area, angle, distance, etc.) with 90% accuracy via simulation-based projects.",
+    "Learners can present three or more stages of the engineering problem-solving process through real-time collaboration with peers."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Device (e.g., Cardboard)",
+      "Collaborative Simulation Platform License",
+      "Learning Management System (LMS) Access Permissions",
+      "VR Content Creation Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

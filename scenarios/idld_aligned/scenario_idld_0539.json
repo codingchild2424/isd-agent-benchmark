@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0539",
+  "variant_type": "idld_aligned",
+  "title": "TPACK-Based Blended Software Testing Education Program",
+  "context": {
+    "prior_knowledge": "Foundational programming and mathematical logical thinking skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A practical curriculum combining the TPACK framework and project-based learning to overcome the limitations of traditional theory-centered education. It establishes testing strategies through personal device utilization in a BYOD environment and mathematical modeling.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the application of software testing principles (boundary value analysis, equivalence partitioning, etc.) to mathematical models",
+    "Learners can design and execute test cases for real-world projects using technological elements (test automation tools) of the TPACK framework",
+    "In blended learning environments, learners can identify and improve over 80% of defects in testing projects through peer assessment and feedback systems"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "JUnit/TestNG and Other Test Automation Tool Licenses",
+      "Online Collaboration Platform (e.g., GitHub Classroom)",
+      "Offline Training Testbed Server"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

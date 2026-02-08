@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0981-V",
+  "variant_type": "context_variant",
+  "title": "Language Identification of Social Media Code-Mixed Texts: Simulation-Based Learning",
+  "context": {
+    "prior_knowledge": "Basic natural language processing concepts and foundational understanding of machine learning",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Focuses on hands-on practice analyzing real social media data via VR simulations in smartphone-centric limited-technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the deep learning model architecture for word-level language identification in Hindi-English code-mixed texts",
+    "Compare and analyze the characteristics of code-mixed texts across social media platforms (Facebook, Twitter, WhatsApp)",
+    "Implement code-mixed text processing workflows using smartphone-based VR simulations in resource-constrained technical environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Code-mixed text dataset",
+      "Mobile VR learning content",
+      "BLSTM model sample code"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

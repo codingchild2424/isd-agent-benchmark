@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4946-V",
+  "variant_type": "context_variant",
+  "title": "Fuzzy Constraint Learning for Parameterized Programming Problem Solving",
+  "context": {
+    "prior_knowledge": "Comprehension of Basic Programming Concepts and Elementary Linear Algebra Knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in a mobile-based microlearning environment utilizing personal devices (BYOD). Acquiring parameter optimization techniques applicable to language domains (translation/NLP)",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can explain the solution process for parameter programming problems using fuzzy constraint modeling techniques.",
+    "Students can implement constraint clustering and generalization processes based on ANFIS (Adaptive Neural-Fuzzy Inference System) using simulation tools.",
+    "Students can solve SVM classifier margin optimization problems through fuzzy logic-based constraint intensity analysis."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible simulation tool",
+      "ANFIS Implementation Example Dataset",
+      "SVM-Fuzzy Integrated Demo Package",
+      "Mobile Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

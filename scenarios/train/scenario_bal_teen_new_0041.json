@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0041",
+  "variant_type": "balance_teen_filtered",
+  "title": "K-12 4C/ID-Based Mobile Microlearning for Prescription Skill Integration",
+  "context": {
+    "prior_knowledge": "Knowledge of basic medical terminology and understanding of drug mechanism of action",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Context-specific prescription simulation using digital devices and peer feedback system implementation",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain logical connections between patient symptoms and medication prescriptions with ≥80% accuracy.",
+    "Learners can systematically develop a prescription plan for complex patient cases in stages, following the procedural information of the 4C/ID model.",
+    "Learners reduce medication interaction judgment errors by 50% through part-task practice involving three or more scenarios provided in a mobile environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible simulation tool",
+      "Clinical Decision Support System (CDSS) Dataset",
+      "Peer assessment rubric template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

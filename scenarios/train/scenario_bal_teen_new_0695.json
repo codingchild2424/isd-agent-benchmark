@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0695",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Advanced Chemistry Laboratory Education Course Based on Virtual Reality",
+  "context": {
+    "prior_knowledge": "University-Level Foundational Chemistry Theory and Laboratory Experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A graduate-level chemistry lab education course supplemented with VR technology, emphasizing integration with actual laboratory environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform key experimental procedures (measurement, reaction observation, data recording) with 90% accuracy via 360-degree chemistry lab simulations in VR.",
+    "Learners can identify and explain three similarities and differences by comparing VR experiment results with actual lab data.",
+    "Learners master all five core safety protocols at 100% proficiency through VR-based formative assessments (quizzes, interactive problems)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset (15 Sets)",
+      "360-Degree Chemistry Lab VR Content",
+      "Laboratory Safety Manual",
+      "Interactive Quiz Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

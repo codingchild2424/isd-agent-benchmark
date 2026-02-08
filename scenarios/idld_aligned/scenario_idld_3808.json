@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3808",
+  "variant_type": "idld_aligned",
+  "title": "Metadata-Driven Instructional Design for Extracting Digital Learning Objects",
+  "context": {
+    "prior_knowledge": "Digital instructional material development and basic understanding of instructional design theories",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A large-scale teacher training program conducted in a smartphone-based limited technology environment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can systematically extract learning objects from various digital materials (HTML, Word documents, etc.).",
+    "Learners can explain methods to restructure extracted learning objects into educational resources by applying metadata.",
+    "Team-based collaboration in mobile environments enables the design and evaluation of language education learning modules."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Open-source metadata editing tool",
+      "Sample digital textbook materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

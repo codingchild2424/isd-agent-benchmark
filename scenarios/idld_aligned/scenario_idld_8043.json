@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8043",
+  "variant_type": "idld_aligned",
+  "title": "Digital Storytelling-Based Mathematical Affective Learning Course",
+  "context": {
+    "prior_knowledge": "Basic mathematical knowledge at the primary and secondary education levels",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Microlearning program for relearning mathematical concepts to enhance workplace efficiency, utilizing digital storytelling to strengthen emotional engagement in a mobile-based learning environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain mathematical problem-solving processes in digitally presented workplace scenarios with ≥80% accuracy.",
+    "Learners can achieve an average score of ≥3.5 (on a 4-point scale) for emotional responses (empathy/engagement) in storytelling-based formative assessments.",
+    "Learners can improve self-reflection and emotional awareness levels by ≥20% compared to baseline when writing storytelling assignments incorporating mathematical concepts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform (LMS)",
+      "Interactive storytelling templates",
+      "Formative assessment tools with sentiment analysis capabilities",
+      "Visualization content for mathematical concepts",
+      "Mobile devices (institution-provided)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

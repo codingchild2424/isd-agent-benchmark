@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8174",
+  "variant_type": "idld_aligned",
+  "title": "VR Utilization and Spaced Learning Strategy Design in Organizational Training",
+  "context": {
+    "prior_knowledge": "Basic Scientific Knowledge and Understanding of Organizational Work Processes",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Hybrid environment utilizing VR and 2D video content for security scenario-based training resembling real-world conditions",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can evaluate science-based procedural knowledge with over 80% accuracy after training using VR and 2D video.",
+    "Learners demonstrate effective information processing by reducing cognitive load by 20% through the application of a spaced learning strategy.",
+    "Learners record 4 points or higher (on a 5-point Likert scale) in post-training Technology Acceptance surveys."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "2D Video Production Equipment",
+      "LMS (Learning Management System)",
+      "Cognitive Load Measurement Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

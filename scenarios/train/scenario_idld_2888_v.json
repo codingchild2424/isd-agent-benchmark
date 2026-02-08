@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2888-V",
+  "variant_type": "context_variant",
+  "title": "Conceptual Database Modeling Design and Formative Assessment-Based Learning Monitoring",
+  "context": {
+    "prior_knowledge": "Basic database structures and SQL application experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A practice-oriented curriculum for current professionals, integrating online/offline learning environments using digital devices for workplace application.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design an Entity-Relationship Diagram (ERD) with over 85% accuracy",
+    "Learners can correct modeling errors by over 50% based on formative assessment feedback",
+    "Learners can achieve the passing criteria three times consecutively in project-based assessments reflecting real-world work scenarios"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ERD Design Tool License",
+      "Formative Assessment Analysis Platform",
+      "Practical Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

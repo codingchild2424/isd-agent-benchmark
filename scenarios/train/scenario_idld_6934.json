@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6934",
+  "variant_type": "idld_aligned",
+  "title": "CMC-Based Elementary Foreign Language Collaborative Learning Course",
+  "context": {
+    "prior_knowledge": "Basic foreign language comprehension (greetings, daily conversations, etc.)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Beginner Italian course for in-service elementary school teachers, combining offline classes with CMC (Computer-Mediated Communication) activities using digital devices (tablets/laptops).",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "With over 80% accuracy, learners can write topic-specific opinions on online discussion boards using the target language (Italian).",
+    "Through CMC collaboration with peer learners, learners can interpret and summarize over 70% of provided text materials.",
+    "Over 16 weeks, learners participate in at least three multi-forum activities (role-play, feedback, open discussion) and achieve a 20% increase in language confidence index."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital devices (10 tablets/laptops)",
+      "Online Learning Management System (LMS)",
+      "Multilingual CMC tools (Padlet, Discord, etc.)",
+      "Beginner Italian textbooks and cultural materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

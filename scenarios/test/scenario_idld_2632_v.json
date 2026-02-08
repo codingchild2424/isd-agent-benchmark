@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2632-V",
+  "variant_type": "context_variant",
+  "title": "Web-Based Computer Science Laboratory Education: FTP Protocol Practice-Centered",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Delivery of mobile-friendly content optimized for smartphone-based learning environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the basic operational principles of the FTP protocol through a web-based experimental environment",
+    "Learners can execute actual FTP commands (e.g., PUT, GET, LIST) in a mobile environment to perform file transfer processes",
+    "Learners can analyze experimental results to propose response strategies for network error scenarios"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Web-Based FTP Experiment Simulator",
+      "Step-by-Step Laboratory Guide (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

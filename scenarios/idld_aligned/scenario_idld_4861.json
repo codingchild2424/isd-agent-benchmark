@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4861",
+  "variant_type": "idld_aligned",
+  "title": "Music-Based Children’s English Learning Instructional Design Simulation",
+  "context": {
+    "prior_knowledge": "Possession of basic English grammar and vocabulary knowledge, no music education experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Environment enabling smartphone-based VR content utilization, providing math teachers with training linked to children's English teaching methodologies",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain methods for acquiring over 50 children’s English vocabulary items using music activities.",
+    "Learners design grammar instruction plans (e.g., simple present tense, imperative sentences) utilizing rhythm patterns and melodies.",
+    "Learners execute music-integrated lesson scenarios at least three times in smartphone-based VR simulation environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Children’s English Music Library",
+      "VR Simulation Platform",
+      "Mobile-compatible authoring tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

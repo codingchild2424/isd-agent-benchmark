@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7146-V",
+  "variant_type": "context_variant",
+  "title": "Simulation-Based Lifeboat Steering Training and Skill Transfer Education",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-Centered Training for In-Service Professionals. Utilizes Smartphone-Based Simulation Tools",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can complete lifeboat launch and navigation simulations with 80% accuracy.",
+    "Learners can transfer and apply 70% or more of the skills acquired in training scenarios to new emergency simulations.",
+    "Learners can diagnose their steering performance capabilities based on a three-tier evaluation system (debugging–improvement–optimization) using simulation data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Simulation Platform",
+      "Contextual Virtual Training Scenario Package",
+      "Real-Time Feedback Analysis Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

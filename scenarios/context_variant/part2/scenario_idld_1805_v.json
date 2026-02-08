@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1805-V",
+  "variant_type": "context_variant",
+  "title": "Applied Learning-Based Language Education Design for Online Vocational Teachers",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Project-based learning integrating theory and practice in real-world vocational settings for in-service vocational teachers or job seekers, utilizing collaboration tools and providing real-time feedback in a BYOD environment",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can design language education modules using applied learning models in online environments.",
+    "Learners can develop interactive language tasks aligned with real-world vocational training scenarios.",
+    "Learners can analyze the effectiveness of instructional design and suggest improvements through peer evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom/Google Meet Account",
+      "Collaborative Platform (Notion/Miro)",
+      "Language Education Template Resources",
+      "Real-Time Polling Tool (Mentimeter)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

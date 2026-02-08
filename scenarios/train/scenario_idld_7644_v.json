@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7644-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Management Strategy Practical Competencies: Deep Learning-Based Optimal Model for Single-Image Rain Removal",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for Corporate Management/HR Professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Explain the rain removal and detail restoration process using DSDNet’s dual-stream architecture",
+    "Establish model optimization strategies through interaction analysis between rainfall distribution and feature responses",
+    "Implement region-specific focused learning techniques using a rainfall mask prediction module",
+    "Conduct model performance validation applying image quality assessment metrics (PSNR, SSIM)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Business Simulation Tool",
+      "HR Management System",
+      "Business Analytics Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

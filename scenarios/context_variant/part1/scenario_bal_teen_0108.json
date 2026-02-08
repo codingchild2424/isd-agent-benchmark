@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0108",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Automated Machine Learning Pipeline Implementation with Domain-Specific Scripting Languages",
+  "context": {
+    "prior_knowledge": "Basic machine learning concepts, experience with Python or similar languages, foundational knowledge of linear algebra/probability theory",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Microlearning content optimized for smartphone-based learning environments, providing hands-on tools executable in mobile settings without complex installations",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Automated machine learning pipelines can be designed using DSL (Domain Specific Language) syntax",
+    "The optimization principles of genetic algorithms (Genetic Programming) can be explained and applied to pipeline design",
+    "Mobile-based pipeline prototypes can be implemented in constrained technical environments, and performance evaluation reports can be generated"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized DSL Interpreter",
+      "Pre-Configured Machine Learning Dataset Samples",
+      "DSL Grammar Guide (PDF)",
+      "Mobile-Compatible Visualization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1326-V",
+  "variant_type": "context_variant",
+  "title": "Energy Sustainability and Gamification: MOOC-Based Short-Intensive Course",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Interactive learning environment combining energy sustainability core concepts with gamification strategies for high school and university students preparing for professional careers",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles and societal impacts of renewable energy systems",
+    "Learners can achieve over 15% higher course completion rates by incorporating gamification elements (challenges, badges, leaderboards)",
+    "Learners can design sustainable energy selection strategies through a weekly energy consumption simulation game"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Gamification Platform (LMS-Integrated)",
+      "Energy Data Visualization Tool",
+      "Real-time collaborative whiteboards (Miro, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4948",
+  "variant_type": "idld_aligned",
+  "title": "AHP-PSO-Based Instructional Design for Optimizing Music Education Objective Systems",
+  "context": {
+    "prior_knowledge": "Foundational music theory and understanding of research methodologies",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-oriented course for analyzing and optimizing higher-education-level music education goal systems.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze the hierarchical structure of the 4D 18-metric music education goal system using the Analytic Hierarchy Process (AHP) method.",
+    "Learners acquire the ability to optimize the AHP Consistency Ratio (CR) to 0.05 or lower using the Particle Swarm Optimization (PSO) algorithm.",
+    "Learners can create an instructional design plan that reflects the top three weighted cognitive processes (reasoning 0.5723, recall 0.5276, discrimination 0.5192)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AHP-PSO Integrated Analysis Software",
+      "Music Education Objective Assessment Questionnaire",
+      "Online Collaboration Tool (e.g., Miro)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0294-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Programming Competency: BIM and IFC-Based Architectural Digital Transformation Education",
+  "context": {
+    "prior_knowledge": "Basic knowledge of architectural design and construction, with experience using CAD software",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain core concepts of BIM processes and IFC standards with 80% or higher accuracy",
+    "Learners can perform basic modeling tasks using BIM software (Revit, ArchiCAD, etc.) in mobile environments",
+    "Learners can apply data interoperability solutions using IFC file formats to real-world cases",
+    "Learners design collaboration-based BIM project workflows and achieve 70% or higher success rates in team simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

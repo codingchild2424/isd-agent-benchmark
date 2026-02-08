@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0927-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Skills: Integrated STEM Leadership Development Using Design-Based Instructional Methods",
+  "context": {
+    "prior_knowledge": "Understanding fundamental science, technology, engineering, and mathematics (STEM) concepts and organizational management experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can plan integrated STEM projects for solving social issues by applying the design thinking process.",
+    "Learners can execute prototyping processes using digital fabrication technologies such as 3D printing.",
+    "Learners can manage team projects in a collaborative learning environment based on distributed cognition theory.",
+    "Learners can design task-specific STEM education programs by applying the 4C/ID model."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

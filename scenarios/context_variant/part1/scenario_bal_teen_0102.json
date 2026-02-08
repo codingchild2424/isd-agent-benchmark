@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0102",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Gamification-Based Strategies for Improving Mathematics Learning Outcomes",
+  "context": {
+    "prior_knowledge": "Basic mathematical computation skills and experience using online learning platforms",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in a smartphone-centric limited-technology environment, emphasizing math concepts applicable to daily life due to the characteristics of job-seeking learners",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can improve accuracy in solving basic math problems by 30% through online activities embedded with gamification elements (competition, rewards).",
+    "Learners can evaluate their own learning processes using metacognitive strategies in game-based learning environments and propose at least two improvement strategies.",
+    "Learners achieve an average accuracy rate of over 80% in quiz activities with competitive elements and enhance their ability to utilize peer feedback during collaborative learning."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible Quiz Platform (e.g., Kahoot)",
+      "PDF-Based Learning Module",
+      "Real-Time Chat Functionality"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1216",
+  "variant_type": "idld_aligned",
+  "title": "Development and Application of Online Self-Regulated Learning Assessment Tools",
+  "context": {
+    "prior_knowledge": "Basic understanding of online learning environments and self-regulated learning",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Development and validation of survey-based assessment tools suitable for learner groups composed of professionals in medical/legal/technical fields",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participants can develop a valid survey instrument to measure self-regulated learning abilities in online environments.",
+    "Verification of measurement equivalence across groups (gender, network environment)",
+    "Establishment of personalized educational strategies through analysis of learners' self-regulated learning characteristics"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Statistical Analysis Software (AMOS, R)",
+      "LMS platform",
+      "Survey Distribution System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

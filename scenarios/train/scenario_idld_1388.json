@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1388",
+  "variant_type": "idld_aligned",
+  "title": "AI-Integrated Continuing Pharmacy Education Design: Survey-Based Approach",
+  "context": {
+    "prior_knowledge": "Foundational pharmaceutical knowledge and general understanding of educational methodologies",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A practice-centered course focusing on ethical AI application and policy development in pharmaceutical education.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can generate pharmaceutical education content (assessment items, learning objectives, etc.) using AI tools.",
+    "Learners can explain at least three ethical considerations (copyright, information verification, etc.) when establishing AI policies.",
+    "Learners can analyze survey data to visualize the current status of AI application in pharmaceutical education settings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access to AI-powered content generation tools (ChatGPT, etc.)",
+      "Usage rights for survey platforms (Google Forms, etc.)",
+      "Data visualization tools (Excel, Tableau, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

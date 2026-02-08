@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3467",
+  "variant_type": "idld_aligned",
+  "title": "AI-Enhanced Mathematics Education Design Project",
+  "context": {
+    "prior_knowledge": "Understanding Basic Mathematical Concepts and Digital Device Proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Mathematics education design course for pre-professionals in medical, legal, and technical fields, focusing on enhancing instructional design capabilities using generative AI tools like ChatGPT as supplementary resources.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform the math education activity design process using AI tools with over 80% accuracy.",
+    "Learners can analyze sociocultural elements of AI-teacher collaboration systems by applying the activity theory framework.",
+    "Learners can integrate educational objectives and technological constraints with over 90% alignment when developing math problems using generative AI."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ChatGPT API access",
+      "Mathematics education standard guidelines",
+      "PBL Assessment Rubric",
+      "Case Study Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

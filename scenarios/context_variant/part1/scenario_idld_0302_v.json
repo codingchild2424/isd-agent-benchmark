@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0302-V",
+  "variant_type": "context_variant",
+  "title": "Pedagogical Agent and Agent-Based Interactive Learning for Improved Learning Outcomes",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners possess intermediate-level expertise in science as general citizens and participate in learning through non-real-time online environments via digital devices. Learning outcomes are measured through project-based assessments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the impact of pedagogical agents' linguistic expressiveness on learning interactions.",
+    "Learners apply science concepts and enhance problem-solving skills through agent-based interactive learning.",
+    "Based on interactions with a pedagogical agent during three or more project-based assessments in a six-month course, learners can analyze pre-post comparison surveys (5-point Likert scale) and learning outcome data (quiz scores improved by ≥10%, task completion rates ≥80%) to explain the impact of interactions on learning outcomes through three or more specific factors (e.g., engagement, comprehension, problem-solving skills)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online LMS Platform",
+      "Science Content Database",
+      "Conversational Pedagogical Agent System",
+      "Digital Device Rental Service"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

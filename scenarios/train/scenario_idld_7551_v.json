@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7551-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Information Literacy Education Using Whole-Brain Learning Approaches",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Education for professionals focusing on applying information search/analysis/utilization skills to mathematical problem-solving, with smartphone-centric accessibility",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can select three or more credible sources from diverse information channels to solve given math problems",
+    "Learners can write a report presenting problem-solving solutions by analyzing collected data through visual/numerical methods",
+    "Learners identify incorrect information with over 90% accuracy by applying information evaluation criteria (accuracy, reliability, timeliness) in mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Microlearning Platform",
+      "Information Evaluation Checklist Template",
+      "Open-Source Dataset for Mathematical Problem Solving"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

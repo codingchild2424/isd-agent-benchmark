@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3090-V",
+  "variant_type": "context_variant",
+  "title": "E-Learning System Development: Inductive Online Learning Design",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learning systematic approaches for developing math-domain-specific e-learning systems, strengthening UML-based system design capabilities through inductive case analysis",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design an e-learning system development lifecycle by applying the 2TUP process stages",
+    "Learners can model the system architecture of inductive learning scenarios using UML class/sequence diagrams",
+    "Learners can derive at least five specific e-learning system functionality examples based on mathematical problem-solving scenarios",
+    "Learners can iteratively improve system design proposals by reflecting formative assessment feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "UML Modeling Tool",
+      "E-Learning Development Template",
+      "Mathematics Problem Bank Sample Data",
+      "2TUP Process Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5865-V",
+  "variant_type": "context_variant",
+  "title": "Big Data-Driven Field Practice Design in Human Geography",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners engage in a comprehensive understanding of regional human-geographical phenomena by integrating field practice with data analysis, with a focus on a project analyzing rural economic and agricultural development patterns using the Zhaotong case study.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Using big data analysis tools (EM-GMM model), learners can cluster regional human geography phenomena and derive patterns.",
+    "During field practice, learners can scientifically design practice routes, observation targets, and research directions based on data.",
+    "Through Zhaotong case analysis, learners can explain the correlation between agricultural productivity changes (decline in crop cultivation area vs. increase in total agricultural output) and the growth of secondary and tertiary industries (forestry, livestock, and fisheries)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "EM-GMM analysis software",
+      "Field data collection equipment (drones, GPS, tablets)",
+      "Regional agriculture/forestry statistics dataset",
+      "Cloud-based Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

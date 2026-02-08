@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3221-V",
+  "variant_type": "context_variant",
+  "title": "Augmented Reality (AR)-Based Instructional Design for Understanding Real-Life Chemistry Concepts",
+  "context": {
+    "prior_knowledge": "High school-level foundational chemistry knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended learning structure combining online theoretical lectures with AR-based offline practice, enhancing conceptual understanding by visualizing chemical phenomena encountered in daily life through AR technology",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can observe and explain everyday chemical reactions (e.g., oxidation, neutralization) in 3D using AR apps",
+    "Learners can analyze the structure-property relationships of chemical substances through AR simulations and present real-world application examples",
+    "Students can document and evaluate AR-based chemical problem-solving processes through collaborative learning"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Chemistry Education App (Smartphone/Tablet Compatible)",
+      "AR Marker Set and Experiment Kit",
+      "LMS (Learning Management System) Interface",
+      "Offline Practical Space (Chemistry Lab or Smart Classroom)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

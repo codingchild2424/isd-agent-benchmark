@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2408",
+  "variant_type": "idld_aligned",
+  "title": "Cognitive Load Theory-Based Language Microlearning Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic language structures and fundamental terminology in specialized fields (medical/legal/technical)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Language proficiency enhancement program for professionals to improve workplace efficiency",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can systematically analyze complex domain-specific language structures according to a three-stage cognitive processing model (sensory memory → working memory → long-term memory)",
+    "Learners can apply learning strategies that reduce working memory load by 40% using 15-minute microlearning content in mobile environments",
+    "Learners can transfer cognitive load management techniques (chunking, visualization, incremental learning) to real-world tasks with over 80% applicability through formative assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible interactive content authoring tool",
+      "AI-Powered Real-Time Feedback System",
+      "Specialized terminology database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

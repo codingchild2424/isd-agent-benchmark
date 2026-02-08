@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0209-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Mobile App Development Capabilities: Evidence-Based Design of Mobile Learning (mLearning) Content",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain at least three principles for designing integrated text-to-speech-to-image messages optimized for mobile environments.",
+    "Learners can produce at least one mLearning content piece applying accessibility-enhancing strategies based on Universal Design for Learning (UDL) guidelines.",
+    "Learners can write feedback reports to improve the effectiveness of mLearning content by analyzing formative assessment data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": "WCAG 2.1 기준 준수",
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

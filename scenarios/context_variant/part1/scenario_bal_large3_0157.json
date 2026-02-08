@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE3-0157",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Teacher Professional Development Program for Enhancing Formative Assessment (AfL) Competencies Based on the 4C/ID Model",
+  "context": {
+    "prior_knowledge": "Basic knowledge of science curricula and understanding of general educational principles",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Recreating authentic classroom environments via VR simulation and supporting mobile-based learning",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply the core principles of Assessment for Learning (AfL)—evidence collection, analysis, interpretation, and classroom application—to three or more science lesson cases.",
+    "Learners can design AfL-integrated lessons using the four components of the 4C/ID model: learning tasks, supportive information, procedural information, and part-task practice.",
+    "Learners can derive student learning progress diagnostics and feedback strategies with 80% accuracy based on assessment data generated in VR simulation environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible VR Equipment",
+      "Science Curriculum AfL (Assessment for Learning) Case Database",
+      "4C/ID Design Template",
+      "Mobile Learning Management App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

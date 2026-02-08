@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0229",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Introduction to Literate Programming for Earth Observation Data Analysis",
+  "context": {
+    "prior_knowledge": "Foundational mathematical knowledge and basic Python programming skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Cultivating Problem-Solving Abilities Using Earth Observation Data for Career Preparers in Medical/Legal/Technical Fields",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can import atmospheric composition data (temperature, humidity, pressure, etc.) in a Jupyter Notebook environment, perform basic statistical analyses (mean, maximum/minimum values, visualization) using at least three Python libraries (e.g., pandas, numpy, matplotlib), and attach code execution results as screenshots in a report.",
+    "Generate documentation with a 3:1 text:code ratio following literate programming principles",
+    "Perform preprocessing and visualization of satellite observation data using modularized functions",
+    "Within the first three months of a six-month course, learners apply Earth Observation (EO) data to an air pollution analysis project, analyze at least three satellite images, build a pollution concentration prediction model (linear regression), and submit a final report meeting at least four out of five evaluation rubric criteria (including ≥80% accuracy)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LTPy-Based Jupyter Notebook Template",
+      "Atmospheric Observation Open-Source Dataset",
+      "Code Reuse Guidelines PDF",
+      "Auto-Grading Jupyter Notebook Extension Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

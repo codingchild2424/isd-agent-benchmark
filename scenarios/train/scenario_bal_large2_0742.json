@@ -1,0 +1,44 @@
+{
+  "scenario_id": "BAL-LARGE2-0742",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Organic Chemistry Foundational Competency Enhancement Program: Molecular Structure, Reaction Mechanisms, and Mathematical Modeling",
+  "context": {
+    "prior_knowledge": "Foundational chemistry knowledge (atomic structure, chemical bonding, intermolecular interactions) and basic mathematics skills (formula calculations, graph interpretation, fundamental statistical concepts). Additionally, basic understanding of matrix operations, graph interpretation, and statistical tests (t-tests, ANOVA)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A program for non-majors to systematically acquire core concepts of organic chemistry. Combines online theoretical learning (including mathematical modeling: matrix transformations, regression analysis) with offline practical sessions (experimental data analysis: spectrum interpretation, error calculation), emphasizing structural similarities and conceptual connections. Utilizes computational chemistry tools (molecular modeling software, statistical packages) for quantitative analysis of reaction mechanisms.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Develop the ability to apply mathematical modeling (matrix transformations, similarity calculations) for observing functional similarities in molecular structures and classifying them with ≥80% accuracy.",
+    "Explain and diagram organic compound reaction mechanisms in at least three steps, representing energy changes per step via graphs (energy profiles) and equations (reaction enthalpy).",
+    "Cultivate statistical approaches (regression analysis, correlation coefficients) to analyze how molecular structure differences affect reactivity with ≥70% explanatory power (R²).",
+    "Interpret IR/UV spectrum data to infer functional groups and numerically compare spectral peak data (calculating mean values and standard deviations).",
+    "Explain acid-base reactions in relation to pKa values and cultivate quantitative prediction skills via pH titration curve calculations (Henderson-Hasselbalch equation).",
+    "Apply stereochemical concepts to predict reaction product stereoconfigurations and perform molecular modeling using 3D coordinate systems (Cartesian coordinates).",
+    "Comparative analysis of the effects of reaction conditions (temperature, solvent) on reaction pathways and application of mathematical models such as the Arrhenius equation (activation energy calculation)",
+    "Designing organic synthesis pathways as a logical flow of three or more steps and developing optimization skills through reaction yield calculations (molar yield, atom economy)",
+    "Critically evaluating reaction mechanisms based on experimental results and applying statistical methods for error analysis (standard error, confidence intervals)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D molecular modeling software",
+      "Virtual Laboratory Platform",
+      "Response Simulation Tool",
+      "Organic Chemistry Reaction Card Set",
+      "Spectral Analysis Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0012",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Large-Scale 4C/ID Model-Based Dental Education Course for Improving Clinical Reasoning and Scientific Inquiry Skills",
+  "context": {
+    "prior_knowledge": "Elementary dental science knowledge, comprehension of patient care procedures, and basic competency in scientific methodology (experiment design and data analysis)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An educational process where medium-sized learner groups repeatedly perform tasks resembling actual clinical scenarios in constrained technological environments (no PC access, smartphone-based), receiving feedback. Learners experience the scientific inquiry process through observational recording, symptom analysis, and treatment outcome measurement.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners apply systematic clinical reasoning processes with 80% accuracy in situations similar to actual dental cases and establish diagnostic hypotheses based on scientific evidence.",
+    "Learners can decompose complex cases into three stages (observation-hypothesis formulation-variable analysis) and utilize strategies to manage cognitive load.",
+    "Learners correct at least 70% of their clinical judgment errors based on peer evaluations and instructor feedback and propose new treatment protocols through error analysis."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Real-world case-based learning scenarios",
+      "Role-play medical toolkit",
+      "Feedback journal",
+      "Mobile quiz app for smartphones"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

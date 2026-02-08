@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0432",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Fluid Dynamics Virtual Laboratory Education Program Based on Game Engines",
+  "context": {
+    "prior_knowledge": "Fundamental fluid mechanics theory and industrial field experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Experimental education to enhance digital competencies for current practitioners.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Use a game engine-based virtual lab tool to explain the operating principles of a jet pump",
+    "Analyze fluid dynamics problems in real-world industry scenarios (RWS) and propose solutions",
+    "Evaluate the applicability of virtual lab results in real work environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible virtual lab app",
+      "Zoom Account",
+      "PDF Laboratory Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

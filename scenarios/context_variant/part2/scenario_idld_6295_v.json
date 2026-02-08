@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6295-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Programming Practical Skills: Implementation and Evaluation of Emergency Remote Teaching (ERT): Mobile Microphone-Based Solutions",
+  "context": {
+    "prior_knowledge": "Basic smartphone usage skills and understanding of job-related terminology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can develop educational scenarios applying Emergency Remote Teaching (ERT) design principles (simplicity, flexibility, empathy) with over 80% accuracy using 15-minute microlearning modules in mobile environments.",
+    "Learners complete one ERT content prototype applicable to real corporate environments through project-based assessment and improve it based on peer feedback.",
+    "Learners can suggest three or more offline alternative learning strategies (audio lectures, downloadable materials) considering internet accessibility limitations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0800",
+  "variant_type": "balance_teen_v2",
+  "title": "Multi-Voice-Based Online Mathematics Learning Design: Mobile Microlearning Curriculum (K-12)",
+  "context": {
+    "prior_knowledge": "Understanding of middle school-level basic math concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasizing smartphone-based accessibility and social learning opportunities, focusing on cultivating field-applicable mathematical problem-solving skills",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve mathematics problems arising in real occupational contexts through multi-perspective collaborative approaches.",
+    "Learners can reconstruct learning content by sharing feedback with peers in mobile environments.",
+    "Learners can systematically document their mathematical thinking processes through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Basic Audio/Video Production Tools",
+      "Real-Time Chat Functionality",
+      "Offline Activity Guidebook PDF"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

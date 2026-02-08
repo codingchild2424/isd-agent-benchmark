@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0941-V",
+  "variant_type": "context_variant",
+  "title": "Situated Mathematics Education Design: Advanced Mathematical Knowledge Acquisition Process",
+  "context": {
+    "prior_knowledge": "Undergraduate-level foundational mathematics (calculus, linear algebra) and discipline-specific applied mathematics basics",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Personalized situational task design and feedback system operation using individual learning devices.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve complex mathematical problems required in real workplace contexts within situational frameworks",
+    "Learners can explain the generation process and application principles of mathematical knowledge through situational tasks",
+    "In weekly feedback sessions with 3-5 peers over six weeks, learners document solutions to ≥12 math problems (optimization, differential equations) with ≥3 feedback iterations, and demonstrate approaches improving problem-solving efficiency by ≥20% in final assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Contextual Digital Simulation Tools",
+      "Learning analytics platform",
+      "Discipline-Specific Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

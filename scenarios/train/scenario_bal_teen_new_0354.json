@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0354",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Adaptive Learning Design in Social Studies Based on Flipped Learning",
+  "context": {
+    "prior_knowledge": "Comprehension of basic sociological concepts (politics, economics, culture, etc.)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A system capable of providing personalized content through analysis of individual learning patterns in a flipped learning environment utilizing VR simulations for graduate students in social sciences",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can execute self-directed learning strategies with over 80% accuracy in flipped learning environments",
+    "Learners enhance real-world case analysis capabilities through VR simulation-based social problem-solving activities",
+    "Learners improve learning efficiency by over 20% by revising personalized learning plans based on formative assessment results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Devices",
+      "Learning analytics platform",
+      "Flipped Learning Content Creation Tool",
+      "Real-time feedback system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

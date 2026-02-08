@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0517",
+  "variant_type": "idld_aligned",
+  "title": "360° VR-Based Mechanical Ventilation Management Training for ICU Nurses",
+  "context": {
+    "prior_knowledge": "Fundamental respiratory physiology and basic critical care nursing skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended learning environment combining VR simulations and LMS for practicing intensive care unit nurses.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "ICU nurses can perform mechanical ventilation alarm response protocols at 80% accuracy within 5 minutes via 360° VR simulation",
+    "After VR simulation based on real clinical scenarios, learners achieve 30% higher scores in clinical judgment assessments compared to baseline",
+    "Trainees score ≥4.5/5.0 on mechanical ventilation management self-efficacy surveys"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "360-Degree VR Headset",
+      "Mechanical Ventilation Simulation Software",
+      "LMS account",
+      "Practical Manual (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3086-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Microlearning for Behavior Modification Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course focused on acquiring behavior modification techniques applicable in real-world work settings by current practitioners. Incorporates CAPSI-based self-directed learning and peer evaluation systems.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain behavior modification theory with over 80% accuracy using the CAPSI system.",
+    "Learners can analyze real-world cases and develop action plans applying behavior reinforcement and extinction strategies.",
+    "Learners can achieve over 90% accuracy in analyzing behavior modification cases through peer assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "CAPSI algorithm module",
+      "Behavior modification case library",
+      "Peer assessment guideline document"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

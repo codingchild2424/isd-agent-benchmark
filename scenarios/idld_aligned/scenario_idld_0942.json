@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0942",
+  "variant_type": "idld_aligned",
+  "title": "Blended Learning Program for ECG Interpretation for Nurses",
+  "context": {
+    "prior_knowledge": "Foundational physiology and medical terminology comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Flexible learning structure considering adult learners’ time constraints, focusing on practical skill enhancement through non-degree courses",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the physiological significance of basic ECG waveforms with over 80% accuracy.",
+    "Learners can distinguish more than 12 types of arrhythmias and explain their clinical implications.",
+    "Learners improve self-directed learning abilities by participating in LMS content at over 80% within 3 months."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Electrocardiogram (ECG) Simulator Software",
+      "Video Lecture Materials",
+      "Interactive Quiz Platform",
+      "Case-Based Learning Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1072",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Mathematical Problem-Solving Skill Enhancement Process Using Situated Design Models",
+  "context": {
+    "prior_knowledge": "Understanding basic mathematical concepts and experiencing problem-solving strategies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Utilizing smartphone-based VR simulations, emphasizing problem-solving abilities for non-repetitive issues in real educational settings",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze various math problem types (including non-repetitive problems) according to situational contexts and develop solution strategies.",
+    "Learners can evaluate and improve their problem-solving processes through a personalized feedback system.",
+    "Learners demonstrate the ability to solve real-life problems through mathematical approaches using VR simulations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR device",
+      "Contextual mathematics problem database",
+      "Personalized learning analytics tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Business/HR/Admin Support"
+}

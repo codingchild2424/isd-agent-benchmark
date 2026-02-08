@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3715-V",
+  "variant_type": "context_variant",
+  "title": "3D Virtual World-Based Science Learning Effectiveness Enhancement Program",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Science content learning combining instructor avatar guidance and self-directed exploration in a smartphone-based 3D virtual learning environment",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately explain over 70% of scientific concepts guided by an instructor avatar in a 3D virtual world.",
+    "Learners can describe at least three specific molecular interactions through micro-particle structure simulations in virtual environments.",
+    "Learners can write project reports based on phenomena observed after self-directed exploration in 3D virtual learning spaces via mobile devices."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible 3D Virtual Platform",
+      "Avatar Tutorial for Science Concept Mapping",
+      "Mobile-Optimized Project Template",
+      "Quiz App for Measuring Learning Outcomes"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

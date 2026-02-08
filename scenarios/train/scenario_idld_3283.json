@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3283",
+  "variant_type": "idld_aligned",
+  "title": "Template-Based Instructional Software Development Competency Enhancement Course",
+  "context": {
+    "prior_knowledge": "Basic mathematics education theories and experience with Learning Management Systems (LMS)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Targeting corporate managers/leaders responsible for mathematics education, emphasizing the development of instructional software capabilities by strengthening competency in template-based authoring tools.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design and develop a prototype for mathematics education software using template-based authoring tools",
+    "Learners can implement interactive learning modules applying instructional design principles with over 80% completeness",
+    "Learners can evaluate educational effectiveness (learning objective achievement, content organization, interaction design, etc.) of development outputs against at least three criteria through peer assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Template-Based Authoring Tool License",
+      "Sample Dataset for Mathematics Educational Content",
+      "BYOD-Compatible Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

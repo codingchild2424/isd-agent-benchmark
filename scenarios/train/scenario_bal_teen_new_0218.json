@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0218",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Simulation-Based Learning for Exploring the Relationship Between Design Decisions and Performance",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific principles, experience in designing simple experiments",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course where learners visually explore the relationship between design variables and performance outcomes through virtual experiments in a VR environment.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can measure the impact of changing at least three design variables (e.g., structural height, material strength) on performance metrics (stability, efficiency) using VR simulations",
+    "Students can visually represent and explain the balance between conflicting performance metrics by applying the concept of Pareto optimization",
+    "Students can derive optimized design solutions at least twice by mapping the design decision space to the performance outcome space"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "Interactive simulation software",
+      "3D Modeling Software",
+      "Learning progress visualization dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

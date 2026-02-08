@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2095-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Mathematics Learning Design and Technology Integration Strategies",
+  "context": {
+    "prior_knowledge": "Basic arithmetic operations and fundamental algebraic concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course aimed at strengthening practitioners' mathematical problem-solving skills in smartphone-based limited-technology environments, with project tasks structured around real-world cases encountered in daily work",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze work-related math problems using a structured PBL (Problem-Based Learning) approach and derive solutions.",
+    "Learners can visualize and share math learning design models using smartphone-based tools.",
+    "Learners can collaboratively design effective math learning activities considering constraints of technological environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Open-Source Mathematics Solution App",
+      "Collaborative Cloud Document Tool",
+      "Real-World Mathematics Case Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2985-V",
+  "variant_type": "context_variant",
+  "title": "Wild Bee Ecology Exploration: Gamification-Based Integrated Mathematics Education",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Integrated Educational Approach Combining Ecological Roles of Wild Bees and Mathematical Concepts for Current Elementary School Teachers",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners improve data interpretation skills by graphically representing population changes of wild bees in a VR simulation.",
+    "Learners can explain ecosystem balance through mathematical modeling via gamification activities.",
+    "By the end of a 1-week short course, learners optimize ≥3 resource allocation problems using linear programming (LP) or integer programming (IP) in a given multi-layered simulation environment (e.g., factory resource allocation scenario) and propose solutions achieving ≥20% improvement in the objective function."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset (15 Sets)",
+      "Ecological Data Analysis Software",
+      "Gamification Educational App",
+      "3D Modeling Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

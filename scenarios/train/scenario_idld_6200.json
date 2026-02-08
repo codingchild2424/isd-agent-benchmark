@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6200",
+  "variant_type": "idld_aligned",
+  "title": "Methodology Design for Selecting LMS Platforms in Corporate Mathematics Education",
+  "context": {
+    "prior_knowledge": "Understanding Basic Mathematical Concepts and Online Learning Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Supporting large-scale mathematics job training in a BYOD (Bring Your Own Device) environment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can derive ten LMS evaluation criteria aligned with mathematics education objectives.",
+    "Learners can design an LMS selection process considering institutional technological infrastructure and BYOD (Bring Your Own Device) environments.",
+    "Learners can evaluate LMS features (e.g., equation editors, graphing tools) suitable for the characteristics of mathematics content."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mathematics Education Content Sample",
+      "Corporate LMS requirements document",
+      "LMS comparative evaluation checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

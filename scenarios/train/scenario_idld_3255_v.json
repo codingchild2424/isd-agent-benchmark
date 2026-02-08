@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3255-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Media Literacy Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course focused on intensively developing media information analysis competencies in mobile environments for mathematics majors and job-seeking students.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply techniques to mathematically analyze data biases in various media contents.",
+    "Learners can evaluate ideological frames of media messages in mobile environments using at least three analytical tools.",
+    "Learners understand the media production process and can develop a content creation plan linked to their major (mathematics)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Interactive simulation tool",
+      "Media Content Analysis Template",
+      "Data Visualization Software (Mobile-Optimized)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

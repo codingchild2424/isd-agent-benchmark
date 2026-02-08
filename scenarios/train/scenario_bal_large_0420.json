@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0420",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Federated Learning-Based Security Strategies for Protecting Medical IoT Data",
+  "context": {
+    "prior_knowledge": "Basic medical information systems, fundamental data security concepts, and IoT device operation experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Targeting corporate managers aiming to strengthen data protection capabilities in medical IoT environments. Requires practical training linked to real-world business cases",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "One can explain the data protection mechanisms of Federated Learning (FL) in a medical IoT environment",
+    "One can perform model updates on real datasets by applying the noise adjustment technique of the PAFL algorithm",
+    "One can assess privacy breach risks and propose mitigation strategies in a distributed learning environment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Medical IoT simulation tools",
+      "Optimized VGG16 model sample",
+      "Virtual Patient Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

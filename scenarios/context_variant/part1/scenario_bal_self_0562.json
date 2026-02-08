@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0562",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Integrated Gamification Design Workshop for Strengthening Scientific Inquiry Skills: Deepening Experimentation, Observation, and Variable Control Competencies",
+  "context": {
+    "prior_knowledge": "Basic instructional design and gamification concepts, foundational knowledge of the scientific inquiry process (experiment design, data analysis, variable control, hypothesis testing)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Mobile-optimized training for in-service practitioners, implementing smartphone-based microlearning in PC-unavailable environments. Emphasizes applicability in real-life contexts by integrating scientific problem-solving processes with game mechanics. Focuses on replicating scientific inquiry processes (observation/measuring/analysis/conclusion) through game elements.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will design an educational scenario incorporating gamification elements (XP, badges, leaderboards) that reflects the scientific inquiry process (hypothesis→experiment design→data measurement→evidence-based conclusion).",
+    "Learners develop three or more microlearning gamification activities applicable in mobile environments (e.g., virtual experiments, simulations for manipulating independent/dependent variables, scientific argumentation quizzes).",
+    "Learners establish three or more specific metrics (e.g., participation rate ≥80%, immersion ≥4/5-point scale, knowledge transfer ≥70% accuracy) to evaluate educational effectiveness (engagement, immersion, knowledge delivery) when designing gamification, and create a draft assessment rubric incorporating scientific thinking (systematic observation, logical reasoning, evidence utilization) evaluation criteria."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Gamification Templates",
+      "Mobile-compatible quiz authoring tool",
+      "Learner feedback collection survey"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

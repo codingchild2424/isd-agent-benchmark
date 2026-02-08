@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1622-V",
+  "variant_type": "context_variant",
+  "title": "Online Exam Proctoring and Academic Integrity Maintenance Strategies",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "An intensive short-term course for undergraduate science students to master academic integrity strategies, focusing on online proctoring tools. Requires mobile-optimized instructional design for students without PCs.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Core functions of online proctoring tools (e.g., real-time recording, AI anomaly detection) can be explained and applied case studies analyzed",
+    "Propose at least three alternative assessment strategies to maintain academic integrity using mobile devices in restricted technological environments",
+    "Identify legal and ethical issues (e.g., privacy concerns) that may arise when implementing online proctoring systems and develop mitigation plans"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible online proctoring tool demo",
+      "Academic integrity case study data",
+      "Open-source alternative assessment tools list"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

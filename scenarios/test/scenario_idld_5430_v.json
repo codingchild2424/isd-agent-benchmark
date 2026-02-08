@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5430-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Microlearning in Nursing Simulation: Professional Competency and Patient Safety Enhancement",
+  "context": {
+    "prior_knowledge": "Basic nursing theory, clinical practice experience, understanding of medical protocols and patient safety standards",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Simulation content accessible in smartphone-centric limited-technology environments. Realistic virtual scenarios (emergency response, interdisciplinary collaboration) mirroring medical settings to strengthen clinical competencies.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners perform basic nursing simulation scenarios (patient diagnosis, symptom evaluation, treatment protocols) with over 90% accuracy in mobile environments.",
+    "Learners incorporate peer feedback three or more times during simulation-based problem-solving and propose improvements (e.g., medical protocol adherence, patient safety enhancements).",
+    "Learners submit nursing intervention plans reflecting real clinical settings, including patient-centered care and symptom management strategies, as part of an evaluative project."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Simulation App",
+      "Offline-Synchronizable Learning Resources",
+      "Simplified Assessment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

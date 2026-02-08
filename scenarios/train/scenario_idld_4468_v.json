@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-4468-V",
+  "variant_type": "context_variant",
+  "title": "Workshop on Integrating Computer-Assisted Assessment (CAA) Techniques in Mathematics Education",
+  "context": {
+    "prior_knowledge": "Foundational mathematics theory and college-level problem-solving skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A short-term intensive course for pre-service/in-service teachers to apply CAA technology in practical contexts, designed for professional learners. Conducted in a BYOD environment with formative assessments using real-time collaboration tools and the STACK platform.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner",
+    "learner_education": "University"
+  },
+  "learning_goals": [
+    "Learners can design STACK-based assessment items classified into three types",
+    "Learners can understand and apply automated scoring algorithms for mathematical problem-solving",
+    "Learners analyze five technical requirements (e.g., real-time feedback processing, item difficulty adjustment algorithms, LMS integration APIs) of a Computerized Adaptive Assessment (CAA) system within one week. They draft a requirements specification document and receive \"Met or Exceeded\" evaluations from ≥2 of 3 instructor/peer reviewers.",
+    "Learners analyze ≥3 limitations of traditional assessment methods using CAA technology (e.g., automated scoring algorithms, adaptive item systems). They submit a hybrid assessment design addressing these within one week, achieving ≥3 points (5-point scale) in validity, feasibility, and innovativeness criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "STACK Assessment Platform License",
+      "Mathematics Assessment Item Templates",
+      "Real-Time Collaboration Tools (Zoom/Miro)",
+      "BYOD (Bring Your Own Device) support guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

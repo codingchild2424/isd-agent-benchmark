@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5415-V",
+  "variant_type": "context_variant",
+  "title": "Reinforcement Learning-Based Optimal Control Design for Wastewater Treatment Processes",
+  "context": {
+    "prior_knowledge": "Foundations of control theory, programming (e.g., Python), and basic machine learning concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical skill-based learning for pre-professionals in medical, legal, and engineering fields within a BYOD setting.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the IOQL algorithm design process for solving optimal control problems in nonlinear systems",
+    "Analyze and optimize efficiency/cost-effectiveness metrics of reinforcement learning-based control algorithms through wastewater treatment process simulations",
+    "Quantitatively evaluate IOQL's learning speed and cost-reduction effects compared to conventional control methods"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Wastewater Treatment Process VR Simulation Platform",
+      "Jupyter Notebook Environment",
+      "Reinforcement Learning Library (TensorFlow/PyTorch)",
+      "Real-time Data Visualization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

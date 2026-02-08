@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7294-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Augmented Reality-Based Gamification Science Exploration: Interactive",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "It is possible to visualize and analyze scientific phenomena in 3D using AR technology.",
+    "Design interactive storytelling scenarios incorporating gamification elements to explain scientific concepts.",
+    "Within one week, learners will perform a team project (3–4 members) using an augmented reality platform (e.g., Unity MARS), propose ≥3-step problem-solving strategies for a given scenario, and achieve \"excellent\" ratings in ≥4/5 team collaboration evaluation items."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

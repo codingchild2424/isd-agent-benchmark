@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0228",
+  "variant_type": "balance_teen_filtered",
+  "title": "K-12 Practice-Centered Problem-Solving Intensive Programming Course",
+  "context": {
+    "prior_knowledge": "Basic Computer Literacy and Logical Reasoning Experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Small-group settings enabling personalized feedback, emphasizing practice-based on real-world cases",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners analyze 3 real-life problems (e.g., vending machine change calculation, simple game logic) and convert them into pseudocode containing conditional statements and loops. Each pseudocode must achieve 3+ points (out of 5) in the teacher/peer evaluation rubric (clarity, logic, completeness).",
+    "Implement and debug simple algorithms using the Python programming language.",
+    "In a 4-member team-based project, learners analyze a given scientific problem (e.g., environmental pollution solutions), document the logical problem-solving process in 3 stages (problem definition → hypothesis setting → experimental design), create a 5-minute presentation, and achieve an 'Excellent' rating in at least 2 out of 3 peer evaluation rubric items (clarity, logic, creativity)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE installation package",
+      "Practice problem sets",
+      "Feedback Template",
+      "Collaborative Platform Account"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

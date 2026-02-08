@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0105",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Web-Based Observational Practice and Collaborative Learning Course for Simulation-Based Medical Education Preparation",
+  "context": {
+    "prior_knowledge": "Fundamental medical terminology and basic anatomy knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A collaborative learning enhancement program conducted in a constrained technological environment centered on smartphones.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify core procedures with 90% accuracy using web-based observational practice (OP) during the preparation phase before simulation-based training.",
+    "Through collaborative learning (COP), learners can generate three or more sophisticated analytical responses to simulation scenarios based on peer interactions.",
+    "Within one week after the course, learners reduce the average task completion time by 20% in simulation-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible web platform",
+      "Medical simulation video materials",
+      "Collaborative activity worksheets",
+      "Offline assessment checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

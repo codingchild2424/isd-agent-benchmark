@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8834",
+  "variant_type": "idld_aligned",
+  "title": "Interaction Between Cognitive Biases in Language Structure and Repetitive Learning",
+  "context": {
+    "prior_knowledge": "Basic understanding of language structures and exposure to cognitive bias concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Operation of microlearning modules using personal smartphones/tablets. Conducting project-based assessments in a BYOD environment. Structuring 15-minute video/quiz/activity units aligned with the concentration cycles of teenage learners.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain three or more mechanisms by which linguistic structures are influenced by cognitive biases.",
+    "Learners can simulate the formation process of Zipfian distribution through repeated learning experiments.",
+    "Learners can analyze cognitive bias cases in real-world language data through project deliverables."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Virtual word generator tool",
+      "Language data analysis sample set",
+      "Collaborative digital whiteboard app"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

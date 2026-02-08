@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0073",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] MOOC-Based Social Attitude Change Education Program",
+  "context": {
+    "prior_knowledge": "Understanding basic social phenomena and proficiency in digital learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Interactive classes centered on real-time discussions and case analysis, aimed at improving awareness of social issues",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve a 30% improvement in cognitive understanding of social issues through MOOC content and discussion activities.",
+    "Learners record affective responses related to attitude change (e.g., empathy, responsibility) with over 80% participation through weekly scenario-based activities.",
+    "Learners specify at least one actionable social behavior strategy by submitting a behavior change plan upon course completion."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Social issue-related MOOC platform integration",
+      "Real-time video conferencing tools",
+      "Digital collaboration tools (e.g., Padlet, Google Docs)",
+      "Case analysis worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

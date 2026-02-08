@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1986",
+  "variant_type": "idld_aligned",
+  "title": "Thermodynamics Property Chart-Based Flipped Learning Curriculum",
+  "context": {
+    "prior_knowledge": "Understanding of foundational thermodynamics concepts (e.g., law of energy conservation, equations of state)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Educational environment focusing on visualizing thermodynamic property relationships using digital devices and VR simulations",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can quantitatively explain thermodynamic state changes in water using P-v and T-s diagrams.",
+    "Learners can simulate phase-change processes in saturated liquid/saturated vapor regions through attribute charts in a simulated environment.",
+    "Participants can achieve at least 80% application accuracy in VR-based formative assessments for concepts learned via flipped learning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Animated Video",
+      "Interactive Attribute Chart Digital Tool",
+      "VR Thermal System Simulation Package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

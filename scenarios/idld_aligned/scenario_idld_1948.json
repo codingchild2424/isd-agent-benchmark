@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1948",
+  "variant_type": "idld_aligned",
+  "title": "Teacher Orchestration Strategies in Computer-Supported Collaborative Learning (CSCL) Environments",
+  "context": {
+    "prior_knowledge": "Core principles of collaborative learning, science curriculum content knowledge, and basic digital tool proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Training for in-service secondary science teachers, involving hands-on environment setup using multi-display classrooms and portable dashboard equipment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Real-time learning analytics tools can monitor participation levels and task progress of collaborative learning groups",
+    "Deviation between CSCL lesson design scripts and actual class implementation can be analyzed to establish adjustment strategies",
+    "Text notifications from learning analytics dashboards can identify students' potential misconceptions and apply immediate feedback strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Portable analytical dashboard device",
+      "Multi-display classroom infrastructure",
+      "Science collaborative learning scenario template",
+      "Real-time data visualization software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

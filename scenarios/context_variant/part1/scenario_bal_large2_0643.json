@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0643",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Foundations of Active Self-Reward System Control Using Model-Free Reinforcement Learning: Mathematical Optimization and Matrix-Based Approaches",
+  "context": {
+    "prior_knowledge": "Foundational control theory and linear algebra (matrix operations, eigenvalue analysis, vector space comprehension), ability to formulate optimization problems (e.g., objective functions and constraints), basic programming skills (Python preferred), and fundamental MATLAB/Simulink operation proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Modular learning content based on smartphones and weekly experimental tasks. Emphasizes computational thinking and mathematical modeling skills (continuous/discrete system modeling) during learning. Cultivates statistical analysis (e.g., confidence interval estimation) and graph visualization (e.g., Bode Plot, Nyquist Plot) abilities based on experimental data.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the mathematical principles of a reinforcement learning-based LQR (Linear Quadratic Regulator) controller and simulate parameter optimization using matrix operations and optimization formulas (e.g., Riccati equation).",
+    "Represent dynamic coupling phenomena in multi-axis systems using differential equations and state-space models, and apply eigenvalue analysis and diagonalization techniques to design interaction matrices for coupled cognition.",
+    "Learners can apply a decoupling policy optimization algorithm to a 3-axis control system, conduct over 10 iterative experiments in MATLAB/Simulink, measure a 15% reduction in system response time and 20% decrease in error rate via probabilistic analysis (e.g., Monte Carlo simulation) and statistical testing (e.g., t-test), and write an experimental report."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Control System Simulator",
+      "Python-Based Reinforcement Learning Library",
+      "Weekly Experiment Kit (with Virtual Environment)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

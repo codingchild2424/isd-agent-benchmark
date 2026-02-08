@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5877-V",
+  "variant_type": "context_variant",
+  "title": "Deep Learning Practical Competency Enhancement: Introduction to Sustainable Wastewater Management: SDGs-Linked Micro-Course",
+  "context": {
+    "prior_knowledge": "Understanding Basic Engineering and Environmental Science Concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles of wastewater treatment processes and their alignment with SDG 6 (Clean Water and Sanitation).",
+    "Learners can compare three types of wastewater treatment technologies through microlearning modules delivered in mobile environments.",
+    "Learners can propose sustainable water management solutions applicable to industrial settings by conducting team-based projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

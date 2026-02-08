@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6944",
+  "variant_type": "idld_aligned",
+  "title": "Strategies for Enhancing Multimedia Learning Effects in Science Classrooms",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and experience using digital learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Development of science concept learning methods using VR simulations and animated materials in a limited technological environment centered on smartphones.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners achieve information retention rates of over 80% using multimedia materials (text + audio + animation) that explain scientific concepts",
+    "Learners demonstrate transfer task success rates of over 70% by applying scientific concepts acquired in multimedia learning environments to real-world problem-solving scenarios",
+    "Learners explain the process of visualizing scientific phenomena through simulations and achieve a comprehension evaluation score of 4 or higher (on a 5-point scale) during peer assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible VR simulation software",
+      "Science concept explanation animation library",
+      "Voice recording tool",
+      "Smart device charging station"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

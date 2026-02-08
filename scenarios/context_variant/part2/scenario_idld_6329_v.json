@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6329-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Activity-Based Teaching Method Design and Application in Digital Environments",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain three core principles (e.g., interactivity, contextualization, feedback system) for designing activity-based pedagogy in digital environments.",
+    "Learners can apply a step-by-step process to design discussion and collaborative assignments in LMS-based social science courses.",
+    "Learners can develop two or more formative assessment strategies using technological tools (e.g., LMS discussion boards, digital collaboration platforms)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

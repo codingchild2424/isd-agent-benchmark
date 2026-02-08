@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2607",
+  "variant_type": "idld_aligned",
+  "title": "Comparative Effectiveness of Expert Modeling and Self-Directed Modeling: Simulation/VR-Based Short-Intensive Course",
+  "context": {
+    "prior_knowledge": "Basic understanding of social issue analysis and evaluation methodologies",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Simulation/VR-based education conducted in smartphone-centric, limited technology environments, measuring learning outcomes through project-based assessments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can compare and explain the characteristics of expert modeling (EM) and self-guided modeling (SGM).",
+    "Learners can analyze the impact of expert models on problem-solving processes through simulations and write evaluation reports.",
+    "Learners can select appropriate modeling strategies based on their level of expertise."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Device Rental",
+      "Smartphone-compatible simulation tool",
+      "Ethical Dilemma Case Database",
+      "Project Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

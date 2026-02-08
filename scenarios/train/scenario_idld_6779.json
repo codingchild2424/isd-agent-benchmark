@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6779",
+  "variant_type": "idld_aligned",
+  "title": "AI Chatbot-Enhanced Science Learning and Assessment Competency Program",
+  "context": {
+    "prior_knowledge": "Understanding of foundational science concepts (physics/life sciences) and basic digital device operation skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Project-based science learning integrated with AI chatbot interaction simulations and personalized feedback via individual learning data analysis",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Enhanced ability to design science experiments and write data analysis reports using AI chatbots (80%+ achievement rate)",
+    "Improved scientific argumentation and critical thinking skills through chatbot-based discussions (75%+ feedback incorporation rate)",
+    "Cultivation of the ability to judge the credibility of scientific information by applying AI-generated content evaluation criteria (90% accuracy achievement)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ChatGPT API-Connected Learning Management System",
+      "Science experiment simulation software",
+      "Digital Textbook Platform Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

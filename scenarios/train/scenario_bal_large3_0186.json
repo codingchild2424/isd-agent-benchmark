@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE3-0186",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Online Physiology Fundamentals: Blended Learning Strategy Application",
+  "context": {
+    "prior_knowledge": "High school-level foundational knowledge in life sciences",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended learning environment combining LMS-based asynchronous learning with weekly 30-minute live video sessions. Learners access videos, quizzes, discussion boards, and utilize digital tools like virtual microscopes/animations via personal devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Complete over 80% of video learning materials explaining physiological processes at the cellular level (osmosis, enzyme action, etc.) and score 75 points or higher on formative assessments",
+    "Analyze tissue samples using the provided virtual microscope simulation and identify three basic tissue types (epithelial, connective, muscle) with 80% accuracy",
+    "Over two weeks, learners will create concept maps for three weekly-provided physiological response cases (e.g., increased heart rate under stress, elevated breathing post-exercise, trembling during hypoglycemia), each incorporating at least five physiological principles (e.g., hormone secretion, nervous system responses), reflect on two peer feedbacks, and submit revised maps within seven days. Final maps must score over 80% on the rubric (accuracy 30%, logic 30%, feedback incorporation 40%)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Virtual microscope software",
+      "Physiology animation library",
+      "Online quiz generator",
+      "Video Conferencing Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

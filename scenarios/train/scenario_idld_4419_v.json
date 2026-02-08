@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4419-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Flipped Learning-Based Autonomy Enhancement Course for Adult Scientist Learners",
+  "context": {
+    "prior_knowledge": "Foundational science terminology and digital device usage experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners must autonomously analyze pre-learning materials at least three times in a flipped learning environment to derive discussion points.",
+    "Learners must achieve over 80% of learning objectives based on peer feedback and instructor’s personalized support.",
+    "Learners must perform five or more collaborative activities and share learning materials using digital platforms."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3184-V",
+  "variant_type": "context_variant",
+  "title": "Clinical Virtual Reality Simulation-Based Mathematics Education Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and ability to use digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Pre-service teachers engage in an immersive learning environment analyzing clinical scenarios through mathematical modeling. VR simulations provide training in solving math problems using real medical data.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can convert clinical data into mathematical models and analyze them in virtual reality environments",
+    "Learners analyze simulation data to design three or more math teaching strategies (e.g., visual modeling, gamified learning) applicable to real educational settings (grades 3–4). They must earn an \"Excellent\" rating in at least four of the five peer-evaluation rubric items.",
+    "Learners demonstrate mathematical reasoning skills in complex clinical scenarios through collaborative projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "30 sets of VR headsets",
+      "Clinical Mathematics Simulation Software",
+      "Mobile Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

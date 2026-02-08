@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3462",
+  "variant_type": "idld_aligned",
+  "title": "Math Service Access Design in Web-Based Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic smartphone usage and understanding of elementary mathematical concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners participate in math learning activities via smartphone in non-PC environments, using an LMS integrated with ReST-based web services.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can utilize web-based math tools (calculators, graph generators, etc.) accessible via ReST API with 80% accuracy.",
+    "Learners can create and share organized math concept notes using embedded wiki services within an LMS.",
+    "Learners can explain the procedure for accessing URL-based learning services in mobile environments within three steps."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "ReST API-integrated math service",
+      "Mobile-Optimized Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

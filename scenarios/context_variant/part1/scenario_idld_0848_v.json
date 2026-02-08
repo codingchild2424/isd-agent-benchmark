@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0848-V",
+  "variant_type": "context_variant",
+  "title": "Mathematical Foundations and Practical Applications for Image Super-Resolution Restoration",
+  "context": {
+    "prior_knowledge": "Foundational mathematics (calculus, linear algebra) and basic understanding of image processing",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A practical mathematics application training program for corporate managers/leaders, utilizing smartphone-based supplementary learning materials in limited-technology environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "At the end of the 6-month course, learners can apply mathematical modeling (e.g., Fourier transform, matrix decomposition) to ten different low-resolution image datasets and define super-resolution restoration problems using three or more mathematical techniques (e.g., CNN-based optimization, sparse coding).",
+    "They can explain the principles and applications of sparse prior-based restoration algorithms.",
+    "By the end of the 6-month course, learners will design two super-resolution solutions using real industrial data (10+ sets of infrared/multispectral images) and produce an evaluation report meeting performance criteria of PSNR (Peak Signal-to-Noise Ratio) ≥ 30dB and SSIM (Structural Similarity) ≥ 0.90."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Whiteboard, Projector, Printed Learning Materials",
+      "Smartphone-Compatible Visualization Tool",
+      "In-House Server-Based Practical Environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

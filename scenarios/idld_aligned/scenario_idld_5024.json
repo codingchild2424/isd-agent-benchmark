@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5024",
+  "variant_type": "idld_aligned",
+  "title": "Online Collaborative Writing-Based Mathematics Research Paper Writing Workshop",
+  "context": {
+    "prior_knowledge": "Foundational academic writing skills, intermediate-level math concept understanding, and basic digital tool proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Course focused on strengthening collaborative writing skills for academic mathematics papers. Simulating team-based research activities through web-based collaboration tools like Google Docs, combining formative assessment by instructors with summative evaluation via final paper submission",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners perform real-time feedback with team members at least three times while drafting a math paper using collaborative web-based tools and develop document version control skills.",
+    "Learners design an efficient collaboration process by maintaining a 7:3 strategic usage ratio between text space (content organization) and interface (tool functionality) in online collaborative environments.",
+    "Learners compile asynchronous communication records among team members during math research paper writing into a portfolio and reflect them in the introduction-methods-results structure of the final paper."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Google Workspace for Education Account",
+      "Miro Collaborative Board",
+      "LaTeX Template",
+      "Mathematics Thesis Sample Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

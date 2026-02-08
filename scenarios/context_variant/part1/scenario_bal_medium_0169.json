@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0169",
+  "variant_type": "balance_medium_scale",
+  "title": "Interactive Multimedia Distance Education for Advanced Microbiology Concept Comprehension",
+  "context": {
+    "prior_knowledge": "Understanding of basic microbiology terminology and fundamental concepts of biological phenomena",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Visualizing advanced microbiology concepts through interactive multimedia learning on smartphones, with project-based assessments measuring learning outcomes.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain complex bacterial genetic processes through animations and audio explanations",
+    "Learners accurately understand over 80% of core microbiology concepts using an interactive self-assessment system",
+    "Learners can analyze real-world microbiology cases and write reports using a PBL (Problem-Based Learning) approach"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible interactive multimedia content",
+      "Online Learning Management System (LMS)",
+      "PDF-based supplementary learning materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

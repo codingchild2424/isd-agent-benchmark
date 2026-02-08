@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-8717-V",
+  "variant_type": "context_variant",
+  "title": "Blended Mathematics Learning Design Program for Adult Practitioners",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized design emphasizing applicability for current practitioners, including strategies to enhance social presence for active online interaction.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can solve work-related math problems with 80% accuracy",
+    "Learners can engage in meaningful interactions with peers via online discussion boards at least twice weekly",
+    "Learners can establish self-directed learning plans in blended learning environments and achieve over 90% implementation rates",
+    "Learners can apply learned math concepts to real-world tasks at least three times within three months after class completion"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "BYOD-Supported Infrastructure",
+      "Digital Tools for Math Practice (e.g., GeoGebra)",
+      "Offline workbooks"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

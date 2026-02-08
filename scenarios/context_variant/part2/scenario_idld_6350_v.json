@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6350-V",
+  "variant_type": "context_variant",
+  "title": "Needs-Based Foundational Programming Design",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An introductory programming course for undergraduate students, offering a blended learning environment combining theoretical lectures with hands-on sessions, conducted primarily through practical exercises using digital devices (e.g., laptops)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can recognize and explain the necessity of programming concepts in given problem scenarios",
+    "Learners can select appropriate programming structures to solve problems when abstraction levels change",
+    "Learners can write code that solves real-life problems by applying learned programming concepts"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE (Integrated Development Environment) for Programming Practice",
+      "Online Learning Management System (LMS)",
+      "Example Problem Dataset",
+      "Video Lecture Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

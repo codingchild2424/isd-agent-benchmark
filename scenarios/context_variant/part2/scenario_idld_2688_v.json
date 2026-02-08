@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2688-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Instructional Design for Addressing Heterogeneity in History Education: Differentiated Instruction",
+  "context": {
+    "prior_knowledge": "Core theories of history education and experience in lesson design",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Using differentiated instructional strategies, learners can analyze cognitive, affective, and sociocultural heterogeneity in history classes and design response plans.",
+    "Applying collaborative learning and scaffolding techniques, develop PBL activity plans that reflect the needs of diverse learner levels.",
+    "Develop a systematic rubric to evaluate historical concept comprehension and inquiry skills through a hierarchical approach."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

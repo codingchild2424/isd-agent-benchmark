@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0799",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Comparative Analysis of Scientific Inquiry-Based Medical Simulation Learning Effects Using Computer and Manikin Simulations: Variable Analysis and Evidence-Based Approach",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical/life science concepts, fundamental principles of emergency response, scientific inquiry methods (hypothesis formulation-experiment-analysis-conclusion), and foundational skills in designing controlled-variable experiments",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Integrates computer simulations (smartphone-accessible) with limited-environment mannequin practice. Aims to simultaneously enhance scientific reasoning (data interpretation, variable control) and clinical judgment (evidence-based decision-making). Stresses systematic inquiry (hypothesis-testing-experimentation-conclusion) using virtual patient data.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners observe virtual patients’ physiological variables (heart rate, blood pressure, respiratory rate, etc.) in computer simulations with 80% or higher accuracy and make scientifically evidence-based diagnoses and appropriate interventions.",
+    "Learners perform emergency response protocols with a 70% or higher success rate in mannequin simulations and systematically analyze and record experimental data (vital signs, response times, etc.).",
+    "Learners compare the scientific validity (experimental design, data reliability) and educational effectiveness of two simulation methods to develop the ability to select optimal inquiry tools for learning contexts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Simulation Software",
+      "Low-Cost Manikin Equipment",
+      "Standardized Assessment Rubric",
+      "Student Tablets (10 Units)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

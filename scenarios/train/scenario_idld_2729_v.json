@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2729-V",
+  "variant_type": "context_variant",
+  "title": "Online Science Course Development Through Collaborative Mentoring",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Course cultivating online course development capabilities in science fields through strengthened collaboration between faculty and instructional designers. Conducts project-based assessments in a smartphone-centric limited technological environment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can collaborate with instructional designers to establish science content development strategies aligned with learning outcomes.",
+    "Learners can design time-efficient online course development processes utilizing mentoring relationships.",
+    "Learners can produce science education materials applicable in limited technological environments for use in project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Friendly LMS",
+      "Scientific Simulation Tools",
+      "Collaborative Platform",
+      "Offline workbooks"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

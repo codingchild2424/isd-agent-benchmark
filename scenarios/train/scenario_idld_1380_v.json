@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1380-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Collaborative Mathematics Design Microlearning",
+  "context": {
+    "prior_knowledge": "Secondary-level foundational math concepts (functions, statistics, geometry) and basic smartphone utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-oriented mathematical modeling course for learners preparing to enter medical/legal/technical fields. Lightweight learning environment accessible solely via smartphones",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can specifically explain three collaborative learning design strategies for solving math problems in real-world occupational contexts",
+    "Learners can create microlearning sequences of five or more stages using a visual learning design tool based on IMS-LD standards",
+    "Learners can complete two math modeling tasks collaboratively with team members in a mobile environment and achieve at least 80% proficiency in formative assessments"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "IMS-LD compliant knowledge editor",
+      "Cloud-based Collaboration Platform",
+      "Occupation-Specific Mathematics Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

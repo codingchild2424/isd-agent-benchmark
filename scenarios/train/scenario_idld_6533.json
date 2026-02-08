@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6533",
+  "variant_type": "idld_aligned",
+  "title": "Blended Learning-Based Statistics Education Program for Practitioners",
+  "context": {
+    "prior_knowledge": "Elementary mathematics knowledge and data analysis experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Course for practicing elementary school teachers to cultivate statistical thinking applicable to real-world classroom scenarios, emphasizing hands-on practice using real educational data in simulation/VR environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners calculate and interpret descriptive statistics (mean, standard deviation, etc.) using real educational field data",
+    "Learners design and execute educational effectiveness analysis scenarios by applying hypothesis testing procedures",
+    "Learners write a 5-page report connecting statistical inference results to educational policies in VR simulation environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Authentic educational field data sets",
+      "VR Simulation Software",
+      "Statistical analysis tools (R/Python)",
+      "Merrill's First Principles of Instruction-based learning module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

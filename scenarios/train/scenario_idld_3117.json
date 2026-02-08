@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3117",
+  "variant_type": "idld_aligned",
+  "title": "Flipped Learning-Based Mathematics Problem-Solving Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts (equations, functions, statistics)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for enhancing job-linked mathematical application skills among in-service professionals, with an active-reflective learning balance considering diverse learning styles",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners independently solve at least three weekly math problems using video lectures and mobile resources in a flipped learning environment.",
+    "Learners submit project-based assessment tasks with a completion rate of 80% or higher under peer feedback and teacher guidance.",
+    "Learners derive at least two personalized learning strategies based on VARK (Visual/Auditory/Reading/Kinesthetic) learning style survey results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "BYOD-Supported LMS Platform",
+      "Responsive Design Mobile Learning Content",
+      "Real-Time Collaboration Tools (Slack, Padlet, etc.)",
+      "Learning Style Assessment Questionnaire"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

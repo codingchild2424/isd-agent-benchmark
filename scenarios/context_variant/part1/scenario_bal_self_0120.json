@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-0120",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-directed] Intensive Short-term Web Programming Fundamentals Course: LMS-based Practical Training",
+  "context": {
+    "prior_knowledge": "Elementary computer literacy (smartphone-level competency)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course providing mobile-optimized foundational web programming education for professionals to cultivate practical problem-solving skills.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design and implement responsive web page structures using HTML/CSS",
+    "Implement dynamic web content control functionality by applying basic JavaScript syntax",
+    "Navigate learning materials and perform assignment submission procedures through a mobile-optimized LMS system"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Real-Time Video Conferencing Tool",
+      "Responsive Web Design Template",
+      "Mobile-Based Code Editor"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

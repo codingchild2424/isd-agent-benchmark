@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7479",
+  "variant_type": "idld_aligned",
+  "title": "Short-Intensive Foundational Engineering Mechanics Course Based on Augmented Reality",
+  "context": {
+    "prior_knowledge": "Understanding Basic Physics and Mathematics Concepts (Force, Velocity, Acceleration, etc.)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students freely explore AR content via digital devices; though physical learning spaces are limited, mobile-optimized content is provided.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply methods for interpreting structures in static equilibrium states with over 85% accuracy via AR simulation.",
+    "Learners can explain at least three material mechanical properties by analyzing virtual force-strain experiment results.",
+    "Learners can visually represent the process of solving mechanics problems within 5 minutes using mobile-based AR modules."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR-compatible mobile device (1 per student)",
+      "Engineering Mechanics AR Content Package",
+      "3D Modeling Software License"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

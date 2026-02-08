@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0796",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Online Medical School Education Evaluation Tool Development Project",
+  "context": {
+    "prior_knowledge": "Completion of basic medical education and online learning experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in a BYOD environment, with the goal of developing online learning design evaluation tools for medical education",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Draft a questionnaire measuring evaluation items of an online medical education module on a 5-point Likert scale with over 80% team completion.",
+    "Verify the readability and interpretive consistency of survey items with over 90% user comprehension.",
+    "Establish a process for applying the developed assessment tool to at least three actual e-learning modules to collect data and analyze results.",
+    "Derive the usefulness and improvement points of the assessment tool through focus group discussions, based on over 85% participant satisfaction criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Survey platform",
+      "Delphi research guidelines",
+      "Online Learning Management System (LMS) Access",
+      "Statistical Analysis Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

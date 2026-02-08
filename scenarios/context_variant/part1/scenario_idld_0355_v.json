@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0355-V",
+  "variant_type": "context_variant",
+  "title": "Educational Game Design Workshop for Scientific Inquiry: Integrated Approach to Experiments, Hypotheses, and Variables with Evidence-Based Conclusion Drawing",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific experimental procedures (observation, hypothesis, variable control) and intermediate proficiency in digital tool utilization. Basic comprehension of experimental data measurement and analysis methods is required",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course strengthening competency in designing science education games based on gameplay loops within a smartphone-centric, limited technological environment. Focuses on enhancing scientific inquiry skills (measurement, analysis, conclusion-drawing) for elementary school students, emphasizing hands-on experience from experimental design to evidence collection and interpretation.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Develop elementary science experiment design scenarios using the 3-stage gameplay loop (goal-action-feedback) (e.g., scientific hypothesis → independent variable manipulation → dependent variable measurement → evidence analysis).",
+    "Create a scientific inquiry design plan linking learning objectives (experiment design, data analysis, conclusion drawing) to game mechanics (points, levels, rewards) at ≥80% alignment.",
+    "Build a smartphone-optimized prototype in Figma, simulate scientific conclusion-drawing processes through user feedback, and evaluate inquiry skills."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Free Figma Account",
+      "Basic Science Education Materials",
+      "Game design template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0527",
+  "variant_type": "idld_aligned",
+  "title": "Foundational Course on Federated Learning Optimization: Network Resource Management Strategies",
+  "context": {
+    "prior_knowledge": "Understanding of basic machine learning concepts and principles of distributed learning",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Mobile learning environment emphasizing project-based assessment, providing federated learning optimization experiences under real network constraints",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "A client grouping strategy utilizing a 2-hop communication protocol in environments with limited network resources can be designed.",
+    "In a hierarchical federated learning structure, adaptive client selection criteria can be applied to propose resource allocation plans for real-world scenarios.",
+    "Optimization strategies for federated learning parameter transmission, considering mobile device constraints, can be validated with experimental data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App",
+      "Simulation Software",
+      "Offline Workshop Space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

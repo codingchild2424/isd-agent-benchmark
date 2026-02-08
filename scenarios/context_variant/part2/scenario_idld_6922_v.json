@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6922-V",
+  "variant_type": "context_variant",
+  "title": "VR-Based Instrument Learning: Yangqin Performance Education Using Embodied Design and Visual Cues",
+  "context": {
+    "prior_knowledge": "Basic music theory and interest in instrumental performance",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Teaching competency enhancement course for preservice or in-service teachers. Aims to develop creative hobbies for workplace stress relief post-return. Establishes self-directed learning environments using VR technology",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Learners can perform yanggeum (Korean zither) basic playing techniques (rhythm, fingering, scales) in a VR environment with 80% accuracy",
+    "Learners can comparatively analyze differences in VR learning environments applying low/high embodiment design (LoEmb/HiEmb) and visual cues (LoViz/HiViz)",
+    "Learners can create a personalized performance portfolio reflecting VR learning experiences through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Bimodal VR learning modules (4 types: LoEmb & LoViz, LoEmb & HiViz, HiEmb & LoViz, HiEmb & HiViz)",
+      "VR headset (compatible with HTC Vive/Oculus Quest)",
+      "Personal smartphone/tablet (learning aid)",
+      "5 offline practice bimodal devices"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0265",
+  "variant_type": "balance_medium_scale",
+  "title": "Mobile-Based Design-Based Research (DBR) for Enhancing English Speaking Proficiency",
+  "context": {
+    "prior_knowledge": "Basic English communication skills and fundamental digital device operation proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Aims to provide personalized feedback and collaborative learning opportunities in large-class settings. Implements real-time recording/sharing and peer evaluation systems via mobile applications",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve TOEIC Speaking Test Level 5 or above (7-8 score points) within six months",
+    "In weekly project-based presentations, learners attain 80% or higher fluency scores when delivering 10+ minute English presentations",
+    "Learners achieve 3.5 or higher on a 4-point scale in peer feedback writing ability assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "User-friendly mobile app prototype",
+      "Voice analysis AI module",
+      "Feedback guideline templates",
+      "LMS Integration System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

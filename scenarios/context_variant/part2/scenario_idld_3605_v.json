@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3605-V",
+  "variant_type": "context_variant",
+  "title": "Blended Instructional Design for Foreign Language Teachers' Digital Literacy Competency",
+  "context": {
+    "prior_knowledge": "Basic foreign language education theory and computer literacy (Word, PPT, etc.)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical IT Literacy Development Using Virtual Learning Environments (e.g., OpenSim) and Constructivist Teaching Methods",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain at least three strategies for utilizing information technology tools (e.g., virtual world platforms, collaborative software) in foreign language education contexts.",
+    "Learners can apply the three presences (cognitive, teaching, and social) of the Community of Inquiry (CoI) framework to design virtual learning activities based on constructivist pedagogy.",
+    "Learners can implement foreign language class simulations using low-cost virtual environments (e.g., OpenSim, Sloodle) and evaluate learning outcomes."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "OpenSim/Sloodle Access Permissions",
+      "Online Collaboration Tools (Padlet, Google Workspace, etc.)",
+      "Basic IT Equipment (Laptop, Headset)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused",
+    "tech_requirements": "Digital devices provided"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

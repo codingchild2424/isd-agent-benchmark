@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4830-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Experiential Continuing Education (CE) Effectiveness Enhancement Program for Psychologists",
+  "context": {
+    "prior_knowledge": "Basic psychological theories and practical teaching experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Modular content optimized for smartphone-based learning environments. Discussion boards for teacher-learner interaction.",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately connect psychological theories with real-world educational cases by at least 80% through experiential learning modules lasting over one hour.",
+    "Learners can develop at least three practical strategies by applying multiple pedagogical approaches (discussion, simulation, case analysis).",
+    "Learners can apply at least two pieces of knowledge acquired via mobile platforms to actual classroom settings within two weeks."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Interactive Quiz Tool",
+      "Video Scenario Library",
+      "Mobile-Friendly PDF Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

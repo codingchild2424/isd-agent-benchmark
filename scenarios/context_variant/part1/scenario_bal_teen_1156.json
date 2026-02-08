@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-1156",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Mobile-Based Art Skill Development Program for Adults with Intellectual Disabilities",
+  "context": {
+    "prior_knowledge": "Basic smartphone operation skills and willingness for artistic expression",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Evening classes twice weekly for working professionals, with personalized learning assistant support.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Acquiring digital drawing and simple animation production skills using mobile devices",
+    "Learners can perform 5 basic dance movements in VR (3 repetitions each) with ≥80% accuracy and achieve ≥\"average\" ratings in ≥2 out of 3 peer evaluation rubric criteria (creativity, accuracy, expressiveness).",
+    "Learners can plan and produce an art piece (mural, installation art) addressing community issues (e.g., environmental protection, cultural diversity) in 3–4-person team projects, present it at a 2-hour exhibition in a school or local cultural center, and explain the intent to ≥10 visitors."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Art Education App",
+      "VR Headset (Institutional Rental)",
+      "Low-Cost Digital Tablet (Shared Equipment)",
+      "Accessibility-Enhancing Assistive Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

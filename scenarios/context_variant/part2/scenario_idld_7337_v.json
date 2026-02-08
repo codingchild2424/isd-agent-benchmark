@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7337-V",
+  "variant_type": "context_variant",
+  "title": "Pharmacist Continuing Education: E-Learning-Based Course for Enhancing Drug Information Communication Skills",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "20-minute SCORM 2004-compliant LMS modules in a BYOD environment, supported by real-time tracking systems and collaboration tools.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can convey core information with 80% accuracy when explaining drug interactions to elderly patients",
+    "Learners can perform drug side-effect case analyses at least three times per week through e-learning modules",
+    "Learners can create discussion records for at least two medication management scenarios with peer pharmacists using collaboration features in the LMS"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "SCORM 2004-Compliant LMS",
+      "Mobile-Optimized E-Learning Content",
+      "Web 2.0 Collaboration Tools",
+      "Learning activity tracking system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0482",
+  "variant_type": "idld_aligned",
+  "title": "Integrated Cognitive Learning Principles Intervention Program for Graduate Students with Mathematics Learning Difficulties",
+  "context": {
+    "prior_knowledge": "Basic Arithmetic Skills and Understanding of Fundamental Scientific Concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short intensive programs for graduate students in medical/legal/technical fields, conducted in mobile-based microlearning environments. Learners possess advanced domain expertise but struggle with mathematical concept application.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve over 80% accuracy in solving integer concept problems through explicit instruction-based math interventions.",
+    "Learners systematically solve complex math problems using a three-step or more approach by integrating Cognitive Learning Principles (CLPs).",
+    "Learners achieve a weekly average content completion rate of over 90% in mobile microlearning environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Mobile Learning Platform",
+      "Conversational Math Problem Simulation Tool",
+      "Automated Grading and Feedback System",
+      "Weekly Learning Progress Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

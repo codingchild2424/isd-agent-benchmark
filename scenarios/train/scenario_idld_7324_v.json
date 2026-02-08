@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7324-V",
+  "variant_type": "context_variant",
+  "title": "Intelligent Tutoring System Design and Domain Model Reusability Strategies",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A teaching competency enhancement program for pre-service or in-service teachers. Students design real ITS prototypes in team projects, develop domain model reuse strategies, and engage in practical sessions using digital devices.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate",
+    "learner_education": "University"
+  },
+  "learning_goals": [
+    "Explain the core components of an intelligent tutoring system (domain model, instructional strategy, learner model)",
+    "Design a reuse strategy for applying analyzed existing domain models to other ITS platforms",
+    "Implement a science-domain ITS prototype in a team-based setting and write a project report"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ITS (Intelligent Tutoring System) Authoring Tool Software License",
+      "Science Domain Standardized Knowledge Base Sample",
+      "ITS Case Study Materials",
+      "Project Management Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

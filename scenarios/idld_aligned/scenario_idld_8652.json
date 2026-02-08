@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8652",
+  "variant_type": "idld_aligned",
+  "title": "AI-Collaboration-Based Science Assessment Design Innovation Course",
+  "context": {
+    "prior_knowledge": "At least three years of practical experience in a scientific field and elementary digital literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-based mobile learning environment, focusing on practical tasks applicable to real-world work settings",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners develop the ability to evaluate the validity of AI-generated experimental designs according to scientific methodology standards",
+    "Learners can apply three or more ethical judgment criteria in the data analysis process using AI tools",
+    "After performing AI collaboration simulations in virtual reality environments, learners can demonstrate decision-making processes verbally or in written form"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Application",
+      "AI Chatbot Interface",
+      "Cloud-based Collaboration Platform",
+      "Science Experiment Simulation Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6742-V",
+  "variant_type": "context_variant",
+  "title": "Intensive English Mastery for Medicine: Mobile-Based Short-Term Course",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course emphasizing medical terminology acquisition and practical English communication skills for clinical scenarios",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can comprehend medical papers and clinical records with accurate vocabulary and grammar.",
+    "Learners can create an English summary using key medical terminology after listening to patient symptom descriptions.",
+    "Learners can conduct basic medical conversations (patient interviews, diagnostic explanations) in English for at least 5 minutes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Medical English audio clips",
+      "Interactive Quiz Module",
+      "Medical scenario PDF"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

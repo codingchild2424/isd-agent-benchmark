@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1921",
+  "variant_type": "idld_aligned",
+  "title": "Gamification-Based Instructional Design for Learning Spatial Building Volume",
+  "context": {
+    "prior_knowledge": "Fundamental geometry concepts and understanding of volume calculation formulas",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "The need to cultivate practical mathematical skills for professionals to solve spatial design problems linked to real work environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply spatial building volume calculation rules with 80% accuracy using the Mechanics component of the MDA framework.",
+    "Learners can independently solve volume calculation problems for complex spatial structures (rectangular prisms, cylinders, cones, etc.) at a rate of 70% or higher through gamification activities.",
+    "Learners can establish dynamic (Dynamics) problem-solving strategies for spatial optimization challenges via team-based game activities and perform at least three simulation validations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D spatial modeling kits",
+      "Tablet PCs (1:1 device ratio)",
+      "MDA framework-based game modules",
+      "Spatial design casebook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

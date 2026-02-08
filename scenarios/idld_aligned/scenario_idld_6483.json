@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6483",
+  "variant_type": "idld_aligned",
+  "title": "Remote and Face-to-Face Facilitated Simulation-Based Training Program: Enhancing Social Situational Response Competencies",
+  "context": {
+    "prior_knowledge": "Understanding of basic social issues and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended simulation training using an LMS (Learning Management System) in a BYOD environment, centered on social conflict resolution and communication scenarios.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can select appropriate response strategies in four types of social conflict simulations with over 80% accuracy.",
+    "Learners can establish behavior improvement plans reflecting peer feedback and instructor evaluations at least three times each in RF-SBT and LF-SBT environments.",
+    "Within 72 hours after simulation training, learners can propose two or more social problem-solving procedures applicable to real work environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Virtual Simulation Software",
+      "Pre-Built Social Scenario Database",
+      "Feedback Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

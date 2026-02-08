@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0066",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Blended Learning-Based Microlearning Program for Clinical Skills Education",
+  "context": {
+    "prior_knowledge": "Elementary Medical Terminology and Basic Patient Care Procedures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Optimizing smartphone-based learning in limited technological environments, enhancing visual materials to overcome language barriers",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can demonstrate five core clinical skills (blood pressure measurement, wound care, basic examination performance, etc.) with ≥80% accuracy.",
+    "Learners can improve emergency situation judgment skills by ≥70% through simulation-based mobile modules.",
+    "Learners submit team-developed clinical scenario reports in project-based assessments and achieve ≥4.0/5.0 through peer evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "3D Simulation Application",
+      "Offline Practice Kit",
+      "Video Lecture Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

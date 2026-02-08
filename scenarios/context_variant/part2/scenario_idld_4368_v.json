@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4368-V",
+  "variant_type": "context_variant",
+  "title": "Designing a Hypothetical Learning Trajectory for Understanding the Concept of Infinitely Many Solutions in Trigonometric Equations",
+  "context": {
+    "prior_knowledge": "Basic trigonometric concepts and understanding of finite solution sets",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learning content access via smartphones is the primary method, with modular learning conducted five times weekly (15 minutes per session).",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can understand the general solution representation of trigonometric equations and convert them into three or more expression formats.",
+    "Learners can explain the geometric meaning of infinite solution sets using the unit circle.",
+    "Learners can apply trigonometric equations to real-world problems (e.g., vibration period calculation) by utilizing periodicity and conjugate angle concepts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Interactive Simulation",
+      "Step-by-step problem-solving template",
+      "Video Lectures (5-Minute Segments)",
+      "Self-Assessment Quiz"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

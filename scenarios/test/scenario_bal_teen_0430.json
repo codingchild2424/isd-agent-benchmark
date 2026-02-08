@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0430",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Computer Model-Based Language Learning Design Project: Integrated Text and Speech Analysis Approach",
+  "context": {
+    "prior_knowledge": "Comprehension of basic scientific theories, computer literacy, knowledge of fundamental grammar and vocabulary, general understanding of language learning processes, foundational text analysis skills, and conceptual awareness of speech recognition",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Supports personalized device usage and collaborative learning with continuous formative feedback. Highlights AI-driven real-time feedback systems (text mining, voice spectrum analysis), customized vocabulary recommendations (frequency/difficulty-based), and pronunciation correction (voice waveform comparison). Learning portfolios track growth in reading/writing proficiency.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Cultivating the ability to analyze correlations between variables in language learning curricula (e.g., vocabulary acquisition patterns, pronunciation analysis, text structure) using computer models that explain scientific phenomena.",
+    "Learners apply a three-stage framework (problem definition → model development → validation) to design modeling-based PBL (Problem-Based Learning) projects. Over four weeks, teams develop prototypes solving real language learning problems (e.g., vocabulary acquisition, pronunciation correction, contextual understanding) and achieve ≥80% completion rates in peer and instructor evaluations. During this process, learners gain experience designing models that consider linguistic variables (text analysis, speech recognition, morpheme decomposition).",
+    "When designing English/Korean classes using ChatGPT or AI tutors, learners create a checklist of ≥3 items to diagnose the comprehension level (beginner/intermediate/advanced) of teenage learners. They submit a four-session lesson plan applying three teaching strategies per level (e.g., visual aids, step-by-step grammar explanations, interactive activities). Additionally, they develop a five-criterion rubric (writing: grammar accuracy, vocabulary diversity; reading: text structure understanding, inference skills; expression: syntactic complexity, fluency) based on AI model outputs, achieving ≥80% suitability in peer reviews and instructor verification."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-source computer modeling tools (e.g., PhET simulations)",
+      "Collaborative platforms (e.g., Google Jamboard)",
+      "Science Education Content Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

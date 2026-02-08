@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7915-V",
+  "variant_type": "context_variant",
+  "title": "Intelligent Substation Photonic Circuit Design Automation Project",
+  "context": {
+    "prior_knowledge": "Basic Electrical Engineering, Neural Network Algorithm Understanding, Programming Fundamentals (Python), Data Analysis Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Preservice teachers explore integrating AI technologies into education while solving real industrial problems, combining collaborative and individual projects in BYOD settings",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Neural network-based decision tree models can automatically generate circuit diagrams that meet substation optical circuit design requirements",
+    "The SPCD dataset can be analyzed to extract design standardization patterns and apply them to neural network training",
+    "Through project-based assessment, learners can quantitatively analyze design efficiency and accuracy and propose improvement measures"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook Environment",
+      "TensorFlow/PyTorch libraries",
+      "SPCD Sample Dataset",
+      "Substation Design Standard Manual",
+      "GitHub Collaboration Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

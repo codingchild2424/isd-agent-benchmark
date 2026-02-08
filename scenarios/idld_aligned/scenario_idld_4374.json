@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4374",
+  "variant_type": "idld_aligned",
+  "title": "Online Graduate Disaster Research and Statistics Education: Interactive Team-Teaching Based Instructional Design",
+  "context": {
+    "prior_knowledge": "Foundational statistics and research methodology understanding, along with basic disaster management concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasizes team-based collaboration and real-time feedback in a Bring Your Own Device (BYOD) environment. Applies a model where two instructors interact and lecture without geographical constraints.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Solve empirical research problems by applying intermediate statistical techniques (regression analysis, ANOVA, etc.) for disaster research data analysis",
+    "Structure research design processes through collaboration with peer learners and instructors in interactive team-teaching environments",
+    "Systematically perform data collection-analysis-interpretation processes by selecting disaster-related research topics through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Statistical Analysis Software (SPSS/R/Python)",
+      "Disaster Research Dataset",
+      "Online Collaboration Tools (Miro/Google Workspace)",
+      "Lecture Recording Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

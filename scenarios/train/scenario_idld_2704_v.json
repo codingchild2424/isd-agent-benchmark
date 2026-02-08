@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2704-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Clinical Practical Competencies: Rugby Place-Kick Success Factors Analysis and Simulation-Based Training",
+  "context": {
+    "prior_knowledge": "Basic physics proficiency and foundational knowledge of exercise mechanics",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify 11 core constraints affecting placekick success rates with 85% accuracy",
+    "Learners can classify success probabilities by kick angle/distance into three levels (low/medium/high) using simulation tools",
+    "Teams can predict the impact of environmental variables (wind, fatigue, etc.) on success rates with over 70% accuracy through developed kick simulation models"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Records (EMR) System",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

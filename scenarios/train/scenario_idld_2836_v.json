@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2836-V",
+  "variant_type": "context_variant",
+  "title": "Advanced Data Science Curriculum Utilizing Blended Problem-Solving Learning",
+  "context": {
+    "prior_knowledge": "Basic statistics, programming (Python/R), and foundational data analysis concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "In a blended learning environment using digital devices, this program emphasizes real-data-driven projects aligned with office/administrative professionals' job relevance.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "They develop the ability to systematically solve complex analytical problems using real business data",
+    "They independently perform the entire process of data visualization, machine learning model building, and result interpretation through team-based collaboration",
+    "Learners can perform three or more data preprocessing steps (handling missing values, outlier removal, variable transformation) on real datasets (e.g., Kaggle, public data) using Jupyter Notebook or RStudio, and write a visualization and statistical analysis report in Markdown/PDF format (minimum 5 pages)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cloud Platform for Data Analysis (Google Colab/AWS SageMaker)",
+      "Real-World Corporate Data Sample Set",
+      "Collaboration Tools (Slack/Notion)",
+      "Automated grading system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7874-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Software Development Practical Competencies: Blended Information Literacy Capability Enhancement Course",
+  "context": {
+    "prior_knowledge": "Basic digital literacy (able to use smartphones proficiently)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can select materials by applying evaluation criteria for three or more reliable online information sources.",
+    "Learners can understand CC license types and utilize at least two OER materials suitable for their tasks.",
+    "Learners complete microlearning modules on a smartphone-based LMS with over 80% accuracy and submit feedback-incorporated projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

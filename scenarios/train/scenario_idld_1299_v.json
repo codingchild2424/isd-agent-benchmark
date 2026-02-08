@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1299-V",
+  "variant_type": "context_variant",
+  "title": "UDL-Based Asynchronous Online Class Design for Inclusive Science Learning",
+  "context": {
+    "prior_knowledge": "Intermediate-level foundational knowledge in science and proficiency in online learning tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are students or job seekers with diverse academic and gender backgrounds; conducted in a BYOD environment with formative assessment-driven engagement analysis",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain scientific concepts with over 90% comprehension using diverse materials (text, video, simulations) based on UDL principles.",
+    "Learners can propose scientific problem-solving solutions at least three times by exchanging peer feedback on asynchronous discussion boards.",
+    "Learners can establish self-directed learning plans and achieve over 80% learning outcomes through weekly learning logs."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Content Library for Science Subjects",
+      "Asynchronous Discussion Platform",
+      "Automated Grading Quiz System",
+      "Accessibility Support Tools (Caption Generator, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

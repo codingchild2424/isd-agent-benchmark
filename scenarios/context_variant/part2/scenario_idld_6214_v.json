@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6214-V",
+  "variant_type": "context_variant",
+  "title": "Science Curriculum Utilizing a VR-Based Flow Learning Model",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and experience with VR device operation",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Immersive learning environment utilizing VR devices in smartphone-centric limited-technology settings. Continuous progress monitoring via formative assessments, with personalized feedback through teacher-learner interactions",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will explore and experiment with scientific phenomena in VR environments to explain scientific principles with over 80% accuracy.",
+    "Through a VR-based flow learning model, learners will maintain learning motivation by achieving immersion (flow state) of over 75%.",
+    "By incorporating formative feedback from problem-solving processes in VR simulations, learners will improve scientific problem-solving abilities by 40%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Devices (Cardboard, Low-Cost VR Headsets)",
+      "VR Science Content Library",
+      "Cloud-Based Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

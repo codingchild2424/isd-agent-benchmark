@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-8208-V",
+  "variant_type": "context_variant",
+  "title": "Integrated Computer-Based and Hands-On Learning Design for Understanding Electrical Circuits",
+  "context": {
+    "prior_knowledge": "Understanding of basic electrical concepts (current, voltage, resistance)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A non-real-time online self-directed learning program for working professionals, combining computer simulations and offline practical activities using personal devices, with collaborative learning encouraged through small group activities",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the functions of basic components in an electrical circuit (light bulb, battery, switch, etc.) and interpret circuit diagrams.",
+    "Apply Ohm’s Law to calculate voltage, current, and resistance in simple series/parallel circuits.",
+    "Design virtual circuit experiments and analyze results using computer simulation tools (e.g., PhET Circuit Construction Kit).",
+    "Learners will design three or more circuits (e.g., series/parallel circuits, LED blinking circuits) using physical components like breadboards, resistors, and LEDs, verify that oscilloscope-measured voltage/current values align within ±10% of theoretical calculations, and document a systematic resolution of at least two errors in a report.",
+    "Present job-related applications of electrical safety based on learned content."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (with Video, Quiz, and Forum Features)",
+      "Virtual Lab Tools (e.g., PhET Circuit Construction Kit)",
+      "Individual Practice Kit (Breadboard, Wires, Resistors, LEDs, etc.)",
+      "PDF Worksheets and Assessment Rubrics"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

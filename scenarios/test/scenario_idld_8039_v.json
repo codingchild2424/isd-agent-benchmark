@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8039-V",
+  "variant_type": "context_variant",
+  "title": "Formal Ontology-Based Instructional Design Theory Mastery Course",
+  "context": {
+    "prior_knowledge": "Basic Mathematical Concepts and Experience in Mobile Learning Environments",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Optimizing smartphone-based learning environments for office/administrative professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design mobile learning modules by utilizing ontology-based instructional design principles",
+    "Learners can structure learning activity sequences according to IMS Learning Design (IMS LD) standards",
+    "Learners can develop constraint-based learning scenarios by applying SWRL rule engines"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "OWL/SWRL Educational Simulation Tool",
+      "Mobile-Friendly Learning Materials (PDF/Video)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

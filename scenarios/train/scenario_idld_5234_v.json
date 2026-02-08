@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5234-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Collaborative Attitude Change Process for Human Trafficking Prevention: Teacher Training",
+  "context": {
+    "prior_knowledge": "Understanding basic concepts of human trafficking, no educational field experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze the social impacts of human trafficking issues and develop a critical perspective.",
+    "In a collaborative learning community, learners engage in cognitive dissonance experiences for attitude change through peer discussions and feedback at least three times.",
+    "When designing human trafficking prevention education activities, learners can apply at least two social presence strategies to enhance learner engagement."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

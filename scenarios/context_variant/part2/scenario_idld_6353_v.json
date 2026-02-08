@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6353-V",
+  "variant_type": "context_variant",
+  "title": "Medication Safety Competency Training for Nursing Practitioners (Based on the 4C/ID Model)",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A medication safety education program for practicing nurses, emphasizing integrated knowledge and technical competencies through the 4C/ID model, with project-based assessments conducted in a digitally supported environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify over 90% of the eight major medication errors that may occur during oral and injectable medication processes through simulation-based training according to the 4C/ID model",
+    "Learners can develop 100% patient-tailored medication plans through analysis of drug interaction and adverse effect cases",
+    "Learners can apply medication safety protocols to actual clinical cases with over 85% accuracy through reflective journaling and team-based problem-solving"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Medication Safety Simulation Software",
+      "Interactive Digital Workbook",
+      "Real-Time Video Conferencing System",
+      "Electronic Assessment Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

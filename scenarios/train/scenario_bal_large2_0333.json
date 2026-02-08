@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0333",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Fundamentals of Robot Navigation Algorithms: Scientific Environment Exploration and Experimental Design Based on Ultrasonic Sensors",
+  "context": {
+    "prior_knowledge": "Foundations of robotics, introductory programming, understanding sensor operation principles, basic knowledge of scientific inquiry methods",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-oriented education focusing on understanding indoor environment mapping and obstacle avoidance algorithms using ultrasonic sensors. Aims to strengthen experimental design and data analysis skills.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners explain the scientific principles of grid-based map generation algorithms and simulate simple environments.",
+    "Learners implement an experimental process to estimate obstacle locations by analyzing ultrasonic sensor data and validate the measurement data.",
+    "Learners can design robotic movement paths in unpredictable environments by applying behavioral learning algorithms and derive conclusions based on observational data."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile Devices",
+      "Simulation software (web-based)",
+      "Ultrasound sensor dataset samples"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

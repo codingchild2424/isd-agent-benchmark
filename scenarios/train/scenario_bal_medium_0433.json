@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0433",
+  "variant_type": "balance_medium_scale",
+  "title": "Summer Learning Effect Enhancement Program Utilizing Digital Blogs",
+  "context": {
+    "prior_knowledge": "Basic proficiency in using digital devices and experience with online communication",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Digital language learning program to mitigate summer learning loss among economically vulnerable students",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students achieve writing proficiency improvement by completing five weekly topic-based writing assignments through one-week blog activities",
+    "Based on peer blog feedback, students perform critical reading activities over three times weekly, demonstrating improved reading comprehension",
+    "By achieving over 80% participation rates at program closure, summer learning loss effects are mitigated"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Blog Platform (WordPress/Google Blogger)",
+      "Weekly Thematic Activity Sheets (PDF)",
+      "Teacher Guide Documentation",
+      "Digital badges for student engagement incentives"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

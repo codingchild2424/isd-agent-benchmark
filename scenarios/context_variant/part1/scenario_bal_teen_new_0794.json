@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0794",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] IoT-based Mechatronics Project: Smart Environmental Monitoring",
+  "context": {
+    "prior_knowledge": "Basic computer and smartphone usage skills, general interest in engineering",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners primarily use smartphones to conduct team projects for real-life problem-solving. Focuses on cloud data visualization and basic IoT system construction.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the operating principles of IoT-based weather measurement devices using the EMCF framework",
+    "Learners can build an IoT system that measures three or more environmental variables (temperature, humidity, etc.) through team-based projects",
+    "Learners can apply methods to visualize real-time data and export it as CSV files using the mobile interface (GUI-MEIoT)",
+    "Learners can derive practical insights for smart environmental management by analyzing collected data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MEIoT Weather Observation Kit (Sensors, Microcontroller)",
+      "Public cloud platform access permissions",
+      "Smartphone-compatible GUI-MEIoT application",
+      "USB-chargeable Raspberry Pi Zero W"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

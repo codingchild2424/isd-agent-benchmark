@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1889-V",
+  "variant_type": "context_variant",
+  "title": "Science Information Search and Learning Effectiveness Program Using Virtual Reference Services",
+  "context": {
+    "prior_knowledge": "Basic scientific information retrieval skills and smartphone utilization skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Skill enhancement program for scientific information retrieval in limited smartphone environments, incorporating chat/IM-based education, co-browsing technology, and practice-oriented tasks to drive engagement and workplace application",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform scientific database search methods with 80% accuracy through chat/IM-based interactions.",
+    "Learners can demonstrate real-time scientific information search processes using cobrowsing tools.",
+    "Learners can apply information obtained from virtual reference services to solve practical problems in three or more practice assignments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Chat/IM Platform",
+      "Co-Browsing Software License",
+      "Access to scientific information databases"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

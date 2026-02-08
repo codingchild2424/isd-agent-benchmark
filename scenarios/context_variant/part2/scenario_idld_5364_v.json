@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5364-V",
+  "variant_type": "context_variant",
+  "title": "Reinforcement Learning Modeling for Edge State Design of Phononic Crystal Beams",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners are university students with beginner-level math knowledge aspiring to professional careers, utilizing personal devices for flexible scheduling. Edge-state design abilities are assessed through project-based evaluations.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain structural parameters and bandgap formation principles of periodic stepped phononic crystal beams",
+    "Design phononic crystal structures with target bandgaps using reinforcement learning models",
+    "Predict edge state frequency bands through modal analysis and verify via transmission/reflection experiments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Reinforcement learning framework (OpenAI Gym, TensorFlow)",
+      "Structural analysis software (COMSOL/ANSYS)",
+      "Phononic crystal modeling dataset",
+      "Python-based numerical analysis tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

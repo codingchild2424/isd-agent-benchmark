@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0529",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Short-Intensive Course on Utilizing SMS-Based Mathematics Formative Assessment Systems",
+  "context": {
+    "prior_knowledge": "Basic Mathematical Operations and Understanding of Function Concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Immediate feedback provided through SMS-based quizzes linked to real-time lectures. Mobile device usage is mandatory.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners solve math problems delivered via SMS with 80% accuracy within 10 minutes.",
+    "Learners supplement weak concepts within 24 hours based on SMS quiz results.",
+    "Learners achieve over 90% participation in weekly SMS quizzes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "SMS Messaging System",
+      "Automated Grading Module",
+      "Quiz Item Database",
+      "Mobile Devices"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

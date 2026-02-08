@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6729-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Augmented Reality-Based English Vocabulary Instructional Design for Low-Achieving Students",
+  "context": {
+    "prior_knowledge": "Basic English vocabulary comprehension and digital device usage skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening MAR (Multimedia-Assisted Reading) content design competencies for pre-service/in-service teachers targeting low-achieving students (LINUS).",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design three or more English vocabulary learning scenarios using MAR technology.",
+    "Learners can apply assessment tools to measure vocabulary acquisition effects for low-achieving students.",
+    "Learners can explain the MAR learning material development process based on the ADDIE model."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smart Devices",
+      "AR Authoring Tool (Unity/Unreal Engine, etc.)",
+      "BPVS III Assessment Scale",
+      "Existing Textbook Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

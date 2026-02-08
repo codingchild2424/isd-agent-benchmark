@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4310",
+  "variant_type": "idld_aligned",
+  "title": "Science Education Design Using Infographics: ADDIE Model-Based Short-Term Intensive Course",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and proficiency in fundamental digital tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learner role: students/job seekers, domain expertise: advanced, assessment method: formative assessment-focused, technology environment: BYOD (Bring Your Own Device)",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "The science-themed infographic design process can be explained by applying the five stages of the ADDIE model (Analysis-Design-Development-Implementation-Evaluation).",
+    "An optimized combination of text, images, and graphs can be designed for the visual delivery of scientific concepts.",
+    "A science infographic prototype can be created with a small team using online collaboration tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Canva or Piktochart License",
+      "Open-source image database for science education",
+      "Collaborative Discussion Board within LMS"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

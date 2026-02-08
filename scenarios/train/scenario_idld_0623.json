@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0623",
+  "variant_type": "idld_aligned",
+  "title": "Online Mathematics Competency Enhancement Program for Adult Learners",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and experience applying mathematics to job-related tasks",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Professionals in healthcare, legal, and technical fields require optimized smartphone-based content due to high demand for applied mathematics in their duties.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform application strategies using prior knowledge to solve math problems in job environments with 80% accuracy.",
+    "Learners can independently analyze complex math concepts by at least 70% using step-by-step guides (video/asynchronous feedback) provided by instructors.",
+    "Learners can form a social presence by maintaining interactions with peer learners at least twice a week through online discussion boards and collaborative assignments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Pre-Recorded Lecture Videos",
+      "Interactive Quiz Platform",
+      "PDF Learning Guide",
+      "Automated grading system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

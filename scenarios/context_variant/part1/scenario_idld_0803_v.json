@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0803-V",
+  "variant_type": "context_variant",
+  "title": "Affect-Based Multimedia Science Learning Design: Integration of Self-Explanation and Positive Agents",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A neuroscience fundamentals course delivered in a smart device-centric, restricted environment. Requires a design integrating emotional engagement and generative learning activities for learners.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "With support from digital agents that induce positive emotional responses, learners can explain synaptic transmission mechanisms with 85% or higher accuracy",
+    "Using self-explanation strategies, learners can reconstruct core concepts of learning content into three or more analogies",
+    "During video-based learning, learners increase learning efficiency by focusing on 70% or more of the key visual elements identified through eye-tracking data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive web-based LMS platform",
+      "Smartphone-Compatible Learning Video Production Tool",
+      "Mobile Learning Analytics Software with Eye-Tracking Functionality",
+      "Text-to-Speech (TTS) Supported Self-Explanation Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

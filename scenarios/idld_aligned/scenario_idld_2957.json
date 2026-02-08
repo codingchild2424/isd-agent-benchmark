@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2957",
+  "variant_type": "idld_aligned",
+  "title": "Academic Library Online Research Guide: Instructional Design and Accessibility-Centered Redesign",
+  "context": {
+    "prior_knowledge": "Library resource search skills and basic digital literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "In-service professionals redesigning science research guides through project-based implementation.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply pedagogical principles (optimizing learner pathways, integrating interactive elements) when designing online research guide structures.",
+    "Learners can implement accessibility requirements (keyboard navigation, alternative text, etc.) aligned with WCAG 2.1 AA standards in guides.",
+    "Learners can systematize science research material recommendations by analyzing topic-centric search patterns.",
+    "Learners can prototype guide scenarios tailored to real library use cases through PBL team activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Devices (Laptops/Tablets)",
+      "Library Collection Metadata",
+      "Accessibility Validation Tool",
+      "Research Guide Templates"
+    ],
+    "accessibility": "WCAG 2.1 AA 준수",
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

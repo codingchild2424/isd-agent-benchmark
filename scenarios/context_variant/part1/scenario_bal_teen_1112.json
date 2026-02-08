@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-1112",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Short-Intensive Programming Course Based on Scientific Inquiry Competencies Using Educational Robotics",
+  "context": {
+    "prior_knowledge": "Understanding of basic programming concepts, foundational experience in operating robotic systems, basic grasp of the scientific inquiry process (hypothesis formulation–experimentation–observation–analysis–conclusion), and familiarity with variable control and data recording methods",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-time collaborative learning and individual project implementation using mobile-based microlearning platforms in BYOD environments. Learners apply scientific methodologies to measure and analyze experimental results per session, improving programming strategies. Emphasizes systematic recording of observational data, graphing, and visual analysis of performance changes.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners demonstrate basic competencies in algorithm design and debugging through robot control programming, derive scientific conclusions based on experimental data, and strengthen evidence-based conclusion skills during measurement/analysis processes with variable control.",
+    "In STEM-integrated problem-solving using educational robots, learners apply creative programming strategies, experience scientific inquiry methods through identifying independent/dependent variables, and cultivate iterative experimental design and comparative data analysis skills for hypothesis verification.",
+    "Learners develop robot control programs (line tracing or obstacle avoidance) in 5 days with 3–4 teammates, perform version control via ≥1 daily GitHub commits, report role-based progress in daily scrum meetings (15 min/day), and collaborate by dividing hardware/software/testing roles. Each team produces ≥3 observation records, analyzes ≥2 robot performance metrics (travel time, error rate, etc.), derives ≥1 improvement plan, and meets ≥3 of 5 evaluation criteria in the final presentation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Educational robotics kit",
+      "Mobile Learning Management System (LMS)",
+      "Robot Simulation Software",
+      "STEM Integrated Problem Bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

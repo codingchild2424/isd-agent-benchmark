@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1619",
+  "variant_type": "idld_aligned",
+  "title": "Master Class on Information Extraction Based on Large Language Models",
+  "context": {
+    "prior_knowledge": "Basic Python programming, foundational machine learning, understanding of natural language processing concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducted in a smartphone-based micro-content learning environment, with modular 15-minute sessions held 3–5 times weekly. Offline workshops are conducted once monthly.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can build an LLM (Large Language Model) specialized for information extraction tasks by fine-tuning parameters under 500MB using the PEFT (Parameter-Efficient Fine-Tuning) technique.",
+    "Learners can design a conversion mechanism between structured output formats (e.g., IOB, XML) and natural language output with over 90% accuracy.",
+    "Learners can execute an information extraction model training pipeline within 24 hours in a resource-constrained computing environment."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "PyTorch Mobile-Supported Devices",
+      "Google Colab Free Account"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

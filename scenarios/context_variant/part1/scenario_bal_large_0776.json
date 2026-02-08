@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0776",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Design-Based Learning (DBL) Project for Solving Higher Education Mathematics Problems",
+  "context": {
+    "prior_knowledge": "University-level foundational mathematics (calculus, linear algebra) and basic programming knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A project-centered course solving industry-based mathematical problems through design thinking. Students perform team assignments using LMS and collaboration tools in a BYOD environment, with summative assessments measuring learning outcomes.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "They can mathematically model real-world industrial problems and design optimization solutions.",
+    "They enhance communication skills using collaboration tools while performing team-based mathematical design projects.",
+    "Using the four stages of Design-Based Learning (DBL) (problem definition, modeling, simulation, validation), learners will apply mathematical theories (e.g., linear programming, probability models) to solve ≥3 industry field problems (e.g., process optimization, resource allocation). Solutions must achieve ≥80% in two of three evaluation criteria: validity, practicality, and accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Online collaboration tools (Notion, Miro, etc.)",
+      "Industry-linked case dataset",
+      "Mathematical Modeling Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

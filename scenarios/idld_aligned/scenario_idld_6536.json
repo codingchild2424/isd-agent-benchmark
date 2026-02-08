@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6536",
+  "variant_type": "idld_aligned",
+  "title": "Diabetes management education through escape game-based learning",
+  "context": {
+    "prior_knowledge": "Possession of foundational health management knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Focuses on designing simple learning activities via smartphones, with educational content structured for immediate application to daily tasks by professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the principles of blood glucose management and dietary control methods for diabetic patients with over 80% accuracy",
+    "Learners can suggest three or more appropriate coping strategies when analyzing real-world cases for preventing diabetic complications",
+    "Learners can accurately perform five insulin administration procedures and precautions through virtual scenarios"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-Compatible Content",
+      "PDF Activity Sheet",
+      "Online Quiz Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

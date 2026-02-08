@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-3015-V",
+  "variant_type": "context_variant",
+  "title": "Virtual University Cost Analysis: Educational Economics Using Activity-Based Costing (ABC) Model",
+  "context": {
+    "prior_knowledge": "Experience with online learning platforms (LMS), understanding of basic economics concepts, and general familiarity with virtual educational environments",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A cost analysis course for virtual university education conducted in a smartphone-centric, constrained technological environment, exploring efficient allocation of educational resources under realistic limitations for professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "The five core activity types of the ABC model (instructional design, content development, technical support, etc.) can be identified and explained",
+    "Indirect costs (system maintenance, monitoring, etc.) incurred in virtual education environments can be calculated with over 80% accuracy",
+    "By analyzing the cost allocation for each learning activity, it is possible to propose improvements to the budget structure of educational institutions.",
+    "It is possible to establish a strategy for optimizing educational costs under limited technological environments (smartphone-centric)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform (smartphone-compatible)",
+      "ABC calculation template (Excel/Google Sheets)",
+      "Virtual Education Case Database",
+      "Cost Analysis Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

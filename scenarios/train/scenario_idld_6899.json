@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6899",
+  "variant_type": "idld_aligned",
+  "title": "Analysis of Pretraining Effects and Video Instructional Learning Strategies in Computer-Based Learning Environments",
+  "context": {
+    "prior_knowledge": "Knowledge of fundamental social science theories and experience using computer-based learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners asynchronously access content using personal devices and apply knowledge through project-based assessment. Focuses on systematically understanding complex concepts in social sciences.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain complex concepts in social sciences with over 80% accuracy through video-based direct instruction.",
+    "Learners can write an experimental report comparing learning efficiency by measuring changes in cognitive load based on prior training.",
+    "Learners can complete a project analyzing the effects of learning motivation and topic interest on cognitive load and academic performance."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Video Lecture Materials",
+      "Cognitive Load Measurement Questionnaire",
+      "Learning Outcome Assessment Tool",
+      "Self-Directed Learning Management Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

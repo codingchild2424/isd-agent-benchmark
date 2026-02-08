@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1827-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Competencies: ADDIE Model-Based Integration of Civic Education and Indigenous Knowledge",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design a civic education program incorporating indigenous knowledge by applying the five stages of the ADDIE model (Analysis, Design, Development, Implementation, Evaluation).",
+    "Learners can evaluate the scientific value of indigenous knowledge and develop locally applicable educational modules by analyzing a case study from North Sulawesi, Indonesia.",
+    "Learners can create a hybrid assessment tool to measure cultural understanding and civic engagement competencies through project-based evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

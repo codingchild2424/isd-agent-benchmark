@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1815",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Simulation-Based Learning for Output Constraint Control of Robotic Manipulators",
+  "context": {
+    "prior_knowledge": "Control systems fundamentals, basic robotics concepts, and MATLAB/Simulink basics",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Flexible learning environment for remote workers, utilizing personal devices",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can mathematically define output constraints of robotic manipulators and implement them in simulation environments",
+    "Learners can design Barrier Function-based state feedback controllers to apply control algorithms meeting safety requirements",
+    "Learners can verify and refine hybrid control strategies combining Iterative Learning Control (ILC) with state feedback in simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Robotic Manipulator Simulation Software (Simulink Robotics System Toolbox)",
+      "Case-Based Learning Materials (Rehabilitation Robot EMU Model)",
+      "Mobile-Compatible E-Learning Platform (LMS)",
+      "Real-Time Collaboration Tools (Slack/Discord)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

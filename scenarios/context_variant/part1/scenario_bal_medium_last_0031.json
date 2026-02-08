@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0031",
+  "variant_type": "balance_medium_last",
+  "title": "Micro-Module Design for Strengthening Statistical Data Interpretation Competencies",
+  "context": {
+    "prior_knowledge": "Basic Statistical Concepts (Mean, Variance, etc.) Comprehension and Basic SPSS/R Usage Skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "In an interdisciplinary course combining linguistics and applied statistics, modular 15-minute learning sessions are conducted using mobile devices.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately derive t-test results from experimental data using SPSS/R.",
+    "Learners can select and generate appropriate visualization charts (heatmap/boxplot) aligned with research questions.",
+    "Learners can write reports explaining statistical significance and effect size together when interpreting analysis results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Statistical Software Package",
+      "Interactive Quiz Generation Platform",
+      "LMS-Integrated Analytics Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

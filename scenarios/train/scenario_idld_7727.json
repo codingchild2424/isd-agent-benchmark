@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7727",
+  "variant_type": "idld_aligned",
+  "title": "Practice-Based Learning Design for Optimizing Classroom Space Utilization",
+  "context": {
+    "prior_knowledge": "Grasp of basic scientific concepts and experience using simple digital tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Course for aspiring early-career professionals in medical, legal, and technical fields to analyze classroom space usage patterns via smartphone-based data visualization and develop effective learning design skills",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can visualize classroom space usage patterns using at least three visual indicators (e.g., heatmaps, movement trajectories) by collecting and analyzing indoor location data",
+    "Learners can explain at least two ways classroom layout impacts learning engagement based on data visualization results.",
+    "Learners can propose three or more actionable improvements for actual classroom implementation using comparative spatial utilization data from peer teachers/learners."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based Location Tracking App",
+      "Low-Specification Tablet (One Device per Person)",
+      "Printable Spatial Layout Template",
+      "Offline collaboration board (whiteboard, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

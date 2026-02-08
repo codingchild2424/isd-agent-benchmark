@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2426-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Math Microlearning Course for Adult Learners",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Basic mathematics proficiency enhancement course for solving daily-life problems in smartphone-only access environments. Learners are working professionals studying outside work hours",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners complete over 90% of 5-minute microlearning content provided via a smartphone app within two weeks.",
+    "At the end of the course, learners can apply three basic equations for solving real-life problems (e.g., discounted purchases, budget calculations) with 80% accuracy.",
+    "Learners demonstrate interaction skills by exchanging questions and feedback at least once a week in mobile discussion forums with peer learners."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible Learning App",
+      "PDF worksheets",
+      "Weekly Quiz Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

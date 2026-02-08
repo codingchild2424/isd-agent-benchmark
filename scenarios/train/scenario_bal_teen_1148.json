@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-1148",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] LLM Utilization Strategy for Data Science Problem Solving",
+  "context": {
+    "prior_knowledge": "Understanding of foundational machine learning concepts, no programming experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learning practical applications of LLMs for solving real-world data science problems, structured with hands-on activities accessible via smartphone-based environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "By the end of the 1-week course, learners can generate Python code under 50 lines using LLMs (e.g., ChatGPT, Copilot) for three types of data science problems (data preprocessing, visualization, predictive modeling) and design executable solutions scoring an average of 3+ on a 4-point scale (1–4) through peer evaluation.",
+    "Acquisition of the ability to comparatively analyze the effectiveness of Few-shot Prompting (FSP) and Tree of Thought (ToT) strategies.",
+    "Within a 1-week course, learners can perform three or more experiments to improve model accuracy by over 5% using an LLM model (e.g., GPT-3.5-turbo) and hyperparameter tuning tools (e.g., Hugging Face Transformers), adjusting learning rates (0.0001–0.01 range) and batch sizes (16–64 range), and compare results.",
+    "Development of the ability to evaluate solutions by comparing LLM-generated results with AutoML framework outcomes."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone or tablet",
+      "Online LLM Platforms (Colab, Hugging Face, etc.)",
+      "Kaggle Sample Datasets",
+      "Simplified Code Evaluation Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

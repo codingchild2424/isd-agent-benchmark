@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0223",
+  "variant_type": "balance_self_filtered",
+  "title": "MOOC-Integrated Instructional Design for [Self-Directed] Corporate Practitioners: Simulation/VR-Based Learning Strategies",
+  "context": {
+    "prior_knowledge": "Online learning experience and basic digital literacy",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Integrating MOOCs into campus education to enhance workplace relevance for current practitioners. Requires personalized learning designs considering motivational profiles and psychological needs.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can self-direct learning activities at least three times weekly in an integrated learning environment combining MOOCs with simulation/VR.",
+    "Learners can design VR simulations to solve social problems with over 80% accuracy by connecting MOOC content with corporate case studies.",
+    "Learners can develop personalized learning strategies based on motivational profiles (self-determination, assessment-driven, trust-driven) and submit reflective reports on implementation outcomes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS-Integrated MOOC Platform",
+      "VR Equipment Rental System",
+      "Motivational Profile Diagnostic Tool",
+      "Social Issue Resolution Simulation Scenario Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0002",
+  "variant_type": "balance_large_last",
+  "title": "Mathematics Learning Design to Enhance Self-Regulated Learning in Blended Environments",
+  "context": {
+    "prior_knowledge": "High school-level foundational mathematics knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized mathematics learning course in smartphone-centric limited-technology environments. Monitors learning outcomes and provides feedback through formative assessments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can develop self-regulated learning plans based on learning analytics data in blended learning environments",
+    "Learners can maintain learning engagement at 80% or higher using self-regulated learning support tools (e.g., progress checklists, personalized notifications) within the LMS",
+    "Learners can improve self-regulated learning strategies through weekly reflective journaling and feedback incorporation"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Math concept video",
+      "Interactive quiz tool",
+      "Learning analytics report template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

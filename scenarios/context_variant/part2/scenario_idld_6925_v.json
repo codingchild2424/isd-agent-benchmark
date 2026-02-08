@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6925-V",
+  "variant_type": "context_variant",
+  "title": "Simulation Training for Secondary Music Instructional Design Integrating Information Technology",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A professional competency development course for pre-service and in-service teachers, enabling the implementation of real educational scenarios in VR-based virtual classrooms",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participants can execute three or more information technology-based music lesson designs using VR simulations.",
+    "Participants can provide feedback on students' musical works with 80% accuracy using AI audio analysis tools.",
+    "Participants can demonstrate the process of creating and sharing music education content on an LMS platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "Tablet device",
+      "AI Music Analysis Software",
+      "LMS account"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

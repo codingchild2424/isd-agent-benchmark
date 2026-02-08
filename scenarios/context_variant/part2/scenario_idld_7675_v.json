@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7675-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening App Development Practical Competencies: Hypothetical Learning Trajectories (HLT) for Elementary Geometry Learning Design",
+  "context": {
+    "prior_knowledge": "Basic geometric concepts (points, lines, planes, shape classification) and understanding of elementary education curricula",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can structure elementary geometry learning activities by applying the three stages of the HLT design framework: pre-design, instructional experimentation, and retrospective analysis.",
+    "Learners can develop an HLT prototype reflecting cultural contexts (ethnomathematics) and establish revision strategies based on learner error patterns.",
+    "Learners can implement learning designs combining peer feedback and self-reflection through project-based assessments in online environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

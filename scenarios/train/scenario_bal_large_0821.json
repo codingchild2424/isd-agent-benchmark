@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0821",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Advanced Multivariable Calculus Course Using Blended Learning: Strengthening Mathematical Representation and Language-Based Problem-Solving Skills",
+  "context": {
+    "prior_knowledge": "Basic calculus concepts, foundational linear algebra knowledge, ability to interpret mathematical formulas and graphs, and foundational skills in translating mathematical concepts into linguistic expressions",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducting blended learning combining mobile apps and LMS in a BYOD environment. It strengthens real-world problem-solving skills through project-based assessments. Learners receive peer feedback and instructor evaluations to improve mathematical expression and logical writing skills, while simultaneously training to clearly convey mathematical concepts through linguistic expression.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Accurately compute partial derivatives, multiple integrals, and line integrals of multivariable functions, and solve physics problems by linguistically expressing mathematical expressions and graphs.",
+    "Demonstrate the ability to solve physics problems using vector field concepts, Stokes’ Theorem, and the Divergence Theorem, and clearly describe proof processes with logical expressions and mathematical terminology.",
+    "Learners can analyze ≥3 learning materials (videos, papers, case studies) in blended learning environments, write a 500-word summary report meeting ≥3 of 5 rubric items, collaborate in real-time ≥2 times with team members using digital tools (Google Docs/Zoom Breakout Rooms), and submit a final team project meeting ≥4 of 5 rubric items (creativity, analytical depth, collaboration efficiency, visual expression, practicality). Additionally, document mathematical modeling processes using LaTeX or Excel equation editors and supplement mathematical expressions with linguistic descriptions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized LMS (Learning Management System)",
+      "3D Graph Visualization Software",
+      "Online Collaboration Tools (Real-Time Whiteboard, Documentation System)",
+      "AI-based automated grading system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

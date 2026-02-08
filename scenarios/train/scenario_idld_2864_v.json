@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2864-V",
+  "variant_type": "context_variant",
+  "title": "CHAOS (Constraint-Based Holistic Approach for Optimal Synthesis) Workshop for Water Polo Team Training Design",
+  "context": {
+    "prior_knowledge": "Understanding of water sports rules and basic techniques, experience in team strategy formulation",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning environments using students’ personal devices. Focuses on training design reflecting real-game scenarios and team collaboration skills",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Based on game analysis data, learners can identify at least three major weaknesses of a team.",
+    "Learners can design personalized training scenarios considering physical, cognitive, and emotional stress factors.",
+    "Through collaboration with peers, learners can develop and implement a comprehensive training program that reflects constraints."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Water Sports Game Video Database",
+      "Mobile Training Analytics App",
+      "Team Collaboration Whiteboard Tool",
+      "Biometric Data Measurement Equipment (e.g., Heart Rate Sensors)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-1022",
+  "variant_type": "balance_teen_k12",
+  "title": "Rule-Based Conceptual Learning Design: Mastery of Advanced Mathematical Concepts [K-12]",
+  "context": {
+    "prior_knowledge": "Basic Mathematical Concepts and Understanding of Secondary-Level Mathematical Formulas",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course designed for systematic acquisition of mathematical concepts in a smartphone-centric learning environment, with continuous feedback through formative assessments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify and explain core rules of mathematical concepts with 90% accuracy.",
+    "Learners can determine the scope of concept application with 85% accuracy by analyzing given examples and non-examples.",
+    "Learners can successfully apply rule-based learning strategies to new mathematical problems with over 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Interactive Concept Mapping Tool",
+      "Digital Example Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

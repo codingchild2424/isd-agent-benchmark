@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0108",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Instructional Technology Design Course Based on Learning Theories for Enhancing Science-Related Vocational Competencies",
+  "context": {
+    "prior_knowledge": "Understanding Basic Scientific Theories and Experimental Methods",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An environment requiring customized design for practical science job training, considering individual learning styles and technological proficiency",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can establish science experiment design and evaluation plans based on learning theories (e.g., constructivism, behaviorism).",
+    "Learners design 3 educational technology tool application strategies (e.g., simulation-based problem-solving, data storytelling) using Labster virtual lab platforms and Tableau data visualization software, and submit a 2-page report on maximizing learning effectiveness that achieves ≥80% satisfaction in ≥4 of 5 evaluation criteria from peer reviews (≥3 peers) and instructor feedback.",
+    "Learners can derive directions for improving instructional design by analyzing formative assessment results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science experiment simulation software",
+      "Online Learning Management System (LMS)",
+      "Learning Analytics Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

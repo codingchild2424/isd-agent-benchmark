@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7392",
+  "variant_type": "idld_aligned",
+  "title": "Knowledge Graph-Based STEAM Project Design Workshop",
+  "context": {
+    "prior_knowledge": "Experience in single-subject curriculum design, basic STEAM education concepts, and proficiency in digital tool utilization",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Pre-service teachers collaborate without spatiotemporal constraints using mobile devices, strengthening interdisciplinary STEAM topic development capabilities centered on social studies.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Over 80% of learners can design STEAM project topics linked to social studies using knowledge graph analysis tools.",
+    "100% of participating teachers can develop three or more interdisciplinary integrated activities by applying a project-based learning (PBL) design framework.",
+    "90% of learners can submit project plans, including assessment rubrics, based on the generated knowledge graph."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Knowledge Graph Analysis Software",
+      "Curriculum Standards Text Database",
+      "Open-Source Encyclopedia API",
+      "Mobile Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

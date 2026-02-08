@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5822",
+  "variant_type": "idld_aligned",
+  "title": "Problem-Solving Strategy Development via Cognitive Load Classification and Brain Activity Analysis",
+  "context": {
+    "prior_knowledge": "Basic understanding of foundational cognitive science theories, problem-solving methodologies, and fNIRS technology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course for professionals in medical, legal, or technical fields to learn efficient management of high-cognitive-load tasks within language domains.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design an artificial intelligence model that accurately classifies cognitive load into three levels (high/medium/low)",
+    "Learners can analyze the correlation between brain activity patterns and cognitive load using fNIRS data",
+    "Learners can establish and evaluate optimal cognitive resource allocation strategies when performing problem-solving tasks"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based fNIRS Simulation Tool",
+      "Open-Source LSTM-BAM Model Template",
+      "Cognitive Load Worksheet Set",
+      "Online Whiteboard for Collaborative Learning"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

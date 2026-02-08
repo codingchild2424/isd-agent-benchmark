@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7424",
+  "variant_type": "idld_aligned",
+  "title": "Hybrid Learning Curriculum for Thoracic Tube Insertion Surgery Training",
+  "context": {
+    "prior_knowledge": "Basic anatomy and surgical procedure comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A long-term blended learning program for current practitioners, combining online e-learning with offline practical sessions.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will be able to accurately describe the theoretical stages and anatomical structures of chest tube insertion surgery.",
+    "Learners will be able to perform the chest tube insertion procedure with over 80% accuracy through VR simulation.",
+    "Learners will be able to master surgical skills by achieving 90+ points (out of 100) on formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive E-Learning Module",
+      "Online Reading Materials",
+      "VR Simulation Equipment",
+      "Global Assessment Rubric Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

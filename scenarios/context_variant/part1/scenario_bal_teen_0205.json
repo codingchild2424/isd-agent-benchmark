@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0205",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Mastering Accounting Fundamentals: Mobile Learning with Examples and Problems",
+  "context": {
+    "prior_knowledge": "Fundamental Arithmetic Skills and Understanding of Basic Financial Statement Structures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Content optimized for smartphone-based learning, structured in 10-minute modules with real-time feedback via formative assessments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify components of an income statement with 80% accuracy by analyzing real accounting cases.",
+    "Learners can apply journal entry procedures with over 70% accuracy in problem situations similar to provided examples.",
+    "Learners can complete and submit a simple financial statement creation task within 15 minutes on a mobile platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Web-Based Learning Management System (LMS)",
+      "Mobile-Optimized Accounting Simulation Tool",
+      "Example Question Bank (PDF Format)",
+      "Automated Scoring Formative Assessment System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4957",
+  "variant_type": "idld_aligned",
+  "title": "Predicting Student Progress in Learning Spaces: Wearable-Based Analytics",
+  "context": {
+    "prior_knowledge": "Understanding of basic statistics and learning analytics concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A process where students collect and analyze behavioral data in learning spaces using personal mobile devices, enhancing job competencies based on social studies content",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Social and spatial behavioral data from learning spaces can be analyzed to build student-specific progress prediction models.",
+    "Learners acquire skills to collect and refine real-time behavioral data using wearable trackers and mobile apps.",
+    "Machine learning classifiers can be applied to identify low-progress students early and design personalized support strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Wearable tracker rental equipment",
+      "Learning analytics software license",
+      "Mobile App Prototype",
+      "Public dataset sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

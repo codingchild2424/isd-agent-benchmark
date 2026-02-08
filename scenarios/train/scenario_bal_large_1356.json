@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1356",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Language Education Design Utilizing Game-Centered Learning (GCL) Model",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and fundamental digital device utilization skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Flexible game design reflecting learners' experiences and creativity, with consideration of cultural backgrounds",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can use daily conversational expressions of the target language with over 80% accuracy through game-based activities.",
+    "Learners enhance creative problem-solving skills by designing and implementing collaborative language games.",
+    "Learners develop and share self-directed language learning games three or more times using digital platforms."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PC/Laptop (1 per Learner)",
+      "Online collaboration tools (Google Jamboard, Miro)",
+      "Game Templates for Language Learning Resources",
+      "Offline Board Game Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

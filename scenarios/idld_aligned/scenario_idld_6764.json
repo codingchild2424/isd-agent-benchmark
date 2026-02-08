@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6764",
+  "variant_type": "idld_aligned",
+  "title": "Science Knowledge Structuring Learning Through Automated Concept Map Generation",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental scientific concepts and ability to utilize digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-based learning environment, requiring reinforcement of practical scientific knowledge for professional experts.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze relationships between science topics with 80% accuracy using auto-generated concept maps",
+    "Learners can integrate new scientific information with existing knowledge by creating 3+ connection points based on concept map hierarchies",
+    "Learners can self-directedly reconstruct science concepts using concept map navigation tools in smartphone environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "NLP-Based Concept Map Generation Software",
+      "Mobile-Optimized Concept Map Visualization Tool",
+      "Science Domain Base Text Resources (PDF/Image)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

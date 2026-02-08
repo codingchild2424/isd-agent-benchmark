@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0092",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Capacity-Building Program for Mobile Media-Based Language Learning Design",
+  "context": {
+    "prior_knowledge": "Basic computer software proficiency, intermediate or higher language learning competency (including grammar, vocabulary, reading comprehension, and writing), and experience in self-directed learning in digital environments",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A flexible digital learning environment prioritizing self-directed language content (text analysis, voice recording, vocabulary quizzes) over real-time interaction. Emphasizes personalized activities for improving reading comprehension and expressive skills.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners independently design language learning content (text, audio, vocabulary materials) using various mobile media tools (recording/editing apps, SNS-based collaboration platforms).",
+    "Learners complete formative assessments (quizzes, voice feedback) provided in mobile environments with over 80% accuracy and analyze grammatical structures and expression methods.",
+    "Learners independently resolve over 90% of technical issues (storage management, compatibility issues) encountered while using mobile media and apply solutions to diverse language learning scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Device Loan System",
+      "Customizable Microlearning Authoring Tool",
+      "Cloud-based storage space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

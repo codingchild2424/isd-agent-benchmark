@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7425",
+  "variant_type": "idld_aligned",
+  "title": "Hypervideo-Based Language Learning Course Design",
+  "context": {
+    "prior_knowledge": "Possession of basic digital literacy and fundamental language skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Parallel implementation of real-time interaction and self-directed learning activities in a smartphone-centric, limited-technology environment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can use hypervideo tools to create personal notes on language learning content",
+    "Learners engage in collaborative learning activities based on feedback from peers and instructors through real-time sessions",
+    "Learners structure and reflect on learning content using public/private annotation features",
+    "Learners apply acquired language skills to real-world work scenarios through project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Hypervideo Platform",
+      "Video Content for Language Learning",
+      "Real-Time Interaction Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

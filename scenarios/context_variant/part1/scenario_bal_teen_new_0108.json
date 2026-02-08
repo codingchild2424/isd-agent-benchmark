@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0108",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Technology-Enhanced Deep Language Learning Design",
+  "context": {
+    "prior_knowledge": "Basic smartphone usage skills and elementary-level target language comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Language proficiency enhancement through real-time interaction and formative assessment in a smartphone-centric limited-technology environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can construct conversations of three or more sentences using 500 basic vocabulary items needed for daily communication",
+    "Learners can accurately extract three key pieces of information from a 10-minute audio clip",
+    "Learners can present a self-introduction in the target language for five or more minutes in a real-time video conference"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Twice-weekly 60-minute live sessions",
+      "Mobile app with built-in voice recognition",
+      "PDF/image-based learning materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

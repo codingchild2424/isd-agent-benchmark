@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4529",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Anatomy Problem-Centered Learning Design",
+  "context": {
+    "prior_knowledge": "Basic anatomical terminology and comprehension of human body structures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Flexible learning environments using personal devices, emphasizing case-based education applicable to real-world contexts",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze given clinical cases and identify relevant anatomical structures with 80% accuracy",
+    "Learners can present three or more approaches to applying anatomical knowledge to real-world scenarios through team-based problem-solving activities",
+    "Learners can write problem-solving reports incorporating peer feedback five or more times weekly using mobile platforms"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Anatomy Modeling Application",
+      "Case-Based Learning Resources",
+      "Collaborative Platform Account",
+      "Mobile-compatible assessment tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5269-V",
+  "variant_type": "context_variant",
+  "title": "Integrated Simulation-Based Lumbar Puncture Training Program",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Accessible to learners without prior medical simulation training, combining real-time video classes and virtual simulators using personal devices in a BYOD environment.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the step-by-step anatomical structures of a lumbar puncture procedure with at least 80% accuracy.",
+    "Learners can meet success criteria within three attempts when performing a lumbar puncture in an integrated simulation environment.",
+    "Learners achieve at least 75 points (out of 100) on a conceptual knowledge test one week after training."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online video conferencing tools",
+      "Virtual lumbar puncture simulator",
+      "3D anatomy video",
+      "Digital Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

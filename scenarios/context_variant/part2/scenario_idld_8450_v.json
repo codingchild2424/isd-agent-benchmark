@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8450-V",
+  "variant_type": "context_variant",
+  "title": "Problem-Based Learning Program for Surgical Leadership Development and Diversity Promotion",
+  "context": {
+    "prior_knowledge": "Basic medical field knowledge and professional work experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A non-real-time online course operating in a smartphone-centric, limited technological environment, focusing on solving leadership and diversity issues in real surgical practice through project-based assessment.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain at least three leadership strategies that promote diversity, equity, and inclusion (DEI) in surgical care environments",
+    "Learners can analyze surgical leadership cases through problem-based learning (PBL) and propose team-based solutions",
+    "Learners can apply the ADDIE model to design and evaluate DEI training modules in real-world projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Smartphone-compatible content",
+      "PBL (Project-Based Learning) Scenario Template",
+      "Kirkpatrick Model Evaluation Instrument"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

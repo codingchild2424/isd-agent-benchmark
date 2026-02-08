@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM2-0005",
+  "variant_type": "balance_medium_final",
+  "title": "Workshop on Automated E-Course Design for Strengthening Core Social Studies Competencies Based on IMS LD",
+  "context": {
+    "prior_knowledge": "Familiarity with IMS LD concepts, ELIDL language structures, content packaging standards, and foundational social science knowledge (historical event analysis, geospatial concepts, comparative political systems)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Strengthening social science-based customized educational design competencies for professionals in medical, legal, and technical fields. Integrates core social studies competencies—historical analysis, geospatial understanding, and political system comparison—to enhance civic education and cultural comprehension.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design and implementation of ELIDL-based social inquiry, history analysis, and civic education pedagogy templates.",
+    "Acquisition of operational proficiency in an IMS LD-compatible social science learning scenario auto-generation system.",
+    "Learners can select three or more social ontology elements (history/geography/politics) within a week, design a 3-module E-Course prototype combining five+ content packages (videos, texts, quizzes), and submit results including civic rights/institution comparison analysis that meet 4+ of 5 expert feedback rubric criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ELIDL editor",
+      "IMS LD validation tool",
+      "Learning resource repository",
+      "Web programming sample content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6519",
+  "variant_type": "idld_aligned",
+  "title": "Pre-Service Teacher Education with Generative AI: Peer Assessment and ChatGPT-Integrated Science Lesson Design",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Science Curriculum Content, Foundational Knowledge of Concept Mapping, and Basic Digital Device Proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-centric learning environment with weekly modular online assignments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can generate science curriculum materials based on concept maps using ChatGPT three or more times.",
+    "Learners can improve generated instructional materials two or more times by incorporating peer assessment feedback.",
+    "Learners can explain step-by-step a science lesson design process that integrates concept maps with generative AI."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "ChatGPT API Integration Tool",
+      "Concept Map Template Package",
+      "Peer Assessment Rubric",
+      "Science subject standard curriculum document"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

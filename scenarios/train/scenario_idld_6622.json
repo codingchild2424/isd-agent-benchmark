@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6622",
+  "variant_type": "idld_aligned",
+  "title": "Asynchronous Online Mathematics: Proportional Reasoning Intensive Master Class",
+  "context": {
+    "prior_knowledge": "Elementary arithmetic operations and understanding of fractional concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Provides UX-based mathematics learning experiences optimized for individual device environments, with built-in structures for measuring learning outcomes for summative assessment.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply the principles of interconversion between ratios, fractions, and percentages to solve proportional relationship problems with 85% accuracy.",
+    "Learners independently utilize proportional reasoning strategies in real-world contexts (e.g., discount rate calculations, map scales) with over 70% success.",
+    "Learners achieve an average accuracy rate of over 80% in interactive quizzes provided at 15-minute intervals during video lectures."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "15 five-minute video modules",
+      "Automated Grading Quiz System",
+      "Visual feedback dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

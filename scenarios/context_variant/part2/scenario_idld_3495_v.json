@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3495-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Flipped Learning-Based Virtual Neuroscience Education and Assessment Design",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and fundamental human anatomy knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain neurological symptom assessment procedures in virtual scenarios with over 80% accuracy",
+    "Learners analyze real patient cases through PBL tasks and logically present neurology diagnoses",
+    "Learners can comparatively explain pathophysiological mechanisms of major neurological diseases (stroke, Parkinson’s, etc.) using flipped learning materials"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0021-V",
+  "variant_type": "context_variant",
+  "title": "Experiential Mathematics Learning Design Based on Reflective Inquiry",
+  "context": {
+    "prior_knowledge": "Understanding basic mathematical concepts (secondary education level)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-degree course for enhancing job-linked mathematical problem-solving skills among job seekers, combining LMS-based online discussions with real-life case analysis in a hybrid learning environment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can convert real-world problems into mathematical models and solve them with over 80% accuracy.",
+    "Learners can explain their learning process through reflective journaling after experiential activities, with in-depth analysis at three or more levels.",
+    "Learners can modify and improve their mathematical problem-solving strategies three or more times based on peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platforms (Moodle, Canvas, etc.)",
+      "Interactive Math Simulation Tools (Desmos, GeoGebra)",
+      "Open-Source Math Problem Bank",
+      "Online Collaboration Tools (Google Jamboard, Padlet)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

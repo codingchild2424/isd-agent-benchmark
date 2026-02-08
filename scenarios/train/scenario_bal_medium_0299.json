@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0299",
+  "variant_type": "balance_medium_scale",
+  "title": "Practice-Centered Problem-Solving Programming Intensive Course",
+  "context": {
+    "prior_knowledge": "Basic Computer Literacy and Logical Reasoning Experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Small-group settings enabling personalized feedback, emphasizing practice-based on real-world cases",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Analyze given practical problems and convert them into pseudocode.",
+    "Learners implement three given algorithms (linear search, binary search, bubble sort) using Python within one week and submit debugged code that passes at least four out of five provided test cases.",
+    "Document and present logical problem-solving processes through team-based projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE installation package",
+      "Practice problem sets",
+      "Feedback Template",
+      "Collaborative Platform Account"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

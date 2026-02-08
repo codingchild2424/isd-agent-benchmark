@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3481-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Enhancing Job-Related Mathematics Skills through Program-Based Assessment Design",
+  "context": {
+    "prior_knowledge": "Basic math skills and specialized knowledge in specific fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can build math project evaluation systems applying the four-stage program-based assessment design (assessment-contextualization-prioritization-justification)",
+    "Learners can write project reports solving practical problems using ≥5 digital tools that assess complex competencies",
+    "Learners can develop assessment plans in collaboration with key stakeholders (team leaders, peers, HRD officers) based on assessment environment analysis"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

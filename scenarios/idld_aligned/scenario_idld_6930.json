@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6930",
+  "variant_type": "idld_aligned",
+  "title": "Fundamentals of Machine Learning for Predicting Chemical Sensor Performance",
+  "context": {
+    "prior_knowledge": "Basic understanding of introductory chemistry, statistics, programming (Python), and machine learning algorithms (e.g., linear regression)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Aims to develop the ability to predict chemical sensor performance through experimental data analysis and modeling, overcoming limited technical environments by combining smartphone-based learning tools and offline workshops",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can interpret the correlation between physicochemical properties and electrochemical characteristics of chemical sensor materials",
+    "Conduct a practical exercise predicting sensor sensitivity and detection limits using linear regression models",
+    "Evaluate the predictive accuracy of machine learning models based on analysis data from real-world environmental samples (coffee/wine)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-Source Machine Learning Library (e.g., Scikit-learn)",
+      "Mobile-Compatible Data Visualization Tool",
+      "Chemical Sensor Experiment Dataset Sample",
+      "Smartphone-based collaboration platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

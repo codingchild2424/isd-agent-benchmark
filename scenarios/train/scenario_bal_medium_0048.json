@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0048",
+  "variant_type": "balance_medium_scale",
+  "title": "Designing AIED Application Strategies for Higher Education Language Domains",
+  "context": {
+    "prior_knowledge": "Teaching experience in secondary education settings and basic digital literacy",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Smartphone-based learning environments requiring strengthened competency in utilizing AI tools for language education.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Based on AIED (Artificial Intelligence in Education) ethics principles (fairness, transparency, accountability, etc.), participants will draft a language education design framework and submit a revised version incorporating ≥3 of 5 feedback items from peer reviews and expert evaluations.",
+    "Participants will select ≥2 AI tools for language learning (e.g., automated writing evaluation systems, ChatGPT) and develop a three-stage instructional design strategy: ① tool functionality analysis → ② language learning activity design → ③ evaluation rubric development. In peer feedback sessions, the strategy must achieve ≥80% ratings in ≥2 of three feasibility criteria: technical suitability, learning effectiveness, and practicality.",
+    "For AIED professional development, participants will propose ≥3 institutional support measures (e.g., customized training programs, mentoring systems, research funding) and achieve an average ≥4.0 on an institutional feasibility evaluation rubric (5-point scale)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile Compatibility Testing Tool",
+      "Open-Source AIED Tool Demo Version",
+      "Ethics guideline templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

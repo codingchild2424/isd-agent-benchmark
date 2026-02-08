@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3463",
+  "variant_type": "idld_aligned",
+  "title": "Comparative Analysis and Application of Symbolic Learning Algorithms",
+  "context": {
+    "prior_knowledge": "Basic machine learning theory and statistical analysis knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners compare and analyze the performance of symbolic learning algorithms using real-case data, exploring methods for applying them to structural problem-solving. They freely utilize collaboration tools and analytical software in a BYOD environment",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the operational principles of two symbolic learning algorithms (single-representation space vs. compositional induction)",
+    "Learners can quantitatively compare algorithm performance using various sampling methods, including 10-fold cross-validation",
+    "Learners can calculate and interpret error rates (total/omission/commission) by applying algorithms to real-world engineering design problems"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Symbolic Learning Algorithm Implementation Code",
+      "Steel Structure Design Dataset",
+      "Learning Curve Analysis Tool",
+      "Collaborative Platform Account"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

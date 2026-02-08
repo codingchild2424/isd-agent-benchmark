@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4686",
+  "variant_type": "idld_aligned",
+  "title": "Blended Laboratory-Based Gamification Collaborative Learning Course: Enhancing Mathematical Problem-Solving Competencies",
+  "context": {
+    "prior_knowledge": "Understanding of secondary-level mathematics concepts (functions, calculus, statistics) and experience with basic experimental tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended learning environment using a smartphone-based virtual lab (STB-LAB) and collaboration platform (Gather Town), with offline activities limited to bimonthly in-person workshops",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can design and conduct three or more virtual experiments in STB-LAB, performing mathematical modeling without physical constraints.",
+    "On the Gather Town platform, over 80% of learners complete role-based collaborative missions, achieving team project completion.",
+    "In formative assessments, over 75% of students improve self-directed learning engagement by 30% or more using gamification elements (badges, leaderboards)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible STB-LAB Mobile Application",
+      "Gather Town Custom Map (Laboratory/Discussion Space)",
+      "Student Activity Sheet (SAS) Digital Template",
+      "Low-Cost Experiment Kits for Offline Workshops"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1684",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Patient Safety Learning Through Hospital Adverse Event Analysis (Large-Scale)",
+  "context": {
+    "prior_knowledge": "Basic understanding of medical terminology and hospital operational structures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Large-Scale Group Learning Environment Using Smartphone-Based VR Simulations, Providing Simplified Virtual Scenarios Based on Real Hospital Cases",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain root causes of adverse events in hospitals by applying at least three analytical frameworks",
+    "Learners can record patient safety risk factors identified through VR simulations with 80% accuracy",
+    "Learners can propose at least three adverse event prevention strategies through peer feedback sessions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR devices (10 sets for group rotation)",
+      "Simplified hospital adverse event case database",
+      "Online collaboration platform (for feedback sharing)",
+      "QR code-based worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

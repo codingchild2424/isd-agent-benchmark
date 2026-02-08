@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6317",
+  "variant_type": "idld_aligned",
+  "title": "Cognitive Load Theory-Based Mathematics Presentation Design Workshop",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts, proficiency in basic use of presentation tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Utilization of VR simulation tools within smartphone-centric limited tech environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can distinguish and explain the three types of cognitive load (intrinsic, extraneous, germane) from Cognitive Load Theory (CLT) when designing presentations.",
+    "Learners can apply five strategies to reduce extraneous cognitive load in presentations for mathematics concept delivery.",
+    "Learners can develop interactive mathematics presentation prototypes in a VR environment and improve them through peer evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Headset",
+      "Simplified Presentation Creation App",
+      "Offline Worksheet Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

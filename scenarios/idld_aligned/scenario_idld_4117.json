@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4117",
+  "variant_type": "idld_aligned",
+  "title": "Collaborative Learning-Based Mobile Microlearning Course for Introduction to Computer Science",
+  "context": {
+    "prior_knowledge": "Grasp of fundamental programming concepts and quantitative reasoning skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Foundational computer science training for working professionals developing job-integrated projects",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the algorithm design and implementation process with 80% accuracy through collaborative learning activities.",
+    "Learners enhance problem-solving skills by performing team-based coding tasks in a mobile environment.",
+    "Learners demonstrate software development competencies applicable to real-world work scenarios through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible IDE (Integrated Development Environment)",
+      "Collaboration Tools (Slack/Notion)",
+      "Cloud-Based Code Repository",
+      "Step-by-Step Instructional Videos"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0217",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Assistive Learning Environment Design and Development for Totally Blind Students",
+  "context": {
+    "prior_knowledge": "Basic Special Education and Digital Assistive Technology Understanding",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Development of language education application cases for pre-service teachers, establishing a smartphone-based accessible learning environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design three types of learning materials (text, image descriptions, quizzes) for blind students using mobile applications with text-to-speech (TTS) functionality (e.g., Voice Dream Reader, TalkBack) and produce resources meeting over 80% accessibility standards verified by tools like WAVE or Axe.",
+    "Learners can establish three or more blended teaching strategies (pre-video learning + real-time workshops) based on the flipped learning model, pilot them in two company departments, and submit a report achieving over 80% participant satisfaction.",
+    "Learners can collect and analyze over 20 user feedbacks within six months to design and prototype an accessibility-based mobile learning environment improvement process meeting over 80% of WCAG 2.1 AA criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based Learning Management System (LMS)",
+      "Text-to-Speech Mobile Application",
+      "Visual Impairment Learner Simulation Tool",
+      "Collaboration Platform (Slack/MS Teams)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

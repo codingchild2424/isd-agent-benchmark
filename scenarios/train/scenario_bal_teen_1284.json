@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-1284",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] TAM-Based Practitioner Competency Development Program for Enhancing E-Learning System Acceptance",
+  "context": {
+    "prior_knowledge": "Digital literacy and secondary-level social science knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Modular 5-10 minute content optimized for smartphone-based learning environments, designed around practical application cases",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply the core elements of the Technology Acceptance Model (TAM)—perceived usefulness and ease of use—to practical cases.",
+    "Learners can analyze organizational and environmental factors that determine the acceptance of e-learning systems.",
+    "Learners can establish practical strategies to maximize learning effectiveness in mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "TAM (Technology Acceptance Model) Framework Template",
+      "Mobile-Friendly Case Database",
+      "Interactive Quiz/Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0125",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Multi-Session Microlearning Program for Strengthening Library Information Literacy Competencies",
+  "context": {
+    "prior_knowledge": "Basic experience in academic literature search",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "BYOD-based language learning support program for current practitioners, focusing on strengthening library information literacy competencies",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically search for resources using subject-related keywords in academic databases.",
+    "Learners can evaluate the credibility and relevance of retrieved materials for academic assignments.",
+    "Learners can independently operate library online services (inquiries, reservations, material requests)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Library digital resource package",
+      "Interactive search simulation tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

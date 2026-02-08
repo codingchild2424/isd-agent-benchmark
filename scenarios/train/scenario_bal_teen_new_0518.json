@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0518",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Blended Language Learning Course for Collective Cognitive Responsibility Development: Integrated Text, Vocabulary, and Grammar Project",
+  "context": {
+    "prior_knowledge": "Basic language proficiency (reading comprehension, writing, grammar understanding) and experience using digital learning tools, with foundational vocabulary mapping abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended learning course based on simulation/VR in smartphone-centric, resource-limited environments. While prioritizing summative assessment, it strengthens collaborative learning competencies through knowledge-building activities (collaborative text creation, vocabulary mapping, grammar error feedback, expressive variation practice). Emphasizes critical thinking and creative expression skills.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform collective cognitive responsibility by evaluating text structure analysis and thematic vocabulary expansion processes through collaborative observation with peers in a language learning community.",
+    "Over six months, learners can collaborate with two peers in weekly hybrid (online/offline) classes to complete three or more projects applying language knowledge (50+ thematic vocabulary items, 10+ grammar applications) and learning strategies (note-taking, question generation, expression diversification) using simulation/VR tools (e.g., VR Chat, Google Tour Creator). They must submit deliverables meeting at least four out of five teacher evaluation checklist criteria (grammar accuracy, vocabulary diversity, creativity, collaboration, completeness).",
+    "Learners can measure and improve language learning outcomes based on self- and peer-assessment (reading accuracy, writing fluency, presentation expressiveness, vocabulary appropriateness)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized LMS (Learning Management System)",
+      "VR simulation app",
+      "Community portfolio platform",
+      "Basic speech recognition software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

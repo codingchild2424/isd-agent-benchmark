@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0787",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Autonomous Vehicle User Education: Tutorial Based on a Four-Stage Instructional Design Model",
+  "context": {
+    "prior_knowledge": "Understanding Basic Vehicle Operation and General Traffic Rules",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning environment combining actual driving simulations with theoretical instruction, including individual device-based learning activities and collaborative discussion sessions",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the basic principles (Level 2/3) and operational mechanisms of autonomous driving systems.",
+    "Learners can recognize the safety features and system limitations of autonomous vehicles and perform emergency response procedures.",
+    "Learners can identify potential errors occurring during interactions with autonomous driving systems and respond appropriately."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Driving Simulator Access Permissions",
+      "Autonomous Driving System Instructional Video",
+      "Interactive Tutorial PDF Manual",
+      "Online Quiz Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

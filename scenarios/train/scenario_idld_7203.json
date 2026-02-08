@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7203",
+  "variant_type": "idld_aligned",
+  "title": "Workshop on Graph Theory-Based Science Learning Pathway Design",
+  "context": {
+    "prior_knowledge": "Advanced knowledge in scientific disciplines and understanding of basic graph theory",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners are office/managerial professionals requiring advanced science learning linked to their work, demanding a flexible learning environment using personal devices.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the principles of a graph theory-based learning path recommendation system.",
+    "Learners can design optimal learning paths by analyzing interdependencies among science domain learning objects.",
+    "Learners can independently construct learning paths required to solve real-world scientific project problems."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Learning Materials for Science Disciplines",
+      "Graph Theory Visualization Tool",
+      "Learning Pathway Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

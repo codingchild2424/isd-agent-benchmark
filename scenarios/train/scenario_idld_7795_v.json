@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7795-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Personalized Online Science Learning Design for Multicultural Learners",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short-term intensive science courses for professional learners (medical/legal/technical) from diverse cultural backgrounds in smartphone-centric limited-technology environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can complete over 80% of recommended learning activities (videos/quizzes/discussions) tailored to their cultural and social backgrounds.",
+    "Learners can maintain a learning persistence rate of over 60% while performing knowledge-sharing activities with peers at least three times in a mobile environment.",
+    "Learners demonstrate a 30% improvement in science-related job application skills compared to prior knowledge, validated through formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Data-Saving Video Content",
+      "Automated Learning Recommendation Algorithm",
+      "Translatable Discussion Forum Plugin"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2042-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Designing and Implementing Interactive Peer Assessment for Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the three-stage process of interactive peer assessment: initial evaluation, feedback exchange, and improvement proposal.",
+    "Learners can use LMS-based tools to provide specific and actionable feedback on peers' learning design projects.",
+    "Learners can improve their own projects in two or more ways by analyzing peer feedback.",
+    "Learners can recognize three or more conflict situations that may occur during interactive assessment processes and propose resolution strategies."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

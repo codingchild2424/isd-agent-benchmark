@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3347",
+  "variant_type": "idld_aligned",
+  "title": "Microlearning Course for Enhancing Physics Laboratory Skills via Flipped Learning",
+  "context": {
+    "prior_knowledge": "Introductory college-level physics theory and experimental tool usage experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Primarily targeting first-year electrical and electronics engineering students, this program systematically develops experimental design and analysis skills through a flipped learning model, providing a learning environment free from spatiotemporal constraints via digital devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "After pre-learning experimental procedure videos and materials, learners achieve 80% or higher competency in data collection and interpretation in the laboratory",
+    "Learners enhance their ability to analyze experimental errors and write reports through peer discussions and formative assessments",
+    "Learners are evaluated on self-directed experimental design and teamwork skills in a flipped learning environment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Experimental Video Content",
+      "Interactive Simulation Tool",
+      "Mobile Learning Management System (LMS)",
+      "Physics Experiment Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2508",
+  "variant_type": "idld_aligned",
+  "title": "Reinforcement Learning-Based Control Policy Design Simulation Workshop",
+  "context": {
+    "prior_knowledge": "Grasp of control systems fundamentals, linear algebra, and probabilistic optimization concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learning Control Theory Applications in Social Engineering for Pre-Service/In-Service Teachers",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Implement a homotopy-based policy initialization strategy in continuous-time systems within a simulation environment",
+    "Explain step-by-step the stability proof procedure for model-based/model-free control designs",
+    "Apply algorithms that shift unstable system poles to stable regions using real-world datasets"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Simulation Kit",
+      "Open-source reinforcement learning framework",
+      "Control system dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

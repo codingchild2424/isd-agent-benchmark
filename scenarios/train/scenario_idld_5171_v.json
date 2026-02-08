@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5171-V",
+  "variant_type": "context_variant",
+  "title": "Integrating Cultural Contexts in Elementary Mathematics Measurement Concept Comprehension",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Most learners access via smartphones, targeting non-degree-seeking adult learners with an emphasis on instructional design competencies applicable to elementary education settings",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners design three social studies measurement activities (e.g., surveys, observation checklists) reflecting diverse cultural backgrounds (Korea, Southeast Asia, Middle East), and submit results that meet four or more of five peer/teacher evaluation criteria (e.g., cultural sensitivity, validity, feasibility).",
+    "Evaluate the ability to apply teaching strategies that transition elementary students' informal measurement concepts to formal measurement",
+    "Learners can analyze three or more learning materials (PDFs, videos, quizzes) using smartphone-based accessibility measurement tools (e.g., WAVE, Lighthouse) in an online environment and develop a report that includes improvement plans meeting five WCAG 2.1 criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Culture-Specific Measurement Case Database",
+      "Mobile-compatible LMS platform",
+      "Virtual Measurement Tool Templates",
+      "Instructional Strategy Application Case Videos"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

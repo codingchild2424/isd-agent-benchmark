@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3517",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Education for Digital Privacy Protection",
+  "context": {
+    "prior_knowledge": "Basic comprehension of personal information concepts and fundamental smartphone functionality",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical approaches linked to mathematics curriculum, including data protection probability calculations, implemented through smartphone application-based simulation environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners demonstrate the ability to identify the purpose of personal information collection with over 80% accuracy.",
+    "Learners can apply at least three privacy protection measures (e.g., two-factor authentication, location information restrictions) in simulation scenarios.",
+    "In a follow-up evaluation three months after training, over 60% of learners report sustaining privacy protection behaviors in real-life situations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Simulation Platform",
+      "Privacy Policy Case Database",
+      "Behavior Change Tracking Survey Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

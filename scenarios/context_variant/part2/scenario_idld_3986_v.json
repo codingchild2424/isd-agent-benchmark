@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3986-V",
+  "variant_type": "context_variant",
+  "title": "Online Training Based on Cognitive Load Theory to Strengthen Patient Handoff (Handover) Competencies",
+  "context": {
+    "prior_knowledge": "Familiarity with basic medical terminology and patient care processes",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "LMS-based simulation environment replicating medical settings to align with real-world tasks",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can isolate and train clinical/communication/system-management skills required in handoff processes in a step-by-step manner.",
+    "Learners can analyze handoff training scenarios by applying the three types of cognitive load (intrinsic, extraneous, germane) from Cognitive Load Theory (CLT).",
+    "Learners can deliver/accept core information with over 90% accuracy under time constraints using a structured handoff framework."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Virtual Patient Case Database",
+      "Interactive Simulation Tool",
+      "CLT-based Analysis Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

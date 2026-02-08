@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2490-V",
+  "variant_type": "context_variant",
+  "title": "Programming Practical Competency Enhancement: Big Data-Based Collaborative Learning Design: Student Performance Prediction and Improvement",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze peer learners' performance patterns with 80% accuracy using machine learning models.",
+    "Applying collaborative learning group formation strategies improves participation rates of low-achieving learners by over 30%.",
+    "Utilizing a real-time visualization dashboard compares group performance and suggests optimal restructuring strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

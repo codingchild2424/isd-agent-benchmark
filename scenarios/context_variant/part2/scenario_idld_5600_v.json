@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5600-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Web Development Practical Skills: Activity-Centered Collaborative e-Learning Mathematics Course Design",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply activity-centered design methodologies to solve work-related mathematical problems.",
+    "Learners can collaborate with team members in mobile environments to design and share microlearning content.",
+    "Within one week, learners present solutions applying mathematical approaches (optimization theory, probabilistic modeling, etc.) to two real-world work problems (e.g., resource optimization, algorithm efficiency improvement) in project-based assessments and achieve an \"excellent\" rating in at least two of the three rubric items (problem definition clarity, methodological appropriateness, result validity)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

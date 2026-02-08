@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-1085",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Teacher-Led Instructional Pathway Design for Science Learning Outcomes",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Science Concepts and Fundamental Proficiency in Online Learning Tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A structured science education pathway for professional learners to improve learning outcomes and attitudes. Utilizes smartphone-based supplementary materials in non-PC environments.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain science concepts related to energy resources (e.g., renewable energy principles, energy conversion efficiency) with 80% or higher accuracy.",
+    "Design methods to effectively integrate informal educational resources (e.g., online museum materials) into school curricula through teacher-guided educational pathway (TGEP) activities.",
+    "Improve positive attitudes toward science learning and online museum learning by 15% or more in pre-post surveys."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Energy Education Kit Provided by Science Museum Collaborators",
+      "QR Code-Based Smartphone-Accessible Materials",
+      "Offline Worksheets and Assessment Questionnaires"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

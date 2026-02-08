@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5390-V",
+  "variant_type": "context_variant",
+  "title": "Scaffolding-Based Education for Strengthening Technical Communication Competency",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Flexible learning environments utilizing learners’ personal devices, with practical competency enhancement through project-based assessment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can structure and write technical documents across various scientific fields according to their intended purposes.",
+    "Learners can perform a document revision process incorporating peer feedback using digital collaboration tools.",
+    "Learners can simplify and convey complex technical information to suit the target audience."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Platforms (Google Workspace, Notion, etc.)",
+      "Technical documentation samples for science disciplines",
+      "Feedback Rubric Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

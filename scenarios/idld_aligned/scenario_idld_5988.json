@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5988",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Learning to Enhance Childbirth Education and Self-Efficacy via the ICAP Framework of Cognitive Engagement",
+  "context": {
+    "prior_knowledge": "Basic anatomy and physiology knowledge, general understanding of the childbirth process",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Optimized VR simulation utilization in a smartphone-centric, limited-technology environment, combining in-person sessions with mobile learning.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the physiological benefits of upright posture and movement during childbirth with ≥80% accuracy",
+    "Learners improve their positive attitude scores toward childbirth postures by 20% compared to pre-intervention through engagement in interactive/constructive activities within the ICAP framework.",
+    "Learners achieve a score of 4 or above on a self-efficacy scale (e.g., 5-point Likert scale) during childbirth via VR simulation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible VR headset",
+      "Childbirth posture simulation app",
+      "Tablet PC rental set",
+      "ICAP activity workbook (digital version)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

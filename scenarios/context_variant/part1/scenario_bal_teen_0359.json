@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-0359",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Foundational Mathematics Competency Assessment Design for Engineering Students' Calculus Preparation",
+  "context": {
+    "prior_knowledge": "High school-level algebra, trigonometry, and basic geometry concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Systematic diagnostic assessment of foundational math competencies required before calculus for engineering freshmen, designed around tool development and validation in blended (online/offline) environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Develop 10 assessment items in algebra, trigonometry, and geometry essential for engineering calculus learning and revise them through peer review and expert feedback (3+/5 on rubric)",
+    "Apply item difficulty analysis (e.g., p-value calculation) and discrimination evaluation (e.g., discrimination index ≥0.3) over two weeks to validate reliability (Cronbach’s α ≥0.7) of a 10+ item multiple-choice assessment tool and provide validity evidence (reviewed by three or more experts)",
+    "Learners can construct 10 geometric problems related to straight lines, circles, and surface area/volume calculations, and design each item to be classified according to difficulty level (easy/medium/hard) and assessment type (calculation/proof/application) criteria.",
+    "Learners can analyze formative assessment results (3 quizzes, 2 assignments) over two weeks to identify at least two personal areas of weakness and develop specific learning strategies (e.g., concept review plan, selection of additional practice problems) to address them, then submit the plan to the instructor."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mathematics assessment item development guidelines",
+      "Statistical analysis tools (SPSS/R, etc.)",
+      "LMS platform",
+      "Offline test kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1332-V",
+  "variant_type": "context_variant",
+  "title": "Designing an Inclusive Augmented Reality (AR)-Based Physical Education Learning Model: Integrating Social Values and Technology",
+  "context": {
+    "prior_knowledge": "Basic physical education theory, experience using mobile devices, foundational awareness of social diversity (disability inclusion, inclusive education, civic rights), and experience fostering community consciousness",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course focused on acquiring physical education skills via personal smart devices and AR applications, emphasizing the creation of inclusive educational environments reflecting diverse learner needs. Includes collaborative learning activities for social relationship building and community consciousness, with instructional design emphasizing cultural and institutional contexts.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students will utilize AR technology to replicate five fundamental physical movements (e.g., push-ups, squats, jumps) with 80% accuracy and integrate social interaction elements (teamwork, leadership, civic consciousness) during the exercise process.",
+    "Learners will analyze their exercise posture in real-time via an AR feedback system and identify at least three improvement points considering physical characteristics (strength, flexibility) and social requirements (collaboration, consideration, accessibility).",
+    "Learners, organized into teams of four, will develop one AR-based physical education scenario to enhance the exercise capabilities of learners with special needs (visual impairment, physical disabilities, etc.), create a 5-minute presentation and demonstration video reflecting social inclusivity (fairness, civic rights) and technical completeness, and achieve over 70 points based on the final evaluation criteria (scenario social value 20% + completeness 20%, technical implementation 30%, presentation effectiveness 20%, inclusivity evaluation 10%)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Development Kit (Unity/AR Foundation)",
+      "3D Motion Capture Database",
+      "Mobile Device-Compatible AR Application",
+      "Physical Movement Assessment Checklist",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

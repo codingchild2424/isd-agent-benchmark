@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3958",
+  "variant_type": "idld_aligned",
+  "title": "Project-Based Learning Unit Modeling: Application of Educational Modeling Language (EML)",
+  "context": {
+    "prior_knowledge": "Understanding of core social studies theories and experience with project-based learning",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Social studies re-education program for professionals in their 30s, operated in a smartphone-centric limited technological environment with project-based assessment",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can understand the core components of Perspective-oriented EML (PoEML) and apply them to learning unit modeling.",
+    "Learners can optimize social studies project-based learning design by separating diverse perspectives (expressiveness, reusability, adaptability, etc.).",
+    "Learners can implement and share learning unit models using smartphone-based tools in limited technological environments."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone app-based EML authoring tool",
+      "Offline collaboration kit",
+      "PBL (Problem-Based Learning) template materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8127-V",
+  "variant_type": "context_variant",
+  "title": "Medical Language Education Based on Clinical Pathway Simulation for Wound Assessment and Management",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and nursing processes, fundamental concepts of wound management, and basic medical language skills for clinical documentation",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Offline interactive instruction using personal devices (tablets/laptops). Focuses on training medical terminology usage and linguistic expression for documenting patient records and explaining medical conditions.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners analyze 15 wound case types and use professional terminology to make appropriate clinical algorithm judgments with 85%+ accuracy.",
+    "Learners use professional terminology describing wound conditions (infection/necrosis/moisture level) to select appropriate dressing products with 90%+ accuracy.",
+    "Over a 2-week intermediate course, learners use online clinical pathway simulation tools (e.g., SimX, Shadow Health), receive 3+ peer feedback sessions, complete 2+ 1:1 instructor coaching sessions, achieve 80%+ on simulation performance rubrics, and use accurate professional terminology in medical record documentation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access to Interactive Clinical Pathway Web Platform",
+      "Wound Care Textbooks and Standard Protocol Documents",
+      "15 Wound Case Simulation Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

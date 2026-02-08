@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7610",
+  "variant_type": "idld_aligned",
+  "title": "CBETC-Based Customized Mathematics Instructional Design Expert Program",
+  "context": {
+    "prior_knowledge": "Basic mathematical concepts and fundamental principles of instructional design",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course developing CBETC implementation capabilities through project-based assessments in digital-enabled learning environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Can explain the core principles and objectives of CBETC (Customized Blended Education Technology Integration) with over 80% accuracy",
+    "Can develop a mathematics education design tailored to learners' levels, integrating three or more diverse instructional methods",
+    "Can design a personalized feedback system using digital tools and establish a student progress management process",
+    "Can create an assessment rubric to quantitatively measure the effectiveness of CBETC implementation through project-based evaluation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Management System (LMS)",
+      "Mathematics Instructional Content Editing Tool",
+      "Learner analytics software",
+      "Digital assessment platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3313-V",
+  "variant_type": "context_variant",
+  "title": "Game-Based Language Learning for Adult Professionals: Mobile Microlearning",
+  "context": {
+    "prior_knowledge": "Basic foreign language communication skills and acquisition of fundamental terminology related to professional tasks",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-optimized learning in a digital device-provided environment. Strengthened gamification elements to drive user engagement. Real-time feedback system via formative assessments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately utilize 50 job-related specialized foreign language terms in context within a mobile game environment.",
+    "Learners can resolve language problems that may arise in real work environments with 80% accuracy through in-game simulation tasks.",
+    "Learners can maintain interaction with peer learners at over 70% through weekly leaderboards and badge systems, sustaining learning motivation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Gamification Design Template",
+      "Multimedia content creation tools",
+      "Gender-Inclusive Design Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

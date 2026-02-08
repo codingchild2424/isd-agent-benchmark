@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3349-V",
+  "variant_type": "context_variant",
+  "title": "Adaptive Web-Based Personalized Mathematics Leadership Training Program",
+  "context": {
+    "prior_knowledge": "Understanding of elementary mathematical concepts and organizational management experience as an administrator",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized web-based learning environment reflecting personal learning styles and emotional motivation, designed for managers/leaders requiring mathematical decision-making skills",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply personalized math problem-solving strategies based on individual learning patterns on adaptive web platforms with 85% accuracy.",
+    "Learners can establish self-directed learning plans at least twice monthly using emotion-based learning feedback in mobile environments.",
+    "Learners can analyze mathematical decision-making cases within organizations and propose improvement strategies at least three times through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Emotion Analysis Algorithm",
+      "Offline workbooks",
+      "Weekly Learning Consultation Sessions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

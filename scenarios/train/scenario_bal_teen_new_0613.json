@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0613",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Mobile-based Self-management and Lifestyle Improvement Program for Patients with Type 2 Diabetes",
+  "context": {
+    "prior_knowledge": "Basic diabetes knowledge and fundamental smartphone utilization skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducting diabetes management practice by implementing real-life scenarios in VR, with interaction with peer learners via smartphone-based social networking",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the pathophysiological mechanisms of Type 2 diabetes and strategies for preventing complications.",
+    "Learners can record healthy meal plans and exercise routines via a mobile platform at least three times weekly.",
+    "Learners can perform blood glucose measurement, medication management, and stress-coping techniques with 80% accuracy in a VR simulation environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "VR Device (Institutional Rental)",
+      "WhatsApp® Group Management Guide",
+      "Diabetes Management Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

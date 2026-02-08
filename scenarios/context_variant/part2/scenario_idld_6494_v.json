@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6494-V",
+  "variant_type": "context_variant",
+  "title": "Blended Learning Design Utilizing VODcasts for Healthcare Professionals",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and instructional design concepts comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Most learners primarily use smartphone environments and possess basic proficiency in real-time video conferencing platforms and mobile-based learning tools",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain at least three effective content organization strategies when producing VODcasts.",
+    "Learners can design and implement methods to integrate VODcasts with real-time activities in blended learning environments.",
+    "Learners can present at least five criteria for evaluating smartphone-based VODcast learning models in restricted technical environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Video Production Tools",
+      "Zoom Platform",
+      "VODcast Template Sample",
+      "Interactive Activity Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

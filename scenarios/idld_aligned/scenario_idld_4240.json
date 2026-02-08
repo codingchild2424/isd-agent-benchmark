@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4240",
+  "variant_type": "idld_aligned",
+  "title": "Competency-Enhancement Program Based on Physical Therapy Simulation Practice",
+  "context": {
+    "prior_knowledge": "Foundational physical therapy theories and anatomical knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasizes mobile learning environments using personal devices and simulation activities mimicking real clinical scenarios",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply physical therapy assessment protocols with 80% accuracy in simulation environments.",
+    "Learners can improve communication and clinical judgment skills by at least three levels in patient-scenario-based practice.",
+    "Learners can self-assess and peer-assess clinical performance using digital evaluation tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual patient simulation software",
+      "Mobile-Compatible Assessment Framework",
+      "3D anatomical modeling tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

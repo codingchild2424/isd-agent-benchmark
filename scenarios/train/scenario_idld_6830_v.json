@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6830-V",
+  "variant_type": "context_variant",
+  "title": "Problem-Centered Simulation-Based Language Learning Course to Stimulate Cognitive Engagement",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and intermediate-level comprehension of linguistic rules",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A practical language education environment for working professionals. Task performance through VR simulations replicating real workplace scenarios",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze language problem situations presented in VR simulations and articulate intellectual needs that cannot be addressed by existing knowledge.",
+    "Through collaborative learning with peers, learners can derive and apply at least three language strategies to meet intellectual needs.",
+    "Learners can explain language competencies acquired during the resolution of intellectual needs in real-world work contexts through project deliverables."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment Rental System",
+      "Customizable LMS Platform",
+      "Real-Time Video Conferencing Tool",
+      "Simulation Scenario Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

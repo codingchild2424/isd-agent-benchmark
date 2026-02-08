@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4719-V",
+  "variant_type": "context_variant",
+  "title": "Virtual Community of Practice (VCoP)-Based Medical Professional Training Program",
+  "context": {
+    "prior_knowledge": "Basic medical terminology proficiency and patient care experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in a smartphone-centric limited-technology environment, combining asynchronous modules with monthly case discussion sessions",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners collaborate with peers on the VCoP platform to perform and discuss analyses of five or more clinical cases",
+    "Learners explain and apply three patient-centered treatment protocols through asynchronous modules",
+    "Learners improve their clinical approaches two or more times based on peer feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Medical Case Database",
+      "Video Conferencing Tool (Mobile-Compatible)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

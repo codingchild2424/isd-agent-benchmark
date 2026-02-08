@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6992",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Course for Learning Design and Service Integration in Science Fields",
+  "context": {
+    "prior_knowledge": "Understanding Basic Scientific Theories and Experimental Methods, Digital Device Utilization Skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Flexible Learning Environment Utilizing Learners’ Personal Mobile Devices. Strengthening Practical Skills Through Project-Based Assessments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design digital learning scenarios coordinating science experiments using IMS Learning Design specifications",
+    "Learners can build systems that automatically adjust learning flows by integrating external Web 2.0 tools (e.g., virtual labs, data analytics platforms)",
+    "Learners can analyze learning activity data to provide personalized feedback and integrate it into assessment processes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IMS Learning Design-Compliant LMS",
+      "Web 2.0 Science Tools API",
+      "Mobile Device Management System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

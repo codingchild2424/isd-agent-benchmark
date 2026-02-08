@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2481-V",
+  "variant_type": "context_variant",
+  "title": "Maximizing the Effectiveness of Online Math Training Through Active Learning",
+  "context": {
+    "prior_knowledge": "Elementary arithmetic operations and fundamental mathematical concepts required for daily tasks",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Primarily smartphone-based learning, requiring the design of short, focused modules.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply and explain statistical concepts (mean, ratio, graph interpretation) required for analyzing business documents",
+    "Learners improve data analysis skills by solving case-based problems provided in a mobile environment",
+    "Learners share mathematical problem-solving strategies (e.g., equation application, graph interpretation) with three peers on an online discussion platform at least twice weekly, and achieve a score of 4 or higher on a 5-point self-efficacy scale."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Interactive Quiz Module",
+      "PDF Practical Casebook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

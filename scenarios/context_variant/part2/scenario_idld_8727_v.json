@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8727-V",
+  "variant_type": "context_variant",
+  "title": "Self-Regulated Learning (SRL) Enhancement Program in Blended Learning Environments",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended delivery combining social studies curriculum with VR simulations and online platforms, where students access learning data via personal devices and experience self-regulated learning strategies",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately utilize self-regulated learning strategies (task strategies, self-assessment) with over 80% accuracy when performing VR simulation tasks",
+    "Learners maintain focused learning time of over 10 hours per week on an online learning platform and achieve psychological engagement of over 75%",
+    "Learners can improve task performance accuracy by over 40% by applying self-regulated learning-based error correction strategies in formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR headset set",
+      "Learning analytics platform",
+      "Digital Assignment Management System",
+      "Task Strategy Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

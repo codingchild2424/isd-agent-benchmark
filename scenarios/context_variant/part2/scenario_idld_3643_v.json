@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3643-V",
+  "variant_type": "context_variant",
+  "title": "Science Education Based on Situated Learning Through Nursing Simulation Chemistry Experiments",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Realizing situational learning through chemistry lab simulations and nursing practice-linked activities in a smartphone-based microlearning environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze chemical reaction mechanisms of drugs through simulation experiments and apply them to nursing practice",
+    "Learners systematically record and manage chemical experiment data using electronic lab notebooks, enhancing clinical judgment skills",
+    "Learners can practically apply general, organic, and biochemistry (GOB) principles to nursing situations (e.g., fluid administration, drug interactions)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible chemistry simulation app",
+      "Electronic Lab Notebook (ELN) Platform",
+      "Nursing Scenario-Based Learning Materials (Video/Text)",
+      "Online Collaboration Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

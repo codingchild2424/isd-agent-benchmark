@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2543",
+  "variant_type": "idld_aligned",
+  "title": "Hybrid ADDIE-RAD-Based Local Culture Preservation and Multilingual Learning Course",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and intermediate-level expertise in social sciences",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-centered design to enhance job relevance for current practitioners, optimized for smartphone-based accessibility",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately recall key vocabulary at over 80% accuracy by translating local folktales into three languages (Korean, English, and regional dialect).",
+    "Learners can connect cultural values (Pancasila principles) to real-life applications at over 70% proficiency using interactive features of digital platforms.",
+    "Learners can demonstrate 90% completion proficiency within four weeks in utilizing multimedia content (text/image-based) of an application through formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Myth/Legend Database",
+      "Multilingual Voice Support Tool",
+      "Interactive Dictionary Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

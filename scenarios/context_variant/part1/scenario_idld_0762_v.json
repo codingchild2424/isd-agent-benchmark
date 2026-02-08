@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-0762-V",
+  "variant_type": "context_variant",
+  "title": "Hybrid Feedback and Flexible Design Strategies for Personalized Language Learning in MOOCs",
+  "context": {
+    "prior_knowledge": "Intermediate-level language theory background (grammar, vocabulary, pragmatics) and practical experience (writing, speaking, listening). Possession of basic digital literacy and adaptability to VR environments",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A VR/simulation-based language learning course in BYOD environments, emphasizing learner-specific feedback (pronunciation, expression, grammar, pragmatics) and flexible task design for large-scale language education. Focuses on cultivating contextual language use skills in simulation environments resembling real-life situations.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will improve situational language proficiency (speaking, listening, vocabulary usage) by over 80% through VR simulations and acquire context-specific communication strategies",
+    "Learners will use blended feedback (automated scoring system + peer evaluation) to perform customized language expression improvements and grammar error corrections at least twice weekly, strengthening self-directed learning abilities through feedback implementation",
+    "Over a 1–6-month long-term course, learners will select two tasks (writing, presentation, discussion), establish personalized language learning plans using variable deadlines (extendable up to 2 weeks per task), submit at least 8 of 10 weekly learning logs, and demonstrate planning execution by achieving over 80% (4 of 5) on the final portfolio rubric criteria (grammar accuracy, vocabulary diversity, fluency, logical structure, creativity)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR learning platform license",
+      "Interactive Simulation Content",
+      "Automated Grading Quiz System",
+      "Peer Feedback Management Tool",
+      "Mobile-Compatible Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

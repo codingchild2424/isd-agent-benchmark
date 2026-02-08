@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7991",
+  "variant_type": "idld_aligned",
+  "title": "Study on the Effectiveness of Online Lecture Formats: Optimal Video Lecture Design for Language Learning",
+  "context": {
+    "prior_knowledge": "Basic Language Proficiency and Experience with Online Learning Tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A language learning course using non-real-time LMS in digital device-provided environments. Requires monitoring learners' comprehension and concentration through formative assessments.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can select the most suitable lecture format (audio, audio+text, audio+instructor video) for their learning concentration from diverse online formats.",
+    "Learners can experimentally analyze comprehension differences based on lecture formats and establish optimal learning strategies.",
+    "Learners can explain the correlation between lecture format preferences and actual learning outcomes based on formative assessment results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Video Production Tools",
+      "Learning Data Analytics Tool",
+      "Sample lecture materials in various formats"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

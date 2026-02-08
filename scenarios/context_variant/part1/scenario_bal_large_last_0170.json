@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0170",
+  "variant_type": "balance_large_last",
+  "title": "Design and Learning Effects of Science Education Videos Using Segmented and Generative Activities",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental scientific theories and experimental methods",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners individually use tablets or laptops to access videos and engage in generative learning activities through in-class group work. Formative assessment continuously monitors learning progress.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can effectively acquire scientific concepts through segmented video units of three minutes or less.",
+    "Learners can achieve over 80% comprehension through generative activities (e.g., concept mapping, problem-solving) after video viewing.",
+    "Learners can demonstrate statistically significant improvement (p < 0.05) in pre-post tests after video-based learning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science education video production tool",
+      "Formative assessment questionnaire",
+      "Group activity worksheet",
+      "Pre-post test items"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4281-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Patient Care Practical Competencies: Simulation-Based Education Design for Central Venous Catheter Insertion Procedure: GE",
+  "context": {
+    "prior_knowledge": "Fundamental medical skills and knowledge of anatomy",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform a central venous catheter insertion simulation procedure with at least 80% accuracy by applying GEL and ELT instructional methods.",
+    "Learners can write an analytical report comparing performance outcomes (checklist scores, pass rates, error rates) between the two instructional methods.",
+    "Learners can explain at least three advantages of GEL (structured feedback, step-by-step guidance) in simulation-based learning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

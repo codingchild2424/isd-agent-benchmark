@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3563-V",
+  "variant_type": "context_variant",
+  "title": "Intensive Short-Term Programming Course: Mobile-Based Algorithm Design and Scientific Problem-Solving",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and logical reasoning skills. Basic understanding of the scientific inquiry process (hypothesis formation, variable control, data analysis)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-based training course accessible via smartphones for office/administrative professionals, requiring lightweight content design for hands-on practice in PC-free environments. Case-centered instructional design utilizing real-world scientific problems (e.g., energy consumption optimization, public health data analysis).",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners design sequential algorithms (≤3 steps, e.g., multiplication table output, maximum value identification) using basic programming syntax (variables, conditionals, loops) and implement them in Python/JavaScript to pass ≥80% of test cases, applying scientific inquiry methods (hypothesis → experiment → measurement → analysis) to evaluate code efficiency.",
+    "Understanding and applying object-oriented programming (OOP) concepts (classes, inheritance, polymorphism) in mobile environments: designing classes and implementing polymorphism to process real scientific data (e.g., temperature readings, experimental results).",
+    "Cultivating problem-solving skills through Java-based coding and debugging: case studies in scientific domains like medical data analysis or environmental monitoring simulations.",
+    "Learners collaborate with 2–3 teammates for one week to complete a mini-project on GitHub/GitLab, demonstrating collaboration competencies via ≥5 code shares, ≥3 tracked/ resolved team collaboration issues. Project topics focus on scientific problems (e.g., weather data visualization, biodiversity analysis)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible IDE (Mobile Development Environment)",
+      "Offline-Enabled Learning Materials",
+      "Cloud-based collaboration tool",
+      "Automated grading system-integrated platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

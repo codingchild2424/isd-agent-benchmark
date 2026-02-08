@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8414-V",
+  "variant_type": "context_variant",
+  "title": "Expert Collaboration Process Based on Delphi Research for Learning Design Pattern Development",
+  "context": {
+    "prior_knowledge": "Practical experience in educational technology and science fields, basic learning design theory",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended learning program for science professionals, combining mobile-accessible microlearning modules with project-based assessments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can clearly distinguish and explain the core components of learning design patterns (attributes, components, process groups).",
+    "Learners can derive expert consensus across fields and validate learning design patterns by applying the Delphi research methodology.",
+    "Learners can develop science-domain learning design patterns suitable for mobile microlearning environments and apply them to real projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Expert panel (14 members)",
+      "Online Collaboration Tools",
+      "Mobile Learning Management System (LMS)",
+      "Science Domain Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

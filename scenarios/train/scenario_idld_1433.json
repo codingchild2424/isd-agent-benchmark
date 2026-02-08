@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1433",
+  "variant_type": "idld_aligned",
+  "title": "Education on integrated instructional model-based mathematics e-learning system utilization",
+  "context": {
+    "prior_knowledge": "Elementary arithmetic skills and basic proficiency in using digital devices",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Blended learning environment combining an online platform and offline workshops applying an Instructional Design (ID) model, with formative assessment and feedback systems to enhance learner engagement.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain basic algebraic concepts with over 80% accuracy using e-learning modules developed through the ADDIE model-based instructional design process",
+    "Learners improve real-world problem-solving skills by over 70% through digital task performance based on Gagné’s Nine Events of Instruction",
+    "Learners can design personalized learning pathways using ID model-integrated tools (learning objective mapping, automated assessment item generators, etc.) within the LMS"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Extended Moodle-based LMS (Learning Management System)",
+      "Digital Learning Content Authoring Software",
+      "Lecture Space for Offline Workshops"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

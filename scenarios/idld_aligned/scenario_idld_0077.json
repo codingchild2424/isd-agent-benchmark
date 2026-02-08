@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0077",
+  "variant_type": "idld_aligned",
+  "title": "Machine Learning-based Early Delirium Prediction Modeling After Microvascular Decompression",
+  "context": {
+    "prior_knowledge": "Basic Statistics, Python Programming Experience, and Fundamental Machine Learning Concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A practice-oriented course for medical data analysis and machine learning model development, conducted through blended online/offline classes using personal devices.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify key predictor variables (features) in medical datasets and preprocess them.",
+    "Learners can solve binary classification problems by utilizing ensemble models such as Random Forest/GBM (Gradient Boosting Machine).",
+    "Learners can compare and analyze model performance using evaluation metrics such as AUC (Area Under the Curve)/accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python (Jupyter Notebook), Scikit-learn, and Medical Dataset Samples",
+      "Machine Learning Lecture Video Materials",
+      "Statistical Analysis Guide via R/Python"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

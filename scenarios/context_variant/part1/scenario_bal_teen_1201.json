@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-1201",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Customized Network-Based University Innovation Education Design",
+  "context": {
+    "prior_knowledge": "Foundational innovative thinking and digital literacy",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course intensively developing innovation capabilities through project-based assessments in smartphone-centric limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design and implement one weekly innovation project using a customized network system.",
+    "Learners strengthen collaborative competencies by conducting three or more peer feedback sessions via real-time discussion tools.",
+    "Propose five or more creative ideas for solving social issues in virtual reality simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "VR Content Library",
+      "Real-Time Chat Module",
+      "K-means/SVM-based recommendation algorithm",
+      "Open data platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

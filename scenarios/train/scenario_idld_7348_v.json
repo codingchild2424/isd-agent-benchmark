@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7348-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Data Science Practical Competencies: Technology-Integrated Instructional Design for Strengthening English as a Second Language (ESL) Assessment Capabilities",
+  "context": {
+    "prior_knowledge": "Foundational English teaching methodologies and basic digital tool proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Apply second language assessment theories and technology integration models (TAM, TPACK, etc.) to actual classroom contexts",
+    "Using LMS-based formative assessment tools (Moodle/Google Classroom, etc.), learners design a feedback system tailored to 3+ learner types (e.g., beginner/intermediate/advanced) and achieve a suitability score of 80%+ in peer evaluations and expert reviews",
+    "Develop and implement blended assessment strategies utilizing digital portfolios/quiz platforms"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

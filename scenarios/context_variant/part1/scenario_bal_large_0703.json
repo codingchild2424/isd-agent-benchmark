@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0703",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Investigating Timing Effects of Digital Game-Based Learning (DGBL) for STEM Mathematics",
+  "context": {
+    "prior_knowledge": "Understanding Basic Mathematical Concepts (Fractions, Geometry, etc.) and Basic Digital Device Skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Experimental Application of DGBL to Improve Mathematics Pedagogy for Pre-Service Elementary Teachers or Education Job Seekers",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain differences in cognitive effects based on game timing (pre/post-class) when applying DGBL to math lessons with over 80% accuracy.",
+    "Learners can evaluate associations with collaborative problem-solving patterns by analyzing game log data with 70% accuracy.",
+    "Learners can propose over three instructional sequences considering cognitive load and intrinsic motivation factors when designing DGBL."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Licensed Digital Game Platform for STEM Education",
+      "ZOOM Account",
+      "Learning Analytics Tools (e.g., Google Analytics)",
+      "Gameplay Tracking System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

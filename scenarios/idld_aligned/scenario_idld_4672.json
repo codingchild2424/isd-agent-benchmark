@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4672",
+  "variant_type": "idld_aligned",
+  "title": "Instructional Design Process for Radiation Education Simulation",
+  "context": {
+    "prior_knowledge": "Fundamentals of Radiation Physics and Basic Principles of Medical Imaging Equipment Operation",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A practice-oriented educational environment utilizing smartphone-based VR simulations.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Perform patient positioning procedures in a simulated environment with 90% accuracy according to radiation safety protocols.",
+    "Practice radiation exposure dose calculations and optimization strategies at least three times using virtual reality simulation tools.",
+    "Develop and present radiation-related emergency response procedures in a project format within a team-based scenario."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile VR device",
+      "Radiation Simulation Software License",
+      "3D Anatomical Model Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

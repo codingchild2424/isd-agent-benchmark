@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0222",
+  "variant_type": "balance_large_last",
+  "title": "Early Detection of Skin Cancer: Diagnostic Competency Enhancement Using an AI Ensemble Model",
+  "context": {
+    "prior_knowledge": "Basic skin structure knowledge and awareness of early cancer detection importance",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners analyze real skin cancer cases in VR environments and participate in simulations via personal devices (BYOD)",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the importance of early detection and diagnostic procedures for skin cancer.",
+    "Learners can understand the fundamental principles of AI ensemble models and their application cases in skin cancer analysis.",
+    "Identify malignant skin lesions with over 85% accuracy in VR simulations",
+    "Apply self-examination methods using a skin cancer risk factor assessment checklist"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Skin Cancer Image Dataset",
+      "VR Simulation Software",
+      "AI Model Visualization Tool",
+      "Self-Examination Guide (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

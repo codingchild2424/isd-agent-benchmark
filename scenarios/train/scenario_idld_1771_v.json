@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1771-V",
+  "variant_type": "context_variant",
+  "title": "Healthcare Practical Competency Enhancement: Q-Learning Application in Online Evolutionary Control-Based Training",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the core principles of Q-learning algorithms and the design procedures for online evolutionary control systems.",
+    "Learners can implement and evaluate the performance of a stabilized Q-learning algorithm for a given environmental model.",
+    "Learners can produce project outcomes applying online evolutionary control techniques to real-world language processing cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

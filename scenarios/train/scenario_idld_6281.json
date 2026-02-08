@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6281",
+  "variant_type": "idld_aligned",
+  "title": "VR-Based Mathematics Learning Environment Design: Applying the Teacher-Designer Model",
+  "context": {
+    "prior_knowledge": "Elementary Mathematics Curriculum Knowledge and Basic Digital Tool Proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Scenario design using VR-PEAS editing tools and integrated LMS (Learning Management System) operations",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design scenarios for teaching elementary mathematics concepts (e.g., geometry, measurement) in a VR environment.",
+    "Learners can structure VR learning activities (goals, interactions, assessments) according to the teacher-as-designer model.",
+    "Learners can create reusable educational scenarios using VR-PEAS tools integrated with the LMS."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR-PEAS Editing Tool",
+      "Basic VR Development Kit (e.g., Unity3D Educational Edition)",
+      "LMS Integration Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

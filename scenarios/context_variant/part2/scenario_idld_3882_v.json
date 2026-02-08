@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3882-V",
+  "variant_type": "context_variant",
+  "title": "AI Practical Competency Enhancement: Learning Analytics-Based Personalized Feedback Design for Large-Scale Lectures",
+  "context": {
+    "prior_knowledge": "Practical experience in social fields and basic data analysis proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Feedback strategies tailored to learner group characteristics can be designed using learning analytics data.",
+    "In large-scale lecture environments, feedback topics can be prioritized by linking them to learner performance outcomes.",
+    "Customized feedback messages can be generated based on individual learner performance metrics during project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

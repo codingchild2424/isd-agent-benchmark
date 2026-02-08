@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0531",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Foundational Programming Leadership Course",
+  "context": {
+    "prior_knowledge": "Basic digital device usage skills (installing and running smartphone apps)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening foundational programming skills for learners in managerial/leadership roles to improve social services. Utilizing interactive web-based tools accessible via smartphones in PC-unavailable environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design three or more business automation scenarios utilizing basic programming logic (conditional statements, loops).",
+    "Learners can input ≥5 basic commands (build, run, log output, etc.) in a mobile-compatible development environment (Android Studio or Xcode) and analyze debugging logs for 3 types of given error scenarios to propose corrections.",
+    "Complete two problem-solving coding tasks through collaboration simulations with team members."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web-Based Programming Practice Platform (Mobile-Optimized)",
+      "LMS-Integrated Microlearning Content",
+      "Offline collaborative worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8835-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Medical Practical Skills: Wireless Sensor Network Stability Optimization Simulation",
+  "context": {
+    "prior_knowledge": "Core networking concepts, data communication principles, and introductory programming experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can explain the relationship between energy efficiency principles and network stability in cluster-based routing for WSNs.",
+    "Students can apply a hybrid SOM and K-means algorithm in a simulation environment to derive optimal cluster sizes.",
+    "Students can analyze energy consumption distribution and packet reception rate (PRR) metrics to build a network lifespan prediction model."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

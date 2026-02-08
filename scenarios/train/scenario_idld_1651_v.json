@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1651-V",
+  "variant_type": "context_variant",
+  "title": "In-Depth Mathematics Concept Course Through Indirect Failure-Based Learning",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Concept acquisition through observing diverse problem-solving attempts by virtual learners in VR environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze various error cases observed through VR simulations and accurately explain core principles of mathematical concepts with over 80% accuracy",
+    "After indirect failure learning experiences, learners can apply correct concepts to new problems with over 70% accuracy",
+    "Learners can compare and analyze peer problem-solving attempts to derive at least three optimal solution strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Device Set",
+      "Interactive simulation software",
+      "Digital Learning Management System",
+      "Concept Assessment Quiz Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

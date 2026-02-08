@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4809-V",
+  "variant_type": "context_variant",
+  "title": "Virtual Reality-Based Chemical Process Visualization and Operational Training",
+  "context": {
+    "prior_knowledge": "General Chemistry, Basic Chemical Engineering, and Fundamental Process Engineering Concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Addressing the lack of industrial field experience by offering immersive VR learning environments. Fostering practical skills through hazardous scenario simulations",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately identify over 90% of actual equipment components by exploring a 3D virtual model of a chemical process plant.",
+    "Learners can successfully handle at least three abnormal situations (e.g., pipe leaks, reactor overheating) in VR simulations while applying safety protocols.",
+    "Based on team-designed virtual process flowcharts, produce and present a 15-minute operational simulation video"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headsets (10 Sets)",
+      "Chemical Process Simulation Software",
+      "Real-Time Video Conferencing Tool",
+      "3D Modeling Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

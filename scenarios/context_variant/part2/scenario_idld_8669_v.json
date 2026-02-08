@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8669-V",
+  "variant_type": "context_variant",
+  "title": "Music Education Curriculum Utilizing WSQ-Based Mobile Peer Assessment",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based music education conducted in a smartphone-based, limited technological environment. Students develop vocal skills through peer evaluation and systematically document theoretical feedback.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Students analyze peers' vocal performance videos using WSQ (Watch-Summary-Question) learning sheets and provide specific feedback grounded in theoretical principles.",
+    "Learners objectively reflect on their vocal skills during peer assessment and establish improved practice plans based on this reflection.",
+    "At the experiment's conclusion, the correlation coefficient between teacher and peer assessment scores must improve to 0.7 or higher."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone and Mobile Network Integration",
+      "WSQ Learning Sheet Template",
+      "Vocal Training Video Production Tool",
+      "Peer Assessment Guide Document"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

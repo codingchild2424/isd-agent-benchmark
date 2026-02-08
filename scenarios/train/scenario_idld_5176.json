@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5176",
+  "variant_type": "idld_aligned",
+  "title": "Multimodal Data Analysis Project for Financial Risk Prediction",
+  "context": {
+    "prior_knowledge": "Basic Statistics, Introduction to Machine Learning, and Understanding of Financial Risk Management Concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course providing hands-on financial risk prediction modeling via smartphone-based data collection/analysis, emphasizing collaborative learning in limited-technology environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Acquiring the ability to design financial risk prediction models using voice and text data.",
+    "Implementing an analytical framework that integrates non-verbal cues (voice tone) and verbal cues (text).",
+    "Conducting risk prediction experiments using actual corporate earnings announcement data and interpreting the results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based Audio/Text Processing Tool",
+      "Public Financial Dataset",
+      "Collaborative learning platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

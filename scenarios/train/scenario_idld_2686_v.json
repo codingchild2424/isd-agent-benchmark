@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2686-V",
+  "variant_type": "context_variant",
+  "title": "Gamification-Based Mobile Learning Design for Circulatory System Education",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Biological Terminology (Cardiovascular System: Heart, Blood Vessels, Blood Cells)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are university students or job seekers with elementary-level biology knowledge, participating in offline classes utilizing mobile devices and gamification elements",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the main structures (heart, arteries, veins, capillaries) and functions of the circulatory system.",
+    "Learners can distinguish and explain the components of blood (red blood cells, white blood cells, platelets, plasma) and the functions of each.",
+    "Learners can simulate the blood circulation process using a gamified mobile app and analyze real experimental data (blood pressure, blood flow velocity)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Gamification Mobile Application",
+      "Tablet PCs or Smartphones (Rental Units)",
+      "Blood Circulation Model Kit",
+      "Online Quiz Platform Accounts"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4815",
+  "variant_type": "idld_aligned",
+  "title": "Adaptive Online Interactive Education Course for Complex Dynamic Systems Learning",
+  "context": {
+    "prior_knowledge": "Basic systems thinking and experience in analyzing social systems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A process supporting practicing elementary teachers in systematically analyzing complex social phenomena within social studies curricula and applying design thinking methodologies.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can model causal loop structures of dynamic systems with 80% accuracy",
+    "Learners can revise system behavior patterns at least three times using real-time feedback systems",
+    "Learners can establish at least two personalized learning strategies based on learning analytics reports"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "System Dynamics Simulation Tool",
+      "Personalized Learning Analytics Dashboard",
+      "Adaptive Assignment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

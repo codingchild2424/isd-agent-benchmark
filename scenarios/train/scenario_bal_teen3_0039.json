@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN3-0039",
+  "variant_type": "balance_teen_v3",
+  "title": "Learning Effect Optimization Design Based on Numerical Information Representation Methods",
+  "context": {
+    "prior_knowledge": "Basic Numeracy Skills for Data Interpretation, Experience with VR Device Usage",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "VR simulation participation in BYOD (Bring Your Own Device) environments per learner, with application of social studies data analysis scenarios",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately explain cognitive processing differences between tabular and graphical representations with over 80% accuracy.",
+    "Learners can select optimal numerical representation methods using EEG-based cognitive load metrics.",
+    "Learners can analyze social studies data in VR simulation environments and reach conclusions with 90% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset Rental System",
+      "Cognitive Load Measurement Software",
+      "Social Studies Dataset",
+      "Interactive Whiteboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

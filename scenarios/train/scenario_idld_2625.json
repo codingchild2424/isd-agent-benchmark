@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2625",
+  "variant_type": "idld_aligned",
+  "title": "Simulation Course Enhancing Diversity and Inclusion in Continuing Medical Education (CME)",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and workplace environment awareness",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Utilization of smartphone-based VR simulations, including learner discussions and feedback sessions.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze patient cases reflecting diverse demographic backgrounds in VR simulations and identify potential biases with ≥80% accuracy",
+    "Propose three specific improvement strategies considering cultural inclusivity when developing CME content",
+    "Provide diversity-related feedback two or more times on peers' simulation performances through a peer assessment system"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Multicultural Patient Simulation Scenario Database",
+      "Bias Identification Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

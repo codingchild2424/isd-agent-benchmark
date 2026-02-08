@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0380",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Augmented Reality-Based Physical Education Learning Model Design",
+  "context": {
+    "prior_knowledge": "Fundamental physical education theories and basic smartphone operation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Applying AR technology to support diverse learners, including those with special needs, with an accessibility-focused design utilizing smartphones",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain methods for analyzing and simulating physical movements using AR applications",
+    "Learners can replicate 3D animation-based exercise techniques with 80% accuracy",
+    "Learners can develop self-directed learning plans integrated with AR content on the LMS platform"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible AR Application",
+      "LMS Integration Module",
+      "3D Motion Model Template",
+      "Formative assessment checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4397",
+  "variant_type": "idld_aligned",
+  "title": "Mixed Phenomenological Approach for Designing Remote Education Environments",
+  "context": {
+    "prior_knowledge": "Basic experience using online learning platforms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Career-preparation course for job seekers aiming to strengthen social sector job competencies. Operated in smartphone-centric limited technological environments with formative assessment-centered learning support.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain at least three ICT tool strategies to promote meaningful learning in remote education environments.",
+    "Learners can analyze curriculum design requirements by applying a mixed phenomenological research methodology.",
+    "Learners can design and implement interaction strategies suitable for small online learning groups."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Open-source survey tool",
+      "Digital educational content creation template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

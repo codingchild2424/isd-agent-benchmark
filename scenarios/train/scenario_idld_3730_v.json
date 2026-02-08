@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3730-V",
+  "variant_type": "context_variant",
+  "title": "Designing English Learning Strategies Using ChatGPT",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Students acquire practical strategies for effectively using ChatGPT in English learning, with project-based assessments measuring learning outcomes. Learning motivation and usage intention are analyzed based on the Unified Theory of Acceptance and Use of Technology (UTAUT).",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can enhance their ability to analyze and generate English sentence structures using ChatGPT.",
+    "Learners can identify technology acceptance factors through UTAUT model-based surveys and design personalized learning strategies.",
+    "Learners use ChatGPT to create a 5-minute English presentation and demonstrate practical application skills by achieving ≥70/100 points on a presentation rubric (content organization 30%, language fluency 30%, technology utilization 40%)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "10 Tablet PCs",
+      "ChatGPT API Access Permissions",
+      "PLS-SEM Analysis Tool (For Instructors)",
+      "UTAUT Questionnaire Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

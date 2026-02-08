@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6487-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Skills: Virtual Simulation and Serious Games for Enhancing Nursing Clinical Reasoning",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners derive clinical judgments with 80% accuracy through patient symptom analysis in a virtual simulation environment.",
+    "Learners enhance decision-making skills in multidisciplinary collaborative scenarios through serious game-based activities.",
+    "Learners document clinical reasoning processes using digital tools and create self-assessment reports."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

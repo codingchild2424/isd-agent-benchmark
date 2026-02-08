@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2383",
+  "variant_type": "idld_aligned",
+  "title": "Foundational Programming Education Through 3D Collaborative Puzzle Games",
+  "context": {
+    "prior_knowledge": "Basic computer operation skills and logical reasoning abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short-term intensive course conducted in a BYOD (Bring Your Own Device) PBL environment for large learner groups. Requires experiential education design combining team-based collaborative learning and gamification elements",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can implement basic programming structures such as conditionals and loops using block-based programming tools in a 3D virtual environment",
+    "Learners can visualize and explain logical thinking processes for problem-solving while solving collaborative puzzles",
+    "Learners can evaluate their cognitive/behavioral engagement levels by analyzing in-game interaction records"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open Sim Server Infrastructure",
+      "Scratch4OS Integrated Development Environment",
+      "3D Game-Based Learning Scenario Template",
+      "Learner Activity Log Analysis Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

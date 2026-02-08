@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6338-V",
+  "variant_type": "context_variant",
+  "title": "Program for Improving Scientific Literacy Through Online Reading Strategy Training",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific terminology and concepts, possession of foundational reading skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-based learning environment, case-centered education for practical application, and emphasis on peer collaborative learning.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply strategic reading skills to analyze scientific texts and extract key information.",
+    "Learners enhance their critical reading abilities and understand the logical structure of scientific documents by utilizing metacognitive strategies.",
+    "Using peer feedback (two or more sessions) and instructor scaffolding (step-by-step worksheets), learners interpret complex scientific data (technical reports, experimental data, etc.) from three industry cases and propose practical solutions with ≥80% accuracy"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Educational Platform",
+      "Science Reading Material Package",
+      "Strategic Learning Worksheet",
+      "Feedback Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0402",
+  "variant_type": "idld_aligned",
+  "title": "Socio-Technical System Perspective Language Processing Machine Learning Model Design: Focused on Multicultural·Multilingual Environment Application",
+  "context": {
+    "prior_knowledge": "Basic machine learning and statistics knowledge, programming experience, and foundational linguistic concepts (morphological analysis, syntactic parsing, lexical systems, culturally contextualized expressions)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students engage in a language processing model design project to solve real-world social issues (language barriers, cultural biases, etc.), cultivating the ability to comprehensively analyze technology-society interactions. Using collaboration tools (Zoom, Miro, GitHub) in a BYOD environment, teams conduct text data collection and refinement while incorporating linguistic considerations (dialect variations, cultural metaphors). Final outputs must include strategies for optimizing reading and expression in multilingual contexts.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners analyze the impact of data scientists' subjectivity on language processing model design through three case studies. In a 5-page report (introduction-body-conclusion structure with references), they document three or more key influencing factors and improvement strategies, diagnosing model bias using linguistic concepts like morpheme and syntax analysis.",
+    "Identify three or more social factors (cultural context, linguistic diversity, ethical frameworks) to consider when designing language processing systems suitable for specific social contexts (multicultural/multilingual environments). Additionally, analyze how differences in vocabulary and grammar systems affect model performance.",
+    "Within one week, learners analyze the explainability of language models for two or more multilingual datasets through project deliverables (reports/demos). Using fairness verification tools (e.g., Fairness Indicators), they propose three bias management strategies and evaluate cultural appropriateness and expressive diversity in text generation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based machine learning library (TensorFlow/PyTorch)",
+      "Jupyter Notebook Environment",
+      "Sociotechnical Systems Analysis Framework Template",
+      "Authentic Language Dataset (e.g., Text Data Related to Social Phenomena)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

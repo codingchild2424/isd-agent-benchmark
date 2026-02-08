@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1166",
+  "variant_type": "idld_aligned",
+  "title": "Machine Learning-Based Crop Disease Prediction and Early Harvest Optimization",
+  "context": {
+    "prior_knowledge": "Elementary statistical analysis, Python programming, and fundamental crop cultivation theory",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A project-based learning environment applying practical mathematical modeling and machine learning techniques to develop crop productivity solutions.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design preprocessing pipelines for disease pattern analysis using crop image datasets",
+    "Learners can implement a system that predicts crop diseases with over 90% accuracy by combining Threshold Segmentation and Random Forest classification models",
+    "Learners can establish early harvest timing optimization strategies and conduct economic analysis based on machine learning results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python 3.7+ Development Environment",
+      "Crop Science/YesModes/NelsonWisc Open Dataset",
+      "Google Colab or Jupyter Notebook",
+      "Zoom Video Conferencing Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

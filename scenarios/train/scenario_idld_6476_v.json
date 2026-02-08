@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6476-V",
+  "variant_type": "context_variant",
+  "title": "LMS Utilization Competency Development Program for Adult Learners",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Teaching Competency Enhancement Program for Pre-Service or In-Service Teachers: Developing Social Studies Project Capabilities Using LMS in Smartphone-Centric Limited Technology Environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Learners can perform technical support request procedures within the LMS with 90% accuracy.",
+    "Learners can identify three factors inhibiting LMS usage and propose solutions based on the extended TAM model.",
+    "Learners can complete projects in a PBL environment using only smartphones to access LMS collaboration tools (e.g., bulletin boards, file sharing).",
+    "Learners can achieve a score of 4.0/5.0 or higher on the LMS self-efficacy survey."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Step-by-Step Technical Support Manual (PDF/Image)",
+      "Offline Alternative Activity Kit (if needed)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

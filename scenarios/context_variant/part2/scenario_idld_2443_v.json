@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2443-V",
+  "variant_type": "context_variant",
+  "title": "Program for Enhancing Reflective Thinking in Augmented Reality-Based Scientific Inquiry",
+  "context": {
+    "prior_knowledge": "Basic Physics Concepts (Waves, Energy, etc.) and Fundamental Smartphone Operation Skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Modular Content Structured in 15-Minute Units Considering Learners’ Time Constraints, with a Repeating 3-Step Structure of AR Experience-Question-Reflection",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can predict wave phenomena using AR simulations and quantitatively describe observational results",
+    "Learners can write at least three reflective thinking records after each experimental phase via system-embedded question prompts",
+    "Learners can identify and propose corrections for over 80% of errors in inquiry processes through peer feedback sessions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible AR Application",
+      "Wave Experiment Simulation 3D Model",
+      "Reflective Thinking Prompt Question Database",
+      "Real-Time Collaboration Platform (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

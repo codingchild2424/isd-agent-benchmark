@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1850-V",
+  "variant_type": "context_variant",
+  "title": "Discussion-Based Mathematical Language MOOC Design: Customized Course for Intermediate Professional Learners",
+  "context": {
+    "prior_knowledge": "Foundational understanding of mathematical concepts and intermediate (L2) language proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended learning for mid-level professionals in healthcare, legal, and technical fields, conducted in a BYOD (Bring Your Own Device) environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the mathematical problem-solving process in L2 language with over 80% accuracy",
+    "Learners can reconstruct their mathematical thinking process more than three times based on peer feedback in discussion forums",
+    "Learners can achieve over 90% of weekly learning goals using self-directed learning strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "BYOD-compatible discussion tool",
+      "Mathematical concept visualization materials",
+      "Automated grading system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

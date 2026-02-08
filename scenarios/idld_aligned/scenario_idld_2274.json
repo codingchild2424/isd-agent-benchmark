@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2274",
+  "variant_type": "idld_aligned",
+  "title": "Workshop on Designing Interactive Engagement in Asynchronous Online Science Learning",
+  "context": {
+    "prior_knowledge": "Graduate-level foundational scientific knowledge and online learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Short intensive course for graduate students in science, applying video-embedded interaction design strategies in asynchronous environments to improve learning focus and conceptual application skills",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain at least three multidimensional methods for understanding science concepts using text-video integrated materials in asynchronous environments",
+    "Learners can analyze complex scientific phenomena from at least two perspectives using simulation/VR content provided through embedded videos",
+    "Learners can evaluate the impact of video-text interaction design on concept application with an 85%+ accuracy rate in formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software for Science Fields",
+      "Video Production Tools (e.g., Camtasia)",
+      "Learning Management System (LMS) Integration Module",
+      "Interactive eBook Authoring Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

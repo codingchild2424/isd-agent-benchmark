@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4933",
+  "variant_type": "idld_aligned",
+  "title": "Personalizing Algebra Learning: Customized Instructional Design Using Intelligent Tutoring Systems",
+  "context": {
+    "prior_knowledge": "Understanding of elementary algebra concepts (equations, functions, graphs, etc.)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners require algebraic application skills linked to science-related job roles, solve personalized interest-based problems through ITS, and complete project-based assessments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve personalized algebra problems linked to their daily interests (sports, games, etc.) with 80%+ accuracy",
+    "Learners understand the difference between deep/shallow personalized problems in ITS (Intelligent Tutoring Systems) and can select problems matching their quantitative engagement levels",
+    "Learners can apply algebraic concepts to solve real-life problems and submit project-based outcomes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Intelligent Tutoring System (ITS) Software License",
+      "Learner Interest Survey Template",
+      "Customized Problem Generation Algorithm",
+      "Digital Devices (Tablet/Laptop)",
+      "Project Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

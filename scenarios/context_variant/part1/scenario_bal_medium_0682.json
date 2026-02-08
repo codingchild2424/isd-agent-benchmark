@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0682",
+  "variant_type": "balance_medium_scale",
+  "title": "Model-Based Engineering Approach Program for Strengthening Scientific Competencies",
+  "context": {
+    "prior_knowledge": "Intermediate or higher practical experience in science fields and basic digital literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A program targeting in-service professionals, emphasizing learner-tailored competency development to enhance workplace efficiency.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can construct a problem-solving process in science using a model-based engineering approach.",
+    "Learners can systematically combine learning resources provided in the LMS to design work-applicable solutions.",
+    "Learners can establish self-directed learning plans according to a competency development framework and evaluate the outcomes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Science Domain Learning Module",
+      "Competency Assessment Tool",
+      "Learning Management System (LMS) Integration API"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2791-V",
+  "variant_type": "context_variant",
+  "title": "Science Learning Data Augmentation Strategies Using Intelligent Tutoring Systems",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students solve science-related problems using personal devices, with sparse data collected by an Intelligent Tutoring System (ITS) supplemented by Knowledge Tracing (KT) technology. Project-based assessments synthesize learning outcomes comprehensively",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Students can visualize and interpret patterns in learning data through 3D tensor modeling.",
+    "Missing learning data can be accurately supplemented by over 85% using knowledge tracing (KT)-based tensor decomposition techniques.",
+    "Synthetic data tailored to individual learning types can be generated and evaluated by applying generative AI based on GAN/GPT-4o."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Intelligent Tutoring System (ITS) Platform",
+      "Tensor Computation Tool (e.g., TensorFlow)",
+      "GPT-4o API Access Authorization",
+      "Learning Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

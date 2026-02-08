@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3055-V",
+  "variant_type": "context_variant",
+  "title": "Advanced Web Programming Course for Practitioners (LMS-Based)",
+  "context": {
+    "prior_knowledge": "HTML/CSS Fundamentals, Basic JavaScript Syntax, Understanding of Backend Development Frameworks",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A practice-oriented curriculum reflecting the work environments of current practitioners, integrated with LMS and real-time collaboration tools",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can implement a prototype of an actual corporate homepage using HTML5/CSS3 responsive web templates provided by the LMS.",
+    "Completion of a dynamic web application development and deployment project by integrating JavaScript (ES6+) and RESTful APIs.",
+    "Learners integrate LMS collaboration tools (e.g., Slack, Trello) with GitHub to develop three functional modules with three team members, submitting project deliverables within a week that meet the following criteria: 1) 15+ Git commits, 2) 5+ issue tracker uses, 3) 2+ code reviews conducted"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform license",
+      "Cloud Development Environment (Replit/VSCode Dev Containers)",
+      "Responsive Web Design Template Set",
+      "Dummy Dataset for API Testing"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

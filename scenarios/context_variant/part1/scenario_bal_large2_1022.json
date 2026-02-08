@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1022",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] In-Depth Social Studies Learning Course Utilizing Adaptive E-Learning",
+  "context": {
+    "prior_knowledge": "Basic knowledge of social studies at the secondary education level and experience with digital learning environments",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners participate flexibly in learning using personal devices, with an emphasis on analyzing social issues and project-based assessments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners achieve at least 80% mastery of advanced social studies content tailored to their proficiency level in an IMS LD-based adaptive learning environment",
+    "Learners complete 90% or more of weekly learning objectives through personalized learning pathways generated from pre-diagnostic results",
+    "Learners adjust learning activities based on real-time feedback from a runtime adaptive system and score 85 points or higher in final assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IMS LD-Compliant LMS System",
+      "Learning Analytics Tools",
+      "Customizable Content Templates",
+      "Automated Grading Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

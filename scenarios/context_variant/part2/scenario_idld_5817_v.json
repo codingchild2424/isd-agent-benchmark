@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5817-V",
+  "variant_type": "context_variant",
+  "title": "Collaborative Tool Design for Self-Reflection in Maker Education",
+  "context": {
+    "prior_knowledge": "Foundational maker activity experience and digital tool proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Applies collaborative design and UX design principles to develop self-reflection tools in smartphone-centric, technology-constrained environments.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze problems arising during maker projects and derive reflective questions.",
+    "Effectively communicate with multidisciplinary team members to refine prototypes through collaborative design phases.",
+    "Design and evaluate a self-reflection tool interface usable in smartphone environments based on UX design principles."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Collaboration Platform (Figma/Miro)",
+      "Mobile UX Design Template",
+      "Maker Education Case Study Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

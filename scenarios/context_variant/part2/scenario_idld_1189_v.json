@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1189-V",
+  "variant_type": "context_variant",
+  "title": "Multiliteracy-Based University Mathematics English Instructional Design for Strengthening Learner Agency",
+  "context": {
+    "prior_knowledge": "Basic mathematical terminology and secondary education experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course focusing on improving English proficiency required for explaining mathematical concepts for pre-service/in-service teachers. Enhancing accessibility via smartphones and teacher-learner interaction",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately translate and utilize 50 English mathematical terms.",
+    "Learners can manage their learning progress through peer assessment and feedback in a smartphone-based microlearning environment.",
+    "Learners can creatively produce math concept explanation materials using multiliteracy (text, video, infographics)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Open-Source Microlearning App",
+      "Multilingual Dictionary API",
+      "Mathematical Concept Visualization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

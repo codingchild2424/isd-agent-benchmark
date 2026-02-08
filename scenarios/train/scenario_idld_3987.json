@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3987",
+  "variant_type": "idld_aligned",
+  "title": "Agile Evidence-Based Simulation Education for Healthcare Professional Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Basic Medical Terminology and Patient Interaction Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-centered education using VR equipment, combining evidence-based approaches with agile methodologies for iterative learning design.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Perform medical emergency response procedures in a VR simulation environment with over 85% accuracy",
+    "Design patient diagnostic protocols applying Evidence-Based Medicine (EBM) principles",
+    "Practice effective communication skills in team-based medical scenarios and achieve over 90% participant satisfaction"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-spec VR equipment",
+      "Customizable Simulation Content",
+      "Real-time feedback system",
+      "Medical scenario database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0235",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Enhancing high school mathematics problem-solving competencies using intelligent tutoring systems",
+  "context": {
+    "prior_knowledge": "Understanding of elementary algebra and geometry concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Targeting non-degree-seeking adult learners, this course focuses on internalizing high school-level mathematical problem-solving strategies. An LMS-based intelligent system analyzes learner interaction patterns to provide personalized feedback.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Systematic analysis of various types of high school math problems (functions, geometry, statistics) and design of solution procedures",
+    "Application of metacognitive strategies to diagnose and correct errors in real-time during problem-solving processes",
+    "Achieve over 80% accuracy in solving complex problems through personalized tutorials based on learning data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GeoGebraTUTOR-like System",
+      "Mathematics Problem Database",
+      "LMS platform",
+      "Interaction Analysis Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

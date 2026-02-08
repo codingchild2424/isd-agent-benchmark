@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3749-V",
+  "variant_type": "context_variant",
+  "title": "Science-Themed Learning Activity Design and Web Resource Utilization Project",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and experience with online learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A project-based science education course providing dynamic web resources via the Learning Activity Management System (LAMS).",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design learning activities aligned with scientific topics using LAMS.",
+    "Learners can navigate and analyze linked data-based web resources to integrate them into projects.",
+    "Learners can complete and evaluate team-based science projects in a smartphone environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LAMS platform access permissions",
+      "Linked Data-Based Science Web Resource",
+      "Mobile-compatible project template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

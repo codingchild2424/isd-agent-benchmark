@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8460",
+  "variant_type": "idld_aligned",
+  "title": "Smartphone-Based Science Learning Activity Design: Semi-Automated Assembly Strategy",
+  "context": {
+    "prior_knowledge": "Understanding of foundational science concepts (middle school level)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Designing science learning activities accessible via smartphones, accommodating flexible schedules for working learners.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can organize and execute over three science lab activities via smartphone using semi-automated tools",
+    "Learners can propose activity sequences aligned with their learning context by analyzing digital learning patterns",
+    "Learners can revise/improve learning activities at least twice based on formative assessment feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LAMS Platform",
+      "Science Experiment Simulation App",
+      "Offline Activity Guide (PDF)",
+      "Learning Pattern Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

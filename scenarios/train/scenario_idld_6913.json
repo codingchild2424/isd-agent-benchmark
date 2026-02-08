@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6913",
+  "variant_type": "idld_aligned",
+  "title": "Online Educational Module for Improving Palliative Care Awareness",
+  "context": {
+    "prior_knowledge": "Basic Knowledge in Medical/Legal/Technical Fields; No Understanding of Palliative Care",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners access online modules in offline classroom settings using personal devices (BYOD) and measure learning outcomes through project-based assessments. Learners from diverse professional backgrounds collaborate to explore the societal significance of palliative care awareness diffusion.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain core concepts of palliative care (physical, emotional, social, and spiritual support) with 80% or higher accuracy.",
+    "Learners can analyze the experiences of actual palliative care recipients (patients and families) and compare treatment effectiveness across three case studies.",
+    "Learners can design and present one practical strategy (e.g., campaign, educational materials) to improve palliative care awareness through team projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online educational modules (videos, interviews, interactive content)",
+      "BYOD-Supported Infrastructure",
+      "Project Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

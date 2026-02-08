@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1205",
+  "variant_type": "idld_aligned",
+  "title": "VR-Based Expert Training Course in Mining Safety",
+  "context": {
+    "prior_knowledge": "Knowledge of basic mining safety protocols and equipment operation experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Hybrid education combining hands-on VR training modules with theoretical knowledge, utilizing content simulating real mining environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "In VR environments, learners analyze virtual mining disaster scenarios and perform safety response procedures with over 90% accuracy",
+    "Learners identify five major risk factors (collapses, gas leaks, fires, etc.) in mining workplaces and explain preventive strategies",
+    "Through team-based projects, learners design and evaluate VR training modules to improve mining safety protocols"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "3D modeling tool license",
+      "Mining safety database",
+      "Simulation programming engine"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

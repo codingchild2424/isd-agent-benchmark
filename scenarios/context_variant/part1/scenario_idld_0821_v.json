@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0821-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Environmental Mathematics Microlearning Program: Interest-Evoking Design Using ADDIE and Isman Models",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Environmental mathematics content focusing on data visualization and problem-solving activities in smartphone-based learning, with project-based assessments to evaluate real-life application skills.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can write regional environmental problem analysis reports utilizing mathematical modeling",
+    "Learners can visualize a 2020–2023 country-specific carbon emissions dataset using Python’s Matplotlib/Seaborn or R’s ggplot2, apply ≥3 statistical interpretation strategies (mean comparison, trend analysis, correlation), and write an analysis report.",
+    "Learners can apply the 5 stages of the ADDIE model (Analysis-Design-Development-Implementation-Evaluation) to complete a math-based design project (e.g., energy efficiency optimization model) reflecting ≥3 sustainability principles (environmental, social, economic) within 6 months and receive ≥4 points (5-point scale) from an expert evaluation panel."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Open-source data visualization tool",
+      "Environmental statistics dataset",
+      "ADDIE design template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

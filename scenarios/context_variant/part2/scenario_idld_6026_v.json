@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6026-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Digital Literacy-Based EFL Integrated Instructional Design",
+  "context": {
+    "prior_knowledge": "Basic English communication skills and expertise in scientific disciplines",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can create English presentation materials using digital resources (podcasts, infographics, etc.) tailored to science-related work scenarios.",
+    "Learners can revise and improve content through English peer feedback in digital environments (e.g., cloud collaboration tools).",
+    "Learners can present three or more criteria for evaluating the credibility of digital content (videos, blogs, etc.) explaining scientific topics in English."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

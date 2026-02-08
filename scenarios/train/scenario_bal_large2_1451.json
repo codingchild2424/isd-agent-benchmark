@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1451",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Development of an IMS LD-based Language Learning Design Engine: Integrated Optimization of Grammar, Vocabulary, and Listening, and Strengthening Expression and Reading Comprehension Competencies",
+  "context": {
+    "prior_knowledge": "Foundational language learning experience (grammar, vocabulary, listening, speaking) and digital device proficiency, along with basic comprehension of text analysis and expression techniques (writing, presentation)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course focused on implementing integrated language learning flows (reading/writing/listening/speaking) using IMS LD standards in smartphone-centric limited-technology environments. Includes personalized feedback systems to improve learners’ expressive and reading comprehension skills. Evidence-based optimization strategies are established through learning data analysis.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners must explain the basic principles of IMS LD-based learning design and language learning components (grammar, vocabulary, listening, expression, reading, etc.) according to scientific inquiry procedures.",
+    "Learners must simulate integrated language learning flows (reading–writing–speaking) using Petri net models and evaluate learning efficiency through text structure analysis.",
+    "Learners must flexibly modify a learning design engine based on open architecture and implement customized learning paths for language domains (grammar, vocabulary, listening, expression, reading).",
+    "Learners must analyze monthly formative assessment results, identify two or more language domains (grammar, vocabulary, listening, etc.) with error rates over 30%, and create an optimization plan increasing weekly practice frequency (writing exercises, vocabulary quizzes, listening assessments, reading drills) by at least one session per week."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "IMS LD Editor Toolkit",
+      "Open-Source Petri Net Simulator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

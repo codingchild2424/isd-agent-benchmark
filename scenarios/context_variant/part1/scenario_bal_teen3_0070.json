@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN3-0070",
+  "variant_type": "balance_teen_v3",
+  "title": "Development Process of Web Course Learning Objects Based on IMS Learning Design",
+  "context": {
+    "prior_knowledge": "Elementary web development and educational technology comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Strengthening practical social studies education content development with learner-customized simulation environments for skill reinforcement",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Use IMS LD specifications to structure ≥3 learning objects (e.g., videos, quizzes, discussion boards), create 5-stage learning flow designs (introduction-development-activity-assessment-feedback) for each, and complete a learning design that meets ≥4 out of 5 peer evaluation rubric criteria (clarity, creativity, practicality, interactivity, technical completeness) within a 6-month course.",
+    "Acquiring practical skills to develop web-based learning objects in simulation/VR environments",
+    "Collaboratively complete a project-based assessment task (e.g., vocational field simulation) provided by a vocational training institution in a 4-5 member team, and submit a result achieving ≥4 points per category (≥15 out of 20 total points) on the evaluation rubric (teamwork, creativity, completeness, etc., 5 items)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IMS Learning Design (LD) Editor",
+      "VR Development Toolkit",
+      "Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

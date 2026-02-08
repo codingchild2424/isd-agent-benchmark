@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5433-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening App Development Practical Skills: Programming Fundamentals: Teacher Training for Gradual Skill Acquisition",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and foundational logical thinking skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Within four weeks, learners can systematically explain the four core programming skills (code tracing, syntax writing, template comprehension, and code writing using templates) in a step-by-step manner.",
+    "A progressive learning module is applied to achieve an 80% or higher completion rate for practical assignments and reduce error rates by 30%.",
+    "Develop and utilize at least three formative assessment tools (quizzes, pair programming observations) to evaluate code explanation proficiency."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4015",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Neonatal Airway Management Expert Training Program",
+  "context": {
+    "prior_knowledge": "Basic neonatal nursing and emergency care knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A re-education program for professionals operated by a medical device company, conducted in simulation facilities that closely resemble real clinical environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Perform neonatal airway management procedures (intubation, bag-mask ventilation, upper airway management) with ≥85% accuracy in simulation environments",
+    "Identify ≥3 potential complications (side effects, equipment malfunctions) during neonatal airway management and explain response protocols",
+    "Apply communication protocols in team-based simulations to achieve effective role distribution in ≥4 out of 5 attempts"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Neonatal airway management simulation equipment",
+      "High-fidelity manikin",
+      "Digital video recording and analysis system",
+      "Clinical Scenario Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

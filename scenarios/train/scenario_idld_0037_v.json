@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0037-V",
+  "variant_type": "context_variant",
+  "title": "E-Textile-Based Computational Creativity Workshop: STEAM Integrated Education",
+  "context": {
+    "prior_knowledge": "Fundamental electrical circuit theory and comprehension of computing concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practice-centered workshop for strengthening mathematics-based computational thinking in bring-your-own-device (BYOD) environments. Exploring the balance between aesthetic elements and functional implementation while experiencing the convergence of traditional craft techniques and digital technologies",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Solve at least three electrical circuit problems using series/parallel circuit designs in e-textile fabrication",
+    "Fabricate wearable devices applying mathematical algorithms (e.g., conditionals, loops) with sensors based on Arduino or micro:bit",
+    "Complete and receive peer evaluation for one or more e-textile prototypes combining functionality and aesthetic elements through design thinking"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "E-Textile Kit (Conductive Thread, Sensors, LEDs, etc.)",
+      "Microcontroller Kit",
+      "3D Modeling Software License",
+      "Digital Fabrication Tools (3D Printer, Laser Cutter Shared Access)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

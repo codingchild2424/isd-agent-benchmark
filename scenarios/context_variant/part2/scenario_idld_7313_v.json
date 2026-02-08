@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7313-V",
+  "variant_type": "context_variant",
+  "title": "Prescriptive Skill Hybrid Learning Course Based on the 4C/ID Model",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended learning environment combining clinical scenario-based practice with theoretical frameworks",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform medication prescription decision-making processes based on patient profiles in various clinical situations with 80% accuracy.",
+    "Learners can systematically explain procedures for analyzing drug interactions and side effects to consider during prescription.",
+    "Learners can reduce decision-making errors in complex prescription scenarios by 50% using Part-Task Practice from the 4C/ID model."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual Patient Simulation Platform",
+      "Prescription Decision Support System Demo",
+      "Drug Interaction Database Access Rights"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

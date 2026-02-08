@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8000",
+  "variant_type": "idld_aligned",
+  "title": "Collaborative Learning-Based E-Learning Design for Christian Education",
+  "context": {
+    "prior_knowledge": "Basic Christian education concepts and online learning tool proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based educational curriculum conducted in a BYOD (Bring Your Own Device) environment for pre-service/in-service teachers",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform collaborative learning designs comparing and contrasting Christian education themes at least once",
+    "Learners can design two or more e-learning scenarios applying scaffolding strategies using the LAMS tool",
+    "Learners can collaboratively develop Christian ethics-related educational materials through peer evaluation and feedback"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "LAMS platform account",
+      "Open educational content related to Christian education",
+      "Online Collaboration Tools (Google Workspace, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

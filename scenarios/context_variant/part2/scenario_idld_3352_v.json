@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-3352-V",
+  "variant_type": "context_variant",
+  "title": "Collaborative Online Mathematics Educational Resource Development Project Based on Learning Sciences",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and basic online learning tool usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Targets office/administrative professionals with intermediate math domain expertise, applying blended asynchronous learning and co-creation models, emphasizing formative assessments in a BYOD environment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners design online math educational resources (video lectures, quizzes, simulations, etc.) by applying at least three principles of the Science of Learning (SoL) (e.g., attention focus, feedback, spaced repetition) and develop a prototype that meets over 80% fulfillment in four out of five corporate evaluation rubric criteria (content effectiveness, technical implementation completeness, user convenience).",
+    "Learners co-create customized corporate educational resources (three videos, two practical guides) using a student-instructor collaboration model over six months and submit project deliverables that meet predefined evaluation standards (80% content completeness, 90% collaboration participation).",
+    "At the end of the six-month course, learners produce three types of interactive math content (quizzes, simulations, animations) optimized for asynchronous learning environments (corporate LMS, video platforms, etc.) and achieve an average effectiveness rating of over 4 points (5-point scale) in user testing (five or more participants).",
+    "Develop the ability to verify educational resource effectiveness through feedback-driven iterative improvements",
+    "Within six months, learners prepare a global educational resource development strategy document reflecting international standards (ISO/IEC 29110) and local cultural differences, and establish budget/schedule/quality management plans based on case analyses of three or more overseas markets."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital content creation tools (Canva, H5P, etc.)",
+      "Asynchronous Collaboration Platform (Notion, Google Workspace)",
+      "Learning Management System (LMS)",
+      "Open Educational Resources (OER) for Mathematics Education"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

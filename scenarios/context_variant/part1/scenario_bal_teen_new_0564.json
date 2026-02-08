@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0564",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Energy Concept Inquiry: Scientific Modeling and Inquiry-Based Learning",
+  "context": {
+    "prior_knowledge": "Basic understanding of fundamental physics concepts (forms of energy, conversions, etc.)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A social studies-linked program for vocational training institutions, connecting energy concepts to social problem-solving.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can create virtual models of energy flow and visually explain the energy conversion process.",
+    "Students can write a report analyzing the dynamic characteristics of energy systems by applying scientific inquiry methods.",
+    "Students can enhance their understanding of energy concepts by over 80% through a collaborative model revision process."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web-based open-source modeling tools",
+      "LMS platform",
+      "Energy simulation datasets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

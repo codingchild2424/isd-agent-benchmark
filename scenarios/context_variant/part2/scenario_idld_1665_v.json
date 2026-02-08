@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1665-V",
+  "variant_type": "context_variant",
+  "title": "Comparative Educational Course: Learner-Controlled vs. Adaptive Program-Controlled Learning in Chemical Metrology",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learning chemical metrology concepts using digital devices and solving real-life problems through PBL (Project-Based Learning) projects",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners will be able to apply four conversion rules (a–d) between moles and grams with 80% or higher accuracy.",
+    "Learners will be able to independently solve at least 20 practice problems under both learner-controlled (LC) and adaptive program-controlled (PC) strategies.",
+    "Learners will be able to compare that the PC strategy demonstrates 15% or higher accuracy than the LC strategy in immediate/delayed assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Learning Management System (LMS)",
+      "Interactive Analytical Chemistry Simulation Tool",
+      "PBL (Project-Based Learning) workbook",
+      "Formative Assessment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

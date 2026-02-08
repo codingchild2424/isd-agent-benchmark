@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2562",
+  "variant_type": "idld_aligned",
+  "title": "Introductory Statistics Education Course Based on Flipped Learning",
+  "context": {
+    "prior_knowledge": "High School-Level Basic Mathematics and Understanding of Fundamental Data Analysis Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Emphasizes collaborative learning environments for current professionals, focusing on offline activities using digital devices (laptops/tablets).",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can calculate and interpret descriptive statistics (mean, variance, standard deviation, etc.) for a given dataset",
+    "Students can apply the hypothesis testing process to analyze practical problems and derive meaningful conclusions",
+    "Students demonstrate the ability to design experiments and interpret results based on statistical concepts through collaborative activities (group projects)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Statistics textbook",
+      "Practical software (R/Python, etc.)",
+      "Video Lecture Production Equipment",
+      "Data analysis sample set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

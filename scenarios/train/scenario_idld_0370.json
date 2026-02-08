@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0370",
+  "variant_type": "idld_aligned",
+  "title": "Introduction to Neural Network-Based NLP for Social Media Data Analysis",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and interest in social science data",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-oriented course using VR simulations in smartphone-centric limited environments. Continuous monitoring of learning effectiveness through formative assessment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Sentiment analysis can be performed on social media text data",
+    "Topic modeling results using neural network-based models (BERT/GPT, etc.) can be interpreted",
+    "Data visualization reports can be generated using mobile-friendly NLP tools in resource-constrained technical environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible VR simulation software",
+      "Open-source NLP library (Python-based Colab integration)",
+      "Social media sample dataset (anonymized public data)",
+      "Learning Management System (LMS)-based quiz tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

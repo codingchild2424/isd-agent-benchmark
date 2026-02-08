@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-0894-V",
+  "variant_type": "context_variant",
+  "title": "Multimedia Resource Organization Design for Customized eLearning",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Context-based learning content is required to strengthen the connection to real-world tasks for in-service practitioners. A metadata system must be developed for personalized resource recommendations",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can classify science-specific multimedia resources with 80% accuracy",
+    "Learners can selectively utilize four or more types of multimedia (video, simulation, infographic, audio) in mobile environments based on situational needs",
+    "Learners can explain resource packaging principles based on SCORM/IMS standards and apply them to real-world cases",
+    "Learners can design a multimedia resource recommendation system based on learner profiles (job role, experience, learning style)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Multimedia Editing Tools",
+      "LOM Metadata Template",
+      "Open Educational Resources (OER) Database for Science"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

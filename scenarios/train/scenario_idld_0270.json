@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0270",
+  "variant_type": "idld_aligned",
+  "title": "Science Experiment Simulation Course Using Multimodal Learning Materials",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific experiment procedures and safety protocols",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learning environment integrating theory and practice through chemistry lab simulations, utilizing digital tools such as VR devices and tablet PCs",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners compare four multimodal material types (text, text+audio, text+image, video) and explain the relationship between cognitive load and learning efficiency.",
+    "Learners perform chemical experiment procedures with over 90% accuracy using the 'text+image' modality.",
+    "Learners produce experimental simulation materials applying multimodal design principles in project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset",
+      "Tablet PC",
+      "Multimodal Learning Material Template",
+      "Chemical Experiment Simulation Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

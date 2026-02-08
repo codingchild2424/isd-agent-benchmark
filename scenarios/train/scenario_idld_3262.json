@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3262",
+  "variant_type": "idld_aligned",
+  "title": "Virtual World-Based First Language Learning Design Workshop for Special Education Learners",
+  "context": {
+    "prior_knowledge": "Basic special education theory and understanding of language development stages",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course for science field professionals to learn VR environment design methods that support first-language acquisition for special education learners. Participants engage in hands-on practice, constructing virtual world scenarios and developing assessment tools.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain six HCI design principles for promoting language development of special education learners in virtual world environments",
+    "Learners can design learning scenarios for vocabulary and sentence structure acquisition of special education learners using VR/simulation tools",
+    "Learners can develop a metrics framework to measure the effectiveness of virtual learning environments based on formative assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR development software licenses",
+      "Special Education Learner Case Database",
+      "Personal VR Device (Compatible with Smartphones/Tablets)",
+      "Language Development Assessment Scale Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

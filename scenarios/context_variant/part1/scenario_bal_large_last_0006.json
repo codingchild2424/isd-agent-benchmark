@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0006",
+  "variant_type": "balance_large_last",
+  "title": "LMS Development Course Based on Contextual Instructional Design for Nursing Continuing Education",
+  "context": {
+    "prior_knowledge": "Clinical Nursing Practice Experience and Basic Computer Literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based assessment with hands-on learning activities in a provided-digital-device environment, targeting advanced nursing professionals for software development education",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Core modules for a nursing continuing education LMS can be designed by applying contextual instructional design principles",
+    "An educational software prototype can be implemented according to the learning management system (LMS) development process",
+    "The educational effectiveness of developed software can be analyzed, and improvement suggestions can be provided through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Development Environment Setup Tool",
+      "Educational Content Repository",
+      "Assessment Rubric Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

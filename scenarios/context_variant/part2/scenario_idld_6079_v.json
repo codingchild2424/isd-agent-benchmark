@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6079-V",
+  "variant_type": "context_variant",
+  "title": "Digital Competency Enhancement Project for Undergraduate Scientific Research",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students require systematic training to effectively utilize digital tools in academic settings, with learning conducted in smartphone-centric, limited-technology environments. Emphasis on digital competencies linked to real scientific research through project execution.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Students can independently utilize smartphone-based digital tools (e.g., Google Sheets, data collection apps) for scientific research data collection, analysis, and visualization",
+    "Learners can effectively operate collaboration tools (e.g., Padlet, Google Drive) in PBL team projects to complete scientific research projects",
+    "Students can select credible online resources for scientific research reports based on digital information evaluation and critical analysis skills"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone and Mobile Internet Access",
+      "Google Workspace for Education Account",
+      "Free Data Analysis/Visualization Apps (Plotly, RAWGraphs, etc.)",
+      "Open-Access Scientific Research Databases (PLOS, arXiv)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-5844-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening CS Practical Competencies: Selective Decentralization Strategies for Enhanced Reinforcement Learning Performance",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Service/Customer Engagement Role-Specific Competency Development Program",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can construct approximate models using system identification techniques in model-based reinforcement learning.",
+    "Learners can explain the application methods of HJB equations and Riccati equations in linear/nonlinear systems.",
+    "Learners reduce communication latency between agents by 20% by applying selective decentralization strategies (e.g., dynamic routing, load balancing) within a 2–4 week process, and achieve a policy optimization success rate of 85% or higher in a simulation environment.",
+    "Learners can analyze stability proof conditions for nonlinear system control using MDP-based dynamic programming.",
+    "Learners write a comparative analysis report on performance metrics (processing speed, recovery time from failures, scalability) of fully decentralized, centralized, and selectively decentralized architectures within two weeks, and present three or more quantitative data points (e.g., 40% faster processing speed, 50% shorter recovery time) proving the superiority of selective decentralization."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Customer Relationship Management (CRM) System",
+      "Customer Interaction Simulator",
+      "Service Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

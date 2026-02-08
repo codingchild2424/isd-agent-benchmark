@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3773",
+  "variant_type": "idld_aligned",
+  "title": "Short-term Intensive Course on Enhancing Clinical Competency through Anesthesiology Simulation-Based Training",
+  "context": {
+    "prior_knowledge": "Basic anesthesiology clinical knowledge and fundamental patient care skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Online simulation education environment for current professionals, with digital devices provided and asynchronous learning conducted through an LMS platform, featuring a formative assessment-centered feedback system",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners perform emergency response protocols for anesthesia-related critical situations with over 80% accuracy via simulation-based scenarios.",
+    "Learners achieve a score of 4 or higher on a rubric measuring team-based non-technical skills (communication, leadership) in a simulated environment.",
+    "Learners achieve a knowledge retention rate of over 90% in an LMS-based assessment quiz within 24 hours of simulation learning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Fidelity Virtual Simulation Software License",
+      "LMS-Integrated Simulation Module",
+      "Virtual Digital Sphygmomanometer/Blood Pressure Monitor Equipment",
+      "Standardized Debriefing Evaluation Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1242",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Learning Network and Reward System Design for Online Learning Community Activation",
+  "context": {
+    "prior_knowledge": "Basic experience with online learning tools and understanding of social interaction",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Need to foster collaboration and sustained participation among learners in social-sector communities of practice aimed at enhancing workplace competencies",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners perform peer knowledge-sharing activities at least three times on mobile platforms within one week.",
+    "Learners maintain community engagement motivation by earning at least five virtual badges through a reward system.",
+    "Learners can collaborate with a 3–4 person team for one week to propose three actionable solutions (e.g., public transit route optimization, bike-sharing system expansion, pedestrian-only zone designation) for a local traffic issue, and submit a 10-page report achieving an average score of over 4 out of 5 on each criterion (creativity, feasibility, social impact) of the evaluation rubric."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Virtual Badge System",
+      "Real-time feedback tool",
+      "Collaborative Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

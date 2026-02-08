@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6951-V",
+  "variant_type": "context_variant",
+  "title": "Adaptive Hypermedia Design: Pattern-Based Project Development",
+  "context": {
+    "prior_knowledge": "Elementary programming knowledge and comprehension of hypermedia concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Development of an adaptive hypermedia system applicable to language education domains requiring learner-tailored content design",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can establish an adaptive hypermedia design process by analyzing concept maps and constraints according to the APHID methodology.",
+    "Learners can apply instructional patterns (directive/constructive) and representation patterns tailored to various learner types.",
+    "Learners can implement small-scale hypermedia applications using a semi-automated prototyping tool operable in a BYOD environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "APHID Prototype Toolkit",
+      "Learner Profile Template",
+      "Pattern Library",
+      "Sample Concept Map"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

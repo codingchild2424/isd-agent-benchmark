@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3376",
+  "variant_type": "idld_aligned",
+  "title": "Recommendation System-Based Mobile Microlearning Design",
+  "context": {
+    "prior_knowledge": "Knowledge of fundamental science theories and practical field experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requirement for 10-minute modular content to support workplace-integrated learning for professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can curate job-relevant science content with 80% accuracy using recommendation systems",
+    "Learners can complete customized microlearning courses within 24 hours based on reusable learning design templates",
+    "Learners can improve the applicability of recommended learning activities by 75% or more through formative assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LAMS Platform License",
+      "Mobile Learning Management System (LMS)",
+      "Science Domain Standard Learning Design Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

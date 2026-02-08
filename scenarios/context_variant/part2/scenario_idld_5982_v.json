@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5982-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Artificial Intelligence Practical Competencies: Mobile-Based Interactive Learning Design for Nursing Education",
+  "context": {
+    "prior_knowledge": "Foundational nursing theory and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can complete nursing scenario-based collaborative projects via mobile platforms with 80% or higher accuracy.",
+    "Learners achieve 90% or higher accuracy in performing nursing procedure simulations using multimedia learning materials provided via smartphones.",
+    "Learners maintain weekly interaction frequency (3+ times) with peers and instructors using mobile discussion forums and real-time chat features."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7507-V",
+  "variant_type": "context_variant",
+  "title": "Blended Learning Workshop Utilizing Food Composition Data",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-oriented course based on FAO/INFOODS educational materials, combining blended learning with online lectures and offline project work",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the procedures for collecting, processing, and managing food composition databases.",
+    "Students can prepare food component analysis reports in accordance with international standards.",
+    "Students can complete data quality assessment projects through real-world case studies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "FAO/INFOODS Online Lecture Materials",
+      "Food Composition Analysis Software",
+      "Practical Dataset for Hands-On Practice"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

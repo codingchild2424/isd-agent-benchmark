@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1103-V",
+  "variant_type": "context_variant",
+  "title": "Educational System Design Project Utilizing UML Stereotypes",
+  "context": {
+    "prior_knowledge": "Basic Software Engineering Concepts, UML Diagram Creation Experience, and Secondary-Level Mathematics Education Theory Understanding",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Designing a customized education system to strengthen mathematical problem-solving competencies for prospective professionals in medical/legal/technical fields",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can model pedagogical elements of educational systems using UML extension mechanisms.",
+    "Learners can design creation, monitoring, and adaptation mechanisms for educational models by applying stereotypes.",
+    "Learners can prototype a customized educational system optimized for mathematics education scenarios in a PBL (Project-Based Learning) environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "UML Modeling Tools (Lucidchart, StarUML, etc.)",
+      "Multimedia Content Library for Mathematics Education",
+      "PBL Assessment Rubric Template",
+      "BYOD-Compatible Online Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

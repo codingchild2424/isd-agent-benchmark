@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0712",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Augmented Reality (AR)-Based Instructional Design Strategies for Secondary Education",
+  "context": {
+    "prior_knowledge": "Basic understanding of AR technology and fundamental smartphone usage skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Acquiring AR utilization strategies in social contexts for professionals in medical, legal, and technical fields.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design AR-based educational content by applying the ARCS motivation model.",
+    "Learners can develop AR educational scenarios in limited technological environments (smartphone-centric).",
+    "Learners can measure the motivational effects of AR education using the IMMS survey tool."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR development tools (e.g., Unity + AR Foundation)",
+      "Mobile-compatible learning management system (LMS)",
+      "Sample AR content template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

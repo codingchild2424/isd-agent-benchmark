@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8301-V",
+  "variant_type": "context_variant",
+  "title": "Federated Learning Design and Functional Deepening Research",
+  "context": {
+    "prior_knowledge": "Basic machine learning, distributed computing concepts, and data privacy understanding",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning environment combining hands-on practice and discussion-based learning using personal devices, with a focus on practical application through academic literature analysis and case studies",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain core components of federated learning (client selection, aggregation algorithms, non-independent and identically distributed data management).",
+    "Analyze key constraints (communication costs, incentive mechanisms) to consider when designing federated learning systems.",
+    "Based on existing research trends, the technical limitations of federated learning and future development directions can be proposed"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Academic Database Access Rights",
+      "Jupyter Notebook-Installable Personal Device",
+      "Federated Learning Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-3998-V",
+  "variant_type": "context_variant",
+  "title": "Problem-Based Computing Project Design for Non-Majors",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Computing education course for social science majors to enhance data analysis and visualization competencies.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Write three or more analysis scripts in Python using real-world social issue data.",
+    "Improve algorithms by incorporating peer feedback at least five times using collaboration tools.",
+    "Complete two projects applying data structures (lists, dictionaries) and basic sorting algorithms (bubble/quick sort)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook",
+      "GitHub Classroom",
+      "Google Colaboratory",
+      "Padlet feedback platform",
+      "Kaggle dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

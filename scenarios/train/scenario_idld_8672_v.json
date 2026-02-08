@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8672-V",
+  "variant_type": "context_variant",
+  "title": "Strategies for Utilizing Computer-Supported Collaborative Learning (CSCL) in Engineering Education",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Case-Based Mathematics Domain Application Education for Pre-Service and In-Service Teachers",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can implement collaborative learning designs using CSCL tools (ColLabEditor, TaskMaster) at least three times.",
+    "Learners can write feedback reports with over 80% accuracy after executing collaborative activities in a mobile environment.",
+    "Learners can develop at least two CSCL scenarios for mathematical problem-solving activities in an engineering education context."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ColLabEditor Authoring Tool",
+      "TaskMaster Execution System",
+      "IMS Learning Design Standard Template",
+      "Mobile Learning Management Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

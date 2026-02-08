@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0125",
+  "variant_type": "balance_teen_v2",
+  "title": "Integrated ASIE Model-Based Genetics Education Program [K-12]",
+  "context": {
+    "prior_knowledge": "High school-level foundational knowledge in life sciences",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A mixed-methods class integrated with social studies curriculum for general citizens, operating in a smartphone-based limited-technology environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the basic principles of Mendelian genetics and apply them to real-life contexts.",
+    "Learners can systematically acquire genetic concepts by utilizing the four stages (Activity-Reflection-Exploration-Explanation) of the ASIE model.",
+    "Learners can design and implement collaborative inquiry processes for solving genetic problems."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible Online Learning Platform",
+      "Genetics Experiment Kit (Low-Cost Simplified Version)",
+      "ASIE Model Worksheet (PDF)",
+      "Genetic Concept Visualization Card Set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

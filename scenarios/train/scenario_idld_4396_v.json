@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4396-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Patient Care Practical Competencies: Language Learning Design Applying an Educational Impact Assessment Framework",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Identify three core metrics (engagement, task completion rate, formative assessment scores) to measure language proficiency improvement in educational programs",
+    "Learners visualize learner behavior data (login frequency, average dwell time ≥10 minutes for 3+ contents) collected over one week using LMS analytics tools (Google Analytics, xAPI, etc.) and write a data interpretation report including the top three insights.",
+    "Within one week, learners propose ≥3 designs for a customized feedback system reflecting educational policies (e.g., Ministry of Health Nursing Education Guidelines) and write a feasibility analysis report (≈500 characters per proposal)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

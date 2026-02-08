@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1352",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Dynamic Instructional Design Course for Improving Programming Problem-Solving Skills",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental programming concepts and experience writing simple code",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Large-scale language domain programming education conducted in a limited technological environment focused on smartphones",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain at least three programming design patterns applicable to various problem-solving scenarios",
+    "Learners can apply optimal algorithm selection strategies at each problem-solving stage with over 80% accuracy.",
+    "Learners can analyze problems occurring in real work environments and document step-by-step problem-solving procedures."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Offline workbook and code example repository",
+      "Problem-solving template toolkit",
+      "Step-by-step diagnostic assessment system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

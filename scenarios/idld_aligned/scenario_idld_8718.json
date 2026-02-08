@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8718",
+  "variant_type": "idld_aligned",
+  "title": "Mathematics Learning Design and Management System Using Generative Authoring Environments",
+  "context": {
+    "prior_knowledge": "Foundational mathematics knowledge and experience with online learning platforms",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Students design mathematics learning activities using generative AI tools, practice in digital environments, and incorporate peer feedback. During assessment, integration features between LMS and external web services are utilized.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners structure mathematical problem-solving processes using generative authoring tools.",
+    "Learners plan and execute blended learning activities based on the IMS Learning Design standard.",
+    "Learners measure mathematical concept application skills using digital assessment tools integrated with web services."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IMS LD-Compliant LMS",
+      "Generative AI Authoring Tool",
+      "Mathematical Simulation Web Service"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5722-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Practical AI Competencies: Technical Chinese Mobile Microlearning Course",
+  "context": {
+    "prior_knowledge": "Basic Chinese character comprehension and foundational business conversation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can translate technical documents with over 80% accuracy for 300-word standards.",
+    "Learners can acquire the ability to apply over 200 industry-specific technical terms contextually.",
+    "Learners can achieve over 90% pronunciation accuracy using audio guidance and video materials."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

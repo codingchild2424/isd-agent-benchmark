@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0346-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing AI Practical Competencies: Reflective Practice-Based Video Self-Analysis for Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Foundational pedagogical knowledge and instructional design experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Preservice teachers can identify at least three strengths and areas for improvement in their teaching behaviors by analyzing their own lesson videos",
+    "Develop at least two reflective practice strategies by combining peer feedback and self-assessment",
+    "Systematically connect the lesson design-execution-evaluation process through intentional video material collection"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

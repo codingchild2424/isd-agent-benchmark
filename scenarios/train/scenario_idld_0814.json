@@ -1,0 +1,35 @@
+{
+  "scenario_id": "IDLD-0814",
+  "variant_type": "idld_aligned",
+  "title": "Science Instructional Design Workshop Utilizing Generative Artificial Intelligence (GenAI)",
+  "context": {
+    "prior_knowledge": "Knowledge of Basic Science Education Theories and Instructional Design Principles",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Activity Design Optimized for Smartphone-Based Learning Environments: Focus on Strengthening Practical Application Competencies for Pre-Service Teachers",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze technical characteristics of generative AI and propose three or more application strategies for science instructional design.",
+    "Apply Grounded Theory methodology to derive five or more barriers to GenAI adoption in educational settings.",
+    "Learners create one scientific inquiry activity design document executable in limited technological environments using smartphone-based GenAI tools (e.g., ChatGPT mobile app) and achieve an 80% or higher suitability score through peer and instructor validation.",
+    "Learners identify three core elements (data collection methods, real-time analysis algorithms, personalized feedback generation logic) to consider when designing GenAI-based formative assessment feedback systems. Within one week, they develop a prototype instructional design and present a validation plan (e.g., comparative learning outcome experiments)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access to Smartphone, Educational GenAI Platform, and Qualitative Research Analysis Tool (App Version)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

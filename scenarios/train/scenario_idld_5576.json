@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5576",
+  "variant_type": "idld_aligned",
+  "title": "Effective Student Engagement Strategies in Blended Mobile Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic smartphone utilization skills and foundational language learning abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Environment for professionals in medical/legal/technical fields to balance work and learning. Smartphone-only learning progression without PC access",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can improve language communication skills by participating in real-time discussion activities with peers at least three times weekly in mobile environments.",
+    "Learners can complete at least three group projects using online collaboration tools and cultivate the ability to incorporate feedback.",
+    "Learners can achieve over 80% understanding by performing asynchronous interactions (Q&A) with instructors at least five times weekly via mobile platforms."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Web-Based LMS (Learning Management System)",
+      "Mobile-optimized collaboration tools",
+      "Speech Recognition Language Learning Apps",
+      "Weekly Progress Monitoring Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

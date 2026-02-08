@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7357-V",
+  "variant_type": "context_variant",
+  "title": "Patient Care Practical Competency Strengthening: Online Learning Based on Concrete-Abstract Pedagogy for Geometry and Algebra Education",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can connect geometric problems to real-world cases (e.g., building design) and represent them in at least three concrete models",
+    "Learners can solve algebraic equations by converting them into physical manipulatives (e.g., algebra tiles) and digital simulations",
+    "Learners propose creative solutions to three or more real-life problems by applying geometric/algebraic concepts to medical data analysis scenarios (e.g., tracking patient symptom patterns, calculating medication dosages) during a 4–6 week project-based assessment, and achieve an \"Excellent\" rating in at least four of the five evaluation rubric criteria (problem definition, mathematical modeling, feasibility, creativity, and result analysis)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": "화면 낭독 프로그램 호환 가능한 웹 콘텐츠",
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

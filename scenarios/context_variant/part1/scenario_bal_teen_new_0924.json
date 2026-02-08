@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0924",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Workshop on Designing Self-Regulated Learning Strategies Based on Flipped Learning",
+  "context": {
+    "prior_knowledge": "Basic online learning experience and fundamental knowledge in science education",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended instructional design combining flipped learning and self-regulated learning strategies in a BYOD (Bring Your Own Device) environment.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design and utilize online learning materials suitable for the flipped learning model.",
+    "Learners use self-regulated learning strategies (goal setting, time management, feedback incorporation) to develop a 2-week science project plan, submit a final report with ≥80% completion of a weekly checklist and ≥2/3 peer feedback items incorporated.",
+    "Learners can analyze strategic differences across learner types using learning analytics tools.",
+    "Learners experience the process of improving learning design based on formative assessment results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet/Laptop Devices",
+      "Online Learning Platform Account",
+      "Learning Analytics Visualization Tool",
+      "Flipped learning case collection"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

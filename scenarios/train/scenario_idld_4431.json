@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4431",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Experiential Learning Course for Strengthening Mechanical Engineering Practical Competencies",
+  "context": {
+    "prior_knowledge": "Basic mechanical engineering theory and administrative/management work experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners work during the day and study in the evenings using mobile devices; practical content delivered in 10-minute microlearning formats",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply mechanical system design principles to real-life cases and propose problem-solving solutions",
+    "Learners can explain the connection between mechanical engineering theory and field practice through mobile-based experiential learning activities",
+    "Learners can analyze mechanical engineering problems occurring in real work environments and write solution procedures using digital worksheets"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "3D simulation tools",
+      "Digital worksheet",
+      "Practical Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

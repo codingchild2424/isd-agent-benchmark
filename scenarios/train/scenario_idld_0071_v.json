@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0071-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Problem-Based Learning Course for Developing Consciousness Level Assessment Apps",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can accurately identify and explain three key scales (e.g., Glasgow Coma Scale) for assessing consciousness levels",
+    "Students can evaluate pupillary response, reflexes, and respiratory patterns in app-based patient assessment scenarios with 80% accuracy",
+    "Students can design prototypes of digital assessment tools applicable to real clinical situations through Problem-Based Learning (PBL)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

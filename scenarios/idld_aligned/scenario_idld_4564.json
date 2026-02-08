@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4564",
+  "variant_type": "idld_aligned",
+  "title": "Utilizing Blogs in Online Learning: Exploring Mathematical Concepts",
+  "context": {
+    "prior_knowledge": "Elementary mathematics knowledge (secondary education level) and basic mobile device proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "For working professionals accessing content via mobile devices during non-working hours (evenings/weekends), with variations in individual learning pace and mathematical backgrounds",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain step-by-step solutions to complex mathematical problems on blogs with at least 70% accuracy",
+    "Learners engage in interactions by providing three or more constructive feedbacks on peers' blog posts",
+    "Learners create five or more math concept explanation posts incorporating mobile-optimized visual elements (graphs, tables, etc.)"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-optimized blog platform (Naver Blog/Tistory)",
+      "Mathematics concept video library (YouTube Edu)",
+      "Real-time Q&A channel (KakaoTalk Open Chat)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

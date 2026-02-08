@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-0543",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Tourism Industry Data Analysis: AI-Based Predictive Modeling Course",
+  "context": {
+    "prior_knowledge": "Excel fundamentals, basic data visualization concepts, and foundational knowledge of the tourism industry",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A practice-oriented course aimed at workplace application for current practitioners, featuring small-group discussions and personalized feedback.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can collect, refine, and visualize tourism data to analyze key trend patterns.",
+    "Learners will use Python-based AI analysis models (e.g., LSTM, ARIMA) to predict monthly tourist demand at tourist attractions with over 85% accuracy, propose at least three resource allocation plans (staffing/facilities) based on predictions, and explain these plans with an average score of 4 or higher on a 5-point training institution rubric (accuracy, feasibility, cost-effectiveness)",
+    "Learners will analyze tourism big data (visitor counts, SNS responses, booking patterns) using Python (Pandas, NumPy) and Tableau, and create a proposal document suggesting at least three data-driven tourism marketing strategies (e.g., targeted advertising, customized package offers)",
+    "Learners will understand three AI analysis techniques—data masking, anonymization, and differential privacy—and apply at least two to real datasets to produce analysis results compliant with GDPR standards at over 90%"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/R data analysis package",
+      "Tableau/Power BI visualization tools",
+      "Virtual tourism dataset",
+      "Federated Learning simulation platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

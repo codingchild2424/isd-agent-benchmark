@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1545-V",
+  "variant_type": "context_variant",
+  "title": "Flipped Learning-Based Neurosurgery Medical Education Program",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Flipped Learning Course in Smartphone-Centric Limited Technology Environments. Students Learn Pre-Produced Short Video Materials and Engage in Discussions and Hands-On Projects in Project-Based Classes",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Medical students achieve mastery of core concepts by viewing flipped learning videos under five minutes in length at a rate of 90% or higher",
+    "Learners confirm conceptual understanding by responding to embedded quizzes in videos at a rate of 75% or higher",
+    "Students analyze neurosurgical clinical cases through PBL activities and achieve participation rates of 80% or higher"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "5-minute modular video resources (11 topics)",
+      "Video player with embedded quiz functionality",
+      "Offline collaboration tools (handwritten notes/whiteboard)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

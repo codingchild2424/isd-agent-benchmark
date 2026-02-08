@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0047",
+  "variant_type": "balance_teen_filtered",
+  "title": "MOOC on Computational Thinking and Robotics for Early Childhood and Elementary Education (K-12)",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and general understanding of educational curricula",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "An online course for university students providing blended learning models for computational thinking, programming, and robotics education applicable to early childhood and elementary education",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain methods to apply core concepts of computational thinking (decomposition, pattern recognition, abstraction, algorithms) in educational settings",
+    "Design educational activities for early childhood and elementary levels using block-based programming tools (e.g., Scratch)",
+    "Plan and implement basic coding activities using robotics kits",
+    "Over two weeks, learners will design three integration strategies for blended learning environments: 1) online quiz ↔ offline small-group feedback linkage, 2) discussion board topic selection ↔ offline activity linkage, 3) digital portfolio ↔ face-to-face evaluation session integration. They will propose actionable plans achieving ≥4/5 (80% satisfaction equivalent) in learner engagement surveys (5-point Likert scale)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "NAU Platform Accessibility",
+      "Robotics Kit (Rental or Virtual Simulator)",
+      "Scratch and Other Educational Programming Tools",
+      "Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6271-V",
+  "variant_type": "context_variant",
+  "title": "Fluid Dynamics Virtual Laboratory Education Course Based on Game Engines",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course for professionals to enhance workplace competencies through virtual experiments in smartphone-limited environments. Emphasizes real-world problem-solving via project-based evaluation",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Through a virtual jet pump experiment implemented with a game engine, learners can quantitatively analyze fluid flow principles",
+    "By solving fluid mechanics problems based on real-world industrial scenarios (RWS), learners enhance their process design capabilities",
+    "Learners can collaboratively collect and analyze experimental data in a constrained technical environment (smartphone) and submit project deliverables in report format"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Game Engine-Based Virtual Experiment Module",
+      "RWS Scenario Template",
+      "Collaborative Tool Integration System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

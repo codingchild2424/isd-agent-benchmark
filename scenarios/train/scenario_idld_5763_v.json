@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5763-V",
+  "variant_type": "context_variant",
+  "title": "Learner-Centered Mobile Mathematics Integration Course for Healthcare Professionals",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge and professional work experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Modular design optimized for smartphone-based learning environments, aiming to enhance mathematical thinking essential for medical practice.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can independently approach medical data analysis problems with over 80% proficiency by applying the five stages of the PLHET model (Preparation-Connection-Interest Induction-Engagement-Transfer).",
+    "Utilizing Kolb’s Learning Cycle (Experience-Reflection-Conceptualization-Experimentation), learners can propose at least three problem-solving strategies tailored to their learning style (Assimilating/Diverging/Converging/Accommodating) in medical statistics scenarios.",
+    "By engaging with micro-content (5-minute videos/quizzes) delivered in a mobile environment, learners can sustain self-directed study for 10 hours weekly and achieve over 75 points in formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Mobile LMS",
+      "Healthcare Case-Based Mathematics Worksheet",
+      "Smartphone-Compatible Calculator App",
+      "Peer Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

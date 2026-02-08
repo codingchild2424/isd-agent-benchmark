@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0709",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Interaction Enhancement Strategies for Students with Mild Intellectual Disabilities in Robot-Assisted Language Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic language communication skills and digital device usage experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-real-time video lecture and interactive task environment utilizing humanoid robots",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can produce 50 core daily conversation sentences with 80% accuracy through robot feedback.",
+    "Learners achieve over 70% correct language selections in three consecutive attempts by responding to the robot’s visual/auditory cues.",
+    "Learners maintain participation rates of over 90% compared to peer learners in weekly interaction tasks with robots."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Humanoid Robot Simulation Software",
+      "LMS-Integrated Robot Interface",
+      "Customized Language Learning Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

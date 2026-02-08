@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0876",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Context-Aware Mobile Learning-Based Social Sector Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic Digital Literacy and Foundational Knowledge in Social Sciences",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Environment enabling context-based learning utilizing individual mobile devices (tablets/smartphones)",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can enhance their ability to analyze social issues in contextual situations similar to actual job tasks by utilizing mobile devices.",
+    "Learners can complete collaborative projects in a ubiquitous learning environment that applies location- and context-aware technologies.",
+    "Learners can establish a learning improvement plan based on at least two real-time feedbacks per week through a smart device-LMS integrated system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Contextual Simulation Content",
+      "Offline Workshop Space",
+      "AR/VR Support Tools (Optional)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

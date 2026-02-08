@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4345-V",
+  "variant_type": "context_variant",
+  "title": "Interactive Web-Based Social Analysis Learning Program",
+  "context": {
+    "prior_knowledge": "Middle School-Level Social Studies Knowledge and Internet Research Proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Teaching competency enhancement course for pre-service or in-service teachers. Requires designing interactive learning activities feasible in smartphone-centric limited-technology environments, with continuous improvement through formative assessment feedback",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner",
+    "learner_education": "University"
+  },
+  "learning_goals": [
+    "Learners engage in at least three discussion activities with peer learners on topics related to social phenomenon analysis in online discussion forums",
+    "Learners apply analytical criteria to five social issue cases presented through a web-based quiz tool with 80% accuracy",
+    "Learners take on leadership roles at least once in learning community projects using mobile-friendly collaboration tools (e.g., Padlet)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "Interactive Web Quiz Authoring Tool",
+      "Asynchronous Discussion Board System",
+      "Mobile-Compatible Collaboration Board"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

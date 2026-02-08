@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7598-V",
+  "variant_type": "context_variant",
+  "title": "University Physical Education Design Utilizing Big Data-Driven Multimedia Network Teaching Methods",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A non-degree course for current practitioners, focusing on learning data-driven physical education methods using personal devices",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "The OpenPose algorithm can be utilized to analyze and provide real-time feedback on learners' exercise postures.",
+    "Learners analyze health data (activity levels, fitness metrics, etc.) of 30-something office workers using a big data platform (e.g., AI fitness recommendation system), recommend three personalized physical education materials (exercise routines, nutrition guides, etc.), and achieve over 80% participation rates through a four-week implementation",
+    "Learner engagement can be improved by 20% or more using multimedia network instructional methods.",
+    "Learners will be guided to maintain at least 90 minutes of weekly exercise based on platform data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Multimedia Network Platform License",
+      "Motion Posture Analysis Sensor",
+      "Customized Educational Content Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

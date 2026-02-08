@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7058-V",
+  "variant_type": "context_variant",
+  "title": "Interactive Video-Based Social Problem-Solving Project",
+  "context": {
+    "prior_knowledge": "Basic digital device usage skills and general understanding of social phenomena",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended learning environment combining flipped learning and MOOCs; learners analyze social issue cases through pre-produced interactive videos and derive solutions via project-based activities",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze core causes of social issues with 80% or higher accuracy using quizzes, discussion points, and choice scenarios provided in interactive videos.",
+    "Based on knowledge acquired through flipped learning, learners can specify and present solutions to local community problems in PBL team projects (4 members per team).",
+    "Through peer and self-assessment on MOOC platforms, learners can diagnose their learning achievements using a three-tier scale (basic/application/advanced)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Video Authoring Tool (Edpuzzle/H5P)",
+      "MOOC Hosting Platform (LMS)",
+      "Digital Device (Tablet/Laptop) Loan System",
+      "Social Issues Case Database",
+      "PBL Activity Sheet Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

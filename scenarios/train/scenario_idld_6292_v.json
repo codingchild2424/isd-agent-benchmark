@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6292-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Gamified Workflows to Promote Informal Learning in the Workplace",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and work experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can suggest ≥3 methods for introducing fun elements in workplace settings",
+    "Learners can design strategies to create informal learning opportunities for solving math problems",
+    "Learners build peer learning support systems through team-based project implementation",
+    "Learners develop two case studies demonstrating creative solutions to math problems arising in daily work"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

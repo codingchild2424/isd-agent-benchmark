@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-LAST-0044",
+  "variant_type": "balance_teen_last",
+  "title": "Integrated Digital Competency Enhancement Training Program for Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Basic digital tool proficiency (e.g., smartphone app utilization)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A non-degree program for professionals in medical, legal, and technical fields to acquire digital teaching competencies linked to social studies. Providing mobile-optimized content considering environments without PCs",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners acquire the ability to design three or more educational scenarios using subject-specific digital tools (e.g., quiz platforms, collaboration tools).",
+    "Learners improve technology acceptance (Technology Acceptance Model) by over 20% when designing digital-subject integrated lessons based on the TPACK framework.",
+    "Learners complete two or more peer feedback projects using smartphone-based digital assessment tools (e.g., surveys, portfolios)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "TPACK-Based Digital Education Template",
+      "Free Educational App Package for Smartphones"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1492",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Blended Learning Design for Culturally Adapted Social Welfare Education",
+  "context": {
+    "prior_knowledge": "Foundational Social Welfare Theory and Basic Understanding of Cultural Diversity",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasis on learning activities using AI tools (e.g., chatbots, mobile-optimized LMS) in smartphone-centric limited-technology environments, operating with formative assessments reflecting cultural contexts",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze and compare three or more social work practice cases considering cultural contexts in blended learning environments",
+    "Learners can design social welfare education content that evaluates cultural applicability using AI-based tools.",
+    "Learners can propose social welfare intervention strategies reflecting cultural differences through collaborative online discussions (based on the CoI framework)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "AI-Powered Case Analysis Tool (Chatbot, etc.)",
+      "Culturally Contextualized Social Welfare Case Database",
+      "Collaboration tool (mobile-compatible)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

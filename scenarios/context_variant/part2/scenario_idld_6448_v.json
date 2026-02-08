@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6448-V",
+  "variant_type": "context_variant",
+  "title": "Self-Directed Learning Course for Understanding Oral Cancer",
+  "context": {
+    "prior_knowledge": "No foundational medical knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Flexible scheduling and digitally supported learning environments for working professionals.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain at least three major symptoms and risk factors of oral cancer.",
+    "Learners can perform self-examination methods for early detection of oral cancer with 80% accuracy in a simulation environment.",
+    "Learners acquire communication skills to convey oral cancer prevention strategies to community members."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Equipment",
+      "Mobile Learning Platform",
+      "3D Oral Cancer Model",
+      "Learning Progress Tracking System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

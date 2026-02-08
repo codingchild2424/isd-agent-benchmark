@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7278",
+  "variant_type": "idld_aligned",
+  "title": "Tool Utilization Strategies in Computer-Based Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and experience with digital device usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Experimental Design Using VR Simulation Tools in Smartphone-Centric Restricted Technology Environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain functional utilization strategies of science simulation tools with 80% or higher accuracy.",
+    "Learners can reduce problem-solving time by 20% by applying systematic advice provided when using tools.",
+    "Learners can evaluate the appropriateness of tool usage through a 3-level assessment rubric utilizing metacognitive strategies",
+    "Learners can establish and implement tool utilization plans based on a goal-oriented learning attitude"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Offline-capable simulation software",
+      "User guide PDF",
+      "Instructor support tablet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

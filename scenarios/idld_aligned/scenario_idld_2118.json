@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2118",
+  "variant_type": "idld_aligned",
+  "title": "Field Science Training Program for Astronauts",
+  "context": {
+    "prior_knowledge": "Basic earth science and scientific experimental methodologies",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Immersive learning content and discussion board operations via smartphone-based LMS",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can establish a data collection plan by applying three or more field science techniques in a virtual planetary environment.",
+    "Learners can simulate the scientific problem-solving process through collaboration with peer astronauts and document it in a report.",
+    "Learners can transfer scientific analysis skills acquired in a training environment to actual space mission scenarios with over 80% proficiency."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized virtual field science simulation platform",
+      "360-degree VR video resources (Martian terrain, etc.)",
+      "Science equipment operation guide (PDF)",
+      "Collaborative Discussion Forum"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

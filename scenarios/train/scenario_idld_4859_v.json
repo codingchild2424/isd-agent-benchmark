@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4859-V",
+  "variant_type": "context_variant",
+  "title": "MOOC Quality Assessment and Online Mathematics Course Design Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Online Learning Experience and Basic Mathematical Knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Requires adaptive content design for smartphone-based learning environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "One can explain and apply the five core criteria of a MOOC quality evaluation framework in practical settings.",
+    "One can present three interaction elements to consider when designing smartphone-optimized mathematics educational content.",
+    "One can develop an assessment tool that enhances learner engagement by over 20% through project-based evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Friendly LMS",
+      "Open-Source Tools for Mathematics Education (GeoGebra, etc.)",
+      "Quality assessment checklist templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

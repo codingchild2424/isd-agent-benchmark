@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2099",
+  "variant_type": "idld_aligned",
+  "title": "Analysis of University Student Satisfaction Changes: Strategy Development Through Innovative Teaching Methods",
+  "context": {
+    "prior_knowledge": "Introductory statistics, educational research methodologies, and social science research design",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners participate in a project analyzing satisfaction changes using real university education data and developing strategies to improve instructors’ teaching methods. A collaborative learning environment utilizing personal devices (BYOD) is established.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze three years of university educational data to quantitatively explain patterns of change in student satisfaction",
+    "Empirically assess the impact of instructors’ pedagogical practices (teaching methods, beliefs, needs) on student satisfaction",
+    "Apply a mixture conditional latent growth model to derive cluster-specific characteristics of student satisfaction and propose educational intervention strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Statistical Analysis Software (SPSS/AMOS/R)",
+      "University Education Satisfaction Survey Dataset",
+      "Instructor Educational Beliefs Survey Instrument"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

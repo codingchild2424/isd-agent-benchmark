@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7163-V",
+  "variant_type": "context_variant",
+  "title": "Grounded Theory-Based Mobile Medical Education Model Design",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Delivery of smartphone-based learning content with enhanced practical simulations and case study analysis",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the four stages (plan-execute-evaluate-improve) of a grounded theory-based medical education model.",
+    "Learners design diagnostic processes with over 80% accuracy using medical case analysis tools provided in a mobile environment.",
+    "Learners propose improvements for at least three out of 33 subcategories of a medical education model based on peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Medical Case Database",
+      "Mobile-friendly assessment tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

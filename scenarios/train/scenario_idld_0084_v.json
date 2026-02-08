@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0084-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Competencies: Video-Based Knowledge Co-construction for Pre-service Language Teachers",
+  "context": {
+    "prior_knowledge": "Elementary language education theories and general comprehension of primary curriculum standards",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can derive at least three science-integrated language education strategies by analyzing video simulation materials in collaboration with peers and mentors",
+    "Learners can reflectively evaluate their teaching delivery through recorded videos and identify at least five instructional skill improvements",
+    "Learners can perform science vocabulary instruction demonstrations with at least 80% participation based on peer assessment feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

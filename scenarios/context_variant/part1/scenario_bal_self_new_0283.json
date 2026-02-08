@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0283",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-directed] Interactive H5P Resource Utilization Strategies for Online Science Learning",
+  "context": {
+    "prior_knowledge": "Foundational science knowledge and online learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Real-time online class delivery in smartphone-centric, limited-technology environments with summative assessment-focused operations",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately explain over 80% of scientific concepts using H5P interactive resources.",
+    "Learners enhance learning engagement by utilizing H5P resources at over 70% efficiency in mobile environments.",
+    "Learners improve scientific problem-solving abilities by 20% or more based on interactive learning experiences."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "H5P Authoring Tool",
+      "Mobile-Optimized LMS",
+      "Science-Based Interactive Content Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

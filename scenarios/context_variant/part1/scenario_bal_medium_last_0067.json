@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0067",
+  "variant_type": "balance_medium_last",
+  "title": "Self-Regulated Learning-Based Online Teaching Methods for Secondary Statistics and Data Science",
+  "context": {
+    "prior_knowledge": "Understanding of basic statistical concepts and general pedagogical principles",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended learning environment exploring secondary statistics and data science pedagogy based on self-regulated learning in online asynchronous platforms, supplemented by practical sessions and feedback through face-to-face meetings",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners understand statistics and data science pedagogy at the secondary education level and can effectively achieve learning objectives on online platforms using self-regulated learning strategies.",
+    "Learners will design one statistical educational material within the intermediate course (4 weeks), develop three visualization outputs using Python’s Matplotlib/Seaborn, and one data analysis process applying Pandas/TensorFlow, achieving over 80% attainment in peer evaluation and instructor feedback.",
+    "Learners optimize their learning experiences by utilizing personalized tools (e.g., progress tracking, customized recommendations) on online platforms and propose strategies to apply these to secondary classroom settings."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Platform (e.g., LMS or Custom Tool)",
+      "Statistics and Data Science Educational Materials (Case Studies, Multimedia Content)",
+      "Classroom and Technical Equipment for In-Person Workshops"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Education (Teaching & Learning)"
+}

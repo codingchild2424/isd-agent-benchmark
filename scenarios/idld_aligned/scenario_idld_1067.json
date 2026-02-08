@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1067",
+  "variant_type": "idld_aligned",
+  "title": "Teacher Professional Development Design Course Utilizing Blended Learning",
+  "context": {
+    "prior_knowledge": "Basic digital tool proficiency and understanding of the elementary education curriculum",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Course focused on elementary school teachers strengthening their self-directed professional development capabilities through blended learning design. Conducted in a BYOD environment with real-time feedback via formative assessment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Can systematically plan teacher professional development programs according to blended learning design principles.",
+    "Can produce HTML-based educational content using open-source tools such as the eXe platform.",
+    "Can design and implement instructional strategies that integrate real-time online sessions with offline activities.",
+    "Can refine and optimize instructional design prototypes based on peer feedback.",
+    "Can measure learner engagement using formative assessment tools in blended learning environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "eXe Open-Source Platform License",
+      "Zoom Webinar Functionality",
+      "LMS Learning Management System",
+      "Multimedia Production Guidelines Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

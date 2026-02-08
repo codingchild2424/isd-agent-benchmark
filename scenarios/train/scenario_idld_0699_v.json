@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0699-V",
+  "variant_type": "context_variant",
+  "title": "Ontology-Based Learning Analytics and Educational Data Mining Design",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aims to develop a data-driven decision-making model applicable across diverse educational settings",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze educational data patterns using an ontology-based decision tree model",
+    "Learners can design prediction rules for educational domains by applying SWRL (Semantic Web Rule Language)",
+    "Within six months, learners design a learning analytics model applicable to ≥3 public education courses, demonstrate ≥80% model accuracy, and validate reusability through verification by three field experts.",
+    "Through project-based assessment, learners can achieve over 90% prediction accuracy using real educational datasets"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "OULD Science Course Dataset",
+      "R/Python Analytics Tool",
+      "Ontology Editor (e.g., Protégé)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

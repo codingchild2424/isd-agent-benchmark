@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-1037",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Design Process for Emotional Support in Online Mathematics Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic mathematical knowledge and foundational simulation/VR tool utilization skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based learning environment for practical mathematics problem-solving",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners apply eight principles of emotional support design (positivity, playfulness, humanity, self-disclosure, safety, personalization, friendliness, intimacy) in a VR-based simulation environment to enhance learning motivation by 20% or more.",
+    "Learners explain how to maintain emotional safety while building a peer feedback system using online collaboration tools.",
+    "Learners use a customized LX design framework (including learner profile, content type, interaction pattern analysis modules) to propose at least three personalized learning interface optimization plans (e.g., visual element adjustments, automatic difficulty control, feedback cycle settings) and achieve 80% or higher suitability according to internal corporate evaluation criteria"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR equipment rental system",
+      "Real-time video conferencing tools",
+      "Learning analytics platform",
+      "Emotional Support Content Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1150",
+  "variant_type": "idld_aligned",
+  "title": "Virtual Patient Design Process for Dental Education Based on the 4C/ID Model",
+  "context": {
+    "prior_knowledge": "Understanding of basic dental procedures and familiarity with clinical terminology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short-term intensive programs in mobile learning environments using personal devices (BYOD), requiring interactive learner engagement and real-time feedback systems",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform multiple dental treatment scenarios (e.g., cavity treatment, periodontal care, emergency care) step-by-step through virtual patient simulations.",
+    "Learners can establish diagnostic and treatment plans with over 80% accuracy after performing learning tasks in the 4C/ID model.",
+    "Learners can reduce clinical judgment errors by over 30% based on feedback acquired through virtual patient interactions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Virtual Patient Simulation Platform",
+      "Clinical Scenario Database",
+      "4C/ID Model Template",
+      "Learner Progress Tracking System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

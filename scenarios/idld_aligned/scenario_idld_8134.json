@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8134",
+  "variant_type": "idld_aligned",
+  "title": "Generative AI-Integrated Assessment Design in Online Discussions",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Mathematical Concepts and Experience with Online Learning Platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Microlearning-based curriculum utilizing mobile devices in blended learning environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically evaluate mathematical problem-solving strategies presented in online discussions using generative AI.",
+    "Learners can analyze differences between AI-generated and human-generated content and document reflections in learning journals.",
+    "Learners can propose at least three ethical strategies for using generative AI tools in project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GPT-3.5/4 API Access Permission",
+      "Online Discussion Platform",
+      "Microsoft Excel/Google Sheets",
+      "AI Prompt Engineering Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

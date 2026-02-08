@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3463-V",
+  "variant_type": "context_variant",
+  "title": "Comparative Analysis of Symbolic Learning Algorithm Performance Course",
+  "context": {
+    "prior_knowledge": "Basic Machine Learning Concepts and Algorithm Understanding",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learning in Smartphone-Only Accessible Work Environments for Practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the performance differences between two symbolic learning algorithms (AQ15c-based) based on three error rates (overall, misclassification, and omission errors).",
+    "Interpret learning curve analysis results utilizing 10-fold cross-validation and leave-one-out sampling methods.",
+    "Compare and evaluate the impact of constructivist inductive reasoning application on representational space changes during knowledge acquisition stages."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized learning content",
+      "Interactive Quiz Module",
+      "Key algorithm comparison chart",
+      "Case dataset (wind-resistant structural design)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

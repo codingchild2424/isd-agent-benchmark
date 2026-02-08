@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6084-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening CS Practical Competencies: Distributed Learning Object Economics and Adaptive Design for Math Learning",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customer service competency enhancement program for service/customer-facing role practitioners",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Students can select contextually appropriate mathematical content (e.g., geometry, fractions, measurement) using a distributed learning object retrieval system (LORSE).",
+    "Learners can optimize content placement in individual learning designs using a microcontext-based placement tool (LOOK).",
+    "Learners can diagnose their learning gaps by analyzing formative assessment data and match personalized supplementary materials with over 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Customer Relationship Management (CRM) System",
+      "Customer Interaction Simulator",
+      "Service Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

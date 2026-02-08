@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2343",
+  "variant_type": "idld_aligned",
+  "title": "Artificial Intelligence and Behavior Emergence: Understanding Behavior Through Imitation Learning",
+  "context": {
+    "prior_knowledge": "Grasp of basic programming concepts and introductory-level artificial intelligence knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Collaborative learning environment utilizing digital devices (laptops/tablets), with education focused on language domain application cases",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain key elements of behavior generation by analyzing agent-environment interaction mechanisms.",
+    "Learners complete projects implementing simple behavioral patterns using a reservoir computing model based on imitative learning.",
+    "Learners can interpret experimental data (e.g., robot simulations) to evaluate the efficiency of learning architectures."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Machine Learning Library",
+      "Robot Simulation Software",
+      "Behavioral dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

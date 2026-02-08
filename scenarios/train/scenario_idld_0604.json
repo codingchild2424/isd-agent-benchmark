@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0604",
+  "variant_type": "idld_aligned",
+  "title": "Development of a Reinforcement Learning-Based Diabetes Treatment Recommendation System",
+  "context": {
+    "prior_knowledge": "Introductory statistics and programming concepts understanding",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Content design focusing on reinforcement learning implementation considering medical data characteristics, supporting smartphone-based learning environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can orally explain core reinforcement learning concepts (MDP, agent, reward function) within 3 minutes, present two scenarios applicable to medical data (e.g., patient treatment records), and describe three or more considerations when designing reward functions for each scenario.",
+    "A pipeline is built to preprocess diabetic patient data and convert it into input formats for reinforcement learning models.",
+    "Learners can implement a simple treatment recommendation model (decision tree or linear regression-based) in Python that reflects medical constraints (e.g., drug interactions, patient allergy information) and apply performance evaluation methods achieving 80%+ accuracy and 0.75+ F1-score."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Public healthcare data samples",
+      "Python-based open-source library",
+      "Mobile-optimized e-learning content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

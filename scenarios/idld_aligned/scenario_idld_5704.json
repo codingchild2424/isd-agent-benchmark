@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5704",
+  "variant_type": "idld_aligned",
+  "title": "Collaboration-Based Online Training Course for Strengthening Telemedicine Practical Competencies",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge or relevant work experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Systematically developing core competencies required for telemedicine practice through interdisciplinary collaboration and real-case analysis.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can understand and explain remote medical platform operational procedures and relevant legal regulations.",
+    "Through real-case-based scenarios, learners can develop problem-solving strategies for potential issues in telemedicine consultations.",
+    "Learners can perform remote consultation simulations using digital tools (e.g., basic medical record apps) applicable in smartphone environments.",
+    "Through project-based assessments, learners can create remote medical operation manuals reflecting multidisciplinary collaboration protocols."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Interactive Video Content",
+      "PDF-based learning materials",
+      "Template-Based Project Evaluation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

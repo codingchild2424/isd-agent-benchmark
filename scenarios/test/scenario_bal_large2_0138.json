@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0138",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Short-Intensive Course on Flipped Learning-Based Integrated Engineering Language Education",
+  "context": {
+    "prior_knowledge": "Foundational engineering concepts, digital device proficiency, and basic reading/writing skills for engineering texts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Low-cost technology utilization to enhance accessibility of engineering education for general citizens. Focuses on resolving language barriers for non-engineering majors through systematizing engineering terminology and supporting technical documentation writing.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners analyze engineering text materials provided in a flipped learning environment and can linguistically and conceptually explain five core concepts with over 80% accuracy.",
+    "Through collaborative activities, learners apply three technical documentation skills (writing, presentation, discussion) required for engineering problem-solving processes as linguistic communication tools.",
+    "In a BYOD environment, learners use digital tools to submit engineering design process outcomes in technical report format with 90% completeness."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone/Tablet",
+      "Free collaboration tools (e.g., Google Docs)",
+      "LMS platform",
+      "Simple engineering design kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

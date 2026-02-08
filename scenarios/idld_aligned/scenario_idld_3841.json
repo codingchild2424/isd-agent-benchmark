@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3841",
+  "variant_type": "idld_aligned",
+  "title": "MOOC Design Strategies and Classification-Based Mathematical Problem-Solving Competency Program",
+  "context": {
+    "prior_knowledge": "High School-Level Mathematical Foundations and Experience in Applying Mathematics to Specialized Fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-real-time MOOC design optimized for smartphone-based learning environments, emphasizing contextual learning elements aligned with professionals’ work contexts.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can create a mathematics learning module design document by applying the MOOC design framework (7Cs) elements.",
+    "Learners can classify and evaluate MOOC content according to five pedagogical theories, including correlation coefficients, cognitive load, and social constructivism.",
+    "Learners can design three types of formative assessment activities (quizzes, case analyses, peer feedback) implementable in smartphone environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-Optimized Content Authoring Tool",
+      "Mathematics Problem Bank Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4430",
+  "variant_type": "idld_aligned",
+  "title": "Science Education Curriculum Utilizing Learning Analytics-Based Virtual Tutoring Systems",
+  "context": {
+    "prior_knowledge": "Foundational knowledge of secondary science education and understanding of data analysis concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "VR simulation environment for in-service secondary teachers to enhance science instruction competencies. Operates personalized learning analytics using BYOD (Bring Your Own Device) and virtual tutor intervention systems",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learner engagement and comprehension metrics can be measured with 85% accuracy using learning analytics tools.",
+    "Designing a virtual tutor’s feedback mechanism improves learning outcome prediction accuracy by 20%.",
+    "Based on data collected in simulation environments, personalized educational strategies can be developed and applied at least three times."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Analytics Platform License",
+      "VR Simulation Equipment",
+      "Virtual Tutor Development Tool",
+      "Performance Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

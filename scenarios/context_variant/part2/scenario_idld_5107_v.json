@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5107-V",
+  "variant_type": "context_variant",
+  "title": "Mobile App-Based Instructional Design Applying Cognitive Load Theory to Improve Medication Calculation Skills",
+  "context": {
+    "prior_knowledge": "Basic Mathematical Computation Skills and Understanding of Fundamental Medication Management Concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Hybrid learning environment combining VR simulations and mobile apps, centered on medication calculation scenarios mimicking real clinical situations.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve various types of medication calculation problems (IV infusion, oral dosage, etc.) with 85% or higher accuracy",
+    "Learners can achieve a self-efficacy score of 3.5 or higher on a 4-point scale when performing medication calculations",
+    "Learners can identify and propose correction measures for 80% or more medication calculation error cases that may occur in real clinical settings"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile App Software License",
+      "VR Simulation Equipment",
+      "Learning Progress Monitoring System",
+      "Medication Calculation Workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

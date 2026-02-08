@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0157",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Workshop on Affect-Based Multimedia Learning Design",
+  "context": {
+    "prior_knowledge": "Basic multimedia learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-oriented course focusing on digital environments that induce learners' emotional engagement",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design multimedia materials using pedagogical agents that elicit positive emotional responses",
+    "Learners can analyze and explain complex social phenomena by applying self-explanation strategies",
+    "Learners can evaluate visual salience of learning materials based on eye-tracking data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Instructional Agent Design Template",
+      "Eye-tracking software demo version",
+      "Multimedia Production Tool",
+      "Self-explanation guide sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

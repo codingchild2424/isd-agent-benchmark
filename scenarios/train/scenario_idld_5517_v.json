@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5517-V",
+  "variant_type": "context_variant",
+  "title": "Game-Based Training Design for Australian Rules Football Inside-50 Entry",
+  "context": {
+    "prior_knowledge": "Proficiency in Australian Rules Football fundamentals and intermediate-level sports leadership experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Data-driven training environment using digital devices, applying exercise mechanics linked to science curricula",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can implement ball reception methods (kick/handball) and positional decisions upon entering the inside-50 at 80% accuracy under conditions similar to actual matches",
+    "Learners reduce decision-making time under pressure to within 3.2 seconds, the average match time",
+    "Learners achieve an effective disposal ratio of over 65% during training sessions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR-Based Simulation Equipment",
+      "Motion Capture Sensor",
+      "Sports data analysis software",
+      "Official Australian Rules Football rulebook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

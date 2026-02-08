@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0305",
+  "variant_type": "idld_aligned",
+  "title": "Gamification-Based Advanced Computer Programming Learning Design",
+  "context": {
+    "prior_knowledge": "Understanding of Programming Fundamentals and Basic Data Structure Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Strengthening formative assessment through gamification in smartphone-centered limited technology environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain core concepts of data structures with over 85% accuracy through online practice activities utilizing gamification elements.",
+    "Learners improve their ability to solve complex algorithm problems by 30% through gamification mechanisms such as leaderboards and badges.",
+    "Learners increase their self-directed learning engagement by 50% through points earned during formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Gamification-Enabled Moodle Plugin",
+      "Mobile-Optimized Practice Question Bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

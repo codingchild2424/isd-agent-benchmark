@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4302",
+  "variant_type": "idld_aligned",
+  "title": "Radiation Technology Education Course Utilizing Virtual Simulation",
+  "context": {
+    "prior_knowledge": "Foundational radiation physics and anatomical knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Hybrid learning combining actual clinical environment simulations and theoretical instruction for radiation technology education institutions and industry professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Patient positioning techniques can be performed with over 90% accuracy in a virtual simulation environment",
+    "Identify and apply at least eight equipment operation protocols to minimize radiation exposure risks",
+    "Achieve a score of 85 or above in simulation-based assessments to demonstrate clinical application-level practical skills"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Virtual Radiology Laboratory Software",
+      "LMS platform",
+      "Mobile-Responsive Content",
+      "Automated Assessment Algorithm"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0640",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Mobile Technology-Based Elementary Math Instructional Design Competency Enhancement Course",
+  "context": {
+    "prior_knowledge": "Elementary mathematics curriculum comprehension and basic digital device usage skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course focused on learning instructional design methods for mobile device utilization in a smartphone-centric, limited technological environment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply the seven core elements required for mobile learning environment design (content, methodology, activities, assessment, technological resources, mobile resources, teacher competencies) to real-world cases.",
+    "Learners can propose at least three strategies for utilizing digital manipulatives when designing mobile-based mathematics activities to enhance learner engagement.",
+    "Learners can design a process for analyzing learning effectiveness using formative assessment tools executable in smartphone environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-friendly LMS platform",
+      "Open-Source Educational Apps",
+      "Responsive Web Content Authoring Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

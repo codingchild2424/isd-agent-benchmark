@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7563-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening System Design Competencies in Practice: Math-Based Community Problem Solving Through Service Learning",
+  "context": {
+    "prior_knowledge": "Grasp of basic mathematical concepts (statistics, data analysis) and general interest in community activities",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can propose three or more problem-solving solutions using mathematical modeling techniques during community needs analysis.",
+    "Learners preprocess service project data (e.g., user logs, survey responses) using Python’s Pandas library and derive ≥3 insights (e.g., user behavior patterns, service improvement points) via visualization tools (Matplotlib/Seaborn).",
+    "Enhance civic engagement competencies (self-efficacy, social responsibility) by over 20% through service activities applying mathematical knowledge"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

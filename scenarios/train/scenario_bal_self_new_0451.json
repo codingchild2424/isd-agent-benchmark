@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0451",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-directed] Strengthening Mathematical Problem-Solving Competencies through Personal Learning Environment Design",
+  "context": {
+    "prior_knowledge": "Secondary-level mathematical concepts and problem-solving experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners design personalized mathematics problem-solving strategies using their own devices (BYOD), measuring learning outcomes through project-based assessment; real-time feedback and application store-based resource utilization are available",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can independently design diverse mathematical problem-solving strategies in their personal learning environments.",
+    "Learners perform self-directed microlearning activities at least three times per week using mobile devices.",
+    "Within a week, learners can perform mathematical modeling using linear programming or simulation models for public project cases (e.g., budget allocation for local events) and demonstrate real-world applicability by achieving an \"Excellent\" grade in at least two of the three rubric items: model suitability, data utilization, and result interpretation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-source LMS platform",
+      "Math Problem-Solving App Store",
+      "Real-Time Collaboration Tool",
+      "Personalized Learning Analytics Report"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Business/HR/Admin Support"
+}

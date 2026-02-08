@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4515",
+  "variant_type": "idld_aligned",
+  "title": "Spinal Surgery Robot Simulator Operation and Design Training Program",
+  "context": {
+    "prior_knowledge": "Basic Medical Terminology and Understanding of Surgical Procedures, Experience with Digital Devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Education for systematically acquiring operational principles and simulation training systems of actual spinal surgery robotics.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the core components and operational procedures of a spinal surgery robot simulator.",
+    "Learners acquire practical skills to achieve over 90% accuracy in spinal fixation screw insertion in a simulation environment.",
+    "Through team-based scenario training, learners design and execute the entire process from preoperative planning to robotic system application."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Spinal Surgery Robot Simulator Equipment",
+      "3D Anatomical Model",
+      "Surgical Planning Software",
+      "Motion Capture System for Assessment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

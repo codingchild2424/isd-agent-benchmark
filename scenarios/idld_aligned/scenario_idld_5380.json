@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5380",
+  "variant_type": "idld_aligned",
+  "title": "Development and Application Process of an Online Learning Perception Scale",
+  "context": {
+    "prior_knowledge": "Basic statistical analysis and experience in online learning environments",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening competency in developing and empirically validating online learning perception scales for science professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the four dimensions (instructor characteristics, social presence, instructional design, trust) constituting the online learning perception scale.",
+    "Learners can develop survey items tailored to target group characteristics and apply reliability/validity verification procedures.",
+    "Learners can perform exploratory/confirmatory factor analysis on collected data using SPSS/R and interpret the results.",
+    "Learners can write final scale reports through project-based assessment and propose implementation strategies for field application."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Statistical analysis software license",
+      "Digital Survey Platform",
+      "Learning Management System (LMS) Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4506",
+  "variant_type": "idld_aligned",
+  "title": "Problem-Based Mathematics Project Design Utilizing Gamification",
+  "context": {
+    "prior_knowledge": "Understanding Basic Mathematical Concepts (Functions, Statistics, Calculus) and Digital Tool Proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Collaborative learning environment combining mathematical modeling for real-world problem-solving with gamification elements (scores, levels, feedback).",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Real-world mathematical problems occurring in professional settings can be analyzed and solutions designed using a Problem-Based Learning (PBL) approach",
+    "Gamification elements (challenges, reward systems) can be utilized to motivate learners and encourage sustained engagement",
+    "Mathematical decision-making skills can be enhanced through team-based projects incorporating peer assessment and summative evaluation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Game Engine Tools (Unity/Unreal)",
+      "Digital Whiteboard",
+      "Online Collaboration Platform (Miro/Notion)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

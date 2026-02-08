@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0509",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Elementary Social Education Curriculum Through Online Collaborative Learning",
+  "context": {
+    "prior_knowledge": "Basic Digital Literacy and Understanding of Fundamental Concepts in Elementary Social Studies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-time online collaborative learning course operating in smartphone-centric restricted technology environments, requiring flexible learning support centered on formative assessment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform discussion and resource-sharing activities with peers at over 80% participation using online collaboration tools (Zoom breakout rooms, real-time chat, etc.).",
+    "Learners can produce deliverables reflecting at least three rounds of feedback during the design and execution of collaborative projects on social studies topics (e.g., solving local community issues).",
+    "Learners create weekly learning logs using a digital collaboration platform (smartphone-optimized web tool) and submit a combination of peer and self-assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Real-Time Video Conferencing Tool",
+      "Low-Spec Mobile-Optimized Collaboration Board (e.g., Miro Lite)",
+      "Offline-Connected Activity Kit (Mailable Materials)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

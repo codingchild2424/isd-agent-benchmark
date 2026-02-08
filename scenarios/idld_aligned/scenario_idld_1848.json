@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1848",
+  "variant_type": "idld_aligned",
+  "title": "Computer-Based Language Education Courseware Design",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and experience with digital learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized courseware design for professionals in medical, legal, and technical fields to improve elementary language proficiency.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze and reconstruct language domain models in a GTE-based environment",
+    "Learners can quantitatively measure language learning outcomes using courseware evaluation tools",
+    "Learners can diagnose individual language proficiency gaps based on dynamic learner models",
+    "Learners can design language education materials using reusable content representation methods"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital Learning Resource Templates",
+      "Learner Progress Analysis Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

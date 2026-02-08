@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5906-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Software Development Practical Skills: Design Thinking-Applied Online Science Education Course Development",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can design elementary science education simulations by applying the five stages of design thinking (Empathize-Define-Ideate-Prototype-Test).",
+    "Learners can develop learner-centered science education content in VR environments and improve it by incorporating evaluation feedback.",
+    "Learners can prototype elementary science education scenarios through group collaboration (5+ members) and analyze experimental results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

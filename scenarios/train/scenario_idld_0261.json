@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0261",
+  "variant_type": "idld_aligned",
+  "title": "Machine Learning-Based SMT Defect Analysis Expert Training Program",
+  "context": {
+    "prior_knowledge": "Basic Statistics, Understanding Surface Mount Technology (SMT) Processes, Foundations of Python Programming",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A case-based learning course using real AIOI data, focusing on strengthening defect analysis capabilities in production lines.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the impact of P&P machine error types (nozzle size, nozzle picking position) on defect patterns in three or more ways",
+    "Learners can build Random Forest/XGBoost models based on AIOI inspection data to identify root causes of defects with over 85% accuracy",
+    "Learners can independently perform the entire process of preprocessing → feature engineering → model evaluation on actual SMT defect datasets in a Jupyter Notebook environment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Anaconda distribution (includes Jupyter)",
+      "SMT defect simulation dataset",
+      "sklearn/tensorflow libraries",
+      "Tableau Public visualization tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

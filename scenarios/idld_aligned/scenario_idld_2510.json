@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2510",
+  "variant_type": "idld_aligned",
+  "title": "Pre- and Postoperative Smoking Cessation Intervention Education: Adaptive Mobile Microlearning",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and foundational patient counseling knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducted in mobile environments using learners' personal devices (BYOD), with real-time feedback systems introduced to enhance interactivity",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the five-step process (motivation, nicotine replacement therapy, follow-up management, etc.) of pre- and post-operative smoking cessation interventions.",
+    "Learners can develop and practically apply three or more customized smoking cessation counseling scenarios for different patient types.",
+    "Learners can establish and evaluate five monitoring indicators to improve smoking cessation success rates within six months."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Interactive Simulation Tool",
+      "Smoking Cessation Intervention Case Database",
+      "Real-time Quiz Generator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

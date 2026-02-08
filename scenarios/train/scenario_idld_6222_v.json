@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6222-V",
+  "variant_type": "context_variant",
+  "title": "Advanced ECMO Nursing Education Based on Board Game Simulations",
+  "context": {
+    "prior_knowledge": "Basic ECMO device operation and critical care nursing experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical training integrated education for active ICU nurses, utilizing digital devices (tablets/projectors)",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Explain and apply core ECMO patient management protocols with over 90% accuracy",
+    "Make decisions using critical thinking in complex clinical scenarios through board game simulations",
+    "Improve ECMO emergency response capabilities by over 30% through team-based learning activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ECMO Board Game Kit",
+      "3D-Printed ECMO Device Model",
+      "Case Study Resource Compilation",
+      "Digital assessment platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

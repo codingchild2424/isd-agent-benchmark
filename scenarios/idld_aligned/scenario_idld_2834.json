@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2834",
+  "variant_type": "idld_aligned",
+  "title": "Deep Learning and Anatomical Knowledge Integration Design for Dental CBCT Image Analysis",
+  "context": {
+    "prior_knowledge": "Basics of medical imaging processing, deep learning concepts, and mathematical optimization theory",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Training program for AI solution research teams developing automated dental diagnostic technologies",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will be able to explain the Dense U-Net model structure reflecting anatomical constraints.",
+    "Learners will be able to apply mathematical optimization techniques to medical image segmentation problems.",
+    "Learners will be able to design data preprocessing strategies to enhance CBCT lesion detection performance."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CBCT Dataset Sample",
+      "Google Colab GPU Environment",
+      "Dense U-Net Open-Source Code"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

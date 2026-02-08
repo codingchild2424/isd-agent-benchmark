@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6611",
+  "variant_type": "idld_aligned",
+  "title": "Science Expertise Enhancement Course Through Personalized Learning Path Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific theories and experimental methods, along with experience in basic project execution",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners aim to enter professional fields (medical/legal/technical) and conduct learning activities in a smartphone-centric technological environment. Includes both individual and collaborative learning experiences",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can autonomously construct and modify personalized learning pathways in the science domain.",
+    "Learners collaboratively design learning pathways with peers using collaboration tools, enhancing their knowledge-construction skills.",
+    "Learners demonstrate their science problem-solving competencies through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Science Experiment Simulation App",
+      "Collaborative platform (smartphone-compatible)",
+      "Learning Sequence Catalog"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

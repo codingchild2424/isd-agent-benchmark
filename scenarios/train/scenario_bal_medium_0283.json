@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0283",
+  "variant_type": "balance_medium_scale",
+  "title": "Blended Continuing Education Program for Strengthening Nursing Professionals' Expertise",
+  "context": {
+    "prior_knowledge": "Bachelor’s degree in nursing and basic clinical practice experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A short-term expert-focused course operated by a graduate language education center, emphasizing the strengthening of immediately applicable practical competencies in clinical settings",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze the latest clinical guidelines related to patient safety with over 90% accuracy in online modules",
+    "By the workshop’s conclusion, participants achieve a score of 4 or higher (on a 5-point scale) in simulation-based communication skills via peer evaluation",
+    "Within two weeks of completing the training, learners engage in at least three instances of professional knowledge sharing with peers in online communities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access Permissions for LMS (Learning Management System) Platforms",
+      "Clinical Scenario Database",
+      "VR Communication Simulation Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

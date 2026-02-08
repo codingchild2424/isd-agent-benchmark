@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1121",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Digital Science Education Design Workshop: Smartphone-Based Collaborative Projects",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and fundamental smartphone usage skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course aiming to strengthen digital science education design capabilities in smartphone-centric restricted technology environments. Cultivates collaborative e-learning tool competencies applicable to authentic science education scenarios",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Improvement in designing digital content production processes for science education using smartphone-based collaboration tools.",
+    "Cultivation of the ability to establish project improvement plans through peer feedback systems.",
+    "Learners will develop a prototype of a science experiment simulation web platform executable in limited technical environments (unstable internet, low-spec devices) using HTML/CSS/JavaScript within one week, achieving over 70 points based on evaluation criteria (functionality 30%, usability 30%, technical suitability 40%)"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "Mobile Cloud Storage",
+      "Collaborative Messenger App",
+      "Free Digital Tool Tutorial"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4036-V",
+  "variant_type": "context_variant",
+  "title": "Simulation-Based Electronics Laboratory Education: Blended Learning Course",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Experimental training course for current professionals combining hybrid learning environments that integrate physical lab accessibility with efficient simulation tool utilization",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Perform circuit design and verification of at least three types using an electronic circuit simulation tool.",
+    "Learners design blended learning strategies linking physical and virtual labs (e.g., PhET simulations) during a one-week intensive course, apply them to three or more experimental scenarios, and achieve over 80% satisfaction in peer evaluations and instructor feedback",
+    "Improve experimental result analysis and problem-solving skills through formative assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Electronics Simulation Software",
+      "Physical Laboratory Equipment",
+      "Digital Tablet/Laptop"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

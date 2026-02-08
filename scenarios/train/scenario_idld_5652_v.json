@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5652-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Professional Science Problem-Solving Competencies Using Adaptive Learning Environments",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A science problem-solving training program for professionals in medical, legal, and technical fields, utilizing an adaptive learning system based on digital devices to provide personalized content.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Using PBL (Project-Based Learning) scenarios, learners can systematically analyze science-related professional problems and derive solutions.",
+    "Learners improve their learning goal achievement rate by over 80% by utilizing real-time feedback from an adaptive system.",
+    "Learners enhance self-directed learning efficiency by 30% by using content recommended based on their individual learning style data."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Science Problem Database",
+      "Genetic Algorithm-Based Recommendation System",
+      "Digital Assessment Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5327-V",
+  "variant_type": "context_variant",
+  "title": "Programming Practical Competency Enhancement: Evidence-Based Instructional Design Competency Development for Prospective Science Teachers",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Preservice science teachers can write three or more evidence collection and analysis activity designs for science classes by the end of a six-month course and demonstrate competence by scoring 4 or higher (out of 5) in each category of a peer evaluation rubric (clarity, scientific accuracy, feasibility, creativity).",
+    "Preservice science teachers develop at least three instructional strategies that foster argumentative discussions among students.",
+    "Preservice science teachers revise and refine their lesson designs at least twice based on peer feedback.",
+    "Preservice science teachers conduct peer evaluations by applying evidence-based lesson design rubrics."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

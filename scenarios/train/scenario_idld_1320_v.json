@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1320-V",
+  "variant_type": "context_variant",
+  "title": "Evidence-Based Basic Life Support (BLS) Standard Training Course for University Students",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A BLS skills acquisition program for non-medical personnel linked to mathematics curricula, with supplementary learning materials accessible via smartphones.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately determine the presence or absence of breathing in adult cardiac arrest patients within 10 seconds.",
+    "Learners can perform 2 minutes of continuous accurate chest compressions (depth 5-6 cm, rate 100-120 per minute).",
+    "Learners can improve their confidence in BLS performance by over 80% through three or more practice evaluations and feedback cycles."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "BLS training manikin set",
+      "CPR training pad",
+      "Mobile-compatible video learning materials",
+      "Practical Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

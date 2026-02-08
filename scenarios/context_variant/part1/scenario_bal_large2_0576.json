@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0576",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Virtual Reality-Based Clinical Decision-Making Training Program for Physical Therapy",
+  "context": {
+    "prior_knowledge": "Knowledge of Basic Physical Therapy Theory and Anatomy",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning environment combining VR simulations with traditional practical training",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can diagnose clinical issues in upper-limb musculoskeletal patients with 80% accuracy in VR simulation environments.",
+    "Learners can systematize explanations of clinical decision-making processes into three or more stages after standard patient simulations and VR training.",
+    "Learners can compose a metacognitive decision-making reflection report after VR simulation training"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset (15 Sets)",
+      "Upper limb musculoskeletal patient simulation software",
+      "Standardized patient role-play actors",
+      "Diagnostic toolkit (sphygmomanometer, goniometer, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

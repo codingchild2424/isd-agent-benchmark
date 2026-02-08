@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1445",
+  "variant_type": "idld_aligned",
+  "title": "Web-Based Lifelong Learning: Short-Intensive Social Sector Courses Utilizing Mobile Microlearning",
+  "context": {
+    "prior_knowledge": "Basic understanding of social sciences and digital literacy",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Providing a web-based learning environment utilizing personal devices (BYOD) for office/administrative professionals, with a formative assessment-centered feedback system",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze real-world social issues and propose solutions using web-based tools.",
+    "Learners can acquire and apply core theories through 15-minute microlearning content optimized for mobile environments.",
+    "Learners can complete knowledge-sharing and feedback processes with peer learners using online collaboration tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-friendly content authoring tool",
+      "Online Collaboration Tool",
+      "Formative Assessment Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

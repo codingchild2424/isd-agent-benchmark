@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1939-V",
+  "variant_type": "context_variant",
+  "title": "Virtual Scientist-Based Mathematical Inquiry: Museum STEM Informal Education Design",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Project-based learning conducted in BYOD environments utilizing museum exhibition-linked mobile apps",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can interpret museum exhibits through mathematical modeling and apply them to real-world problems",
+    "Learners can visualize and interpret collected data using the analytical tools of the Dr. Discovery app",
+    "Learners can create statistical reports explaining museum visitor behavior patterns through collaborative projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Dr. Discovery Mobile App",
+      "Museum Exhibition Dataset",
+      "Open-Source Analysis Tool",
+      "Tablet/Smartphone (Learner-Owned)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

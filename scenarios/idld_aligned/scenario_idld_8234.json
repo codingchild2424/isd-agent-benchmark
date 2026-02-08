@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8234",
+  "variant_type": "idld_aligned",
+  "title": "Well Connected: Social-Emotional Learning and Wellbeing Enhancement Program for University Students in STEM Fields",
+  "context": {
+    "prior_knowledge": "Basic comprehension of social-emotional learning (SEL) and college life experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A program addressing emotional difficulties experienced by science students during academic and career preparation. Ensuring field applicability through community-based participatory research (CBPR) and the ADDIE model",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can apply stress management and emotional regulation strategies in real-life situations with over 80% accuracy.",
+    "Students improve their social relationship-building skills through five or more peer feedback sessions during the semester.",
+    "Students report a 30% or greater increase in well-being awareness via post-program surveys.",
+    "Students utilize a community support system with over 70% participation while preparing for science-related career paths."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Classroom space",
+      "Whiteboard",
+      "Simple print materials",
+      "Smartphone-based survey tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

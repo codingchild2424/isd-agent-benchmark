@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6558-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Special Lecture on Remote Education Satisfaction and Perception Analysis",
+  "context": {
+    "prior_knowledge": "Knowledge of basic instructional methodologies and experience with online learning",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Identify at least three core elements for designing a remote education satisfaction measurement tool.",
+    "Analyze at least five opportunities and challenges of remote education from the perspectives of learners and instructors.",
+    "Develop ten survey questions applying the UTAUT (Unified Theory of Acceptance and Use of Technology) framework.",
+    "Submit a project report comparing differences in perceptions of remote education among small groups."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

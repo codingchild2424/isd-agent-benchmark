@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-2359",
+  "variant_type": "idld_aligned",
+  "title": "Practice-Oriented Database Design and Implementation Workshop",
+  "context": {
+    "prior_knowledge": "Basic Database Theory and SQL Query Writing Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized curriculum design emphasizing job relevance for current practitioners. Focuses on developing database design skills for scientific data processing",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Design a relational database schema reflecting practical requirements.",
+    "Manage the database development process with team members using collaboration tools.",
+    "Experience the database development lifecycle from user needs analysis to prototyping and evaluation.",
+    "Implement search forms and query interfaces tailored to the characteristics of scientific domain data.",
+    "Apply methods to improve database performance through iterative testing."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cloud-Based Database Development Platform",
+      "Collaborative Project Management Tools (Jira, Notion, etc.)",
+      "Science Domain Sample Dataset",
+      "Database Design Best Practices Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

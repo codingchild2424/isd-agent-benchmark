@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6896-V",
+  "variant_type": "context_variant",
+  "title": "Online Workshop for Enhancing Communication Competencies for Nurses",
+  "context": {
+    "prior_knowledge": "Basic clinical practice experience and understanding of communication theories",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-real-time online education conducted in smartphone-centric limited-technology environments, targeting pre-service/in-service teachers for language domain job training",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply proactive communication skills considering patient safety in various clinical scenarios",
+    "Learners can evaluate professional communication strategies in conflict situations through role-playing activities and identify areas for improvement",
+    "Learners can execute effective conversation techniques in team-based patient management using evidence-based communication frameworks"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Video Lectures, Quizzes, Discussion Board Functionality)",
+      "Mobile-Optimized Role-Play Scenario Materials",
+      "Communication Skills Assessment Checklist",
+      "Reflective Journaling Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

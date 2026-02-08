@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0154",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Personalized Learning Strategy Design Based on Digital Media Usage Typology Analysis",
+  "context": {
+    "prior_knowledge": "Basic experience in digital media utilization and competency in learning tool applications",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended learning environment combining VR simulations and mobile surveys in smartphone-centric limited-technology settings",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the five core metrics for classifying digital media usage types.",
+    "Learners can demonstrate the procedure for processing survey-collected data using cluster analysis tools.",
+    "Learners can apply the characteristics of three representative media usage types (focused, dispersed, balanced) to real-world cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Survey Platform",
+      "Offline VR Headset Rental Kit",
+      "Cluster Analysis Sample Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

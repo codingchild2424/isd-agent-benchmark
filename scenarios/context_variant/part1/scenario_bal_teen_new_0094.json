@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0094",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Exploring Unsupervised Deep Learning-Based Thermal Management Chip Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic semiconductor process knowledge and thermal management principles",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A practice-oriented learning environment based on real chip design cases",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can understand the variational autoencoder (VAE) model structure and explain its application to layout generation.",
+    "Learners can perform a process of compressing 3D design variables into a 2D latent space for optimization.",
+    "Learners can validate the thermal properties of generated layouts using simulation tools and derive design improvement proposals."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LGVAE open-source framework",
+      "Thermal analysis simulation software license(s)",
+      "Design verification dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

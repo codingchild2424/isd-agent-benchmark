@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0513",
+  "variant_type": "idld_aligned",
+  "title": "Rotational System Learning Control Design: Application Through Repetitive Learning",
+  "context": {
+    "prior_knowledge": "Basic control theory, linear system analysis, and MATLAB/SIMULINK proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended learning environment combining smartphone-based simulation tools with offline worksheets, balancing theory and practice through industry application case studies.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain fundamental principles of space-based iterative learning control and apply them to system modeling.",
+    "Learners can design tracking error minimization algorithms for rotating systems with unknown periodic parameters.",
+    "Learners can analyze stability and convergence characteristics of control systems through numerical simulations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible simulation app",
+      "Offline Control Experiment Kit",
+      "PDF Lecture Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

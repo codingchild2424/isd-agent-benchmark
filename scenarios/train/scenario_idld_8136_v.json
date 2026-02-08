@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8136-V",
+  "variant_type": "context_variant",
+  "title": "Veterinary Clinical Competency Assessment Education Program Using Virtual Reality",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mass casualty triage training via virtual reality simulation and enhanced mathematical decision-making modeling",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply mass casualty triage protocols with over 80% accuracy in a virtual reality environment.",
+    "Learners can classify priorities for clinical scenarios into no more than three tiers using a math-based decision-making model.",
+    "Learners can propose solutions to optimize resource allocation problems through team-based simulations using optimization algorithms."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual Reality Simulation Platform",
+      "30 sets of VR headsets",
+      "Veterinary clinical case database",
+      "LMS (Learning Management System)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

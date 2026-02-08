@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4021",
+  "variant_type": "idld_aligned",
+  "title": "Immersive AR/VR-Based Program to Enhance Perceived Employability of Vocational High School Students",
+  "context": {
+    "prior_knowledge": "Basic vocational literacy and digital device usage skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Students engage in job simulations using AR/VR content via personal devices, with project-based assessments measuring learning outcomes.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can enhance their job performance skills by experiencing three or more job-related scenarios in an AR/VR environment.",
+    "Learners can analyze the impact of immersive technologies on perceived employability through surveys based on the UTAUT2 model.",
+    "Participants can identify over 80% of the core competencies required in the actual job market based on virtual experiences."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR/VR learning content package",
+      "PLS-SEM analysis tool",
+      "Job Simulation Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

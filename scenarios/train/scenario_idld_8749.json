@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8749",
+  "variant_type": "idld_aligned",
+  "title": "Microlearning Modules on Basic Motorcycle Engine Repair Knowledge",
+  "context": {
+    "prior_knowledge": "Fundamental understanding of mechanical operations and familiarity with basic engineering terminology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Modular learning environment utilizing digital devices, providing real-time feedback through formative assessment",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain the functions of core motorcycle engine components (e.g., cylinder, piston, crankshaft).",
+    "Learners can diagnose and propose countermeasures for at least three common engine failure symptoms (e.g., excessive vibration, combustion irregularities).",
+    "Learners can simulate engine oil inspection and replacement procedures via a mobile module with over 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Engine Disassembly Animation",
+      "Diagnostic Quiz Database",
+      "AR-Based Repair Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

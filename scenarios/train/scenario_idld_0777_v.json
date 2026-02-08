@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0777-V",
+  "variant_type": "context_variant",
+  "title": "Video-Based Learning Design for Understanding Scientific Concepts",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course for pre-service teachers and job seekers preparing elementary science education. Includes video viewing followed by real-time Q&A sessions",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately identify 80% or more of key information in video content explaining scientific concepts.",
+    "Learners achieve a correct answer rate of 75% or higher in formative assessments after watching videos.",
+    "Learners rate social presence in video-based learning at 4 points or higher on a 5-point scale."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Animation Production Tool",
+      "Video Recording Equipment",
+      "LMS System",
+      "Video editing software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

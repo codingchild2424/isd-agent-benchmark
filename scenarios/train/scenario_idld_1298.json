@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1298",
+  "variant_type": "idld_aligned",
+  "title": "Problem-Based Gamification for Mathematics Microlearning Design",
+  "context": {
+    "prior_knowledge": "Mastery of elementary mathematical concepts and job-related application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course focused on solving mathematical problems encountered in daily work by professionals in medical, legal, and technical fields",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve real-world mathematical problems encountered in job contexts through problem-based learning",
+    "Learning motivation is sustained at over 80% through gamification elements",
+    "Complex mathematical concepts are explained with over 90% comprehension using storytelling techniques"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Interactive Quiz Template",
+      "Virtual reality simulation tools",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

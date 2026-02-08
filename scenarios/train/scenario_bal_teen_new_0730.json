@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0730",
+  "variant_type": "balance_teen_filtered",
+  "title": "K-12 Gamification-Enhanced Cognitive Mathematics Learning Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and problem-solving skills at the secondary school level",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Utilizing smartphone-based gamification tools in constrained technological environments. Students collaborate with team members to solve mathematical problems through gamified tasks, with learning outcomes measured via summative assessment at the end of the process.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can achieve problem-solving accuracy of 80% or higher through gamified mathematics assignments",
+    "Learners can manage working memory load in a gamified environment and improve task focus time by 15% or more",
+    "Team-based gamification activities can increase learners' intrinsic motivation (interest, engagement) by 20% or more compared to pre-assessment levels"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible Gamification App",
+      "PDF worksheets",
+      "Offline Team Activity Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-0106",
+  "variant_type": "balance_large_scale",
+  "title": "Corpus-Based Lexical Analysis of Indonesian Emotional Expressions: 'Sakit' vs. 'Nyeri' (Large-Scale)",
+  "context": {
+    "prior_knowledge": "Elementary Indonesian grammar and conversational proficiency for daily communication",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A short-term language proficiency enhancement program for current practitioners.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the usage differences between 'sakit' and 'nyeri' with over 80% accuracy using corpus data",
+    "Learners can apply a classification system for Indonesian emotional expressions based on body parts and intensity in practical settings",
+    "Learners can analyze the appropriate usage of the two vocabulary items in 10+ real-world text examples",
+    "Learners can synthesize learning content to complete an Indonesian conversation project (3-minute dialogue composition)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AntConc Software Access Permissions",
+      "Indonesian News Corpus Data Sample",
+      "Vocabulary Analysis Worksheet Template",
+      "R-Based Statistical Tools Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8017-V",
+  "variant_type": "context_variant",
+  "title": "Basic Architectural Design Workshop Using Virtual Design Studio",
+  "context": {
+    "prior_knowledge": "Basic architectural terminology and experience with CAD software",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based problem-solving in a virtual collaboration environment using personal devices (BYOD) to address real-world architectural challenges.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can complete 3D architectural modeling projects using Virtual Design Studio (VDS) tools.",
+    "Learners can exchange real-time feedback with team members on online collaboration platforms to improve designs.",
+    "Learners can apply sustainable architectural design concepts reflecting local cultural contexts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Personal Devices with Installed Rhino 3D/Revit Licenses",
+      "Miro/Figma Collaboration Boards",
+      "Online 3D Model Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0246",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Specialized Online Competency Enhancement Program in Nursing Informatics",
+  "context": {
+    "prior_knowledge": "Basic nursing theory knowledge and clinical practice experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A personalized educational course centered on smartphone-based mobile learning. Adjusts content difficulty and project scope according to each learner's expertise level",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Apply core nursing informatics concepts (electronic health records, health information exchange, data analysis) to real-world cases",
+    "Create prototypes for nursing information system designs using smartphone-based tools",
+    "Present concrete deliverables for EHR system improvements through project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Open-source nursing informatics simulation tool",
+      "Cloud-based collaboration tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

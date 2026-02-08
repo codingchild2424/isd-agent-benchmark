@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-1469-V",
+  "variant_type": "context_variant",
+  "title": "Applying design research methodology for online visualization education: Integration of DSLM and service-learning",
+  "context": {
+    "prior_knowledge": "Fundamental data visualization comprehension and educational design principles knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Applying visualization education methodologies for pre-service teachers in limited tech environments (smartphone-centric), operating with formative assessment focus",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Utilizing the DSLM framework, learners can independently conduct a visualization design research process within 14 weeks",
+    "Through service-learning (S-L) integrated projects, learners experience transforming community issues into visualization solutions",
+    "Learners can lead a large-scale online design study with 10+ participants using LMS-based collaboration tools (e.g., Google Workspace, Microsoft Teams), achieve a weekly learning goal completion rate of 80% or higher over four weeks, and receive a participant satisfaction survey score of 4.0/5.0 or higher.",
+    "Learners can create two visualization prototypes based on customer interaction scenarios using smartphone-optimized tools like Figma or Adobe XD, incorporate feedback from peers/instructors (5+ items), and submit an improved version reflecting 80% or more of the feedback.",
+    "Learners can reconstruct design research outcomes into teachable materials applicable to educational settings"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Open-Source Visualization Tools (Plot.ly, RAWGraphs, etc.)",
+      "Digital Feedback Templates",
+      "Community-Connected Project Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

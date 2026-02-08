@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3345",
+  "variant_type": "idld_aligned",
+  "title": "Development of Personalized Instructional Design Strategies Through MOOC Learning Outcome Analysis",
+  "context": {
+    "prior_knowledge": "Basic data analysis competency and experience with MOOC platform usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "For professional learners conducting project-based assessments in smartphone-based limited-technology environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify three or more key differences among three achievement groups (failure/satisfactory/excellent) by analyzing MOOC activity data.",
+    "Learners can create personalized learning plans using data-driven engagement metrics (task completion rates, cognitive engagement levels, etc.).",
+    "Learners can propose two or more strategies for session management, content sequencing, and cognitive engagement to improve learning achievement."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Learning Management System",
+      "Basic Statistical Analysis Tools (e.g., Excel)",
+      "MOOC Activity Log Sample Dataset",
+      "Learning Pattern Visualization Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

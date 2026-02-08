@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3486-V",
+  "variant_type": "context_variant",
+  "title": "Advanced English Proficiency Program Using AI-Driven Adaptive Gamification",
+  "context": {
+    "prior_knowledge": "Intermediate or higher English grammar and vocabulary proficiency, basic digital literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Establishment of individualized learning environments using digital devices, with motivation reinforcement through gamification elements",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners achieve a 20+ point improvement in vocabulary and reading scores based on the TOEFL iBT scale after six months.",
+    "Learners improve speaking fluency (Fluency) by over 30% through an AI feedback system.",
+    "Learners utilize accurate English expressions in real communication contexts with over 85% accuracy through project-based assignments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AI-based gamification platform license",
+      "Customized learning content database (DB)",
+      "Digital learning devices (tablet/laptop)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

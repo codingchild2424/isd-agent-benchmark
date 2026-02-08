@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0971",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Field-Centered Continuing Medical Education (CME) Design for Emergency Medicine Knowledge Delivery",
+  "context": {
+    "prior_knowledge": "Basic Medical Knowledge and Practical Experience in Emergency Medicine",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-degree CME course designed with Point of Care Learning methodology for delivering emergency medicine knowledge applicable to clinical settings.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain immediately applicable diagnostic protocols in emergency situations with 80% accuracy",
+    "Learners can reduce the gap between knowledge and practice by 50% through clinical case-based simulations",
+    "Learners can improve knowledge update efficiency by 30% using digital platforms (search engines, CDS systems)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Case Database",
+      "Digital Learning Module",
+      "Assessment Tool Templates",
+      "Virtual Simulation Resources"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

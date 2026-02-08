@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0101",
+  "variant_type": "balance_teen_filtered",
+  "title": "K-12 Scenario-Based Instructional Design to Support Text Summarization in Remote Education",
+  "context": {
+    "prior_knowledge": "Basic digital device proficiency and mathematical concepts comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners acquire online text summarization skills using digital devices in a blended environment, with the goal of improving math problem-solving abilities",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply techniques to summarize complex mathematical texts within three sentences.",
+    "Learners can develop mathematical problem-solving strategies using summarized texts through scenario-based tasks.",
+    "Learners can achieve over 80% accuracy in text summarization with peer feedback and support from automated tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Automated Text Summarization Tool",
+      "Mathematics Learning Scenario Database",
+      "Online Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

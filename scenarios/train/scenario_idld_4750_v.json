@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4750-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Blended Learning Environment for Enhancing Mathematics Writing Skill Transfer",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can write sentences explaining mathematical concepts provided in blended learning environments with 85% accuracy.",
+    "Learners can revise and improve writing skills at least three times through a mobile-based feedback system.",
+    "Learners can perceive a 70% or greater improvement in their writing abilities using self-assessment tools upon course completion."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

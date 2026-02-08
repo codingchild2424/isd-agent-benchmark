@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5139-V",
+  "variant_type": "context_variant",
+  "title": "Machine Learning Practical Competencies Enhancement: Community of Practice-Based Simulation for Pre-Service Teacher Professional Development",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain three core elements of teacher professional development through Community of Practice (CoP) activities.",
+    "Learners propose at least two improved lesson designs reflecting peer teacher and expert feedback in a VR simulation environment.",
+    "Develop and present one pre-service teacher education model applying sociocultural learning theory."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

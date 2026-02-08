@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2139-V",
+  "variant_type": "context_variant",
+  "title": "Suicide Risk Prediction Modeling for Patients with Substance Use Disorders",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Self-directed learning via BYOD using video lectures, programming practice materials, and datasets provided through LMS. Learning progress is monitored through weekly assignments and monthly quizzes",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "They can design and implement machine learning models (decision trees, random forests) to predict suicide risk in patients with substance use disorders.",
+    "They can analyze gender/age interaction effects in medical datasets to derive risk factor combinations.",
+    "They can identify the top five variables influencing suicide risk prediction using model interpretation techniques."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Danish Medical Records Dataset (Anonymized Sample)",
+      "Python/R-based Machine Learning Libraries (Scikit-learn, Caret)",
+      "SHAP/LIME Model Interpretability Tools",
+      "Jupyter Notebook/Google Colab environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

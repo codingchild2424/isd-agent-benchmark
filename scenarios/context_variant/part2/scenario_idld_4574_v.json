@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4574-V",
+  "variant_type": "context_variant",
+  "title": "Gamification-Enhanced Teaching Methods for Supporting Self-Regulated Learning in English Grammar Education",
+  "context": {
+    "prior_knowledge": "Advanced-level English grammar foundational knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Language education environment requiring job-integrated language training for office/administrative professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners will plan and implement English grammar learning strategies using Zimmerman’s SRL (Self-Regulated Learning) three-stage model (preparation-performance-reflection).",
+    "Learners will voluntarily participate in grammar practice exercises at least three times per week using gamification elements on digital platforms.",
+    "Learners will analyze weekly learning outcomes based on formative assessment results and revise the following week’s learning strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Gamification Platforms (Kahoot!/Quizizz, etc.)",
+      "LMS (Google Classroom, etc.)",
+      "Grammar Error Analysis AI Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

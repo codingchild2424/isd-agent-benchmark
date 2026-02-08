@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0706",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Instructional Design Scenarios for Chemistry Metrology Simulations: Learner Control vs. Adaptive Program Control",
+  "context": {
+    "prior_knowledge": "Understanding of basic chemical equations and unit conversion concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Simulation environment configuration for enhancing practical skills in chemical metrology, providing immersive learning experiences through VR equipment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply the four stoichiometry concept rules (mole-mass, mass-mole, mole-mole, mass-mass conversions) with 90% accuracy.",
+    "Learners autonomously solve at least 20 practice problems in simulation environments to enhance concept application skills.",
+    "Learners can solve stoichiometry problems occurring in real work environments with 80% accuracy through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Program",
+      "Interactive Digital Workbook",
+      "Practical Measurement Experiment Kit",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1381",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Science Education Design Utilizing Narrative Aesthetics",
+  "context": {
+    "prior_knowledge": "Understanding of basic science concepts and foundational mobile learning competencies",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Science education enhancement program for working professionals: 10-minute microlearning modules via mobile devices with narrative-structured content design to boost engagement",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design scientific experiment processes by applying the Aristotelian narrative structure (exposition-development-climax-resolution).",
+    "Learners can produce instructional materials explaining scientific concepts by utilizing visual and aesthetic elements (color, layout, animation).",
+    "Learners can accurately explain molecular structure transformation processes at 80% or higher accuracy through narrative-based microlearning modules."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Science Visual Aids Template",
+      "Interactive Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2113-V",
+  "variant_type": "context_variant",
+  "title": "Play-Based Integrated English-Mathematics Educational Material Development Workshop for Elementary Parents in Their 40s",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience, with an understanding of elementary-level foundational math concepts (operations, measurement, geometry)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhancing competencies in developing play-based learning materials optimized for smartphone-based microlearning environments. Applying a cross-curricular approach integrating English learning with math concepts (patterns, graphs, measurement).",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners design smartphone-based English vocabulary learning materials utilizing gamification elements (scores, levels, rewards) and mathematical calculations (probability, score aggregation).",
+    "Learners create resources for practicing contextual English expressions and basic math problem-solving through 5-minute mobile quiz activities (multiple-choice/short-answer formats).",
+    "Learners develop instructional materials that simultaneously enhance children’s English reading skills and mathematical thinking via hybrid digital/analog play activities (graph creation, pattern recognition)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible authoring tool",
+      "Open-Source Play-Based Learning Template",
+      "Mobile Quiz Platform API"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

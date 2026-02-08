@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0132",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Scientific Inquiry Competency Optimization Course Using Computer-managed Learning Systems",
+  "context": {
+    "prior_knowledge": "Basic computer literacy, secondary-level science knowledge (including experience in experimental design, observation, and measurement)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners access modular science content (15-20 minutes daily via mobile devices, including hypothesis verification and data analysis activities) on a platform with peer feedback systems. Applies a step-by-step evaluation system for the scientific inquiry process (observation → hypothesis → experiment → conclusion).",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners design individualized learning paths via computer-managed systems with 90% accuracy, strengthening experimental variable and hypothesis-setting skills",
+    "Using peer feedback systems, learners interact ≥3 times weekly, applying scientific evidence analysis and conclusion derivation processes ≥80% of the time",
+    "Through formative assessments, learners improve understanding of physics and chemistry concepts from 75% to 90% accuracy and acquire data analysis skills"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Automated Personalization Algorithm",
+      "Peer Feedback Module",
+      "Daily Microlearning Content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

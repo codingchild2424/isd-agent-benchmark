@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3661",
+  "variant_type": "idld_aligned",
+  "title": "Workshop on Regularization Techniques for Optimizing Neural Network Architectures",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental machine learning concepts and experience with Python programming",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Performing simple neural network simulations using smartphone-based practical tools",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the principles of inactive/linear unit generation in neural networks and analyze them using diagnostic tools.",
+    "Learners can improve the accuracy of simple ReLU networks with three or fewer layers by 15% or more by applying Jumpstart regularization techniques.",
+    "Learners can write model performance analysis reports using four evaluation metrics: Dead Units, Linear Units, Trainability, and Convergence."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PC rental set",
+      "Offline Neural Network Simulation Kit",
+      "Printed learning materials",
+      "USB Memory-Based Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

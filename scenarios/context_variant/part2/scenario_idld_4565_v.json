@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4565-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Interactive Language Education Utilizing Mobile Microlearning",
+  "context": {
+    "prior_knowledge": "Proficiency in basic digital device usage and intermediate or higher language proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design language-learning activities utilizing four interaction types (interface, peer, content, instructor) in mobile environments",
+    "According to distributed learning principles, learners can divide weekly learning content into three or more segments and establish action plans",
+    "Applying generative instructional strategies (concept/procedure/principle levels), learners can generate five or more language-use examples tailored to workplace scenarios"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8371-V",
+  "variant_type": "context_variant",
+  "title": "Nursing Practical Competencies Enhancement: Intermediate Mathematical Competencies in Corporate Settings Using Explicit Mathematics Pedagogy",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners achieve 90% or higher participation in mathematical problem-solving processes applying explicit instruction (modeling-guided practice-independent practice-feedback).",
+    "Learners achieve 80% or higher correct response rates on formative assessments for 15 core math concepts (ratio, statistics, basic functions) presented within one week.",
+    "Learners utilize a real-time feedback system provided through a mobile platform to perform self-assessment and error correction at least three times per week."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Records (EMR) System",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3926",
+  "variant_type": "idld_aligned",
+  "title": "Understanding Retinal Image Segmentation Techniques for Glaucoma Diagnosis",
+  "context": {
+    "prior_knowledge": "Fundamental medical imaging analysis and basic machine learning concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Technical training program for employees of glaucoma diagnostic medical device/software development companies, focusing on improving workplace efficiency for specialized professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "They can explain the clinical significance of retinal image segmentation in glaucoma diagnosis.",
+    "They can compare traditional and deep learning-based image segmentation techniques for Optic Cup/Disc (OC/OD) analysis.",
+    "They can evaluate clinical applications of deep learning models such as U-Net and Mask R-CNN.",
+    "They can interpret performance metrics (accuracy, processing speed, etc.) of image segmentation algorithms in alignment with operational environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Retinal Image Sample Dataset",
+      "Deep Learning Model Architecture Comparison Materials",
+      "Quiz-Based Formative Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

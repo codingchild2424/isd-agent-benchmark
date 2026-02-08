@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-8425-V",
+  "variant_type": "context_variant",
+  "title": "Text Mining-Based Analytical Practice for Financial Fraud Prediction",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based learning utilizing real corporate financial statement datasets",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Extract meaningful thematic elements from financial documents using LDA (Latent Dirichlet Allocation) and STM (Structural Topic Modeling) techniques",
+    "Perform topic modeling on corporate financial statements and map derived thematic elements to financial fraud risk indicators",
+    "Build predictive models combining corporate financial statement data with financial metrics (leverage, tangible asset ratio, etc.) using Python-based text analysis tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/R Programming Environment",
+      "Corporate Financial Statement Text Dataset",
+      "Gensim, scikit-learn, and STM Packages",
+      "Jupyter Notebook/Google Colab Environment",
+      "Financial Fraud Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

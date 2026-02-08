@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-7164-V",
+  "variant_type": "context_variant",
+  "title": "Personalized Science Instructional Design Process Based on Learning Analytics",
+  "context": {
+    "prior_knowledge": "Middle School Science Foundational Knowledge and Self-Directed Learning Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Personalized feedback based on learner activity data analysis in a smartphone-based LMS (Learning Management System), aimed at strengthening science competencies linked to corporate job roles.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Analyze learner interaction patterns (login frequency, content consumption time, etc.) with 80% accuracy using learning analytics tools",
+    "Design and implement at least three strategies to revise self-directed learning plans based on learning analytics results",
+    "Generate group participation metrics using LMS collaboration data (discussions, projects) and create a report linking them to team performance",
+    "Automate concept comprehension assessments by designing a real-time personalized quiz system based on learning analytics"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Optimized LMS",
+      "Learning Analytics Visualization Dashboard",
+      "Mobile-Compatible Quiz Generator",
+      "Basic Statistical Analysis Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

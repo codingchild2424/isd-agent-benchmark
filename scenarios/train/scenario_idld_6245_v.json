@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6245-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening E-Learning Practical Competencies: Electric Circuit Simulation Education Based on the 4C/ID Model",
+  "context": {
+    "prior_knowledge": "Understanding of basic electrical concepts (current, voltage, resistance) and experience with simple circuit construction",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Competency enhancement program for professionals in education/teaching/learning fields",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain voltage division laws in series/parallel circuits with 90% accuracy according to the 4C/ID model’s learning phases.",
+    "Learners can design and verify complex electrical circuits without errors within three attempts using VR simulation tools.",
+    "Learners can evaluate project reports on medical equipment power supply circuits and propose improvements by applying learned principles."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Authoring Tool",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

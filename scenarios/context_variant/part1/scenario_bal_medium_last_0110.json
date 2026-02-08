@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0110",
+  "variant_type": "balance_medium_last",
+  "title": "AR-Based Biomechanical Knee Load Analysis Simulation Education",
+  "context": {
+    "prior_knowledge": "Foundational knowledge of biomechanics and human anatomy",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "AR Simulation Training for Medical Device Professionals: Enhancing Knee Load Analysis Competency via Volleyball Court Visual Elements in Real-World Exercise Scenarios",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Enhanced ability to interpret knee moment and patellar tendon load measurement data during three types of jump movements (drop landing, hop jump, spike jump) in AR simulation environments.",
+    "Learners compare three biomechanical metrics (joint angles, EMG, gait cycles) from simulated and real-world rehabilitation environments, producing reports analyzing inter-environmental similarity at ≥80% accuracy",
+    "Learners can design a draft assessment protocol for a specific clinical scenario (e.g., postoperative patient monitoring) using AR technology (e.g., Microsoft HoloLens) within 3 weeks and revise it based on feedback averaging ≥4 points on a 5-point scale from an expert panel (2 medical professionals, 1 technical expert)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR smart glasses",
+      "Motion Capture Sensor",
+      "Biomechanical Analysis Software",
+      "Jump motion visualization template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

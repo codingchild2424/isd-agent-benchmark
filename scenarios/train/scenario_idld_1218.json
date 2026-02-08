@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1218",
+  "variant_type": "idld_aligned",
+  "title": "Job-Based Language Learning: Ethnographic Project Design",
+  "context": {
+    "prior_knowledge": "Basic language comprehension skills and work environment experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners perform language projects reflecting actual job situations in a blended learning environment using smartphone apps and offline tools. Strengthens practical skills through field observation documentation and peer feedback.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately use situation-specific language expressions required in job-related scenarios (meetings, customer consultations, etc.) with over 90% accuracy.",
+    "Through collaborative projects with peers, learners document the language acquisition process (voice recordings/notes) and self-assess learning outcomes based on this documentation.",
+    "Learners can apply ethnographic methods to observe real work environments, analyze language usage patterns, and develop communication strategies reflecting the analysis."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Voice Recording App",
+      "Offline Collaboration Board (e.g., Whiteboard)",
+      "Job-Situation-Specific Language Template Resource Collection",
+      "Field Observation Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

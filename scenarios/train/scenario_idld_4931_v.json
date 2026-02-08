@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4931-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Healthcare Practical Competencies: Moral Analysis of Islamic Bank Credit Card Repayment Using Data Mining",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Key variables influencing the moral behavior of Indonesian Islamic bank customers in repaying credit card debts can be identified using data mining techniques.",
+    "Machine learning models (e.g., Random Forest, XGBoost) can be utilized to predict and interpret factors influencing moral repayment decisions",
+    "Spatial clustering analysis enables visualization and strategic explanation of regional differences in repayment patterns"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

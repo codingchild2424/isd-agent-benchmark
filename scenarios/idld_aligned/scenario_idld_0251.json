@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0251",
+  "variant_type": "idld_aligned",
+  "title": "Instructional Design Competency Diagnosis and Enhancement Program (Mobile-Based)",
+  "context": {
+    "prior_knowledge": "Understanding of basic instructional design concepts and experience in job-related language education",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course for professionals developing language education content at vocational training institutions. Conducted via mobile-based microlearning, focusing on developing competency diagnostic tools applicable to actual job contexts",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can diagnose core instructional design competencies (needs analysis, content development, assessment design, etc.) through self-evaluation",
+    "Learners can analyze personal competency gaps using a 5-point Likert-scale self-report assessment tool",
+    "Learners can develop customized learning plans aligned with job-specific characteristics based on diagnostic results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "IBSTPI-based competency assessment questionnaire",
+      "Job-specific case database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

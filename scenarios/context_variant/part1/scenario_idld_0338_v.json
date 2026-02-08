@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0338-V",
+  "variant_type": "context_variant",
+  "title": "Community-Based Science Competency Enhancement Program in Online Learning Environments",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Long-term course for enhancing science-related practical skills within enterprises, targeting learners accustomed to asynchronous learning via digital devices",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can collaborate with peers using online learning tools to complete science problem-solving projects at least three times.",
+    "Learners share opinions and provide feedback on science-related topics at least twice a week through community discussion boards",
+    "Learners pass a formative assessment achieving at least 80% understanding of scientific concepts based on materials provided in the LMS"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital Textbook",
+      "Online Discussion Forum",
+      "Collaborative Learning Tools",
+      "Formative Assessment System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

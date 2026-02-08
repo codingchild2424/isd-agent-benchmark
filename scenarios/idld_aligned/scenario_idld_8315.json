@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8315",
+  "variant_type": "idld_aligned",
+  "title": "Digital Practice Math Project: Online Learning Design",
+  "context": {
+    "prior_knowledge": "Basic arithmetic operation skills (addition, subtraction, multiplication, division)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "An asynchronous online course operating in a smartphone-centric, limited technological environment, requiring minimized learner interaction and individualized progress management",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can construct and explain the solution process of a system of linear equations to solve real-life problems.",
+    "Learners can build simple predictive models based on statistical data and write interpretation reports of the results.",
+    "When performing PBL projects, learners can independently conduct the mathematical problem-solving process by more than 80% using digital tools (such as smartphone apps)."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible Learning App",
+      "PDF Textbook",
+      "Video Lecture Materials",
+      "Google Forms-Based Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

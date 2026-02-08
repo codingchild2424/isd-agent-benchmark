@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4447",
+  "variant_type": "idld_aligned",
+  "title": "Elementary Online Conversation-Centered Integrated Language Education Program",
+  "context": {
+    "prior_knowledge": "Basic Literacy Skills and Daily Conversational Language Proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Hybrid model combining three weekly live video sessions with asynchronous mobile activities. Utilization of smartphone app-based learning resources",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can conduct synchronous conversations on everyday topics with 80% or higher accuracy",
+    "Learners can communicate flexibly by applying language rules in real-time feedback environments",
+    "Learners voluntarily participate in language practice activities at least twice weekly via mobile platforms"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Video conferencing app",
+      "Mobile Learning Management System (LMS)",
+      "Dialogue scenario templates",
+      "Voice recording feedback tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

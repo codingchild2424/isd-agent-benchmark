@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7700",
+  "variant_type": "idld_aligned",
+  "title": "Educational Effect Analysis Course on Taiwanese Romanization Systems (TGR vs. TMR)",
+  "context": {
+    "prior_knowledge": "Basic Taiwanese vocabulary and Chinese character reading proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Comparative learning environment using smartphone-based VR simulations. Learners experience practical applications of two notations through role-playing (teacher/learner) within simulations",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can distinguish and explain at least three structural differences between the Taiwanese Romanization systems (TGR and TMR).",
+    "Learners can evaluate comparative analysis results of educational effectiveness between TGR and TMR in simulation environments with 80% accuracy.",
+    "Learners can present at least two criteria for selecting romanization systems that reflect socio-contextual factors (policies, field opinions)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Educational Platform",
+      "Taiwanese Pronunciation Audio Samples",
+      "TGR/TMR Comparison Visual Aids (PDF)",
+      "Formative Assessment Quiz App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0212",
+  "variant_type": "balance_large_scale",
+  "title": "Design of Adaptive Blended MOOCs for Teacher Professional Development (Large-Scale)",
+  "context": {
+    "prior_knowledge": "Foundational educational theory and social studies instruction experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A short-term intensive course for pre-service and in-service teachers to enhance professional expertise, requiring design optimized for smartphone-based learning environments.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design and apply three or more adaptive learning strategies tailored to social studies contexts.",
+    "Learners can develop a project-based instructional plan incorporating MOOC content in a blended learning environment.",
+    "Learners can evaluate educational activities using a learner-customized feedback system in limited technological environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized MOOC platform",
+      "Learning Analytics Tools",
+      "Offline Workshop Space",
+      "Case-Based Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

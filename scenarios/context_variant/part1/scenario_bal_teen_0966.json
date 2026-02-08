@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0966",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] MOOC-based Technical Competency Enhancement Course for Drinking Water System Operators",
+  "context": {
+    "prior_knowledge": "Basic engineering and chemistry knowledge, with adaptability to online learning environments",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Inclusive learning design considering socially vulnerable groups, with digital device provision.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the basic components and operational processes of a drinking water system with 80% accuracy.",
+    "Learners can perform water quality testing and pollution management procedures with 90% accuracy using simulation tools.",
+    "Learners can independently execute problem-solving procedures based on an emergency response manual with over 70% proficiency."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D System Modeling Software",
+      "Virtual Laboratory Platform",
+      "Open-Source Water Quality Analysis Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

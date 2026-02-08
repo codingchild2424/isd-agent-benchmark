@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0879",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Perceptual Fluency Training Program to Enhance Surgical Anatomy Awareness",
+  "context": {
+    "prior_knowledge": "Fundamental knowledge of anatomy and basic understanding of surgical procedures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Providing hands-on educational environments through smartphone-based simulation/VR content.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify key anatomical structures in real surgical videos with 90% accuracy.",
+    "Learners can explain spatial relationships of 3D anatomical structures in VR simulation environments with 80% accuracy.",
+    "Learners can perceive anatomical variations in surgical scenarios with 70% accuracy through perceptual fluency training."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Surgical Anatomy Simulation Software",
+      "Real Surgical Video Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

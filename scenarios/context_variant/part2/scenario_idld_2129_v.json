@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-2129-V",
+  "variant_type": "context_variant",
+  "title": "Active Learning Strategies for Building Energy Prediction Modeling",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are mid-level domain experts (medical/legal/technical backgrounds) who have adapted to online learning environments using digital devices",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can identify data bias issues and generate high-information training data using active learning techniques.",
+    "Learners can apply block design strategies that account for weather variability when developing building energy prediction models.",
+    "Learners can implement methodologies to evaluate the effectiveness of active learning strategies in virtual/physical building testbeds.",
+    "Learners can establish data collection strategies that improve model accuracy and scalability within various constraints (time/budget)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Building Energy Data Samples",
+      "Python-Based Machine Learning Library",
+      "Virtual Simulation Tools",
+      "LMS platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

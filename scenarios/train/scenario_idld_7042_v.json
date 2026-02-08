@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7042-V",
+  "variant_type": "context_variant",
+  "title": "Personalized Science E-Learning Environment Design: Experimentation and Inquiry Strategies Based on Implicit Memory",
+  "context": {
+    "prior_knowledge": "Foundational science knowledge (experimental design, data analysis) and experience using digital learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning environment for science education targeting teenage university students. Combines digital tool-supported implicit memory reinforcement activities (repetitive experiment simulations) with offline discussions (experiment result analysis, evidence-based conclusions)",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners reconstruct scientific hypotheses and variable controls based on implicit memory to perform experimental designs with over 80% accuracy",
+    "Using static images (experiment graphs, data charts) and dynamic animations (chemical reaction simulations) provided at 10–30 second intervals, learners select and apply ≥3 personalized visual cue strategies (highlighting observation points, evidence marking) to maintain attention spans during scientific inquiry processes for over 70% of class time",
+    "Utilizing contextual cues (experimental conditions, measurement data patterns) provided in e-learning environments demonstrates over 30% improvement in efficiency when solving scientific problems"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Science Learning Content",
+      "Attention Level Diagnostic Tool",
+      "Dynamic/Static Visual Cue Generation Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

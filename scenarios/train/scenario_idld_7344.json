@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7344",
+  "variant_type": "idld_aligned",
+  "title": "Mixed Reality-Based Team Training Program for Anatomy Practical Education",
+  "context": {
+    "prior_knowledge": "Fundamentals of medical terminology and histology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-oriented training for intermediate learners in managerial/leadership roles. Utilizes mixed reality (MR) content implementable in smartphone-based limited-technology environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately name structural features while exploring major human anatomy systems (e.g., musculoskeletal, circulatory) in 3D within a mixed reality environment",
+    "Learners can logically explain the associations between anatomical structures and functions while analyzing real clinical cases through Team-Based Learning (TBL)",
+    "Learners can perform virtual dissection simulations using MR technology and describe the location, relationships, and clinical significance of key structures according to evaluation criteria"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible MR Headset",
+      "Offline-Synchronizable Anatomy Application",
+      "Team Activity Worksheet",
+      "3D-Printed Physical Model Instructional Aid"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

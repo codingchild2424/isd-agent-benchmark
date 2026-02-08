@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8091",
+  "variant_type": "idld_aligned",
+  "title": "Outcome-Based Education (OBE)-Enhanced Mathematics Competency Development Program",
+  "context": {
+    "prior_knowledge": "Foundational mathematics knowledge (high school level)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A process where working professionals learn OBE-model-applicable mathematical concepts for workplace integration. Active learning strategies utilizing personal devices (BYOD) are implemented",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can achieve three or more math-related course outcomes (COs) defined in the OBE framework.",
+    "Learners can apply mathematical modeling techniques to solve real-world work problems with over 80% accuracy.",
+    "Learners can effectively present mathematical analysis results in team projects through peer evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Management System (LMS)",
+      "Interactive Mathematics Simulation Tool",
+      "OBE (Outcome-Based Education) assessment rubric template",
+      "Practical Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0653",
+  "variant_type": "balance_large_scale",
+  "title": "Adult Mathematics Competency Enhancement Program through Active Learning Environment Design",
+  "context": {
+    "prior_knowledge": "Basic Arithmetic Operations and Understanding of Everyday Mathematical Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners participate in mobile app-based microlearning using personal smartphones/tablets and engage in weekly offline collaborative learning sessions. Mathematics is approached as a tool for solving real-life problems, with learning outcomes measured through project-based assessments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the process of solving everyday problems through mathematical modeling",
+    "Learners can design collaborative learning activities using mobile learning tools",
+    "Learners can demonstrate improved mathematical thinking skills through project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Collaborative Board App",
+      "Digital Calculator",
+      "Real-World Problem-Solving Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1031",
+  "variant_type": "idld_aligned",
+  "title": "Learning Object Utilization Strategies for Science Curriculum Design: Enhancing Experimentation/Observation-Based Inquiry and Evidence-Based Conclusion Drawing",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific theories and foundational instructional design concepts, experience with the scientific inquiry process (hypothesis formulation → experimentation → analysis → evidence-based conclusions), and skills in variable control and data interpretation.",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners strengthen science curriculum design competencies and acquire efficient curriculum development methods using reusable learning objects (LOs). Collaboration with tools in a BYOD environment is recommended, with emphasis on sharing experimental data and evidence-based analysis activities. Learners systematically record observational data and repeatedly train in deriving scientific conclusions based on this data.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Using metadata provided by the learning design framework, learners will design one science-subject-customized curriculum (including experimental design, variable control, data analysis, and evidence-based conclusion derivation).",
+    "Learners will develop three or more learning objects (virtual lab modules, observation templates, scientific analysis worksheets) that integrate theoretical knowledge (literature review) with practical cases (best practices).",
+    "Through peer evaluation processes (feedback forms and discussion sessions), learners will write a report validating the reusability (three or more scenarios: cross-subject integration, tiered application by proficiency, hybrid online/offline delivery) and scalability (two or more expansion methods: AR experiment tool integration, multi-variable analysis functionality) of their designed science curriculum. The report must receive a rating of \"Met\" or higher from at least two out of three evaluators."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Object Repository Prototype",
+      "UML-Based Design Tool",
+      "Video Conferencing Platform (Zoom)",
+      "Collaboration Tools (Google Workspace)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

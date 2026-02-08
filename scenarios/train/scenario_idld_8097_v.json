@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8097-V",
+  "variant_type": "context_variant",
+  "title": "Sound Simulation Practice for Improving Cardiac Auscultation Skills",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Utilizing smartphone-based sound simulation equipment for small-group practical sessions",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify seven abnormal heart sounds (S3, double gallop, aortic stenosis/regurgitation, mitral stenosis/regurgitation, pericardial friction rub) with 80% accuracy.",
+    "Learners can systematically perform auscultation procedures by applying optimal listening points when using a stethoscope",
+    "Learners can integratively apply heart sound analysis skills to real clinical cases through team-based diagnostic projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone Sound Simulation Kit",
+      "Auscultation Audio Database for Heart Sounds",
+      "Stethoscope Set",
+      "Group-Based Practical Workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

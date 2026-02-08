@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2981",
+  "variant_type": "idld_aligned",
+  "title": "AI Chatbot-Based Personalized Science Education Support Strategy",
+  "context": {
+    "prior_knowledge": "Understanding Basic Scientific Theories and Experience in Utilizing Educational Technology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Course for pre-/in-service teachers exploring AI chatbot integration in science education, featuring practice-oriented design tailored to individual learning paces and styles in BYOD environments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners acquire the ability to apply the AI chatbot’s three-stage learning model (basic–application–advanced) to science subjects.",
+    "Learners implement chatbot personalization features with at least 80% accuracy to build customized online learning environments.",
+    "Learners explain how to use AI chatbots as formative assessment tools to monitor learners’ real-time progress."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AI Chatbot Development Framework",
+      "Digital Content for Science Education",
+      "Learning Analytics Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5846-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design and Technology Competency Development Course Based on Informal Discussions",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Process for Pre-Service Teachers to Develop Instructional Design and Technology Integration Skills through Informal Discussions in a Smartphone-Based Microlearning Environment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain how to apply instructional design models (e.g., ADDIE, SAM) to mathematics education through informal discussions in a microlearning environment.",
+    "Learners can improve their ability to design mobile learning scenarios by over 80% using real-time collaboration tools with peers.",
+    "Learners can develop a smartphone-based mathematics education content prototype by incorporating formative assessment feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Mobile App for Asynchronous Discussions (e.g., Slack, Band)",
+      "Mobile Version of Instructional Design Templates",
+      "10 Open-Source Microlearning Modules for Mathematics Education"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

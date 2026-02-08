@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2108",
+  "variant_type": "idld_aligned",
+  "title": "Multi-Label Learning: Strategies for Solving Complex Data Classification Problems",
+  "context": {
+    "prior_knowledge": "Knowledge of basic statistics, machine learning concepts, and experience with Python programming",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course aiming to cultivate skills in developing multi-label classification models for workplace social data analysis. Provides mobile-accessible microlearning content in BYOD environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Designing a classification model capable of processing two or more new labels simultaneously in dynamic data stream environments.",
+    "Performing anomaly detection and clustering using OPTICS clustering.",
+    "Applying optimization techniques for linear classification models to minimize classification errors.",
+    "Establishing a phased update strategy to maintain model performance when integrating new labels."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Machine Learning Library",
+      "Real-World Social Data Sample Set",
+      "Mobile Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

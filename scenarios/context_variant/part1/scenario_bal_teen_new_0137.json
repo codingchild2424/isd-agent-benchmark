@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0137",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Design of Formative Assessment Based on Concept Maps for Online Mathematics Learning",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Mathematical Concepts and Proficiency in Online Learning Tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Training in applying mathematical concepts to real-life problem-solving contexts through VR simulations",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can visually represent the mathematics problem-solving process using concept mapping tools.",
+    "Learners can accurately explain the connections between concepts at a rate of 80% or higher through periodic formative assessments.",
+    "Learners can improve complex problem-solving skills by 30% by applying concept mapping in VR simulation environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital concept mapping tools (CmapTools, etc.)",
+      "VR Simulation Platform",
+      "BYOD-Compatible Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

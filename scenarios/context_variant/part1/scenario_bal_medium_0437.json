@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0437",
+  "variant_type": "balance_medium_scale",
+  "title": "Language-Based Safety Communication Course to Improve Hazard Awareness in Construction Material Handling",
+  "context": {
+    "prior_knowledge": "Understanding of basic construction site workflows and familiarity with safety-related vocabulary (risk, prevention, measures, safety reports, work logs), along with technical document comprehension skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical training centered on smartphone sensor utilization, focusing on enhancing safety management capabilities in non-face-to-face environments and improving effective verbal communication (standardizing field terminology, delivering clear instructions) among workers. Particularly emphasizes training in translating technical data into safety-related language.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Develop the ability to identify four major risk factors (leakage of hazardous gases, falling heavy objects, chemical exposure, and electric shock) that may occur during material handling at construction sites with 80% accuracy and articulate them in a structured safety report format (introduction-body-conclusion).",
+    "Cultivate the ability to accurately interpret machine learning model results—classifying risk situations based on smartphone accelerometer/gyroscope data—using safety terminology (risk level, response procedures, preventive measures).",
+    "Execute risk prevention measures in real work environments through a three-stage process (risk identification–cause analysis–response strategy development), applying verbal communication skills (site briefings) and written communication techniques (work logs, checklists) at each stage."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone (Built-in Sensors)",
+      "LMS platform",
+      "Hazard Simulation Video",
+      "Machine Learning Classification Model Demo"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

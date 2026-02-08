@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0067",
+  "variant_type": "balance_teen_filtered",
+  "title": "Concept Mapping Workshop for Designing [K-12] Mobile Learning Core Concepts",
+  "context": {
+    "prior_knowledge": "Foundational educational theory knowledge and experience using mobile devices",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Environment requiring collaborative activities using personal smart devices. Focuses on developing practical cases for applying mobile learning to language education settings.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can represent the five core concepts of mobile learning (accessibility, contextual learning, coordination of cross-contextual learning, personalization, and collaboration) as a concept map",
+    "Learners can transform the core concepts of mobile learning into applicable forms for language education scenarios",
+    "Learners can verify the logical consistency of concept maps through peer assessment and feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Concept mapping software",
+      "Language Education Case Database",
+      "Wireless Internet Environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

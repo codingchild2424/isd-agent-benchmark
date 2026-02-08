@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0689-V",
+  "variant_type": "context_variant",
+  "title": "Advanced Managerial Course Based on Neuroanatomical e-Learning",
+  "context": {
+    "prior_knowledge": "Basic Medical Terminology and Understanding of Neurological Structures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced training for managers conducted in smartphone-centric limited-technology environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the functions of major neural pathways with 85% accuracy through 3D animation and interactive content.",
+    "Learners can correctly identify anatomical causes of neurological symptoms (paralysis, sensory abnormalities, etc.) in three consecutive quizzes with over 80% accuracy by analyzing virtual cases.",
+    "Learners can achieve at least 75% proficiency in weekly formative assessments through a mobile-optimized evaluation system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive web design LMS",
+      "3D neural structure model library",
+      "Mobile-compatible quiz engine"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

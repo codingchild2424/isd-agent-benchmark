@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-1020",
+  "variant_type": "balance_large_scale",
+  "title": "Computer Technology-Based Language Education Design Workshop: Enhancing Professional Vocabulary, Text, and Expression Skills via Digital Tools and Blended Learning Strategies (Large-Scale)",
+  "context": {
+    "prior_knowledge": "Foundational language education knowledge (grammar, vocabulary, text analysis), smartphone proficiency and experience operating digital tools, and understanding of basic terminology in specialized fields (medical/legal/technical)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A short-term project-based assessment course for professionals in medical/legal/technical fields with advanced language competencies (specialized vocabulary, complex text comprehension, precise expression), conducted in smartphone-centric constrained technological environments. Focuses on strengthening language education design capabilities applicable to real work settings, emphasizing customized text analysis and expression training by specialization.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Within one week, learners can design three language education activities (integrating specialized text reading, academic writing, situational speaking) using three or more digital tools (apps, web platforms). They must submit design documents specifying learning objectives, step-by-step procedures, and evaluation methods for each activity.",
+    "Establishing real-time feedback systems for learner engagement strategies using smartphone-based assessment tools: enhancing specialized vocabulary acquisition and precise expression skills.",
+    "Within one week, learners can design two or more blended learning scenarios executable in offline environments using text analysis tools (e.g., Python NLTK) and speech recognition (e.g., Google Speech-to-Text API). They must submit prototypes validated by peer review and instructor verification, demonstrating functionality and educational effectiveness (including specialized terminology handling for medical/legal/technical fields)."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Free educational apps (Quizlet, Padlet, etc.)",
+      "Open-source LMS platform",
+      "Mobile-compatible authoring tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

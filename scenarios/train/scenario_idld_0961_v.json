@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0961-V",
+  "variant_type": "context_variant",
+  "title": "Data-Driven Mobile Microlearning Course for Quantum Computing Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Linear algebra, basic programming, and introduction to computer science",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Design of flexible learning structures for in-service professionals to pursue alongside work",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "They can explain core concepts of quantum computing (qubits, superposition, entanglement) through simulations optimized for mobile environments.",
+    "They can apply the quantum algorithm design process step-by-step based on real-world cases.",
+    "They demonstrate foundational-to-applied competencies by achieving 80+ points on the comprehensive final assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Qiskit/IBM Quantum Experience Mobile-Compatible Tool",
+      "Quantum Computing Concept Visualization Video",
+      "Weekly Quiz and Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-1904",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Instructional Design to Enhance Acceptance and Intention to Use Weblog Learning Systems",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and experience using online learning platforms",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Self-directed learning environments utilizing subject-specific weblogs in scientific fields",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can understand the functional characteristics of weblog systems and utilize them according to learning objectives.",
+    "Learners can evaluate the utility of weblog systems by applying the task-technology fit model.",
+    "Learners can explain the process of analyzing weblog usage intentions based on the theory of planned behaviour.",
+    "Learners can present the impact of technology optimism on system acceptance through case studies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Built-in Weblog Functionality)",
+      "Sample Weblog Dataset for Science Education",
+      "SmartPLS Analysis Tool Demo Version",
+      "Task-Technology Fit Evaluation Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4804-V",
+  "variant_type": "context_variant",
+  "title": "Interactive Design Based on Learning Management Systems (LMS) and Learning Analytics Strategies",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A customized mathematics education course for professionals, conducted in smartphone-centric limited-technology environments, with continuous learning improvement through formative assessment-centered feedback systems",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can identify their interaction patterns through LMS data analysis and incorporate them into learning strategies",
+    "Learners enhance their ability to solve complex mathematical problems through qualitative discussions with peers in project-based activities",
+    "Learners can continuously monitor and improve learning outcomes through formative assessments utilizing LMS data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Learning Analytics Tools",
+      "Text-Based Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

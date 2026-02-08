@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5701-V",
+  "variant_type": "context_variant",
+  "title": "Adult Language Proficiency Improvement Program Through Mobile Gamified Learning",
+  "context": {
+    "prior_knowledge": "Fundamental language proficiency and basic smartphone operation skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-degree adult learners aiming for language acquisition in smartphone-centric limited-technology environments, combining weekly offline workshops with mobile app-based self-directed learning.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will be able to analyze the language learning effectiveness of mobile apps with over 70% accuracy using gamified assessment tools.",
+    "Learners will be able to explain the impact of game mechanics (quests, badges, leaderboards) on learning motivation by achieving a weekly goal completion rate of over 85%.",
+    "Learners will be able to present three or more case studies demonstrating how gamification elements contribute to improving communication skills in real-world language use scenarios through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Gamified Learning Apps (e.g., Memrise, Duolingo)",
+      "Offline Workshop Space",
+      "E-MIGA Model-Based Assessment Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

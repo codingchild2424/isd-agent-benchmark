@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0740",
+  "variant_type": "balance_teen_filtered",
+  "title": "Second Language Vocabulary Learning Program Utilizing Multimodal Tools for K-12",
+  "context": {
+    "prior_knowledge": "Basic second-language vocabulary comprehension skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducted through parallel real-time video lectures and mobile applications in smartphone-based limited-technology environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can recognize and utilize 300 beginner-level vocabulary words in the target language (Chinese) with over 80% accuracy after six months.",
+    "Learners can determine the semantic consistency between emojis and text with 90% accuracy.",
+    "Learners can independently apply vocabulary-learning strategies using multimodal tools (emojis + text)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom",
+      "Mobile Vocabulary Learning Application",
+      "Emoji Database",
+      "Weekly Learning Activity Worksheet (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

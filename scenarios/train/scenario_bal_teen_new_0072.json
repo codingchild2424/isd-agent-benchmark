@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0072",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Online Microlearning Course on Absolute Structure Determination and Medicinal Chemistry",
+  "context": {
+    "prior_knowledge": "Understanding of basic organic chemistry and stereochemical concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Microlearning optimized for non-face-to-face environments due to COVID-19, emphasizing visual learning using 3D molecular models. Formative assessments monitor learning gaps in real-time, with flexible scheduling tailored to individual learning paces.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain the absolute structure of an active pharmaceutical ingredient (API) using a 3D molecular model.",
+    "Learners can analyze the relationship between the stereochemical properties of optically active substances and drug efficacy.",
+    "Using an online quiz system, learners can achieve at least 80% proficiency in solving absolute structure determination problems."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "YouTube video resources (3D molecular model animations)",
+      "Google Form-based assessment system",
+      "Molecular modeling software trial version"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

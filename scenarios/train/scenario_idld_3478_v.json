@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3478-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Web Development Practical Competencies: Mobile Microlearning Design for Virtual Education Quality Assurance",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze quality indicators of virtual education programs.",
+    "Learners apply design principles for mathematics educational content optimized for mobile environments.",
+    "Learners can propose three or more technical solutions (e.g., screen magnification, audio guidance, keyboard navigation) to enhance accessibility for learners aged 40 and above in digital learning environments, and provide evidence-based explanations of over 200 characters for each solution."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3553-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Mathematics Learning Organization Management and Adaptive Automation Course",
+  "context": {
+    "prior_knowledge": "Proficiency in fundamental mathematical concepts and job-related expertise",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Establishing a flexible learning management system to enhance work-integrated mathematical competencies for professionals in a smartphone-centric, limited-technology environment",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can design math learning pathways tailored to their work context with 80% accuracy using integrated learning parameters.",
+    "Learners can perform self-directed learning with a 90% goal achievement rate at least three times per week using adaptive content provided in mobile environments.",
+    "Learners can revise learning strategies based on formative assessment feedback every two weeks and document them in learning journals at least 75% of the time."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Offline-Synchronizable Microlearning Content",
+      "Automated Learning Analytics Report Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

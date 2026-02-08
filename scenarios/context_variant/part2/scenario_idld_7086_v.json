@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7086-V",
+  "variant_type": "context_variant",
+  "title": "Intensive Short-Term Course Based on Cognitive Apprenticeship Model for Online Journalism Education",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Project-based assessment course for advanced learners adapted to online environments post-COVID-19, conducted in limited-but-practical smartphone-centric technical settings",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can develop online journalism article proposals based on scientific issues.",
+    "Learners can apply article draft revision strategies through peer feedback and expert modeling.",
+    "Learners can produce and share final deliverables of science journalism projects using digital tools within an LMS."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-compatible editor",
+      "Science news sample database",
+      "Feedback Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

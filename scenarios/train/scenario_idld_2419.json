@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2419",
+  "variant_type": "idld_aligned",
+  "title": "Virtual Trainer-Enabled Workplace Fitness Self-Development Program",
+  "context": {
+    "prior_knowledge": "Experience with foundational physical fitness exercises and basic smartphone operation skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "An elective education program for managing occupational stress and promoting health in corporate settings, conducted in a mobile environment outside work hours. Participants are professionals (medical/legal/technical) with a focus on physical activities rather than mathematical thinking",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will be able to accurately perform three or more aerobic exercises maintaining a target heart rate (60–80% of maximum) within 8 weeks by observing a virtual trainer’s demonstration.",
+    "Learners will be able to perform five or more consecutive repetitions of various strength-training exercises (e.g., squats, planks, push-ups) within 4 weeks using random practice strategies.",
+    "Learners will achieve a motivation score of 4.0/5.0 or higher on the SIMS scale measurement at the program’s conclusion."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "TRAINIME App License",
+      "Smartphone Stand",
+      "Heart Rate Monitoring Band",
+      "Exercise Mat"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

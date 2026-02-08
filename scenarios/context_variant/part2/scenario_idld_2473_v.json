@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2473-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Instructional Strategy Design to Mitigate Online Education Fatigue",
+  "context": {
+    "prior_knowledge": "Experience in online learning environments and proficiency in basic digital tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learner engagement can be maintained above 80% through asynchronous lecture design.",
+    "Knowledge-sharing efficiency can be improved by over 70% through small-group collaborative activities.",
+    "Attention decline intervals during 90-minute classes can be improved three or more times using activity transition techniques."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7583-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Pre-Service Teacher Capacity Building for Sustainable Electrochemistry",
+  "context": {
+    "prior_knowledge": "Understanding of basic chemistry and physics concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explaining fundamental principles of electrochemistry (electrodes, electrolytes, oxidation-reduction reactions, etc.) with over 80% accuracy",
+    "Designing and executing at least three electrochemistry experiment procedures using the Lectrofun 2.0 lab kit",
+    "Developing an electrochemistry experiment module considering eco-friendly materials and recyclable resources, and proposing implementation strategies for educational settings"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0333",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Instructional Design Strategy Based on SWOT Analysis of LMS Adoption at an Iranian Medical School",
+  "context": {
+    "prior_knowledge": "Basic understanding of educational technology and general concepts of LMS (Learning Management Systems)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A program analyzing LMS implementation cases for pre-service/in-service mathematics teachers in digital device environments to strengthen instructional design capabilities",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify SWOT analysis factors to consider when introducing an LMS with over 80% accuracy.",
+    "Learners can specify at least three concrete strengths and weaknesses of an LMS in a given scenario.",
+    "Based on analysis results, learners can propose at least two applicable strategies for LMS-based math education design."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "SWOT analysis casebook",
+      "LMS feature comparison chart",
+      "Qualitative analysis template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

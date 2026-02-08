@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0962",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Cognitive Radio System Performance Analysis and Foundations of Deep Learning Modeling",
+  "context": {
+    "prior_knowledge": "Elementary wireless communication principles and mathematical foundations (algebra, probability)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners operate in smartphone-based constrained technology environments, with access to computational tools (simple online calculators, etc.) for real-world problem-solving",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles of cognitive radio systems and NOMA (Non-Orthogonal Multiple Access) technical architecture.",
+    "Learners can simulate system performance (outage probability, throughput) using deep learning-based predictive models.",
+    "Learners can comparatively analyze power constraints and interference management strategies considering real communication environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-Source Learning Platform (e.g., Google Colab)",
+      "Mobile-Compatible Visualization Tool",
+      "Basic Communication Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

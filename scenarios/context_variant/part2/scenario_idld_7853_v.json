@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7853-V",
+  "variant_type": "context_variant",
+  "title": "Gamification-Based MOOC Self-Regulated Learning Design",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Self-directed learning enhancement program utilizing gamification elements in smartphone-centric resource-constrained environments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply self-regulated learning strategies to MOOC environments with over 80% accuracy",
+    "Learners can achieve over 70% weekly learning plan fulfillment rates through gamification mission completion rates",
+    "Learners can revise their learning strategies at least twice based on peer assessment feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Optimized LMS",
+      "Gamification Templates",
+      "Formative Assessment Item Bank",
+      "Learner Analytics Toolkit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

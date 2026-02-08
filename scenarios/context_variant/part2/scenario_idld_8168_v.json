@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8168-V",
+  "variant_type": "context_variant",
+  "title": "Cognitive Apprenticeship Model-Based Intensive Short-Term Course for Media and Information Literacy",
+  "context": {
+    "prior_knowledge": "Basic Digital Device Proficiency and General Awareness of Social Issues",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Emphasis on Practical Information Literacy Skills Optimized for Mobile Environments for Pre-Service/In-Service Teachers",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Distinguish fake news from credible information using at least four information evaluation tools",
+    "Produce a 2-minute smart device video analyzing algorithm bias cases and explaining their societal impact",
+    "Critically evaluate information bias by comparatively analyzing three recent news articles on climate change"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Educational Platform",
+      "News analysis template",
+      "Information verification checklist",
+      "Short video production guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

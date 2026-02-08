@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8044",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Course for Foundational Emergency Medicine Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Basic Medical Knowledge (Anatomy, Physiology, Pathology) and Clinical Practice Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A standardized emergency care competency development program for non-emergency medicine graduates aspiring to work in emergency departments, structured as 10–15-minute mobile-based modular learning",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply systematic initial assessment protocols for key symptoms (dyspnea, chest pain, altered mental status, etc.) in emergency department settings",
+    "In emergency situations, learners can demonstrate team leadership based on ACLS (Advanced Cardiac Life Support) guidelines",
+    "Learners can perform primary and secondary surveys according to ATLS (Advanced Trauma Life Support) principles when managing trauma patients"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile learning app platform",
+      "Virtual simulation scenario database",
+      "Emergency medicine expert video lectures",
+      "Real-time video mentoring system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

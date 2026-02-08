@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5539-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Competency: Integrated Lecture and Practical Training for Vaccination Clinic Operations",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and general knowledge of pharmacist/healthcare assistant roles",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain administrative procedures of vaccination clinics (patient registration, appointment management, insurance claims, etc.)",
+    "Learners can apply role allocation and staff management methods in vaccination clinics through practical simulations",
+    "Learners can accurately recall and execute Standard Operating Procedures (SOPs) for vaccine storage, administration, and disposal at 80% or higher accuracy through mobile learning modules"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

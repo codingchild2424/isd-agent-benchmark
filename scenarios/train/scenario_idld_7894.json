@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7894",
+  "variant_type": "idld_aligned",
+  "title": "Cognitive Load Theory-Based Introductory Programming Project Course",
+  "context": {
+    "prior_knowledge": "Basic computer application skills and logical thinking competencies",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducted in digital device (laptop/tablet)-provided environments, teams perform programming projects addressing social issues.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Participants can independently complete three or more mini-projects using basic syntax (conditional statements, loops, functions) in Python-based programming environments",
+    "Participants can establish step-by-step problem-solving strategies by decomposing complex problems through phased learning designs based on cognitive load theory",
+    "Participants can upload team project deliverables to GitHub and create five-minute presentation materials to address peer evaluations and expert feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Programming education IDEs (Thonny, Replit)",
+      "Block-based coding tool (Scratch Jr)",
+      "Open datasets for social issue resolution"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

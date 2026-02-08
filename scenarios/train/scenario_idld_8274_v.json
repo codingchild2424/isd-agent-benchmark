@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8274-V",
+  "variant_type": "context_variant",
+  "title": "Blended EAP Short-Term Course for Strengthening Collaborative Academic Writing Competencies",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-degree educational program for mathematics domain managers/leaders, conducted in a smartphone-centric limited-technology environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Collaborating with peers, learners can draft an outline for a mathematical academic document with over 80% completeness.",
+    "By analyzing Automated Writing Evaluation (AWE) feedback at least three times, learners can propose two or more improvements during peer review.",
+    "Using online collaboration tools, learners can complete group draft revisions of academic papers with over 90% participation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS System",
+      "AWE Integrated Writing Platform",
+      "Collaborative document editing tool",
+      "Sample Academic Writing Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

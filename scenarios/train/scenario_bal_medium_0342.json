@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0342",
+  "variant_type": "balance_medium_scale",
+  "title": "Simulation/VR-Based MOOC Mathematics Learning Course Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and digital device utilization skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Implementation of a customized MOOC math learning environment for mid-level professionals in medical/legal/technical fields through real-time interaction and qualitative observational research",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Apply mathematical problem-solving strategies with 80% accuracy in simulated environments",
+    "Utilize VR-based tools to represent complex mathematical concepts visually and spatially",
+    "Document qualitative observational journals of their learning process at least twice weekly based on peer feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset and Motion Tracking Equipment",
+      "Real-Time Video Conferencing System",
+      "LMS (Learning Management System) integrated platforms"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

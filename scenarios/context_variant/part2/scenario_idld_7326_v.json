@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7326-V",
+  "variant_type": "context_variant",
+  "title": "Ballot Design and Invalid Vote Reduction Strategies: Behavioral Economics-Based Experimental Education",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Combined smartphone-based mobile learning with small-group workshops, emphasizing experimental activities simulating real election experiences",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Analyze the impact of ballot design elements (font, layout, instructional phrases, etc.) on invalid vote rates",
+    "Design an educational voting simulation tool applying behavioral economics principles to reduce learner error rates by 30% or more",
+    "Write an experimental report deriving optimal voting guidance strategies using A/B testing methodologies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible simulation tool",
+      "Ballot Design Template Set",
+      "Behavioral Economics Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

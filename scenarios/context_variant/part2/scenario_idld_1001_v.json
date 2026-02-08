@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1001-V",
+  "variant_type": "context_variant",
+  "title": "Informational Education Design Based on Automatic Composition Models for Ethnic Instrument Music Education",
+  "context": {
+    "prior_knowledge": "Basic instrumental performance skills, digital device proficiency, and foundational understanding of music theory",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Corporate cultural arts leadership development program. Cultivates creative expression by combining ethnic instrument performance with digital technology",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform ethnic musical instrument playing techniques in a VR simulation environment with over 80% accuracy",
+    "Learners can generate at least three melodic variations for ethnic instrument compositions using an automated composition model",
+    "Learners can complete at least one digital composition incorporating ethnic music elements through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MIDI dataset",
+      "Signal Processing Software",
+      "Deep learning composition model",
+      "VR instrument simulation equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

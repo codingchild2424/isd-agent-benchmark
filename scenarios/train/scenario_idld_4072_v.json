@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4072-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Foliation Structure Learning Module for Understanding Geological Structures",
+  "context": {
+    "prior_knowledge": "Comprehension of fundamental geology terminology and knowledge of rock classification",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the formation process of foliation structures and metamorphic conditions with over 80% accuracy.",
+    "Learners can identify and correct commonly occurring foliation-related erroneous terminology in literature with over 75% accuracy.",
+    "Learners can describe a three-or-more-step procedure for creating geological maps using the relationship between bedding and foliation by analyzing virtual field cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

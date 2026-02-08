@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3045",
+  "variant_type": "idld_aligned",
+  "title": "Designing Science Teaching Methods Using Service-Oriented Virtual Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic online education tool proficiency and experience in teaching science subjects",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Course enhancing pre-service and in-service teachers’ competency in designing personalized science lessons through service-based virtual learning environment construction",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Design a virtual learning environment based on Service-Oriented Architecture (SOA) principles with over 80% accuracy",
+    "Develop three or more customized learning activities for science curricula using web service workflows",
+    "Implement interoperability between learning tools by applying API integration and authentication technologies (e.g., Shibboleth)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "OSS-Based Educational Tool",
+      "Cloud Hosting Service",
+      "3D Virtual Environment Sample Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

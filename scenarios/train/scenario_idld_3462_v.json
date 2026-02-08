@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3462-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Artificial Intelligence Practical Competencies: Web-Based Learning Service Access Design: Practical",
+  "context": {
+    "prior_knowledge": "Basic digital device operation skills and understanding of elementary mathematics concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can systematically manage mathematical problem-solving data using ReST architecture-based web services",
+    "Learners can design and implement collaborative mathematical inquiry activities using digital tools such as wikis",
+    "Learners can generate various mathematical representations (graphs, tables, diagrams) through web-based learning service approaches"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

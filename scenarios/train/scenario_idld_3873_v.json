@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3873-V",
+  "variant_type": "context_variant",
+  "title": "Introduction to Network Security: Understanding Intrusion Detection Systems",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A basic security education course for digitally underserved populations, focusing on network threats in daily life and simple response methods",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can distinguish at least three common types of basic network attacks (e.g., phishing, malware) that may occur in daily life",
+    "After listening to explanations of intrusion detection system (IDS) principles and security functions, learners can describe at least five key terms (e.g., firewall, real-time detection)",
+    "Learners can apply and execute at least three simple security practices (e.g., verifying suspicious links, regular updates) in smartphone environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized educational materials (PDF/images)",
+      "Simple Quiz Platform",
+      "Security-related video content (YouTube, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

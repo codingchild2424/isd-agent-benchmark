@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3103-V",
+  "variant_type": "context_variant",
+  "title": "Programming Learning Design for Enhancing Debugging Competencies",
+  "context": {
+    "prior_knowledge": "Basic programming syntax and algorithm comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Program for professional learners to acquire workplace-applicable debugging skills, featuring personalized device usage and flexible scheduling aligned with individual biorhythms",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can diagnose the root cause of problems in given error scenarios with 80% accuracy within three attempts.",
+    "Learners can analyze eye-tracking data to explain cognitive load patterns occurring during their debugging process.",
+    "Learners can achieve a self-assessment score of at least 4.5/5 on average across five real-case debugging activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE Log Analysis Tools",
+      "Biometric Data Collection Equipment",
+      "Real-time feedback system",
+      "Case-Based Question Bank"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

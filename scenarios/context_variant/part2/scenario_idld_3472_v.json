@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3472-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Data Science Competencies: Advanced Music Theory Learning Using Multimodal Design",
+  "context": {
+    "prior_knowledge": "Basic understanding of musical scales, rhythm, and harmony theory",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify chord structures through music score analysis with over 80% accuracy",
+    "Learners can reproduce 4/4 and 3/4 time signature patterns using audio tools in sync with given rhythms",
+    "Learners can write a project report applying music theory to professional contexts (e.g., using music for patient therapy)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

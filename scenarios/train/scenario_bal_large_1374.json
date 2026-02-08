@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1374",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Science Knowledge Sharing and Collaborative Projects in Smart Learning Environments",
+  "context": {
+    "prior_knowledge": "Basic smartphone usage skills and secondary-level foundational science knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners use smartphones as primary learning tools, participate in location-based scientific data collection and collaborative activities. They share science knowledge linked to local environmental issues and apply it to real-life problem-solving",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can collect and share local scientific data (weather, environmental, etc.) using smart devices (smartphones).",
+    "Learners can design science problem-solving projects with peer learners using online collaboration tools.",
+    "Learners can explore and utilize personalized and location-based scientific knowledge to propose solutions for real-life problems (e.g., regional climate change)."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Zoom Account",
+      "Google Docs/Sheets collaboration tools",
+      "Scientific data collection apps (e.g., OpenStreetMap, iNaturalist)",
+      "Science-related open datasets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

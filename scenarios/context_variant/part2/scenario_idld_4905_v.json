@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4905-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Skills: Artificial Neural Network-Based Optical Encoder Design and Applications",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Backpropagation algorithms in multilayer artificial neural networks can be applied to process phase shift data from optical encoders",
+    "A vector neural network model that receives optical polarization information can be designed, with a training method implemented to minimize angular measurement errors from 0° to 360° within 0.5°",
+    "An experimental protocol can be developed to evaluate neural network robustness in noisy environments using simulation tools (MATLAB/Python)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

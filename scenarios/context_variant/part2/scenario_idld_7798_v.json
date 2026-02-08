@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7798-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Collaborative Learning-Based Fundamental Anatomy Education Course",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Human Anatomy and Fundamental Knowledge of Medical Terminology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Over 85% of learners can accurately explain core terminology related to liver structure and function.",
+    "Through team projects, anatomical features of the liver can be recreated using 3D modeling.",
+    "Reflective reports combining peer and self-assessment can be produced through collaborative learning activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

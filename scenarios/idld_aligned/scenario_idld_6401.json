@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6401",
+  "variant_type": "idld_aligned",
+  "title": "AI-Based Real-Time Classroom Interaction Analysis and Optimization Strategies",
+  "context": {
+    "prior_knowledge": "Theoretical foundations in mathematics education and Project-Based Learning (PBL) experience, basic understanding of AI technology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Real-time interaction data analysis using AI tools in BYOD environments and improvement of instructional strategies",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can classify classroom interaction patterns (student-teacher, student-student, student-object, and no interaction) with over 90% accuracy using an AI-based interaction tracking system.",
+    "Learners can analyze real-time interaction data and adjust immediate instructional strategies at least three times during a lesson.",
+    "Learners can propose at least one improvement plan for PBL (Problem-Based Learning) activity design based on one week of interaction logs."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "YOLOv8-based Interactive Detection Model",
+      "Real-time Data Visualization Tool",
+      "Anonymized Interaction Dataset",
+      "PBL (Project-Based Learning) Activity Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

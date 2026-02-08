@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0456",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Learner-Centered Foundational Java Programming Course",
+  "context": {
+    "prior_knowledge": "Fundamental programming concepts and ability to construct simple logic",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Self-directed learning environment using personal devices (tablets/laptops), combining offline mentoring sessions with online self-paced activities",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "When solving programming problems, learners can independently design their learning pathways with 80% or higher autonomy.",
+    "Learners demonstrate self-directed error-correction capabilities at 75% or higher in formative assessments.",
+    "Learners complete three or more mini-projects using basic Java syntax (variables, conditionals, loops)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Management System (LMS)",
+      "Open-Source Programming Platform (e.g., Replit)",
+      "Digital Learning Guidelines",
+      "Learning progress tracking dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

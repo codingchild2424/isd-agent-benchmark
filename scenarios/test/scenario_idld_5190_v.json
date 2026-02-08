@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5190-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Skills: Online Collaborative Learning for Language Proficiency Improvement",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and intermediate-level language proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners improve linguistic expressiveness by over 20% through the process of exchanging peer feedback in online discussions",
+    "Learners can proactively lead group meetings at least twice a week in a 3-person team project using mobile collaboration tools such as Figma, Notion, and Slack, create a role division plan signed by at least two out of three team members, and achieve a score of 4 or higher (on a 5-point scale) in at least four out of five peer evaluation rubric items after project completion.",
+    "Learners propose three strategies to address participation disparity issues in asynchronous interactions"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

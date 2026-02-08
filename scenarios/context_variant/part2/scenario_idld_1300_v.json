@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1300-V",
+  "variant_type": "context_variant",
+  "title": "Machine Learning Practical Skills Enhancement: STEM-PjBL Integration for Strengthening Chemistry 4C Competencies",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can produce project outcomes applying 4C competencies (critical thinking, creativity, communication, collaboration) to solve real chemistry problems.",
+    "Learners can design chemistry experiments integrating STEM elements (science-technology-engineering-mathematics) and convert them into reports and presentation materials.",
+    "Through peer assessment during team-based project implementation, learners can reflectively document their learning outcomes at least three times."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

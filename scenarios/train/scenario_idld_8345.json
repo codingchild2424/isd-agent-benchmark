@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8345",
+  "variant_type": "idld_aligned",
+  "title": "Intensive Care Unit Bronchoscopy Simulation Training Program",
+  "context": {
+    "prior_knowledge": "Basic respiratory anatomy and critical care nursing knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Provision of practical training environments utilizing medical simulation equipment and virtual reality (VR) platforms",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Participants can explain bronchoscopy procedures step-by-step in an intensive care unit environment",
+    "Participants perform bronchoscope insertion and airway structure verification with 80% accuracy using simulation equipment",
+    "Participants identify possible complications (e.g., bleeding, airway injury) during procedures and document appropriate response protocols"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Fidelity Bronchoscopy Simulator",
+      "VR-Based Medical Training Software",
+      "Real-time video conferencing systems"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6356-V",
+  "variant_type": "context_variant",
+  "title": "Clinical Practice Competency Enhancement: Customized Microlearning Design Based on Mathematical Learning Behavior Patterns",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify and explain at least four math learning behavior patterns (e.g., synchronized, avoidance-oriented, etc.)",
+    "Learners can evaluate PISA research-based behavioral traits (success expectancy, value perception, environmental support) with 80% accuracy",
+    "Learners can design at least two personalized learning strategies by analyzing their own behavior patterns",
+    "Learners complete 5-minute microlearning modules in mobile environments with a 90%+ completion rate"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

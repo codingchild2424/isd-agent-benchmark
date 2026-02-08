@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5123-V",
+  "variant_type": "context_variant",
+  "title": "Object-Based Support Framework for Reusing Learning Design Knowledge",
+  "context": {
+    "prior_knowledge": "Basic Social Studies Learning Experience and Digital Tool Utilization Skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Social studies education for office/administrative professionals, featuring project-based assessment in BYOD environments with simulation/VR learning settings",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners understand the online lecture design process for social studies courses by 80% or more using learning design objects",
+    "Learners generate three types of educational scenarios (discussion/simulation/collaboration) by applying a learning design knowledge reuse framework",
+    "Learners develop and evaluate at least one VR simulation for analyzing real-world social phenomena through team-based projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Design Object Repository",
+      "VR simulation authoring tool",
+      "BYOD-compatible learning management system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

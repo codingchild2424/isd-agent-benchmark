@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8220",
+  "variant_type": "idld_aligned",
+  "title": "Language Education Competency Enhancement Through Customized Bimodal MOOC Design",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and foundational language learning skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Intensive online course for novice professionals in medical/legal/technical fields to strengthen language competencies. Digital devices are provided, combining personalized dual-layer MOOC design with individualized learning paths and real-time interaction",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Using a personalized dual-layer MOOC structure, learners can achieve over 80% of self-directed language learning goals within 10 hours per week",
+    "Through real-time online sessions, learners demonstrate over 90% participation in collaborative activities with peers and instructors",
+    "Learners score over 75 points (out of 100) on assignments evaluating language application skills in summative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account",
+      "LMS System",
+      "Digital Learning Materials",
+      "Customizable Learning Platform Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

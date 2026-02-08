@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2619",
+  "variant_type": "idld_aligned",
+  "title": "Formative Assessment Design and Feedback Strategies in Technology-Enhanced Learning Platforms",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and proficiency in utilizing mobile devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Short-term intensive course for in-service professionals, emphasizing feedback based on formative assessment data in a mobile-based microlearning environment.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify formative assessment participation patterns with over 80% accuracy by analyzing learning platform log data.",
+    "Learners can design personalized feedback using five core variables (response time, frequency of error correction, login frequency, etc.) extracted from learning analytics (LA) tools.",
+    "Learners can diagnose individualized learning strategies (e.g., active recall, spaced learning) based on formative assessment results and incorporate them into instructional design."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Canvas platform log data",
+      "Learning Analytics Visualization Tool",
+      "Mobile-compatible quiz template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

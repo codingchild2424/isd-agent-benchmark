@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3259-V",
+  "variant_type": "context_variant",
+  "title": "Web Development Practical Competency Enhancement: Personalized Nutrition Education: Intensive Short-Term Online Course",
+  "context": {
+    "prior_knowledge": "Foundational Nutrition Concepts and Basic Food Composition Knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can create personalized nutrition plans tailored to their individual health status",
+    "Learners can write food label analysis and evaluation reports based on nutritional concepts",
+    "Learners can design and present nutrition education projects for community health promotion"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

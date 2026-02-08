@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5884",
+  "variant_type": "idld_aligned",
+  "title": "Integrated Knowledge Construction for Vocational Education: Mobile-Based Peer-Assisted Learning",
+  "context": {
+    "prior_knowledge": "Foundational workplace experience or understanding of basic language education concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Vocational language education conducted in a smartphone-centric limited-technology environment, focusing on integrating field experience and theoretical knowledge in a short-term program",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can interact with peers via a mobile platform to describe in writing situations experienced in professional settings.",
+    "Learners can provide at least three specific and practical feedbacks on peers' written work.",
+    "Learners can enhance integrated language proficiency by revising and improving their writing based on feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Job-Situation Templates",
+      "Feedback Guidelines",
+      "Sample Materials (Sample Texts/Feedback)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

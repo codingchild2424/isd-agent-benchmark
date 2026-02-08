@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8134-V",
+  "variant_type": "context_variant",
+  "title": "Designing Online Discussion Assessments Using Generative AI",
+  "context": {
+    "prior_knowledge": "Experience in online discussions, basic use of generative AI, and foundational language analysis skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Research on online discussion evaluation methods using generative AI for large-scale learners in PBL environments at vocational training institutions",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze the achievement of learning objectives in online discussions with over 80% accuracy using generative AI",
+    "Learners can distinguish and explain at least three differences between AI coding results and subjective human evaluations.",
+    "Learners can design a hybrid assessment model (human+AI) to provide comprehensive feedback on discussion outcomes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "API-Accessible LLM Tool",
+      "Online Discussion Platform",
+      "Data Analysis Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

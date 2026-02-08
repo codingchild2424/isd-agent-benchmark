@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2632",
+  "variant_type": "idld_aligned",
+  "title": "Web-Based Computer Science Laboratory Education: FTP Network Service Practical Training",
+  "context": {
+    "prior_knowledge": "Basics of computer networking, understanding of file management systems, and fundamental programming concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Intermediate-level computer science education program for corporate retraining, operating a practice-centered formative assessment system",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain basic operating principles of FTP protocol and apply them to actual file transfer scenarios",
+    "Construct FTP sessions directly and analyze command execution results using Java-based experimental tools",
+    "Identify error conditions in network services and propose troubleshooting procedures"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Device for Practice (Laptop)",
+      "FTP Server Simulation Software",
+      "Java Development Kit",
+      "Laboratory Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

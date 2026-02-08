@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0415-V",
+  "variant_type": "context_variant",
+  "title": "Structured Programming Project Learning Based on Smartphones",
+  "context": {
+    "prior_knowledge": "Basic understanding of programming concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A practice-oriented training course for working professionals, structured for smartphone-only accessibility.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can complete three or more practical projects by applying structured programming design principles",
+    "Learners cultivate collaborative skills by participating in peer feedback at least twice weekly using mobile learning tools",
+    "Learners achieve an average score of 80% or higher in staged quiz assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "J2ME-Based Mobile Learning Tool",
+      "XML-Based Quiz Content",
+      "Smartphone-Compatible Development Environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

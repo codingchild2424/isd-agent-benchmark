@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3859-V",
+  "variant_type": "context_variant",
+  "title": "Intermediate Mobile-Based Social Studies e-Learning Design Course",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aimed at strengthening the capacity to design efficient online social studies learning in environments where content is accessible only via smartphones, cultivating the ability to apply practical educational settings through project-based assessments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can create design documents for six or more microlearning modules suitable for mobile environments",
+    "Learners can establish a learning effectiveness evaluation system using mixed research methods (quantitative + qualitative)",
+    "Learners can produce three types of interactive digital learning materials (quizzes, infographics, scenarios) for social studies subjects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Authoring Tool",
+      "Open-Source Learning Management System (LMS)",
+      "University E-Learning Case Analysis Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

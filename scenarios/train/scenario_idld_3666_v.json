@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3666-V",
+  "variant_type": "context_variant",
+  "title": "Online Intensive Workshop on Environmental Health Mathematical Modeling for Strengthening Practitioner Competencies",
+  "context": {
+    "prior_knowledge": "Foundational environmental health concepts, practical experience, and high school-level mathematics knowledge (statistics, graph interpretation, basic equation comprehension)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Provides mobile-optimized content to strengthen job relevance for current practitioners, with a hands-on design emphasizing mathematical modeling (probability, statistics, data analysis) in environmental health.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners explain at least three quantitative analysis methods using probability distributions and statistical models when assessing exposure to hazardous materials in industrial settings.",
+    "Learners design community environmental risk communication strategies based on mobile scenarios and express graphs and analysis results using data visualization tools.",
+    "Learners perform exposure assessment modeling practice using digital tools (e.g., calculation software) accessible via smartphones and interpret equation-based results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Smartphone-Compatible Quiz Generator",
+      "PDF-Based Offline Learning Materials",
+      "Audio Lecture Files"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

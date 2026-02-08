@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1006",
+  "variant_type": "balance_teen_filtered",
+  "title": "Case-Based Learning Course for Fostering Creative and Critical Thinking in [K-12] Engineering Undergraduates",
+  "context": {
+    "prior_knowledge": "Foundational engineering concepts and experience solving social issues",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Strengthening real-life problem-solving skills through engineering case analysis for general citizens.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can write case study reports analyzing social issues from an engineering perspective with over 80% accuracy.",
+    "Learners can present and logically justify creative alternatives at least three times in team-based case discussions.",
+    "Learners can create critical evaluation checklists for over five case studies provided through a mobile platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Social Issue Engineering Case Database",
+      "Digital Collaboration Tools (e.g., Padlet)",
+      "Case Analysis Template (PDF/Google Docs)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

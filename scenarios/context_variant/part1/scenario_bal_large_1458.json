@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-1458",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Technology-Enhanced Learning (TEL) Design and Implementation for Real-World Application",
+  "context": {
+    "prior_knowledge": "Understanding of elementary mathematical concepts and basic smartphone operation skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Cultivation of mathematical problem-solving skills using smartphone-based VR simulations in limited technological environments (no PC ownership). Gradual technology adoption considering practical applicability in educational settings",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can mathematically model real-life problems (e.g., financial calculations, spatial measurements) using smartphone-based VR simulation tools.",
+    "Learners can apply complex mathematical concepts through collaborative problem-solving in technology-enhanced learning environments.",
+    "Learners can establish criteria to evaluate the practical applicability of TEL (Technology-Enhanced Learning) tools in resource-constrained technological environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Headset",
+      "Low-Spec VR Content Library",
+      "Offline-Synchronizable LMS System",
+      "Teacher's TEL (Technology-Enhanced Learning) Tool Integration Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

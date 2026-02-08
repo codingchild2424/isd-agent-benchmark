@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7698-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Student-Led Metacognitive Enhancement in Online Learning Environments",
+  "context": {
+    "prior_knowledge": "Experience in online discussion participation and advanced language learning expertise",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze discussion topics by utilizing metacognitive knowledge (awareness of cognitive processes) in online debates.",
+    "Learners can evaluate and adjust argument structures by applying self-monitoring strategies during discussions.",
+    "Learners can demonstrate metacognitive regulation skills during collaborative meaning-making processes with peers over one week, submit a collaboration journal (three entries) reflecting at least three instances of feedback acceptance and two strategy revisions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

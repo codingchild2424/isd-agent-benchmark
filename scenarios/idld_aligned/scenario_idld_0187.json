@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0187",
+  "variant_type": "idld_aligned",
+  "title": "Machine Learning and Optimization Techniques for Designing Lead-Free Piezoelectric Ceramics",
+  "context": {
+    "prior_knowledge": "Solid-State Physics, Basic Materials Science, Introduction to Machine Learning, and Statistical Modeling",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Real-time visualization of piezoelectric materials' electromechanical properties in a VR environment, with a project to develop personalized optimization algorithms based on BYOD",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can build and validate an MLPR model to predict the dielectric constant (ε′) and dielectric loss (tan δ) of piezoelectric ceramics.",
+    "Students can derive Pareto-optimal points that simultaneously maximize ε′ and minimize tan δ using the NSGA-II algorithm.",
+    "Learners can quantitatively analyze the impact of CaTiO3 concentration (x% Ca), frequency, and temperature variables on piezoelectric properties."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Machine Learning Libraries (TensorFlow, scikit-learn)",
+      "Piezoelectric Material Database and Simulation Tool",
+      "VR-Based Virtual Laboratory Platform",
+      "Distributed Computing Resources (for Optimization Algorithm Execution)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

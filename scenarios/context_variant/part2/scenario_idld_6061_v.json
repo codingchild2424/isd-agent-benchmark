@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6061-V",
+  "variant_type": "context_variant",
+  "title": "Bloom’s Taxonomy-Based Decision Support System (DSS) Design and Application",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "An online course designed for practitioners, focusing on real-time data analysis and project implementation using personal devices.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the DSS design process according to Bloom's Taxonomy of Educational Objectives (6 levels: Remember-Understand-Apply-Analyze-Evaluate-Create).",
+    "Learners can develop a DSS prototype applicable to real-world business problems by integrating spreadsheets and programming languages.",
+    "Learners can establish evaluation criteria and analyze system performance in data-driven decision-making scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Spreadsheet Software (Excel, etc.)",
+      "Programming Tools (VBA/Python, etc.)",
+      "DSS Case Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

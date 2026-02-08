@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0018",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-directed] Immersive Virtual Reality Learning Program for Preoperative Nursing Procedure Education",
+  "context": {
+    "prior_knowledge": "Understanding of basic operating room environments and familiarity with patient safety protocols",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A re-education program for current professionals, featuring VR practical training followed by case application and feedback in offline workshops",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform pre-operative nursing procedures (infection control, equipment preparation, patient positioning) with 80% accuracy using hand-gesture recognition in an IVRLE environment",
+    "Learners can achieve scores of 4.0/5.0 or higher in VR simulation evaluation surveys across learning confidence, attitude, and knowledge acquisition categories",
+    "Learners can replicate procedures acquired in VR in actual clinical settings with over 70% accuracy within three blended learning sessions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IVRLE Software License",
+      "VR Headsets (10 Sets)",
+      "Operating Room Simulation 3D Model",
+      "Learning Progress Monitoring Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

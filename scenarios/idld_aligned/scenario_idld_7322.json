@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7322",
+  "variant_type": "idld_aligned",
+  "title": "Project-Based Learning Course for Cultivating Digital Literacy in Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and understanding of secondary education curricula",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project execution based on learners’ BYOD (Bring Your Own Device) environments and collaborative tools.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Preservice teachers can produce 10-minute social studies lesson materials by applying principles of instructional design for digital literacy (e.g., PPT structuring techniques).",
+    "Preservice teachers can design digital textbooks integrating three core concepts of social studies units using multimedia tools (videos, interactive elements, etc.).",
+    "Preservice teachers can record a 5-minute micro-lecture in a VR simulation environment and derive three improvement strategies through learner engagement analysis."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "PPT creation templates and sample resources",
+      "Multimedia production software (Canva, Adobe Spark, etc.)",
+      "VR lecture recording and analytics platform",
+      "Social studies standard curriculum-linked materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

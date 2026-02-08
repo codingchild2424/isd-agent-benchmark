@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0990",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Monitoring Mathematics Learning Progress Using LMS-Based Learning Analytics",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental mathematics concepts and basic LMS (Learning Management System) usage",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Analytically tracking the process of solving mathematical problems in a VR simulation environment integrated with a Learning Management System (LMS)",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can diagnose individual student progress status with over 80% accuracy by analyzing learning data.",
+    "Learning Management System (LMS) analytics tools can identify students with low engagement within 48 hours",
+    "Customized learning feedback reports can be generated based on learning pattern data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Standardized LMS Platform",
+      "Learning Analytics Dashboard",
+      "VR math simulation content",
+      "Learning Outcome Metrics Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

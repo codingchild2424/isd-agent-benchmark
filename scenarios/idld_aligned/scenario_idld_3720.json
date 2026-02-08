@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3720",
+  "variant_type": "idld_aligned",
+  "title": "Social Task Simulation Instructional Design Based on Bloom's Cognitive Taxonomy",
+  "context": {
+    "prior_knowledge": "Secondary education-level foundational sociology knowledge and job experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized training for workplace professionals to enhance social sector job competencies",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design job simulation scenarios by utilizing Bloom's revised taxonomy six cognitive levels (Remember-Understand-Apply-Analyze-Evaluate-Create).",
+    "Learners can demonstrate decision-making processes applying higher-order thinking skills (Analyze-Evaluate-Create) through social conflict resolution simulations in VR environments.",
+    "Learners can verify whether designed instructional scenarios reflect diverse cognitive levels of Bloom's taxonomy through peer assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment",
+      "Case Study Database",
+      "Generative AI Tools",
+      "Simulation Authoring Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

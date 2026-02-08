@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0139",
+  "variant_type": "balance_large_scale",
+  "title": "Short-Term Mobile-Based Scientific Literacy Development Program (Large-Scale)",
+  "context": {
+    "prior_knowledge": "Foundational science knowledge (chemistry, physics, etc.)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Job-integrated training conducted in smartphone-based constrained environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain five core concepts of the Nature of Science (NOS) through the Mobile-NOS model with over 80% accuracy.",
+    "Learners can demonstrate critical thinking skills by simulating scientific inquiry processes in mobile environments.",
+    "Learners can propose scientific literacy application possibilities with over 70% accuracy by analyzing real workplace cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "NOS Assessment Questionnaire",
+      "Mobile-Optimized Content (Videos/Quizzes)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

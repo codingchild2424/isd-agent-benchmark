@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4756",
+  "variant_type": "idld_aligned",
+  "title": "Deep Neural Network-Based Optimization Design for Improving Collaborative NOMA System Security Performance",
+  "context": {
+    "prior_knowledge": "Fundamental communication theory, linear algebra, probability theory, and basic Python programming",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Need for mobile-optimized content to accommodate smartphone-based learning environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can mathematically model antenna-user selection strategies to enhance security performance in cooperative NOMA systems",
+    "Learners can design algorithms to optimize power allocation coefficients and transmission power using deep neural networks (DNN)",
+    "Learners can derive analytical expressions for the secrecy outage probability (SOP) and apply them to system performance analysis"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Google Colab Notebook",
+      "Mobile-Friendly Lecture Slides",
+      "Python-Based Simulation Toolkit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

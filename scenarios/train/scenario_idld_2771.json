@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2771",
+  "variant_type": "idld_aligned",
+  "title": "Cybersecurity Game-Based Microlearning: Defense Strategy Training Using the iMonsters Board Game",
+  "context": {
+    "prior_knowledge": "Basic understanding of network fundamentals, types of malware, and security protocols",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Modular learning design for pre-service/in-service teachers to experience cybersecurity trends via game mechanics, accessible through mobile devices.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Perform simulations by applying at least three defense strategies in game scenarios modeled after real cyberattack cases.",
+    "Identify and explain response procedures for at least five latest security vulnerabilities through ontology-based game updates.",
+    "Evaluate collaborative problem-solving skills in team-based gameplay and incorporate peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Board Game Platform",
+      "Cybersecurity Case Database",
+      "Mobile App-Based Formative Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

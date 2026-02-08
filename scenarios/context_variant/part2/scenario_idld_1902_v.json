@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1902-V",
+  "variant_type": "context_variant",
+  "title": "Cyber Range-Based Training Program for Novice Cybersecurity Professionals",
+  "context": {
+    "prior_knowledge": "Basic IT knowledge (network/OS concepts)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Stepwise practical learning environment with continuous feedback through formative assessments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Through scenario-based CRX training, over 80% of learners can identify and respond to network intrusion incidents.",
+    "Step-by-step CRX training enables learners to explain complex security concepts with over 90% comprehension.",
+    "In team-based CRX performance assessments, over 75% of learners demonstrate collaborative problem-solving skills."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Security simulation software",
+      "Virtualized training platform",
+      "Case-Based Scenario Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

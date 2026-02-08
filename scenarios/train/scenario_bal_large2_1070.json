@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1070",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Optimized Design Process for Multi-IRS-Assisted MIMO-NOMA Networks",
+  "context": {
+    "prior_knowledge": "Basic Wireless Communication Concepts, Foundations of Linear Algebra, and Introduction to Optimization Theory",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-oriented training to solve real-world communication system optimization problems in industrial settings",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "An adaptive user pairing strategy can be designed to minimize inter-user interference in MIMO-NOMA systems within multi-IRS environments",
+    "A numerical analytical approach can be implemented to calculate precoding matrices and IRS phase shift values that maximize spectral efficiency under base station power constraints",
+    "A real-time optimization solution prediction model utilizing deep learning frameworks can be developed and validated through performance verification processes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MATLAB/SIMULINK License",
+      "Python-based deep learning environment",
+      "IRS channel simulation dataset",
+      "Cloud Computing Resources"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

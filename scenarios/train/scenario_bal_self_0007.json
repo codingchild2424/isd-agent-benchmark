@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-0007",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-directed] Language Learning Motivation Enhancement and Instructor Support Strategy Design for Adult Professional Learners",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and possession of job-related specialized knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Targeting professionals in medical, legal, and technical fields, the program emphasizes flexible mobile learning and developing language skills applicable to real-world tasks.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can diagnose and analyze their motivational profiles (academic self-concept, utility value) within 72 hours",
+    "Learners can apply at least two strategies influencing motivational change—selected from teacher support sub-elements (autonomy support, learning support, instructional design, error management)—in practical settings",
+    "Learners establish personalized learning plans reflecting motivational change patterns through project-based assessments and submit implementation results as reports"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Motivation profile diagnostic tool",
+      "Teacher support strategy workbook",
+      "Project Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

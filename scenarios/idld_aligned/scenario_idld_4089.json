@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4089",
+  "variant_type": "idld_aligned",
+  "title": "Mastering Droplet Microfluidics Design Using Reinforcement Learning",
+  "context": {
+    "prior_knowledge": "Elementary Fluid Mechanics and Programming Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhancing competency in integrated microfluidic device design for practical application",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can propose microfluidic network designs meeting specified functional requirements using reinforcement learning algorithms",
+    "Learners can simulate the implementation of an integrated chip design for complex tasks such as droplet alignment/sorting",
+    "Learners can derive optimized network structures compared to traditional genetic algorithms (GA) by applying RL-based decision-making processes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Microfluidics Simulation Software License",
+      "Python-Based Reinforcement Learning Framework",
+      "Droplet Behavior Visualization Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

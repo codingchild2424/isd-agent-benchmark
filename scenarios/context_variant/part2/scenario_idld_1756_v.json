@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1756-V",
+  "variant_type": "context_variant",
+  "title": "Virtual Classroom Instructional Design and Educational Effectiveness Analysis",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducting social studies-integrated projects in a digital device-enabled classroom environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can interpret trends in virtual classroom research using literature analysis and data mining techniques",
+    "Learners can propose strategies to enhance educational effectiveness in virtual classroom environments based on instructional design principles",
+    "Learners can develop teachable strategies applicable to real educational settings through project-based assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python Data Analysis Libraries",
+      "ERIC Database Access",
+      "Visualization Tools (e.g., Tableau)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1636-V",
+  "variant_type": "context_variant",
+  "title": "TPACK-Based Short-Intensive Course for Pre-Service Science Teachers: Integrated Instructional Design with Experiments, Hypotheses, and Variable Control",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge in science (experimental design, data analysis, scientific inquiry methods, variable control techniques) and practical teaching experience; requires the ability to collect and interpret scientific evidence",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "For mid-level science pre-service teachers from medical/legal/technical professions. Mobile device-based learning optimized for PC-unavailable environments. Emphasis on evidence-based approaches and measurable learning outcomes in science content delivery. All lesson designs must include scientific analysis procedures and conclusion-drawing processes.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design 15-minute mobile-friendly instructional materials incorporating TPACK components (technology-pedagogy-content knowledge) that include science experiment design, systematic observation, hypothesis verification, and variable control processes",
+    "Learners can analyze the characteristics of adult learners over 40 (basic science knowledge level, digital literacy) and design/implement a 5-minute microlearning prototype incorporating three or more interactive elements (quizzes, simulations, discussion forums). The content must reflect the scientific inquiry process and evidence-based approaches",
+    "Through self- and peer assessment based on TPACK evaluation rubrics, learners can derive improvements for science lesson design and present strategies for controlling variables in experiments following scientific analysis procedures."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-based authoring tools (e.g., Explee, Canva)",
+      "Science domain standard curriculum document",
+      "TPACK (Technological Pedagogical Content Knowledge) Assessment Rubric",
+      "Mobile-compatible LMS platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2973-V",
+  "variant_type": "context_variant",
+  "title": "Online Learning and Internet Information Utilization Strategies for Nurses",
+  "context": {
+    "prior_knowledge": "Basic knowledge of nursing and fundamental internet usage skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Mobile-optimized instructional design considering PC-unavailable environments.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will be able to evaluate reliable nursing-related online information using three or more criteria.",
+    "Learners will be able to search for evidence-based nursing practice materials in academic databases using only mobile devices.",
+    "Learners will be able to convert online health information suitable for patient education into two formats (infographics, videos)."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Open-Access Nursing Academic Database",
+      "Information Evaluation Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

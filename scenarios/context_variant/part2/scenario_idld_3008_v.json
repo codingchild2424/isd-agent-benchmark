@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3008-V",
+  "variant_type": "context_variant",
+  "title": "Designing a Semi-Supervised Learning-Based Transportation Mode Identification System",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learns to design federated learning-based transportation identification systems in smartphone-centric limited-technology environments, with emphasis on practical approaches considering personal information protection",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Explain the basic principles of semi-supervised and federated learning and apply them to real-world traffic data collection environments.",
+    "Design and evaluate a transportation mode identification model using limited labeled data.",
+    "A model learning process can be designed that considers personal information protection in smartphone-based data collection environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based Data Collection Tool",
+      "Basic Statistical Analysis Software",
+      "Simplified Federated Learning Simulation Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

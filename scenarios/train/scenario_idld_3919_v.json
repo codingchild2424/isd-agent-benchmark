@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3919-V",
+  "variant_type": "context_variant",
+  "title": "360° VR-Based Immersive Science Education Design and Implementation",
+  "context": {
+    "prior_knowledge": "Intermediate theoretical knowledge in the relevant scientific field and basic digital tool proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course for Medical/Legal/Technical Professionals to Create and Utilize 360° VR Content for Scientific Problem-Solving, Conducted in Environments Supported by Digital Devices (Tablets, VR Headsets, etc.)",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can create immersive content replicating scientific experiment processes using 360° VR production tools.",
+    "Learners can add interactive elements (questions, annotations) to VR content and structure it according to educational objectives.",
+    "Learners can apply 360° VR technology to real-world scientific problem-solving scenarios through PBL team activities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "360° Camera and VR Equipment Rental System",
+      "Cloud-Based VR Content Hosting Platform",
+      "Multilingual Subtitle Generation Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

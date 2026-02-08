@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0013",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Online Learning Mathematical Information Literacy Expansion Program",
+  "context": {
+    "prior_knowledge": "Basic smartphone usage and elementary-level mathematical knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aims to improve the ability to effectively search for and evaluate mathematics-related information in online learning environments. Mobile-optimized content delivery is essential, considering situations without PC access.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify and utilize at least three credible online information sources related to mathematics.",
+    "Learners can apply search strategies for solving mathematical problems on mobile devices and adapt them to practical tasks.",
+    "Learners can document the process of critically analyzing the credibility of information sources during project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-friendly LMS platform",
+      "Text-Based Learning Materials",
+      "Free Educational Video Links",
+      "SMS-Based Learning Notification System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

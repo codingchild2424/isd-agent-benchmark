@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1113",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Basic Life Support (BLS) Online Training: Blended Learning-Based Adult Education Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic first aid concepts and foundational human physiology knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Moodle platform integration with expert-verified content and practical simulation tools",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "In adult cardiac arrest situations, learners will accurately identify chest compression locations within 10 seconds.",
+    "According to BLS algorithms, learners will perform correct chest compressions consecutively for at least five cycles in 1 minute and 30 seconds.",
+    "Learners will explain automated external defibrillator (AED) usage procedures step-by-step and apply them practically within 3 minutes.",
+    "By achieving over 85% on online module assessments, learners will demonstrate mastery of core knowledge."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Moodle Learning Management System (LMS)",
+      "Virtual Reality (VR) Simulation Kit",
+      "BLS Training Manikin",
+      "Video Production Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

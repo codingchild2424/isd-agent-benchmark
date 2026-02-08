@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0139",
+  "variant_type": "balance_medium_last",
+  "title": "Emergency Airway Management Mastery Course",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and emergency response procedures",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Program providing systematic practical training and feedback based on cognitive load theory for learners at intermediate professional levels",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Execute core steps of emergency airway management protocols with over 90% accuracy",
+    "Select appropriate interventions within five minutes when complex airway situations occur in simulation environments",
+    "Demonstrate technical performance skills scoring 4.0 or above in OSCE evaluations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Fidelity Airway Management Simulator",
+      "Video Recording Equipment",
+      "Expert Rater Pool",
+      "Digital Devices (Tablet/Laptop)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

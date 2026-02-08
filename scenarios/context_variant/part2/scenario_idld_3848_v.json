@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3848-V",
+  "variant_type": "context_variant",
+  "title": "Cost Management Strategies for Online Learning Programs for Medical Professionals",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducting project-based assessments in offline classroom settings utilizing digital devices",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can classify and explain three or more cost components by e-learning development phase.",
+    "Learners can allocate budgets to virtual projects by applying budget estimation models for medical field e-learning production.",
+    "Learners can comparatively analyze the impact of diverse instructional methods (video, simulation, quizzes) on total development costs."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "E-Learning Authoring Tool",
+      "Medical Education Content Sample",
+      "Cost Estimation Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

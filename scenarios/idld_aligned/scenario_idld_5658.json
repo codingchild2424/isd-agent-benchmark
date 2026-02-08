@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5658",
+  "variant_type": "idld_aligned",
+  "title": "Self-Directed Foreign Language Learning Program Using Mobile Apps",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Foreign Language Vocabulary and Expressions",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Real-time interaction and personalized learning environments via personal devices, with project-based assessments measuring language proficiency",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can acquire and apply over 50 practical foreign language vocabulary items per week via a mobile app.",
+    "Learners can construct natural foreign language conversational sentences for over three minutes using in-app dialogue simulations.",
+    "Learners can create science-themed projects (e.g., environmental reports) in a foreign language through digital portfolios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mondly Kids App",
+      "Language Drops-Kahoot! App",
+      "Digital Portfolio Templates",
+      "Science Topic Resource Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1482-V",
+  "variant_type": "context_variant",
+  "title": "Blended Learning Program for Strengthening Clinical Anatomy Knowledge",
+  "context": {
+    "prior_knowledge": "Basic anatomy and general understanding of healthcare environments",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Program focused on improving job applicability for medical device management/leadership roles",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "After completing the clinical case-based e-module, over 80% of learners improve their anatomy knowledge test scores by at least 15%.",
+    "In practical laboratory sessions, learners accurately perform at least three clinical skills (e.g., ultrasound-guided procedures) using anatomical models.",
+    "In project-based assessments, learners analyze real-world work cases to identify and propose improvements for at least two anatomical deficiencies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Anatomy Software License",
+      "Virtual Dissection Simulator",
+      "Practical Anatomy Models and Medical Equipment Kit",
+      "LMS (Learning Management System) Infrastructure"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

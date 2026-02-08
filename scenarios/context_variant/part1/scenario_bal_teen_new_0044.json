@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0044",
+  "variant_type": "balance_teen_filtered",
+  "title": "K-12 Feedback Design Strategies in Game-Based Learning",
+  "context": {
+    "prior_knowledge": "Understanding of core game-based learning principles and foundational educational functions of feedback",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Capacity-building program for medical/legal/technical experts to develop game-based learning designs applicable to elementary education settings",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply the four-dimensional feedback model (type, content, format, frequency, and provider) in game-based learning to practical cases.",
+    "Learners can design personalized feedback strategies to enhance learner motivation.",
+    "Learners can evaluate integration approaches of game elements and feedback systems."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Game Development Tools (Unity/Unreal Engine Educational Editions)",
+      "Feedback Analysis Worksheet",
+      "Medical/Business Simulation Casebook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

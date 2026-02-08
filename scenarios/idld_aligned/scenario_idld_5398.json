@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5398",
+  "variant_type": "idld_aligned",
+  "title": "Pressure Swing Adsorption (PSA) Optimization Design for Radioactive Krypton Removal Process",
+  "context": {
+    "prior_knowledge": "Foundational chemical engineering theory, differential equations comprehension, basic optimization algorithm concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "LMS-based asynchronous learning environment, with access to practical and simulation tools utilizing digital devices.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can mathematically model conditions to achieve over 90% efficiency in removing radioactive krypton (85Kr) in PSA process design",
+    "Genetic algorithms can be utilized to derive optimal parameters (pressure, adsorption time, temperature, etc.) for the PSA process",
+    "Applying iterative learning design enables adjustment of optimal design parameters in response to changing process conditions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "PSA Process Simulation Software",
+      "Differential Equation Analysis Tool",
+      "Optimization Algorithm Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

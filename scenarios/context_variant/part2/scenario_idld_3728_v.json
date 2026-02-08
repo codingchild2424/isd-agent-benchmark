@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3728-V",
+  "variant_type": "context_variant",
+  "title": "Clinical-Centered Dental Treatment Education Design for Undergraduate Dental Students",
+  "context": {
+    "prior_knowledge": "Basic dental science theories and understanding of simple clinical procedures",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Intensive training program combining practical simulations and real clinical case analysis for in-service professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can establish appropriate treatment plans for root canal therapy cases of varying complexity (minimum to intermediate).",
+    "Learners can apply standard clinical protocols (anesthesia, instrument use, medicament selection, etc.) for root canal treatment and retreatment with 90% accuracy.",
+    "Learners can perform informed consent documentation and difficulty assessment procedures in a simulated patient environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Dental simulation trainer",
+      "Digital dental scanning equipment",
+      "Clinical Case Database",
+      "Standard treatment evaluation checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

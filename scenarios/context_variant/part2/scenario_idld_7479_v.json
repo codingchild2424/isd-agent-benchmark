@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7479-V",
+  "variant_type": "context_variant",
+  "title": "AR-Based Project Learning Course in Engineering Mechanics",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Environment Enabling Digital Device (Tablet/AR Headset) Utilization; Requires Team-Based Project Spaces",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately explain the three core principles of engineering mechanics (statics, dynamics, materials mechanics) with over 85% accuracy via AR simulation.",
+    "Learners can complete the process of solving real-world engineering problems (structural design/analysis) using AR tools in team projects with 100% success.",
+    "Learners can improve conceptual understanding by 20% by reviewing learning content at least three times through an AR-based self-assessment system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Development Kit",
+      "3D Dynamics Modeling Software",
+      "IoT Sensor Equipment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

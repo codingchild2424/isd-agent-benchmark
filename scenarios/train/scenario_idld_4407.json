@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4407",
+  "variant_type": "idld_aligned",
+  "title": "Development of Real-Time Engagement Strategies for Synchronous Online Science Learning",
+  "context": {
+    "prior_knowledge": "Comprehension of fundamental science concepts and proficiency in digital tool utilization",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A blended science class environment utilizing real-time video conferencing platforms (Zoom) and interactive learning tools (Desmos)",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can apply strategies such as real-time Q&A and digital collaboration tools to achieve over 80% participation rates in synchronous online classes",
+    "Learners form a social presence by providing peer feedback at least three times on online discussion boards",
+    "Students engage in cognitive problem-solving activities for scientific issues at least twice weekly using digital tools such as Desmos"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account",
+      "Desmos Educational License",
+      "LMS (Learning Management System)",
+      "Digital whiteboard software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0201-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Instructional Design Practice Competencies: MEIoT-Based Integrated 2D Coordinate System Education Program",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Instructional design competency enhancement program for professionals in education/teaching/learning fields",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately describe coordinate axes, quadrants, and point positions using the MEIoT 2D-CACSET tool",
+    "Learners can complete a project mapping IoT sensor data to a coordinate system at the virtual-concrete representation level",
+    "Learners can perform tasks visualizing real-world data collected via a smartphone-based IoT platform on a 2D coordinate system"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Authoring Tool",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Education (Teaching & Learning)"
+}

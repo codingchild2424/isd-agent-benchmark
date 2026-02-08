@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1244",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Application Design for Children's Education: ADDIE Model-Based Teaching Method Development",
+  "context": {
+    "prior_knowledge": "Foundational instructional design theories and understanding of mobile application development processes",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Language education domain application for working professionals, emphasizing practice in a BYOD environment.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can write a design document for a mobile application for children by utilizing the five phases of the ADDIE model (Analysis-Design-Development-Implementation-Evaluation).",
+    "Learners can produce interactive storyboards integrating exaggerated animation elements (e.g., character proportions, color contrast) and touch gestures suitable for children’s cognitive development stages.",
+    "Referencing prior case studies (MFolktales), learners can develop educational content prototypes reflecting sociocultural values and collect test feedback in VR simulation environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Android Studio Development Tools",
+      "3D Animation Production Software",
+      "10 BYOD Environment Tablets",
+      "Mobile UX Evaluation Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

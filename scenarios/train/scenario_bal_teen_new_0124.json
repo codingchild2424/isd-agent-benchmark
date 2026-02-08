@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0124",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Workshop on a 5-Step Structured Strategy to Improve Problem-Solving Skills for Pre-Service Science Teachers",
+  "context": {
+    "prior_knowledge": "Basic Physics Concepts and Completion of Teacher Training Programs",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Composed of 15-minute mobile-based microlearning modules integrated with real-time feedback and collaboration tools.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Preservice science teachers can apply a structured 5-step strategy (problem definition-condition analysis-strategy development-execution-verification) with 90% accuracy when solving 12 types of physics problems",
+    "Problem representation skills can be transferred to three or more academic disciplines using scaffolding tools (checklists/visual maps)",
+    "Problem-solving portfolios meeting at least 80% of criteria for conceptual clarity, solution precision, and creativity can be submitted in team-based project evaluations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Interactive simulation tool",
+      "Automated grading system",
+      "Virtual collaborative whiteboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

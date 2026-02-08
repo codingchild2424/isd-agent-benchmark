@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8096",
+  "variant_type": "idld_aligned",
+  "title": "VR-Based Elementary Science Inquiry Project Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic science concepts and fundamental smartphone operation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Enables VR experiences via smartphones in school-based limited-technology environments, with prior parental agreement.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can quantitatively describe the relative sizes and distances of planets in the solar system using VR technology.",
+    "Learners can connect natural phenomena observed in VR environments (e.g., volcanic eruptions) to scientific principles and write inquiry reports.",
+    "Students can collaborate in groups of three to design VR-based science projects and create presentation materials."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset (Cardboard Type)",
+      "Smartphone (Student-Owned or School-Loaned)",
+      "Scientific Inquiry Worksheet",
+      "360-Degree VR Science Content License"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

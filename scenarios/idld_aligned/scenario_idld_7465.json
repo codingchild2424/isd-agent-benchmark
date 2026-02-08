@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7465",
+  "variant_type": "idld_aligned",
+  "title": "Modular Practical Programming Education Based on High-Performance Computing (HPC)",
+  "context": {
+    "prior_knowledge": "Foundational C/C++ programming skills and understanding of parallel processing concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course focusing on parallel computing practice utilizing GPUs in a BYOD environment, including case studies on social field data processing",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Three or more GPU-accelerated codes can be implemented using the OpenACC/OpenMP offloading model.",
+    "The ability to optimize CPU-GPU heterogeneous systems through the HIP programming model is cultivated.",
+    "A project applying HPC technology to real-world social issues (population analysis/climate modeling, etc.) is completed."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GPU cloud resource allocation",
+      "Jupyter Notebook Environment",
+      "CUDA-compatible development tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

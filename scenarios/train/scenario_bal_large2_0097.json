@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0097",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Simulation-Based Blended Education Course for Improving Elementary Language Proficiency",
+  "context": {
+    "prior_knowledge": "Basic reading and writing skills, with the ability to engage in simple daily conversations",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Designed for beginner learners to apply language skills in real-life contexts through simulation activities focused on everyday language use. Enhanced through personal device utilization and small-group interactions",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can use appropriate language expressions in three or more real-life situations (e.g., ordering, giving directions) with 80% accuracy through role-play simulations.",
+    "Learners can solve virtual language problems (e.g., travel reservations) with a 90% completion rate using digital simulation tools.",
+    "Learners can identify two or more areas for improvement by analyzing their own language speaking videos based on peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet PC",
+      "Language Learning Simulation App",
+      "Virtual Reality (VR) Headset (Optional)",
+      "Scenario card set"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

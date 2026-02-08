@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3047-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening E-Learning Competencies: Gamification Learning Design Based on Let’s Play (LP)",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Competency enhancement program for professionals in education/teaching/learning fields",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze complex social phenomena in a gamified environment using LP-format simulation content.",
+    "Learners can engage in collaborative problem-solving in peer learning contexts via real-time chat functions at least three times.",
+    "Learners can connect game events (e.g., quests, boss battles) to learning activities (concept comprehension, case analysis, project assignments) and explain their relationships."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Authoring Tool",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

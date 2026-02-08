@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7213-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Service Quality Competencies: Short-Intensive Mobile Learning Application Design Project",
+  "context": {
+    "prior_knowledge": "Basic Software Development Knowledge (Requirements Analysis, UI/UX Design), Foundational Learning Theories",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customer service competency enhancement program for service/customer-facing role practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply the ADDIE instructional design model when designing M-Learning applications.",
+    "Learners can design mobile-friendly language learning content (quizzes, pronunciation assessments, situational dialogues).",
+    "Learners can create responsive UI prototypes using Figma/Adobe XD tools.",
+    "Learners can plan weekly sprints and conduct MVP testing according to Agile methodology."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Customer Relationship Management (CRM) System",
+      "Customer Interaction Simulator",
+      "Service Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

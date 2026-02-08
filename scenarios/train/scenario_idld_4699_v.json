@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4699-V",
+  "variant_type": "context_variant",
+  "title": "Embedded Systems Leadership Education: Constructivist Practice-Centered Short-Term Course",
+  "context": {
+    "prior_knowledge": "Basic comprehension of digital systems and project management experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A program combining foundational embedded systems knowledge with practical application skills for corporate social sector managers/leaders, blending hands-on practice with theoretical learning in a digital device-provided environment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can implement one prototype solving real-world social issues using embedded system components (sensors, processors, actuators).",
+    "Learners can lead team-based problem-solving processes for hardware-software integration design and share knowledge with peers using a constructivist approach.",
+    "Learners can achieve over 80% of their learning progress through formative assessments (project mid-checks, peer evaluations, self-reflection journals)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Arduino/Raspberry Pi Kit",
+      "Simulation Software License",
+      "Online Collaboration Platform Account"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

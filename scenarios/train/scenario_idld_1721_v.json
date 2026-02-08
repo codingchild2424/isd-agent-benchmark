@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1721-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design Scenarios for Strengthening Elementary AI Education Competencies",
+  "context": {
+    "prior_knowledge": "Understanding of foundational computer science concepts and elementary education experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Teaching competency enhancement course for preservice or in-service teachers. Online asynchronous course targeting preservice and elementary school teachers. Conducted in digital device (laptop/tablet) provided environments",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate",
+    "learner_education": "Middle school"
+  },
+  "learning_goals": [
+    "Learners can apply at least 15 of the 22 elementary AI education competency items based on the TPACK framework in actual classes",
+    "Learners can design lesson plans incorporating AI technology, ethics, and data literacy",
+    "Learners can derive learner-level-tailored AI education approaches using survey and interview techniques"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "AI Education Worksheet Template",
+      "TPACK Competency Checklist",
+      "Online Collaboration Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

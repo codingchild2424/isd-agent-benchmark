@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8433",
+  "variant_type": "idld_aligned",
+  "title": "Case-Based Green Chemistry Decision-Making Education",
+  "context": {
+    "prior_knowledge": "Basic chemistry theories, comprehension of sustainability concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Focuses on cultivating decision-making skills through case studies to enable current secondary chemistry teachers to apply green chemistry concepts in actual classroom instruction.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain four decision-making frameworks for evaluating the sustainability of chemical phenomena.",
+    "Learners can propose three or more alternatives applying green chemistry principles to given industrial cases.",
+    "Learners can analyze the environmental impact of chemical processes using Life Cycle Assessment (LCA) tools."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Text-based case study compendium",
+      "Simplified analysis worksheet",
+      "Quiz generator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

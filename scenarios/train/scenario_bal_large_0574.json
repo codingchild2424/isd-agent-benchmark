@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0574",
+  "variant_type": "balance_large_scale",
+  "title": "Simulation-Based Educational Module for Responsible Antibiotic Use [Large-Scale]",
+  "context": {
+    "prior_knowledge": "Basic medical/pharmaceutical knowledge and decision-making experience in work environments (required)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "VR simulation replicates antimicrobial prescription decision-making in real clinical settings, with digital device access to learning materials and task completion",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will apply appropriate criteria for antibiotic use in VR simulations with 90% accuracy.",
+    "Learners will analyze real-world cases to identify inappropriate antimicrobial prescriptions with over 80% accuracy.",
+    "Learners will explain antibiotic resistance mechanisms through a step-by-step learning module based on cognitive load theory."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment",
+      "Canvas Learning Management System (LMS)",
+      "Antibiotic Prescription Simulation Software",
+      "Digital Learning Notebook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

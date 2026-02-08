@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7837-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practice Competencies: TPACK-Based Instructional Design for Interactive Whiteboard Utilization",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate",
+    "learner_education": "University"
+  },
+  "learning_goals": [
+    "Learners can apply the seven knowledge domains of the TPACK framework to actual lesson design.",
+    "Learners integrate the five core features of interactive whiteboards (annotations, multi-touch, real-time collaboration, etc.) into language instruction.",
+    "Learners can evaluate teaching effectiveness using mixed research methodologies (quantitative + qualitative data analysis)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

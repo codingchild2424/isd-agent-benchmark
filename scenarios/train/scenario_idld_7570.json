@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7570",
+  "variant_type": "idld_aligned",
+  "title": "UDL/UID-Based Instructional Design for Inclusion of Students with Disabilities in Online Higher Education",
+  "context": {
+    "prior_knowledge": "Understanding of online learning environments and basic accessibility principles",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practicing content design methods applying UDL/UID principles while experiencing diverse disability types via VR simulations. Requires pre-checking accessibility settings for personal devices in BYOD environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply the three principles of UDL/UID to inclusive strategies for students with disabilities.",
+    "Learners can analyze the experiences of students with disabilities in VR-based simulations and propose accessibility improvements.",
+    "Learners can apply a UDL checklist to science education content and meet at least 80% of evaluation criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment Rental System",
+      "UDL Guidelines template",
+      "Simulation Scenarios by Disability Type"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

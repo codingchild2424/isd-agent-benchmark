@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7115",
+  "variant_type": "idld_aligned",
+  "title": "Designing Learning Experience Evaluations Using Wearable Devices",
+  "context": {
+    "prior_knowledge": "Understanding of Core Scientific Theories and Experimental Procedures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized science education for working professionals, emphasizing learning effectiveness monitoring via wearable devices in real-time online environments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain their learning concentration patterns by analyzing physiological data collected from wearable devices.",
+    "Learners can propose at least three strategies to optimize learning activities based on real-time physiological data.",
+    "Learners can interpret 6.25-minute segments of physiological data and evaluate learning efficiency within a 13.8% error margin."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartwatch/Band-Type Wearable Devices",
+      "Physiological Data Analysis Software",
+      "Online Lecture Platform (e.g., Zoom)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

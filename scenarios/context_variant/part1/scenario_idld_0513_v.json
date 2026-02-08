@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0513-V",
+  "variant_type": "context_variant",
+  "title": "Learning Control Design for Rotating Systems: Practical Application Based on Iterative Learning Control",
+  "context": {
+    "prior_knowledge": "Fundamental principles of control systems and basic linear algebra knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical learning environment for office/administrative professionals, utilizing smartphone-based LMS and flexible scheduling",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Understanding the principles of iterative learning control and explaining design procedures applicable to rotational systems.",
+    "Verifying through simulation methods to minimize tracking errors using periodic parameter update laws.",
+    "Analyzing the stability and convergence characteristics of learning control algorithms for nonlinear/high-order systems."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-Compatible Learning Materials",
+      "Numerical simulation tool (web-based)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

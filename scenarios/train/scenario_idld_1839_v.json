@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1839-V",
+  "variant_type": "context_variant",
+  "title": "Expert-Novice Comparative Analysis Microlearning for Acquiring Visual Cognitive Skills",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for pre-service/in-service elementary teachers to systematically acquire visual cognitive skills in mobile environments, focusing on visualizing complex mathematical concepts and recognizing students' error patterns",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners analyze math problem-solving processes using ≥5 visual cognitive strategies.",
+    "By mimicking expert-level gaze patterns, learners focus ≥80% of attention on key elements when evaluating student work.",
+    "Applying knowledge-based shortcuts, learners diagnose complex math problems within three steps."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Video-Based Comparative Case Studies",
+      "Interactive Eye-Tracking Simulation",
+      "Mobile-Friendly Quiz Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

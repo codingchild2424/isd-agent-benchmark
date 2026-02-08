@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-2955",
+  "variant_type": "idld_aligned",
+  "title": "Practical Implementation of a Twitter Sentiment Analysis System",
+  "context": {
+    "prior_knowledge": "Basic Python Programming Proficiency, Fundamental Social Media Usage Experience, and Elementary Understanding of Data Analysis",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Course intensively developing competency in building sentiment analysis systems applicable to real-world tasks for practicing professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can collect real-time data using the Twitter API",
+    "Learners can implement Python-based text preprocessing and sentiment analysis models",
+    "Learners can visualize analytical results and apply them to business decision-making",
+    "Learners can quantitatively measure positive/negative sentiment ratios for specific topics",
+    "Learners can explain methods for applying analytical systems across diverse industrial sectors"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python development environment (e.g., Jupyter Notebook)",
+      "Twitter API access permissions",
+      "NLTK/Korean morphological analyzer library",
+      "Data visualization tools (Matplotlib/Seaborn)",
+      "LMS (Learning Management System) Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

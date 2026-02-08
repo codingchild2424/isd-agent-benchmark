@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5095-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Learning (PBL) Course Based on Ultrasound Anatomy",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Program targeting medical equipment management and education professionals, aiming to cultivate practical skills combining ultrasound technology and anatomical knowledge. Participants engage in collaboration and practice using personal devices (BYOD)",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately describe the 3D relationships of human anatomical structures (muscles, blood vessels, organs) by applying ultrasound image interpretation techniques",
+    "Through PBL team projects, learners can design ultrasound-based anatomy education scenarios and perform peer feedback according to evaluation criteria",
+    "Learners can demonstrate the ability to distinguish anatomical structures from pathological findings while operating ultrasound devices in real-time"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "5 Portable Ultrasound Devices",
+      "3D Anatomy Modeling Software",
+      "PBL Worksheet Template",
+      "Ultrasound-Anatomy Mapping Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

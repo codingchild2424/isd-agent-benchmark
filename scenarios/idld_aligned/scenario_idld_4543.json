@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4543",
+  "variant_type": "idld_aligned",
+  "title": "Mathematics Educational Material Development Using Open Educational Resources (OER) Remix",
+  "context": {
+    "prior_knowledge": "Basic understanding of Open Educational Resources (OER) and foundational knowledge in mathematics education",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students learn without time/location constraints using personal mobile devices, with a focus on resolving licensing/copyright issues arising during remixing processes",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Develop at least three remixed resources aligned with specific learning objectives using math materials from OER platforms.",
+    "Explain appropriate attribution and application methods for CC license types with 90% accuracy.",
+    "Design a process for integrating OER math content from diverse sources according to technical standards (e.g., PDF/HTML compatibility)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access to mobile-compatible OER platform",
+      "CC license verification tool",
+      "OER sample database for math education"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

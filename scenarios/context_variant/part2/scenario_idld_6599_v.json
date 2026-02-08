@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6599-V",
+  "variant_type": "context_variant",
+  "title": "Machine Learning Practical Competency Enhancement: Instructional Design Workshop for Understanding Indian Children’s Mathematics Learning Context",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Analyze the mathematical learning environments of rural and urban low-income groups in India from a sociocultural perspective.",
+    "Propose math activity design plans incorporating real-life contexts (e.g., traditional puzzles, vocational skills).",
+    "Develop instructional strategies to bridge the gap between formal education systems and informal mathematical knowledge."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

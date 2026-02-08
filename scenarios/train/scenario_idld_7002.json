@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7002",
+  "variant_type": "idld_aligned",
+  "title": "Gamification-MOOC Integrated Course for Enhancing Higher-Order Thinking Skills in Science",
+  "context": {
+    "prior_knowledge": "Basic Science Knowledge and Digital Device Proficiency",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-centric access environment combining real-time interaction with self-directed learning",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply higher-order thinking skills (analysis, evaluation, creativity) to solve scientific problems",
+    "Learners actively interact with MOOC content at over 80% engagement by utilizing gamification elements",
+    "Learners can improve their thinking processes through at least three iterations using peer feedback and instructor evaluation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Quiz-based game template",
+      "Real-Time Collaboration Tools (e.g., Miro)",
+      "Weekly learning report system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

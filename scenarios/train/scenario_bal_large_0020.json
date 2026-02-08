@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0020",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Remote Laboratory Class Design: Blended Learning-based Expert Course",
+  "context": {
+    "prior_knowledge": "Basic chemical laboratory knowledge and experience with online learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized course for pre-service/in-service teachers to strengthen science education capabilities within corporate settings.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design three or more remote laboratory lesson modules by applying the BLEND model.",
+    "Learners can develop an integrated operational plan for experimental procedure simulations, data analysis, and collaborative assessment systems in blended learning environments.",
+    "Learners can develop two or more interaction strategies between learners and instructors using real-time video conferencing tools and LMS."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Experimental Simulation Software Subscription",
+      "Virtual Laboratory Platform (e.g., PhET)",
+      "LMS (Learning Management System) Access Permissions",
+      "ACE-RLS Course Module Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

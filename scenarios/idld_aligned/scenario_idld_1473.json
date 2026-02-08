@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1473",
+  "variant_type": "idld_aligned",
+  "title": "Cyberpedagogy-Based LMS Model Development: Mathematics Learning Courses Using Simulation/VR",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts and basic smartphone operation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "For professionals (medical/legal/technical) adapting to post-COVID remote learning, utilizing VR simulations and lightweight LMS tools in smartphone-limited environments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain 3D geometry problem-solving procedures with 80% accuracy in a VR simulation environment.",
+    "Learners can perform peer assessment and feedback exchange processes three or more times using interactive tools within an LMS.",
+    "Learners complete over 90% of multidimensional learning materials (videos, quizzes, virtual experiments) provided in a mobile-based LMS."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS Platform",
+      "VR Simulation Content (3D Geometry Module)",
+      "Microsoft Teams Integration System",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

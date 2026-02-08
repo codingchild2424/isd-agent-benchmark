@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN2-0784",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Mobile App Design Course for Self-Care After Breast Cancer Surgery",
+  "context": {
+    "prior_knowledge": "Basic medical terminology comprehension and mobile app usage experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Mobile app design process education based on the ADDIE model for novice medical professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "A patient management app planning document for post-mastectomy care can be created by applying the five ADDIE model phases (Analysis, Design, Development, Implementation, Evaluation)",
+    "At least three functional app design requirements can be derived by analyzing self-care needs of post-mastectomy patients",
+    "Mobile app prototypes can be evaluated at least once, and improvement strategies can be suggested"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Figma Prototyping Tool",
+      "Mobile UX/UI Guidelines Document",
+      "Standard Protocol for Breast Cancer Patient Management"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

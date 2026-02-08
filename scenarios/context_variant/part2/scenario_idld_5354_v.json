@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5354-V",
+  "variant_type": "context_variant",
+  "title": "Cognitive Load Theory-Based Computerized Test (CBT) Design Strategies",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course to learn CBT design methods using multimedia elements in smartphone-centric limited-technology environments, including smart device sharing and project-based learning activities in classrooms",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can optimize the visual layout of CBT (Computer-Based Testing) items according to CTML (Computer-Based Test Markup Language) principles.",
+    "Learners can utilize tools to measure cognitive load in test items based on Cognitive Load Theory (CLT).",
+    "Learners can design multimedia CBT items accessible in smartphone environments."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone 5-Pack (Note: \"5대\" likely refers to a set of five devices; context may require clarification)",
+      "Projector (1 unit)",
+      "Whiteboard marker set",
+      "CBT Design Guidelines Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6783-V",
+  "variant_type": "context_variant",
+  "title": "CBL-Scaffolding Integrated Simulation Education for Enhancing Self-Awareness in Science Domains",
+  "context": {
+    "prior_knowledge": "Elementary scientific concepts and experience in self-directed learning",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Analyzing real-world science education cases in VR simulation environments, with learners performing activities using personal BYOD devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can diagnose at least three of their own scientific thinking patterns through CBL (Challenge-Based Learning) cases.",
+    "Learners can improve learning strategies by over 80% through scaffolded, stage-based feedback.",
+    "Learners can present a self-awareness-based problem-solving process in VR simulation assessments with over 70% completeness."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Education VR Content",
+      "Likert Scale-Based Self-Assessment Tool",
+      "CBL Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

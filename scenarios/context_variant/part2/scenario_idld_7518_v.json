@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7518-V",
+  "variant_type": "context_variant",
+  "title": "Online Science Learning Design Workshop Based on Communities of Inquiry",
+  "context": {
+    "prior_knowledge": "Basic Science Theories and Experience with Online Learning Tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners engage in inquiry community activities in offline settings using digital devices, with learning outcomes measured through project-based assessments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design online discussion activities on science topics using the E-tivities model",
+    "Learners can structure online learning activities reflecting the three presences of the CoI model (social, cognitive, teaching presence)",
+    "Learners can plan and execute collaborative problem-solving projects in science using digital tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Management System (LMS)",
+      "Digital collaboration tools (Padlet, Miro, etc.)",
+      "Science experiment simulation software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

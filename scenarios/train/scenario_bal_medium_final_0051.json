@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-FINAL-0051",
+  "variant_type": "balance_medium_final",
+  "title": "Problem-Based Online Education for Serious Game Design and Development",
+  "context": {
+    "prior_knowledge": "Game development fundamentals, instructional design principles, and understanding of social problem-solving",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A practice-oriented program using VR/simulations in a BYOD environment, aimed at strengthening adult learners' problem-solving skills for societal issues.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can create educational design documents for serious games addressing social issues by applying game-based learning theories (e.g., ARCS model, constructivism)",
+    "Learners can develop serious game prototypes containing at least five interactive elements in VR/simulation environments using Unity or Unreal Engine",
+    "Learners can design a three-level (reaction, learning, behavior) evaluation system to assess the educational effectiveness of developed games based on the Kirkpatrick model"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Game development toolkits (Unity/Unreal Engine)",
+      "VR Equipment Rental System",
+      "Instructional Design Template Library",
+      "Serious games database for case analysis"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7020",
+  "variant_type": "idld_aligned",
+  "title": "Patient Safety Behavior Reinforcement Education Through Informal Discussions",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and understanding of patient rights concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Education on fostering patient safety culture through informal discussion-based learning for learners preparing to enter the medical field",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the importance of reporting systems in patient safety incidents and analyze three or more barriers to reporting.",
+    "Learners can recognize authority gradient issues in virtual clinical scenarios and propose communication strategies to mitigate them.",
+    "Learners can develop specific action plans based on attitudes related to patient safety and improve them at least twice through peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual clinical case database",
+      "Online Discussion Platform",
+      "Patient Safety Attitude Survey",
+      "Real-Time Collaboration Tools (e.g., Miro)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

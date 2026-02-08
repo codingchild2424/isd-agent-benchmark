@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1230-V",
+  "variant_type": "context_variant",
+  "title": "Gamification-Integrated ICT Design for Mathematics Education",
+  "context": {
+    "prior_knowledge": "Basic arithmetic operations and foundational statistical concepts comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requirement for personalized content tailored to individual learning paces. Consider design to prevent excessive competition when introducing gamification elements.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners apply mathematical concepts (e.g., ratios, graph interpretation) to digital tools (Excel, calculator apps) for real-life problem-solving with over 80% calculation accuracy.",
+    "Learners implement collaborative problem-solving strategies at least three times while performing team missions on gamification platforms (Quizlet, Kahoot).",
+    "Learners create data visualization reports using cloud-based collaboration tools (Google Sheets) in a BYOD environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Gamification platform license",
+      "Open-Source Mathematics Educational Content",
+      "Cloud Collaboration Tool Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

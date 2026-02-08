@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1000",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Elementary Arithmetic Skill Enhancement Course Utilizing Gamification",
+  "context": {
+    "prior_knowledge": "Foundational arithmetic operation comprehension (e.g., basic concepts of addition/subtraction/multiplication/division)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Gamification activities via smartphones to boost engagement, with individual progress monitoring and feedback mechanisms",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Over 80% of learners can error-free calculate 20 or more basic arithmetic operation problems within one minute",
+    "Learners maintain over 90% engagement during game-based activities while improving calculation speed and accuracy",
+    "Learners can reduce arithmetic calculation error rates by 50% through weekly assessment tests"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartboard (1 unit)",
+      "Learning Tablets (10 units)",
+      "EduBingo-like Mobile Application",
+      "Arithmetic Practice Workbook",
+      "Whiteboard Markers"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0010",
+  "variant_type": "balance_teen_filtered",
+  "title": "K-12 Development Course for IMS LD-Based Language Learning Design Engine: Scientific Inquiry for Strengthening Text, Vocabulary, and Expressiveness",
+  "context": {
+    "prior_knowledge": "Basic language learning experience (reading, writing, speaking), digital device proficiency, elementary grammar comprehension, and foundational concepts of scientific inquiry methods",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course focused on implementing learning flows using IMS LD standards within a smartphone-centric, limited technological environment. Emphasizes designing activities to improve learners' reading comprehension, writing, and communication skills, with a focus on establishing evidence-based learning strategies based on formative assessment data.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles and components of IMS LD-based learning design and apply scientific inquiry methods to language learning activities (reading, writing, speaking).",
+    "Learners can simulate language learning flows (reading, writing, speaking activities) using Petri net models, analyze variables at each stage, and optimize learning outcomes.",
+    "Learners can flexibly modify an open-architecture learning design engine and apply it to diverse language learning scenarios (grammar, vocabulary, expressive skills enhancement).",
+    "Learners can systematically analyze monthly formative assessment results (10 grammar items, 10 vocabulary items, 5 expressive skills items), select two areas with ≥30% error rates, and develop personalized learning plans (e.g., 3 grammar supplement sessions, 5 additional vocabulary quizzes)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "IMS LD Editor Toolkit",
+      "Open-Source Petri Net Simulator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

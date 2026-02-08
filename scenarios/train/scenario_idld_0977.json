@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0977",
+  "variant_type": "idld_aligned",
+  "title": "VR-Based Language Education Design Applying Merrill’s First Principles of Instruction",
+  "context": {
+    "prior_knowledge": "Basic proficiency in computer and VR device usage",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Implementation of simulation/VR environments applying Merrill's First Principles of Instruction using open-standard modular software components",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can demonstrate language expression skills by applying Merrill’s instructional interaction stages (present real-world problems, analyze requirements, explain core principles, guide performance, provide feedback) in VR environments.",
+    "Learners understand XML-based tagging systems and can modularly organize language content for VR scenarios.",
+    "Learners can perform team project-based assessments (3-person teams) in a BYOD environment, design two or more communication strategies applicable to three real-world language use scenarios (e.g., business meetings, customer service), and achieve an average score of 3.5 or higher on a 5-point scale in peer and instructor evaluations, with supporting documentation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset Sharing Set",
+      "Java Bean-Based Modular Software Components",
+      "XML Tagging Guidelines",
+      "Multi-Device Compatible VR Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

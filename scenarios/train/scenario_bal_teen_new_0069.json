@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0069",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Student Privacy Protection Strategies in Higher Education Mathematics Project Design",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental mathematical theories and basic experience with online learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Privacy-protecting design framework implementation for smartphone-centric limited-technology mathematical projects targeting graduate students in medical/legal/technical fields",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can minimize the scope of student data collection by applying an ethical design framework during project design.",
+    "Learners can identify at least three technical measures for protecting personal information when using online collaboration tools.",
+    "Learners can establish and apply anonymization standards when publicly sharing mathematics project outputs."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Friendly Collaboration Platform",
+      "Data Anonymization Tool",
+      "Ethical Decision-Making Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

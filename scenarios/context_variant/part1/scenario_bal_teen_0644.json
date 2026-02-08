@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0644",
+  "variant_type": "balance_teen_k12",
+  "title": "Structured Simulation Education for Enhancing Scientific Decision-Making Competencies in K-12",
+  "context": {
+    "prior_knowledge": "Basic social science knowledge and understanding of scientific inquiry methods",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Large-group activities and discussion-centered environments utilizing smartphone-based VR simulations",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze social science issues from multiple perspectives and derive at least three decision-making criteria",
+    "Learners can evidence-based evaluate the pros and cons of alternatives based on scientific information and perform trade-off analysis",
+    "Learners can apply a structured decision-making process (problem definition → criteria setting → alternative evaluation → final selection) in a simulation environment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Content Platform",
+      "Social Science Decision-Making Case Database",
+      "Digital Whiteboard Tool for Collaborative Learning"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

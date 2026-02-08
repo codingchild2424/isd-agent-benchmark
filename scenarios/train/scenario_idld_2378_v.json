@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2378-V",
+  "variant_type": "context_variant",
+  "title": "Problem-Based Microlearning Course in Welding Engineering",
+  "context": {
+    "prior_knowledge": "Knowledge of metallic materials and foundational engineering principles",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "PBL (Problem-Based Learning) application focused on solving industrial field problems in smartphone-based mobile learning environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze real-world welding defect cases from industrial settings and propose solutions",
+    "Determine optimal parameters (temperature, current, etc.) for welding processes using mobile learning modules",
+    "Write a welding quality assessment report after a team-based project and incorporate peer feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible PBL Scenario Module",
+      "3D Welding Simulation App",
+      "PDF Format Learning Guide",
+      "Online Collaboration Tools (Zoom/Google Docs)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

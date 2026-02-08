@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7872-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Social Education Design through Blended Instruction and Technology Integration",
+  "context": {
+    "prior_knowledge": "Fundamental digital tool proficiency and foundational knowledge in elementary social studies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Independently develop online learning modules based on social studies by applying blended teaching design principles.",
+    "Create interactive content that enhances learner engagement using LMS and digital tools.",
+    "Establish specific strategies to improve learning activities by analyzing formative assessment results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

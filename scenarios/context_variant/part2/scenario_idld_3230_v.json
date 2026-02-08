@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3230-V",
+  "variant_type": "context_variant",
+  "title": "Data Science Practical Competency Enhancement: Handwriting Quality Improvement Strategies through Chinese Character Structure Analysis",
+  "context": {
+    "prior_knowledge": "Recognition of at least 500 basic Chinese characters and understanding of basic stroke order",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the impact of Chinese character structural elements (stroke count, direction, form) on handwriting stability with 85% accuracy.",
+    "Learners can write 20 problematic Chinese characters containing hook/bend strokes without symmetry errors at a 75%+ success rate.",
+    "Learners can establish a correction plan to improve the handwriting quality of Chinese characters in business documents by 40% using structural analysis tables."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

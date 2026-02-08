@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0226",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Audio-Based Science Simulation Learning: Multimedia Educational Material Design",
+  "context": {
+    "prior_knowledge": "General foundational understanding of basic scientific concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Providing audio-centric learning content accessible via smartphones, requiring offline synchronization features considering internet connectivity constraints",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can understand and summarize audio explanations of scientific phenomena with 90% accuracy.",
+    "Learners can perform science experiments with over 80% accuracy by following audio instructions in simulation/VR environments.",
+    "Learners can propose creative solutions to scientific problems based on audio learning content with over 70% success."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Audio Player",
+      "VR simulation app",
+      "Offline Synchronization Server",
+      "Simplified Voice Recording Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

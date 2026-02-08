@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0157",
+  "variant_type": "balance_large_last",
+  "title": "Multi-Interaction-Based Online University English Education Design",
+  "context": {
+    "prior_knowledge": "Basic English vocabulary and grammar comprehension",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Implementation of personalized learning paths integrating teacher-student, student-student, and human-computer interactions in VR environments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply English communication skills with 80%+ accuracy in VR simulation environments",
+    "Learners achieve self-directed progress rates of 75%+ in personalized learning paths based on learner profile analysis",
+    "Formative assessment increases the frequency of learner interaction by over 40% compared to conventional methods"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR learning platform license",
+      "CNN-based learning analytics system",
+      "Interactive Activity Record Database",
+      "English Pronunciation Assessment Algorithm"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

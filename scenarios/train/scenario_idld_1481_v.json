@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1481-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Skills: Intelligent Energy Management Using Adaptive Dynamic Programming",
+  "context": {
+    "prior_knowledge": "Foundational electrical engineering and energy systems understanding, along with basic programming",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Implement a real-time energy demand prediction model using adaptive dynamic programming algorithms",
+    "Design a plan to reduce energy costs by over 20% through optimization of grid power/renewable energy/battery storage systems",
+    "Develop an intelligent management system that automatically adapts to fluctuating environmental conditions (renewable energy output, user behavior) using a PBL approach"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

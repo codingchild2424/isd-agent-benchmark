@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0621",
+  "variant_type": "balance_teen_v2",
+  "title": "K-12 Drawing Analogy Science Course for Analogical Reasoning and Deep Learning",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental science concepts and ability to use simple digital tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A course aiming to enhance similarity-based reasoning skills and conceptual understanding in a microlearning environment using digital devices. It partially incorporates science elements from the UK National Curriculum Key Stage 3",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can accurately explain similarities between concepts with over 80% accuracy through drawings that visually analogize scientific phenomena.",
+    "Learners can explain complex scientific theories by connecting them to three or more real-world examples through drawing analogy activities.",
+    "After completing microlearning modules, learners achieve at least 75% proficiency in applying analogous reasoning in formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Tablet/smartphone",
+      "Digital Drawing Application",
+      "Science Concept Visualization Templates",
+      "Feedback Collection Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

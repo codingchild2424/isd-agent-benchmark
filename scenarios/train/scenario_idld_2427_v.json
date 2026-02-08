@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2427-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening App Development Competencies: Energy and Systems: Deepening Concepts through Scientific Modeling and Inquiry",
+  "context": {
+    "prior_knowledge": "Basic physics concepts (forms of energy, conservation laws) and basic proficiency in online learning tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can build a virtual model simulating energy conversion processes and quantitatively represent energy flow diagrams in three or more systems.",
+    "Learners can analyze the scientific validity of energy models using peer feedback and assessment rubrics, and revise/improve errors two or more times.",
+    "Learners can present explanatory models for real-world cases (e.g., solar power generation) applying concepts of energy conservation, efficiency, and entropy, and reconstruct concepts through peer discussions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

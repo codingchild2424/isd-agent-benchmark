@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0968-V",
+  "variant_type": "context_variant",
+  "title": "Interactive 3D Learning Tool Utilization Strategies for Engineering Education",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "An environment where students self-directively visualize and manipulate complex engineering concepts using 3D tools according to their learning progress",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the operating principles of engineering systems with over 80% accuracy using interactive animations.",
+    "Learners can analyze design problems and independently collect experimental data at least three times using 3D learning tools.",
+    "Learners can propose engineering problem-solving solutions based on VR-based simulation results in formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Modeling Software",
+      "VR Headset",
+      "Interactive animation authoring tool",
+      "Engineering experiment dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

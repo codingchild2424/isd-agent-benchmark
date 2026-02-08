@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2842-V",
+  "variant_type": "context_variant",
+  "title": "Systematic Mathematics Instructional Design Strategies for Enhancing MOOC Design Quality and Analyzing Learner Assessments",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts (equations, functions, geometry, etc.) and intermediate-level application skills (problem-solving, graph interpretation, etc.)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A long-term course for current elementary math teachers collaborating with corporate training managers to conduct project-based assessments. Emphasizes alignment with math education standards and practical applicability.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Enhancing the ability to systematically analyze the quality of MOOC mathematics content (such as clarity of formulas and systematicity of problem-solving) by applying ten instructional design principles",
+    "Strengthening the capacity to derive improvement points for mathematics education through learner sentiment analysis and apply them to actual lesson design",
+    "Developing collaborative, differentiated, and collective knowledge-building learning activities focused on solving mathematical problems (e.g., equation solving, graph interpretation)",
+    "Learners produce one MOOC design guideline applicable to real school settings (primary/secondary) through project-based assessment (teams of 4–6 members), meeting the following criteria: 1) verification of integration with three or more mathematics curricula (e.g., equations, geometry, statistics), 2) specification of a five-stage design process (needs analysis → formula derivation → problem structuring → assessment design → feedback incorporation), 3) incorporation of feedback from at least two field teachers"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Class Central Top 20 MOOC case database",
+      "Sentiment analysis tool",
+      "Instructional design quality evaluation checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

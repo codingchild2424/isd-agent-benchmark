@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6377",
+  "variant_type": "idld_aligned",
+  "title": "Language Project Course for Integrating AI-Based Self-Regulated Learning",
+  "context": {
+    "prior_knowledge": "Basic smartphone usage skills and digital literacy proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "AI tool utilization education for non-experts in limited technological environments centered around smartphones",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can understand the principles of prompt design for AI chatbots and generate questions aligned with self-regulated learning goals.",
+    "Learners can apply criteria to judge the accuracy and usefulness of AI-generated content through self-assessment.",
+    "Learners can design personalized language learning projects using AI tools and produce outcomes incorporating peer feedback."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone",
+      "AI Chatbot Web Interface",
+      "Offline collaborative worksheets",
+      "Simplified Translation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0909-V",
+  "variant_type": "context_variant",
+  "title": "Practice-Based Continuing Education Program for Enhancing Healthcare Professionals' Competencies",
+  "context": {
+    "prior_knowledge": "Core theories and practical experience in medicine and public health",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Educational environment focused on collaboration and practical case analysis using digital devices",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Complex problems encountered in actual medical settings are analyzed and solutions proposed through project-based learning",
+    "Evidence-based practice guidelines are applied to develop strategies for improving patient outcomes",
+    "Within six months, learners collaborate with at least three medical/nursing professionals (doctors, nurses, physical therapists, etc.) to produce a patient treatment protocol improvement plan (minimum 10-page report + execution plan) that achieves an \"Excellent\" grade (4/5 scale) in at least four of the five predefined competency evaluation criteria (communication, collaboration, problem-solving, leadership, cultural sensitivity)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Medical Practice Database",
+      "Simulation Software",
+      "Digital Collaboration Tools",
+      "Case Study Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

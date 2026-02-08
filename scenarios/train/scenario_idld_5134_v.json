@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5134-V",
+  "variant_type": "context_variant",
+  "title": "Short-Intensive Course for Enhancing Instructional Design Competencies for Online High School Teachers",
+  "context": {
+    "prior_knowledge": "Foundational science education experience and LMS platform usage proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course intensively developing competencies in designing and revising online science instruction. Applies core educational design standards based on expert consultations using the Delphi method.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze and propose improvements for 3+ learning objects (LOs) suitable for online science instruction",
+    "Educational design standard priorities can be determined by applying a Delphi technique-based consensus-building process",
+    "Learners can design and prototype 1+ modifiable science experiment content in an LMS environment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS System",
+      "Science Education Content Templates",
+      "Delphi Method Workshop Materials",
+      "Collaboration tools (Jira/Notion)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

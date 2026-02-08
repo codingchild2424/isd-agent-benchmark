@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1333",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Focused Cardiac Ultrasound (FoCUS) Simulator-Based Training Course",
+  "context": {
+    "prior_knowledge": "Basic cardiac physiology and ultrasound principles comprehension",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Self-directed curriculum emphasizing deliberate practice and scaffolded learning support",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately manipulate FoCUS probes to acquire standard four echocardiographic views with 80% accuracy",
+    "Learners can determine the presence or absence of cardiac structural abnormalities in acquired images with 75% accuracy using real-time feedback provided by simulators",
+    "Learners demonstrate the competency to independently execute FoCUS examination procedures by passing three consecutive unassisted performance assessments in a simulated environment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Fidelity Cardiac Ultrasound Simulator",
+      "FoCUS-Dedicated Probe Equipment",
+      "Digital Learning Manual (Mobile-Optimized)",
+      "Automated Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

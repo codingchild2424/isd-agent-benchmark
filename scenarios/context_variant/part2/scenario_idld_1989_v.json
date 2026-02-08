@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1989-V",
+  "variant_type": "context_variant",
+  "title": "Short-Term Course on Strengthening Mathematical Problem-Solving Competencies Using an Online Feedback System",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based assessment process in digitally equipped environments, designed to strengthen mathematical problem-solving competencies for learners preparing for professional careers",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners accurately identify over 80% of errors occurring during mathematical problem-solving processes via online feedback systems",
+    "Learners refine and apply problem-solving strategies through three or more iterative improvements based on peer/system feedback",
+    "Learners develop self-directed learning plans utilizing adaptive feedback features provided in mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Interactive Mathematics Problem Database",
+      "Automated Feedback Analysis Tool",
+      "Instructor Feedback Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

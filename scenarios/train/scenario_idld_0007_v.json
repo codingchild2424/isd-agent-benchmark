@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0007-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Skills: RF Energy Harvesting Design Simulation Workshop",
+  "context": {
+    "prior_knowledge": "Foundational electromagnetics, circuit design principles, basic Python programming, and understanding of machine learning concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify and explain the functions of components in an RF energy harvesting system (antenna, IMN, VM).",
+    "Learners can apply frequency-time conversion and multi-output regression models using simulation tools.",
+    "Learners can establish strategies to achieve over 50% PCE by optimizing 3D antenna design parameters (length/width/thickness) in a VR environment.",
+    "Learners can self-diagnose learning outcomes and create improvement plans through formative assessments (quizzes/design challenges)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

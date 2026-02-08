@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0163",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Anatomy-Clinical Integration Simulation Module",
+  "context": {
+    "prior_knowledge": "Basic human anatomy and medical physiology knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Smartphone-based VR simulation utilization, applying the 5-E instructional model and ARCS motivation theory.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately connect anatomical structures with clinical symptoms by over 80% through 5-E cycle activities.",
+    "Learners can reproduce clinical decision-making processes by over 70% through ARCS-based motivational activities in a simulation environment.",
+    "Learners can descriptively explain how anatomical knowledge is applied to real medical situations through formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Clinical Case Database",
+      "3D Anatomy Modeling Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

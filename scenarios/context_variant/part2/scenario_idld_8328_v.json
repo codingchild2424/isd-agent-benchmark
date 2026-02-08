@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-8328-V",
+  "variant_type": "context_variant",
+  "title": "Academic Stress Management and Self-Directed Learning Competency Development for Nursing Students",
+  "context": {
+    "prior_knowledge": "Basic nursing theory and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-based short-term course for working nursing students, requiring learning activities designed around smartphones in limited-technology environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Identify three or more primary causes of academic stress and explain situational coping strategies.",
+    "Diagnose personal psychological resilience levels using the Connor-Davidson Resilience Scale (CD-RISC) and establish improvement plans.",
+    "Analyze Self-Directed Learning Readiness Inventory (SDLI) results and propose actionable strategies to enhance learning efficiency."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Academic Stress Measurement Questionnaire",
+      "Resilience Self-Assessment Tool",
+      "Learning Motivation Scale",
+      "Simplified Learning Planner Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

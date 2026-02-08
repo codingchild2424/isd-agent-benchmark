@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2567",
+  "variant_type": "idld_aligned",
+  "title": "Analysis of Learning Outcome Influencing Factors and Customized Science Learning Strategy Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and experience with simple experiments",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Need for interface optimization for smartphone-based learning content. Development of customized strategies considering learners' scientific knowledge and problem-solving tendencies (impulsive/reflective).",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design optimal instructional strategies for science learning tasks by applying the aptitude-treatment interaction (ATI) model",
+    "Learners can analyze error patterns based on cognitive traits (impulsivity/reflectivity) and task types",
+    "Learners can solve science concept application problems with ≥80% accuracy in mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Science Concept Visualization Video",
+      "Interactive Quiz Template",
+      "Learner Profile Diagnostic Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

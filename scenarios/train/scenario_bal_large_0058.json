@@ -1,0 +1,39 @@
+{
+  "scenario_id": "BAL-LARGE-0058",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Online Information Literacy Education for Professional Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Elementary digital literacy and general workplace information application experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Designed for professionals in medical, legal, and technical fields to efficiently collect, evaluate, and utilize information in work and daily life. Provides mobile-optimized content considering PC-unavailable environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify reliable information from various online sources with over 80% accuracy.",
+    "Learners can explain at least three strategies for systematically searching and evaluating information required in work environments.",
+    "Learners acquire critical thinking skills to distinguish fake news and disinformation with 90% accuracy.",
+    "Learners can apply methods to respond to information privacy and security threats in real-world scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Video Lecture Materials",
+      "Interactive Quiz Module",
+      "PDF Workbook",
+      "Case-Based Assessment Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

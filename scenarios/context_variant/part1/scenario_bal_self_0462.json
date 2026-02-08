@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0462",
+  "variant_type": "balance_self_directed",
+  "title": "Design Principles for Mobile Microlearning Platforms: Short-Intensive Courses in Science (Self-Directed)",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and competency in digital learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Science vocational training utilizing smartphones in PC-unavailable environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain scientific concepts with over 80% accuracy through micro-content within 5 minutes.",
+    "Learners can complete three or more interactive learning activities following a sequential instructional flow.",
+    "Learners can apply scientific knowledge learned in a mobile environment to real-world cases through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Microlearning Platform",
+      "Science microcontent library",
+      "Interactive quiz tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

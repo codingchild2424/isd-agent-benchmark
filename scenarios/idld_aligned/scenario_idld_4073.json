@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4073",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Medical Education Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and clinical environment comprehension",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended educational environment combining face-to-face simulation practice with online theoretical learning.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply patient safety protocols with 90% accuracy in a simulation environment.",
+    "Learners can solve team-based clinical problems through the use of simulation equipment and debriefing techniques.",
+    "Learners can analyze peers' performance in three or more dimensions using simulation assessment tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Medical simulation equipment (virtual patient simulator, manikin)",
+      "LMS (Learning Management System) access rights",
+      "Case-based scenario database",
+      "Debriefing evaluation template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

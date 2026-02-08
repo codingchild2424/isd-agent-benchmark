@@ -1,0 +1,39 @@
+{
+  "scenario_id": "BAL-TEEN2-0578",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Advanced Medical and Nursing Education Course Using Technology-Enhanced Simulation: Integrating Social Contexts",
+  "context": {
+    "prior_knowledge": "Basic medical terminology, understanding patient care protocols, familiarity with fundamental nursing skills (symptom observation, safety measures), and foundational awareness of healthcare systems and patient rights",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "VR/simulation-based acquisition and assessment of medical/nursing skills in large-scale practical training environments. Scenarios incorporate social contexts (healthcare systems, patient rights, treatment protocols, cultural diversity, social responsibility). Integrates educational goals for community health promotion and civic consciousness development.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Perform basic vital sign measurement and documentation with over 90% accuracy in a simulation environment (compliant with medical protocols and patient rights).",
+    "Achieve over 85% compliance with patient safety protocols, emergency response procedures, and medical ethics standards in VR-based scenarios.",
+    "Demonstrate medical team collaboration skills at level 4 or higher (5-point scale) through team-based simulation evaluations (emphasizing civic roles and accountability).",
+    "Score 80 points or higher (out of 100) on a knowledge assessment after technology-enhanced simulation training (covering medical ethics, legal standards, and social responsibility).",
+    "By the end of the 6-month course, learners complete three types of projects reflecting real medical scenarios (e.g., emergency room, operating room, clinic) and propose solutions meeting at least six of eight problem-solving checklist items per task (e.g., patient diagnosis, treatment planning, symptom management, cultural sensitivity)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-performance VR equipment",
+      "Medical simulation software",
+      "Modular training equipment",
+      "3D Anatomical Model"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

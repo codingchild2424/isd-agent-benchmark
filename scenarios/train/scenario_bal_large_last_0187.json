@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0187",
+  "variant_type": "balance_large_last",
+  "title": "Foundational Mathematics Competency Assessment Design for Engineering Students’ Calculus Preparation",
+  "context": {
+    "prior_knowledge": "High school-level algebra, trigonometry, and basic geometry concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Systematic diagnostic assessment of foundational math competencies required before calculus for engineering freshmen, designed around tool development and validation in blended (online/offline) environments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Acquiring the ability to develop assessment items in algebra, trigonometry, and geometry—essential areas for engineering students learning calculus.",
+    "Learners can apply reliability (Cronbach's α ≥ 0.7) and validity (factor loading ≥ 0.4) verification procedures for educational measurement tools (e.g., test item sets) and prepare a 5-page report including item difficulty analysis (three-tier classification) and discrimination evaluation (high/medium/low ratings).",
+    "Presenting criteria for constructing assessment items to evaluate geometric problem-solving skills (straight lines, circles, surface area/volume calculations).",
+    "Developing the ability to establish personalized learning strategies based on assessment results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mathematics assessment item development guidelines",
+      "Statistical analysis tools (SPSS/R, etc.)",
+      "LMS platform",
+      "Offline test kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

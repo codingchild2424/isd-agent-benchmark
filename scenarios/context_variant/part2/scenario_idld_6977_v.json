@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6977-V",
+  "variant_type": "context_variant",
+  "title": "Adaptive Machine Learning-Based Robotic Emotion Recognition Design",
+  "context": {
+    "prior_knowledge": "Basic Machine Learning Concepts and Proficiency in Programming Languages (e.g., Python)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are office/administrative professionals requiring practical interest in human-robot interaction technologies.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design a system that recognizes new facial expression data with over 85% accuracy using an SVM-based classification model",
+    "Learners can implement methods to adapt to new data while maintaining the accuracy of existing models by applying online learning algorithms",
+    "Learners can explain a process for efficiently retraining mispredicted samples using the Support Vector Tracking Learning (SVPL) technique"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Machine Learning Library",
+      "Virtual Facial Expression Dataset",
+      "Jupyter Notebook Environment",
+      "LMS platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

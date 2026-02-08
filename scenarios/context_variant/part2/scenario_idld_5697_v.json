@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5697-V",
+  "variant_type": "context_variant",
+  "title": "Active Learning-Based Technical/Oral Communication Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Operating online communities to facilitate peer feedback exchange and activate peer assessment among learners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can produce oral presentation materials using smartphone-based tools (e.g., recording apps, collaboration platforms) through weekly missions over 8 weeks.",
+    "Learners can analyze peers' presentations via a peer review system and suggest at least three specific improvement points.",
+    "At the course's conclusion, learners demonstrate a 20%+ improvement in competency by completing an integrated technical-communication project (e.g., designing a social issue resolution campaign)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-Optimized Content",
+      "Asynchronous Collaboration Tool",
+      "Automated voice analysis tool sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-8832-V",
+  "variant_type": "context_variant",
+  "title": "Exploring Mathematical Concepts Using Mobile-Based Rhythmic Gymnastics Movements",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Utilizing mobile devices for safe remote learning during COVID-19. Convergence education integrating rhythmic gymnastics movements with mathematical pattern analysis, ratio calculations, and angle measurements",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can express and predict rhythmic gymnastics movement patterns as mathematical sequences",
+    "Learners can explain geometric concepts by measuring and analyzing angular changes in gymnastics movements",
+    "Learners can connect timing of gymnastics movements with mathematical ratios (e.g., 3:4 rhythm) using mobile apps"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "BYOD smartphone/tablet",
+      "Mobile LMS Platform",
+      "Rhythmic Gymnastics Motion Capture App",
+      "Virtual Protractor Tool",
+      "Pattern Analysis Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

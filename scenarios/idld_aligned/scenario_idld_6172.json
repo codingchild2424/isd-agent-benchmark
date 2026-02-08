@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6172",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Instructional Design for Strengthening Analytical Thinking in Differential Equations",
+  "context": {
+    "prior_knowledge": "Fundamental understanding of basic calculus and differential equation modeling",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners are interested in expressing real-world physical phenomena through differential equations, aiming to enhance problem-solving skills using graphical/numerical analysis tools",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can interpret solutions to differential equations as function graphs and explain their physical meaning",
+    "Students can predict and analyze the numerical behavior of nonlinear differential equations using simulation tools",
+    "Students can evaluate and improve differential equation problem-solving strategies based on cases derived from task-based interviews"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Simulation Software",
+      "Tablet-Based Graphing Calculator",
+      "Differential Equations Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

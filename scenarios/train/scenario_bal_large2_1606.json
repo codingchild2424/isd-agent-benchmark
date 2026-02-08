@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1606",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Linear Inverse Problem Signal Restoration Education Course Using Deep Unfolding",
+  "context": {
+    "prior_knowledge": "Fundamental Linear Algebra, Signal Processing Concepts, Python Programming Basics, and Understanding of Neural Network Models",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Applying a blended learning approach that combines theoretical understanding and simple practical exercises in limited-technology environments (smartphone-centric). Includes a case study on near-infrared signal restoration using RGB images",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can explain the mathematical modeling of inverse linear problems and the fundamental principles of signal restoration",
+    "They can comparatively explain the structure of deep unfolding models and their advantages over conventional optimization techniques",
+    "They can implement signal restoration problems using multimodal information (e.g., RGB images) with real-world data and evaluate performance"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Whiteboard/Markers",
+      "Printed learning materials",
+      "Smartphone-based simulation tool",
+      "Sample Dataset (USB Storage)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

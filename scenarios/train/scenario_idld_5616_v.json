@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5616-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Service Quality Practical Competencies: Self-Directed Remote Laparoscopic Surgery Skills Training Program",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customer service competency enhancement program for service/customer-facing role practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "For five types of laparoscopic surgery simulation tasks, achieve proficiency benchmarks based on given criteria (cutoff time – actual time – (K×error count)).",
+    "Submit surgical technique videos recorded with a smartphone via a remote submission system following the specified procedure.",
+    "Achieve accuracy within 2 standard deviations of the expert average score in three consecutive performance tests"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Customer Relationship Management (CRM) System",
+      "Customer Interaction Simulator",
+      "Service Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

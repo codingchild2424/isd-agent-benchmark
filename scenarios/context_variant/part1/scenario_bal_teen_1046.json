@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-1046",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Gamified Simulation Training for Explosion Accident Response",
+  "context": {
+    "prior_knowledge": "Understanding of basic first aid and safety management principles",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Gamifying real explosion accident scenarios to provide an immersive learning environment, enhancing collaborative decision-making training among learners",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Perform initial response procedures (reporting, evacuation guidance, first aid) during explosion incidents with 90% accuracy through simulation games",
+    "Apply at least three explosion-type-specific response strategies by scenario through in-game crisis judgment missions",
+    "Achieve weekly simulation evaluation scores above 80 points and 100% peer feedback implementation rate during the learning period"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Virtual Reality Simulation Platform",
+      "Explosion Incident Response Manual (PDF)",
+      "Collaboration Tools (Online Whiteboards, Chat Systems)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0414",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Ethical Design and Utilization of Learning Analytics",
+  "context": {
+    "prior_knowledge": "Data-driven instructional design and basic statistical analysis experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "In the mathematics curriculum, applying learning analytics requires strengthening design capabilities that consider ethical issues (privacy protection, prevention of data misuse, etc.) when collecting and interpreting learner data.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify and explain three or more ethical issues that may arise during the collection and processing of learning analytics data.",
+    "Learners can design ethics guidelines for data utilization in mathematics learning environments.",
+    "Learners can propose analysis processes applying personal information protection and anonymization techniques in large-scale learner datasets."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Analytics Tool Demo Account",
+      "Ethics Case Study Materials",
+      "Mobile Learning Platform API Documentation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2701",
+  "variant_type": "idld_aligned",
+  "title": "Fundamentals and Applications of 3D Human Motion Generation",
+  "context": {
+    "prior_knowledge": "Linear algebra, foundational machine learning, and basic understanding of 3D graphics",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners understand 3D motion generation principles through mathematical modeling and deep learning techniques, applying them to real data via projects. Practical exercises and collaboration are conducted using personal devices.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the core mathematical model (ADAM-Net) for 3D human motion generation.",
+    "Learners can implement motion transition generation techniques using random masking and attention mechanisms.",
+    "Learners can evaluate 3D pose/shape interpolation results between given 2D image sequences and suggest improvement strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based deep learning frameworks (PyTorch/TensorFlow)",
+      "3D motion dataset (MoCap data)",
+      "Cloud-based development environment (e.g., Google Colab)",
+      "3D visualization tools (Blender/PyMesh)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

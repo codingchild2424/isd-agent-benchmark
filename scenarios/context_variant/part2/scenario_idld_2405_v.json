@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2405-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Deep Learning Practical Competencies: Work-Integrated Learning (WIL) and Online Learning for Practical Skills",
+  "context": {
+    "prior_knowledge": "Basic math knowledge and basic problem-solving experience in work settings",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can independently design a mathematical modeling process 100% autonomously using real-world workplace scenarios.",
+    "Learners apply statistical analysis techniques acquired from online learning modules to practical settings, producing three data-driven decision-making reports.",
+    "Learners identify three work-related problems during WIL, incorporate at least five peer feedback sessions from an LMS discussion board, and present two mathematical solutions in a PPT (10–15 slides). Solutions must score at least 4 out of 5 in two of three pre-evaluation rubric criteria (problem clarity, mathematical appropriateness, feasibility)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0210",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Community Public Health Research-Based Online Learning Course",
+  "context": {
+    "prior_knowledge": "Understanding of basic public health concepts (not required)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical online learning environment focused on solving community health issues, strengthening public health competencies through step-by-step research process activities.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design community health issue survey questionnaires with over 80% accuracy",
+    "Learners can revise and improve public health research protocol drafts three or more times using online collaboration tools",
+    "By week 16, learners can submit one actionable proposal for improving community health"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account",
+      "Google Workspace Collaboration Tools",
+      "Open-Source Statistical Analysis Tools",
+      "Public Health Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

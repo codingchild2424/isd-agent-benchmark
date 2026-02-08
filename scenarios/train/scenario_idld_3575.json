@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3575",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Project-Based Language Learning for Business Professionals",
+  "context": {
+    "prior_knowledge": "Foundational business terminology and mobile device proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A process focused on improving language application in business contexts through real-time collaboration and case analysis in a BYOD environment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can utilize domain-specific (medical/legal/technical) language expressions with 80% accuracy through business scenario-based mobile projects.",
+    "Learners can generate and revise language solutions at least three times, incorporating real-time peer feedback via mobile platform collaboration tools.",
+    "Learners can apply over 50 core vocabulary items needed for business meetings/document writing contextually using micro-content (under 5 minutes)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Project template",
+      "Discipline-Specific Case Database",
+      "Automated Grading Quiz System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

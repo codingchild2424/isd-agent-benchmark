@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4454",
+  "variant_type": "idld_aligned",
+  "title": "Design and Operation of Online Science Courses Based on IMS Learning Design",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and proficiency in fundamental online learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Online science education course enabling real-time interaction in smartphone-based constrained technology environments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design one or more science lecture modules using IMS LD templates",
+    "Learners can conduct small-group discussions and experiment simulations using real-time video conferencing tools",
+    "Learners can complete summative assessments through evaluation tools optimized for mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IMS LD-Based Course Design Template",
+      "Mobile-Compatible Real-Time Lecture Tool",
+      "Smartphone-Optimized Assessment System",
+      "Science Experiment Simulation App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5871-V",
+  "variant_type": "context_variant",
+  "title": "Short-Intensive Course for Strengthening Physics-Based Decision-Making Competencies",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Data-driven decision-making training using physics problems in a smartphone-based learning environment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can analyze physics experiment data to derive context-specific optimal decisions with at least 80% accuracy",
+    "Learners can identify their relative decision-making competency position compared to peers using Rasch model-based assessment tools",
+    "Learners can cultivate the ability to apply three or more decision-making strategies when solving dynamic electrical engineering problems"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Assessment Item Set",
+      "Physics Simulation App",
+      "Rasch Analysis-Based Report Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

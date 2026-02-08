@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0511",
+  "variant_type": "balance_medium_scale",
+  "title": "ARCS Model-Based Motivational Design for Enhancing e-Learning Quality",
+  "context": {
+    "prior_knowledge": "Fundamental mobile device usage skills and elementary-level social studies comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Personalized content delivery via learners' mobile devices (BYOD), with case-based learning linked to real-world problems",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can evaluate e-learning content using the four elements (Attention, Relevance, Confidence, Satisfaction) of the ARCS model.",
+    "Learners can design three or more microlearning materials in mobile environments, considering usability and motivation.",
+    "Learners can derive five or more quality indicators for e-learning modules based on social problem-solving cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "ARCS Model Application Casebook",
+      "Mobile Learning Authoring Tool",
+      "Usability Evaluation Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0398",
+  "variant_type": "idld_aligned",
+  "title": "Radiation Oncology Anatomy Education: Scientific Microlearning and Experimental Approaches for Multidisciplinary Interaction",
+  "context": {
+    "prior_knowledge": "Basic knowledge of radiation oncology or medical physics, fundamental radiation therapy principles, scientific methodologies (hypothesis formulation, observation, experimental design), and foundational medical imaging analysis",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted as smartphone-based scientific microlearning with formative assessments providing real-time feedback. Designed for working professionals, this course integrates theory and clinical application, emphasizing scientific inquiry processes (observation, hypothesis formulation, data analysis, conclusion). Cultivates clinical decision-making through experimental data interpretation and variable control training.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners accurately identify 3D anatomical structures in radiation therapy planning using scientific inquiry methods, systematically analyze experimental data, and derive evidence-based conclusions.",
+    "Learners can distinguish tumors and surrounding structures in CT/MRI images with 90% accuracy and establish scientific analysis and evidence-based treatment strategies based on quantitative measurement results.",
+    "Learners can collaborate with radiation oncologists, medical physicists, and radiation technologists to design patient-specific radiation therapy plans within 2 hours using 3D simulation software (e.g., RayStation), create simulation reports meeting coverage of ≥95% for target areas and radiation dose to surrounding tissues <5%, and validate scientific validity by applying variable control and data analysis techniques."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible 3D Anatomy Model",
+      "Radiological Imaging Database",
+      "Interactive Quiz Platform",
+      "Weekly Learning Module Package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

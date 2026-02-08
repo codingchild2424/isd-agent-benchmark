@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1017",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Development of Instructional Methods Using Interactive E-books in High School Social Studies",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and foundational understanding of social studies concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducts blended classes using interactive e-books for social studies learning in environments where digital devices (tablets/laptops) are provided. Students engage in both theoretical learning and digital media production/analysis activities",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain core social studies concepts (e.g., principles of democracy, economic systems) with over 80% accuracy using multimedia features of interactive e-books",
+    "Learners can apply metacognitive strategies at least three times during problem-solving processes using interactive elements (quizzes, virtual experiments, etc.) within e-books",
+    "Learners can self-regulate distractions (messengers, games, etc.) while using digital devices and e-books, increasing focused learning time by over 20% compared to baseline"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "30 Tablets/Laptops",
+      "Interactive eBook Authoring Platform",
+      "LMS Learning Management System",
+      "5 Social Studies eBooks Linked to Textbooks"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

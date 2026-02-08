@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7939",
+  "variant_type": "idld_aligned",
+  "title": "Analysis of Remote Education Video Effectiveness: Mathematics Lecture Design Strategies",
+  "context": {
+    "prior_knowledge": "Advanced mathematical knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A short-term corporate manager training program conducted in limited-technology environments using smartphones, measuring learning effectiveness through project-based assessments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can compare the impact of visual motion differences between two video types (hand-drawn vs. PPT narration) on engagement levels.",
+    "Learners can explain how prior knowledge levels affect video learning outcomes (retention/transfer).",
+    "Learners can propose video production strategies suitable for corporate training contexts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Sample Math Lecture Video",
+      "Smartphone Video Playback Device",
+      "Pre-/Post-Knowledge Assessment Tool",
+      "Engagement Survey Scale"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

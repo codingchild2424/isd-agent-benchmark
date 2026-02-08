@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7304",
+  "variant_type": "idld_aligned",
+  "title": "Personalized Language Education Design Utilizing Generative AI",
+  "context": {
+    "prior_knowledge": "Basic digital tool proficiency and practical experience in language education fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A constrained technological environment centered on smartphones, requiring real-time interaction and the use of generative AI tools.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design personalized language education content using generative AI",
+    "Learners can identify ethical issues (such as bias, information reliability) that may arise when applying generative AI and propose response strategies",
+    "Learners can revise and improve AI-supported language education programs three or more times by applying an iterative design process"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Generative AI Tool",
+      "Online Collaboration Platform",
+      "Ethical Review Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8229",
+  "variant_type": "idld_aligned",
+  "title": "STEM+C Learning Engagement Design Through Smart Greenhouse Projects",
+  "context": {
+    "prior_knowledge": "Fundamental programming concepts and understanding of plant growth conditions",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based learning in BYOD environments, focusing on technology application cases linked to social issues",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain a three-step or more sensor data collection and analysis process for designing a smart greenhouse system.",
+    "Learners can implement a plant growth environment automatic control algorithm using Python-based microcontroller code",
+    "Learners can propose at least two ways in which STEM+C technologies contribute to solving social problems based on project outcomes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Arduino/Raspberry Pi Kit",
+      "Temperature and Humidity Sensor Set",
+      "Project Management Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0311",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Language-based Collaborative and Problem-based Learning Design Utilizing Educational Robotics",
+  "context": {
+    "prior_knowledge": "Fundamental robotics concepts, understanding of programming languages (block coding), basic principles of electronic circuits, and introductory skills in technical writing and oral presentations",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Team-based virtual robotics simulation in BYOD environments. Combines biweekly 90-minute synchronous sessions (video conferencing) with asynchronous tasks (online forum discussions/feedback). Prioritizes vocabulary expansion and technical terminology acquisition.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform effective communication and role distribution in teams of up to three members to solve robotics engineering problems and develop the ability to explain technical concepts clearly and express logical reasoning using technical terminology.",
+    "Learners can analyze real-world robotics design problems, establish problem-solving strategies, implement them in a simulation environment, and strengthen systematic technical documentation skills by writing project reports.",
+    "Learners can produce outcomes applying strategic thinking, dynamic problem-solving, and creative approaches in project-based collaborative learning, and master grammatically accurate language expression and professional terminology use during team communication."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual robot simulation software licenses",
+      "Online collaboration tools (e.g., Miro, Notion)",
+      "Robotics starter kits (for rental)",
+      "Problem-based learning (PBL) scenario templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

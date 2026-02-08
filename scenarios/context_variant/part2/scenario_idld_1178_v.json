@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1178-V",
+  "variant_type": "context_variant",
+  "title": "Social Studies Module for Strengthening Fidelity in Flipped Learning Design",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Applying a flipped learning model to effectively deliver social studies content in smartphone-centric limited-technology environments. Requires establishing a formative assessment-focused feedback system",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners apply the four core principles of flipped learning (F-L-I-P™) to actual classroom instruction.",
+    "Learners achieve over 80% participation in learning activities in mobile environments using self-directed learning strategies.",
+    "Learners master over 90% of learning content through peer feedback and formative assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "5-Minute Micro-Lecture Content",
+      "Interactive Quiz Template",
+      "Peer Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

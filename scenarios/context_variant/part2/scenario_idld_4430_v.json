@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4430-V",
+  "variant_type": "context_variant",
+  "title": "Student Performance Prediction Strategy through Virtual Tutor-Based Learning Analytics",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "For graduate students in science, a course practicing personalized instructional interventions via learning analytics tools and virtual tutors in a BYOD environment, with real-time monitoring of learning effects through formative assessments.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Design a student performance prediction model using learning analytics tools and apply path analysis techniques",
+    "Propose instructional intervention plans implementing motivation, learning design, and communication strategies via virtual tutor systems",
+    "Design a process for providing personalized learning feedback by analyzing formative assessment results based on learning data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Analytics Software",
+      "Virtual Tutor Platform",
+      "Real-time Data Visualization Tool",
+      "Online Collaboration Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0545",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Language Data Analysis Course Based on Explicit Mathematics Instruction",
+  "context": {
+    "prior_knowledge": "Understanding of basic statistical concepts and experience with data visualization tools",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A program training 20-something university students in mathematical foundations for language data analysis through explicit instruction, combining online modules and offline workshops",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can create data visualization reports using explicit modeling techniques for language pattern frequency analysis.",
+    "Learners can perform statistical significance verification procedures for language data according to teacher feedback system principles.",
+    "Learners can implement algorithms to analyze numerical characteristics of language datasets through structured practice opportunities."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook Environment",
+      "Linguistic Corpus Dataset",
+      "Statistical calculation tools",
+      "LMS platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

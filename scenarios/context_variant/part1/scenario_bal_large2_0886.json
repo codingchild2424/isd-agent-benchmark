@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0886",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Online Collaborative Writing-Based Mathematics Research Paper Workshop: Systematic Integration of Formulas, Equations, Graphs, and Proofs with Optimized Data Visualization",
+  "context": {
+    "prior_knowledge": "Basic academic writing skills, intermediate-level understanding of math concepts (calculus, linear algebra, probability theory), foundational proficiency in digital tools (Google Docs, LaTeX, graphing tools), and basic statistical analysis skills (data visualization, table creation)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A collaborative writing course focused on enhancing team-based research skills for mathematics academic paper writing. Simulates web-based collaborative activities (Google Docs) using formula/graph/table generation tools. Combines formative assessments (interim paper evaluations, feedback incorporation checks) with summative evaluations (final paper submission assessing mathematical logic consistency, data visualization completeness, formula derivation accuracy). Particularly evaluates adherence to scientific notation (axis labels, units, error bars) in graph creation.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Integrate LaTeX equation editors and graph/table generation tools when drafting mathematics papers using collaborative web-based platforms, conduct real-time feedback (formula verification, graph accuracy assessment) with team members at least three times, and ensure version control capabilities.",
+    "Learners maintain a 7:3 ratio between text space (content organization) and interface usage (tools: equation, graph, table generation) when creating mathematical content in online collaborative environments, and design a process to achieve mathematical accuracy (over 90%, including formula derivation and statistical analysis) and collaborative efficiency (20% reduction in task completion time) across at least three collaborative projects.",
+    "Within six months, learners systematically organize over ten asynchronous communication records (Slack, email, shared documents, etc.) from team members into a portfolio during the mathematics research paper writing process, analyze them to submit a paper reflecting at least three mathematical evidences (experimental data, formula derivation, statistical analysis) in the introduction-methods-results structure. Each evidence must achieve over 80% suitability in peer review and advisor evaluation, and meet a 90%+ standard for data visualization completeness (graphs/tables)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Google Workspace for Education Account",
+      "Miro Collaborative Board",
+      "LaTeX Template",
+      "Mathematics Thesis Sample Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

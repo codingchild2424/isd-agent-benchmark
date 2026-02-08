@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0314",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Mobile-Based Introduction to Anatomy: Short-Term Intensive Distance Learning Program",
+  "context": {
+    "prior_knowledge": "Fundamental life science concepts comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A foundational anatomy course adapted to non-face-to-face educational environments post-COVID-19. Time-efficient learning design utilizing mobile devices.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Identify 15 major structures of the head-neck region with 85% accuracy using online 3D anatomy models.",
+    "Achieve over 90% mastery of anatomy terminology memorization through weekly mobile quizzes.",
+    "Perform collaborative activities with peer learners to explain functional associations of anatomical structures three or more times in virtual discussion rooms."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible 3D Anatomy Application",
+      "Weekly PDF Learning Module",
+      "Video Lecture Library",
+      "Online quiz system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0032",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Blended e-learning course for evidence-based medical practice competencies: Strengthening scientific inquiry skills",
+  "context": {
+    "prior_knowledge": "Foundational clinical medicine knowledge, basic research methodology concepts, and ability to design scientific experiments and interpret data",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A customized course for healthcare professionals primarily using smartphones, combining real-time sessions with mobile-optimized learning materials. Learners practice formulating hypotheses and evidence-based decision-making based on observable clinical data.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the five-step Evidence-Based Medicine (EBM) process—formulating questions, literature search, critical appraisal, application, and evaluation—with 80% accuracy according to scientific inquiry procedures.",
+    "Learners can construct research questions using the PICO framework (Patient/Population, Intervention, Comparison, Outcome) based on real clinical scenarios and clearly distinguish variables.",
+    "Learners pass formative assessments with over 75% accuracy by critically analyzing research papers (e.g., evaluating measurement validity, evidence levels) on smartphone-based platforms to determine practical applicability."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "Real-Time Video Conferencing Tool",
+      "Evidence-Based Medicine (EBM) Case Database",
+      "Interactive Quiz Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

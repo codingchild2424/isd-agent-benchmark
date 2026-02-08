@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3374",
+  "variant_type": "idld_aligned",
+  "title": "Project-Based Learning Course for Advanced Data Literacy",
+  "context": {
+    "prior_knowledge": "Experience in basic statistics and data analysis",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Work-Integrated Education for Science-Related Job Applications",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Practical competencies are assessed at each stage of the data project lifecycle (planning-collection-analysis-visualization-interpretation).",
+    "Learners achieve proficiency in data processing and visualization using industry-standard tools (e.g., Excel, Tableau).",
+    "Learners develop the ability to clearly communicate complex scientific information through data-driven storytelling.",
+    "Learners cultivate the ability to explore new data analysis techniques using self-directed learning strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Industrial Data Analysis Software License",
+      "Science Field Practical Dataset",
+      "Digital Collaboration Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5373",
+  "variant_type": "idld_aligned",
+  "title": "Online Library Information Utilization Scenario-Based Instructional Module",
+  "context": {
+    "prior_knowledge": "Academic research skills and understanding of basic citation methods",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aims to develop advanced information literacy skills required for scientific research and report writing. Operates in a blended environment, combining online modules and offline workshops.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Effectively search for and evaluate the latest scientific papers in academic databases.",
+    "Select credible reference materials aligned with research topics and cite them in APA style.",
+    "Design a collaborative research material management process using online library systems."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Library digital archive",
+      "Online Lecture Authoring Tool",
+      "LMS System",
+      "Science Domain-Specific Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

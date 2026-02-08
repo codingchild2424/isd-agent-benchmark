@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5593",
+  "variant_type": "idld_aligned",
+  "title": "Interactive Flexible Instructional Design and Training Implementation",
+  "context": {
+    "prior_knowledge": "Basic mobile device proficiency and general understanding of social studies concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are office workers (administrative/managerial) studying in a limited technological environment based on smartphones. Their application skills are verified through project-based assessments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain at least three training execution strategies tailored to learner characteristics using flexible instructional methods.",
+    "Learners can design one or more instructional plans that respond to real-time learner reactions by applying interaction-based learning techniques.",
+    "Learners can complete a project that solves social domain job-related problems using microlearning content optimized for mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Microlearning Platform",
+      "Interactive Tools (Quiz/Discussion Apps)",
+      "Case-Based Project Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

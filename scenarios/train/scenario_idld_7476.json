@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7476",
+  "variant_type": "idld_aligned",
+  "title": "Microlearning for Medication Treatment Simulations for Adult Learners",
+  "context": {
+    "prior_knowledge": "Fundamental Pharmaceutical Knowledge and Understanding of Chronic Disease Management",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Ensuring flexibility to divide learning time during work hours while utilizing mobile devices in a BYOD (Bring Your Own Device) environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze complex drug interaction simulation scenarios with over 85% accuracy",
+    "90% of participants report increased confidence in judging drug efficacy after simulation-based assessments",
+    "Within one week of completing the course, over 75% demonstrate the ability to develop treatment plans applicable to real-world tasks in a comprehensive evaluation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Web-Based Simulation Platform",
+      "Mobile-optimized 5-minute learning modules",
+      "Auto-graded SOAP note template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

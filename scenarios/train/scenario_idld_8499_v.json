@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8499-V",
+  "variant_type": "context_variant",
+  "title": "Short-Intensive Capstone Project Course for Strengthening Statistical Practical Competencies",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Statistics and Data Analysis Tools (Excel, R/Python Fundamentals)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A program aimed at strengthening current practitioners' statistical application skills, providing hands-on experience in a limited coding environment using pre-processed data.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners explain conceptual principles of a given statistical model without treating it as a \"black box\"",
+    "Learners apply statistical techniques to solve practical problems through real-case-based data analysis projects",
+    "Learners can explain statistical reasoning results (e.g., mean, standard deviation, confidence intervals) related to public policy to non-experts (citizens, stakeholders) within 3 minutes, achieving over 80% satisfaction in post-explanation comprehension surveys"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Pre-Processed Educational Dataset",
+      "Cloud-Based Statistical Analysis Tool",
+      "Project Guidebook",
+      "Case Study Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

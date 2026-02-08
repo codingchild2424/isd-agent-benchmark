@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0014",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Language-based Gamification Training for Construction Site Hazard Identification",
+  "context": {
+    "prior_knowledge": "Understanding of basic construction site safety regulations and workflows, and foundational knowledge of safety-related terminology (hazard identification, response protocols, etc.)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Gamified training in a smartphone-based microlearning environment, targeting the enhancement of hazard identification skills, safety terminology acquisition, and communication proficiency in construction sites.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify the top 10 hazards at construction sites with 90% accuracy within three days and clearly explain related safety terminology.",
+    "Through gamified simulations, learners select and verbally/textually describe appropriate response procedures within 10 seconds of encountering a hazardous situation.",
+    "After training, learners upload at least three risk-identification case studies to a peer assessment system and provide feedback using specialized terminology."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible gamification platform",
+      "Construction site 3D VR content (smartphone-optimized)",
+      "Real-time interactive quiz system",
+      "Learner activity data analysis tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

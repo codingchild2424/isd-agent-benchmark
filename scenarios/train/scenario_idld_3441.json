@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3441",
+  "variant_type": "idld_aligned",
+  "title": "Tamil Handwriting Character Recognition Pedagogical Design Using Transfer Learning",
+  "context": {
+    "prior_knowledge": "Basic deep learning concepts, understanding of CNN models, Python programming experience, and language instruction experience in educational settings",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Development of digital pedagogy for enhanced Tamil language education, emphasizing practical training based on real classroom scenarios in VR environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "The accuracy of Tamil handwritten character recognition can be improved to over 90% using a transfer learning model based on Inception-v3.",
+    "The HP Tamil dataset can be preprocessed, and the feature extraction process can be replicated in a simulated environment.",
+    "Instructional design strategies can be developed to adjust model hyperparameters based on formative assessment results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GPU-enabled workstation",
+      "VR headsets (10 units)",
+      "HP Tamil character dataset license",
+      "Google Colab Pro account"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

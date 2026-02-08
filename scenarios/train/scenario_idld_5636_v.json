@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5636-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Microlearning Course for Developing Covariational Reasoning in Trigonometry: Focus on Graphs, Equations, and Variable Analysis",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental trigonometric concepts (period, amplitude, phase), experience in advanced graph interpretation, and foundational knowledge of calculus",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners study without spatiotemporal constraints using mobile devices, with daily 15-20 minute modules (graph analysis/equation-solving tasks). Real-time video sessions (2 sessions) focus on proof analysis, while asynchronous discussion boards share problem-solving strategies.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Using dynamic visualization tools (e.g., graphing calculators), learners can explain the relationships between trigonometric function variables as equation inference steps on coordinate systems.",
+    "Through a step-by-step task sequence (discrete data → continuous functions), learners progress in their ability to infer periodicity, amplitude, and phase shifts in trigonometric functions.",
+    "Based on formative assessment feedback (problem-solving analysis), learners can reflect on and revise their reasoning processes (variable control, graph interpretation)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GeoGebra app access permissions",
+      "LMS System",
+      "Instructor analytics tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

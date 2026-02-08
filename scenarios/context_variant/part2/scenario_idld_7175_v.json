@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-7175-V",
+  "variant_type": "context_variant",
+  "title": "Flipped Learning-Based Digital Circuit Design and Applications",
+  "context": {
+    "prior_knowledge": "Foundational knowledge of electrical engineering and binary number systems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Non-real-time online classes in a digital device-provided environment, featuring a practice-oriented curriculum for professionals.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the basic components and operational principles of digital logic circuits.",
+    "Learners can design simple digital systems using HDL (Hardware Description Language).",
+    "Learners can analyze digital circuit design problems based on real-world cases and propose solutions.",
+    "Learners can verify and optimize the operation of designed circuits using simulation tools.",
+    "Learners can collaborate with peers on design projects through a Learning Management System (LMS)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital Circuit Simulation Software",
+      "Online Lecture Video",
+      "Digital Logic Gate Kit",
+      "HDL Development Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

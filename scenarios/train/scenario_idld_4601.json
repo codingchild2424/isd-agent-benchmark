@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4601",
+  "variant_type": "idld_aligned",
+  "title": "Web-Based Educational Application Management: SCM-Driven Evolution Strategies",
+  "context": {
+    "prior_knowledge": "Basic web development knowledge and understanding of software engineering concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Need to acquire systematic management processes for the development and operation of language learning applications",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Identify components of web-based language learning applications and design version control systems using SCM tools",
+    "Execute procedures to track and back up changes in learning content by applying SCM techniques in simulated environments",
+    "Implement workflows to handle application configuration change requests with team members using VR-based collaboration tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GitLab/GitHub account",
+      "Web development tool stack",
+      "VR Simulation Platform License"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

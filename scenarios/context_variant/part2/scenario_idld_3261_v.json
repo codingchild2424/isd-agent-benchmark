@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3261-V",
+  "variant_type": "context_variant",
+  "title": "Mobile Collaborative Learning Design for Developing PISA-Type Mathematical Tasks",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based assessments in BYOD environments emphasize the ability to develop math problems reflecting real-life contexts",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze and design PISA-style math tasks by identifying their core elements (contextuality, openness, real-life relevance).",
+    "In a collaborative learning environment, use mobile tools to generate three or more peer feedback-based task improvement plans.",
+    "Develop two or more PISA-style tasks applying real-world cases (e.g., sports game analysis) in the domain of data uncertainty and statistical reasoning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "PISA Task Templates",
+      "Data Visualization Tool",
+      "Collaborative Learning Guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

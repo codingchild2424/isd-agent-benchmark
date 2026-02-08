@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8255",
+  "variant_type": "idld_aligned",
+  "title": "Microlearning Based on Online Violence Prevention Simulation",
+  "context": {
+    "prior_knowledge": "Foundational psychology and pedagogical knowledge, digital literacy",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Online violence prevention competency enhancement program for pre-service teachers. Optimized for smartphones to accommodate environments without PCs",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the four-stage intervention model for online violence (recognition-responsibility-intervention-follow-up) with 85% accuracy.",
+    "Learners can consecutively select and apply appropriate intervention strategies three times in simulation scenarios.",
+    "Learners submit team-based prevention strategy project reports based on real-world cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Interactive Scenario Template",
+      "Role-play video materials",
+      "Real-Time Quiz Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

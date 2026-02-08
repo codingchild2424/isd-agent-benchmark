@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0469",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Instructional Design-Based Educational Program for Postpartum Hemorrhage Simulation Training",
+  "context": {
+    "prior_knowledge": "Basic obstetrics and gynecology knowledge and experience handling emergency situations",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical training-focused education using digital devices and simulation equipment, providing an integrated learning environment connecting theoretical foundations with actual clinical scenarios",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners perform clinical judgment and procedural interventions with over 90% accuracy in postpartum hemorrhage simulation scenarios.",
+    "Learners establish effective collaboration systems in over 80% of situations by applying team-based communication protocols.",
+    "Learners apply acquired skills in real clinical settings at over 70% proficiency within two weeks post-simulation training."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Fidelity Postpartum Hemorrhage Simulation Kit",
+      "Digital Assessment System",
+      "Video Lecture Materials",
+      "Standardized Assessment Checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

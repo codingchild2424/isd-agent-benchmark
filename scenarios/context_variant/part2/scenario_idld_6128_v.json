@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6128-V",
+  "variant_type": "context_variant",
+  "title": "Learning Analytics-Based Strategies for Improving MOOC Engagement Retention",
+  "context": {
+    "prior_knowledge": "Basic online learning experience and understanding of fundamental social science concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Conducted in constrained technological environments based on smartphones, with the core challenge being sustained engagement of non-degree-seeking adult learners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners diagnose individual learning patterns with 80% accuracy using learning analytics tools provided on MOOC platforms",
+    "Establish personalized learning plans based on analysis results and achieve sustained learning engagement for four weeks or more",
+    "Participate in peer interaction activities (discussions, feedback) at least twice weekly and improve social learning engagement by 30%"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS System",
+      "Learning Behavior Tracking Software",
+      "Weekly Learning Engagement Report Template",
+      "Mobile-friendly social learning tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

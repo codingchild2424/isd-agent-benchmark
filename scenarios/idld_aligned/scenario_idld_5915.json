@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5915",
+  "variant_type": "idld_aligned",
+  "title": "Learning Engagement and Co-Creation of Value Design in Online Science Education",
+  "context": {
+    "prior_knowledge": "Foundational science education theory and experience in operating online learning platforms",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Pre-service teachers conducting projects to design online learning environments in the field of science.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Cultivation of data collection and analysis skills using a four-dimensional (behavioral, cognitive, emotional, social) online learning engagement measurement tool.",
+    "Development of competency in analyzing causal relationships between learning engagement factors and motivation using structural equation modeling (SEM).",
+    "Enhancement of the ability to establish value co-creation strategies when designing online science projects that consider diverse learner characteristics.",
+    "Cultivating the ability to propose improvements for online learning environments reflecting formative assessment results"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "SEM Analysis Software (AMOS/R)",
+      "Online Learning Platforms (Google Classroom/Moodle)",
+      "BYOD-Supported Wi-Fi Infrastructure",
+      "Science Experiment Simulation Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

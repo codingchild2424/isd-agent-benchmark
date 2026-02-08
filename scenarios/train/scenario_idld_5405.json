@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5405",
+  "variant_type": "idld_aligned",
+  "title": "Ontology-Based Customized Java Programming Education Program",
+  "context": {
+    "prior_knowledge": "Basic programming concepts and computer literacy",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customized Java programming education for mid-level professional learners in online environments, tailored to individual learning levels and progress",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can implement simple application logic using Java’s basic syntax and object-oriented programming concepts.",
+    "Learners can complete 80% or more of practical assignments tailored to individual understanding levels through personalized learning paths provided by an ontology-based system.",
+    "Learners can demonstrate basic Java programming problem-solving skills with 70% or higher accuracy in summative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Custom Ontology Learning Platform",
+      "Zoom Account and Online Classroom",
+      "Pre-Installed Java Development Environment (IDE) Package",
+      "Beginner Java Textbook PDF"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

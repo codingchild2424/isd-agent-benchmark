@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1323",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Large-scale Museum Game-based Learning Design: Exploring Cultural Heritage through a Constructivist Approach",
+  "context": {
+    "prior_knowledge": "Basic Understanding of Cultural Heritage and Digital Device Utilization Skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Establishing a field-linked learning environment using smartphones, enabling collaboration with museums.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze historical contexts of museum exhibits in three or more ways using game mechanics",
+    "Learners can propose cultural heritage preservation plans through simulation games by collaborating with peers in PBL format",
+    "Learners can create interactive learning materials about exhibits using smartphone-based game tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Game Development Tools (e.g., ARIS, Twine)",
+      "Museum Collaboration Resources (Digital Archives, On-Site Access Permissions)",
+      "Low-Specification PC (1 unit for Mid-Check)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7815-V",
+  "variant_type": "context_variant",
+  "title": "Problem-Based Learning (PBL)-Enhanced Dental Practice Competency Development Course",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Course targeting corporate dental product/service managers, focusing on improving problem-solving skills through analysis of real clinical cases",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically analyze complex dental patient cases and derive solutions through PBL (Project-Based Learning) activities.",
+    "Learners can improve self-directed learning ability by over 20% through small-group collaboration (4-6 members).",
+    "Learners improve technical knowledge (oral anatomy, treatment protocols, etc.) by over 30% and achieve over 80 points in formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Real-World Dental Treatment Case Database",
+      "3D Oral Modeling Kit",
+      "Digital Diagnostic Tools (Tablet PC)",
+      "Collaborative worksheet template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

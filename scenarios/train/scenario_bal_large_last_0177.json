@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0177",
+  "variant_type": "balance_large_last",
+  "title": "Image and Voice Optimization Strategies for Online Mathematics Instructors: Learning Achievement Comparison Through Statistical Analysis",
+  "context": {
+    "prior_knowledge": "Basic mathematical knowledge (equations, functions, geometric concepts) and statistical fundamentals (mean, standard deviation calculation, t-test, ANOVA performance)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners access the LMS via personal devices (BYOD), with project-based assessments (real-world math problem-solving tasks) measuring learning outcomes. As a beginner-level math curriculum, it experimentally verifies how instructors’ visual/verbal expression methods affect learning outcomes (problem-solving skills, conceptual understanding). Content balances algebra, geometry, and statistics, systematically covering graph interpretation, probability calculations, and proof processes",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners solve 80 math problems (20 per type: original/idealized/virtual/none) and analyze significant differences (p-value < 0.05) in average accuracy (%) and conceptual understanding survey scores (5-point Likert scale) across types using t-tests or ANOVA. Accuracy in equation, function, and geometry problem-solving is evaluated based on formula and graph interpretation.",
+    "Learners listen to 10 AI-generated math lecture samples (3 voice types: original/altered/synthesized, covering equations, functions, geometry), compare average satisfaction scores (5-point Likert scale) across types, and propose the top 2 types with ≥ 0.5-point differences as optimal strategies. Analysis focuses on probabilistic clarity and proof delivery effectiveness per voice type.",
+    "Learners measure perceived social presence and academic emotions (boredom, immersion) to investigate how image/voice types affect mathematical concept acquisition. Regression analysis and correlation coefficients derive relationships between learning outcomes and emotional factors."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online lecture production equipment (camera, microphone)",
+      "LMS System",
+      "Video editing software",
+      "Learning Outcomes Measurement Questionnaire"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6273-V",
+  "variant_type": "context_variant",
+  "title": "Intensive Course on Scientific Software Development for Nursing Continuing Education",
+  "context": {
+    "prior_knowledge": "Basic computer literacy, foundational nursing knowledge, elementary understanding of scientific inquiry methods (observation, hypothesis formulation, experimental design)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-centered education combining software development processes with nursing content via a contextual instructional design-based LMS. Special focus is placed on developing educational content applying scientific methodologies such as medical data measurement, analysis, and visualization.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can write a software functional specification reflecting scientific needs for nursing continuing education.",
+    "Learners can implement a prototype processing experimental/observational data for nursing education content by applying an LMS-based development process.",
+    "Learners can complete a software development project in teams of three within five days using collaborative tools like GitHub and Trello in a BYOD environment, achieving over 80% implementation of functional requirements and scoring 3+ out of 5 on a peer evaluation rubric. This process applies scientific inquiry methods (hypothesis setting, variable control, data analysis, conclusion drawing)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Development Environment Setup Guide",
+      "Nursing education scenario templates",
+      "LMS API Documentation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

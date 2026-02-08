@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5510-V",
+  "variant_type": "context_variant",
+  "title": "Biofeedback-Based Learning Design for Arousal State Management and Achievement Improvement",
+  "context": {
+    "prior_knowledge": "Understanding of basic biosignals and experience with digital device usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based assessment applying arousal state monitoring during learning to minimize low-arousal (boredom) states and improve achievement.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can classify their arousal states with 80% or higher accuracy by interpreting biofeedback data",
+    "Learners can apply three or more self-regulation strategies contextually when low arousal states occur",
+    "Learners can demonstrate through project execution that arousal state management correlates with academic performance (r=0.6 or higher)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Empatica E4 Wearable Device",
+      "Biometric Signal Analysis Software",
+      "Learning Activity Log Sheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

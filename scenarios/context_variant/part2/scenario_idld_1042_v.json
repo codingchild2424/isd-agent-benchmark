@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1042-V",
+  "variant_type": "context_variant",
+  "title": "Customized VR-Based Mathematics Operation Experiential Learning Design for Special Education Learners",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts (operations, measurement, geometry, graph interpretation) and proficiency in using digital tools (web browsers, basic apps, VR interfaces)",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Providing customized experiential learning environments for special education learners based on cognitive style differences (visual/auditory/kinesthetic). Integrates multiple representations (graphic models, audio explanations, manipulatives) for mathematical concept understanding. Employs spatial reasoning and multimodal representation systems (symbols, diagrams, physical manipulation) in VR settings",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze cognitive styles of learners with special needs and design ≥3 types of customized VR-based math learning content focusing on basic operations (addition/subtraction/multiplication/division) and fractions/equations.",
+    "Develop ≥2 formative assessment tools to measure learner engagement and understanding of operational concepts (variable control, pattern recognition, graph interpretation) (e.g., real-time problem-solving tracking system, visual feedback rating scale).",
+    "Learners can implement a web-based experiential learning platform prototype compatible with BYOD environments within two weeks, meeting the following criteria: 1) ≥95% functional compatibility verified across Chrome, Safari, and Edge browsers; 2) responsive design for mobile/tablet/desktop (320px–1920px resolution); 3) ≥3 basic math operation modules (e.g., fraction learning via visual partitioning models, graphic-based equation solving using coordinate planes, drag-and-drop integer operations); 4) OAuth 2.0-based user authentication (login/logout) with successful security vulnerability testing."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Modeling Software",
+      "VR Development Kit",
+      "Learning Analytics Tools",
+      "Accessibility evaluation checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

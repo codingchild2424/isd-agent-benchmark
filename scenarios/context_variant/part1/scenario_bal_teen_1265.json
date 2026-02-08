@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-1265",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Gagné’s Nine Events of Instruction for Educational Software Development",
+  "context": {
+    "prior_knowledge": "Basic programming concepts and logical thinking skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Developing educational software development competencies to strengthen science education",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can design three or more learning objectives for educational software based on Gagné's Nine Events of Instruction theory",
+    "Students can develop at least one simple educational software using authoring tools accessible to non-programmers",
+    "Students can analyze mobile-optimized microlearning content structures and apply them to real-world projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Educational Authoring Tools (MIT App Inventor or Scratch)",
+      "Mobile-Compatible Authoring Software License",
+      "Cloud-based Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

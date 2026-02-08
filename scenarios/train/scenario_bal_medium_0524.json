@@ -1,0 +1,39 @@
+{
+  "scenario_id": "BAL-MEDIUM-0524",
+  "variant_type": "balance_medium_scale",
+  "title": "Mathematical Modeling and Deep Learning Applications for Multimodal Image Restoration and Fusion",
+  "context": {
+    "prior_knowledge": "Linear algebra, basic deep learning concepts, and fundamentals of image processing",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A specialized training program for engineers currently analyzing multimodal medical/satellite images in their workflows.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can formalize multimodal image restoration problems as mathematical optimization models.",
+    "Learners can understand convolutional sparse coding principles and apply them to image fusion problems.",
+    "Learners can comparatively analyze the strengths and weaknesses of deep learning-based solutions and traditional optimization techniques.",
+    "Learners can design image processing network architectures using the Method of Multipliers (MM).",
+    "Learners can implement restoration/fusion algorithms on real-world industrial image data and evaluate their performance."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Deep Learning Framework",
+      "Image Processing Dataset",
+      "Jupyter Notebook Environment",
+      "Online Lecture Video"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

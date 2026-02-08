@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE3-0233",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Educational Application of Clinical Data for Pediatric Acute Respiratory Distress Syndrome (PARDS) Subphenotype Classification",
+  "context": {
+    "prior_knowledge": "Basic respiratory disease knowledge, critical care concepts, and EHR system comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A training course for pre-service and in-service teachers to enhance medical data interpretation skills, with machine learning-based subtype classification learning using real clinical data",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain at least three classification criteria for PARDS high-inflammation/low-inflammation subtypes",
+    "Apply five key laboratory indicators for subtype discrimination in EHR data",
+    "Evaluate the clinical applicability (sensitivity 76%, specificity 87%) of a machine learning model in real-world cases"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "PARDS Clinical Dataset Sample",
+      "Machine Learning Visualization Tool",
+      "EHR Data Analysis Guide",
+      "Case-based worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

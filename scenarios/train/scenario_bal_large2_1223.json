@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1223",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Lightweight Deep Learning-Based Fog Monitoring and Traffic Safety Simulation [Large-Scale]",
+  "context": {
+    "prior_knowledge": "Basic Python Programming, Understanding of Machine Learning Concepts, and Fundamental Knowledge of Transportation Systems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Education replicating real highway environments using VR-based simulations and lightweight deep learning models in a BYOD setting.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the lightweight design principles of the ABNet model and analyze its applicability in edge computing environments",
+    "Learners will implement MATLAB/Python code applying a 2D discrete wavelet transform algorithm (Haar or Daubechies 4-tap) to generate a 1024x1024 pixel fog density distribution map and three high-frequency component images (horizontal, vertical, diagonal), achieving a PSNR (Peak Signal-to-Noise Ratio) of 30 dB or higher.",
+    "Evaluate the performance of a fog monitoring system in VR environments and propose traffic safety improvements in a project-based format"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Guizhou highway fog dataset sample",
+      "ABNet model architecture documentation",
+      "VR simulation tool license"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

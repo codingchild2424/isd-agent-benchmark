@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3081-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Educational Design for Enhancing Computational Thinking in Science",
+  "context": {
+    "prior_knowledge": "Knowledge of elementary scientific theories and technical application skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can structure and solve scientific problems using a computational thinking framework.",
+    "Learners can visually represent experimental results using data analysis and simulation tools.",
+    "Learners can analyze the social impact of technology and write project reports reflecting ethical considerations.",
+    "Learners can design and execute team-based science projects using collaboration tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

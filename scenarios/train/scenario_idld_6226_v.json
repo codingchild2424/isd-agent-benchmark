@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6226-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: MUVE-Based Scientific Inquiry Project: The Secrets and Ecology of Lakes",
+  "context": {
+    "prior_knowledge": "Basic Ecosystem Concepts and Scientific Inquiry Methodology Understanding",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze causes and effects of ecosystem issues (e.g., eutrophication) using scientific inquiry methods in a MUVE environment.",
+    "Learners can collaboratively derive solutions using a problem-based learning (PBL) approach and present conclusions based on simulation results.",
+    "Learners can collect and interpret virtual ecosystem data to write reports on environmental issues based on scientific evidence."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-0855",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Cognitive Load Theory-Based Auscultation Skill Instructional Design",
+  "context": {
+    "prior_knowledge": "Basic anatomy and physiology knowledge, with understanding of fundamental medical procedures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Smartphone-based learning environment, video/audio content-centered instruction, and staged diagnostic case applications",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can distinguish and document the five primary heart sounds (heart tones) with 80% accuracy.",
+    "Learners can identify three respiratory sounds (lung sounds) with 75% accuracy and explain their clinical significance.",
+    "Learners can execute a three-stage auscultation process (preparation-performance-verification) following a perceived auscultation protocol with 90% completion fidelity."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized LMS System",
+      "Auscultation Sound Sample Database",
+      "Interactive Audio Simulation Tools",
+      "Step-by-Step Learning Guide PDF",
+      "Self-assessment checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

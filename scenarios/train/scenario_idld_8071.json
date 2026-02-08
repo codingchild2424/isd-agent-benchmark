@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8071",
+  "variant_type": "idld_aligned",
+  "title": "Digital Game-Based Science Learning Design: Application of Mobile Microlearning",
+  "context": {
+    "prior_knowledge": "Understanding of basic science concepts and fundamental smartphone operation skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Gamified integration of work-linked science concepts for corporate learners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain molecular structure assembly principles with over 80% accuracy through mobile game-based simulations",
+    "Learners iteratively perform the scientific inquiry method (hypothesis-experiment-analysis) stages at least three times during in-game problem-solving",
+    "Learners can generate personalized diagnostic reports on science concept comprehension based on game achievement data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Mobile Game Engine",
+      "LMS Integration API",
+      "Science Concept Mapping Template",
+      "Smartphone-Compatible Learning Management System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

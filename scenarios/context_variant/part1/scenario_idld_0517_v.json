@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-0517-V",
+  "variant_type": "context_variant",
+  "title": "360° VR-Based Mechanical Ventilation Management Training for ICU Nurses",
+  "context": {
+    "prior_knowledge": "Basic critical care nursing knowledge and fundamental mechanical ventilation device operation experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Hybrid learning environment combining VR simulation and LMS for ICU nurses, where learners connect VR devices via personal BYOD devices to perform simulations",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify mechanical ventilation alarm types with 90%+ accuracy and apply appropriate response procedures.",
+    "Learners can achieve 85%+ accurate clinical decision-making in simulation-based scenarios.",
+    "Learners can attain a learning immersion score of 4.0/5.0+ in VR learning environments.",
+    "Learners show a 20%+ improvement in self-efficacy for mechanical ventilation management post-training."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "360-Degree VR Headset and Controller Set",
+      "Mechanical Ventilation Simulation Software License",
+      "LMS-Integrated Learning Management System",
+      "3D Modeling Tool for VR Scenario Development"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

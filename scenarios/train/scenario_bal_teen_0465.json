@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0465",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Mobile Microlearning Course for Science Domain Learning Design and Service Integration",
+  "context": {
+    "prior_knowledge": "Understanding Basic Scientific Theories and Experimental Methods, Digital Device Utilization Skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Flexible Learning Environment Utilizing Learners’ Personal Mobile Devices. Strengthening Practical Skills Through Project-Based Assessments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design digital learning scenarios coordinating science experiments using IMS Learning Design specifications",
+    "Learners can build systems that automatically adjust learning flows by integrating external Web 2.0 tools (e.g., virtual labs, data analytics platforms)",
+    "Learners can analyze learning activity data to provide personalized feedback and integrate it into assessment processes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IMS Learning Design-Compliant LMS",
+      "Web 2.0 Science Tools API",
+      "Mobile Device Management System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Service/Customer Support"
+}

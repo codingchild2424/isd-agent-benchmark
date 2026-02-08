@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0732",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Multimedia-Based Language Learning Project Design",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and digital literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners possess advanced expertise in language domains and are accustomed to project-based learning environments using digital devices. Their learning motivation primarily focuses on enhancing practical language skills.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can independently produce language project outcomes using multimedia tools (interactive maps, videos, etc.)",
+    "Learners can analyze language structures and cultural contexts with over 80% accuracy through multimedia-based activities (quizzes, story creation, etc.)",
+    "Learners implement creative language expressions at least three times by combining peer feedback and multimedia resources during project execution"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Presentation Tools",
+      "Interactive Learning Platform",
+      "Language Database",
+      "Cloud Collaboration Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

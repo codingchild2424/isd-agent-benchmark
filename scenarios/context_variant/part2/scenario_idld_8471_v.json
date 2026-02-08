@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8471-V",
+  "variant_type": "context_variant",
+  "title": "Social Problem-Solving Projects Using Computer Simulations",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners (office/administrative professionals) engage in projects analyzing complex social phenomena with simulation tools and deriving solutions",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify core variables of social systems and formulate hypotheses by incrementally adjusting simulation complexity",
+    "Learners can interpret simulation results including counterintuitive variables to generate and design verification processes for at least three hypotheses",
+    "Learners can apply simulation analysis results to real-world social problem-solving through project-based collaborative reporting."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Social simulation software license",
+      "Data analysis tools (Excel, Python standard libraries)",
+      "Case study compendium (population migration, economic disparities, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2387",
+  "variant_type": "idld_aligned",
+  "title": "Interactive Demonstration Design for Understanding Newton’s Third Law (Action-Reaction Law)",
+  "context": {
+    "prior_knowledge": "Basic understanding of Newton's fundamental laws of motion and force concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended course combining digital device-based experimental simulations with offline interaction demonstrations. Measures conceptual application skills through project-based assessment.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain the direction and magnitude of action-reaction forces through interactive demonstration activities",
+    "Learners can generate conceptual explanations applying Newton’s Third Law by analyzing everyday cases (pushing, pulling, collisions)",
+    "Learners can visualize force interactions and derive data-driven conclusions using digital lab tools"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Force sensor",
+      "Motion detection sensor",
+      "PhET simulation account",
+      "Interactive demonstration kit",
+      "Google Forms survey tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

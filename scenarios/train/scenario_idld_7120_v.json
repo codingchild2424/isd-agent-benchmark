@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7120-V",
+  "variant_type": "context_variant",
+  "title": "Faculty Competency Development Academy for Transitioning to Online Classrooms",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and possession of online teaching experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are social science faculty members with graduate-level or higher expertise, utilizing mobile-accessible microlearning content in a BYOD environment.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Enhance online course design capabilities based on Community of Inquiry (CoI) principles by at least 80%.",
+    "Apply three mobile-optimized interaction strategies to actual classroom instruction.",
+    "Evaluate techniques to strengthen cognitive presence for fostering student engagement."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile-compatible authoring tool",
+      "Interaction analysis report template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

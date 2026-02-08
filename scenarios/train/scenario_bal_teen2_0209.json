@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0209",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Postpartum Hemorrhage Management Simulation Training: Evidence-Based Instructional Design Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic medical terminology and emergency response protocols",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Training for medical device manufacturer employees, including real-world medical simulation environments and digital equipment-based training",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Perform initial response procedures within 5 minutes according to evidence-based protocols when postpartum hemorrhage occurs",
+    "Establish a diagnosis of the cause of bleeding and a treatment plan within 15 minutes through role allocation among team members",
+    "Apply emergency treatment skills with over 80% accuracy in real clinical environments based on simulation scenarios"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Fidelity Maternal Simulation Manikin",
+      "Blood Pressure/Pulse Monitoring Equipment",
+      "Blood Loss Measurement Tool",
+      "Team-Based Learning Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

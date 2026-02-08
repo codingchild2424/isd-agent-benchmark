@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2741-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Business Practical Competencies: Monitoring Large-Scale Health Science Class Participation Using Learning Analytics",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical competency enhancement program for corporate management/HR/administrative staff",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learner engagement patterns are identified with 85% accuracy through analysis of Learning Management System (LMS) data",
+    "Applying an action learning research approach (problem definition → hypothesis → implementation → evaluation), learners will analyze and revise three learner support strategies (e.g., mentoring frequency, content difficulty, feedback methods) every two weeks, achieving an average of 4.0 or higher on satisfaction surveys (5-point scale) after implementing revised strategies",
+    "Early detection rates for low-engagement learners are improved to 90% based on learning analytics results",
+    "Learners develop the ability to create reports analyzing correlations between individual learning activity logs and assessment outcomes"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Business Simulation Tool",
+      "HR Management System",
+      "Business Analytics Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Business/HR/Admin Support"
+}

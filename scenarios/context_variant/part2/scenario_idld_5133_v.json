@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5133-V",
+  "variant_type": "context_variant",
+  "title": "Simulator-Based Intensive Programming Workshop",
+  "context": {
+    "prior_knowledge": "Basic programming syntax and algorithm comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Students use personal devices (BYOD) to practice in real-time simulator environments, gaining experience in solving diverse programming problems. Learning outcomes are continuously monitored through formative assessments.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Improve creative problem-solving skills by resolving three or more programming problem scenarios using a simulator",
+    "Achieve over 80% behavioral and emotional engagement metrics in simulator-based learning",
+    "Conduct five or more code review experiences through collaboration with peers"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Programming Simulator License",
+      "Practice problem sets",
+      "Real-time feedback system",
+      "Collaborative Learning Space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

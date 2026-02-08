@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-4132-V",
+  "variant_type": "context_variant",
+  "title": "AI-Enhanced Blended Learning Program for Adult Learners",
+  "context": {
+    "prior_knowledge": "Basic Smartphone Usage Skills and Intermediate-Level Knowledge in Scientific Fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Hybrid class delivery combining offline discussions and online learning activities, operated in a smartphone-based limited-technology environment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can diagnose individual learning patterns and establish optimization strategies using AI analysis tools.",
+    "Learners improve their ability to utilize digital resources in a blended learning environment by more than 25%.",
+    "Learners enhance their scientific thinking skills by more than 30% through collaborative problem-solving activities.",
+    "Learners increase their academic achievement by more than 9 points through personalized feedback based on platform analysis."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Digital Learning Platform",
+      "Weekly offline workshop space",
+      "AI Analysis Report Template",
+      "Collaborative Tools (e.g., KakaoTalk Open Chat)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

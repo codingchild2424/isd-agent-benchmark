@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5166-V",
+  "variant_type": "context_variant",
+  "title": "Personalized Language Learning Program Based on Learning Analytics",
+  "context": {
+    "prior_knowledge": "Foundational language proficiency and basic operational skills with digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Vocational training program for in-service elementary teachers to improve language proficiency. Combines smartphone-based learning activities with monthly face-to-face workshops",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Ability to improve personalized vocabulary recommendation systems based on analysis of learners' language usage patterns",
+    "Learners can interpret personalized diagnostic reports from language learning analytics tools (e.g., Duolingo, Memrise) and develop a customized learning strategy plan within a week to address the 3 main weaknesses identified in the report.",
+    "Adaptive quizzes provided through mobile learning platforms can address over 80% of individual learning gaps"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Learning Analytics Dashboard",
+      "Offline Activity Workbook"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

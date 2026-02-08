@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-LARGE2-0999",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Mobile-Assisted Self-Regulated English Learning: Microlearning Course for Professionals",
+  "context": {
+    "prior_knowledge": "Basic English communication skills and comprehension of job-related mathematical concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Enhanced English learning strategies for professionals in medical, legal, and technical fields to apply in real workplace contexts",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can establish and execute self-regulated learning plans at least three times per week through gamification activities on mobile apps",
+    "Learners can produce job-related scenarios in English using digital storytelling tools and improve speaking/writing fluency by 20%",
+    "Learners provide and receive feedback on peers' English presentation content at least twice weekly through a peer coaching system",
+    "Learners achieve Level 3+ (on a 5-level scale) in explaining mathematical terminology and problem-solving processes in English, based on rubric criteria through microlearning modules"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Digital Storytelling Authoring Tool",
+      "Gamification Engine",
+      "Peer Assessment Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

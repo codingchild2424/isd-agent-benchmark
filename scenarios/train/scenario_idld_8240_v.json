@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8240-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Skills: Flipped Learning-Based Science Task Competency Enhancement Course",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can understand and explain core concepts from pre-learning video materials provided through flipped learning at a rate of 90% or higher.",
+    "Learners can apply scientific knowledge acquired in project-based lessons to real-world job situations and propose problem-solving strategies.",
+    "Learners can deepen and expand their learning content through peer feedback and instructor support, applying it to work processes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

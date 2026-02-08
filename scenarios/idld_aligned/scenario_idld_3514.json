@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3514",
+  "variant_type": "idld_aligned",
+  "title": "Lifelong Learning Orientation Assessment and Development Process",
+  "context": {
+    "prior_knowledge": "Entry-level learning experience in medical/educational fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Targets in-service professionals, conducted in smartphone-based limited-technology environments. Requires learning designs linked to project-based assessments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can diagnose and improve their beliefs about lifelong learning using a 4-point Likert scale.",
+    "Learners can systematically assess their ability to identify learning opportunities in work environments.",
+    "Learners can self-evaluate their information literacy skills and propose strategies for improvement."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible survey tool",
+      "Offline learning worksheets",
+      "Case analysis guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

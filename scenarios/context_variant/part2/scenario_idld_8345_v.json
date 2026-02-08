@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8345-V",
+  "variant_type": "context_variant",
+  "title": "Intensive Care Unit Bronchoscopy Simulation Training Program",
+  "context": {
+    "prior_knowledge": "Basic respiratory anatomy and critical care nursing knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practice-centered education in limited-technology settings, supported by supplementary learning via smartphone utilization.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain the components and operating principles of bronchoscopy equipment.",
+    "Learners can perform bronchoscopy insertion and airway management procedures with 80% accuracy using a simulator.",
+    "Learners can present at least three-step strategies for managing complications based on critical care simulation scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Bronchoscope simulator equipment",
+      "Training airway manikin",
+      "Smartphone-Based Video Resources",
+      "Practical Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

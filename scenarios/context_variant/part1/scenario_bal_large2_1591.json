@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1591",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Effective Utilization of Real-time Voice Feedback in Simulation-based Science Training",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and basic computer/tablet operation skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Simulation training environment utilizing personal devices, combined with offline workshops and online practice.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "In a simulation environment, learners improve accuracy in solving complex scientific problems by over 30% with real-time voice feedback.",
+    "Based on feedback, learners revise the decision-making process two or more times to derive optimal experimental designs.",
+    "In the summative assessment, learners write a scientific experiment design report applying simulation training experiences and achieve over 80 points."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Scientific Simulation Software",
+      "Voice Feedback System",
+      "Offline Workshop Space",
+      "Online Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

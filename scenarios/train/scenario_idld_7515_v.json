@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7515-V",
+  "variant_type": "context_variant",
+  "title": "Science Learning Design for Integrated Text-Image Comprehension",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "VR simulations provided in a lightweight version optimized for smartphones, structured around integrated text-image learning activities",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can interpret complex external representations (text-images) in science domains with 85% or higher accuracy.",
+    "Learners can solve information integration problems with over 70% accuracy by applying metacognitive strategies based on the ITPC model.",
+    "Learners can creatively produce three or more text-image integrated explanatory materials through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Application",
+      "Multimodal Learning Materials in Science",
+      "Collaborative Learning Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

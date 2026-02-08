@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-0517",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Manifold Learning-Based Teaching Method Design for Curved Surface Data Interpolation",
+  "context": {
+    "prior_knowledge": "Foundational knowledge of linear algebra, calculus, and 3D spatial geometry concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based learning environment enabling pre-service teachers to understand mathematical modeling techniques and apply them in real educational settings",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the process of transforming 3D surfaces into 2D planes using manifold learning algorithms (LLE, HLLE, LTSA)",
+    "Numerically evaluate interpolation accuracy of surface data with dimensionality reduction techniques",
+    "Write a project report applying surface interpolation techniques to fluid-structure interaction simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Machine Learning Library",
+      "3D Surface Dataset",
+      "Visualization Tools (Matplotlib, Plotly)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

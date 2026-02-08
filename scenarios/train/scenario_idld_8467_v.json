@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8467-V",
+  "variant_type": "context_variant",
+  "title": "Customized Online Job-Specific Language Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Basic job-related language proficiency and intermediate specialized field knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Tailored education based on language use scenarios specific to learners' work environments (medical, legal, technical). Emphasis on real-time interaction and feedback using digital devices.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can accurately distinguish and use 10 core terms required in their professional field (medical/legal/technical).",
+    "Learners develop the ability to analyze job-related documents (medical records/contracts/technical reports) and extract three key points.",
+    "Learners can use professional language expressions (patient explanations/legal arguments/technical descriptions) in real-time during video conferences.",
+    "Learners can identify and implement two improvement points in their communication methods based on peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Job-Specific Customized Language Database",
+      "AI-Powered Real-Time Pronunciation Analysis Tool",
+      "Case-based scenario template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

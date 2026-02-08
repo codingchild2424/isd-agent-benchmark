@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0660-V",
+  "variant_type": "context_variant",
+  "title": "Smartphone-Based Online Course for Developing Elementary School Students' Critical Thinking in Mathematics",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Mobile-optimized content accessible via smartphones, structured as 5-10 minute modular learning units",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can transform everyday problems into mathematical models.",
+    "Learners analyze data patterns and draw conclusions using digital tools.",
+    "Learners structure their thinking processes through a peer feedback system.",
+    "Learners creatively apply problem-solving strategies even in environments with limited technological resources."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Responsive Web-Based Mobile Learning Platform",
+      "Offline-synchronizable PDF worksheet",
+      "Voice recording feedback tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

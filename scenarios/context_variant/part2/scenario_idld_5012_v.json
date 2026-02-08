@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5012-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Competencies: Remote Mathematical Problem-Solving Course Based on FTSL (Federated Task-Specific Learning)",
+  "context": {
+    "prior_knowledge": "Algebra and Basic Calculus Comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply mathematical concepts (foundational knowledge) required for real-world problem-solving at over 80% accuracy across the six dimensions of FTSL",
+    "Learners can revise and improve problem-solving strategies based on peer feedback through team-based online discussions",
+    "Learners can describe decision-making processes that incorporate ethical considerations (human dimension) in mathematical modeling",
+    "Learners can state their value perception of mathematics (interest dimension) at 4.0/5.0 or higher in a self-assessment report at the course conclusion",
+    "Learners can synthesize learning content (integration dimension) to complete a case study applicable to real professional environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

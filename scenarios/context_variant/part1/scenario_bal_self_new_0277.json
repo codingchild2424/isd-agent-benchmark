@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0277",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-directed] Chemistry Experiment Competency Enhancement Course Using Digital Sequential Scaffolding",
+  "context": {
+    "prior_knowledge": "Basic chemistry concepts (atomic structure, chemical equations) and foundational laboratory procedures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A process of conducting redox reaction experiments using step-by-step digital support tools based on smartphones. Provides customized support considering learners' prior experiences and self-efficacy",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can independently complete 80% or more of the five stages (planning, preparation, execution, analysis, reporting) of redox reaction experiments using digital sequential scaffolding provided via a mobile app.",
+    "Learners can self-correct in 70% or more of cases when experimental errors occur by utilizing visual guidance (videos/animations) from scaffolding tools.",
+    "Learners can achieve 85 points or higher on assessment items related to redox reaction concepts (oxidation number, electron transfer) through a total of three experimental performances."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Response Experiment Kit (Miniature Electropolarization Device, Indicators)",
+      "Mobile App Prototype (Step-by-Step Guidance Feature)",
+      "Smart Device-Compatible Experimental Data Analysis Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

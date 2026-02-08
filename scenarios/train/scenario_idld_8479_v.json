@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8479-V",
+  "variant_type": "context_variant",
+  "title": "Blended Learning-Based Science Competency Enhancement Program Using an Adaptive E-Learning Platform",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized science education program for pre-service elementary educators and job-seeking education majors, operating in smartphone-centric limited-technology environments with project-based assessments to measure learning outcomes",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners enhance their ability to analyze implicit information in scientific texts using an adaptive e-learning platform.",
+    "Learners engage in a blended learning environment for six months, combining two weekly offline activities (experiments/discussions) and three online modules (video lectures, quizzes), and submit a self-directed learning plan and progress report (achieving ≥80% completion) weekly via a Learning Management System (LMS).",
+    "Learners diagnose individual learning gaps and establish supplementary plans through a Rasch model-based assessment system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Tablet PC (Institutional Loan)",
+      "Scientific Text Materials",
+      "Low-Spec LMS Server"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

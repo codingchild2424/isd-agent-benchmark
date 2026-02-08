@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6797",
+  "variant_type": "idld_aligned",
+  "title": "Relationship Between Educational Video Settings and Learning Outcomes: An Experimental Comparative Study",
+  "context": {
+    "prior_knowledge": "Foundational science knowledge (biology/life sciences at an introductory level)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Asynchronous Microlearning Environment Utilizing Learners’ Personal Devices (BYOD), Involving Weekly 15-Minute Educational Video Viewing Followed by Related Activities",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can compare and analyze the impact of educational video background settings (real-world vs. neutral environments) on information retention.",
+    "Learners can evaluate their ability to apply learning in context through experimental design and data interpretation.",
+    "Learners can describe three or more principles of effective educational video design in mobile environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Devices",
+      "Video Production Equipment (Smartphone/Tripod)",
+      "LMS (Learning Management System)",
+      "Experimental Participation Consent Form Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

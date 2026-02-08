@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2758-V",
+  "variant_type": "context_variant",
+  "title": "Cricket Skill Development Instructional Design Scenarios Using Representative Learning Design",
+  "context": {
+    "prior_knowledge": "Completion of basic physical education and understanding of cricket fundamentals",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course focused on how pre-service teachers can design cricket skill training environments, with practice-based learning conducted in simulation/VR environments resembling real training settings",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze the expert characteristics of cricket batting and bowling techniques and apply them when designing training tasks.",
+    "Learners can promote skill transfer by designing simulation/VR tasks that mimic real-game environments.",
+    "Learners can develop training programs incorporating task variability, decision-making elements, and principles of information source utilization."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cricket Equipment Set",
+      "High-Fidelity VR Headsets and Motion Trackers",
+      "Sports Science Data Analysis Software",
+      "LMS-Integrated Learning Management System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

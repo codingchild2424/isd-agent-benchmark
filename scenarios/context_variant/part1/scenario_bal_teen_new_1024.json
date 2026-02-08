@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-1024",
+  "variant_type": "balance_teen_filtered",
+  "title": "K-12 Inquiry-Based e-Learning Program for Enhancing Digital Literacy",
+  "context": {
+    "prior_knowledge": "Basic digital device usage skills and foundational knowledge of secondary-level science curriculum",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Blended e-learning environment for digital literacy education integrated with science curriculum. Learners engage in project-based learning by utilizing management skills acquired in office settings. Digital devices are provided by the institution.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can critically evaluate science-related online information sources, select credible materials, and utilize them for digital content creation.",
+    "Learners can design and share interactive science education games using web-based tools.",
+    "Learners can operate peer feedback systems using digital collaboration tools (e.g., Google Workspace) during project execution."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account",
+      "Google Workspace for Education License",
+      "Web Game Development Platform (Scratch/Construct) Access Permissions",
+      "Science Education Resource Database (e.g., DBpia/KISS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

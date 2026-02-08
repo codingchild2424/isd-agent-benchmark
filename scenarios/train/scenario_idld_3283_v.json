@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3283-V",
+  "variant_type": "context_variant",
+  "title": "Educational Curriculum for Template-Based Instructional Software Development",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and experience in educational content planning",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A process to enhance language education software development capabilities using template-based authoring tools in a smartphone-centric, limited technological environment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design and implement one interactive content for language education using template-based authoring tools.",
+    "Learners can apply instructional design principles (guidance, feedback, assessment) considering educational effectiveness to software.",
+    "Learners can integrate a project-based assessment system suitable for small learner groups into software."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-compatible template authoring tool license",
+      "Basic digital literacy learning materials",
+      "Language education content sample template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

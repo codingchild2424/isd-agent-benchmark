@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0030",
+  "variant_type": "balance_teen_v2",
+  "title": "AI-Enhanced Blended Learning-Based Advanced Mathematics Education Design (K-12)",
+  "context": {
+    "prior_knowledge": "Advanced high school mathematics foundations and understanding of secondary education math curriculum",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Visualization of mathematical concepts in simulation/VR environments and support for AI-driven personalized learning analytics",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can visualize and explain complex mathematical concepts in three-dimensional space using AI-based simulation tools.",
+    "Learners optimize math problem-solving workflows using generative AI and improve learning efficiency by over 20%.",
+    "In VR collaboration environments (Meta Horizon Workrooms, etc.), learners collaboratively solve 3 AI-generated math problems. They produce discussion records meeting ≥4 of 5 critical thinking rubric items (creativity, logic, validity) presented during problem-solving"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR headset set",
+      "AI Math Problem Generation API",
+      "3D Math Simulation Software",
+      "Real-Time Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

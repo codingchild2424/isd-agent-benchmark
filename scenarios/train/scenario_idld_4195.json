@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4195",
+  "variant_type": "idld_aligned",
+  "title": "Experience-Driven Self-Directed Science Learning Design",
+  "context": {
+    "prior_knowledge": "Understanding Basic Scientific Theories and Experimental Methodologies",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Building cloud-based experiential learning systems utilizing learners' personal digital devices. Emphasizes knowledge sharing and collaborative learning through online social networks",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design self-directed learning pathways using digital platforms to solve real-world problems in scientific fields.",
+    "Learners can expand existing knowledge and generate new scientific knowledge by utilizing cloud-based intellectual repositories",
+    "Learners can share knowledge with peers through online collaborative tools and enhance digital literacy and empathy skills"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cloud-Based LMS System",
+      "Science experiment simulation software",
+      "Digital Repository",
+      "Online Collaboration Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

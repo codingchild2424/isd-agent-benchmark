@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4351",
+  "variant_type": "idld_aligned",
+  "title": "Collaborative Learning Program for Information System Analysis and Design",
+  "context": {
+    "prior_knowledge": "Basic Computer Literacy and Logical Problem-Solving Competency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Emphasis on asynchronous collaborative activities optimized for smartphone-based online learning environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can systematically analyze real-life scenario-based information system requirements.",
+    "Learners can create logical flowcharts to solve system design problems through collaboration.",
+    "Learners can complete basic design documents, including ERDs, while communicating with team members in a mobile environment."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Collaboration Tools (e.g., Google Docs/Padlet)",
+      "Text-Based Learning Materials (PDF)",
+      "Simplified UML Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

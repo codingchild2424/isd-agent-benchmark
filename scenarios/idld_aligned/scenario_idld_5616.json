@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5616",
+  "variant_type": "idld_aligned",
+  "title": "Self-Directed Intensive Course for Remote Laparoscopic Surgery Skill Training",
+  "context": {
+    "prior_knowledge": "Basic physiology and anatomy knowledge, general understanding of surgical procedures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A self-directed remote learning environment utilizing personal laparoscopic training kits.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can achieve performance scores above the expert benchmark (mean - 2SD) in core laparoscopic surgery tasks (5 types).",
+    "Learners can apply hand-eye coordination, depth perception, and precision-cutting skills with over 80% accuracy in a VR simulation environment.",
+    "Learners can utilize a task-specific performance evaluation formula (time-error weighting) to conduct self-assessment and develop training plans."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Portable Laparoscopic Training Kit",
+      "VR Simulation Software License",
+      "Task-Specific Video Manuals",
+      "Digital Assessment Record Sheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

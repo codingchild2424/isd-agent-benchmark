@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-0221",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Understanding by Design (UbD)-Based Language-Integrated Practical Course for IoT Core Concept Mastery: Strengthening Technical Text Analysis, Writing, and Presentation Skills",
+  "context": {
+    "prior_knowledge": "Basic programming concepts, internet usage experience, foundational grammar and vocabulary skills for explaining technical content, and experience in reading simple technical documents",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "IoT application training in constrained smartphone environments, integrating technical document comprehension, writing, and presentation skills. Aims to develop practical language competencies: structuring technical texts, using specialized terminology, logical expression, and visual aids.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners explain three or more components of IoT systems (e.g., sensors, actuators, gateways) and operational principles (e.g., data collection-transmission-processing), and demonstrate the ability to articulate them accurately in technical documentation formats.",
+    "Learners design a process for transforming everyday problems into IoT solutions using design thinking methodologies (empathize-define-ideate-prototype-test) and create structured texts (e.g., problem definition documents, solution specifications) that systematically explain technical content.",
+    "Learners implement simple IoT scenario simulations using block-based coding tools (e.g., Scratch for IoT), document the process step-by-step, and present it following a logical flow.",
+    "Learners analyze cross-domain cases (e.g., smart homes, agricultural IoT) to logically evaluate IoT applicability, then compile findings into structured reports (e.g., introduction-body-conclusion, with tables/graphs)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Simulation Tool",
+      "IoT Case Study PDF Resources",
+      "Real-time collaborative whiteboard platform",
+      "Pre-Built Block Coding Templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

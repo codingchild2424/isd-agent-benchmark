@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-0156",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Beginner Dance Education Course Applying WSQ-Based Flipped Learning",
+  "context": {
+    "prior_knowledge": "No understanding of basic dance movements",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A non-degree foundational dance education program targeting job seekers and hobby learners.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "After 12 weeks of instruction, learners can perform five basic dance skills (rhythm, footwork, upper-body movement, transitional movements, expressiveness) with 80% accuracy through WSQ activities (Watch-Summary-Question).",
+    "Learners enhance self-directed learning skills by submitting a 300-character summary of key movements and three learning questions after watching weekly video materials.",
+    "Achieve over 90% participation rate in real-time classes and a 70%+ correction rate of movements incorporating peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Dance Basics Video Materials (12 Weekly 5-Minute Segments)",
+      "WSQ Activity Guide PDF",
+      "Movement Assessment Rubric",
+      "Zoom Account and Digital Devices (Smartphone/Tablet)",
+      "Google Classroom Learning Management System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

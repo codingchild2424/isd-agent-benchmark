@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6214",
+  "variant_type": "idld_aligned",
+  "title": "Flow Theory-Based VR Language Learning Design: Intensive Short-Term Course",
+  "context": {
+    "prior_knowledge": "Basic experience with VR technology and intermediate or higher language proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project-based assessment centered on language practice, accessing VR content via mobile devices in BYOD environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain flow state induction mechanisms (task-skill balance, immediate feedback, interactivity) in VR environments with over 80% accuracy.",
+    "Learners report a flow state experience averaging 4.0 or higher (on a 5-point Flow State Scale) during VR-based language tasks.",
+    "Learners complete and submit a language project (3-minute presentation video) incorporating peer feedback after role-playing in VR simulations."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible VR Device (Cardboard/AR Core Supported)",
+      "Flow-Based Language Learning VR Content Package",
+      "Real-Time Learning Analytics Dashboard System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

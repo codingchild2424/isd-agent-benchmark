@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4716-V",
+  "variant_type": "context_variant",
+  "title": "Digital Microlearning Program for Improving Nursing ESP Speaking Proficiency",
+  "context": {
+    "prior_knowledge": "Clinical nursing practice experience and basic English communication skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Mobile-based microlearning speaking program for practicing nurses, providing real-time feedback through expert verification systems",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can engage in nursing scenario-based English conversation with over 80% accuracy",
+    "Learners can proactively perform speaking practice at least three times per week using self-regulated learning strategies",
+    "Clinical communication competence is evaluated through project presentations incorporating expert feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile App Prototype",
+      "Speech Recognition Module",
+      "Nursing Scenario-Specific Dialogue Database",
+      "Expert Validation System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

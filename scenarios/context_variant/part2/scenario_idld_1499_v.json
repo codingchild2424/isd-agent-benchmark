@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1499-V",
+  "variant_type": "context_variant",
+  "title": "GCSE Chemistry Experiment Inquiry: Mobile Learning Process for Determining Acid Concentration",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Integration of smartphone-based videos/quizzes, offline experiment kits distribution, and mobile feedback systems",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Students can design acid-base titration experiments using guided inquiry methods.",
+    "Students can accurately calculate acid concentration to two decimal places by analyzing experimental data.",
+    "Students enhance collaborative skills by sharing experimental results and providing feedback with peers via a mobile platform."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Lab Simulator App",
+      "Portable Basic Experiment Kit (pH Test Strips, Syringes, etc.)",
+      "Step-by-Step Video Guide Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

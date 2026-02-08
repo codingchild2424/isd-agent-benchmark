@@ -1,0 +1,41 @@
+{
+  "scenario_id": "IDLD-5183-V",
+  "variant_type": "context_variant",
+  "title": "Evaluation and Application Process for Cloud-Based Collaborative Learning Tools",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and digital tool proficiency, team project experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Development of collaborative and analytical skills using cloud tools in a science curriculum-linked project-based assessment environment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners enhance analytical skills by planning and executing science projects using cloud-based collaboration tools.",
+    "Learners evaluate the six menus of the 3CR application, mastering how to apply usability, functionality, visual communication, instructional design, and security criteria.",
+    "Learners develop the competency to collaborate with team members in organizing ideas into visual materials (bubble diagrams, text outlines) and co-documenting.",
+    "Learners explain how to measure the quality of digital learning tools by understanding the MFRM (Many-Facet Rasch Model)-based assessment framework."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3CR application access permissions",
+      "FACETS software license",
+      "VR Simulation Equipment",
+      "LMS Integration System",
+      "Smart devices (tablet/laptop)",
+      "Science project topic materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

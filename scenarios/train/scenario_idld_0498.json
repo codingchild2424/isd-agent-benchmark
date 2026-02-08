@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0498",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Teacher Training Course for Integrating Engineering Accessibility",
+  "context": {
+    "prior_knowledge": "Basic Engineering Concepts and Experience with Online Learning Platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Program to strengthen accessibility-integrated instructional design competencies in smartphone-based limited-technology environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners develop the competency to apply accessibility standards (WCAG) for engineering education content in mobile environments with over 80% compliance.",
+    "Learners can implement three or more elements—screen reader compatibility, color contrast, and responsive design—when creating simulation and science content.",
+    "Learners develop and user-test one or more accessibility-integrated engineering education modules through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Accessibility validation tool (e.g., WAVE)",
+      "Engineering simulation open-source template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

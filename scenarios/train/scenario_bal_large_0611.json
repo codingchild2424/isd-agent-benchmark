@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0611",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Constraint-Based Approach (CLA) Simulation Training for Enhancing Diving Coach Competencies",
+  "context": {
+    "prior_knowledge": "Foundational sports science, diving technique theory, and coaching principles comprehension",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Developing and evaluating coaching scenarios applying CLA’s core principles (task constraints, environmental constraints, learner constraints) by recreating actual diving environments in VR.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply the three core constraint types (Task/Environment/Learner) of CLA to actual diving scenarios.",
+    "Learners can design dynamic coaching strategies tailored to individual learner characteristics through VR simulation.",
+    "Learners can analyze the feasibility and limitations of CLA-based coaching programs through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Diving VR simulation software",
+      "Motion analysis sensor equipment",
+      "Coaching Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

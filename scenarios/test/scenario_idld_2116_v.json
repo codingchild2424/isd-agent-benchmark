@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2116-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Epistemic Profile-Based Refutation for Scientific Knowledge Revision",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific concepts and scientific inquiry methods",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze scientific errors and refutation texts to revise their existing knowledge.",
+    "Learners can explain how to evaluate scientific evidence based on three epistemic profiles (authority, personal opinion, multiple sources).",
+    "Learners can improve learning efficiency by over 20% by utilizing refutation texts aligned with their epistemic profile."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5066-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Nursing Practical Competencies: Microgrid Cybersecurity Reinforcement through Reinforcement Learning-Based Simulation",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Explain control layer design methods for responding to adversarial cyberattacks using reinforcement learning-based FedSAC algorithms",
+    "Learners can simulate the implementation of Federated Reinforcement Learning (FRL) in a distributed microgrid environment within a week by: (1) selecting FRL algorithms and setting up the environment, (2) configuring ≥3 microgrid nodes, (3) verifying convergence through ≥10 iterative learning cycles, and (4) documenting a 15% energy efficiency improvement in a simulation report.",
+    "Propose strategies to minimize the sim-to-real gap based on experimental results from the GridLAB-D/HELICS platform"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0933-V",
+  "variant_type": "context_variant",
+  "title": "Practical FPGA-Based DNN Design Debugging and Tuning",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Implementation of an FPGA-based DNN optimization process as a team project in a smartphone-centric, limited-technology environment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Perform real-time performance profiling of DNN designs running on FPGA using OTune overlay-based tools.",
+    "Acquire methods to tune fixed-point DNN designs with overhead within 4%, considering hardware resource constraints.",
+    "Within 1–6 months, learners collaborate with team members to develop a prototype of an adaptive learning system for edge devices and submit deliverables meeting the following criteria: 1) Implementation of a Minimum Viable Product (MVP) runnable on Raspberry Pi 4 or Jetson Nano, 2) Real-time data processing latency of ≤500ms, 3) ≥80% compliance with team role allocation plans and weekly progress reports."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-based simulation tool",
+      "FPGA Development Board Sharing Kit",
+      "DNN Model Template Library"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

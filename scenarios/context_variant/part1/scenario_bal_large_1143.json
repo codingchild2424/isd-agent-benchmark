@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-1143",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] UDL-Based Secondary STEM Instructional Design Capacity-Building Course: Teaching Design for Improving Mathematical Problem-Solving Skills",
+  "context": {
+    "prior_knowledge": "Foundational understanding of secondary education curricula, mastery of core mathematics concepts (equations, functions, geometry, statistics), experience applying UDL principles and digital tools, and basic graph interpretation and statistical calculation abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "In a BYOD environment, developing educational design competencies that consider diverse learner types (visual/auditory/kinesthetic disabilities, etc.) through mobile device utilization. For math content, multiple representation methods are applied, such as text-to-speech conversion, visual graph representations, and tactile learning materials. Notably, accessibility-enhancing tools include step-by-step voice guidance for equation solving, 3D modeling tools for geometry concepts, and interactive chart generators for statistical analysis.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners create a mathematics instructional design plan applying the three UDL principles (representation, action & expression, engagement), incorporating problem-solving activities using core concepts (equations, functions, geometry) and formula applications.",
+    "Learners develop three mobile microlearning contents (basic/intermediate/advanced) for vocational training institutions targeting learners in their 20s, each under five minutes, incorporating at least two activities (graph interpretation, probability calculation, statistical analysis) reflecting learner needs survey results (80%+ response rate). Statistical analysis emphasizes data visualization tools.",
+    "Learners analyze three or more STEM teaching materials using UDL Checklist 3.0, propose at least two improvements per UDL principle (engagement, representation, action & expression) meeting two of three rubric criteria (clarity, feasibility, effectiveness). For accessibility in mathematical proofs/formula applications/problem-solving, they suggest at least one visual aid (e.g., graphing calculator) or alternative representation method (e.g., text-to-formula converter)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "UDL verification checklist",
+      "STEM education case database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

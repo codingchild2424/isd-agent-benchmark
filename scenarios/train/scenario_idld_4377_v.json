@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4377-V",
+  "variant_type": "context_variant",
+  "title": "Validation and Application of a MOOC Web Content Quality Model",
+  "context": {
+    "prior_knowledge": "MOOC Development Process and Basic Learning Design Concepts Comprehension",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Professionals validating a quality evaluation system for MOOC content development while establishing a collaborative learning environment using personal devices",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Evaluate the validity of MOOC web content quality elements using the learning design-based 7C Framework and PDCA model",
+    "Quantify agreement levels on quality elements among expert groups through Rasch model analysis",
+    "Propose systematic verification and improvement methods for internal quality elements (structure, content, interaction, etc.) from a content developer perspective"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Instructional Design Guidelines",
+      "MOOC Quality Assessment Questionnaire",
+      "Statistical Analysis Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1863-V",
+  "variant_type": "context_variant",
+  "title": "Intensive Remote Science English Short-Term Course",
+  "context": {
+    "prior_knowledge": "Basic English communication skills and foundational concepts in secondary-level science",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Hybrid approach combining real-time video classes and LMS (Learning Management System) assignments using digital devices, focusing on improving discipline-specific English proficiency for learners preparing for science-related careers",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can write a 300-word scientific lab report using 20 required academic English expressions.",
+    "Students can deliver a 3-minute impromptu presentation on a science-related topic via a video conferencing platform.",
+    "Students can complete science terminology quizzes in the LMS with over 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "English Language Textbooks for Science Subjects",
+      "Video Conferencing Platform Account",
+      "LMS Access Permissions",
+      "Digital Dictionary Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

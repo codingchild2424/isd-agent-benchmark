@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1621-V",
+  "variant_type": "context_variant",
+  "title": "Learning Experience Design (LXD) Workshop for Technology-Enhanced Science Learning",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learning experience design competency development for science education in smartphone-centric limited-technology environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can design science learning scenarios by applying LXD (Learning Experience Design) principles",
+    "Learners can measure learning effectiveness using mobile-optimized assessment tools",
+    "Learners can analyze user experience (UX) elements in technology-based learning environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Learning Management System (LMS)",
+      "Open-Source Assessment Tool Template",
+      "Science Experiment Simulation App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

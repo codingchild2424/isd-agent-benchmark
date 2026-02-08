@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7081",
+  "variant_type": "idld_aligned",
+  "title": "Blended Learning-Based Mobile Microlearning Program for Nurses",
+  "context": {
+    "prior_knowledge": "Basic nursing theory and clinical practice experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Asynchronous/synchronous blended learning environment utilizing mobile devices and LMS (Learning Management System)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform eight core nursing competencies (medication management, patient assessment, emergency care) with 80% or greater accuracy in blended learning environments",
+    "Learners can engage in self-directed learning at least twice weekly through mobile microlearning modules and document progress in learning logs",
+    "Learners can enhance critical thinking and clinical judgment skills through peer and self-assessment in online discussion forums and virtual simulations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Virtual Simulation Software",
+      "Video lecture production kit",
+      "Nurse competency assessment rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

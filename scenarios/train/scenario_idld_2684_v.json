@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2684-V",
+  "variant_type": "context_variant",
+  "title": "Game-Based Language Learning Design: Enhancing Expression and Reading Comprehension through Experience-Centered Microlearning",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and substantial practical experience in specialized fields, foundational grammar/vocabulary comprehension, and communication skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Intensive language training using mobile devices and game-based learning tools, providing a contextual language-learning environment through multimodal inputs (text, audio, images).",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners experience real-world language use (listening, speaking, reading, writing) in classroom/daily conversation scenarios through in-game simulations",
+    "Using in-game feedback systems, learners correct ≥80% of grammar, vocabulary, and pronunciation errors and acquire self-correction strategies",
+    "In three team-based game missions over one week, learners meet ≥4 of 5 peer evaluation criteria (pronunciation accuracy, grammatical appropriateness, vocabulary diversity, communicative fluency, cultural appropriateness) and apply ≥2 collaborative learning strategies (role division, feedback sharing, error correction support) to achieve ≥80% mission success rate"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Game Platform",
+      "Multilingual content library",
+      "Data Analysis Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

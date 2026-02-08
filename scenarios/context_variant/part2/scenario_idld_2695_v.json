@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2695-V",
+  "variant_type": "context_variant",
+  "title": "Collaboration-Based Online Vocational Language Education Program",
+  "context": {
+    "prior_knowledge": "Fundamental language proficiency and comprehension of basic terminology in the relevant field (medical/legal/technical)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners enhance job-specific language skills through collaborative learning and feedback in a non-real-time LMS environment using digital devices. Practicality is validated via project-based assessments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can utilize specialized field-specific language (medical/legal/technical) required in workplace situations with at least 80% accuracy.",
+    "Conduct at least three projects where learners collaboratively solve language-related problems with peers through cooperative activities.",
+    "Reduces language errors by over 50% through feedback-driven learning processes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Job-Specific Language Database",
+      "Collaborative tools (forums/wikis)",
+      "Feedback Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

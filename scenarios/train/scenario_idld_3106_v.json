@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3106-V",
+  "variant_type": "context_variant",
+  "title": "WhatsApp-Based Online Project Learning in Psychology",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Experimental implementation for post-COVID-19 non-face-to-face education reinforcement. Focuses on real-time interaction and project collaboration using personal devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners achieve participation in discussions on psychological topics with peers and instructors at least twice a week via WhatsApp group chats.",
+    "Learners complete three psychology case analysis projects structured in PBL (Problem-Based Learning) format and present them as multimedia submissions.",
+    "Learners achieve an 80% or higher participation rate in peer evaluation and feedback processes using online interactive tools."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone/Tablet",
+      "WhatsApp-Installable Devices",
+      "Online Learning Management System (LMS)",
+      "Psychological Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

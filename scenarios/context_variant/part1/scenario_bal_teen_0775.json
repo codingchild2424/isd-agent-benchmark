@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0775",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Workshop on Social Studies Teaching Method Development Through Learning Design Standard Evaluation",
+  "context": {
+    "prior_knowledge": "Elementary social studies knowledge and general understanding of curricula",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Collaborative activities using personal devices and implementation of real-time feedback systems",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the core concepts and scope of application of the learning design standard (IMS LD)",
+    "Practice converting at least three different instructional methods into standards-based designs",
+    "Implement lesson designs using BYOD-based formative assessment tools in large-scale offline environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IMS LD design template",
+      "BYOD-compatible assessment app",
+      "Collaborative activity worksheet",
+      "Role-assignment simulation tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5556-V",
+  "variant_type": "context_variant",
+  "title": "LSTM-Based Automated Instructional Design: Short-Term Intensive Course",
+  "context": {
+    "prior_knowledge": "Foundational instructional design theories and VR simulation experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Social studies vocational training conducted in smartphone-centric, limited-technology environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can derive at least three learning outcomes tailored to educational model characteristics using an LSTM-based system.",
+    "Learners can apply an automated instructional design process with over 80% accuracy in a simulation/VR environment.",
+    "Learners can operate an automated instructional design solution in a constrained technological environment (smartphone) tailored to corporate training contexts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LSTM Model Sample Dataset",
+      "Mobile-Compatible VR Simulation Tool",
+      "Smartphone-Based Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

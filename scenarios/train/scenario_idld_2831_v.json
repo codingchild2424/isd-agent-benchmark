@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2831-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Clinical Practice Competencies: Workshop on Designing Deep Learning-Based Personalized English Learning Pathways",
+  "context": {
+    "prior_knowledge": "Basic English Teaching Experience and Digital Device Proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Describe the principles of designing individualized English learning pathways through learner profile analysis",
+    "Apply a process for creating personalized learning content using deep learning-based recommendation systems",
+    "Analyze formative assessment data (quiz scores, observation records) to identify two or more learners’ weak areas and create a weekly learning plan including three customized learning activities to address them."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

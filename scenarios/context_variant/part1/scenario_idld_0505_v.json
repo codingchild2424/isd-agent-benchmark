@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0505-V",
+  "variant_type": "context_variant",
+  "title": "Active Learning-Based Microlearning Course for Engineering Design Competency Enhancement",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Intensive mobile-based training program to strengthen design competencies applicable to professional practitioners' work",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically apply a 5-stage design process (problem definition-concept design-detailed design-production-testing) in mobile environments.",
+    "Learners can solve real-case design problems with 80% or higher accuracy through online collaboration with peers.",
+    "Learners can improve and develop self-designed projects three or more times according to assessment rubric criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "3D Design Simulation Tool",
+      "Collaborative Platform",
+      "Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

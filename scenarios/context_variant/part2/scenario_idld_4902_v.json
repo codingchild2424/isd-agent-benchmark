@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4902-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Competencies: Micro-Level Lesson Study-Based Mathematics Knowledge Development for Teachers",
+  "context": {
+    "prior_knowledge": "Elementary Mathematics Basic Concepts and Foundational Pedagogical Approaches for Fractions",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Through the lesson study process, over 80% of teachers enhance their knowledge of fraction measurement concepts and numerical model representations.",
+    "Learners achieve curriculum integration competencies through collaborative task analysis with peer teachers.",
+    "Improve student comprehension analysis skills by over 70% through individual reflective journaling and feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

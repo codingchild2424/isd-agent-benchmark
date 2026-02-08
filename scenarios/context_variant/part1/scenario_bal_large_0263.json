@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0263",
+  "variant_type": "balance_large_scale",
+  "title": "Simulation/VR-Based University Science Teaching Method Design (Large-Scale)",
+  "context": {
+    "prior_knowledge": "Basic scientific domain theories and understanding of experimental procedures",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducting project-based assessments in a digital device-provided environment for office/administrative professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the scientific experiment design and analysis process using simulation/VR tools",
+    "Learners apply experimental problem-solving strategies with over 80% accuracy through peer feedback and instructor coaching",
+    "Within 4 weeks, learners will analyze science experiment data (e.g., physics simulations, virtual chemical reactions) collected in VR environments and write a 10-page project report applying ≥3 scientific principles (e.g., Newton’s laws of motion, chemical reaction rates). In a 10-minute presentation, they must achieve \"Excellent\" grades in ≥4 of 5 evaluation rubric criteria: clarity, logic, creativity, accuracy, and visual effectiveness."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment",
+      "Simulation Software License",
+      "Scientific Experiment Dataset",
+      "Online Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

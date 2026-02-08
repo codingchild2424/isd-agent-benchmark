@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1403-V",
+  "variant_type": "context_variant",
+  "title": "Instructional Design for Computer Programming Language Education to Strengthen Dynamic Problem-Solving Competencies: Developing Structured Algorithm Representation and Documentation Skills",
+  "context": {
+    "prior_knowledge": "Understanding of basic programming concepts (variables, conditionals, loops) and ability to interpret simple text-based commands. Additionally, comprehension of specialized terminology used in the field and basic technical document reading skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "For professionals in medical, legal, and technical fields who are beginner programmers but capable of using digital devices. Focuses on expressing domain-specific problems through programming languages, with particular emphasis on accurate mapping between professional terminology and programming terms. Guides adherence to technical documentation standards (e.g., IEEE) and code commenting guidelines during the learning process.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Over a six-month long-term course, learners complete three structured algorithm documents by decomposing complex problems arising from three real-world enterprise projects into five steps or fewer, expressing them via pseudocode or flowcharts. Each document achieves over 80% completeness through peer review and expert validation, adhering to clear syntactic structures and professional terminology in code comments",
+    "Based on pre-post problem-solving competency model analysis, learners establish personalized learning strategies and enhance code commenting/documentation skills. To improve technical document literacy and expression accuracy, they utilize a professional terminology glossary and template guide",
+    "Through GBDT-based competency assessment, learners improve programming problem-solving efficiency by over 30% and acquire error message interpretation and debugging expression skills. They cultivate the ability to systematically describe problem causes and clearly express solutions in error analysis reports"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Management System (LMS)",
+      "Programming Practice Environment",
+      "Problem-Solving Log Analysis Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

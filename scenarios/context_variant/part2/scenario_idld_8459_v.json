@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8459-V",
+  "variant_type": "context_variant",
+  "title": "Millimeter-Wave Beam Training Optimization: Interactive Design Based on Deep Reinforcement Learning",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mobile-optimized task performance using real communication environment data and a feedback system construction",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the core principles and constraints of beam training in millimeter-wave communication.",
+    "Learners can apply a deep reinforcement learning-based interactive learning model to beam training problems.",
+    "Learners can design and simulate efficient beam search algorithms in constrained environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible simulation tool",
+      "Beam Training Dataset",
+      "Interactive Learning Guidelines",
+      "Open-Source DRL Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0129",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Scaffolding Strategies for Mathematical Problem-Solving for Practitioners",
+  "context": {
+    "prior_knowledge": "Fundamental arithmetic operations and simple equation comprehension",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Provides scaffolded step-by-step support to systematically solve mathematical problems encountered by professionals. Ensures accessibility through smartphone-based learning",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can decompose complex work problems into three or more stages and solve them sequentially",
+    "Learners can solve problems with 80% or higher accuracy in environments where instructor support gradually decreases",
+    "Learners can design mathematical models suitable for real-world work scenarios through project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account",
+      "Mobile-Optimized LMS",
+      "PDF Learning Materials",
+      "Basic Calculator Application"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

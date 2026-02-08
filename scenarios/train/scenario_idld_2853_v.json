@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2853-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Software Development Practical Skills: Visualizing Conceptual Database Modeling Based on the TSSL Model",
+  "context": {
+    "prior_knowledge": "Understanding of basic database structures and ERD elements",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately create a database schema diagram with three or more layers by applying syntactic-level transition principles of the TSSL model.",
+    "Learners can reduce inter-layer transition errors in conceptual modeling by over 80% using visual mapping techniques.",
+    "Learners can derive normalized relational schemas applicable to real-world work scenarios through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

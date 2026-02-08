@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0831-V",
+  "variant_type": "context_variant",
+  "title": "Mathematics Learning Reflection Support Program Through Learning Activity Visualization",
+  "context": {
+    "prior_knowledge": "Basic Mathematical Computation Skills and Digital Device Usage Experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Establishing a system in smartphone-based mathematics microlearning environments where learners can reflect on and improve their learning processes through visualization tools based on learning analytics data.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can improve the efficiency of their study time allocation by 20% or more through weekly learning pattern visualization.",
+    "Learners can identify three or more major error types occurring in the mathematical problem-solving process based on activity log analysis.",
+    "Learners can establish specific learning plans for the following week using feedback provided by visualization tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "xAPI-Compliant Learning Platform",
+      "Customizable Visualization Dashboard",
+      "Mobile Learning Content Library",
+      "Teacher Analytics Report Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

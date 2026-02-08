@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-3983-V",
+  "variant_type": "context_variant",
+  "title": "Online Science Education Course Design Utilizing Gamification",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Process for professionals (medical/legal/technical) to acquire science curriculum knowledge for guiding elementary school children, conducted as non-real-time online learning in a BYOD environment",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners achieve over 80% science concept comprehension by utilizing gamification elements (experience points, badges, leaderboards, etc.).",
+    "Learners maintain over 75% weekly quest (mission) completion rates to sustain continuous learning engagement.",
+    "Over 70% of learners complete project assignments demonstrating scientific problem-solving skills in the final summative assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Gamification Tools (e.g., H5P, Classcraft)",
+      "Science Simulation Content",
+      "Automated Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

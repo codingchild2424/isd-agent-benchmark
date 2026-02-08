@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-0235",
+  "variant_type": "balance_self_directed",
+  "title": "[Self-Directed] Virtual Reality-Based Language Learning Instructional Design for Students with Disabilities: Multisensory Integration Environment and Communication Skill Enhancement",
+  "context": {
+    "prior_knowledge": "Foundational knowledge in speech-language pathology and special education, minimum 3 years of special education field experience, understanding of language development stages and communication characteristics across disabilities (auditory/visual text processing, social interaction strategies), and VR-based educational tool experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Focused on developing customized language learning solutions applicable in the field using smartphone-based low-cost VR technology. It emphasizes a multisensory integration approach (combining visual, auditory, and tactile feedback) to improve reading comprehension (text analysis/inference skills) and expressive abilities (structuring/fluency) for students with disabilities. Communication skills are strengthened through social interaction simulations in VR environments.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will analyze 5 language-learning needs of students with disabilities (visual/auditory/physical) in VR environments (vocabulary expansion, grammar comprehension, expressive fluency, auditory/visual text processing, social interaction), design a draft evaluation framework addressing accessibility (text-to-speech, visual vocabulary reinforcement), interaction (voice commands/gesture recognition), and feedback (real-time grammar correction/pronunciation assessment) for each need, and achieve an 80%+ suitability score through peer review (3+ evaluators) and expert review (1+ evaluators) within a 6-month course.",
+    "Learners will develop 3+ adaptive language teaching materials for smartphone-compatible VR tools: visual vocabulary cards with sign language integration for hearing-impaired students, voice-command-based grammar exercises with text-to-speech tools for physically impaired students, and auditory text conversion tools with 3D sound-based contextual comprehension activities for visually impaired students.",
+    "Learners will implement 3+ VR language-learning scenarios (daily conversation simulations: role-play for expressive fluency training, sentence-construction games: grammar structure visualization with error feedback, cultural context understanding activities: multisensory text analysis) based on flexible instructional design principles (modified ADDIE model, situational learning theory), and write reports verifying learning effectiveness (15% vocabulary acquisition improvement, 10% grammar comprehension improvement, 4+/5 immersion survey scores) through user testing (20+ participants)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR development platform (Unity/Unreal Engine)",
+      "Mobile VR headset",
+      "Learning dataset by disability type"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

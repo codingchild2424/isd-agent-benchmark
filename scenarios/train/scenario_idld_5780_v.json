@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5780-V",
+  "variant_type": "context_variant",
+  "title": "Pharmacy Student Orientation: Escape Game-Based Learning",
+  "context": {
+    "prior_knowledge": "Foundational pharmaceutical theory and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Pharmacy program orientation for current practitioners, aiming to foster peer collaboration and policy familiarity",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners enhance collaborative skills with peers while completing escape game missions within 30 minutes.",
+    "Learners accurately identify the roles of core personnel in the program with over 80% accuracy.",
+    "Learners understand and apply key policies specified in the student handbook with over 90% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Calendar System",
+      "Policy Document Package",
+      "Team-Based Evaluation Worksheet",
+      "Escape Game Equipment (Locks, Clue Cards, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

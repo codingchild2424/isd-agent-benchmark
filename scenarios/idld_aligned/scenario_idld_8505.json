@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8505",
+  "variant_type": "idld_aligned",
+  "title": "Self-Directed Learning Design Workshop for Computational Thinking Education",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental computer science concepts and foundational knowledge of instructional methodologies",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A short-term intensive course for in-service secondary school teachers to design LMS-based self-directed learning environments and enhance computational thinking education capabilities",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain core concepts of computational thinking (decomposition, pattern recognition, abstraction, algorithm design) with over 80% accuracy.",
+    "Learners can critically analyze three or more CT educational materials using a self-directed learning module evaluation checklist.",
+    "Learners can collaboratively develop one CT-based science lesson design with peer teachers using LMS collaboration tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform (Video, Quiz, Discussion Board Features)",
+      "CT Educational Open-Source Simulation Tool",
+      "Science Curriculum-Integrated CT Activity Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

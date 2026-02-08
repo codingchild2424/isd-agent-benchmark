@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4943-V",
+  "variant_type": "context_variant",
+  "title": "Flipped STEM Problem-Solving Skill Development Module",
+  "context": {
+    "prior_knowledge": "Basic STEM concepts and fundamental understanding of engineering problem-solving",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "In a flipped learning environment based on Merrill’s instructional design principles, theoretical learning is conducted online in advance, with in-class time focused on practical problem-solving activities",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can self-directively acquire STEM theoretical content provided in a flipped learning environment with an 80%+ comprehension rate.",
+    "Learners can apply teamwork-based approaches to solve real engineering problems in problem-solving scenarios designed according to Merrill’s instructional design principles.",
+    "Learners can demonstrate complex STEM problem-solving abilities through project-based assessments."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Online learning platform access",
+      "Digital Textbook",
+      "Collaboration tools (e.g., Google Workspace, Microsoft Teams)",
+      "Experiment kit (for home/classroom use)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

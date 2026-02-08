@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-0175-V",
+  "variant_type": "context_variant",
+  "title": "Elementary Mathematics Teacher Coaching Program Based on Practical Training",
+  "context": {
+    "prior_knowledge": "Elementary mathematics subject-matter knowledge and foundational classroom management experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A one-on-one coaching program conducted in smartphone-centric, limited-technology environments. Operates with task submissions simulating real classroom situations and feedback-centered management.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can appropriately utilize ≥5 types of open-ended questions that elicit students’ thinking processes.",
+    "Learners can observe students’ responses during class and apply ≥3 instructional strategies to immediately support meaning-making.",
+    "Learners can analyze their teaching videos based on coaching feedback to derive ≥2 improvement points."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Sample Recorded Lesson Video",
+      "Coaching Feedback Template",
+      "Mathematics Instructional Strategy Guide (PDF)",
+      "Smartphone Recording Functionality"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

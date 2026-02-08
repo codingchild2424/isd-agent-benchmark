@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0035-V",
+  "variant_type": "context_variant",
+  "title": "Machine Learning Practical Competency Enhancement: Civilian and Police Officer Self-defense Training with Non-linear Pedagogy",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply nonlinear response strategies with at least 80% accuracy in simulated real-world violence scenarios.",
+    "Learners can develop at least three context-specific self-defense manuals through team-based projects.",
+    "Learners can identify at least three variables affecting self-defense technique application and propose improvements through peer evaluation and feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0472",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Immersive Workshop on Solving Mathematical Problems Using Virtual Reality",
+  "context": {
+    "prior_knowledge": "Understanding of elementary mathematical concepts (equations, geometry)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Accessibility-focused learning environment configuration using mobile VR devices (smartphone-mounted)",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can solve 3D spatial geometry problems in VR environments with 80% accuracy",
+    "Within a week, learners complete assignments applying three abstract math concepts (e.g., differentiation, integration, matrix transformation) to real-world business scenarios (production line optimization, data modeling) in VR environments and achieve a \"B\" (70%+) grade in four of five rubric items.",
+    "Achieve over 90% participation by utilizing VR collaboration tools during team-based project execution"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Headset (e.g., Google Cardboard)",
+      "Collaborative VR Math Problem-Solving Platform",
+      "Simple 3D Modeling Tool (e.g., Blocksmith)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

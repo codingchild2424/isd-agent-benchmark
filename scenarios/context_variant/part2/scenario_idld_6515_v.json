@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6515-V",
+  "variant_type": "context_variant",
+  "title": "Exploring Cell Structures: Game-Based Mobile Learning",
+  "context": {
+    "prior_knowledge": "Understanding of basic biological terminology and digital device proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Short-term course for enhancing life science assistant job competencies in vocational training institutions. Gamified mobile learning improves practical understanding of cellular structures",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students can explain the names and functions of eight major cell organelles with 80% accuracy through game-based activities.",
+    "Learners simulate cellular components and their interactions in digital game interfaces to construct models applicable to real biological phenomena.",
+    "Participants can explain the cell division process and energy production mechanisms step-by-step through in-game quizzes."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Custom Digital Board Games Based on Google Sheets",
+      "Mobile Learning Management System (LMS) Access Permissions",
+      "3D Cell Structure Viewer App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

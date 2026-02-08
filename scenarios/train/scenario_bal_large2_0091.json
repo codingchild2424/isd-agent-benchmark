@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0091",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Short-Term Training Program for Interprofessional Medication Therapy Experts",
+  "context": {
+    "prior_knowledge": "Basic medical terminology and understanding of drug mechanism of action",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Interactive classroom design using digital tools, applying systematic instructional design based on Gagné’s model",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain drug treatment protocols for liver diseases with 80% accuracy",
+    "Learners can analyze virtual patient cases and develop appropriate medication treatment plans",
+    "Learners can interpret liver function test results and drug interaction evaluations"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Liver Disease Clinical Case Data",
+      "Interactive Whiteboard",
+      "Tablet PC",
+      "3D Liver Model"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

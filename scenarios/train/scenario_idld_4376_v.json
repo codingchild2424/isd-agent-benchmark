@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4376-V",
+  "variant_type": "context_variant",
+  "title": "Patient Care Practical Competency Enhancement: Deep Learning-Based Optimization of Wireless Communication System Performance",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Calculate and interpret Block Error Rate (BLER) in a Rayleigh fading channel environment.",
+    "Explain signal transmission optimization methods applying RIS (Reconfigurable Intelligent Surface) and MRT (Maximum Ratio Transmission) beamforming principles.",
+    "Implement practical cases optimizing the number of distributed RIS components using deep learning models."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-1249",
+  "variant_type": "balance_teen_k12",
+  "title": "Experimental Education Design for Blasting Demolition Engineering Using Virtual Simulations in K-12",
+  "context": {
+    "prior_knowledge": "Elementary engineering mechanics, mathematics (calculus, basic statistics), and fundamental theories of blasting engineering",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Targeting mid-level professionals with field experience, this educational environment focuses on virtual simulations to mitigate risks and high costs of actual blasting experiments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain and apply conduction method selection and cutting design principles through virtual simulation platforms",
+    "Learners can calculate ultimate stress on cross-sections and apply strength conditions by utilizing concepts of tensile/compressive zones and the neutral axis in the inelastic region.",
+    "Learners can implement and optimize blast coefficient, blasthole parameters, and ignition network design processes in a simulated environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Virtual Simulation Software License",
+      "3D Structural Modeling Tool",
+      "Experimental Dataset",
+      "Blasting Engineering Textbook and Reference Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

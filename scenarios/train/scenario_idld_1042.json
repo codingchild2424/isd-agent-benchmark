@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1042",
+  "variant_type": "idld_aligned",
+  "title": "Online Science Experiential Learning Design for Special Education",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and general understanding of special education",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Students engage in web-based experiential learning using individual devices, while in-person sessions focus on project feedback and collaborative learning. They explore online content design methods reflecting the needs of special education students with diverse cognitive styles",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design web-based experiential learning modules that consider the cognitive styles of students with special educational needs",
+    "Learners can analyze three provided scientific experiment datasets (e.g., temperature-time changes, pH-concentration relationships, reaction rate measurements) using Python-based data analysis tools (Pandas, Matplotlib) and generate two or more visualizations (histograms, scatter plots, line graphs) per dataset. Additionally, they can write a learner-specific comprehension diagnostic report (3 pages) based on the visualizations and provide customized feedback meeting at least four of five checklist criteria: data accuracy, visualization appropriateness, analytical logic, report structure, and feedback specificity.",
+    "Learners can apply visual support (graphic explanations, color contrast adjustments) and auditory support (subtitles, audio descriptions) strategies to science-integrated experiential activities (experiments, observations, simulations) and create an accessibility improvement report achieving over 80% satisfaction from three or more students with disabilities.",
+    "Within a 3-week project period, learners can perform three functional tests (maximum load measurement, repetitive motion accuracy, energy efficiency analysis) on a robotic arm prototype, incorporate five or more peer/instructor feedbacks, and write a 5-page report specifying two improvement strategies."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web-Based Experiential Learning Platform",
+      "Multimedia Production Tool",
+      "Learning Analytics Software",
+      "Science Experiment Simulator"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

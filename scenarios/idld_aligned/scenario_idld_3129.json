@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3129",
+  "variant_type": "idld_aligned",
+  "title": "Team-Based Agile Learning Curriculum for Innovative Surgical Resident Education",
+  "context": {
+    "prior_knowledge": "Basic Mathematical Modeling and Data Analysis Knowledge, with Foundational Understanding of Surgical Clinical Environments",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Environment optimized for asynchronous collaborative learning using digital devices. Modular 5-day structure with 4-hour modules daily, including team project development and feedback sessions",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can derive three innovative ideas by applying mathematical modeling techniques for clinical problem-solving.",
+    "Learners progress through team projects using a sprint methodology, achieving one milestone per day.",
+    "Learners can evaluate peers' innovative ideas and propose improvements using quantitative and qualitative assessment criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital whiteboard tool",
+      "Data analysis software (Excel/Python)",
+      "Medical simulation dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

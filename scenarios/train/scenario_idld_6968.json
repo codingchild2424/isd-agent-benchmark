@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6968",
+  "variant_type": "idld_aligned",
+  "title": "Mastering Computer Network Fundamentals Using Adaptive Learning",
+  "context": {
+    "prior_knowledge": "Basic Understanding of Operating Systems and Data Structures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners access an adaptive platform via personal devices (BYOD), using network modeling applied to real-world cases as project themes.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "They can explain the network communication process based on the TCP/IP 4-layer model and analyze real-world cases",
+    "They can compare the functions of each layer in the OSI 7-layer model and propose appropriate network troubleshooting solutions",
+    "They can complete a team-based network topology design project using PBL (Problem-Based Learning) and meet evaluation criteria",
+    "Through an adaptive quiz system, they can diagnose individual weak concepts (e.g., packet routing, bandwidth management) with over 80% accuracy"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Adaptive Learning Platform License",
+      "Network Simulation Tools (e.g., Cisco Packet Tracer)",
+      "BYOD-Compatible Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

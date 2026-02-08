@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7160-V",
+  "variant_type": "context_variant",
+  "title": "Experiential Nursing Simulation: Citizen Competency Strengthening Program",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Simulation-based education focused on improving general citizens' ability to handle real-life medical situations",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform emergency situation identification and initial response procedures with ≥80% accuracy in simulated environments",
+    "Learners enhance clinical judgment skills by 30% through a 4-stage experiential learning simulation process (experience-reflection-conceptualization-application)",
+    "Learners demonstrate real-world situational adaptability through ≥10 mobile-delivered virtual scenarios (e.g., cardiac arrest, diabetic shock)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Simulation Platform",
+      "Virtual Patient Scenario Database",
+      "Interactive Quiz Module",
+      "Video feedback system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

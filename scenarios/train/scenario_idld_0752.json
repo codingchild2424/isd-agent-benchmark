@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0752",
+  "variant_type": "idld_aligned",
+  "title": "Chemical Basis of Drug Action: Embedded Prior Knowledge Integration in Microlearning",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Chemistry and Pharmacological Terminology",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Language domain-linked education for practicing professionals. Mobile-based learning in BYOD environments with 5-10 minute modular content",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the chemical principles of drug-receptor interactions",
+    "Learners can apply complex chemical concepts with 80% accuracy using embedded pop-ups in online materials",
+    "Learners can analyze at least two drug mechanism of actions per week through microlearning modules"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Responsive Mobile LMS",
+      "3D Molecular Modeling Tool",
+      "Interactive Quiz Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

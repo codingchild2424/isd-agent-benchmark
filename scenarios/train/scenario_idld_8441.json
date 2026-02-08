@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8441",
+  "variant_type": "idld_aligned",
+  "title": "Deep learning model design for mental fatigue detection using EEG data",
+  "context": {
+    "prior_knowledge": "Foundational Machine Learning, Basic Signal Processing Concepts, Teacher Training Experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Corporate teacher training program aiming to enhance mental fatigue management and learner status monitoring capabilities in language education settings",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Time-frequency domain feature extraction methods from EEG signals (e.g., Morlet wavelet analysis) can be explained.",
+    "A mental fatigue detection model using a shallow convolutional neural network (3 convolutional layers) can be implemented.",
+    "Model decision factors can be interpreted and applied to educational contexts through SHAP value analysis."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "EEG Sample Dataset",
+      "TensorFlow/Keras Development Environment",
+      "Mobile Learning Application",
+      "SHAP Analysis Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2014-V",
+  "variant_type": "context_variant",
+  "title": "Design-Based Learning (DBL) Practical Course for Higher Education in Science",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An LMS-based asynchronous learning environment for working professionals, with provided digital devices and collaborative tools.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform scientific problem-solving design project processes in four distinct phases: analysis-design-development-evaluation",
+    "Learners can collaborate with team members using LMS collaboration tools to develop scientific solution prototypes and suggest improvements",
+    "Learners can iteratively improve their design outputs three or more times based on formative assessment feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital Collaboration Tools (Google Workspace, etc.)",
+      "Scientific Simulation Software",
+      "Standardized DBL (Dual-Based Learning) Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

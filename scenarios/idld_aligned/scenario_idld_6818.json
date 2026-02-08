@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6818",
+  "variant_type": "idld_aligned",
+  "title": "Life Science-Based Instructional Design for HIV/AIDS Knowledge Delivery",
+  "context": {
+    "prior_knowledge": "Fundamental life science knowledge (cell structure, basic concepts of the immune system)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "An Integrated Learning Environment for Early-Career Professionals in Healthcare, Legal, and Technical Fields to Study HIV/AIDS-Related Scientific Concepts and Societal Impact Using Digital Devices",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the structure of the HIV virus and its mechanism of human infection",
+    "Scientifically analyze the stages of AIDS development and the process of immune system collapse",
+    "Interpret epidemiological data to provide scientific rationale for HIV/AIDS prevention strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Life sciences textbook (PDF)",
+      "3D virus model simulation",
+      "Epidemiological data visualization tool",
+      "Academic Database Access Permissions"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0170",
+  "variant_type": "balance_self_filtered",
+  "title": "Adaptive Learning Design for C Programming Language: Cognitive Load Optimization Using Dual-Mode Task Examples in Self-Directed Learning",
+  "context": {
+    "prior_knowledge": "Comprehension of basic programming concepts and experience in simple algorithm design",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners independently access asynchronous learning modules 2-3 times weekly, with one monthly live tutoring session provided",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Design intermediate-level programs utilizing core C language syntax (pointers, memory management, structures)",
+    "Solve problems by selecting Worked-Out Examples (WOEs) tailored to individual cognitive load levels through an adaptive learning system",
+    "Derive and explain efficient learning strategies through comparative analysis of dual-mode (visual+text) Worked-Out Examples",
+    "Adjust learning pathways based on individual diagnostic results measured through formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Adaptive Learning Algorithm Module",
+      "Integrated Development Environment (IDE) for C Compiler",
+      "Dual-Mode Example Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

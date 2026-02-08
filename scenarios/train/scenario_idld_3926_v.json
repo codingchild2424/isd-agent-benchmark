@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3926-V",
+  "variant_type": "context_variant",
+  "title": "Comparative Analysis of Retinal Image Segmentation Techniques for Glaucoma Diagnosis",
+  "context": {
+    "prior_knowledge": "Basic medical imaging comprehension and familiarity with machine learning fundamentals",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Strengthening practical skills through project-based assessment in smartphone-centric learning environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the clinical significance of retinal structures (OC/OD) utilized in glaucoma diagnosis",
+    "Learners can compare differences between traditional image segmentation techniques (thresholding/region growing) and deep learning methods (U-Net/FCN)",
+    "Learners can select segmentation algorithms applicable to real retinal image datasets and interpret performance evaluation metrics"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Online Lecture Materials",
+      "Open-Source Retinal Image Dataset Sample",
+      "Simple Web-Based Image Analysis Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7041",
+  "variant_type": "idld_aligned",
+  "title": "Augmented Reality-Based Advanced Operational Amplifier Training",
+  "context": {
+    "prior_knowledge": "Knowledge of basic electronics principles, circuit analysis techniques, and understanding of operational amplifier fundamentals",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Job competency enhancement program for pre-service and in-service teachers. Blended learning environment centered on experiments using digital devices (smartphones).",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can observe input-output signal changes in operational amplifier circuits in real-time using AR technology",
+    "Learners can accurately describe internal components and signal pathways of operational amplifiers through 3D model manipulation",
+    "Learners can derive output voltage calculation formulas in various circuit configurations and compare them with experimental values."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Augmented reality (AR) application",
+      "Smartphone (1 per learner)",
+      "Breadboard and electronic component kit",
+      "Lecture projector"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

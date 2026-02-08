@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7498-V",
+  "variant_type": "context_variant",
+  "title": "Development of Augmented Reality-Based Elementary English Vocabulary Learning Modules",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aims to enhance professional workers' practical English proficiency in a vocabulary learning environment utilizing AR technology",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify over 100 job-related English vocabulary items with 80% accuracy in an AR environment.",
+    "Learners can explain real-world applications of vocabulary using visual and auditory cues through augmented reality.",
+    "Learners can apply acquired vocabulary to real-work simulations via project-based assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Development Kit",
+      "Mobile Learning Platform",
+      "3D Modeling Software",
+      "Speech Recognition System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

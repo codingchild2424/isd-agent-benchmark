@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5515-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Programming Practical Competencies: Online Medical Experiential Learning Design in Blended Environments",
+  "context": {
+    "prior_knowledge": "Fundamental medical knowledge and experience in clinical support tasks",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can experientially explain the application process of three or more medical protocols using Virtual Patient Simulation (VPS)",
+    "Learners can collaboratively write one complex case analysis report with peers using online collaboration tools",
+    "Learners can demonstrate practical skills using real medical equipment at least twice in a blended environment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

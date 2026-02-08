@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6256-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing AI Practical Competencies: Constructivist VisChem for Molecular-Level Chemical Visualization",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can correct at least 80% of existing misconceptions about chemical phenomena after analyzing molecular-level animations.",
+    "Learners can visualize and explain new chemical reactions at the molecular level using the VisChem tool.",
+    "Learners can demonstrate molecular model application skills in at least three real-world cases (e.g., solution concentration changes, gas diffusion) through formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

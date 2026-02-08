@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0666",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Collaborative Design-Based Instructional Design for Teacher Dashboard Development and Utilization",
+  "context": {
+    "prior_knowledge": "Basic proficiency in online education platforms and foundational learning data analysis",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires real-time data visualization and interpretation skills in science-focused instruction",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can develop a teacher dashboard prototype by applying the three-stage iterative Design Science Research (DSR) methodology",
+    "Learners can propose improvements to the dashboard reflecting teacher feedback through collaborative design workshops",
+    "Learners can design a three-core metrics system to analyze learning engagement, assessment results, and conceptual understanding in an LMS-integrated dashboard"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS API integration development environment",
+      "Educational Data Sample Set",
+      "User Experience (UX) Testing Tool",
+      "Teacher-Student Interaction Scenario Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

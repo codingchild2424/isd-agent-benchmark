@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6932-V",
+  "variant_type": "context_variant",
+  "title": "Deep Learning Practical Competency Enhancement: Corporate Management Simulation Game: Overcoming Uncertainty and Creative Problem-Solving",
+  "context": {
+    "prior_knowledge": "Basic understanding of business management concepts (e.g., marketing, finance, human resource management)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can establish integrated management strategies for core business operations (finance, marketing, human resources).",
+    "Learners can enhance their ability to solve problems through creative decision-making in uncertain in-game situations.",
+    "Learners can gain experience in conflict management and resource allocation optimization through team-based collaboration.",
+    "Learners can emulate entrepreneurial thinking and leadership through self-directed reflection."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3615-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Software Development Practical Competencies: Online Learning Behaviors and Social Cognition for Adult Learners",
+  "context": {
+    "prior_knowledge": "Understanding of basic online learning platform functionalities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can diagnose their own social cognitive motivation levels (self-efficacy, task value, self-regulation) with over 80% accuracy.",
+    "Learners can access LXD-based asynchronous video learning materials at least three times weekly and maintain engagement rates above 70%.",
+    "Learners can produce five or more monthly learning artifacts applying critical thinking and elaboration strategies in discussion boards."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Software Development/IT"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-7669-V",
+  "variant_type": "context_variant",
+  "title": "Adversarial Deep Learning-Based Autonomous Driving Radar Target Detection Security Project",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project-based learning focused on radar signal processing and deep learning model implementation in digital environments.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can construct an FMCW radar signal processing pipeline and explain the range-Doppler (RD) map generation process.",
+    "Learners can implement a multi-level deep learning network (DAALnet/TDDLnet) for adversarial attack detection.",
+    "Learners can achieve over 90% accuracy in target distance/velocity prediction under attack scenarios by applying PSO optimization techniques."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "FMCW Radar Simulation Tool",
+      "CUDA-Enabled GPU Workstation",
+      "TensorFlow/PyTorch Libraries"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

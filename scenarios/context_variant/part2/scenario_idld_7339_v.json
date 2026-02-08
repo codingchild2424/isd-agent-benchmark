@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7339-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Social Problem-Solving Competencies Using Systems Thinking and Immersive Learning Environments",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Social sector job-linked workshop for current practitioners. Utilizes virtual collaboration spaces and simulation tools in BYOD environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can construct a problem-diagnosis framework by analyzing the interconnections of elements within social systems.",
+    "Learners perform 2 policy simulations within a week using system dynamics tools (e.g., Vensim) in an immersive virtual scenario (e.g., hospital infection control), identify ≥3 feedback loops, and propose improvements.",
+    "Learners can design project-based solutions in an online collaborative environment and validate them according to quantitative/qualitative evaluation criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Miro Collaborative Board",
+      "Mural System Thinking Templates",
+      "VR Simulation Platform (Hubs by Mozilla)",
+      "Real-Time Collaboration Tool (FigJam)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

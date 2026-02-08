@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1090",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Mobile Instructional Design Modeling for Process-Based Science Education",
+  "context": {
+    "prior_knowledge": "Secondary-Level Science Fundamental Knowledge and Digital Device Usage Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aims to cultivate competency in designing process-based learning within smartphone-centric, technology-constrained environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "They can develop three or more science education modules by applying principles of competency-based learning environment design",
+    "They can establish content segmentation strategies optimized for mobile microlearning environments",
+    "They can execute iterative curriculum improvement processes through formative assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Content Authoring Tool",
+      "Open-Source Learning Management System (LMS)",
+      "Science Education Standards Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

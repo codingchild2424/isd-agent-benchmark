@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0239",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Biology Core Concept Mastery: Online Formative Assessment-based PBL Course",
+  "context": {
+    "prior_knowledge": "High school-level foundational knowledge in life sciences",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Mobile-optimized PBL learning design for aspiring life sciences professionals. Provides customized content to preempt conceptual misunderstandings through formative assessment feedback",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "They can explain the five core concepts related to cell structure and metabolism with over 80% accuracy.",
+    "They can identify and correct biological error cases presented in online formative assessments with 90% accuracy.",
+    "They can write problem-solving reports applying biological concepts in PBL team projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Biology Simulation App",
+      "Interactive Assessment Template",
+      "PDF-based learning materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

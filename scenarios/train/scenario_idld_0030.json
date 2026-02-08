@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0030",
+  "variant_type": "idld_aligned",
+  "title": "Learner Behavior Analysis in Distance Learning: Utilizing Social Network Analysis (SNA)",
+  "context": {
+    "prior_knowledge": "Basic operation of online learning platforms (LMS) and foundational network analysis concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course strengthening data-driven decision-making skills to analyze social interaction patterns in virtual learning environments via VR simulations and improve learner engagement.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can construct learner interaction networks based on LMS clickstream data",
+    "Learners interpret learner behavior patterns using SNA metrics (centrality, density, etc.) and propose educational improvement measures",
+    "Learners analyze data collected in VR simulation environments to design customized support strategies for different learner types"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Gephi/Python network analysis tools",
+      "VR Simulation Platform",
+      "LMS demo dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1072",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Activity-based Learning Techniques for Theological Education Design",
+  "context": {
+    "prior_knowledge": "Understanding of basic theological concepts and biblical overview-level knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "In a BYOD setting, 15-20 minute module-based learning via mobile apps with real-time feedback through formative assessments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze three core doctrines of the New Testament using activity-based learning techniques",
+    "Learners can discuss and present one theological issue collaboratively with peers via a mobile platform",
+    "Learners can demonstrate the ability to apply theological concepts with a formative assessment accuracy rate of 80% or higher"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning App",
+      "Digital Bible resources",
+      "Online Collaboration Tools",
+      "LMS (Learning Management System)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

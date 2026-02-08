@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0507",
+  "variant_type": "balance_medium_scale",
+  "title": "Collaborative Professional English Learning Course Utilizing Web 2.0 Technology",
+  "context": {
+    "prior_knowledge": "Basic English vocabulary and grammar comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A collaboration-focused English education course conducted in a smartphone-based blended learning environment for entry-level professionals in medical, legal, and technical fields.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can generate and revise job-related English expressions with 80% or higher accuracy through real-time collaboration with peers using Padlet.",
+    "Learners can complete English project deliverables related to their specialized fields (medical/legal/technical) using Web 2.0 tools and exchange feedback with peers.",
+    "Learners can improve their English communication skills by 20% by incorporating formative assessment feedback in a digital environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone",
+      "Padlet Account",
+      "Simplified English Dictionary App",
+      "Open-Source Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

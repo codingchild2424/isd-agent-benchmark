@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1916-V",
+  "variant_type": "context_variant",
+  "title": "Social Media-Based Political Knowledge Acquisition Online Course",
+  "context": {
+    "prior_knowledge": "Understanding basic political systems and experience with social media usage",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course to strengthen political knowledge acquisition skills via social media for current mathematics practitioners. Incorporates LMS-based discussion activities and considers smartphone-centric limited-technology environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners improve their ability to critically evaluate politically related information across various social media platforms.",
+    "Learners acquire skills in analyzing political issues and logical communication through participation in online discussions.",
+    "Learners apply systematic methods for organizing and utilizing politically related information collected from social media."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Social Media API Integration Tools",
+      "Online discussion guidelines",
+      "Political Knowledge Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

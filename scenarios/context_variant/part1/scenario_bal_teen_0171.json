@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0171",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Collaborative Nursing Education Course Design: A Project-Based Partnership Between Instructional Designers and Faculty",
+  "context": {
+    "prior_knowledge": "Three or more years of nursing practice experience, understanding of basic nursing theory and skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Applies a collaborative model where instructional designers and nursing faculty jointly develop curricula in online/hybrid environments. Utilizes real-time collaboration tools and simulation software in a BYOD setting",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design one or more nursing education modules according to a collaborative process development framework.",
+    "Learners plan a process achieving over 80% alignment between learning objectives, assessments, and activities by applying Instructional Systems Design (ISD) principles.",
+    "Learners can create hybrid educational materials using digital tools (Learning Management Systems, simulation platforms)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Faculty LMS account",
+      "Nursing simulation software license",
+      "Collaborative Whiteboard Tool",
+      "Nursing education standard guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2239",
+  "variant_type": "idld_aligned",
+  "title": "TPACK-Based Instructional Design for Teacher Competency Enhancement in Blended and Online Learning Environments",
+  "context": {
+    "prior_knowledge": "Proficiency in basic digital tools and experience in language education",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Asynchronous learning facilitated via an LMS in a limited technological environment centered around smartphones.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply the three core components of the TPACK framework (technology, pedagogy, content knowledge) to language education contexts.",
+    "Learners can propose at least two designs for digital-based activities that promote effective interaction in blended learning environments.",
+    "Develop three or more language teaching strategies (voice/text-based) that are executable in limited technological environments."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Friendly Learning Management System (LMS)",
+      "Digital Content Creation Tool Templates",
+      "Open-Source Educational Resources"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

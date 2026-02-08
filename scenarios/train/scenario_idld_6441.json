@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6441",
+  "variant_type": "idld_aligned",
+  "title": "Machine Learning Design Strategies for Comprehensive Property Improvement of TWIP Steel",
+  "context": {
+    "prior_knowledge": "Basic materials science and engineering knowledge, proficiency in using online learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A competency-strengthening program for prospective/in-service corporate trainers, educating them on machine learning-based methodologies to enhance TWIP steel properties for practical application.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the correlation between microstructure and mechanical properties of TWIP steel.",
+    "Perform steel design optimization processes using machine learning models (regression prediction and SHAP analysis).",
+    "Submit a design proposal for high-strength and high-ductility TWIP steel by applying multi-objective optimization techniques."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Machine Learning Libraries (Scikit-learn, XGBoost)",
+      "Jupyter Notebook",
+      "SHAP Analysis Tool",
+      "TWIP Steel Dataset Sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

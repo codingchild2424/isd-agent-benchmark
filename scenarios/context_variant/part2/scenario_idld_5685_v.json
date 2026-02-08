@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5685-V",
+  "variant_type": "context_variant",
+  "title": "AI Practical Skill Enhancement: Gamification Strategies for Motivating Language Learning",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and experience with digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners achieve over 80% engagement through language task designs incorporating game elements",
+    "Learners acquire over 30 job-related language expressions by performing role-specific missions in gamification activities",
+    "Learners develop self-directed learning habits by achieving over 90% weekly quest completion rates"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5633-V",
+  "variant_type": "context_variant",
+  "title": "Design and Analysis of Collaborative Self-Regulated Learning in Science Classrooms",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Science pedagogy course for pre-service elementary teachers including simulation activities modeled on real classrooms",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners observe and document social shared regulation strategies in collaborative learning groups at least three times, producing written reports.",
+    "Learners establish and execute individual and group learning plans based on a self-regulated learning framework.",
+    "Learners analyze their motivational/emotional regulation status using smartphone-based tools and propose improvement strategies.",
+    "Learners revise scientific inquiry project deliverables at least once based on peer feedback and finalize presentation materials."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone app-based collaboration tools",
+      "Science inquiry kit (small-scale)",
+      "Online Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

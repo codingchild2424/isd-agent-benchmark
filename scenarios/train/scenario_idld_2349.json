@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2349",
+  "variant_type": "idld_aligned",
+  "title": "Mechanical Vibration and Natural Modes: Activity-Based Project Learning Using the Kalimba",
+  "context": {
+    "prior_knowledge": "Basic Vibration Theory, Foundational MATLAB Programming, and Intermediate Engineering Mathematics",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Conducted in a graduate-level environment with digital devices (laptops, sensor kits), emphasizing theory-practice integration through a three-stage (theory-simulation-experiment) learning process",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "The unique vibrational frequency of a kalimba tine can be calculated and analyzed by applying cantilever beam theory.",
+    "Performing vibration mode simulations of a kalimba under real-world conditions using finite element method (FEM) software (e.g., ANSYS).",
+    "Acquiring and interpreting experimental data from a physical kalimba using a MATLAB-based spectrum analyzer."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Kalimba Experiment Kit",
+      "Finite Element Method Software License",
+      "Acceleration Sensor",
+      "MATLAB Toolbox"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

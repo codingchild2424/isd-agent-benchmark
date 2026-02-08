@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-8108-V",
+  "variant_type": "context_variant",
+  "title": "Classification and Analysis Design of Educational Objectives for Mathematics Instruction",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Mathematical problem-solving simulations in VR environments with Bloom’s taxonomy-based objective-setting exercises",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can hierarchically classify mathematics curriculum objectives using Bloom’s Taxonomy six levels.",
+    "Learners develop the ability to design specific math learning outcomes using measurable verbs.",
+    "Learners solve higher-order mathematical problems (analysis, evaluation, creation) in VR simulations with 80% accuracy.",
+    "Learners develop the ability to improve the clarity and measurability of instructional objective statements based on peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Learning Platform",
+      "Bloom’s Taxonomy Worksheet",
+      "Mathematics problem bank database",
+      "Automated Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

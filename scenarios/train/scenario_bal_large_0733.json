@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0733",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Multimodal Information Literacy Simulation Training",
+  "context": {
+    "prior_knowledge": "Basic information retrieval skills and understanding of fundamental science curriculum concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-centered education utilizing VR simulations in smartphone-dominant limited-technology environments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can critically evaluate diverse information formats (text, images, audio, video) and integrate them appropriately within scientific contexts.",
+    "Learners can assess the credibility of multimodal information sources by applying ethical guidelines based on the ACRL Framework.",
+    "Learners can create ethical and creative multimodal artifacts (reports, infographics, audio descriptions, etc.) on scientific topics in VR simulation environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Offline Information Package",
+      "Ethical Standards Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

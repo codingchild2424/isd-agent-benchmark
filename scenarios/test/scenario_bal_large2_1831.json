@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1831",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Elementary Science Teaching Method Design Utilizing Learning Strategy Feedback Effects",
+  "context": {
+    "prior_knowledge": "Grasp of Basic Science Curriculum Content and Instructional Methods",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aims for pre-service teachers to acquire and apply effective learning strategies in elementary science lesson design. Requires differentiated feedback based on learners' expertise level (beginner)",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can systematically analyze learning strategies applied during their science lesson design process.",
+    "Learners can suggest learning strategy revisions according to feedback types with at least 85% accuracy.",
+    "Learners can improve learning efficiency by at least 20% by selecting feedback types appropriate to their proficiency level."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Learning Journal Template",
+      "Text-Based Feedback Guidelines",
+      "Science Lesson Design Casebook (PDF)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-2503-V",
+  "variant_type": "context_variant",
+  "title": "Blended Teaching Program for University Entrance Exam Preparation",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Job-linked social sector programs for current practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Over 80% of learners will enhance their logical reasoning skills in the language domain.",
+    "Over 75% of learners will acquire problem-solving strategies in the mathematics domain.",
+    "Over 85% of learners will apply test-type-specific strategies in academic achievement assessments.",
+    "Over 90% of learners will improve their academic planning skills based on formative assessment results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Printed instructional materials",
+      "Mobile-compatible audiovisual resources",
+      "VR Simulation Equipment",
+      "Online assessment platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

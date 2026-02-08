@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8520",
+  "variant_type": "idld_aligned",
+  "title": "Mastering Cryptocurrency Sentiment Analysis: Practical Workshop Based on Machine Learning",
+  "context": {
+    "prior_knowledge": "Foundational Programming Understanding (Python/R), Basic Concepts of Statistical Analysis, Fundamental Principles of Cryptocurrency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-oriented course conducted in a smartphone-based mobile learning environment, including a sentiment analysis project utilizing real Twitter data",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Building a machine learning pipeline for scraping and preprocessing Twitter data",
+    "Implementing a sentiment analysis model using a predefined sentiment lexicon (8 categories: anger, joy, trust, etc.)",
+    "Visualizing analysis results to create a public sentiment trend report on cryptocurrencies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible RStudio/RShiny Environment",
+      "Emotional Vocabulary Lexicon Dataset",
+      "Twitter API Sample Data Package",
+      "Mobile-Optimized Jupyter Notebooks"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4034-V",
+  "variant_type": "context_variant",
+  "title": "Customized Online Learning Environment Design Workshop",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and LMS (Learning Management System) usage experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Designs a flexible learning environment for professionals in medical, legal, and technical fields to acquire foundational knowledge in social domains.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Within three weeks, learners can freely combine LMS tools (discussion boards, repositories, calendars, etc.) to construct personalized learning environments aligned with their learning styles and job roles",
+    "By week 4, learners can improve the learning environment through peer interaction and submit a 1,000-character improvement report reflecting these changes",
+    "In the final project, learners can design one work-applicable learning module and validate it through peer review and instructor feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital Learning Tool Template",
+      "Case Study Materials",
+      "Peer feedback guidelines"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

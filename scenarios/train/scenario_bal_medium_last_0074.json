@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0074",
+  "variant_type": "balance_medium_last",
+  "title": "Educational Integration of Research Data Using Network Meta-Analysis",
+  "context": {
+    "prior_knowledge": "Basic Statistical Analysis and Understanding of General Meta-Analysis Methodology",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-centered education using smartphone-based VR simulations",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the fundamental principles of network meta-analysis (NMA) and its application procedures in educational research",
+    "Interpret NMA simulation results comparing five types of online learning designs",
+    "Construct and statistically validate 10 network models for comparing multiple intervention effects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Simulation Software",
+      "Open-Source Meta-Analysis Tool (R Package)",
+      "Educational Research Case Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

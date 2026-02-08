@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-1457",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Practice-Centered Problem-Solving Intensive Programming Course",
+  "context": {
+    "prior_knowledge": "Basic Computer Literacy and Logical Reasoning Experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Small-group settings enabling personalized feedback, emphasizing practice-based on real-world cases",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Analyze given practical problems and convert them into pseudocode.",
+    "Implement and debug simple algorithms using the Python programming language.",
+    "In 3–4 person teams, learners document a 5-step logical process (problem definition, hypothesis setting, experiment design, result analysis, conclusion) to solve a given science problem (e.g., environmental pollution data analysis), and create presentation materials that meet ≥80% of criteria in peer evaluation and instructor feedback after a 10-minute presentation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE installation package",
+      "Practice problem sets",
+      "Feedback Template",
+      "Collaborative Platform Account"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

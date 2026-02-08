@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-0919",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Workshop on Solving H∞ Control Problems Using Reinforcement Q-Learning",
+  "context": {
+    "prior_knowledge": "Introductory control theory and linear systems comprehension, with high school-level mathematics (including matrix operations)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners can utilize smartphone-based data collection tools and have practical experience in solving engineering problems",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "The H∞ control performance metric in Markov jump systems can be mathematically interpreted",
+    "The procedure for optimizing control policies using reinforcement Q-learning algorithms can be explained",
+    "Optimal disturbance suppression levels can be derived through project-based assessments utilizing actual system models"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Whiteboard and Markers",
+      "Printed Learning Materials (Graph/Matrix Operation Examples)",
+      "Smartphone-Compatible Data Collection App",
+      "DC Motor Simulator Kit (1 set per group)",
+      "LMI (Linear Matrix Inequality) Calculation Example Sheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

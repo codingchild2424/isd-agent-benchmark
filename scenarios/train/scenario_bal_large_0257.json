@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0257",
+  "variant_type": "balance_large_scale",
+  "title": "Problem-Based Learning-Utilized Graphic Engineering Simulation Education",
+  "context": {
+    "prior_knowledge": "Basic graphic tool usage and understanding of engineering concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Learning Environments Using VR Devices with Access to Learning Materials via Personal Mobile Devices",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze real-world graphic engineering problems through PBL and propose 3D model visualization solutions with 80% accuracy.",
+    "Learners can diagnose and correct geometric modeling errors within three attempts in a VR simulation environment.",
+    "In team-based problem-solving processes, learners can improve graphic design prototypes to a 90% completion rate by incorporating peer feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headsets (5 Sets)",
+      "Graphic engineering simulation software licenses",
+      "BYOD-compatible learning management system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

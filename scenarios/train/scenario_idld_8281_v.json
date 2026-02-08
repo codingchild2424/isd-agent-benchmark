@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8281-V",
+  "variant_type": "context_variant",
+  "title": "Digital-Based Self-Regulated Learning Training Program to Improve Mathematics Achievement",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Focuses on adult learners acquiring and applying self-regulated learning strategies to solve mathematics problems directly relevant to daily life, with VR simulations providing realistic learning contexts.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify and apply self-regulated learning strategies with over 80% accuracy during mathematics problem-solving processes",
+    "Learners can improve mathematics problem-solving efficiency by over 30% using behavioral and environmental regulation strategies in VR simulations",
+    "Learners can solve real-life problems by applying cognitive strategies acquired through self-regulated learning during project-based assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Offline Simulation Activity Kit",
+      "Tablet for Digital Learning Platform Access (Rental)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

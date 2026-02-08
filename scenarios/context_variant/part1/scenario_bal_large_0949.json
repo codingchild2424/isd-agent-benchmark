@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0949",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Digital Technology-Enhanced Hansen’s Disease Education Capacity-Building Program",
+  "context": {
+    "prior_knowledge": "Foundational Medical and Public Health Concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Hansen’s disease educational professional development program combining smartphone-based digital platforms with offline workshops",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Explain the epidemiology, transmission routes, and diagnostic criteria of Hansen’s disease",
+    "Learners can analyze three Hansen's disease patient management cases using digital simulation tools (e.g., SimX, Body Interact) and submit a project report (symptom evaluation, treatment planning, infection control strategies) with over 80% completeness.",
+    "Learners can collect feedback from peers at least three times using smartphone-based collaborative platforms (e.g., Google Docs, Notion) and produce one educational content piece (video or PDF) in the medical/nursing field reflecting the feedback. The content must meet at least four out of five checklist items provided by the institution."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Digital simulation tool",
+      "Offline Workshop Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

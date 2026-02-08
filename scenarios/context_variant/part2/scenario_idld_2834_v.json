@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2834-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening E-Learning Practical Competencies: Deep Learning-Based Image Segmentation for Dental CBCT Image Analysis",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Competency enhancement program for professionals in education/teaching/learning fields",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Design and implement a Dense U-Net model capable of accurately segmenting anatomical structures in CBCT imaging",
+    "Acquire techniques for applying anatomical constraints to improve dental lesion detection performance by over 20%",
+    "In a two-week mid-term process, learners identify three limitations of AI models in a simulation environment reflecting clinical settings (e.g., virtual patient monitoring systems) and write one-page reports proposing specific technical/process improvements for each limitation"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Authoring Tool",
+      "Instructional Design Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Education (Teaching & Learning)"
+}

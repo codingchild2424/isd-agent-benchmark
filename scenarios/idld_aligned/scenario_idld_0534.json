@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0534",
+  "variant_type": "idld_aligned",
+  "title": "Mobile Microlearning Program for Strengthening Statistical Concept Interpretation Competencies",
+  "context": {
+    "prior_knowledge": "Understanding Basic Statistical Terms (Mean, Variance, Standard Deviation, etc.) and Experience Applying Statistics in Psychology",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Integration of learner-specific mobile device utilization with real-time feedback systems",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners accurately interpret provided statistical graphs (e.g., histograms, scatter plots) and explain them in research contexts",
+    "Learners derive research conclusions and analyze limitations based on hypothesis testing results (p-value, confidence intervals)",
+    "Learners complete 80%+ of 10 microlearning modules designed per Merrill’s instructional design principles and achieve ≥70/100 in post-assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Mobile Learning Module",
+      "Statistical Interpretation Practice Exercise Database",
+      "Automated grading system",
+      "OSF Open Repository Utilization"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

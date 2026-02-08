@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0640",
+  "variant_type": "idld_aligned",
+  "title": "Online Education Sentiment Analysis Application: Short-Term Science Expertise Development Program",
+  "context": {
+    "prior_knowledge": "Basic online learning literacy and foundational understanding of scientific inquiry methods",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Real-time science education optimization for high school students preparing for careers in medical/legal/technical fields, accessible exclusively via smartphones without PCs.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can classify positive/negative emotions in peer feedback from online science classes with 80% accuracy using sentiment analysis tools.",
+    "Learners can write three practical suggestions to improve instructors' explanation methods in online science classes based on sentiment analysis results.",
+    "Learners can demonstrate a procedure for real-time collection of text feedback from class satisfaction surveys using smartphone applications in limited-device environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Emotion Analysis App",
+      "Zoom Account",
+      "Online Lab Simulation Tools for Science Subjects",
+      "Text Feedback Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

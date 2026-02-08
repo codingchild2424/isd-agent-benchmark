@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0164",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Instructional Design Process for Enhancing Mathematical Understanding and Computational Thinking",
+  "context": {
+    "prior_knowledge": "Comprehension of basic mathematical concepts and basic interest in programming",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Strengthening mathematical problem-solving competencies linked to social studies curricula for pre-service and in-service teachers.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the process of solving real-life problems using mathematical models and computational approaches.",
+    "Learners enhance their ability to transform abstract mathematical concepts into computational thinking (e.g., loops, conditionals) using embodied activities (e.g., physical manipulation, simulations).",
+    "Learners produce computational problem-solving prototypes incorporating peer feedback through LMS-based collaborative activities at least three times."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Interactive Mathematics Simulation Tool",
+      "Block-Based Programming Platform",
+      "Collaborative Discussion Board within LMS",
+      "Embodied Learning Digital Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

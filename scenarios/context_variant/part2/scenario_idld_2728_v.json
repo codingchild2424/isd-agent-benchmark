@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2728-V",
+  "variant_type": "context_variant",
+  "title": "Introduction to Smart Energy Management Based on Non-Invasive Load Monitoring (NILM)",
+  "context": {
+    "prior_knowledge": "Advanced-level specialized knowledge in the field and extensive practical experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Case study on NILM application through regional energy usage pattern analysis, including education on data collection and visualization using smartphones.",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "The core principles of NILM technology and its application methods for residential energy management can be explained",
+    "Power usage pattern classification problems can be solved using simple machine learning models",
+    "NILM solutions reflecting regional energy usage characteristics can be designed by referencing the Quebec case study"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Data Visualization Tool",
+      "NILM Sample Dataset",
+      "Introductory Machine Learning Tutorial Kit",
+      "Zoom Account",
+      "Cloud-based Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

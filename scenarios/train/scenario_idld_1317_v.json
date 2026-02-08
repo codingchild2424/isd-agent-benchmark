@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1317-V",
+  "variant_type": "context_variant",
+  "title": "Web-Based Arabic Learning Course for Tourism Purposes: ADDIE Model Application",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A teaching competency enhancement program for pre-service or in-service teachers, emphasizing situation-based learning tailored to practical applications by current practitioners.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Learners can utilize over 500 core Arabic vocabulary terms required in tourism settings.",
+    "Learners can achieve over 80% communication accuracy in Arabic tourist interaction simulations.",
+    "Learners will understand cultural-specific tourism etiquette content provided on a web-based platform at a rate of 90% or higher"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Grav® CMS-Based Learning Platform",
+      "Arabic Language Tourism Scenario Video",
+      "Interactive quiz template",
+      "Cultural Comparison Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Service/Customer Support"
+}

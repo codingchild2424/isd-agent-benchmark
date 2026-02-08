@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-1935",
+  "variant_type": "idld_aligned",
+  "title": "Virtual Environment-Based Science Assessment Competency Enhancement Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic science concepts and experimental design experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course comprehensively evaluating science concept understanding and inquiry skills through virtual environment assessments using smartphones, emphasizing practical evaluation methods that address limitations of traditional multiple-choice assessments",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the process of formulating and validating scientific hypotheses in virtual environment simulations.",
+    "Learners can design and execute experiments in virtual environments to analyze scientific problems linked to social phenomena.",
+    "Learners can measure scientific thinking and problem-solving skills using VR/AR-based assessment tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Based VR Headset",
+      "Offline Simulation Kit",
+      "Science Concept Assessment Worksheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

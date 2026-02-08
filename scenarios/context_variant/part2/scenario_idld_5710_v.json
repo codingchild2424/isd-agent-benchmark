@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5710-V",
+  "variant_type": "context_variant",
+  "title": "Active Learning Design for Strengthening Long-Term Retention of Antimicrobial Pharmacology Knowledge",
+  "context": {
+    "prior_knowledge": "Intermediate-level knowledge and practical experience in the relevant field",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Self-paced learning in BYOD (Bring Your Own Device) environments emphasizing practical application skills, characteristic of non-degree programs",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately answer 75% or more of questions related to the spectrum of antimicrobial agents in evaluations after 10 weeks",
+    "Learners can visually explain the spectral relationships of antimicrobial agents using the flower diagram technique",
+    "Learners can link pre-learning materials with active learning sessions to retain complex pharmacological concepts in long-term memory"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Digital Flower Diagram Template",
+      "Interactive quiz tool",
+      "Case Study Resource Compilation"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

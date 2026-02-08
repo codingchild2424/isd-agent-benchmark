@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0404",
+  "variant_type": "balance_teen_filtered",
+  "title": "Collaborative Learning Design for Implementing Computer Science Teamwork in K-12 Education",
+  "context": {
+    "prior_knowledge": "Basic Programming Skills and Understanding of the Software Development Process",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Mobile-based microlearning environment for job-seeking individuals to enhance workplace collaboration competencies",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can proceed with projects by applying agile team processes (Scrum/Kanban) with over 80% accuracy.",
+    "Learners can complete a 4-week team assignment using collaboration tools (Jira, GitHub, Slack) and submit a final report.",
+    "Learners can identify improvement points for peer code quality with over 70% accuracy through peer review."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Platform",
+      "Collaboration Tool License",
+      "Case Study Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

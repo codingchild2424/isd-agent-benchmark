@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7957",
+  "variant_type": "idld_aligned",
+  "title": "AR-Based Topographic Map Learning: Multisensory Experiential Education for Adult Learners",
+  "context": {
+    "prior_knowledge": "Basic geography terminology and map-reading skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An educational course focused on improving spatial thinking skills using augmented reality technology for adult learners working in medical/legal/technical professions",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately explain the correspondence between 3D terrain and 2D topographic maps using an AR sandbox with over 80% accuracy.",
+    "Learners can interpret terrain characteristics by analyzing slope, elevation, and contour line patterns implemented in augmented reality with 75% accuracy.",
+    "Learners can demonstrate collaborative learning skills by integrating their work into a digital project that recreates real-world terrain via AR."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR Sandbox Software License",
+      "Tablet PC Rental System",
+      "3D Terrain Data Library",
+      "LMS-Integrated AR Module"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

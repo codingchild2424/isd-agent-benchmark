@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8035",
+  "variant_type": "idld_aligned",
+  "title": "Vocational Education via Blended Learning: Strengthening Social Sector Competencies",
+  "context": {
+    "prior_knowledge": "Core Knowledge for Administrative/Management Roles",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are office/administrative professionals who study in a digital-device-provided environment but have limited experience with VR/AR technologies. Project-based assessments measure practical competencies.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners apply knowledge related to social sector job functions (community development, policy analysis, etc.) in blended learning environments with over 80% accuracy",
+    "Learners successfully complete group projects with peers using online collaboration tools at least three times",
+    "Learners combine self-directed LMS-based learning with weekly real-time sessions to submit monthly practical application reports"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Online collaboration tools (Miro, Padlet, etc.)",
+      "Practical Case Database",
+      "VR/AR Experience Kit (for Small Groups)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

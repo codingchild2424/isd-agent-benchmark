@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6831",
+  "variant_type": "idld_aligned",
+  "title": "STEM Practitioner Competency Enhancement Program Based on Computational Thinking (CT)",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and secondary-level mathematical proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-centered design considering real-world applicability by current professionals, implementing projects utilizing digital devices",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design logical step-by-step solutions by applying algorithmic thinking processes when solving STEM problems",
+    "Learners achieve over 80% proficiency in applying computational thinking (CT) elements (decomposition, pattern recognition, abstraction, algorithmization) during project-based assessments",
+    "Learners propose at least three meaningful improvement plans in team projects creatively solving complex STEM problems through collaborative learning"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Programmable Robot Kit",
+      "Sensor-Based Experimental Equipment",
+      "CT Assessment Rubric",
+      "STEM case database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-1240",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Interactive App Development Workshop for Pre-Service Science Teachers: Integrated Design of Experiments, Hypotheses, and Variables to Strengthen Scientific Inquiry (Large-Scale)",
+  "context": {
+    "prior_knowledge": "Basic computer literacy, understanding of science curriculum content, foundational knowledge of scientific inquiry processes (hypothesis formulation, experimental design, data analysis, conclusion drawing), and introductory skills in variable control and scientific measurement methods",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course where practicing secondary teachers acquire coding-based app development skills to improve science instruction, learning to integrate experimental design, data analysis, and conclusion-drawing processes into digital environments. Aims to enhance students' scientific thinking (observation, analysis, evidence-based conclusions) through apps with scientific inquiry functionalities.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Develop one or more interactive app prototypes using MIT App Inventor to simulate physics/chemistry experiments, including functions for experimental design, variable control, and data measurement.",
+    "Integrate scientific analysis processes by creating a design document that applies coding elements (variables, conditionals, logical operations) to experimental design (hypothesis setting, independent/dependent variable control, quantitative data measurement).",
+    "Provide and incorporate educational effectiveness feedback on app interfaces and scientific inquiry processes (systematic observation, evidence collection, analysis, and conclusion) through peer evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "MIT App Inventor License",
+      "Science Education Content Templates",
+      "VR Simulation Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

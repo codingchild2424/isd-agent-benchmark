@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0056",
+  "variant_type": "balance_medium_last",
+  "title": "Middle School Spatial Vector Concept Learning Using Virtual Robot Systems",
+  "context": {
+    "prior_knowledge": "Understanding of basic algebraic operations and 2D geometry concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Parallel use of laboratory and online platforms for real-time interaction and self-directed learning",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can visualize and explain vector composition and decomposition in 3D space through virtual robots",
+    "In virtual robot control simulation tools (e.g., Gazebo, V-REP), learners quantitatively calculate vector magnitude (3% error tolerance) and direction (5° error tolerance) for ten given scenarios, apply results to simulations, and achieve an 80%+ robot target-reach rate.",
+    "Learners demonstrate a project-based assessment applying spatial vector concepts to robot path design tasks with over 80% completeness."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Unity-based virtual robotics system",
+      "3D visualization tool",
+      "Robot control simulation kit",
+      "Online Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

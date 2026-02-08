@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2229",
+  "variant_type": "idld_aligned",
+  "title": "Sight Word Instructional Design for Students with Developmental Disabilities: Comparing Immediate vs. Delayed Error Correction",
+  "context": {
+    "prior_knowledge": "Proficiency in basic mathematical terminology and reading comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Design of a customized sight word education program for students with developmental disabilities. Parallel use of digital/analog materials in a BYOD environment. Focuses on acquiring mathematical terminology for pre-professional learners",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can master mathematical sight words (e.g., integral, equation) with 80% accuracy via immediate error correction over three consecutive attempts",
+    "Learners demonstrate a 20% improvement in word recognition speed with immediate error correction compared to delayed error correction",
+    "Learners can explain learning effectiveness based on error correction methods at ≥75% accuracy through weekly formative assessments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Sight word flashcards (digital/print)",
+      "Error-tracking learning management system (LMS)",
+      "Customized error-correction feedback template",
+      "Math terminology audio-assisted app"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

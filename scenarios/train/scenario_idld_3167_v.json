@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3167-V",
+  "variant_type": "context_variant",
+  "title": "Mobile-Based Mathematics Learning Experience Design for 40s Working Adults",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Accessing math concepts applicable to daily workplace tasks via mobile devices, with personalized feedback through learning data analysis",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can apply linear equations and statistical concepts to solve real-life problems encountered in work environments",
+    "Learners maintain a self-directed learning pattern via a mobile app for at least three sessions per week and achieve an 80%+ completion rate",
+    "Learners provide feedback on peers' problem-solving strategies at least three times through a peer assessment system"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Mobile Apps",
+      "PDF Lecture Materials",
+      "Real-time chat support system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

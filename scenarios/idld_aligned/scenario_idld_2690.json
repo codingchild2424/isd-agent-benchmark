@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2690",
+  "variant_type": "idld_aligned",
+  "title": "Development of Accessible E-Learning Language Education Content",
+  "context": {
+    "prior_knowledge": "Foundational digital literacy and language learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical VR device-based educational environment requiring personalized approaches considering diverse learning ability levels",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain e-learning content design principles that consider various types of disabilities with over 80% accuracy.",
+    "Learners can create language learning modules incorporating accessibility features using simulation tools.",
+    "Learners can apply and evaluate at least three core accessibility elements—such as color contrast, text-to-speech—in VR environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Device Set",
+      "Accessibility Evaluation Tool (e.g., WAVE)",
+      "Learning Management System (LMS)",
+      "Multimedia Authoring Software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

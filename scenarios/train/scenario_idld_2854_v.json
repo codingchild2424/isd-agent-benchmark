@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2854-V",
+  "variant_type": "context_variant",
+  "title": "Online Instructional Design Course for Cultivating Scientific Literacy (Nature of Science, NOS)",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Smartphone-Compatible LMS Environment with Socially Integrated Education Utilizing Biology Case Studies",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain the epistemic nature of science (theory-ladenness of observation, tentativeness of scientific knowledge, etc.) with 85% or higher accuracy",
+    "Learners can produce critical reflection reports incorporating NOS (Nature of Science) elements by analyzing real biological research cases",
+    "Learners can create a 5-minute video presentation applying NOS perspectives to science-related social issues encountered in daily life (climate change, vaccines, etc.)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "Biology Case-Based Nature of Science (NOS) Worksheet",
+      "Video Production Guidelines Template",
+      "Peer Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0431",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Audio-Visual Learning Module for Strengthening Anatomy Practical Preparation",
+  "context": {
+    "prior_knowledge": "Basic understanding of anatomical terminology and human body structures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Course for pre-service/in-service teachers to enhance anatomical structure understanding and practical skills. Delivered via mobile-optimized microlearning, emphasizing learning activities using personal devices",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners achieve over 85% accuracy in identifying key anatomical structures using DAVR materials before dissection practice.",
+    "Learners improve their understanding of dissection procedures by over 90% through DAVR.",
+    "Learners complete anatomy-related tasks in project-based assessments within 48 hours."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Audio-visual learning materials (DAVR)",
+      "Mobile Learning Platform",
+      "Anatomical model/3D modeling tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

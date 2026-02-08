@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-3100-V",
+  "variant_type": "context_variant",
+  "title": "Self-Directed Learning Course for Improving Disaster Management Literacy",
+  "context": {
+    "prior_knowledge": "Basic understanding of disaster management concepts and online learning experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An asynchronous online intermediate-level disaster management literacy program for current practitioners, operating in smartphone-centric limited-technology environments.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can efficiently search for required information using keywords related to disaster management",
+    "Learners can systematically acquire response strategies for different disaster types by constructing a customized content dashboard",
+    "Learners can diagnose and improve their disaster management literacy levels through quiz functionalities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible LMS platform",
+      "Disaster Management Content Library",
+      "Keyword Search Functionality",
+      "Quiz Generation Tool",
+      "Social Learning Space"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

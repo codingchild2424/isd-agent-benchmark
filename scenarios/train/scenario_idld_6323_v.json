@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6323-V",
+  "variant_type": "context_variant",
+  "title": "AI Practical Competency Enhancement: Scaffolding Strategies for Improving Mathematics-Based Accounting Learning Outcomes",
+  "context": {
+    "prior_knowledge": "Basic accounting terminology and understanding of financial statement structures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Improve financial analysis accuracy by over 30% by converting accounting data into mathematical modeling",
+    "Applying a 3-stage scaffolding strategy (problem decomposition → AI tool selection → step-by-step verification), learners pass a simulation assessment solving 4+ of 5 complex accounting problems with 80%+ accuracy.",
+    "Reduce individual learning gaps by over 50% based on formative assessment feedback"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

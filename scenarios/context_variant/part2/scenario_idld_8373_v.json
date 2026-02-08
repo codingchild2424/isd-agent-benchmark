@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8373-V",
+  "variant_type": "context_variant",
+  "title": "Machine Learning Practical Competency Enhancement: Reggio Emilia Approach in Early Childhood Remote Education",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "A digital education module can be designed to encourage young children’s physical activities in home environments using the Reggio Emilia approach.",
+    "A system for planning and evaluating daily play activities through parent-child collaboration can be developed.",
+    "A diagnostic report on young children’s physical development can be created using digital observation tools (photo/video recordings)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

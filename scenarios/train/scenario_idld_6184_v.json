@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6184-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Skills: Task-Centered Education on Library Information Utilization in Science Fields",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can search for relevant materials in library online catalogs with 80% accuracy to conduct science research tasks.",
+    "Learners can compile reference lists on scientific topics (e.g., climate change) using academic databases and internet resources.",
+    "Learners can select scientific resources with 90% accuracy by applying criteria to evaluate the credibility of information sources."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

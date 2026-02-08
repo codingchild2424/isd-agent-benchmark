@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8803-V",
+  "variant_type": "context_variant",
+  "title": "Designing Active Language Learning Environments for Corporate Professionals",
+  "context": {
+    "prior_knowledge": "Intermediate-level subject-matter expertise and problem-solving abilities",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A practical language proficiency enhancement course for professionals in healthcare, legal, and technical fields. Requires the establishment of a collaborative and discussion-based learning space utilizing personal devices.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can perform discipline-specific practical language tasks with over 80% accuracy.",
+    "Learners can improve project deliverables at least twice using a peer feedback system.",
+    "Learners can successfully conduct three or more group presentations using digital collaboration tools in a BYOD environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Flexible Spatial Arrangement System",
+      "Wireless Presentation Tool",
+      "Digital Whiteboard",
+      "Collaborative Software Licenses"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

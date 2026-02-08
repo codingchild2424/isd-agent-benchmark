@@ -1,0 +1,40 @@
+{
+  "scenario_id": "IDLD-3559-V",
+  "variant_type": "context_variant",
+  "title": "Lead-In Strategy Design for Language Learning Courses Transitioning to Online Education",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in related fields or equivalent experience, basic digital literacy (able to create/share online documents), and intermediate or higher language proficiency (integrated reading, writing, listening, speaking)",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-time video lectures in digital-device-provided environments, operated with summative assessment focus. Most learners require initial adaptation to online education; key challenges include improving expression accuracy and reading comprehension in asynchronous language learning. Integration of language support features like in-platform vocabulary quizzes and grammar-checking tools planned.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners independently utilize online learning platforms and tools within 2 weeks, acquiring proficiency in effectively navigating digital language learning resources (text/multimedia).",
+    "By week 3, learners collaborate with three peers using online tools (Google Docs/Slack) to draft project plans, achieving ≥80% feedback incorporation and ≥4 points (5-point scale) in role clarity while producing documents adhering to academic writing standards.",
+    "By week 8, learners use online platforms (Google Calendar, Notion) to plan ≥10 weekly language learning hours, achieve ≥80% execution over 4 weeks, and submit weekly reflection journals (500+ characters) analyzing learning content, vocabulary acquisition, and expression proficiency improvements.",
+    "At course completion, learners identify five key barriers to online education transitions (e.g., asynchronous communication limits, digital literacy gaps) and propose solutions (e.g., customized vocabulary feedback systems, real-time pronunciation tools) to enhance language learning effectiveness."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Zoom Account",
+      "LMS (Learning Management System) Access Permissions",
+      "Online collaboration tools (Padlet, Google Docs, etc.)",
+      "Digital Learning Resource Templates",
+      "Online Participation Monitoring Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

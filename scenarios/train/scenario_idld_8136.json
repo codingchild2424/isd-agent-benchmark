@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8136",
+  "variant_type": "idld_aligned",
+  "title": "Clinical Competency Assessment Course Through Veterinary Virtual Reality Simulation",
+  "context": {
+    "prior_knowledge": "Fundamental veterinary science theory and foundational clinical practice knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Small-group intensive education using a smartphone-based VR platform. A project-based learning environment evaluating scientific knowledge, technical skills, and ethical judgment through real emergency simulations.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Achievement of systematic medical triage decision-making capabilities for mass casualty incident scenarios in virtual reality simulations.",
+    "Evaluation of the ability to apply scientific knowledge and skills based on NAVMEC core competencies (diagnosis, treatment, communication, ethical judgment).",
+    "Demonstration of the ability to establish emergency response strategies utilizing teamwork and leadership competencies in a VR-based collaborative environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible VR device",
+      "Virtual Reality Simulation Software",
+      "Clinical Case Database",
+      "Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

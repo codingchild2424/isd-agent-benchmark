@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4475",
+  "variant_type": "idld_aligned",
+  "title": "Adaptive Scaffolding Game-Based Learning Course for Medical Emergency Response",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge and understanding of emergency care procedures",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Conducted in smartphone-centric limited-technology environments, linked to real medical simulations for PBL activities. Learners analyze cases and write response strategy reports by teams after gameplay",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can rapidly assess patient conditions with over 80% accuracy through medical emergency game scenarios.",
+    "With adaptive scaffolding support in-game, learners can explain systematic decision-making procedures in complex emergency situations in three or more steps.",
+    "At the end of the 6-month course, learners achieve a knowledge retention rate of 75% or higher between real-time simulated assessments at 2 and 12 weeks."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-optimized game-based learning platform",
+      "Emergency medicine simulation kit",
+      "Learner progress analysis tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

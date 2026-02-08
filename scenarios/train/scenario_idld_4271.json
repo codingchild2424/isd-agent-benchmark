@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4271",
+  "variant_type": "idld_aligned",
+  "title": "Biotech Virtual Lab: Inquiry-Based Learning Design",
+  "context": {
+    "prior_knowledge": "Foundational life science knowledge, understanding of basic molecular biology concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Environment where face-to-face experiments are challenging due to pandemic restrictions. Requires smartphone-based access. Inquiry-based learning centered on real-life application cases",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "They can explain PCR experimental procedures step-by-step using virtual laboratory simulations.",
+    "Through inquiry-based learning activities, they connect DNA replication mechanisms with biotechnology applications.",
+    "By applying scaffolding strategies, they systematically analyze complex molecular biology concepts."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Optimized Virtual Lab Platform",
+      "Zoom Accounts & Online Collaboration Tools",
+      "PDF Experimental Manuals & Support Materials",
+      "Smartphone-Compatible 3D Simulation App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

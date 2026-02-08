@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0766",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Math Project Design Course for Preparing Web-Based Self-Directed Learning",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental mathematics concepts and experience using digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners solve real-life problems through mathematical modeling projects and engage in self-directed learning via a web-based learning system",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can plan math projects with over 80% self-directedness using a web-based system over 14 weeks",
+    "Learners can revise problem-solving strategies three or more times using peer feedback and system resources during project implementation",
+    "Learners can achieve a 0.5 or greater improvement in self-directed learning readiness (logits scale) from pre- to post-assessment"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Web-Based Learning System",
+      "Digital Learning Materials",
+      "Real-Time Collaboration Tool",
+      "Formative assessment checklist"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

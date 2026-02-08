@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0234",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Rapid Prototyping-Based Curriculum for Online Information Literacy Enhancement",
+  "context": {
+    "prior_knowledge": "Basic information retrieval skills and experience utilizing academic resources",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Post-COVID-19 need for information literacy education optimized for non-face-to-face environments. Supports integrated online/offline learning to strengthen scientific research competencies.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can systematically select five or more relevant scientific papers using keyword search strategies in online academic databases within 8 weeks.",
+    "Learners can complete an information analysis project—including peer evaluation—using collaboration tools in a blended learning environment.",
+    "Learners can design an information collection-analysis-visualization process tailored to their individual research topic using prototyping tools and improve it two or more times."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Learning Management System (LMS)",
+      "Access to academic database in science fields",
+      "Collaboration tools (Google Workspace, Microsoft Teams, etc.)",
+      "Data visualization software (Tableau Public, RAWGraphs, etc.)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0085",
+  "variant_type": "balance_large_last",
+  "title": "Enhanced Simulation Education (SEE) Course for Neurosurgical Training",
+  "context": {
+    "prior_knowledge": "Basic neurosurgical anatomy and experience with surgical tool usage",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-centered training for in-house experts at medical device companies, utilizing high-fidelity VR simulations replicating real surgical environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Participants can perform basic incision and suturing techniques in neurosurgical simulations with 90% accuracy",
+    "Participants achieve a success rate of over 70% in complex clinical scenarios (e.g., hemorrhage management)",
+    "Participants complete project-based evaluations for three clinical scenarios post-4-week simulation training, submitting reports scoring ≥4/5 points in each of 9 rubric items (clinical judgment 5, decision-making 4)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Fidelity VR Surgical Simulator",
+      "3D Anatomy Modeling Software",
+      "Virtual Surgical Instrument Manipulation Kit",
+      "Real-time feedback system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

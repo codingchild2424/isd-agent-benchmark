@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3228",
+  "variant_type": "idld_aligned",
+  "title": "Adaptive eLearning Design for Customized Science Projects: Development of Adaptive Learning Experiences",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental scientific theories and experimental methods",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized science project implementation and assessment for learners in smartphone-centric limited-technology environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can select adaptive e-learning content suitable for individual science projects with over 80% accuracy.",
+    "Learners implement three or more customized feedback sessions per project phase using smartphone-based tools.",
+    "Learners share five or more personalized learning strategies through a peer assessment system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Science Experiment Kit",
+      "Offline Activity Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

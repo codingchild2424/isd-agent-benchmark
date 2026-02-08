@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0087",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Web-Based Remote Science Learning Platform Integration Education",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and experience with digital device usage",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Short-term program to cultivate proficiency in using web-based learning platforms integrated with elementary science curricula.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can explain methods for navigating and utilizing LMS-based science content.",
+    "Learners accurately apply scientific concepts at least 80% of the time using digital tools (virtual labs, quizzes, etc.) within the platform.",
+    "Learners can review at least 3 peers' project codes/documents using GitHub Classroom or Google Docs collaboration features and provide feedback within 24 hours, including at least 1 specific improvement suggestion."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS account",
+      "Interactive Science Content",
+      "Digital Learning Guide (PDF)",
+      "Virtual Laboratory Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

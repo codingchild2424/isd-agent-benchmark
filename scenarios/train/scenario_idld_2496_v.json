@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2496-V",
+  "variant_type": "context_variant",
+  "title": "AI Practical Competency Enhancement: Simulation-Based Learning for Non-Technical Skills (NTS) Improvement",
+  "context": {
+    "prior_knowledge": "Basic leadership theories and work management experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners improve team communication skills in crisis situations by 80% or more after simulation training.",
+    "Learners achieve a score of 3 or higher (on a 5-point scale) in the collaboration category of the NTS assessment tool (AS-NTS standards) upon completion of the 4-week course.",
+    "Learners maintain intrinsic motivation improved by 15% or more in post-session motivation scale (SIMS) measurements."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

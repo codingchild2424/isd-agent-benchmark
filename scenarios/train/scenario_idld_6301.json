@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6301",
+  "variant_type": "idld_aligned",
+  "title": "Web-Based Real-Time Language Education Program Design",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and experience with digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Situations requiring real-time interaction and effective assessment implementation in smartphone-centric limited-technology environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform basic communicative functions (greetings, questions, explanations) of the target language with over 80% accuracy for real-time communication in digital environments",
+    "Learners can complete language practice assignments with peers twice or more weekly through a mobile-optimized platform",
+    "Learners can achieve a minimum score of 70 or higher in the comprehensive assessment (speaking/listening) using evaluation tools accessible solely via mobile devices."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Video Conferencing Tools (Zoom, etc.)",
+      "Mobile-Friendly Assessment System",
+      "Offline Alternative Materials (USB/Printed)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-0180",
+  "variant_type": "balance_medium_scale",
+  "title": "Digital Educational Serious Game Design: Convergence of Science and Game Design",
+  "context": {
+    "prior_knowledge": "Basic scientific knowledge and understanding of fundamental game principles",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners are general citizens with intermediate expertise in science, participating in collaborative learning using personal devices",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can create a serious game design document integrating educational objectives and game mechanics according to the DIJS methodology.",
+    "Learners can develop more than three game contents reflecting scientific concepts (e.g., simulations, problem-solving quests).",
+    "Learners can analyze and improve the balance between educational effectiveness and entertainment value of games through peer evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Game Development Tool (Unity/Unreal Engine)",
+      "Educational Game Case Database",
+      "Collaboration Software (Slack/Trello)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

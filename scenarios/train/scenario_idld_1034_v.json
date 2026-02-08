@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1034-V",
+  "variant_type": "context_variant",
+  "title": "Reinforcement Learning-Based Patient-Centered Treatment Planning Design Project",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project solving real-world treatment planning problems using mathematical modeling and reinforcement learning concepts in a smartphone-based limited technological environment",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the fundamental principles of reinforcement learning through mathematical modeling and apply them to treatment planning problems.",
+    "Learners can build patient data simulation models using smartphone-based tools in limited-technology environments.",
+    "Learners can design and evaluate dynamic treatment planning algorithms considering patient privacy protection in team-based PBL environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Reinforcement Learning Simulator",
+      "Offline collaboration tools (whiteboard, flipchart)",
+      "Simple calculator for basic statistical computations",
+      "Patient simulation dataset sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

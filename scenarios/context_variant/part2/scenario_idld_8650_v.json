@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8650-V",
+  "variant_type": "context_variant",
+  "title": "AI Practical Skills Enhancement: Digital Educational Serious Game Design Course: Game-Based Science Instruction",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate",
+    "learner_education": "Adult learner (non-degree)"
+  },
+  "learning_goals": [
+    "Learners can design serious games by integrating game design elements with science education objectives.",
+    "Learners can collaborate with peers and mentors in a PBL environment to develop prototypes for educational digital games.",
+    "Learners iteratively improve the balance between educational effectiveness and entertainment elements in game design through formative assessments.",
+    "Learners can analyze the alignment between science education content and game mechanics and suggest improvements based on evaluation criteria."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

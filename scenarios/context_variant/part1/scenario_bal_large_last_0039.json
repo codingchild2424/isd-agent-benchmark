@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-LAST-0039",
+  "variant_type": "balance_large_last",
+  "title": "Language Proficiency Improvement Program Using Digital Game-Based Competitive Learning",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and experience using digital games",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Language learning design combining competition and self-improvement in a smartphone-based environment; requires application of personalized competitive mechanisms by learner proficiency levels",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can distinguish and apply social competition and self-competition strategies in digital game environments.",
+    "Learners can maintain learning motivation by selecting competition types appropriate to their proficiency level during language task performance.",
+    "Learners can quantitatively analyze the extent of language proficiency improvement through a game-based assessment system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Game Platform",
+      "Learner Proficiency Diagnostic Tool",
+      "Progressive Feedback System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

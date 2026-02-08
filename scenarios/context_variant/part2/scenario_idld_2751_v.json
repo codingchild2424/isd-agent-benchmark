@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-2751-V",
+  "variant_type": "context_variant",
+  "title": "M-COPE Learning Design for Strengthening Mobile-Based Science Competencies",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Building a mobile learning environment immediately applicable to workplace tasks for professionals",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Students can collect, analyze, and visualize scientific experiment data using mobile devices",
+    "Students can apply the five elements of the M-COPE framework (mobile characteristics, conditions, performance, pedagogy, ethics) to actual learning activities",
+    "Students can share learning content in real-time with peers through a mobile app-LMS integrated system"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "BYOD-based learning management system",
+      "Science Experiment Simulation App",
+      "Mobile-friendly content creation tools",
+      "LMS-integrated forum"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

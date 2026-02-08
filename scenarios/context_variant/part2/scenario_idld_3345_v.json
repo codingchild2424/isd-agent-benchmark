@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3345-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Clinical Practical Competencies: Data-Driven Personalized Instruction for MOOC Learning Outcomes Analysis",
+  "context": {
+    "prior_knowledge": "Understanding Basic Mathematical Concepts and Online Learning Experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze learning engagement data collected from MOOC platforms to explain differences between performance groups.",
+    "Learners can propose effective VR learning simulation designs by analyzing time management and content access patterns.",
+    "Learners can present customized task design plans for different learner levels based on data-driven insights."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

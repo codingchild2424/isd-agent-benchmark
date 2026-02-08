@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7339",
+  "variant_type": "idld_aligned",
+  "title": "Science Inquiry Competency Enhancement Course Using Immersive Learning Environments and Systems Thinking",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental science theories and research methodologies",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A blended learning environment combining mobile device-based microlearning modules with immersive simulation tools in a BYOD setting.",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can create a systems thinking map analyzing interactions between elements within a scientific system.",
+    "Learners can simulate scientific problem-solving processes with over 80% accuracy in an immersive virtual laboratory environment.",
+    "Learners can propose improvements to science learning environments by applying the educational system restructuring framework (Frick, 1993)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Virtual Laboratory Software",
+      "System Dynamics Modeling Tool",
+      "Mobile-compatible LMS platform",
+      "Science Simulation Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

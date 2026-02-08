@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6224",
+  "variant_type": "idld_aligned",
+  "title": "Web-Based Educational Course for Neonatal Skull Ultrasound Interpretation",
+  "context": {
+    "prior_knowledge": "Basic medical knowledge and understanding of neonatal intensive care management",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical educational course for pediatric and neonatal-perinatal medicine specialists working in NICUs. Blended learning design combining web-based learning (WBL) modules and project-based learning conducted in a BYOD environment",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify key anatomical structures in neonatal cranial ultrasound (CUS) images with 80% accuracy.",
+    "Learners can diagnose and classify the five major types of brain injuries (e.g., intracranial hemorrhage, ventricular dilation) found in CUS with 90% accuracy.",
+    "After interpreting CUS results, learners can apply appropriate clinical management plans to team-based projects with at least 70% engagement."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Case-Based CUS Image Database",
+      "3D Anatomical Modeling Software",
+      "Interactive Diagnostic Simulation Tool",
+      "Online Discussion Forum Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

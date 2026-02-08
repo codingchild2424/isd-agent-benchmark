@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-1275",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Mobile Science Inquiry Project: Short-Term Intensive Course",
+  "context": {
+    "prior_knowledge": "Basic science theories and comprehension of experimental procedures",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Flexible learning environment facilitated by personal devices, enhancing real-world problem-solving competencies through project-based assessments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Using a mobile learning platform, learners can perform scientific problem-solving processes with over 80% engagement.",
+    "The ability to systematically collect and analyze experimental data using learning apps/tools is assessed.",
+    "Learners can form a team of three peers in a blended environment (online collaboration tools + face-to-face meetings) to complete a five-stage (planning → data collection → experimentation → analysis → presentation) science project (topic: recycling resource utilization) and submit final deliverables (report + 5-minute presentation video) by the deadline."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Experiment Kit",
+      "Mobile Learning Management System (LMS)",
+      "Collaboration Tool",
+      "Digital Content Authoring Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

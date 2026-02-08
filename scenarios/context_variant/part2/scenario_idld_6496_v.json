@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6496-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Service Quality Practical Competencies: Mastery Learning-Based CS1 Foundational Programming Course",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Customer service competency enhancement program for service/customer-facing role practitioners",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can implement a program of approximately 300 lines using basic control structures (conditional statements, loops) in the Python programming language",
+    "Learners can demonstrate algorithm design proficiency with ≥85% accuracy through mastery assessments per module",
+    "Learners can develop integrated software solutions for real-world problem-solving via team-based projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Customer Relationship Management (CRM) System",
+      "Customer Interaction Simulator",
+      "Service Manual"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Service/Customer Support"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6968-V",
+  "variant_type": "context_variant",
+  "title": "Computer Network Fundamentals: Customized Curriculum Through Adaptive Learning",
+  "context": {
+    "prior_knowledge": "Basic computer literacy and digital competence",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Delivering foundational networking concepts to pre-service/in-service teachers at a level applicable to educational contexts",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Compare and explain the composition principles and advantages/disadvantages of network topologies (star, mesh, ring, etc.)",
+    "Visually represent data transmission processes based on the OSI 7-layer model and TCP/IP model",
+    "Accurately perform personalized content (quizzes, simulations) tailored to individual comprehension levels using adaptive learning platforms with over 80% accuracy"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS Platform Account",
+      "Adaptive Learning Software License",
+      "Network Simulation Tool",
+      "Interactive E-Book"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

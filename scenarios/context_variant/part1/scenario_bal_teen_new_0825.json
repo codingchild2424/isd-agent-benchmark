@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0825",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Flipped Learning and Collaborative Problem-Based Bridge Computer-Aided Design Education",
+  "context": {
+    "prior_knowledge": "Basic engineering mathematics and CAD software experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Curriculum integrating flipped learning with collaborative problem-based learning (CPBL) for bridge design projects in a digital device-enabled environment",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can mathematically model fundamental bridge design principles and implement them using CAD tools.",
+    "In teams of 4–5, learners will solve two real-world engineering problems (e.g., bridge design, solar power optimization) over three months using CPBL (collaborative problem-based learning). They will document the five-stage design process (problem definition → idea generation → prototyping → testing → improvement) and submit a final presentation meeting four or more out of five evaluation criteria.",
+    "In a flipped learning environment, learners will demonstrate self-directed learning competencies by: 1) completing 80% or more of weekly learning videos, 2) scoring 70 or higher on online quizzes, and 3) fulfilling at least three items on a monthly self-assessment checklist. At course completion, they will submit a learning portfolio (error log, concept summaries) and achieve a rating of \"average\" or higher in three out of four teacher evaluation areas."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "CAD Software License",
+      "Bridge Design-Related Video Lecture Materials",
+      "Collaborative Learning Space",
+      "Assessment Rubric"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

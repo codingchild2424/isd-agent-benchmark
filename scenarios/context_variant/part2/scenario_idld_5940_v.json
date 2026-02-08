@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5940-V",
+  "variant_type": "context_variant",
+  "title": "Gamification-Based Short-Intensive Course in Web Design and Programming",
+  "context": {
+    "prior_knowledge": "Basic HTML/CSS comprehension and programming experience (e.g., Python)",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Real-time interaction-focused education utilizing game elements in digital device-provided environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design and implement responsive web layouts in a gamification environment.",
+    "Learners can develop JavaScript-based interactive elements through mini-game-style assignments.",
+    "Learners can receive a three-tiered diagnosis (beginner/intermediate/advanced) of their individual learning progress and skill proficiency via a formative assessment system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Tools (Miro, Figma)",
+      "Gamified LMS Platform",
+      "Digital Learning Kit (Pre-Provided)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

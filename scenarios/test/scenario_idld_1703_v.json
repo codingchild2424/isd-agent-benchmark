@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1703-V",
+  "variant_type": "context_variant",
+  "title": "EPSS-Based Intensive Short-Term Instructional Design Course for Mathematics Teaching: Focused on Calculations, Formulas, Equations, and Proofs",
+  "context": {
+    "prior_knowledge": "Understanding of basic mathematical concepts (calculations, formulas, equations, graph interpretation) and intermediate-level application skills (problem-solving, data analysis). Knowledge of foundational statistics and probability concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Operating project-based assessments using personal devices (tablets/laptops). Emphasizing real-world math problem-solving skills (statistical analysis, probability modeling, data visualization) to achieve learning objectives, with a focus on cultivating logical thinking through proof processes.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Complete the lesson design process for equation solving, graph analysis, and mathematical proofs by at least 80% using EPSS components (tutorials, examples, resources, etc.)",
+    "Develop at least three interactive mathematical learning materials (e.g., problem-solving simulations, statistical visualization tools, probability distribution generators) using built-in EPSS tools",
+    "Submit a mathematical modeling project (including at least three modeling stages and statistical/probability analysis) within one week, incorporating three peer reviews and two self-assessments, achieving at least 80% attainment in four out of five rubric criteria"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "EPSS Prototype (Electronic Performance Support System)",
+      "Mathematics education content template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

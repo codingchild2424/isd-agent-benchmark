@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-5404-V",
+  "variant_type": "context_variant",
+  "title": "Self-Directed Design for Remote Sensing Image Caption Generation with Few-Sample Learning: A Mathematical Optimization Approach",
+  "context": {
+    "prior_knowledge": "Intermediate theoretical background (linear algebra, probability theory, optimization theory) and practical experience required. Essential understanding of matrix operations, gradient descent, and statistical evaluation metrics",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Aims to cultivate the ability to design efficient caption generation models in real-world industrial environments with limited labeled data, focusing on balancing mathematical modeling and computational efficiency.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Develop a semantic feature extractor via BYOL-based self-supervised learning and apply matrix decomposition-based dimensionality reduction techniques on a limited remote sensing image dataset (under 100 images).",
+    "Achieve over 20% improvement in caption quality by designing a teacher-student model structure using self-ensemble techniques and stochastic gradient descent (SGD) optimization.",
+    "Implement a caption generation system achieving a BLEU-4 score of 0.35 or higher on real satellite image datasets and verify statistical significance.",
+    "Document self-learning strategies using unlabeled remote sensing samples and facilitate knowledge transfer within teams, emphasizing loss function optimization and normalization techniques."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "1 GPU Server",
+      "Public Satellite Image Dataset",
+      "Python Deep Learning Library",
+      "Caption Evaluation Metric Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

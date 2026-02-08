@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-6866",
+  "variant_type": "idld_aligned",
+  "title": "Web Programming Basics Tutorial: Computer-Based Learning for Pre-Service Teachers",
+  "context": {
+    "prior_knowledge": "Understanding of basic HTML/CSS syntax and experience with programming development environments",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Structured around smartphone-based mobile learning, minimizing offline activities.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can implement simple web page structures using basic HTML/CSS/JavaScript syntax.",
+    "Learners can apply debugging principles to correct code errors during problem-solving processes.",
+    "Learners can exchange project feedback with peer teachers using collaboration tools and version control systems."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-compatible code editor",
+      "Offline-capable tutorial PDF",
+      "Cloud-based development environment access tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

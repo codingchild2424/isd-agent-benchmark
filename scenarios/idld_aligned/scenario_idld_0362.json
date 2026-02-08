@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0362",
+  "variant_type": "idld_aligned",
+  "title": "Machine Learning-Based Water Meter Failure Prediction System Design Project",
+  "context": {
+    "prior_knowledge": "Understanding of basic machine learning concepts, Python programming experience, and experience utilizing public data",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Training course for in-service professionals to enhance modeling and interpretation competencies using real data for solving public infrastructure maintenance issues",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design and implement machine learning prediction models using labeled water meter data.",
+    "Learners can collaborate with domain experts to understand and apply data quality improvement processes.",
+    "Learners can write model validation reports that comprehensively evaluate statistical significance and predictive accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Public water meter dataset",
+      "Jupyter Notebook Environment",
+      "Google Colab access rights",
+      "Domain expert consulting session"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

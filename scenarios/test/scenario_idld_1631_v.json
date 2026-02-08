@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1631-V",
+  "variant_type": "context_variant",
+  "title": "Digital Encoder-Decoder Design: Microlearning for Social Infrastructure Optimization (Smart City and Public Service Applications)",
+  "context": {
+    "prior_knowledge": "Understanding of digital logic circuits and basic semiconductor devices, HDL (VHDL/Verilog)-based design experience, foundational comprehension of social infrastructure systems (smart cities, public service platforms) and citizen needs analysis skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A short, practice-oriented course for current practitioners offering flexible learning environments via BYOD. It focuses on case studies where digital technology contributes to solving social issues (e.g., improving accessibility, resource efficiency, and civic participation) and emphasizes connections to local community development.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners explain the operational principles of 8x3 encoder-decoder and Hamming code systems—core elements of digital communication—and create block diagrams applicable to social infrastructure (e.g., smart city networks, public data communication systems).",
+    "Learners analyze three optimization techniques (e.g., power gating, clock gating, data path optimization) in reversible gate (RG)-based low-power encoder-decoder design within a week and present simulation results demonstrating over 20% power reduction in actual FPGA implementations for public applications (e.g., traffic control systems, energy management platforms).",
+    "Learners perform digital module simulation and power consumption analysis using Xilinx/Cadence tools, verifying optimizations for social infrastructure (e.g., energy management systems, smart grids) and analyzing their impact on enhancing civic convenience.",
+    "Learners select one industrial application case (e.g., voice recognition-based public services, machine translation for multicultural support) for a project-based assessment within a week, follow a 5-stage design process (requirements analysis → architecture design → module implementation → testing → documentation) to create an encoder-decoder system design document, and achieve an 'excellent' grade in at least two of four rubric criteria (clarity, completeness, practicality, social contribution)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Design Simulation Tool License (Cloud Access)",
+      "Mobile-Compatible Lecture Materials (PDF/Interactive Content)",
+      "Pre-Learning Package (Basics of Digital Logic Review)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-8594-V",
+  "variant_type": "context_variant",
+  "title": "Integrated Pharmacology Education Based on Student-Led Objective Tutorials (SLOT)",
+  "context": {
+    "prior_knowledge": "Basic pharmacological concepts and comprehension of healthcare systems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A practical pharmacy application skills enhancement program for working professionals.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain drug mechanism of action with 80% accuracy by analyzing real clinical cases.",
+    "Learners establish and execute self-directed learning plans with 90% participation using the SLOT method.",
+    "Learners write drug treatment protocol proposals with 100% completion through PBL team projects.",
+    "Learners achieve teamwork performance capabilities of 4.0/5.0 or higher through peer evaluation."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Access to Digital Drug Database",
+      "PBL Case Study Kit",
+      "Online Collaboration Tool License"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0810-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening AI Practical Competencies: Electronic Performance Support Systems for Enhancing Scientific Research Methods",
+  "context": {
+    "prior_knowledge": "Understanding of basic research methodologies and statistical analysis concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply the five stages of scientific research design (problem definition, literature review, methodology selection, data collection, result analysis) via EPSS.",
+    "Learners can write research proposals using online tools for systematic literature reviews and research ethics compliance.",
+    "Learners can correct over 80% of errors in research methodologies through the EPSS feedback system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

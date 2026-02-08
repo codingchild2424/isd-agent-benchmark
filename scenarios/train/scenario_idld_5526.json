@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5526",
+  "variant_type": "idld_aligned",
+  "title": "Data-Driven Learning Curve Analysis for Optimizing Neural Network Architecture Search",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Neural Network Structures, Python Programming Experience, and Fundamental Machine Learning Concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Minute-based microlearning units in BYOD environments with mobile device integration and real-time collaboration tools",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Analysis of learning curve data to establish strategies that reduce computational costs by over 30% in neural network exploration processes",
+    "Implementation of early stopping criteria for neural network structures with over 85% accuracy using cross-validation data",
+    "Design of a generalized exploration framework applicable to real-world predictive maintenance datasets"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Version of Jupyter Notebook",
+      "Google Colab Integration",
+      "TensorFlow Lite",
+      "Kaggle Predictive Maintenance Dataset Sample"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

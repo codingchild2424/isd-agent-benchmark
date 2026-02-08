@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-1110",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] AI-Based Adaptive Gamification-Enhanced English Learning Competency Course",
+  "context": {
+    "prior_knowledge": "Basic English vocabulary and grammar comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Emphasis on English Communication Skills in Science, Promoting Self-Directed Learning in an AI-Powered Game Environment",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can use over 1,000 science-related core vocabulary items with ≥80% accuracy in an AI-adaptive gaming environment.",
+    "Learners achieve ≥30% improvement in science-domain English reading comprehension assessments through gamification activities.",
+    "Learners attain a fluency score of ≥4/5 (5-point scale) in science-topic English presentations lasting ≥5 minutes by incorporating AI feedback."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AI-Powered Adaptive Learning Platform",
+      "Science field English content database",
+      "Real-time video conferencing tools",
+      "Learning Analytics Dashboard"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

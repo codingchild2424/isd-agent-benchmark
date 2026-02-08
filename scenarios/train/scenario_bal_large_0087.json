@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0087",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Blended Learning Program for Pre-University Physics Students",
+  "context": {
+    "prior_knowledge": "High school-level foundational knowledge of physics",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Physics foundational competency enhancement program for in-service professionals, offering a blended learning environment combining mobile devices and offline classes",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can understand and explain foundational physics concepts (mechanics, electromagnetism, thermodynamics, etc.) via MOOCs",
+    "Learners enhance problem-solving skills using technology-based feedback tools (clickers, etc.) in face-to-face instruction",
+    "Within 1 week, learners identify 3 physics principles (energy conservation, fluid dynamics, thermodynamics, etc.) related to real work environments (manufacturing processes/energy management) in team assignments, write reports including a 5-step problem-solving process (problem definition → principle application → solution design → simulation → verification) for each principle, and achieve 'excellent' ratings in ≥2 of 3 rubric criteria (clarity, practicality, creativity)"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Massive Open Online Course (MOOC) Platform",
+      "Mobile Learning Devices",
+      "Clicker System",
+      "Online Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

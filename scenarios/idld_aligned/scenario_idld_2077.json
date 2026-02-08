@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2077",
+  "variant_type": "idld_aligned",
+  "title": "Blended Learning Model Design and Application for Strengthening Practical Mathematics Competencies",
+  "context": {
+    "prior_knowledge": "High school-level basic mathematics knowledge and experience applying mathematics to job-related tasks",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Requires blended learning design combining offline classes with online collaborative activities in a smartphone-based, limited-technology environment, focusing on strengthening practical math problem-solving competencies.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can apply mathematical modeling techniques in blended learning environments with over 80% accuracy to solve practical problems.",
+    "Students complete over 90% of complex math problems through online collaboration with peer practitioners.",
+    "Students improve their ability to apply learning content to real-world work scenarios by over 75% through formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Offline workbooks",
+      "Collaborative learning guides"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

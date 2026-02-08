@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-8713",
+  "variant_type": "idld_aligned",
+  "title": "Personalized Mathematics Learning Design Using Concept Mapping",
+  "context": {
+    "prior_knowledge": "Understanding of basic arithmetic operations and geometric concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended instruction exploring personalized learning pathways using personal devices in a BYOD (Bring Your Own Device) environment.",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can select learning priorities in a concept map with 80% accuracy through self-assessment.",
+    "Learners achieve mastery of core mathematical concepts at over 90% proficiency by following the generated personalized learning path.",
+    "Learners can write a report explaining the interconnectedness of concepts through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Educational Concept Map Template",
+      "Digital Learning Resource Package",
+      "Personal Device Charging Facilities"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

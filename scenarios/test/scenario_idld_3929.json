@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3929",
+  "variant_type": "idld_aligned",
+  "title": "Science Inquiry Skill Transfer Enhancement Program Through Error Prevention Training",
+  "context": {
+    "prior_knowledge": "Basic science laboratory procedures and observational skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A course designed to apply error-prevention strategies in experimental environments using VR simulations, enabling knowledge transfer to real scientific inquiry scenarios.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can reduce error rates by 30% using training wheels (task examples + principle-based guidance) in VR simulation experiments",
+    "Learners can achieve over 80% proficiency in independently performing complex scientific experiment procedures through scaffolded step-by-step support",
+    "Learners can apply error-prevention strategies acquired during training to actual scientific inquiry tasks, improving problem-solving accuracy by 40%"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science lab VR simulation software",
+      "Tablet PC or VR headset",
+      "Laboratory procedure guide",
+      "Error Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

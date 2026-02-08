@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4197-V",
+  "variant_type": "context_variant",
+  "title": "High-Strength Aluminum-Lithium Alloy Design: Machine Learning Utilization Strategies",
+  "context": {
+    "prior_knowledge": "Foundational materials engineering and data analysis concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Focuses on improving material development efficiency through practical education centered on real-life application examples",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can compare the performance differences between RBF and BP neural network models to select a suitable machine learning technique for alloy design.",
+    "Learners can predict the composition of aluminum-lithium alloys for target strength with over 80% accuracy using a trained model.",
+    "Through project-based assessment, learners can analyze real-world alloy design cases and propose improvement strategies for strength enhancement by over 15%."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-Based Machine Learning Tools (Anaconda, TensorFlow/Keras)",
+      "Jupyter Notebook Environment",
+      "Alloy Data Visualization Dashboard",
+      "Experimental Results Comparison Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

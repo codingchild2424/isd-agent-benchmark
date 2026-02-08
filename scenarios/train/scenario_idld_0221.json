@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0221",
+  "variant_type": "idld_aligned",
+  "title": "Integrated Education of Power Electronics Design Simulation and Clicker-Based Formative Assessment",
+  "context": {
+    "prior_knowledge": "Basic electronic engineering theory and circuit analysis skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Project Evaluation Linked to Field Practice Using Smartphone-Based Clicker Systems",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Through power converter design simulation, over 85% of learners can apply efficiency optimization techniques.",
+    "Clicker-based formative assessment enables 100% of learners to improve their ability to correct conceptual errors based on real-time feedback.",
+    "In a VR environment, learners can simulate and explain the operating principles of three or more power electronic components."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Clicker Platform",
+      "Power Electronics Simulation Software",
+      "VR Educational Kit",
+      "Smartphone Charging Station"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

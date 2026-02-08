@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-7171-V",
+  "variant_type": "context_variant",
+  "title": "Science Leadership Competency Enhancement Program Based on Blended Learning Models",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Science field leadership development program for corporate managers/leaders using blended learning models, requiring learning design that combines mobile-based microlearning and offline workshops in BYOD settings",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can complete team-based science project planning and execution in blended learning environments within six months",
+    "Learners can complete microlearning content at least three times weekly and participate in real-time discussion forums on online learning platforms",
+    "Learners can present innovative problem-solving solutions combining digital tools and scientific theories at offline workshops"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Mobile Learning App",
+      "Science Experiment Kit",
+      "Collaborative learning templates"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0958-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Software Development Competencies: Simulation-Based Training and Learning Transfer Strategies",
+  "context": {
+    "prior_knowledge": "Comprehension of core concepts and intermediate-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply learned content to real work environments with over 80% accuracy after simulation training.",
+    "Learners collaborate with peers in social problem-solving simulations to develop action plans with 90% participation.",
+    "Learners scoring 75+ in formative assessments can explain the impact of simulation design elements (goal alignment, feedback systems, etc.) on learning transfer."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Software Development/IT"
+}

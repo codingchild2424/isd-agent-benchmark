@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1262",
+  "variant_type": "idld_aligned",
+  "title": "Practical Implementation of Automated Business Intelligence Modeling",
+  "context": {
+    "prior_knowledge": "Elementary statistical analysis, data preprocessing concepts, and experience with Python or RapidMiner",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Combines smartphone-based mobile learning with offline workshops. Emphasizes practical application-focused case studies",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can build a business intelligence model using AutoML tools within three stages (data loading - preprocessing - model generation).",
+    "Learners can compare the strengths and weaknesses of AutoML approaches based on RapidMiner and Python, and explain criteria for selecting tools suited to actual work scenarios.",
+    "Learners can achieve a prediction accuracy of over 80% by applying a Random Forest regression model to datasets similar to the Airbnb case study."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS System",
+      "Offline Workshop Practical Equipment",
+      "Airbnb Public Dataset",
+      "RapidMiner Free Version Account",
+      "Colab Pro Mobile Accessibility Support"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

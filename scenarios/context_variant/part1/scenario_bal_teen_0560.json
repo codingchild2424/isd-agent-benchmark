@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0560",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Remote Indigenous Design Education Program: Place-Based Collaborative Learning",
+  "context": {
+    "prior_knowledge": "Understanding of basic design principles and experience using digital devices",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Designed for learners with cultural backgrounds similar to Australia’s remote Indigenous communities, this design education program reflects local characteristics to contribute to students’ self-actualization and community development",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners investigate three local cultural elements (traditional patterns, festivals, foods, etc.), complete a design project (poster or model) reflecting them, and achieve a \"Distinction\" grade in ≥2 of three teacher-evaluation rubric items (creativity, cultural accuracy, visual expression).",
+    "Learners can strengthen digital literacy during the design production process using digital tools.",
+    "Learners can develop prototype designs that address community issues through collaborative learning."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "3D Printer",
+      "Tablet PC",
+      "Design Software License",
+      "Regional Cultural Resources Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

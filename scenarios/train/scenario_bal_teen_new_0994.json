@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0994",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Language Project-Based Learning Design Using Collaborative MOOCs",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and online learning experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners perform collaborative activities in social networks and personal learning environments (PLE) using personal devices (BYOD), with summative assessments measuring learning outcomes.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can complete language projects (translation/content production, etc.) by collaborating with peers in a collaborative MOOC environment",
+    "Learners can design real-time feedback and knowledge-sharing processes using digital tools (Google Docs, Slack, etc.)",
+    "Learners can self-assess their learning design satisfaction and motivation levels and propose improvement strategies"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Collaboration Tools (Slack, Zoom)",
+      "Digital Learning Management System (LMS)",
+      "PLE (Personal Learning Environment) Configuration Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

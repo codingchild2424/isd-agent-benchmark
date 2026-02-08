@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0453",
+  "variant_type": "idld_aligned",
+  "title": "Simulation-Based Learning Course for Logistics Management",
+  "context": {
+    "prior_knowledge": "Grasp of fundamental logistics management concepts, basic computer application skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "For working professionals, solving logistics problems encountered in the workplace via simulation games, combining online (game platform) and offline (workshop) activities.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain resource allocation optimization strategies in logistics network design.",
+    "Learners can analyze and decide on lead-time-cost trade-offs in inventory management simulations.",
+    "Learners can implement an alternative evaluation process for supply chain risk scenarios in a game-based environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Cloud-based logistics simulation game platform",
+      "Case Analysis Workbook",
+      "Real-time Data Visualization Tool",
+      "Collaborative Learning Management System (LMS)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

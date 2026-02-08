@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0141",
+  "variant_type": "balance_medium_last",
+  "title": "Fundamentals of Protein-Small Molecule Interaction Modeling",
+  "context": {
+    "prior_knowledge": "Foundational knowledge in biochemistry and molecular biology, understanding of protein structures, and basic computer literacy",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Basic education on protein-small molecule interaction modeling using smartphone-based microlearning platforms. Mobile-optimized content provided for environments without PCs",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "The fundamental principles of protein-small molecule interaction modeling can be explained.",
+    "Structural diversity of protein-ligand complexes can be analyzed using a graph neural network (PLACER)-based tool.",
+    "Ensemble structures generated through modeling can be interpreted to evaluate heterogeneity in molecular interactions."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible simulation tools",
+      "Access to Protein-Small Molecule Interaction Databases (PDB/CSD)",
+      "3D Molecular Visualization Mobile App",
+      "Interactive Modeling Tutorial Video"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

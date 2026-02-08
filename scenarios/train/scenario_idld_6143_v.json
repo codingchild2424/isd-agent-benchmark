@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-6143-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Language Education Course for Integrating Digital Media and Sustainability",
+  "context": {
+    "prior_knowledge": "Basic proficiency in digital tools and intermediate or higher language proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Language project implementation considering the ecological, economic, and social sustainability of digital media based on the TPACK model",
+    "institution_type": "K-12 school",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design sustainability-themed language projects using digital media tools (virtual field trips, smartboards, LLMs)",
+    "Learners propose integrated technology-content-pedagogy strategies for sustainable digital media use based on the TPACK model",
+    "Learners analyze three types of digital media-based language learning materials using a sustainability evaluation rubric across ecological (energy efficiency), economic (cost-effectiveness), and social (cultural diversity) dimensions, and create a suitability judgment report meeting ≥3 points (60%) on a 5-point scale rubric for each material."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "BYOD Devices (Laptops/Tablets)",
+      "Cloud collaboration platform",
+      "Open-Source Digital Authoring Tools",
+      "Sustainability Assessment Checklist Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "AI"
+}

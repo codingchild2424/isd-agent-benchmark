@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4967",
+  "variant_type": "idld_aligned",
+  "title": "Student-AI Collaborative Scientific Inquiry Project",
+  "context": {
+    "prior_knowledge": "Basic science knowledge, digital literacy, and problem-solving skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Collaborative learning using AI tools in smartphone-based limited-technology environments, targeting learners preparing for careers in medical, legal, and technical fields",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Enhance data analysis and error evaluation skills through AI-assisted scientific problem-solving processes",
+    "Develop creative problem-solving strategies while collaborating with AI to address real scientific challenges",
+    "Cultivate decision-making abilities that incorporate ethical considerations and societal impacts when utilizing AI"
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Based AI Application",
+      "Basic Science Experiment Kit",
+      "Online Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

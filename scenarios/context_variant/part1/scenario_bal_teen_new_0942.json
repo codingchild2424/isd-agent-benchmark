@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0942",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Enhancing Elementary Mathematics Competencies via Ontology-Based Personalized Learning Environment Design",
+  "context": {
+    "prior_knowledge": "Basic arithmetic operations and geometry concepts comprehension",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "An ontology-based personalized learning design course for prospective teachers and education aspirants to enhance elementary mathematics teaching competencies. Comprehensive evaluation of learners’ cognitive abilities and conceptual understanding through project-based assessments.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify cognitive strategies required for solving math problems with 80% accuracy using a concept network (CogSkillNet).",
+    "Learners can design personalized learning paths based on ontology-driven feedback and revise them at least three times.",
+    "Learners can create a portfolio visualizing conceptual connections (using a smartphone app) through project-based assessment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mathematics Concept Card Set",
+      "Mobile-Compatible Visualization Tool",
+      "Offline collaborative worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

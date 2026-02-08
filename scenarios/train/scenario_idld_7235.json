@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7235",
+  "variant_type": "idld_aligned",
+  "title": "Reinforcement Learning-Based Autonomous System Obstacle Avoidance Control Design",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Control Theory and Linear Algebra, with Fundamental Programming Proficiency",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Short-term course focusing on core concept delivery for practical application, combining mobile-based theoretical learning with hands-on sessions",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Design a safe obstacle-avoidance control policy within a reinforcement learning framework.",
+    "Implement a controller that ensures system stability through barrier function-based cost function design.",
+    "Validate a real-time obstacle-avoidance algorithm using an Actor-Critic structure in a simulation environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-compatible learning platform",
+      "Simple Simulation Tool",
+      "Educational PDF Materials",
+      "Shared PC for offline practical training"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

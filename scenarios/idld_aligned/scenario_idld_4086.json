@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4086",
+  "variant_type": "idld_aligned",
+  "title": "Machine Learning-Based Energy Efficiency Optimization Design for Arid Climate Dome Structures",
+  "context": {
+    "prior_knowledge": "Foundational architectural design skills, basic thermodynamics concepts, proficiency in parametric modeling tools (Rhino/Grasshopper), and understanding of energy simulation",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Focuses on practical skill acquisition for working professionals, with hands-on practice using digital devices (tablets/laptops)",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Development of a multivariate polynomial regression (MPR) model to predict the thermal performance of dome structures in arid climate conditions.",
+    "Energy efficiency simulation of a composite cladding system (polycarbonate + aluminum) using parametric tools.",
+    "Application of an optimization design process considering both energy and material costs.",
+    "Implementation of an optimized hybrid cladding ratio (10% polycarbonate + 90% aluminum) in actual design cases."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Parametric Modeling Software (Rhino 7, Grasshopper, Honeybee Plugin)",
+      "Energy Simulation Dataset (Based on Arid Climate Regions)",
+      "Optimization Algorithm Learning Materials (Genetic Algorithm, Multivariate Polynomial Regression)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

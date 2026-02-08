@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3030-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Data Science Practical Competencies: Designing Interactive English Learning via Video Conferencing for Taiwanese EFL Contexts",
+  "context": {
+    "prior_knowledge": "Intermediate-Level English Grammar and Vocabulary Comprehension",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can practice math-related English expressions by interacting with native speakers at least three times via video conferencing.",
+    "Learners can create videos explaining math problem-solving processes in English for project-based assessments.",
+    "Learners can report learning motivation and confidence improvements of 4.0/5.0 or higher in post-video-conference surveys."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI framework (TensorFlow/PyTorch)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

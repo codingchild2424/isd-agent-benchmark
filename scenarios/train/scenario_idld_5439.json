@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5439",
+  "variant_type": "idld_aligned",
+  "title": "Electronic Health Record-Based Medication-Related Problem Detection Simulation Training",
+  "context": {
+    "prior_knowledge": "Fundamental principles of pharmacotherapy and understanding of electronic health record (EHR) system interfaces",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Simulation-based learning environments designed for current practitioners to enhance workplace applicability.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can accurately identify at least three types of medication-related problems (MRPs) in a simulated EHR environment.",
+    "Learners can derive and interpret at least two key clinical clues in information-overloaded situations during patient case analysis.",
+    "Learners can apply an evidence-based decision-making framework to evaluate ambiguous EHR information (e.g., conflicting test results) and define MRPs with 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Simulation EHR Platform License",
+      "Virtual Patient Case Database",
+      "Real-Time Video Conferencing Tool (Zoom)",
+      "Online Collaboration Tool (e.g., Miro)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

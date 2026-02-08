@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0337-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Practical Machine Learning Competencies: Blended Learning Design for Enhancing Group Essay Evaluation Skills",
+  "context": {
+    "prior_knowledge": "Basic competency in online collaboration tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify and explain three or more group essay evaluation criteria.",
+    "Learners can analyze online group activity data with 80% or higher accuracy using the Google Docs collaboration system.",
+    "Learners can develop a consistent evaluation framework by comparing assessment results from multiple evaluators (peers/instructors).",
+    "Learners can derive at least three improvement points for the group collaboration process by utilizing version control history."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "AI"
+}

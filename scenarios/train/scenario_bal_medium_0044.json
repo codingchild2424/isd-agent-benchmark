@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0044",
+  "variant_type": "balance_medium_scale",
+  "title": "VR-Based Intensive Neuroanatomy Learning Program",
+  "context": {
+    "prior_knowledge": "Basic life sciences knowledge and fundamental understanding of human anatomy",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Hybrid educational environment combining smartphone-based VR devices with offline workshops.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately identify major neuroanatomical structures (cerebrum, cerebellum, brainstem, etc.) through VR simulations.",
+    "One can explain the nervous system and its key functions using neuroanatomical terminology.",
+    "One can visualize and explain interactions between brain regions and functions in 3D space using VR learning tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible VR Headset",
+      "Neuroanatomy 3D modeling software",
+      "Offline practice brain model",
+      "Learning progress tracking system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

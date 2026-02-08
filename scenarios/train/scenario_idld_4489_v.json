@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4489-V",
+  "variant_type": "context_variant",
+  "title": "Strengthening Machine Learning Practical Skills: Expanding the Scope of Instructional Design and Technology Post-Pandemic",
+  "context": {
+    "prior_knowledge": "Basic instructional design theories and experience operating online learning platforms",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Advanced AI/machine learning technical course for AI/ML practitioners",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify and explain five core concepts in instructional design post-pandemic",
+    "Learners can compare and analyze macro/micro-level instructional design approaches and apply them to corporate language education",
+    "Learners can interpret literature mapping research findings and propose technology-enhanced learning environment strategies to improve learner engagement"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Jupyter Environment",
+      "GPU Cloud Server",
+      "AI Framework"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "AI"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0872",
+  "variant_type": "balance_large_scale_v2",
+  "title": "Multi-Learning Style Customized Design for Online Language Learning in Large-Scale Implementation",
+  "context": {
+    "prior_knowledge": "Basic language comprehension skills and fundamental digital device usage abilities",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Post-VARK model-based learning style diagnosis, providing customized content and optimizing for smartphone environments.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners identify their dominant learning style (visual, auditory, reading-writing, kinesthetic) using the VARK diagnostic tool.",
+    "Learners apply three or more online language-learning strategies (text summarization, audio recording, image association, hands-on practice) aligned with their learning style and achieve 80% or higher comprehension of the material.",
+    "Based on daily language use journals (minimum 3 sentences) and learning style diagnostic results over one week, learners submit personalized learning plans meeting at least four of five instructor-provided checklist items."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible LMS platform",
+      "VARK Learning Style Diagnostic Tool",
+      "Multimodal language learning materials with text/image/audio samples",
+      "Mobile-friendly project submission system"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

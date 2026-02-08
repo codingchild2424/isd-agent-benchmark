@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0595",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Developmental UbD-Based Secondary Mathematics Achievement Simulation Program",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Mathematical Concepts (Equations, Functions, Geometry) and Basic Awareness of Secondary Education Curriculum",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "A secondary mathematics relearning program for adult learners, implementing instructional design that recreates actual classroom environments through VR simulation and applies developmental-stage learning strategies.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze UbD (Understanding by Design) lesson design principles and explain their impact on secondary mathematics achievement",
+    "Solve math problems based on developmental approaches in VR simulations, improving concept application skills by over 80%",
+    "Quantitatively analyze the effectiveness of UbD-based teaching methods through pre-post achievement comparisons"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible VR Learning Platform",
+      "UbD Template and Instructional Materials (PDF)",
+      "Mathematics Achievement Assessment Item Database",
+      "Smartphone-Based Simulation App"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

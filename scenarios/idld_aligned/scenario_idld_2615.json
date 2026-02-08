@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2615",
+  "variant_type": "idld_aligned",
+  "title": "Game-Based Programming Learning Design: Strengthening Mathematical Problem-Solving Competencies",
+  "context": {
+    "prior_knowledge": "Basic programming syntax (variables, conditionals, loops) and high school-level mathematics knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Emphasis on collaborative problem-solving activities using game platforms in online real-time environments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply mathematical logic (set theory, permutations and combinations) with 80% accuracy when designing algorithms in a game-based environment.",
+    "Learners can describe problem-solving strategies in three stages (analysis-implementation-verification) through the level design analysis of programming games.",
+    "Learners can identify and correct three or more logical errors in in-game code implementation through a peer assessment system."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Game-based Learning Platform",
+      "Real-time Code Sharing Tool (e.g., Replit)",
+      "ZOOM Breakout Rooms",
+      "Formative Assessment LMS System"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

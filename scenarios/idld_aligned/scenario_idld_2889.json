@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2889",
+  "variant_type": "idld_aligned",
+  "title": "FAD-Based Mobile Microlearning for Engineering Systems Education",
+  "context": {
+    "prior_knowledge": "Understanding of fundamental engineering systems concepts and mathematical modeling",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Engineering systems competency enhancement program for non-degree-seeking adult learners, conducted in BYOD environments",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can analyze functional components of engineering systems with 80% accuracy using FAD",
+    "Learners successfully model real-world engineering cases with over 70% accuracy by applying FAD-based problem-solving strategies",
+    "Learners independently design system interaction relationships at least three times using FAD tools in mobile environments"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "FAD (Formative Assessment Design) Generation Software",
+      "Engineering Case Database",
+      "Mobile-compatible assessment platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

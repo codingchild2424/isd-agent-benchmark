@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3610-V",
+  "variant_type": "context_variant",
+  "title": "Communication Noise Management Strategies for Educational Materials",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Mathematical Concepts and Experience with Digital Learning Environments",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Program for professionals in medical, legal, and technical fields to improve mathematical problem-solving abilities, emphasizing real-world application through project-based assessment.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can identify three major types of communication noise (semantic errors, factual errors, transmission errors) occurring in educational materials",
+    "Learners can systematically diagnose noise elements in mathematics textbooks using content analysis techniques and classify them with over 80% accuracy",
+    "Learners can apply calibration strategies to minimize noise in project-based assessments, improving final output quality by over 40%"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Noise Analysis Checklist",
+      "Sample Dataset for Mathematics Textbooks",
+      "Collaborative Tools (e.g., Google Docs)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Mathematics"
+}

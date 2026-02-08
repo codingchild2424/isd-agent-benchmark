@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5654-V",
+  "variant_type": "context_variant",
+  "title": "Project-Based Learning Design Utilizing Cognitive Load Theory and Neuroimaging",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Advanced social science course in a limited-technology (smartphone-focused) environment: Learners apply cognitive load theory to real-world instructional design problems",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can design assessment tools to distinguish intrinsic/extrinsic/germane cognitive load under various learning conditions.",
+    "Learners can interpret neuroimaging research findings and propose cognitive load measurement indicators applicable to instructional design.",
+    "Learners can develop a cognitive load-optimized instructional model feasible in limited technological environments through project-based learning."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Based Learning Management System",
+      "Open-Source Cognitive Load Measurement Questionnaire",
+      "Neuroimaging Research Review Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

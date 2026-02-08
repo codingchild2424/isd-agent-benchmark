@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-2439",
+  "variant_type": "idld_aligned",
+  "title": "Project-Based Team Learning for Educational Software Development",
+  "context": {
+    "prior_knowledge": "Basic programming skills and understanding of pedagogical principles",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for pre-service and in-service teachers to strengthen educational software development capabilities. Requires mobile-friendly design feasible in smartphone-centric limited-technology environments",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Complete a team project applying the educational software development process.",
+    "Develop a learning scenario-based app by integrating instructional design theory and software engineering principles.",
+    "Collaboratively implement and present a prototype that solves real-world educational problems."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile Devices",
+      "Cloud-Based Development Tools",
+      "Open-Source Educational Software Template"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-SELF-NEW-0387",
+  "variant_type": "balance_self_filtered",
+  "title": "[Self-Directed] Customized Feedback Design and Application in Large-Scale Language Learning: Text Analysis-Based Language Proficiency Enhancement Approach",
+  "context": {
+    "prior_knowledge": "Basic digital literacy, self-directed learning experience, and intermediate language proficiency (grammar, vocabulary, reading comprehension basics, job-related text understanding).",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Establishing and applying customized feedback strategies using learning analytics tools in job-linked language education for working professionals over 40. Focuses on feedback design reflecting actual language usage contexts such as job-related document writing and presentation delivery. Particularly emphasizes improving vocabulary selection, grammatical accuracy, and expression clarity tailored to job characteristics.",
+    "institution_type": "Vocational training institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners systematically collect and analyze learner-specific language performance data (e.g., vocabulary frequency, grammatical error patterns, text structure analysis) using learning analytics tools.",
+    "Learners design personalized feedback messages reflecting learners' language proficiency levels (reading, writing, listening, speaking) and job-specific characteristics.",
+    "Learners develop the ability to interpret learning analytics indicators (e.g., lexical diversity index, error type distribution, appropriateness of expression) for determining feedback frequency and topic selection.",
+    "Learners can establish a text-based feedback system linked to language proficiency improvement in small-scale digital environments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Analytics Software (e.g., OnTask)",
+      "Digital Devices (Tablet/Laptop)",
+      "Learning Activity Log Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

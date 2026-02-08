@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3659",
+  "variant_type": "idld_aligned",
+  "title": "Wireless Communication Beamforming Design: Machine Learning-Based Approach",
+  "context": {
+    "prior_knowledge": "Wireless communication fundamentals, linear algebra, signal processing, and basic machine learning concepts",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Offline (classroom)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Advanced course delivering machine learning applications to real-world communication system design problems for students in their 30s with higher education backgrounds. Combines theory lectures with practical sessions using digital devices (laptops, etc.)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the operational principles of conventional beamforming techniques (maximum ratio transmission, zero-forcing) in multi-user interference channel environments.",
+    "Learners can define input/output variables of DNN structures and mathematically model optimization problems in machine learning-based beamforming design.",
+    "Learners can numerically analyze and interpret that the proposed beamforming technique achieves performance approaching 99% compared to conventional optimization methods."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python-based machine learning libraries (TensorFlow/Keras)",
+      "MATLAB communication simulation tool",
+      "Lecture Slides and Practical Manuals",
+      "Reference textbooks (digital communication/machine learning-related books)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

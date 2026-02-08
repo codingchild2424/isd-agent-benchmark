@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE3-0250",
+  "variant_type": "balance_large_scale_v3",
+  "title": "Short-Intensive Engineering Education Course Based on Flipped Learning",
+  "context": {
+    "prior_knowledge": "Understanding of elementary engineering concepts and digital device utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Low-cost technology utilization to enhance accessibility of engineering education for general citizens",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain five core engineering concepts with over 80% accuracy using pre-learning materials provided in a flipped learning environment.",
+    "Learners can apply three communication skills required for solving real engineering problems through collaborative activities.",
+    "Learners can submit engineering design process deliverables for each phase with 90% completeness using digital tools in a BYOD environment."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone/Tablet",
+      "Free collaboration tools (e.g., Google Docs)",
+      "LMS platform",
+      "Simple engineering design kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0783",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Digital Twin-Based Language Project Learning Course: Integrated Improvement of Communication, Writing, and Expression Skills",
+  "context": {
+    "prior_knowledge": "Foundational digital tool utilization skills and elementary-level language proficiency (basic grammar, vocabulary, reading comprehension, expression). Understanding of basic writing structures and ability to perform simple text analysis",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Language practice (integrating speaking, listening, reading, writing) and project implementation in virtual-reality-linked environments using personal devices (BYOD). Includes activities such as role-playing in digital twin spaces, virtual interviews, and AR-based writing feedback. Strengthens writing skills through text generation, revision, and sharing during the learning process.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Enhance real-life communication skills (speaking/listening) and text analysis abilities (contextual understanding/vocabulary application) through language practice simulations in a digital twin environment",
+    "Learners form project teams of 4–5 members to create one language learning content piece (including writing/expression elements) utilizing digital twin technologies (e.g., 3D virtual spaces, AR). They must achieve a total score of 80+ based on peer/teacher evaluation criteria (creativity 25%, functionality 25%, linguistic accuracy 30%, collaborative attitude 20%). The content includes assessment items for grammatical accuracy, lexical diversity, and expressive competence",
+    "Learners receive personalized language proficiency diagnostic reports (including vocabulary/grammar/pronunciation/writing assessments) through formative evaluations (weekly quizzes, speaking recordings, writing sample analyses, etc.). Over a 6-month course, they achieve at least a two-level improvement (e.g., CEFR A1 → A2) in writing/speaking domains. Reports include detailed evaluations of reading, listening, and expressive skills"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Twin Platform License",
+      "3D modeling tool",
+      "Virtual lab kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

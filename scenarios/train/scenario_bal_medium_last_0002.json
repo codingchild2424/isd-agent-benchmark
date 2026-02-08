@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-LAST-0002",
+  "variant_type": "balance_medium_last",
+  "title": "Robot-Assisted Interactive English Learning Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic English vocabulary and sentence structure",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Natural English learning environment through robot interaction, utilizing personal devices in a BYOD (Bring Your Own Device) setting.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can utilize over 50 basic English expressions through daily conversation simulations with robots",
+    "Learners can create creative English presentation materials using robots when performing project-based tasks",
+    "Learners improve their English learning motivation by over 30% through robot interaction activities (based on pre- and post-survey evaluations)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Two interactive educational robots",
+      "Customized English learning app",
+      "BYOD-supported WiFi infrastructure",
+      "Speech recognition software"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0374",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Adaptive Feedback-based Virtual Field Learning Design in Earth Science",
+  "context": {
+    "prior_knowledge": "Foundational earth science theory and mathematical analytical skills",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Virtual environment implementation to overcome field learning accessibility limitations. Applies adaptive learning systems using digital devices",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Analyze 3D terrain data on a virtual fieldwork platform to interpret geological structures with 85% accuracy",
+    "Utilize an adaptive feedback system to reduce errors in field survey design to two or fewer within 72 hours",
+    "Through PBL team projects, apply actual field survey methodologies to write academic reports and achieve a peer assessment score of 4.0/5.0 or higher"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headsets (5 Sets)",
+      "Geological Analysis Software License",
+      "3D Topographical Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

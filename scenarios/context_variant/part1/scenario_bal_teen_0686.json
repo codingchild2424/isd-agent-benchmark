@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0686",
+  "variant_type": "balance_teen_k12",
+  "title": "AR-Based Intelligent Network Cabling Practical Training Course [K-12]",
+  "context": {
+    "prior_knowledge": "Understanding of Basic VLAN and Network Switching Concepts, Experience with Physical Cabling Tasks",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical training centered on virtual equipment resembling real switching racks in an augmented reality (AR) environment, with an intelligent tutoring system (ITS) for tracking individual progress.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform four types of VLAN cabling tasks with 90% accuracy by following AR interface guidance.",
+    "Learners can diagnose and correct error causes within three attempts using real-time feedback from ITS (Intelligent Tutoring Systems).",
+    "Learners can independently reconstruct standard cabling procedures without instructions by utilizing checklists and summary information."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "AR-Compatible Smartphone/Tablet",
+      "Virtual Switching Rack Module",
+      "Speech-to-Text Conversion Engine",
+      "Cloud-Based Learner Data Analytics Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

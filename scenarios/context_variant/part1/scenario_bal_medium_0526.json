@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-MEDIUM-0526",
+  "variant_type": "balance_medium_scale",
+  "title": "Machine Learning and Reverse Engineering-Based Aluminum Alloy Design Project",
+  "context": {
+    "prior_knowledge": "Understanding of materials science fundamentals, statistics, programming basics, and machine learning concepts",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Pre-service teachers practice academic research methodologies and develop educational case studies integrating material design and data science techniques",
+    "institution_type": "Graduate school",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can reverse-engineer aluminum alloy compositions using genetic algorithms and machine learning.",
+    "Learners can establish data-driven design strategies by analyzing the correlation between microstructure and mechanical properties.",
+    "Learners can simulate an actual production-scale alloy design process through team projects in a PBL environment."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Jupyter Notebook Environment",
+      "Python Data Analysis Libraries",
+      "Material Database",
+      "Remote Computing Resources"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

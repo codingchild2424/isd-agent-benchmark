@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1523",
+  "variant_type": "idld_aligned",
+  "title": "Metamaterial Design and Machine Learning-Based Photonic Material Prediction Modeling",
+  "context": {
+    "prior_knowledge": "Elementary engineering mechanics and foundational programming knowledge",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Provision of optimized hands-on content in smartphone-based learning environments. Emphasizing mathematical modeling approaches for engineering problem-solving",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the mechanical properties of auxetic materials and the NPR (Negative Poisson’s Ratio) mechanism",
+    "Learners can train a machine learning regression model based on finite element analysis (FEA) results and evaluate optimal deformation prediction errors within 5%",
+    "Learners can establish a gradient metamaterial design process that considers actual manufacturing constraints"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-source machine learning library (e.g., TensorFlow Lite)",
+      "Mobile-compatible simulation tools",
+      "3D printing production guidelines",
+      "Virtual lab dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

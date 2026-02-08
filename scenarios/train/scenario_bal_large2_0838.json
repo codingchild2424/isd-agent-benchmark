@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE2-0838",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-scale] Game-Based Learning Environment Design for Scientific Inquiry",
+  "context": {
+    "prior_knowledge": "Understanding of basic scientific theories and laboratory safety regulations",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners access a virtual science lab using personal devices and experience the scientific inquiry process through gamified elements. They develop the ability to solve real-life scientific problems through collaboration and problem-solving in VR environments",
+    "institution_type": "Graduate school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can perform three or more scientific experiment procedures without errors in a VR-based simulation",
+    "Learners can analyze complex scientific problems and derive solutions through a gamified quest system",
+    "Learners can provide effective feedback using scientific communication skills in collaborative games with peers"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Equipment Rental System",
+      "Customized Game-Based Learning Platform",
+      "Science Simulation Software License"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6168",
+  "variant_type": "idld_aligned",
+  "title": "Scientific Project Exploring Data: Statistical Analysis Competency Development",
+  "context": {
+    "prior_knowledge": "Understanding of basic statistical terms (mean, graphs) and experience with scientific experiments",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Project execution using real scientific data in BYOD (Bring Your Own Device) environments",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can collect and organize diverse scientific data to generate visualizations in three or more formats aligned with analytical objectives",
+    "Students can interpret data distribution characteristics from the perspectives of 'central tendency' and 'spread' and explain their scientific significance",
+    "Students recognize statistical analysis as a scientific inquiry process rather than mere computation and demonstrate the ability to apply it to project-driven questions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science laboratory equipment",
+      "Data Analysis Software (Google Sheets, Excel, etc.)",
+      "Science Research Paper Sample",
+      "Collaboration Tools (e.g., Google Docs)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

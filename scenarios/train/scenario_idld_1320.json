@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-1320",
+  "variant_type": "idld_aligned",
+  "title": "Evidence-Based Basic Life Support (BLS) Training Program",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Cardiopulmonary Resuscitation (CPR) Concepts and Emergency Response Experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Customized BLS training for professionals in medical/legal/technical fields. Implementing a blended learning environment using personal devices (BYOD)",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can apply standard BLS procedures (30:2 compression-to-ventilation ratio) to adult cardiac arrest patients within 3 minutes.",
+    "Learners achieve over 80% accuracy in performing chest compressions with a depth of at least 5 cm during manikin simulation training.",
+    "Learners can demonstrate the procedure for using an automated external defibrillator (AED) with over 90% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "BLS Training Manikin",
+      "AED Simulator",
+      "Mobile Learning App",
+      "BLS Guidelines PDF",
+      "Real-Time Feedback Device"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

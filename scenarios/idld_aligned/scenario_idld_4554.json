@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4554",
+  "variant_type": "idld_aligned",
+  "title": "Augmented Reality-Based Academic Library Utilization Training: Enhancing Workplace Competencies",
+  "context": {
+    "prior_knowledge": "Basic library usage experience and smartphone application skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Program for office workers to improve academic resource search and utilization skills, leveraging augmented reality technology accessible solely via smartphones (no PC required)",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can accurately identify the locations of key academic library services (literature search, material checkout, reference management) in 3D space using an augmented reality app",
+    "Learners can receive recommendations for three or more relevant additional materials in an augmented reality environment based on scanned academic resources via smartphone camera",
+    "Learners can reproduce procedures to locate two types of materials needed for assignments through a 10-minute virtual library tour"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Free Augmented Reality Creation Platform (Unity MARS, AR Foundation)",
+      "Mobile-Friendly Educational Materials",
+      "ZOOM Screen Sharing Feature"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

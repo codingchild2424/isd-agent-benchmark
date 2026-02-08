@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0782",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Advanced Mathematics Concept Course Utilizing Robotics and Block-Based Programming",
+  "context": {
+    "prior_knowledge": "Basic mathematics (coordinate systems, functions) and fundamental programming concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Activity-based learning environment using real-time video conferencing tools, robot simulation, and block coding via personal devices (BYOD)",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Students enhance their ability to apply Cartesian coordinate systems in 2D/3D spaces through robot control simulations.",
+    "Learners can visualize and represent mathematical problem-solving algorithms using block-based programming.",
+    "Participants can explain the practical applicability of abstract mathematical concepts through case analyses in robotics."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Online Robotics Simulation Platform Account",
+      "Block-based programming tools (Scratch, Blockly, etc.)",
+      "Mathematics-robotics integrated worksheet",
+      "Virtual robotics kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

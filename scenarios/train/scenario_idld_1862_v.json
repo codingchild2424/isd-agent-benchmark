@@ -1,0 +1,39 @@
+{
+  "scenario_id": "IDLD-1862-V",
+  "variant_type": "context_variant",
+  "title": "Multi-Agent System Optimization Consensus Tracking: Control Learning and Natural Language Interaction Optimization Based on Linguistic Processing Data",
+  "context": {
+    "prior_knowledge": "Completion of intermediate-level courses in the relevant field or equivalent experience. Foundational knowledge of natural language processing (NLP) (morphological analysis, syntactic parsing, semantic interpretation) and control systems theory. Experience in text-based command processing and multilingual system design",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "An advanced course for engineers responsible for optimizing corporate language processing systems, emphasizing practical learning through real-world industrial applications. Includes case studies on voice/text-based control command interpretation, multilingual system integration, and language model-control system linkages. Analyzes context-based command interpretation and multilingual support system design considering cultural differences.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Definition of tracking error dynamics in multi-agent systems and establishment of optimization strategies for language processing systems through game-theoretic modeling. Strengthening syntactic parsing and semantic interpretation capabilities of text-based control commands",
+    "Learners can design one industrial robot control algorithm using a data-driven error estimator (e.g., Kalman filter) within one week and submit implementation results achieving over 90% simulation accuracy in MATLAB/Simulink. Notably, integration of an NLP-based control command interpretation module optimizes language-machine interaction and ensures multilingual command processing capabilities",
+    "Cultivation of proficiency in distributed optimization control methods combining I/O Q-learning and least squares methods. Efficient processing of text-based control commands and design of multilingual support systems. Enhancement of context-dependent language expression processing and lexical ambiguity resolution skills",
+    "Establishment of control laws enabling optimal consensus tracking without model information. Strengthening probabilistic modeling for language ambiguity resolution and multi-interpretation processing capabilities. Real-time conversion and control system integration of voice/text commands"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible Learning Platform",
+      "Access to simulation software",
+      "Python Control System Library (MATLAB/Python)",
+      "Case-Based Problem Dataset"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

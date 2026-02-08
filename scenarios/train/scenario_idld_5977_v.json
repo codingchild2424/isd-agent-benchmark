@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-5977-V",
+  "variant_type": "context_variant",
+  "title": "Design of Remote Education-Based Elementary Science Project Learning",
+  "context": {
+    "prior_knowledge": "Advanced theoretical knowledge and mastery of high-level application skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Learners Primarily Access Content via Smartphones During Non-Work Hours, with Peer Feedback and Tutor Support Provided During Project Execution",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can independently design 5 science project topics (e.g., plant growth experiments, simple physics experiments) in remote environments.",
+    "Learners can collaborate with peers and share project deliverables using mobile devices.",
+    "Learners can achieve over 80% in summative assessments by applying the scientific inquiry process (e.g., hypothesis formulation → experimentation → analysis → conclusion)."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Mobile-Optimized LMS",
+      "PDF worksheets",
+      "Video Lectures (5-Minute Segments)",
+      "Simplified experiment kit (optional)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE-0248",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-scale] Online-Based Critical Thinking Competency Enhancement Program for Nurses",
+  "context": {
+    "prior_knowledge": "Basic nursing theory knowledge and experience using online learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Asynchronous learning via LMS in a BYOD environment, including problem-solving activities based on real clinical cases",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can derive core nursing issues with 80% accuracy by analyzing clinical scenarios presented in an online learning environment.",
+    "Learners achieve at least 70% competency in articulating critical thinking processes based on peer feedback and instructor evaluations in LMS discussion boards.",
+    "Learners demonstrate a 15% or higher improvement in scores on CCTST-like measurement tools compared to pre-assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS platform",
+      "Virtual clinical case database",
+      "CCTST-Based Assessment Item Set",
+      "Video Lecture Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

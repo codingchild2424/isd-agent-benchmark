@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN2-0619",
+  "variant_type": "balance_teen_v2",
+  "title": "[K-12] Social Cloud-Based Embedded Engineering Creativity Project",
+  "context": {
+    "prior_knowledge": "Basic understanding of electronics and programming concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Building collaborative learning environments using smartphones and social cloud platforms",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can explain the embedded systems design process by dividing it into at least three stages.",
+    "Learners can conduct real-time prototype design with team members using cloud-based collaboration tools.",
+    "Learners can implement a sensor-integrated system with at least two sensors using smartphone-based development tools.",
+    "Learners can iteratively improve project outcomes at least three times through formative assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-based embedded development kit",
+      "Cloud collaboration tools (Google Drive, Notion, etc.)",
+      "Open-source embedded OS (e.g., Arduino, Raspberry Pi)",
+      "Social media platforms (Slack, KakaoTalk Workspace)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

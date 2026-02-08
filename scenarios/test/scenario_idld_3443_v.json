@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3443-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Healthcare Practical Skills: Integrated Augmented Reality (AR) Utilization in Elementary Physical Education",
+  "context": {
+    "prior_knowledge": "Elementary physical education theory, basic digital tool utilization skills, and understanding of the TPACK framework",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical competency enhancement program for medical/nursing field practitioners",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 20s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can apply the core components of the TAM-TPACK framework (PU, PEU, BI, TCK, TPK, TPACK) to the design of elementary physical education AR lessons.",
+    "Learners can analyze the perceived usefulness (PU) and ease of use (PEU) of AR technology to design activities aligned with educational objectives.",
+    "Based on TPACK principles, learners can develop specific instructional procedures that link AR functionalities with physical education curriculum goals."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Clinical Simulation Equipment",
+      "Electronic Medical Record (EMR)",
+      "Medical Protocol Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Medical/Nursing"
+}

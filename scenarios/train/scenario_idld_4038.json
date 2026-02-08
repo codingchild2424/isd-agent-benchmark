@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4038",
+  "variant_type": "idld_aligned",
+  "title": "Mixed Reality-Based Situated Learning Environment Design: Advanced Language Proficiency Course",
+  "context": {
+    "prior_knowledge": "Basic language expression skills and digital device usage experience",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Strengthening language proficiency in virtual environments simulating real-life scenarios",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can perform basic communication scenarios (shopping, travel, social interactions) in the target language with over 80% accuracy in mixed reality environments",
+    "Learners can verbally present three or more real-life language application examples within 72 hours of virtual situational learning",
+    "Learners can utilize appropriate linguistic expressions with 90% frequency in interactions with peer learners through collaborative simulation activities"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "HoloLens 2 or Magic Leap Devices",
+      "Custom Mixed Reality (MR) Learning Scenario Template",
+      "3D Spatial Design Software License"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

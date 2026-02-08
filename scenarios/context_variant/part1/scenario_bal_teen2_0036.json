@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN2-0036",
+  "variant_type": "balance_teen_v2",
+  "title": "Gamification Training for Identifying Construction Site Hazards in [K-12] Settings",
+  "context": {
+    "prior_knowledge": "Understanding of Basic Construction Site Safety Regulations and Work Processes",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Gamification training conducted in a smartphone-based microlearning environment, aimed at enhancing construction site hazard identification capabilities",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify the top 10 construction site hazards with 90% accuracy within three days.",
+    "Learners can select appropriate response procedures within 10 seconds of simulated risk scenarios via gamification simulations.",
+    "Learners can upload and provide feedback on three or more hazard identification cases in the peer assessment system post-training."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible gamification platform",
+      "Construction site 3D VR content (smartphone-optimized)",
+      "Real-time interactive quiz system",
+      "Learner activity data analysis tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

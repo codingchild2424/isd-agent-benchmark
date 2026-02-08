@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4919-V",
+  "variant_type": "context_variant",
+  "title": "Agility Training Design Project Based on Ecological Dynamics",
+  "context": {
+    "prior_knowledge": "Expert-level knowledge and experience in solving complex problems",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Learners experience integrated cognitive-behavioral training in simulated real-game environments and perform data analysis using personal devices in a BYOD setting",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners successfully perform 80% or more of cognitive-behavioral integration training under conditions similar to competitive environments",
+    "Learners design three or more training scenarios applying ecological dynamics principles in team sports (soccer/rugby, etc.)",
+    "Learners provide feedback that improves training effectiveness by 20% or more through analysis of individual agility data"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Motion Sensor Device",
+      "Sports Analytics Software",
+      "Team Sport Equipment",
+      "VR simulation tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Social Studies"
+}

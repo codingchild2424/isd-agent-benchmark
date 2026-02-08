@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-7164",
+  "variant_type": "idld_aligned",
+  "title": "Learning Analytics-Enabled Customized Mathematics Teaching Method Design Workshop",
+  "context": {
+    "prior_knowledge": "Elementary-level basic mathematical knowledge, experience using digital devices",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Supporting foundational mathematics proficiency enhancement and adaptation to digital educational tools for adult learners.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "One can explain methods for providing personalized feedback to learners by interpreting learning analytics data (logs, interaction patterns).",
+    "One can design metrics to measure learning engagement by utilizing multimodal data collected in simulation/VR environments.",
+    "One can execute a process to adjust instructional strategies by analyzing learner interaction data generated in collaborative learning scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Learning Analytics Dashboard Software",
+      "VR Simulation Content",
+      "Tablet PC/Laptop",
+      "Learning Activity Data Collection Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

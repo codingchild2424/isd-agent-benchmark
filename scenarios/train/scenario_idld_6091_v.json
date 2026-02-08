@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-6091-V",
+  "variant_type": "context_variant",
+  "title": "Enhancing Practical Programming Competencies: Designing a Smartphone-Based Blended Language Learning Approach",
+  "context": {
+    "prior_knowledge": "Requirement of intermediate theoretical background and practical experience",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can utilize job-related language expressions with ≥90% accuracy within 8 weeks.",
+    "Learners can provide peer feedback ≥2 times per week in an LMS-based asynchronous discussion forum.",
+    "Learners can engage in self-directed learning of language content (e.g., audio clips, quizzes) ≥3 times per week via mobile devices."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Summative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

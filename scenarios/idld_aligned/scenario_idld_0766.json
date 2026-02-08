@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0766",
+  "variant_type": "idld_aligned",
+  "title": "Mobile-Based Extended Learning Design for Social Science MOOCs",
+  "context": {
+    "prior_knowledge": "Foundational digital literacy and understanding of elementary-level social studies subjects",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Large-scale social studies-integrated microlearning program operating in smartphone-centric limited-technology environments, requiring time-efficient learning design for working professionals",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners achieve over 80% understanding of foundational social studies concepts through 5-minute microlearning modules.",
+    "Learners submit peer-evaluated project assignments at a 100% rate using mobile collaboration tools.",
+    "Learners engage in at least three interactions (comments/sharing) during weekly learning community activities."
+  ],
+  "constraints": {
+    "budget": "low",
+    "resources": [
+      "Smartphone-Compatible LMS",
+      "Offline Activity Guide (PDF)",
+      "Voice-based learning content"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Social Studies"
+}

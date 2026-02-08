@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-3849",
+  "variant_type": "idld_aligned",
+  "title": "Computer Model-Based Science Education Design Project",
+  "context": {
+    "prior_knowledge": "Basic science theory comprehension and computer literacy",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Support for personalized device usage and collaborative learning environments, with continuous feedback via formative assessment",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Cultivating the ability to analyze curricular content using computer models that explain scientific phenomena.",
+    "Acquiring the competency to design and implement modeling-based PBL (Project-Based Learning) projects.",
+    "Developing instructional strategies aligned with learners' comprehension levels when designing computer model-integrated lessons."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Open-source computer modeling tools (e.g., PhET simulations)",
+      "Collaborative platforms (e.g., Google Jamboard)",
+      "Science Education Content Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

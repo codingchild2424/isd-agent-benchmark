@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-5721",
+  "variant_type": "idld_aligned",
+  "title": "Flipped Learning-Based Programming Laboratory Learning Design",
+  "context": {
+    "prior_knowledge": "Foundational programming syntax and algorithm comprehension, with experience using math education software tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online synchronous (Zoom, etc.)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Developing mathematics teaching methods using programming practice environments for pre-service teachers.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Elementary",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can solve programming-based mathematics problems with 80% or higher accuracy through a tiered task hierarchy model.",
+    "Students apply peer feedback and self-reflection three or more times when performing experimental tasks in a flipped learning environment.",
+    "Students demonstrate programming-based mathematics education competencies by achieving an average score of 85 or higher in online practical assessments."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Python/Scratch Educational Platform",
+      "Online Collaboration Tools (Miro, Google Docs)",
+      "Error-Insertion Simulation Kit"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

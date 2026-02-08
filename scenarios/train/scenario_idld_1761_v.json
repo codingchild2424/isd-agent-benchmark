@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-1761-V",
+  "variant_type": "context_variant",
+  "title": "Development Process of High School Mathematics Problem-Solving Strategies Using an Intelligent Tutoring System",
+  "context": {
+    "prior_knowledge": "Completion of advanced studies and experience in executing high-level projects",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Job readiness program improving foundational math competencies for job seekers",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can systematically deconstruct complex mathematical problems and develop step-by-step solution strategies",
+    "Learners enhance error diagnosis and correction abilities by utilizing feedback from an intelligent tutoring system",
+    "Learners can convert real-life problem situations into mathematical models and present logical solutions"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "GeoGebra-based tutorial system",
+      "Online LMS Platform",
+      "Interactive problem-solving worksheets"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Medical/Nursing"
+}

@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-4110",
+  "variant_type": "idld_aligned",
+  "title": "Spatter Phenomenon Analysis and Optimization Project in L-PBF Additive Manufacturing",
+  "context": {
+    "prior_knowledge": "Fundamental metalworking and thermodynamics concepts, high school-level mathematics knowledge",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learning centered on experimental data analysis and visualization using digital devices (laptops, analytical software). Performance of simulation tasks mimicking real industrial problems.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can quantitatively measure spatter particle ejection angles and sizes using high-speed video analysis technology",
+    "Learners can mathematically model how changes in laser power, scanning speed, and energy density affect spatter generation",
+    "Learners can automatically classify spatter patterns in experimental data by applying machine learning-based image segmentation techniques"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "High-Speed Camera Video Dataset",
+      "Python-Based Machine Learning Analysis Tool",
+      "L-PBF Process Simulation Software",
+      "Ti-6Al-4V Metal Powder Properties Datasheet"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Mathematics"
+}

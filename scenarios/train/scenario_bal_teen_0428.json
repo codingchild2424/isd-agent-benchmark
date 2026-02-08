@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-TEEN-0428",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Knowledge Construction-Based Collaborative Learning Design for Online Teacher Professional Development",
+  "context": {
+    "prior_knowledge": "Basic ability to use online learning tools",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Aimed at strengthening online collaborative learning competencies for science teachers, where digital devices are provided to ensure accessibility but challenges like weakened interaction sustainability and low collaboration rates must be addressed.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Professional (medical/legal/technical)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can identify and perform three core roles (facilitator, connector, integrator) that lead the knowledge construction process within online learning communities.",
+    "Learners can collaboratively design science education content with peer teachers and provide feedback using digital tools.",
+    "Learners can achieve over 80% participation in LMS-based discussion activities and maintain knowledge construction levels at an upper (mid/lower) tier or higher."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Science Education Content Templates",
+      "Collaborative Learning Guide",
+      "LMS Discussion Forum",
+      "Asynchronous communication tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

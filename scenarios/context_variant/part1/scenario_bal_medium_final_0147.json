@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-MEDIUM-FINAL-0147",
+  "variant_type": "balance_medium_final",
+  "title": "Teacher Competency Enhancement Program for Game-Based Learning (GBL) Implementation",
+  "context": {
+    "prior_knowledge": "Fundamental game design principles and experience in teaching science subjects",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Focus on developing competencies in designing and operating science curriculum-linked GBL in mobile-centric restricted technological environments",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners will be able to explain the five core game literacies (basic, advanced, design, operational, and evaluative) required for implementing Game-Based Learning (GBL).",
+    "Learners will be able to create and operate GBL scenarios tailored to the characteristics of science subjects using smartphones.",
+    "Learners will be able to measure the effectiveness of GBL activities aligned with learner needs using a three-tier (formative/process/summative) evaluation tool."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-compatible GBL (Game-Based Learning) authoring tools",
+      "Open-source game templates linked to science curricula",
+      "Tablet rental system for practical training"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-4451",
+  "variant_type": "idld_aligned",
+  "title": "Evolution Education Module Utilizing Digital Evolution Simulation",
+  "context": {
+    "prior_knowledge": "Knowledge of basic biology and genetics concepts, along with understanding of mathematical modeling",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A weekend-intensive modular design for working learners, utilizing mobile devices and simulation tools similar to Avida-ED.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can quantitatively explain natural selection mechanisms through digital evolution simulations",
+    "Learners can connect the origins of genetic variation with evolutionary adaptations via simulation data analysis",
+    "Learners can apply mathematical approaches to model evolutionary processes across multiple spatiotemporal scales"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Avida-ED-Like Mobile-Optimized Simulation Platform",
+      "Evolution Concept Visualization Materials",
+      "Collaborative Learning Digital Workspace"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

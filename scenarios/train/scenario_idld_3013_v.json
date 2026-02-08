@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-3013-V",
+  "variant_type": "context_variant",
+  "title": "Intensive Short-Term Course on Software Design Patterns Using Intelligent Tutoring Systems",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Blended learning course performing project-based assessments in smartphone-centric constrained tech environments. Emphasizes design pattern application for real-life problem-solving.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Student",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can explain the concepts and application cases of eight core design patterns (e.g., Singleton, Factory, Observer).",
+    "Learners can analyze simple software problems, select appropriate design patterns, and represent them via UML diagrams.",
+    "Learners can complete team projects reflecting peer feedback and apply design patterns to real-world scenarios."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Smartphone-Compatible Interactive Learning Platform",
+      "Design Pattern Paper Workbook",
+      "Offline Collaboration Tools (Post-it Notes, Whiteboard)"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,38 @@
+{
+  "scenario_id": "BAL-TEEN-1159",
+  "variant_type": "balance_teen_k12",
+  "title": "[K-12] Integrated Hypertrophic Cardiomyopathy (HCM) Instructional Design: Knowledge Transformation Model-Based Approach",
+  "context": {
+    "prior_knowledge": "Basic cardiovascular anatomy and molecular biology knowledge",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "A multidisciplinary approach is needed for integrating medical education curricula. Digital-based learning content and practical sessions should be conducted in parallel.",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "High school",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Can explain the role of DNA hydroxymethylation in the pathogenic mechanisms of HCM",
+    "Can analyze myocardial sarcomere distribution and mitochondrial morphological changes from a histological perspective",
+    "Can interpret genomic expression patterns by comparing HCM patient biopsy specimens with control group data",
+    "Can design an HCM diagnostic framework integrating anatomical, biochemical, and genetic knowledge"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Digital Microscope Virtual Slide Set",
+      "Genome Data Visualization Software",
+      "HCM Patient Case Database",
+      "3D Cardiac Anatomy Modeling Tool"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Social Studies"
+}

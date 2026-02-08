@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-8368",
+  "variant_type": "idld_aligned",
+  "title": "Blended Learning-Based Language Proficiency Enhancement Program for Professionals",
+  "context": {
+    "prior_knowledge": "Basic language proficiency and digital device usage skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practice-oriented language education course for professionals, operated in a BYOD environment with project-based assessments to measure learning outcomes.",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "40s and above",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners acquire intermediate-level language communication skills required in professional work environments.",
+    "Learners adapt to blended learning environments by applying self-directed learning strategies on online platforms.",
+    "Learners can complete practical language projects collaboratively with team members using digital collaboration tools."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LMS System",
+      "Digital Collaboration Tools (Google Workspace, etc.)",
+      "Language Learning Database",
+      "Multimedia Learning Materials"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

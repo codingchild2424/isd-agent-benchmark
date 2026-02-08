@@ -1,0 +1,38 @@
+{
+  "scenario_id": "IDLD-4464-V",
+  "variant_type": "context_variant",
+  "title": "AR-Based Molecular Geometry 3D Spatial Arrangement Educational Program",
+  "context": {
+    "prior_knowledge": "Understanding of basic chemical bonding and molecular structure concepts",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Medium (10-30 learners)",
+    "additional_context": "Learners manipulate 3D molecular geometry arrangements through PBL (Project-Based Learning) in an AR environment using personal devices (BYOD).",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 20s",
+    "learner_education": "High school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Accurately identify and classify 15 basic molecular geometries (based on VSEPR theory) in 3D space using AR tools",
+    "Predict bond angles and stereochemical arrangements with over 90% accuracy by rotating/manipulating molecular models in augmented reality environments",
+    "Present molecular structure visualizations through PBL tasks and achieve peer evaluation scores of 4/5 or higher"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile AR Learning Application (Unity/Unity Reflect-Based)",
+      "3D Molecular Model Library",
+      "PBL Assessment Rubric",
+      "AR-Compatible Tablet/Smartphone"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

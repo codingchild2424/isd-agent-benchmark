@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-5322-V",
+  "variant_type": "context_variant",
+  "title": "Software Development Competency Enhancement: Digital Game-Based Elementary Mathematics Education Capacity Building",
+  "context": {
+    "prior_knowledge": "Completion of advanced courses and extensive practical experience in specialized fields",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Practical Competency Enhancement Program for IT/Software Development Professionals",
+    "institution_type": "K-12 school",
+    "learner_age": "In their 20s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Advanced"
+  },
+  "learning_goals": [
+    "Learners can develop one prototype of an elementary math educational game by applying five DGBL (Digital Game-Based Learning) design principles.",
+    "Learners can measure a 30% reduction in students’ math anxiety index through game-based assessment.",
+    "Learners can create two DGBL lesson designs applicable to real classroom settings via project-based team activities (5-7 member teams)."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "IDE and development tools",
+      "Version control system (Git)",
+      "Cloud-based development environment"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "evaluation_requirement": "형성평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Software Development/IT"
+}

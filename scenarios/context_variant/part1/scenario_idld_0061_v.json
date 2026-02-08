@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0061-V",
+  "variant_type": "context_variant",
+  "title": "VR-Based Deep Learning of Mathematical Concepts: Virtual Reality-Supported Training for Working Professionals",
+  "context": {
+    "prior_knowledge": "Elementary calculus and linear algebra knowledge, basic VR device operation skills",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Online asynchronous (LMS)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Implementation of smartphone-based VR environments, 3D-modeled math concept simulations, and asynchronous collaborative learning spaces",
+    "institution_type": "University (undergraduate)",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Manipulate graphical representations of functions in a 3D virtual space to explain core calculus concepts.",
+    "Perform multi-coordinate system transformations in a VR environment and analyze the geometric meaning of linear transformations.",
+    "Design statistical distribution simulations using virtual laboratory tools and derive analytical results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Google Cardboard-compatible VR device",
+      "WebVR-Based LMS Plugin",
+      "3D Asset Library for Math Simulations"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "evaluation_requirement": "프로젝트 기반 평가",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

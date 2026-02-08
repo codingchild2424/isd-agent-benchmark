@@ -1,0 +1,36 @@
+{
+  "scenario_id": "IDLD-0347",
+  "variant_type": "idld_aligned",
+  "title": "Virtual Reality-Based Pharmacy Education Design for Clinical Reasoning",
+  "context": {
+    "prior_knowledge": "Basic pharmaceutical knowledge and clinical practice experience",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Blended learning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Practice-oriented education for current pharmacists and pharmacy professionals",
+    "institution_type": "Vocational training institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can analyze patient symptoms and drug interactions in a virtual reality environment to formulate appropriate treatment plans.",
+    "Learners improve rapid decision-making skills by experiencing diverse clinical scenarios in VR simulations.",
+    "In a two-week project-based assessment, learners must propose multidisciplinary solutions (medicine: diagnostic protocols, engineering: medical device design, data science: patient data analysis) for at least two of three provided clinical cases and achieve an \"Excellent\" rating (4+ points on a 5-point scale) in four of five rubric criteria: problem definition, appropriateness of approach, creativity, feasibility, and clarity of results."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Headset and Motion Controller",
+      "Clinical Scenario Database",
+      "LMS (Learning Management System) integration platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

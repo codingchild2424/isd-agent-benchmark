@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-TEEN-NEW-0836",
+  "variant_type": "balance_teen_filtered",
+  "title": "[K-12] Simulation/VR-Based Science Project Management Learning",
+  "context": {
+    "prior_knowledge": "Basic science knowledge and experience using online collaboration tools",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Collaborative learning utilizing VR simulations and project management tools in BYOD environments",
+    "institution_type": "K-12 school",
+    "learner_age": "Teens (13-19)",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Students can develop a science project plan within 8 weeks using project management tools such as Kanban boards and Gantt charts.",
+    "Students can complete over 90% of the science experiment design and problem-solving process through real-time collaboration with team members in a VR simulation environment.",
+    "By applying project management methodologies (Agile/Scrum), students can transparently share team role assignments and progress status at over 80% accuracy."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR device rental set",
+      "Project management SaaS platform license",
+      "Science simulation VR content package"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Moderate - Standard complexity with some constraints",
+  "domain": "Science"
+}

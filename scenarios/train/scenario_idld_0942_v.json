@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-0942-V",
+  "variant_type": "context_variant",
+  "title": "Advanced ECG Interpretation Education Program Based on Blended Learning",
+  "context": {
+    "prior_knowledge": "Fundamental nursing knowledge and understanding of biosignal measurement principles",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Project-based learning (PBL)",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Blended learning environment combining personal-device-based online modules with offline simulation workshops, featuring team projects based on real clinical cases",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "In their 30s",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can interpret the basic waveforms and clinical significance of 12-lead ECGs with 85% accuracy",
+    "Learners can distinguish ECG patterns by arrhythmia type and explain emergency response protocols.",
+    "Learners can apply ECG interpretation skills to real-world clinical scenarios through PBL team projects."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Electrocardiogram (ECG) Simulation Software",
+      "Digital Learning Management System (LMS)",
+      "Real-World Clinical Case Database"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "evaluation_requirement": "총괄평가 중심",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Language"
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-1191",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Collaborative Science Learning Scenario Design Based on Educational Modeling Language",
+  "context": {
+    "prior_knowledge": "Comprehension of fundamental science concepts and proficiency in digital tool utilization",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Team-based science learning scenario development using collaborative design tools in VR simulation environments",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Middle school",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners can design science learning scenarios using IMS LD-based visual editing tools.",
+    "Learners can verify the logical structure of scenarios through real-time interactions with team members via collaboration tools.",
+    "Learners can implement designed scenarios in VR simulation environments and present them as project deliverables."
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "LPCEL Editor License",
+      "VR Headset and Motion Controller",
+      "Cloud-based Collaboration Platform"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}

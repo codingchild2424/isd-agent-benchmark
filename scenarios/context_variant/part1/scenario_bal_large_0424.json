@@ -1,0 +1,36 @@
+{
+  "scenario_id": "BAL-LARGE-0424",
+  "variant_type": "balance_large_scale",
+  "title": "[Large-Scale] Data-Driven Decision-Making and Simulation Modeling Workshop for Sports Coaching Policy Development: Statistical and Probability Modeling Approaches",
+  "context": {
+    "prior_knowledge": "Foundational knowledge of education policy, basic principles of sports coaching, leadership theories, basic statistical analysis (mean/variance/standard deviation/confidence intervals), understanding of data visualization, and foundational concepts of probability distributions",
+    "duration": "Mid-term course (2-4 weeks)",
+    "learning_environment": "Simulation/VR-based",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "Teachers/pre-service teachers experience sports coaching policy development using VR simulation data in smartphone-limited environments, proposing practical implementation plans through project-based assessments. Verifies policy effectiveness via statistical analyses (normal/binomial distribution, scatterplots/histograms).",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "In their 30s",
+    "learner_education": "University",
+    "learner_role": "Pre-service/In-service teacher",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners analyze performance data of sports organizations to identify cultural change patterns and establish policy development strategies using statistical inference (regression analysis/hypothesis testing)",
+    "Learners collect and analyze stakeholder interaction data during VR simulation-based coaching policy implementation, and can write a report explaining prediction results based on probabilistic models (Bayesian networks/Monte Carlo simulations) with 80% accuracy",
+    "Learners design and evaluate sports education policy optimization models (linear/nonlinear programming) using real sports data (e.g., athlete training records, game results) through small-scale team projects"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "VR Educational App (Mobile-Compatible)",
+      "Policy Case Database",
+      "Collaborative Learning Guide"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Limited tech environment (no PC, smartphone only)",
+    "assessment_type": "Project-based assessment"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Mathematics"
+}

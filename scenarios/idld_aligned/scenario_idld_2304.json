@@ -1,0 +1,37 @@
+{
+  "scenario_id": "IDLD-2304",
+  "variant_type": "idld_aligned",
+  "title": "Designing Personalized Online Language Education Based on Learning Analytics",
+  "context": {
+    "prior_knowledge": "Basic digital literacy and intermediate language proficiency",
+    "duration": "Long-term course (1-6 months)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Small (1-10 learners)",
+    "additional_context": "Aims to enhance workplace language competencies for managers/leaders. Applies a personalized content recommendation system based on individual learning patterns and achievement data.",
+    "institution_type": "Corporate/Enterprise",
+    "learner_age": "40s and above",
+    "learner_education": "Adult learner (non-degree)",
+    "learner_role": "Office worker (administrative/management)",
+    "domain_expertise": "Intermediate"
+  },
+  "learning_goals": [
+    "Learners can enhance their workplace language communication skills by 30% within six months",
+    "Through personalized learning data analysis, learners receive recommendations for at least two customized microlearning contents weekly",
+    "Formative assessments enable diagnosing and addressing learning gaps every two weeks"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile Learning Management System (LMS)",
+      "Learning Analytics Tools",
+      "Custom Content Creation Template",
+      "Real-time feedback feature"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Digital devices provided",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Hard - Complex requirements with multiple constraints",
+  "domain": "Language"
+}

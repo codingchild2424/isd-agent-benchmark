@@ -1,0 +1,37 @@
+{
+  "scenario_id": "BAL-LARGE2-0030",
+  "variant_type": "balance_large_scale_v2",
+  "title": "[Large-Scale] Online Scientific Inquiry: Critical Thinking and Collaborative Learning",
+  "context": {
+    "prior_knowledge": "Foundational science concepts and basic digital device utilization skills",
+    "duration": "Short-term intensive (within 1 week)",
+    "learning_environment": "Mobile microlearning",
+    "class_size": "Large (30+ learners)",
+    "additional_context": "A course for general citizens to strengthen scientific literacy, providing asynchronous learning environments accessible via mobile devices.",
+    "institution_type": "Public/Non-profit educational institution",
+    "learner_age": "40s and above",
+    "learner_education": "Elementary",
+    "learner_role": "Student",
+    "domain_expertise": "Beginner"
+  },
+  "learning_goals": [
+    "Learners will perform critical analysis on scientific topics presented in online discussions",
+    "Learners will collaborate with peers to write blog posts outlining scientific problem-solving solutions",
+    "Learners will provide peer feedback in three or more formats using digital platforms"
+  ],
+  "constraints": {
+    "budget": "medium",
+    "resources": [
+      "Mobile-Compatible LMS (Learning Management System)",
+      "Open-Source Discussion Platform",
+      "Science Experiment Video Library",
+      "Image/Video Editing Tools"
+    ],
+    "accessibility": null,
+    "language": "en",
+    "tech_requirements": "Bring Your Own Device (BYOD)",
+    "assessment_type": "Formative assessment-focused"
+  },
+  "difficulty": "Easy - Simple structure with minimal constraints",
+  "domain": "Science"
+}
