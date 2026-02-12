@@ -8,7 +8,7 @@ Train/Test 데이터셋 분리 스크립트
 사용법:
     python split_train_test.py [--dry-run] [--seed 42]
 
-관련 이슈: #90
+층화 추출(Stratified Sampling)을 통해 분포를 유지합니다.
 """
 
 import argparse
@@ -32,7 +32,7 @@ TEST_DIR = SCENARIOS_DIR / "test"
 METADATA_FILE = SCENARIOS_DIR / "split_metadata.json"
 REPORT_DIR = SCENARIOS_DIR / "quality_reports"
 
-# 층화 추출에 사용할 9개 축 (이슈 #90 요구사항)
+# 층화 추출에 사용할 9개 축
 STRATIFY_AXES = [
     "context.duration",
     "context.learning_environment",

@@ -10,8 +10,7 @@
     - 직장인 + 기업 + 온라인 비실시간
     - 연구원 + 연구소 + 자기주도
 
-Issue #42 구현
-Issue #43 개선: variant_type 메타데이터 추가
+variant_type 메타데이터를 포함한 컨텍스트 변형 생성 지원
 """
 
 import random

@@ -963,7 +963,7 @@ class ADDIERubricEvaluator:
         )
 
     def _generate_context_guidelines(self, scenario: dict) -> str:
-        """학습자 맥락 기반 동적 평가 지침 생성 (Issue #3 Dual-Track)"""
+        """학습자 맥락 기반 동적 평가 지침 생성 (Dual-Track)"""
         context = scenario.get("context", {})
         target = context.get("target_audience", "")
         prior = context.get("prior_knowledge", "")
@@ -1130,7 +1130,7 @@ class ADDIERubricEvaluator:
             f"제약조건: {scenario.get('constraints', {})}",
         ]
 
-        # 학습자 맥락 지침 추가 (Issue #3 Dual-Track)
+        # 학습자 맥락 지침 추가 (Dual-Track)
         context_guidelines = self._generate_context_guidelines(scenario)
 
         return "\n".join(parts) + context_guidelines

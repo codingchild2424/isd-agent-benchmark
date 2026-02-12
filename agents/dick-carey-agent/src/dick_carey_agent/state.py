@@ -16,7 +16,7 @@ LangGraph StateGraph에서 사용됩니다.
 9. 교수프로그램 수정 (Revision)
 10. 총괄평가 실시 (Summative Evaluation)
 
-ADDIE 33개 소항목 완전성 확보 (이슈 #64):
+ADDIE 33개 소항목 완전성 확보:
 - A-1 ~ A-10: Analysis 단계
 - D-11 ~ D-18: Design 단계
 - Dev-19 ~ Dev-23: Development 단계
@@ -459,7 +459,7 @@ class DickCareyState(TypedDict, total=False):
     max_iterations: int           # 최대 반복 횟수 (기본값: 3)
     quality_threshold: float      # 품질 기준 점수 (기본값: 7.0)
     revision_triggered: bool      # 수정 트리거 여부
-    quality_score_history: List[float]  # 점수 이력 (#73 성능 최적화)
+    quality_score_history: List[float]  # 점수 이력
 
     # 상태 관리
     current_phase: DickCareyPhase

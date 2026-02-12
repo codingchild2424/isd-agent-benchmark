@@ -304,14 +304,14 @@ class TestGenerateVariantSet:
     """지정 컨텍스트 변형 생성 테스트"""
 
     def test_generate_variant_set_basic(self, smart_selector):
-        """이슈 #42 예시와 같은 지정 변형 생성"""
+        """지정 컨텍스트로 변형 생성"""
         seed = ScenarioSeed(
             topic="머신러닝 기초 교육",
             pedagogical_method="실습 기반",
             categories=["IT/Computer Science"],
         )
 
-        # 이슈의 V1~V4 예시와 유사한 타겟 컨텍스트
+        # V1~V4 예시와 유사한 타겟 컨텍스트
         target_contexts = [
             {
                 "learner_age": "20대",
@@ -397,7 +397,7 @@ class TestRealScenarios:
     """실제 시나리오 기반 테스트"""
 
     def test_ml_education_variants(self, smart_selector):
-        """이슈 #42의 머신러닝 교육 예시"""
+        """머신러닝 교육 변형 생성 예시"""
         seed = ScenarioSeed(
             topic="머신러닝 기초 교육",
             pedagogical_method="프로젝트 기반 학습",

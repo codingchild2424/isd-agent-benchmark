@@ -190,5 +190,3 @@ export GOOGLE_API_KEY="your-api-key"
 ## 참조
 
 - [구현 계획](plan.md)
-- [참고문서 - Benchmark Development](../참고문서%20/Benchmark%20Development.md)
-- [Context Matrix - 교수설계 축](../참고문서%20/Context%20Matrix%20-%20교수설계%20축.csv)

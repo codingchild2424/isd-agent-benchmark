@@ -64,7 +64,7 @@ class ScenarioSchema:
     """
     시나리오 JSON 스키마 (기존 형식 준수)
 
-    variant_type 필드 (Issue #43):
+    variant_type 필드:
         - "idld_aligned": IDLD 논문의 맥락과 일치하는 전형적인 조합
         - "context_variant": 컨텍스트를 의도적으로 변형한 확장 케이스
     """

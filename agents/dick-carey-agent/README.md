@@ -158,8 +158,7 @@ dick-carey-agent/
 
 ## 참고 자료
 
-- Dick, W., Carey, L., & Carey, J. O. (2009). *체계적 교수설계*. 최수영, 백영균, 설양환 공역. 서울: 아카데미 프레스(7판)
-- 관련 이슈: 원본 저장소 이슈 #56 참조
+- Dick, W., Carey, L., & Carey, J. O. (2009). *The Systematic Design of Instruction* (7th ed.). Pearson.
 
 ## 라이센스
 

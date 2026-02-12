@@ -25,7 +25,7 @@ KOREAN_DIR = SCENARIOS_DIR / "idld_aligned"
 ENGLISH_DIR = SCENARIOS_DIR / "idld_aligned_en"
 AXIS_MAPPING_FILE = SCENARIOS_DIR / "axis_mapping_ko_en.json"
 
-# 불균형 축 정의 (이슈 #92 기반)
+# 불균형 축 정의
 IMBALANCED_AXES = {
     "difficulty": {
         "target_ratio": {"쉬움 - 단순한 구조, 제약조건 최소": 0.33,
