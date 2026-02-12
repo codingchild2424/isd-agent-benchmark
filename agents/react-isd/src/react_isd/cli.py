@@ -70,7 +70,7 @@ def export_slides_to_marp(
     try:
         # shared/utils/marp_exporter 임포트
         # cli.py 위치: agents/react-isd/src/react_isd/cli.py
-        # project_root: 3. ISD Agent Benchmark (5단계 상위)
+        # project_root: 프로젝트 루트 (5단계 상위)
         project_root = Path(__file__).parent.parent.parent.parent.parent
         sys.path.insert(0, str(project_root))
         from shared.utils.marp_exporter import export_to_file

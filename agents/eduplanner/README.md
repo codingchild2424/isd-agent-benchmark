@@ -45,12 +45,12 @@ eduplanner info
 
 ## 참고
 
-- 논문: EduPlanner (Zc0812/Edu_Planner)
+- 논문: EduPlanner (Zhang et al., 2025)
 - ADDIE Rubric 평가 기준: Analysis(3), Design(3), Development(3), Implementation(2), Evaluation(2) - 총 13항목
 
 ## 구현 검증 (Verification & Alignment)
 
-본 구현체는 [Zc0812/Edu_Planner](https://github.com/Zc0812/Edu_Planner)와 관련 논문의 아키텍처를 계승하되, **ISD Agent Benchmark**의 목적에 맞춰 적용 범위를 확장하였습니다.
+본 구현체는 EduPlanner 논문의 아키텍처를 계승하되, **ISD Agent Benchmark**의 목적에 맞춰 적용 범위를 확장하였습니다.
 
 ### 원본과의 공통점 (Aligned)
 - **3-Agent 협업 구조**: Evaluator, Optimizer, Analyst(Question Analyst 계승)의 3자 협업 체제 유지

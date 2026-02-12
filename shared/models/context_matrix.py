@@ -108,7 +108,7 @@ class ContextMatrix:
     def _get_default_csv_path() -> Path:
         """기본 CSV 경로 반환"""
         current_dir = Path(__file__).parent
-        # shared/models/ → 3. ISD Agent Benchmark/
+        # shared/models/ → project root
         benchmark_dir = current_dir.parent.parent
         return benchmark_dir / "참고문서 " / "Context Matrix - 컨텍스트 축.csv"
 

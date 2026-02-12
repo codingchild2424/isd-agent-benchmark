@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://upstage.ai/isd-benchmark/input-schema.json",
+  "$id": "input-schema.json",
   "title": "ISD Agent 입력 시나리오 스키마",
   "description": "교수설계 Agent에 전달되는 입력 시나리오의 JSON 스키마",
   "type": "object",

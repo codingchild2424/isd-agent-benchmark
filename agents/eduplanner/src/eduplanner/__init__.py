@@ -7,12 +7,10 @@ EduPlanner: 3-Agent 기반 교수설계 시스템
 References:
     - EduPlanner: LLM-Based Multi-Agent Systems for Customized and
       Intelligent Instructional Design (Zhang et al., 2025)
-    - https://github.com/Zc0812/Edu_Planner
 """
 
 # Python 3.14 + LangChain Pydantic V1 호환성 경고 필터링
 # LangChain Core가 내부적으로 pydantic.v1을 사용하여 Python 3.14에서 경고 발생
-# 참고: https://github.com/blackdew/upstage_isd_agent/issues/72
 import warnings
 warnings.filterwarnings("ignore", message=".*Pydantic V1.*")
 

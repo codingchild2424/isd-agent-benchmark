@@ -11,7 +11,6 @@ Usage:
 
 # Python 3.14 + LangChain Pydantic V1 호환성 경고 필터링
 # LangChain Core가 내부적으로 pydantic.v1을 사용하여 Python 3.14에서 경고 발생
-# 참고: https://github.com/blackdew/upstage_isd_agent/issues/72
 import warnings
 warnings.filterwarnings("ignore", message=".*Pydantic V1.*")
 
@@ -87,7 +86,7 @@ def export_slides_to_marp(
     try:
         # shared/utils/marp_exporter 임포트
         # cli.py 위치: agents/eduplanner/src/eduplanner/cli.py
-        # project_root: 3. ISD Agent Benchmark (5단계 상위)
+        # project_root: 프로젝트 루트 (5단계 상위)
         project_root = Path(__file__).parent.parent.parent.parent.parent
         sys.path.insert(0, str(project_root))
         from shared.utils.marp_exporter import export_to_file

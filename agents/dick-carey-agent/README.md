@@ -34,7 +34,7 @@ Dick & Carey 모형의 **체제적 교수설계(Systems Approach)** 10단계 프
 ## 설치
 
 ```bash
-cd "3. ISD Agent Benchmark/agents/dick-carey-agent"
+cd agents/dick-carey-agent
 uv venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 uv pip install -e .
@@ -129,7 +129,7 @@ print(f"최종 결정: {result['metadata']['final_decision']}")
 ## 테스트
 
 ```bash
-cd "3. ISD Agent Benchmark/agents/dick-carey-agent"
+cd agents/dick-carey-agent
 pytest tests/ -v
 ```
 
@@ -159,7 +159,7 @@ dick-carey-agent/
 ## 참고 자료
 
 - Dick, W., Carey, L., & Carey, J. O. (2009). *체계적 교수설계*. 최수영, 백영균, 설양환 공역. 서울: 아카데미 프레스(7판)
-- 관련 이슈: [#56](https://github.com/blackdew/upstage_isd_agent/issues/56)
+- 관련 이슈: 원본 저장소 이슈 #56 참조
 
 ## 라이센스
 

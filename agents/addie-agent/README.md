@@ -34,7 +34,7 @@ ADDIE 모형(Analysis-Design-Development-Implementation-Evaluation) 기반의 �
 ## 설치
 
 ```bash
-cd "3. ISD Agent Benchmark/agents/addie-agent"
+cd agents/addie-agent
 uv venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 uv pip install -e .
